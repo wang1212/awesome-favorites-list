@@ -19,9 +19,13 @@
     - [Free CDN](#free-cdn)
     - [图片压缩](#图片压缩)
     - [GIS 工具](#gis-工具)
+    - [Web 优化](#web-优化)
 - [Books](#books)
 - [Software](#software)
 - [Open Source Projects](#open-source-projects)
+  - [Web](#web)
+  - [GIS](#gis)
+  - [学习资源](#学习资源)
 - [Other Resources](#other-resources)
 
 ## Websites
@@ -58,6 +62,8 @@
 ### 编程技巧
 
 - [Bash Pitfalls](http://mywiki.wooledge.org/BashPitfalls) - 此页面汇总了 Bash 用户常犯的编程错误。
+- [COMMANDLINEFU.COM](https://www.commandlinefu.com/commands/browse) - 汇集了很多优秀的、充满智慧的、简洁的命令行命令。
+- [Perfection Kills](http://perfectionkills.com/)
 
 ### 在线工具
 
@@ -83,6 +89,11 @@
 
 - [mapshaper](https://mapshaper.org/) - 在线地图数据编辑工具，支持 Shapefile、GeoJSON、TopoJSON、DBF 和 CSV 格式。
 
+#### Web 优化
+
+- [Varvy SEO tool](https://varvy.com/) - 一个在线网站 SEO、性能检测工具，提供优化建议和技巧。
+- [PageSpeed Insights](https://developers.google.com/speed/pagespeed/insights/) - Google 提供的在线网站性能检测工具，提供优化建议和技巧。
+
 [Go Top ↑](#awesome-favorites-list)
 
 ## Books
@@ -100,14 +111,25 @@
 
 ## Open Source Projects
 
+### Web
+
 - [React.js](https://reactjs.org/) - Facebook 开源的一款前端 UI 框架，是目前前端主流开发框架之一，技术生态极其庞大，且有 FaceBook 这样的大型成功商业项目案例。
+
+### GIS
+
+- [Turf.js](http://turfjs.org/) - 一个开源的提供给浏览器和 Node.js 平台进行高级空间分析的工具库。
+
+### 学习资源
+
+- [30 seconds](https://github.com/30-seconds) - 30 seconds 是一个系列，包含 JS、React、CSS 相关的编程技巧。
+- [33 js concepts](https://github.com/leonardomso/33-js-concepts) - 包含了丰富的 JavaScript 相关的知识概念，学习资源。
+- [掘金翻译计划](https://github.com/xitu/gold-miner) - 掘金翻译计划，可能是世界最大最好的英译中技术社区，最懂读者和译者的翻译平台。
 
 [Go Top ↑](#awesome-favorites-list)
 
 ## Other Resources
 
 - [GitHub Guides](https://guides.github.com/) - Github 的官方指南页面，可以帮助开发者系统迅速的了解 Github 及其简单的用法。
-- [掘金翻译计划](https://github.com/xitu/gold-miner) - 掘金翻译计划，可能是世界最大最好的英译中技术社区，最懂读者和译者的翻译平台。
 - [Npm Trends](https://www.npmtrends.com/) - 非官方网站，可以查询对比多个 Npm 包的下载流量数据、star 数目等。
 - [Npm Charts](https://npmcharts.com/) - 非官方网站，可以查询对比多个 Npm 包的下载流量数据、star 数目等。
 - [html 中文网](https://www.html.cn/) - 国内一个提供 Web 开发技术学习课程收费服务的网站，有大量免费学习资源。
