@@ -1,7 +1,7 @@
 <div align="center">
   <h1>Awesome-Favorites-List</h1>
 
-  <p>:heart: 我自己的收藏列表 - :+1: 很棒的开源项目，网站，资源，软件等。</p>
+  <p>:heart: 我自己的收藏列表 - :+1: 很棒的开源项目，网站，书籍，软件等资源。</p>
 </div>
 
 <br />
@@ -11,33 +11,46 @@
 ## Contents
 
 - [Websites](#websites)
-  - [官方标准](#官方标准)
+  - [技术标准](#技术标准)
+  - [技术文档](#技术文档)
+- [Books](#books)
 - [Software](#software)
 - [Open Source Projects](#open-source-projects)
-- [Resources](#resources)
+- [Other Resources](#other-resources)
 
 ## Websites
 
-### 官方标准
-
-:page_with_curl: 这是一些官方网站或者非商业性网站，供开发者来查询一些技术标准和实现情况。
+### 技术标准
 
 - [W3C](https://www.w3.org/) - 万维网联盟创建于 1994 年，是 Web 技术领域最具权威和影响力的国际中立性技术标准机构。
 - [ECMA International](http://www.ecma-international.org/) - ECMA 国际是一家国际性会员制度的信息和电信标准组织，负责行业标准的制定，例如 ECMA Script。
 - [Chrome Blink status](https://www.chromestatus.com/) - Google Chrome 的 Blink 引擎功能特性的官方实现和标准化的开发状态查询列表。
 - [Firefox status](https://platform-status.mozilla.org/) - Firefox 的 Web 平台功能的官方实现和标准化路线图查询列表。
 - [Webkit](https://webkit.org/) - Webkit 浏览器引擎的官方网站，可查询其功能特性的实现和标准化状态。
-- [Can I use](https://caniuse.com/) - 非商业性网站，可查询特定 Web API（H5、CSS3）在各个浏览器平台的实现和标准化状态。
-- [Npm Trends](https://www.npmtrends.com/) - 非商业性网站，可以查询对比多个 Npm 包的下载流量数据、star 数目等。
-- [Npm Charts](https://npmcharts.com/) - 非商业性网站，可以查询对比多个 Npm 包的下载流量数据、star 数目等。
+- [Can I use](https://caniuse.com/) - 非官方网站，可以查询特定 Web API（H5、CSS3）在各个浏览器平台的实现和标准化状态。
+- [Npm Trends](https://www.npmtrends.com/) - 非官方网站，可以查询对比多个 Npm 包的下载流量数据、star 数目等。
+- [Npm Charts](https://npmcharts.com/) - 非官方网站，可以查询对比多个 Npm 包的下载流量数据、star 数目等。
+
+### 技术文档
+
+- [MDN Developer Document](https://developer.mozilla.org/en-US/) - MDN Web Docs 网站提供开放网络（Open Web）技术有关的信息，包括用于网站和渐进式网络应用的 HTML、CSS 和 API，是提供给 Web 开发者最好的学习资料和技术文档。
+- [jQuery API 中文文档](http://jquery.cuishifeng.cn/) - 非官方网站，一个国内开发者维护的 jQuery API 中文文档，非常实用。
+- [GeoJSON 格式规范说明](https://www.oschina.net/translate/geojson-spec?cmp) - OSChina 上一个开发者发布的 GeoJSON 格式规范说明的中英文对照翻译。
+
+[Go Top ↑](#awesome-favorites-list)
+
+## Books
+
+- [Advanced Bash-Scripting Guide](http://tldp.org/LDP/abs/html/) - 《高级 Bash 脚本编程指南》，一本开源书籍。
 
 [Go Top ↑](#awesome-favorites-list)
 
 ## Software
 
-[Go Top ↑](#awesome-favorites-list)
-
 - [VS Code](https://code.visualstudio.com/) - 微软开源的一款轻量级开发工具，功能很强大，深受开发者的青睐，是 Web 前端开发者的工作利器。
+- [Sublime Text](http://www.sublimetext.com/) - 一款开源的轻量级编辑器，功能非常强大，是在 VS Code、Atom 出现之前最受开发者欢迎的编辑器。
+
+[Go Top ↑](#awesome-favorites-list)
 
 ## Open Source Projects
 
@@ -45,7 +58,7 @@
 
 [Go Top ↑](#awesome-favorites-list)
 
-## Resources
+## Other Resources
 
 - [GitHub Guides](https://guides.github.com/) - Github 的官方指南页面，可以帮助开发者系统迅速的了解 Github 及其简单的用法。
 
