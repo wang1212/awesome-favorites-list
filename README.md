@@ -6,7 +6,7 @@
 
 <br />
 
-推荐一个其它的很棒的收藏列表项目，:point_right: https://github.com/sindresorhus/awesome
+推荐一个其它的很棒的收藏列表，:point_right: https://github.com/sindresorhus/awesome
 
 ## Contents
 
@@ -145,7 +145,7 @@
 ### 项目构建工具
 
 - Web/Node.js
-  - [webpack](https://webpack.js.org/)
+  - [webpack](https://webpack.js.org/) - 目前最流行的 Web 前端项目自动化构建工具。
   - [WorkBox](https://developers.google.com/web/tools/workbox/) - Google 专门为构建 PWA （渐进式 Web 应用）提供的一套开发工具，支持多个平台，并提供了方便的 webpack 插件。
   - [Babel](https://babeljs.io/) - JS 编译工具，可将其它语言（TypeScript、ES6）代码编译为 JavaScript 代码。
   - [Sass](https://sass-lang.com/) - CSS 预处理器，可提供类似编程语言的能力（变量、方法、作用域、嵌套）来编写 CSS。
