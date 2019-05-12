@@ -18,11 +18,11 @@
 
 ## Websites
 
-[Go Top ↑](#awesome-favorites-list)
-
 ### 官方标准
 
 :page_with_curl: 这是一些官方网站或者非商业性网站，供开发者来查询一些技术标准和实现情况。
+
+[Go Top ↑](#awesome-favorites-list)
 
 - [W3C](https://www.w3.org/) - 万维网联盟创建于 1994 年，是 Web 技术领域最具权威和影响力的国际中立性技术标准机构。
 
