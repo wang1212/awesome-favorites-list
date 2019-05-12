@@ -22,9 +22,13 @@
     - [Web 优化](#web-优化)
 - [Books](#books)
 - [Software](#software)
+  - [IDE/编辑器](#ide-编辑器)
+  - [源代码版本控制工具](#源代码版本控制工具)
 - [Open Source Projects](#open-source-projects)
   - [Web 开发](#web-开发)
   - [GIS 开发](#gis-开发)
+  - [包管理器](#包管理器)
+  - [项目构建工具](#项目构建工具)
   - [学习资源](#学习资源)
 - [Other Resources](#other-resources)
 
@@ -104,8 +108,16 @@
 
 ## Software
 
+### IDE 编辑器
+
 - [VS Code](https://code.visualstudio.com/) - 微软开源的一款轻量级开发工具，功能很强大，深受开发者的青睐，是 Web 前端开发者的工作利器。
-- [Sublime Text](http://www.sublimetext.com/) - 一款开源的轻量级编辑器，功能非常强大，是在 VS Code、Atom 出现之前最受开发者欢迎的编辑器。
+- [Sublime Text](http://www.sublimetext.com/) - 一款开源的轻量级编辑器，功能很强大，是在 VS Code、Atom 出现之前最受开发者欢迎的编辑器。
+- [Eclipse](https://www.eclipse.org/) - 开源的重量级编辑器，功能非常强大，是 Java 开发者中使用最多的 IDE。
+
+### 源代码版本控制工具
+
+- [Git](https://git-scm.com/) - 目前最受欢迎的，使用最广泛的分布式源代码版本控制工具。
+- [Tortoise SVN](https://tortoisesvn.net/) - SVN 是一种传统的中心化管理的源代码版本控制工具，Tortoise SVN 提供了 GUI 来使用 SVN。
 
 [Go Top ↑](#awesome-favorites-list)
 
@@ -118,6 +130,28 @@
 ### GIS 开发
 
 - [Turf.js](http://turfjs.org/) - 一个开源的提供给浏览器和 Node.js 平台进行高级空间分析的工具库。
+
+### 包管理器
+
+- Web/JavaScript/Node.js
+  - [npm](https://www.npmjs.com/)
+  - [Yarn](https://yarnpkg.com/)
+  - [Bower](https://bower.io/)
+- Python
+  - [pip](https://pypi.org/project/pip/)
+- Ruby
+  - [RubyGems](https://rubygems.org/)
+  
+### 项目构建工具
+
+- Web/Node.js
+  - [webpack](https://webpack.js.org/)
+  - [WorkBox](https://developers.google.com/web/tools/workbox/) - Google 专门为构建 PWA （渐进式 Web 应用）提供的一套开发工具，支持多个平台，并提供了方便的 webpack 插件。
+  - [Babel](https://babeljs.io/) - JS 编译工具，可将其它语言（TypeScript、ES6）代码编译为 JavaScript 代码。
+  - [Sass](https://sass-lang.com/) - CSS 预处理器，可提供类似编程语言的能力（变量、方法、作用域、嵌套）来编写 CSS。
+  - [PostCSS](https://postcss.org/) - CSS 后处理器，提供众多插件来实现还未被广泛实现和标准化的 CSS 功能特性，最终将其编译为目标平台支持的 CSS 代码。
+  - [Gulp](https://gulpjs.com/)
+  - [Grunt](https://gruntjs.com/)
 
 ### 学习资源
 
