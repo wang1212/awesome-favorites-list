@@ -26,9 +26,15 @@
   - [源代码版本控制工具](#源代码版本控制工具)
 - [Open Source Projects](#open-source-projects)
   - [Web 开发](#web-开发)
+    - [JS 工具库](#js-工具库)
+    - [CSS 库](#css-库)
+    - [数据可视化](#数据可视化)
+    - [React](#react)
   - [GIS 开发](#gis-开发)
+    - [Web GIS](#web-gis)
   - [包管理器](#包管理器)
   - [项目构建工具](#项目构建工具)
+  - [字体图标](#字体图标)
   - [学习资源](#学习资源)
 - [Other Resources](#other-resources)
 
@@ -125,10 +131,49 @@
 
 ### Web 开发
 
+#### JS 工具库
+
+- [jQuery](https://jquery.com/) - 前几年非常流行的 DOM 操作工具库，处理了兼容性的细节问题。
+- [Lodash](https://lodash.com/) - JavaScript 的工具函数库，提供了大量非常有用的工具函数，并采用惰性计算优化了性能。
+- [axios](https://github.com/axios/axios) - 基于 Promise 的 HTTP 客户端工具库。
+
+#### 数据可视化
+
+- [Chart.js](https://www.chartjs.org/) - 最流行的轻量级图表库。
+- [Echarts](http://echarts.apache.org/) - 国内百度团队开发的图表库，功能丰富。
+- [D3](https://d3js.org/) - 数据驱动的可视化库，非常著名，许多图表库基于此开发。
+- [C3](https://c3js.org/) - 基于 D3 的可重用图表库。
+
+#### CSS 库
+
+- [Normalize](http://necolas.github.io/normalize.css/) - 现代化的 Reset CSS 工具库，统一浏览器默认样式。
+- [Bootstrap](https://getbootstrap.com/) - 最流行的 CSS UI 框架。
+- [Materialize](https://materializecss.com/) - 最流行的实现了 Google Material Design 的 CSS UI 框架。
+- [Material Design Lite](https://getmdl.io/) - Google 官方实现的基于 Material Design 的轻量级 CSS UI 框架。
+- [Material Components Web](https://material.io/develop/) - Google 官方实现的基于 Material Design 的 Web 组件库。
+- [UIkit](https://getuikit.com/) - 轻量级的现代化前端 CSS 框架。
+- [Pure.CSS](https://purecss.io/) - 一组小的，响应式的 CSS 模块。
+
+#### React
+
 - [React.js](https://reactjs.org/) - Facebook 开源的一款前端 UI 框架，是目前前端主流开发框架之一，技术生态极其庞大，且有 FaceBook 这样的大型成功商业项目案例。
+- [Redux](https://redux.js.org/) - Redux 是一个应用状态管理工具库，它本身是可以和任何库结合使用的，但通常提到它均是认为和 React.js 一块使用，需要配合 react-redux 使用。
+- [Redux-Thunk](https://github.com/reduxjs/redux-thunk) - 作为一个 Redux 的中间件存在，提供了异步支持。
+- [Redux-Logger](https://github.com/LogRocket/redux-logger) - 作为一个 Redux 的中间件存在，提供了打印日志调试功能。
+- [React-Router](https://reacttraining.com/react-router/) - 前端路由工具库。
+- [React-Loadable](https://github.com/jamiebuilds/react-loadable) - React 高阶组件，提供了组件懒加载功能的实现，并处理了细节问题。
+- [Material UI](https://material-ui.com/) - React 组件库，实现了 Google Material Design。
+- [reactstrap](https://reactstrap.github.io/) - Bootstrap 4 的 React 组件库的**非官方实现**。
 
 ### GIS 开发
 
+#### Web GIS
+
+- [Leaflet](https://leafletjs.com/) - 目前最流行的、移动端优先、轻量级 Web GIS 开源框架。
+- [Esri Leaflet](https://github.com/Esri/esri-leaflet) - 作为一个 Leaflet 插件存在，用于在 Leaflet 中使用 ArcGIS 服务的一组轻量级工具，为官方实现。
+- [Openlayers](https://openlayers.org/) - 一个开源的、高性能、功能丰富的二维地图引擎。
+- [Cesium.js](https://cesiumjs.org/) - 目前最具优势的、功能丰富的开源三维地图引擎。
+- [Mapbox GL](https://docs.mapbox.com/mapbox-gl-js/overview/) - 一个开源的、基于 WebGL 技术的现代化地图引擎，由 MapBox 公司进行持续维护。
 - [Turf.js](http://turfjs.org/) - 一个开源的提供给浏览器和 Node.js 平台进行高级空间分析的工具库。
 
 ### 包管理器
@@ -152,6 +197,17 @@
   - [PostCSS](https://postcss.org/) - CSS 后处理器，提供众多插件来实现还未被广泛实现和标准化的 CSS 功能特性，最终将其编译为目标平台支持的 CSS 代码。
   - [Gulp](https://gulpjs.com/)
   - [Grunt](https://gruntjs.com/)
+
+### 字体图标
+
+- 图标
+  - [Font Awesome](https://fontawesome.com/)
+  - [Material Icons](https://material.io/tools/icons/) - Google 官方提供的 Material Design 风格的图标库。
+  - [Material Design Icons](http://materialdesignicons.com/) - 遵循 Google Material Design 的图标库，**非官方实现**。
+  - [Flat Icon](https://www.flaticon.com/)
+  - [Icons8](https://icons8.com/) - 提供免费的图标设计工具。
+- 字体
+  - [Source Code Pro](https://github.com/adobe-fonts/source-code-pro) - Adobe 出品的开源等宽字体，适合编程使用。
 
 ### 学习资源
 
