@@ -1,8 +1,8 @@
-<p align="center" style="text-align:center;">
+<div align="center">
   <h1>Awesome-Favorites-List</h1>
 
   <p>:heart: 我自己的收藏列表 - :+1: 很棒的开源项目，网站，资源，软件等。</p>
-</p>
+</div>
 
 <br />
 
@@ -11,6 +11,7 @@
 ## Contents
 
 - [Websites](#websites)
+  - [官方标准](#官方标准)
 - [Software](#software)
 - [Open Source Projects](#open-source-projects)
 - [Resources](#resources)
