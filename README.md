@@ -15,6 +15,10 @@
   - [技术文档](#技术文档)
   - [论坛社区](#论坛社区)
   - [编程技巧](#编程技巧)
+  - [在线工具](#在线工具)
+    - [Free CDN](#free-cdn)
+    - [图片压缩](#图片压缩)
+    - [GIS 工具](#gis-工具)
 - [Books](#books)
 - [Software](#software)
 - [Open Source Projects](#open-source-projects)
@@ -54,6 +58,30 @@
 ### 编程技巧
 
 - [Bash Pitfalls](http://mywiki.wooledge.org/BashPitfalls) - 此页面汇总了 Bash 用户常犯的编程错误。
+
+### 在线工具
+
+#### Free CDN
+
+- 国外
+  - [jsDelivr](https://www.jsdelivr.com/)
+  - [UNPKG](https://unpkg.com/)
+- 国内
+  - [BootCDN](https://www.bootcdn.cn/)
+  - [Staticfile CDN](https://staticfile.org/)
+
+#### 图片压缩
+
+- [Compress PNG](https://compresspng.com/)
+- [Picdiet](https://www.picdiet.com/)
+- [TinyPNG](https://tinypng.com/)
+- [Optimizilla](https://imagecompressor.com/)
+- [压缩图](https://www.yasuotu.com/)
+- [色彩笔](http://www.secaibi.com/tools/)
+
+#### GIS 工具
+
+- [mapshaper](https://mapshaper.org/) - 在线地图数据编辑工具，支持 Shapefile、GeoJSON、TopoJSON、DBF 和 CSV 格式。
 
 [Go Top ↑](#awesome-favorites-list)
 
