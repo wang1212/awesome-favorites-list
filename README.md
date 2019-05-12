@@ -23,8 +23,8 @@
 - [Books](#books)
 - [Software](#software)
 - [Open Source Projects](#open-source-projects)
-  - [Web](#web)
-  - [GIS](#gis)
+  - [Web 开发](#web-开发)
+  - [GIS 开发](#gis-开发)
   - [学习资源](#学习资源)
 - [Other Resources](#other-resources)
 
@@ -111,11 +111,11 @@
 
 ## Open Source Projects
 
-### Web
+### Web 开发
 
 - [React.js](https://reactjs.org/) - Facebook 开源的一款前端 UI 框架，是目前前端主流开发框架之一，技术生态极其庞大，且有 FaceBook 这样的大型成功商业项目案例。
 
-### GIS
+### GIS 开发
 
 - [Turf.js](http://turfjs.org/) - 一个开源的提供给浏览器和 Node.js 平台进行高级空间分析的工具库。
 
