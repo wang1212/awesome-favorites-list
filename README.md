@@ -134,5 +134,7 @@
 - [Npm Charts](https://npmcharts.com/) - 非官方网站，可以查询对比多个 Npm 包的下载流量数据、star 数目等。
 - [html 中文网](https://www.html.cn/) - 国内一个提供 Web 开发技术学习课程收费服务的网站，有大量免费学习资源。
 - [WebGL 中文网](http://www.hewebgl.com/) - 国内一个提供 WebGL 开发技术学习课程收费服务的网站，有部分免费教程、技术文档。
+- [句子迷](https://www.juzimi.com/)
+- [古诗文网](https://www.gushiwen.org/)
 
 [Go Top ↑](#awesome-favorites-list)
