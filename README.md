@@ -14,7 +14,7 @@
   - [技术标准](#技术标准)
   - [技术文档](#技术文档)
   - [论坛社区](#论坛社区)
-  - [学习技巧](#学习技巧)
+  - [编程技巧](#编程技巧)
 - [Books](#books)
 - [Software](#software)
 - [Open Source Projects](#open-source-projects)
@@ -30,8 +30,6 @@
 - [Firefox status](https://platform-status.mozilla.org/) - Firefox 的 Web 平台功能的官方实现和标准化路线图查询列表。
 - [Webkit](https://webkit.org/) - Webkit 浏览器引擎的官方网站，可查询其功能特性的实现和标准化状态。
 - [Can I use](https://caniuse.com/) - 非官方网站，可以查询特定 Web API（H5、CSS3）在各个浏览器平台的实现和标准化状态。
-- [Npm Trends](https://www.npmtrends.com/) - 非官方网站，可以查询对比多个 Npm 包的下载流量数据、star 数目等。
-- [Npm Charts](https://npmcharts.com/) - 非官方网站，可以查询对比多个 Npm 包的下载流量数据、star 数目等。
 
 ### 技术文档
 
@@ -46,8 +44,14 @@
 
 - [OSGeo](https://www.osgeo.org/) - 开源空间信息基金会（Open Source Geospatial Foundation，简称 OSGeo）是一个全球性非营利性组织，目标是支持全球性的合作，建立和推广高品质的空间信息开源软件。
 - [OSGeo 中国中心](https://www.osgeo.cn/) - OSGeo 中国中心是由国家遥感中心发起、Autodesk 中国有限公司协助，经 OSGeo 正式授权的非营利性组织。OSGeo 中国中心的使命是支持开源地理信息软件和遥感软件的开发以及推动其更广泛的应用，尤其是帮助中国地区的用户和开发者更好地使用 OSGeo 基金会提供的源代码、产品及服务。
+- [Stack Overflow](https://stackoverflow.com/) - 全球的程序员学习、分享，技术问答社区网站。
+- [SegmentFault](https://segmentfault.com/) - 国内一个类似 Stack Overflow 的程序员技术学习，问答社区网站。
+- [OSChina](https://www.oschina.net/) - 国内中文开源技术交流社区。
+- [掘金社区](https://juejin.im/) - 国内一个帮助开发者成长的社区，有很多优质的技术文章。
+- [图灵社区](http://www.ituring.com.cn/) - 国内一个出版计算机类相关书籍的社区，外文书翻译质量非常高，拥有很好的用户口碑。
+- [慕课网](https://www.imooc.com/) - 国内一个提供计算机开发技术学习课程收费服务的网站，有大量免费优质学习资源。
 
-### 学习技巧
+### 编程技巧
 
 - [Bash Pitfalls](http://mywiki.wooledge.org/BashPitfalls) - 此页面汇总了 Bash 用户常犯的编程错误。
 
@@ -75,6 +79,10 @@
 ## Other Resources
 
 - [GitHub Guides](https://guides.github.com/) - Github 的官方指南页面，可以帮助开发者系统迅速的了解 Github 及其简单的用法。
-- [WebGL 中文网](http://www.hewebgl.com/) - 国内的一个 WebGL 学习网站，有部分免费教程、技术文档，提供收费课程服务。
+- [掘金翻译计划](https://github.com/xitu/gold-miner) - 掘金翻译计划，可能是世界最大最好的英译中技术社区，最懂读者和译者的翻译平台。
+- [Npm Trends](https://www.npmtrends.com/) - 非官方网站，可以查询对比多个 Npm 包的下载流量数据、star 数目等。
+- [Npm Charts](https://npmcharts.com/) - 非官方网站，可以查询对比多个 Npm 包的下载流量数据、star 数目等。
+- [html 中文网](https://www.html.cn/) - 国内一个提供 Web 开发技术学习课程收费服务的网站，有大量免费学习资源。
+- [WebGL 中文网](http://www.hewebgl.com/) - 国内一个提供 WebGL 开发技术学习课程收费服务的网站，有部分免费教程、技术文档。
 
 [Go Top ↑](#awesome-favorites-list)
