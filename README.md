@@ -24,6 +24,7 @@
 - [Software](#software)
   - [IDE/编辑器](#ide-编辑器)
   - [源代码版本控制工具](#源代码版本控制工具)
+  - [开发辅助工具](#开发辅助工具)
 - [Open Source Projects](#open-source-projects)
   - [Web 前端开发](#web-前端开发)
     - [JS 工具库](#js-工具库)
@@ -32,6 +33,8 @@
     - [React](#react)
   - [桌面端开发](#桌面端开发)
   - [服务器端开发](#服务器端开发)
+    - [服务器](#服务器)
+    - [开发框架](#开发框架)
   - [GIS 开发](#gis-开发)
     - [Web GIS](#web-gis)
   - [包管理器](#包管理器)
@@ -131,6 +134,10 @@
 - [Git](https://git-scm.com/) - 目前最受欢迎的，使用最广泛的分布式源代码版本控制工具。
 - [Tortoise SVN](https://tortoisesvn.net/) - SVN 是一种传统的中心化管理的源代码版本控制工具，Tortoise SVN 提供了 GUI 来使用 SVN。
 
+### 开发辅助工具
+
+- [Postman](https://www.getpostman.com/) - 一个非常棒的 API 管理工具。
+
 [Go Top ↑](#awesome-favorites-list)
 
 ## Open Source Projects
@@ -177,12 +184,15 @@
 
 ### 服务器端开发
 
-- 服务器
-  - [Nginx](http://nginx.org/en/) - 轻量级、高性能、高并发的 Web 服务器，主要作为负载均衡、反向代理、静态资源服务的前端服务器。
-  - [Apache](http://httpd.apache.org/)
-  - [Tomcat](http://tomcat.apache.org/) - Java Web 开发中的 Servlet 容器。
-- 开发框架
-  - [Express](http://expressjs.com/) - 基于 Node.js 技术的 Web 服务器端开源框架。
+#### 服务器
+
+- [Nginx](http://nginx.org/en/) - 轻量级、高性能、高并发的 Web 服务器，主要作为负载均衡、反向代理、静态资源服务的前端服务器。
+- [Apache](http://httpd.apache.org/)
+- [Tomcat](http://tomcat.apache.org/) - Java Web 开发中的 Servlet 容器。
+
+#### 开发框架
+
+- [Express](http://expressjs.com/) - 基于 Node.js 技术的 Web 服务器端开源框架。
 
 ### GIS 开发
 
@@ -210,12 +220,17 @@
 
 - Web/Node.js
   - [webpack](https://webpack.js.org/) - 目前最流行的 Web 前端项目自动化构建工具。
+  - [Gulp](https://gulpjs.com/)
+  - [Grunt](https://gruntjs.com/)
   - [WorkBox](https://developers.google.com/web/tools/workbox/) - Google 专门为构建 PWA （渐进式 Web 应用）提供的一套开发工具，支持多个平台，并提供了方便的 webpack 插件。
   - [Babel](https://babeljs.io/) - JS 编译工具，可将其它语言（TypeScript、ES6）代码编译为 JavaScript 代码。
   - [Sass](https://sass-lang.com/) - CSS 预处理器，可提供类似编程语言的能力（变量、方法、作用域、嵌套）来编写 CSS。
   - [PostCSS](https://postcss.org/) - CSS 后处理器，提供众多插件来实现还未被广泛实现和标准化的 CSS 功能特性，最终将其编译为目标平台支持的 CSS 代码。
-  - [Gulp](https://gulpjs.com/)
-  - [Grunt](https://gruntjs.com/)
+  - [JEST](https://jestjs.io/) - Facebook 出品的 JavaScript 单元测试工具。
+  - [Flow](https://flow.org/) - Facebook 出品的一个 JavaScript 静态类型检查工具。
+  - [ESLint](https://eslint.org/) - JavaScript 语法规则检查工具。
+  - [JSDoc](https://jsdoc.app/) - JavaScript 的 API 文档生成工具。
+  - [Browsersync](https://www.browsersync.io/) - 浏览器同步调式工具，功能非常强大。
 
 ### 字体图标
 
