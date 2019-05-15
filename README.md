@@ -24,12 +24,17 @@
 - [Software](#software)
   - [IDE/编辑器](#ide-编辑器)
   - [源代码版本控制工具](#源代码版本控制工具)
+  - [开发辅助工具](#开发辅助工具)
 - [Open Source Projects](#open-source-projects)
-  - [Web 开发](#web-开发)
+  - [Web 前端开发](#web-前端开发)
     - [JS 工具库](#js-工具库)
     - [CSS 库](#css-库)
     - [数据可视化](#数据可视化)
     - [React](#react)
+  - [桌面端开发](#桌面端开发)
+  - [服务器端开发](#服务器端开发)
+    - [服务器](#服务器)
+    - [开发框架](#开发框架)
   - [GIS 开发](#gis-开发)
     - [Web GIS](#web-gis)
   - [包管理器](#包管理器)
@@ -55,6 +60,7 @@
 - [w3schools](https://www.w3schools.com/) - 国外一个非常棒的 Web 技术学习资源网站。（须翻墙）
 - [w3school](http://www.w3school.com.cn/) - 国内一个仿国外 w3schools 的 Web 技术学习资源网站。
 - [菜鸟教程](http://www.runoob.com/) - 国内另一个仿国外 w3schools 的 Web 技术学习资源网站。
+- [Node.js 中文网](http://nodejs.cn/) - 唯一与官方同步更新的 Node.js 中文文档。
 - [jQuery API 中文文档](http://jquery.cuishifeng.cn/) - 一个国内开发者维护的 jQuery API 中文文档，非常实用。
 - [GeoJSON 格式规范说明](https://www.oschina.net/translate/geojson-spec?cmp) - OSChina 上一个开发者发布的 GeoJSON 格式规范说明的中英文对照翻译。
 
@@ -63,6 +69,8 @@
 - [OSGeo](https://www.osgeo.org/) - 开源空间信息基金会（Open Source Geospatial Foundation，简称 OSGeo）是一个全球性非营利性组织，目标是支持全球性的合作，建立和推广高品质的空间信息开源软件。
 - [OSGeo 中国中心](https://www.osgeo.cn/) - OSGeo 中国中心是由国家遥感中心发起、Autodesk 中国有限公司协助，经 OSGeo 正式授权的非营利性组织。OSGeo 中国中心的使命是支持开源地理信息软件和遥感软件的开发以及推动其更广泛的应用，尤其是帮助中国地区的用户和开发者更好地使用 OSGeo 基金会提供的源代码、产品及服务。
 - [Stack Overflow](https://stackoverflow.com/) - 全球的程序员学习、分享，技术问答社区网站。
+- [Ruby China](https://ruby-china.org/) - 由众多爱好者共同维护的 Ruby 中文社区。
+- [CNode 社区](https://cnodejs.org/) - CNode 社区由一批热爱 Node.js 技术的工程师发起，致力于 Node.js 的技术研究。
 - [SegmentFault](https://segmentfault.com/) - 国内一个类似 Stack Overflow 的程序员技术学习，问答社区网站。
 - [OSChina](https://www.oschina.net/) - 国内中文开源技术交流社区。
 - [掘金社区](https://juejin.im/) - 国内一个帮助开发者成长的社区，有很多优质的技术文章。
@@ -109,6 +117,7 @@
 ## Books
 
 - [Advanced Bash-Scripting Guide](http://tldp.org/LDP/abs/html/) - 《高级 Bash 脚本编程指南》，一本开源书籍。
+- [The Book Of Ruby](http://www.sapphiresteel.com/ruby-programming/The-Book-Of-Ruby.html) - 一本关于 Ruby 编程的开源书籍，涉及知识概念很全面。:point_right: [简体中文翻译](https://wang1212.github.io/the-book-of-ruby/#/0-homepage.html)
 
 [Go Top ↑](#awesome-favorites-list)
 
@@ -125,11 +134,42 @@
 - [Git](https://git-scm.com/) - 目前最受欢迎的，使用最广泛的分布式源代码版本控制工具。
 - [Tortoise SVN](https://tortoisesvn.net/) - SVN 是一种传统的中心化管理的源代码版本控制工具，Tortoise SVN 提供了 GUI 来使用 SVN。
 
+### 开发辅助工具
+
+- [Postman](https://www.getpostman.com/) - 一个非常棒的 API 管理工具。
+
 [Go Top ↑](#awesome-favorites-list)
 
 ## Open Source Projects
 
-### Web 开发
+### Web 前端开发
+
+#### JS 工具库
+
+- [jQuery](https://jquery.com/) - 前几年非常流行的 DOM 操作工具库，处理了兼容性的细节问题。
+- [Lodash](https://lodash.com/) - JavaScript 的工具函数库，提供了大量非常有用的工具函数，并采用惰性计算优化了性能。
+- [axios](https://github.com/axios/axios) - 基于 Promise 的 HTTP 客户端工具库。
+- [crypto-js](https://github.com/brix/crypto-js) - JavaScript 加密库。
+- [SJCL](http://bitwiseshiftleft.github.io/sjcl/) - JavaScript 加密库。
+
+#### 数据可视化
+
+- [Chart.js](https://www.chartjs.org/) - 最流行的轻量级图表库。
+- [Echarts](http://echarts.apache.org/) - 国内百度团队开发的图表库，功能丰富。
+- [D3](https://d3js.org/) - 数据驱动的可视化库，非常著名，许多图表库基于此开发。
+- [C3](https://c3js.org/) - 基于 D3 的可重用图表库。
+
+#### CSS 库
+
+- [Normalize](http://necolas.github.io/normalize.css/) - 现代化的 Reset CSS 工具库，统一浏览器默认样式。
+- [Bootstrap](https://getbootstrap.com/) - 最流行的 CSS UI 框架。
+- [Materialize](https://materializecss.com/) - 最流行的实现了 Google Material Design 的 CSS UI 框架。
+- [Material Design Lite](https://getmdl.io/) - Google 官方实现的基于 Material Design 的轻量级 CSS UI 框架。
+- [Material Components Web](https://material.io/develop/) - Google 官方实现的基于 Material Design 的 Web 组件库。
+- [UIkit](https://getuikit.com/) - 轻量级的现代化前端 CSS 框架。
+- [Pure.CSS](https://purecss.io/) - 一组小的，响应式的 CSS 模块。
+
+#### React
 
 #### JS 工具库
 
@@ -165,6 +205,22 @@
 - [Material UI](https://material-ui.com/) - React 组件库，实现了 Google Material Design。
 - [reactstrap](https://reactstrap.github.io/) - Bootstrap 4 的 React 组件库的**非官方实现**。
 
+### 桌面端开发
+
+- [Electron](https://electronjs.org/) - 基于 Node.js 与 Chromium 技术的开源跨平台桌面端应用开发解决方案，对 Web 前端开发人员友好。
+
+### 服务器端开发
+
+#### 服务器
+
+- [Nginx](http://nginx.org/en/) - 轻量级、高性能、高并发的 Web 服务器，主要作为负载均衡、反向代理、静态资源服务的前端服务器。
+- [Apache](http://httpd.apache.org/)
+- [Tomcat](http://tomcat.apache.org/) - Java Web 开发中的 Servlet 容器。
+
+#### 开发框架
+
+- [Express](http://expressjs.com/) - 基于 Node.js 技术的 Web 服务器端开源框架。
+
 ### GIS 开发
 
 #### Web GIS
@@ -191,12 +247,17 @@
 
 - Web/Node.js
   - [webpack](https://webpack.js.org/) - 目前最流行的 Web 前端项目自动化构建工具。
+  - [Gulp](https://gulpjs.com/)
+  - [Grunt](https://gruntjs.com/)
   - [WorkBox](https://developers.google.com/web/tools/workbox/) - Google 专门为构建 PWA （渐进式 Web 应用）提供的一套开发工具，支持多个平台，并提供了方便的 webpack 插件。
   - [Babel](https://babeljs.io/) - JS 编译工具，可将其它语言（TypeScript、ES6）代码编译为 JavaScript 代码。
   - [Sass](https://sass-lang.com/) - CSS 预处理器，可提供类似编程语言的能力（变量、方法、作用域、嵌套）来编写 CSS。
   - [PostCSS](https://postcss.org/) - CSS 后处理器，提供众多插件来实现还未被广泛实现和标准化的 CSS 功能特性，最终将其编译为目标平台支持的 CSS 代码。
-  - [Gulp](https://gulpjs.com/)
-  - [Grunt](https://gruntjs.com/)
+  - [JEST](https://jestjs.io/) - Facebook 出品的 JavaScript 单元测试工具。
+  - [Flow](https://flow.org/) - Facebook 出品的一个 JavaScript 静态类型检查工具。
+  - [ESLint](https://eslint.org/) - JavaScript 语法规则检查工具。
+  - [JSDoc](https://jsdoc.app/) - JavaScript 的 API 文档生成工具。
+  - [Browsersync](https://www.browsersync.io/) - 浏览器同步调式工具，功能非常强大。
 
 ### 字体图标
 
