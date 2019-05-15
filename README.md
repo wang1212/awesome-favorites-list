@@ -171,6 +171,31 @@
 
 #### React
 
+#### JS 工具库
+
+- [jQuery](https://jquery.com/) - 前几年非常流行的 DOM 操作工具库，处理了兼容性的细节问题。
+- [Lodash](https://lodash.com/) - JavaScript 的工具函数库，提供了大量非常有用的工具函数，并采用惰性计算优化了性能。
+- [axios](https://github.com/axios/axios) - 基于 Promise 的 HTTP 客户端工具库。
+
+#### 数据可视化
+
+- [Chart.js](https://www.chartjs.org/) - 最流行的轻量级图表库。
+- [Echarts](http://echarts.apache.org/) - 国内百度团队开发的图表库，功能丰富。
+- [D3](https://d3js.org/) - 数据驱动的可视化库，非常著名，许多图表库基于此开发。
+- [C3](https://c3js.org/) - 基于 D3 的可重用图表库。
+
+#### CSS 库
+
+- [Normalize](http://necolas.github.io/normalize.css/) - 现代化的 Reset CSS 工具库，统一浏览器默认样式。
+- [Bootstrap](https://getbootstrap.com/) - 最流行的 CSS UI 框架。
+- [Materialize](https://materializecss.com/) - 最流行的实现了 Google Material Design 的 CSS UI 框架。
+- [Material Design Lite](https://getmdl.io/) - Google 官方实现的基于 Material Design 的轻量级 CSS UI 框架。
+- [Material Components Web](https://material.io/develop/) - Google 官方实现的基于 Material Design 的 Web 组件库。
+- [UIkit](https://getuikit.com/) - 轻量级的现代化前端 CSS 框架。
+- [Pure.CSS](https://purecss.io/) - 一组小的，响应式的 CSS 模块。
+
+#### React
+
 - [React.js](https://reactjs.org/) - Facebook 开源的一款前端 UI 框架，是目前前端主流开发框架之一，技术生态极其庞大，且有 FaceBook 这样的大型成功商业项目案例。
 - [Redux](https://redux.js.org/) - Redux 是一个应用状态管理工具库，它本身是可以和任何库结合使用的，但通常提到它均是认为和 React.js 一块使用，需要配合 react-redux 使用。
 - [Redux-Thunk](https://github.com/reduxjs/redux-thunk) - 作为一个 Redux 的中间件存在，提供了异步支持。
