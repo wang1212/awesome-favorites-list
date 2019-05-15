@@ -149,6 +149,8 @@
 - [jQuery](https://jquery.com/) - 前几年非常流行的 DOM 操作工具库，处理了兼容性的细节问题。
 - [Lodash](https://lodash.com/) - JavaScript 的工具函数库，提供了大量非常有用的工具函数，并采用惰性计算优化了性能。
 - [axios](https://github.com/axios/axios) - 基于 Promise 的 HTTP 客户端工具库。
+- [crypto-js](https://github.com/brix/crypto-js) - JavaScript 加密库。
+- [SJCL](http://bitwiseshiftleft.github.io/sjcl/) - JavaScript 加密库。
 
 #### 数据可视化
 
