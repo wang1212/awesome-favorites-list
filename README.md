@@ -25,6 +25,7 @@
   - [IDE/编辑器](#ide-编辑器)
   - [源代码版本控制工具](#源代码版本控制工具)
   - [开发辅助工具](#开发辅助工具)
+  - [Chrome 扩展程序](https://github.com/wang1212/awesome-favorites-list/blob/master/awesome-chrome-extension-list.md)
 - [Open Source Projects](#open-source-projects)
   - [Web 前端开发](#web-前端开发)
     - [JS 工具库](#js-工具库)
