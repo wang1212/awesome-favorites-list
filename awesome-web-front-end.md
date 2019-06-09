@@ -6,7 +6,7 @@
 
 <br />
 
-推荐看看 W3C 官方网站，:point_right: https://www.w3.org/
+推荐看看 W3C（World Wide Web Consortium，万维网联盟） 官方网站，:point_right: https://www.w3.org/
 
 ## Contents
 
