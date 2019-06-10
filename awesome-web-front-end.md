@@ -11,6 +11,7 @@
 ## Contents
 
 - [HTML](#html)
+  - [工具库](#工具库)
 - [CSS](#css)
   - [工具库](#工具库)
   - [UI 框架](#ui-框架)
@@ -22,6 +23,10 @@
 
 - [W3C HTML 官方规范标准](https://www.w3.org/html/)
 
+### 工具库
+
+- [html5shiv](https://github.com/aFarkas/html5shiv) - 在旧浏览器（IE9 以下）上提供对 HTML5 新标签（例如 footer、nav）的支持。
+
 [Go Top ↑](#awesome-web-front-end-list)
 
 ## CSS
@@ -30,6 +35,8 @@
 
 ### 工具库
 
+- [Respond](https://github.com/scottjehl/Respond) - 在旧浏览器（IE 6-8）上提供对 CSS3 Media Queries（媒体查询）的支持。
+- [selectivizr](http://selectivizr.com/) - 在旧浏览器（IE 6-8）上提供对 CSS3 新选择器的支持，注意 `style` 标签内样式不解析，动态生成的 DOM 也不解析。
 - [Normalize](http://necolas.github.io/normalize.css/) - 现代化的 Reset CSS 工具库，统一浏览器默认样式。
 
 ### UI 框架
