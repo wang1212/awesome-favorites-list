@@ -22,7 +22,12 @@
   - [构建工具](#构建工具)
   - [工具库](#工具库)
   - [数据可视化](#数据可视化)
-- [学习资源](#学习资源)
+- [资源](#资源)
+  - [技术规范标准](#技术规范标准)
+  - [技术参考文档](#技术参考文档)
+  - [论坛社区](#论坛社区)
+  - [在线工具](#在线工具)
+  - [其它](#其它)
 
 ## HTML
 
@@ -111,7 +116,58 @@
 
 [Go Top ↑](#awesome-web-front-end-list)
 
-## 学习资源
+## 资源
+
+### 技术规范标准
+
+- [W3C](https://www.w3.org/) - 万维网联盟创建于 1994 年，是 Web 技术领域最具权威和影响力的国际中立性技术标准机构。
+- [ECMA International](http://www.ecma-international.org/) - ECMA 国际是一家国际性会员制度的信息和电信标准组织，负责行业标准的制定，例如 ECMA Script。
+- [Chrome Blink status](https://www.chromestatus.com/) - Google Chrome 的 Blink 引擎功能特性的官方实现和标准化的开发状态查询列表。
+- [Firefox status](https://platform-status.mozilla.org/) - Firefox 的 Web 平台功能的官方实现和标准化路线图查询列表。
+- [Webkit](https://webkit.org/) - Webkit 浏览器引擎的官方网站，可查询其功能特性的实现和标准化状态。
+- [Can I use](https://caniuse.com/) - 非官方网站，可以查询特定 Web API（H5、CSS3）在各个浏览器平台的实现和标准化状态。
+
+### 技术参考文档
+
+- [MDN Developer Document](https://developer.mozilla.org/en-US/) - MDN Web Docs 网站提供开放网络（Open Web）技术有关的信息，包括用于网站和渐进式网络应用的 HTML、CSS 和 API，是提供给 Web 开发者最好的学习资料和技术文档。
+- [w3schools](https://www.w3schools.com/) - 国外一个非常棒的 Web 技术学习资源网站。（须翻墙）
+- [w3school](http://www.w3school.com.cn/) - 国内一个仿国外 w3schools 的 Web 技术学习资源网站。
+- [菜鸟教程](http://www.runoob.com/) - 国内另一个仿国外 w3schools 的 Web 技术学习资源网站。
+- [Node.js 中文网](http://nodejs.cn/) - 唯一与官方同步更新的 Node.js 中文文档。
+- [jQuery API 中文文档](http://jquery.cuishifeng.cn/) - 一个国内开发者维护的 jQuery API 中文文档，非常实用。
+- [GeoJSON 格式规范说明](https://www.oschina.net/translate/geojson-spec?cmp) - OSChina 上一个开发者发布的 GeoJSON 格式规范说明的中英文对照翻译。
+
+### 论坛社区
+
+- [Stack Overflow](https://stackoverflow.com/) - 全球的程序员学习、分享，技术问答社区网站。
+- [SegmentFault](https://segmentfault.com/) - 国内一个类似 Stack Overflow 的程序员技术学习，问答社区网站。
+- [掘金社区](https://juejin.im/) - 国内一个帮助开发者成长的社区，有很多优质的技术文章。
+- [图灵社区](http://www.ituring.com.cn/) - 国内一个出版计算机类相关书籍的社区，外文书翻译质量非常高，拥有很好的用户口碑。
+- [慕课网](https://www.imooc.com/) - 国内一个提供计算机开发技术学习课程收费服务的网站，有大量免费优质学习资源。
+
+### 在线工具
+
+- Free CDN
+  - 国外
+    - [jsDelivr](https://www.jsdelivr.com/)
+    - [UNPKG](https://unpkg.com/)
+  - 国内
+    - [BootCDN](https://www.bootcdn.cn/)
+    - [Staticfile CDN](https://staticfile.org/)
+
+- 图片压缩
+  - [Compress PNG](https://compresspng.com/)
+  - [Picdiet](https://www.picdiet.com/)
+  - [TinyPNG](https://tinypng.com/)
+  - [Optimizilla](https://imagecompressor.com/)
+  - [压缩图](https://www.yasuotu.com/)
+  - [色彩笔](http://www.secaibi.com/tools/)
+
+- Web 优化
+  - [Varvy SEO tool](https://varvy.com/) - 一个在线网站 SEO、性能检测工具，提供优化建议和技巧。
+  - [PageSpeed Insights](https://developers.google.com/speed/pagespeed/insights/) - Google 提供的在线网站性能检测工具，提供优化建议和技巧。
+
+### 其它
 
 - [30 seconds](https://github.com/30-seconds) - 30 seconds 是一个系列，包含 JS、React.js、CSS 相关的编程技巧。
 - [33 js concepts](https://github.com/leonardomso/33-js-concepts) - 包含了丰富的 JavaScript 相关的知识概念，学习资源。
