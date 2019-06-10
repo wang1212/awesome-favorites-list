@@ -13,9 +13,12 @@
 - [HTML](#html)
   - [工具库](#工具库)
 - [CSS](#css)
+  - [构建工具](#构建工具)
   - [工具库](#工具库)
   - [UI 框架](#ui-框架)
 - [JavaScript](#javascript)
+  - [包管理器](#包管理器)
+  - [构建工具](#构建工具)
   - [工具库](#工具库)
   - [数据可视化](#数据可视化)
 
@@ -32,6 +35,11 @@
 ## CSS
 
 - [W3C CSS 官方规范标准](https://www.w3.org/Style/CSS/)
+
+### 构建工具
+
+- [Sass](https://sass-lang.com/) - CSS 预处理器，可提供类似编程语言的能力（变量、方法、作用域、嵌套）来编写 CSS。
+- [PostCSS](https://postcss.org/) - CSS 后处理器，提供众多插件来实现还未被广泛实现和标准化的 CSS 功能特性，最终将其编译为目标平台支持的 CSS 代码。
 
 ### 工具库
 
@@ -53,6 +61,25 @@
 ## JavaScript
 
 - [ECMAScript 官方规范标准](https://www.ecma-international.org/publications/standards/Ecma-262.htm)
+
+### 包管理器
+
+- [npm](https://www.npmjs.com/)
+- [Yarn](https://yarnpkg.com/)
+- [Bower](https://bower.io/)
+
+### 构建工具
+
+- [webpack](https://webpack.js.org/) - 目前最流行的 Web 前端项目自动化构建工具。
+- [Gulp](https://gulpjs.com/)
+- [Grunt](https://gruntjs.com/)
+- [WorkBox](https://developers.google.com/web/tools/workbox/) - Google 专门为构建 PWA （Progressive Web App，渐进式 Web 应用）提供的一套开发工具，支持多个平台，并提供了方便的 webpack 插件。
+- [Babel](https://babeljs.io/) - JS 编译工具，可将其它语言（TypeScript、ES6/7/8）代码编译为 JavaScript 代码。
+- [JEST](https://jestjs.io/) - Facebook 出品的 JavaScript 单元测试工具。
+- [Flow](https://flow.org/) - Facebook 出品的 JavaScript 静态类型检查工具。
+- [ESLint](https://eslint.org/) - JavaScript 语法规则检查工具。
+- [JSDoc](https://jsdoc.app/) - JavaScript 的 API 文档生成工具。
+- [Browsersync](https://www.browsersync.io/) - 浏览器同步调式工具，功能非常强大。
 
 ### 工具库
 
