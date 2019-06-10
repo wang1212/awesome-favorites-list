@@ -16,11 +16,13 @@
   - [构建工具](#构建工具)
   - [工具库](#工具库)
   - [UI 框架](#ui-框架)
+  - [字体图标](#字体图标)
 - [JavaScript](#javascript)
   - [包管理器](#包管理器)
   - [构建工具](#构建工具)
   - [工具库](#工具库)
   - [数据可视化](#数据可视化)
+- [学习资源](#学习资源)
 
 ## HTML
 
@@ -55,6 +57,17 @@
 - [Material Components Web](https://material.io/develop/) - Google 官方实现的基于 Material Design 的 Web 组件库。
 - [UIkit](https://getuikit.com/) - 轻量级的现代化前端 CSS 框架。
 - [Pure.CSS](https://purecss.io/) - 一组小的，响应式的 CSS 模块。
+
+### 字体图标
+
+- 字体
+  - [Source Code Pro](https://github.com/adobe-fonts/source-code-pro) - Adobe 出品的开源等宽字体，适合编程使用。
+- WebFont 图标
+  - [Font Awesome](https://fontawesome.com/)
+  - [Material Icons](https://material.io/tools/icons/) - Google 官方提供的 Material Design 风格的图标库。
+  - [Material Design Icons](http://materialdesignicons.com/) - 遵循 Google Material Design 的图标库，**非官方实现**。
+  - [Flat Icon](https://www.flaticon.com/)
+  - [Icons8](https://icons8.com/) - 提供免费的图标设计工具。
 
 [Go Top ↑](#awesome-web-front-end-list)
 
@@ -95,5 +108,13 @@
 - [Echarts](http://echarts.apache.org/) - 国内百度团队开发的图表库，功能丰富。
 - [D3](https://d3js.org/) - 数据驱动的可视化库，非常著名，许多图表库基于此开发。
 - [C3](https://c3js.org/) - 基于 D3 的可重用图表库。
+
+[Go Top ↑](#awesome-web-front-end-list)
+
+## 学习资源
+
+- [30 seconds](https://github.com/30-seconds) - 30 seconds 是一个系列，包含 JS、React.js、CSS 相关的编程技巧。
+- [33 js concepts](https://github.com/leonardomso/33-js-concepts) - 包含了丰富的 JavaScript 相关的知识概念，学习资源。
+- [掘金翻译计划](https://github.com/xitu/gold-miner) - 掘金翻译计划，可能是世界最大最好的英译中技术社区，最懂读者和译者的翻译平台。
 
 [Go Top ↑](#awesome-web-front-end-list)
