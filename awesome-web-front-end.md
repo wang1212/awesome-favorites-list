@@ -15,13 +15,14 @@
 - [CSS](#css)
   - [构建工具](#构建工具)
   - [工具库](#工具库)
-  - [UI 框架](#ui-框架)
   - [字体图标](#字体图标)
+  - [UI 框架](#ui-框架)
 - [JavaScript](#javascript)
   - [包管理器](#包管理器)
   - [构建工具](#构建工具)
   - [工具库](#工具库)
   - [数据可视化](#数据可视化)
+  - [开发框架](#开发框架)
 - [资源](#资源)
   - [技术规范标准](#技术规范标准)
   - [技术参考文档](#技术参考文档)
@@ -54,15 +55,6 @@
 - [selectivizr](http://selectivizr.com/) - 在旧浏览器（IE 6-8）上提供对 CSS3 新选择器的支持，注意 `style` 标签内样式不解析，动态生成的 DOM 也不解析。
 - [Normalize](http://necolas.github.io/normalize.css/) - 现代化的 Reset CSS 工具库，统一浏览器默认样式。
 
-### UI 框架
-
-- [Bootstrap](https://getbootstrap.com/) - 最流行的 CSS UI 框架。
-- [Materialize](https://materializecss.com/) - 最流行的实现了 Google Material Design 的 CSS UI 框架。
-- [Material Design Lite](https://getmdl.io/) - Google 官方实现的基于 Material Design 的轻量级 CSS UI 框架。
-- [Material Components Web](https://material.io/develop/) - Google 官方实现的基于 Material Design 的 Web 组件库。
-- [UIkit](https://getuikit.com/) - 轻量级的现代化前端 CSS 框架。
-- [Pure.CSS](https://purecss.io/) - 一组小的，响应式的 CSS 模块。
-
 ### 字体图标
 
 - 字体
@@ -73,6 +65,15 @@
   - [Material Design Icons](http://materialdesignicons.com/) - 遵循 Google Material Design 的图标库，**非官方实现**。
   - [Flat Icon](https://www.flaticon.com/)
   - [Icons8](https://icons8.com/) - 提供免费的图标设计工具。
+
+### UI 框架
+
+- [Bootstrap](https://getbootstrap.com/) - 最流行的 CSS UI 框架。
+- [Materialize](https://materializecss.com/) - 最流行的实现了 Google Material Design 的 CSS UI 框架。
+- [Material Design Lite](https://getmdl.io/) - Google 官方实现的基于 Material Design 的轻量级 CSS UI 框架。
+- [Material Components Web](https://material.io/develop/) - Google 官方实现的基于 Material Design 的 Web 组件库。
+- [UIkit](https://getuikit.com/) - 轻量级的现代化前端 CSS 框架。
+- [Pure.CSS](https://purecss.io/) - 一组小的，响应式的 CSS 模块。
 
 [Go Top ↑](#awesome-web-front-end-list)
 
@@ -113,6 +114,11 @@
 - [Echarts](http://echarts.apache.org/) - 国内百度团队开发的图表库，功能丰富。
 - [D3](https://d3js.org/) - 数据驱动的可视化库，非常著名，许多图表库基于此开发。
 - [C3](https://c3js.org/) - 基于 D3 的可重用图表库。
+
+### 开发框架
+
+- [React.js](https://reactjs.org/) - Facebook 出品的 Web 前端开源库，目前最火的轻量级前端开发框架之一，其技术生态圈非常繁荣。
+- [Angular.js](https://angularjs.org/) - Google 出品的 Web 前端开源库，是一个比较重型的功能齐全的前端开发框架。
 
 [Go Top ↑](#awesome-web-front-end-list)
 
