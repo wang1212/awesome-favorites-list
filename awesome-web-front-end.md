@@ -139,9 +139,7 @@
 - [w3schools](https://www.w3schools.com/) - 国外一个非常棒的 Web 技术学习资源网站。（须翻墙）
 - [w3school](http://www.w3school.com.cn/) - 国内一个仿国外 w3schools 的 Web 技术学习资源网站。
 - [菜鸟教程](http://www.runoob.com/) - 国内另一个仿国外 w3schools 的 Web 技术学习资源网站。
-- [Node.js 中文网](http://nodejs.cn/) - 唯一与官方同步更新的 Node.js 中文文档。
 - [jQuery API 中文文档](http://jquery.cuishifeng.cn/) - 一个国内开发者维护的 jQuery API 中文文档，非常实用。
-- [GeoJSON 格式规范说明](https://www.oschina.net/translate/geojson-spec?cmp) - OSChina 上一个开发者发布的 GeoJSON 格式规范说明的中英文对照翻译。
 
 ### 论坛社区
 
@@ -160,7 +158,6 @@
   - 国内
     - [BootCDN](https://www.bootcdn.cn/)
     - [Staticfile CDN](https://staticfile.org/)
-
 - 图片压缩
   - [Compress PNG](https://compresspng.com/)
   - [Picdiet](https://www.picdiet.com/)
@@ -168,10 +165,10 @@
   - [Optimizilla](https://imagecompressor.com/)
   - [压缩图](https://www.yasuotu.com/)
   - [色彩笔](http://www.secaibi.com/tools/)
-
 - Web 优化
   - [Varvy SEO tool](https://varvy.com/) - 一个在线网站 SEO、性能检测工具，提供优化建议和技巧。
   - [PageSpeed Insights](https://developers.google.com/speed/pagespeed/insights/) - Google 提供的在线网站性能检测工具，提供优化建议和技巧。
+  - [Lighthouse](https://developers.google.com/web/tools/lighthouse/) - Google 提供的一个网站优化检测分析工具，已被集成在 Chrome 开发工具中，也可以作为 Chrome 扩展或者命令行工具使用。
 
 ### 其它
 
