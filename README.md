@@ -65,9 +65,6 @@
 
 #### 在线工具
 
-- GIS 工具
-  - [mapshaper](https://mapshaper.org/) - 在线地图数据编辑工具，支持 Shapefile、GeoJSON、TopoJSON、DBF 和 CSV 格式。
-
 [Go Top ↑](#awesome-favorites-list)
 
 ### Books
