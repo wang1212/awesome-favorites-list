@@ -11,16 +11,16 @@
 ## Contents
 
 - [HTML](#html)
-  - [工具库](#工具库)
+  - [工具库](#html-工具库)
 - [CSS](#css)
-  - [构建工具](#构建工具)
-  - [工具库](#工具库)
+  - [构建工具](#css-构建工具)
+  - [工具库](#css-工具库)
   - [字体图标](#字体图标)
   - [UI 框架](#ui-框架)
 - [JavaScript](#javascript)
   - [包管理器](#包管理器)
-  - [构建工具](#构建工具)
-  - [工具库](#工具库)
+  - [构建工具](#js-构建工具)
+  - [工具库](#js-工具库)
   - [数据可视化](#数据可视化)
   - [开发框架](#开发框架)
 - [资源](#资源)
@@ -35,7 +35,7 @@
 
 - [W3C HTML 官方规范标准](https://www.w3.org/html/)
 
-### 工具库
+### HTML 工具库
 
 - [html5shiv](https://github.com/aFarkas/html5shiv) - 在旧浏览器（IE9 以下）上提供对 HTML5 新标签（例如 footer、nav）的支持。
 
@@ -45,12 +45,12 @@
 
 - [W3C CSS 官方规范标准](https://www.w3.org/Style/CSS/)
 
-### 构建工具
+### CSS 构建工具
 
 - [Sass](https://sass-lang.com/) - CSS 预处理器，可提供类似编程语言的能力（变量、方法、作用域、嵌套）来编写 CSS。
 - [PostCSS](https://postcss.org/) - CSS 后处理器，提供众多插件来实现还未被广泛实现和标准化的 CSS 功能特性，最终将其编译为目标平台支持的 CSS 代码。
 
-### 工具库
+### CSS 工具库
 
 - [Respond](https://github.com/scottjehl/Respond) - 在旧浏览器（IE 6-8）上提供对 CSS3 Media Queries（媒体查询）的支持。
 - [selectivizr](http://selectivizr.com/) - 在旧浏览器（IE 6-8）上提供对 CSS3 新选择器的支持，注意 `style` 标签内样式不解析，动态生成的 DOM 也不解析。
@@ -88,7 +88,7 @@
 - [Yarn](https://yarnpkg.com/)
 - [Bower](https://bower.io/)
 
-### 构建工具
+### JS 构建工具
 
 - [webpack](https://webpack.js.org/) - 目前最流行的 Web 前端项目自动化构建工具。
 - [Gulp](https://gulpjs.com/)
@@ -101,7 +101,7 @@
 - [JSDoc](https://jsdoc.app/) - JavaScript 的 API 文档生成工具。
 - [Browsersync](https://www.browsersync.io/) - 浏览器同步调式工具，功能非常强大。
 
-### 工具库
+### JS 工具库
 
 - [Promise Polyfill](https://github.com/taylorhakes/promise-polyfill) - 可以在不支持 Promise API 的浏览器上提供对其的支持。
 - [jQuery](https://jquery.com/) - 前几年非常流行的 DOM 操作工具库，处理了兼容性的细节问题。
