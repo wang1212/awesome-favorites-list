@@ -11,6 +11,7 @@
 ## Contents
 
 - [HTML](#html)
+  - [构建工具](#html-构建工具)
   - [工具库](#html-工具库)
 - [CSS](#css)
   - [构建工具](#css-构建工具)
@@ -36,12 +37,15 @@
 
 - [W3C HTML 官方规范标准](https://www.w3.org/html/)
 
-### HTML 工具库
+### HTML 构建工具
 
-- [html5shiv](https://github.com/aFarkas/html5shiv) - 在旧浏览器（IE9 以下）上提供对 HTML5 新标签（例如 footer、nav）的支持。
 - [EJS](https://ejs.co) - html 模版引擎。
 - [Handlebars.js](http://handlebarsjs.com/) - html 模版引擎。
 - [Jade](http://jade-lang.com/) - html 模版引擎。
+
+### HTML 工具库
+
+- [html5shiv](https://github.com/aFarkas/html5shiv) - 在旧浏览器（IE9 以下）上提供对 HTML5 新标签（例如 footer、nav）的支持。
 
 [Go Top ↑](#awesome-web-front-end-list)
 
