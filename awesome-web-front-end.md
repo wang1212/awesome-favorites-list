@@ -39,6 +39,9 @@
 ### HTML 工具库
 
 - [html5shiv](https://github.com/aFarkas/html5shiv) - 在旧浏览器（IE9 以下）上提供对 HTML5 新标签（例如 footer、nav）的支持。
+- [EJS](https://ejs.co) - html 模版引擎。
+- [Handlebars.js](http://handlebarsjs.com/) - html 模版引擎。
+- [Jade](http://jade-lang.com/) - html 模版引擎。
 
 [Go Top ↑](#awesome-web-front-end-list)
 
