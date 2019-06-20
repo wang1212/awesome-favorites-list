@@ -11,21 +11,23 @@
 ## Contents
 
 - [HTML](#html)
-  - [工具库](#工具库)
+  - [构建工具](#html-构建工具)
+  - [工具库](#html-工具库)
 - [CSS](#css)
-  - [构建工具](#构建工具)
-  - [工具库](#工具库)
+  - [构建工具](#css-构建工具)
+  - [工具库](#css-工具库)
   - [字体图标](#字体图标)
   - [UI 框架](#ui-框架)
 - [JavaScript](#javascript)
   - [包管理器](#包管理器)
-  - [构建工具](#构建工具)
-  - [工具库](#工具库)
+  - [构建工具](#js-构建工具)
+  - [工具库](#js-工具库)
   - [数据可视化](#数据可视化)
   - [开发框架](#开发框架)
 - [资源](#资源)
   - [技术规范标准](#技术规范标准)
   - [技术参考文档](#技术参考文档)
+  - [NPM 包](#npm-包)
   - [论坛社区](#论坛社区)
   - [在线工具](#在线工具)
   - [编程技巧](#编程技巧)
@@ -35,7 +37,13 @@
 
 - [W3C HTML 官方规范标准](https://www.w3.org/html/)
 
-### 工具库
+### HTML 构建工具
+
+- [EJS](https://ejs.co) - html 模版引擎。
+- [Handlebars.js](http://handlebarsjs.com/) - html 模版引擎。
+- [Jade](http://jade-lang.com/) - html 模版引擎。
+
+### HTML 工具库
 
 - [html5shiv](https://github.com/aFarkas/html5shiv) - 在旧浏览器（IE9 以下）上提供对 HTML5 新标签（例如 footer、nav）的支持。
 
@@ -45,12 +53,14 @@
 
 - [W3C CSS 官方规范标准](https://www.w3.org/Style/CSS/)
 
-### 构建工具
+### CSS 构建工具
 
 - [Sass](https://sass-lang.com/) - CSS 预处理器，可提供类似编程语言的能力（变量、方法、作用域、嵌套）来编写 CSS。
 - [PostCSS](https://postcss.org/) - CSS 后处理器，提供众多插件来实现还未被广泛实现和标准化的 CSS 功能特性，最终将其编译为目标平台支持的 CSS 代码。
+- [JSS](https://cssinjs.org) - 一种 CSS-in-JS 的解决方案。
+- [styled components](https://www.styled-components.com) - 一种 CSS-in-JS 的解决方案。
 
-### 工具库
+### CSS 工具库
 
 - [Respond](https://github.com/scottjehl/Respond) - 在旧浏览器（IE 6-8）上提供对 CSS3 Media Queries（媒体查询）的支持。
 - [selectivizr](http://selectivizr.com/) - 在旧浏览器（IE 6-8）上提供对 CSS3 新选择器的支持，注意 `style` 标签内样式不解析，动态生成的 DOM 也不解析。
@@ -88,7 +98,7 @@
 - [Yarn](https://yarnpkg.com/)
 - [Bower](https://bower.io/)
 
-### 构建工具
+### JS 构建工具
 
 - [webpack](https://webpack.js.org/) - 目前最流行的 Web 前端项目自动化构建工具。
 - [Gulp](https://gulpjs.com/)
@@ -101,13 +111,18 @@
 - [JSDoc](https://jsdoc.app/) - JavaScript 的 API 文档生成工具。
 - [Browsersync](https://www.browsersync.io/) - 浏览器同步调式工具，功能非常强大。
 
-### 工具库
+### JS 工具库
 
+- [Promise Polyfill](https://github.com/taylorhakes/promise-polyfill) - 可以在不支持 Promise API 的浏览器上提供对其的支持。
+- [core-js](https://github.com/zloirock/core-js) - 现代 JavaScript 标准库。
 - [jQuery](https://jquery.com/) - 前几年非常流行的 DOM 操作工具库，处理了兼容性的细节问题。
 - [Lodash](https://lodash.com/) - JavaScript 的工具函数库，提供了大量非常有用的工具函数，并采用惰性计算优化了性能。
 - [axios](https://github.com/axios/axios) - 基于 Promise 的 HTTP 客户端工具库。
+- [Konva](https://konvajs.org) - 用于桌面和移动应用程序的 HTML5 2D canvas 库。
 - [crypto-js](https://github.com/brix/crypto-js) - JavaScript 加密库。
 - [SJCL](http://bitwiseshiftleft.github.io/sjcl/) - JavaScript 加密库。
+- [DOM to Image](https://github.com/tsayen/dom-to-image/) - 利用 HTML5 Canvas 生成 DOM 节点的快照图片。
+- [html2canvas](https://html2canvas.hertzen.com) - 截屏，利用 HTML5 Canvas 生成 DOM 节点的快照图片。
 
 ### 数据可视化
 
@@ -142,6 +157,10 @@
 - [菜鸟教程](http://www.runoob.com/) - 国内另一个仿国外 w3schools 的 Web 技术学习资源网站。
 - [jQuery API 中文文档](http://jquery.cuishifeng.cn/) - 一个国内开发者维护的 jQuery API 中文文档，非常实用。
 - [33 js concepts](https://github.com/leonardomso/33-js-concepts) - 包含了丰富的 JavaScript 相关的知识概念，学习资源。
+
+### NPM 包
+
+- [npm-check-updates](https://www.npmjs.com/package/npm-check-updates) - 可以更新项目 npm 依赖的辅助工具，非常棒。
 
 ### 论坛社区
 
