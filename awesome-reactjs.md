@@ -22,8 +22,10 @@
 ## 官方发布
 
 - [React.js](https://reactjs.org/) - React.js 官网。
+- [Flow](https://flow.org/) - FaceBook 出品的 JavaScript 静态类型检查工具。
+- [eslint-plugin-react-hooks](https://github.com/facebook/react/tree/master/packages/eslint-plugin-react-hooks) - ESLint 的 React Hooks 语法规则检查插件。
 
-[Go Top ↑](#awesome-react.js-list)
+[Go Top ↑](#awesome-reactjs-list)
 
 ## 第三方发布
 
@@ -53,4 +55,4 @@
 
 - [React-JSS](https://cssinjs.org/react-jss) - JSS 是 CSS-in-JS 的一种解决方案，这个是与 React 的集成方案。
 
-[Go Top ↑](#awesome-react.js-list)
+[Go Top ↑](#awesome-reactjs-list)
