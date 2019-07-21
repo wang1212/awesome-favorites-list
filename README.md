@@ -31,7 +31,6 @@
     - [桌面端开发](#桌面端开发)
     - [服务器端开发](#服务器端开发)
       - [服务器](#服务器)
-      - [开发框架](#开发框架)
     - [GIS 开发](#gis-开发)
       - [Web GIS](#web-gis)
     - [包管理器](#包管理器)
@@ -107,10 +106,6 @@
 - [Nginx](http://nginx.org/en/) - 轻量级、高性能、高并发的 Web 服务器，主要作为负载均衡、反向代理、静态资源服务的前端服务器。
 - [Apache](http://httpd.apache.org/)
 - [Tomcat](http://tomcat.apache.org/) - Java Web 开发中的 Servlet 容器。
-
-##### 开发框架
-
-- [Express](http://expressjs.com/) - 基于 Node.js 技术的 Web 服务器端开源框架。
 
 #### GIS 开发
 
