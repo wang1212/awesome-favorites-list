@@ -22,7 +22,8 @@
 ## 官方发布
 
 - [React.js](https://reactjs.org/) - React.js 官网。
-- [Flow](https://flow.org/) - FaceBook 出品的 JavaScript 静态类型检查工具。
+- [Flow](https://flow.org/) - JavaScript 静态类型检查工具。
+- [Jest](https://jestjs.io/) - 单元测试工具。
 - [eslint-plugin-react-hooks](https://github.com/facebook/react/tree/master/packages/eslint-plugin-react-hooks) - ESLint 的 React Hooks 语法规则检查插件。
 
 [Go Top ↑](#awesome-reactjs-list)
