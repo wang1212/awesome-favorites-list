@@ -10,9 +10,9 @@
 
 ## Contents
 
-- [Chrome 扩展程序（Chrome Extension）](https://github.com/wang1212/awesome-favorites-list/blob/master/awesome-chrome-extension.md)
-- [Web 前端（Web Front End）](https://github.com/wang1212/awesome-favorites-list/blob/master/awesome-web-front-end.md)
-  - [React.js 开发](https://github.com/wang1212/awesome-favorites-list/blob/master/awesome-reactjs.md)
+- [Chrome 扩展程序（Chrome Extension）](awesome-chrome-extension.md)
+- [Web 前端（Web Front End）](awesome-web-front-end.md)
+  - [React.js 开发](awesome-reactjs.md)
 - Web 后端（Web Back End）
   - [Node.js](awesome-nodejs.md)
 - [其它资源](#其它资源)
