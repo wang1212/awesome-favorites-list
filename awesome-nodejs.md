@@ -14,6 +14,7 @@
   - [包管理器](#包管理器)
   - [技术文档](#技术文档)
 - [开发框架](#开发框架)
+- [Node 模块](#node-模块)
 - [其它](#其它)
   - [HTML 模板引擎](#html-模板引擎)
   - [辅助工具](#辅助工具)
@@ -42,6 +43,12 @@
 
 [Go Top ↑](#awesome-nodejs-list)
 
+## Node 模块
+
+- [fs-extra](https://github.com/jprichardson/node-fs-extra) - 作为官方原生 fs 模块的补充和优化。
+
+[Go Top ↑](#awesome-nodejs-list)
+
 ## 其它
 
 ### HTML 模板引擎
@@ -54,6 +61,7 @@
 
 - [n](https://github.com/tj/n) - npm 包，Node 版本管理工具。
 - [npm-check-updates](https://github.com/tjunnone/npm-check-updates) - 项目依赖 npm 包批量更新工具。
+- [chalk](https://github.com/chalk/chalk) - 终端输出字符串样式工具，支持全部的颜色。
 
 ### 社区论坛
 
