@@ -57,6 +57,6 @@
 
 ### 社区论坛
 
-- [CNode 社区](#https://cnodejs.org/) - CNode 社区由一批热爱 Node.js 技术的工程师发起，致力于 Node.js 的技术研究。
+- [CNode 社区](https://cnodejs.org/) - CNode 社区由一批热爱 Node.js 技术的工程师发起，致力于 Node.js 的技术研究。
 
 [Go Top ↑](#awesome-nodejs-list)
