@@ -14,6 +14,8 @@
 - [包管理器](#包管理器)
 - [开发框架](#开发框架)
 - [其它](#其它)
+  - [HTML 模板引擎](#html-模板引擎)
+  - [辅助工具](#辅助工具)
 
 ## 官方标准
 
@@ -36,6 +38,14 @@
 [Go Top ↑](#awesome-nodejs-list)
 
 ## 其它
+
+### HTML 模板引擎
+
+- [EJS](https://ejs.co)
+- [Handlebars.js](http://handlebarsjs.com/)
+- [Jade](http://jade-lang.com/)
+
+### 辅助工具
 
 - [n](https://github.com/tj/n) - npm 包，Node 版本管理工具。
 - [npm-check-updates](https://github.com/tjunnone/npm-check-updates) - 项目依赖 npm 包批量更新工具。
