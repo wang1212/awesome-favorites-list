@@ -10,16 +10,22 @@
 
 ## Contents
 
-- [官方标准](#官方标准)
+- [技术标准](#技术标准)
+  - [技术文档](#技术文档)
 - [包管理器](#包管理器)
 - [开发框架](#开发框架)
 - [其它](#其它)
   - [HTML 模板引擎](#html-模板引擎)
   - [辅助工具](#辅助工具)
+  - [社区论坛](#社区论坛)
 
-## 官方标准
+## 技术标准
 
 - [Node.js](https://nodejs.org/) - Node.js 官方网站。
+
+### 技术文档
+
+- [Node.js 中文网](http://nodejs.cn/) - 唯一与官方同步更新的 Node.js 中文文档。
 
 [Go Top ↑](#awesome-nodejs-list)
 
@@ -49,5 +55,9 @@
 
 - [n](https://github.com/tj/n) - npm 包，Node 版本管理工具。
 - [npm-check-updates](https://github.com/tjunnone/npm-check-updates) - 项目依赖 npm 包批量更新工具。
+
+### 社区论坛
+
+- [CNode 社区](#https://cnodejs.org/) - CNode 社区由一批热爱 Node.js 技术的工程师发起，致力于 Node.js 的技术研究。
 
 [Go Top ↑](#awesome-nodejs-list)
