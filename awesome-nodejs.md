@@ -13,8 +13,8 @@
 - [技术标准](#技术标准)
   - [包管理器](#包管理器)
   - [技术文档](#技术文档)
-- [开发框架](#开发框架)
 - [Node 模块](#node-模块)
+- [开发框架](#开发框架)
 - [其它](#其它)
   - [HTML 模板引擎](#html-模板引擎)
   - [辅助工具](#辅助工具)
@@ -36,16 +36,16 @@
 
 [Go Top ↑](#awesome-nodejs-list)
 
+## Node 模块
+
+- [fs-extra](https://github.com/jprichardson/node-fs-extra) - 作为官方原生 fs 模块的补充和优化。
+
+[Go Top ↑](#awesome-nodejs-list)
+
 ## 开发框架
 
 - [Express](http://expressjs.com/) - 非常成熟的 Node.js Web 开发框架。
 - [Electron](https://electronjs.org/) - 基于 Node.js 与 Chromium 技术的开源跨平台桌面端应用开发解决方案，对 Web 前端开发人员友好。
-
-[Go Top ↑](#awesome-nodejs-list)
-
-## Node 模块
-
-- [fs-extra](https://github.com/jprichardson/node-fs-extra) - 作为官方原生 fs 模块的补充和优化。
 
 [Go Top ↑](#awesome-nodejs-list)
 
