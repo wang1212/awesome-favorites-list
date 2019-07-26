@@ -25,6 +25,7 @@
 - [Flow](https://flow.org/) - JavaScript 静态类型检查工具。
 - [Jest](https://jestjs.io/) - 单元测试工具。
 - [eslint-plugin-react-hooks](https://github.com/facebook/react/tree/master/packages/eslint-plugin-react-hooks) - ESLint 的 React Hooks 语法规则检查插件。
+- [react-devtools](https://github.com/facebook/react-devtools) - React 应用的调试工具，chrome 插件。
 
 [Go Top ↑](#awesome-reactjs-list)
 
@@ -36,6 +37,7 @@
 - [React Redux](https://react-redux.js.org/) - 将 Redux 与 React.js 搭配使用，**Redux 官方实现**。
 - [Redux-Thunk](https://github.com/reduxjs/redux-thunk) - 作为一个 Redux 的中间件存在，提供了异步支持，**Redux 官方实现**。
 - [Redux-Logger](https://github.com/LogRocket/redux-logger) - 调试工具，作为一个 Redux 的中间件存在，提供了打印 Redux 日志功能。
+- [redux-devtools](https://github.com/reduxjs/redux-devtools) - Redux 调试工具，chrome 插件。
 
 ### 路由管理
 
