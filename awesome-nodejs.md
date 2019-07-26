@@ -24,7 +24,7 @@
 
 - [Node.js](https://nodejs.org/) - Node.js 官方网站。
 
-## 包管理器
+### 包管理器
 
 - [npm](https://www.npmjs.com/) - Node.js 的官方包管理器。
 - [Yarn](https://www.yarnpkg.com/)
