@@ -11,8 +11,8 @@
 ## Contents
 
 - [技术标准](#技术标准)
+  - [包管理器](#包管理器)
   - [技术文档](#技术文档)
-- [包管理器](#包管理器)
 - [开发框架](#开发框架)
 - [其它](#其它)
   - [HTML 模板引擎](#html-模板引擎)
@@ -23,23 +23,22 @@
 
 - [Node.js](https://nodejs.org/) - Node.js 官方网站。
 
-### 技术文档
-
-- [Node.js 中文网](http://nodejs.cn/) - 唯一与官方同步更新的 Node.js 中文文档。
-
-[Go Top ↑](#awesome-nodejs-list)
-
 ## 包管理器
 
 - [npm](https://www.npmjs.com/) - Node.js 的官方包管理器。
 - [Yarn](https://www.yarnpkg.com/)
 - [Bower](https://bower.io/)
 
+### 技术文档
+
+- [Node.js 中文网](http://nodejs.cn/) - 唯一与官方同步更新的 Node.js 中文文档。
+
 [Go Top ↑](#awesome-nodejs-list)
 
 ## 开发框架
 
 - [Express](http://expressjs.com/) - 非常成熟的 Node.js Web 开发框架。
+- [Electron](https://electronjs.org/) - 基于 Node.js 与 Chromium 技术的开源跨平台桌面端应用开发解决方案，对 Web 前端开发人员友好。
 
 [Go Top ↑](#awesome-nodejs-list)
 
