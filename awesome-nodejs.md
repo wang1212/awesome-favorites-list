@@ -62,6 +62,8 @@
 - [n](https://github.com/tj/n) - npm 包，Node 版本管理工具。
 - [npm-check-updates](https://github.com/tjunnone/npm-check-updates) - 项目依赖 npm 包批量更新工具。
 - [chalk](https://github.com/chalk/chalk) - 终端输出字符串样式工具，支持全部的颜色。
+- [Npm Trends](https://www.npmtrends.com/) - 非官方网站，可以查询对比多个 Npm 包的下载流量数据、star 数目等。
+- [Npm Charts](https://npmcharts.com/) - 非官方网站，可以查询对比多个 Npm 包的下载流量数据、star 数目等。
 
 ### 社区论坛
 
