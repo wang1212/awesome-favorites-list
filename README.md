@@ -31,10 +31,7 @@
     - [桌面端开发](#桌面端开发)
     - [服务器端开发](#服务器端开发)
       - [服务器](#服务器)
-    - [GIS 开发](#gis-开发)
-      - [Web GIS](#web-gis)
     - [包管理器](#包管理器)
-    - [项目构建工具](#项目构建工具)
     - [字体图标](#字体图标)
     - [学习资源](#学习资源)
   - [其它](#其它)
@@ -106,17 +103,6 @@
 - [Nginx](http://nginx.org/en/) - 轻量级、高性能、高并发的 Web 服务器，主要作为负载均衡、反向代理、静态资源服务的前端服务器。
 - [Apache](http://httpd.apache.org/)
 - [Tomcat](http://tomcat.apache.org/) - Java Web 开发中的 Servlet 容器。
-
-#### GIS 开发
-
-##### Web GIS
-
-- [Leaflet](https://leafletjs.com/) - 目前最流行的、移动端优先、轻量级 Web GIS 开源框架。
-- [Esri Leaflet](https://github.com/Esri/esri-leaflet) - 作为一个 Leaflet 插件存在，用于在 Leaflet 中使用 ArcGIS 服务的一组轻量级工具，为官方实现。
-- [Openlayers](https://openlayers.org/) - 一个开源的、高性能、功能丰富的二维地图引擎。
-- [Cesium.js](https://cesiumjs.org/) - 目前最具优势的、功能丰富的开源三维地图引擎。
-- [Mapbox GL](https://docs.mapbox.com/mapbox-gl-js/overview/) - 一个开源的、基于 WebGL 技术的现代化地图引擎，由 MapBox 公司进行持续维护。
-- [Turf.js](http://turfjs.org/) - 一个开源的提供给浏览器和 Node.js 平台进行高级空间分析的工具库。
 
 #### 包管理器
 
