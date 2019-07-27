@@ -19,10 +19,10 @@
 
 ## 技术标准
 
-- [ESRI](https://www.esri.com/) - GIS 行业巨头，ArcGIS 发布者的官网。
-- [EPSG](http://www.epsg.org/) - EPSG 的维护组织 IOGP 官网。
 - [OGC](http://www.opengeospatial.org/) - 开放地理空间联盟（OGC）是一个致力于为全球地理空间社区制定高质量开放标准的国际非营利组织。
 - [OSGeo](https://www.osgeo.org/) - 开源空间信息基金会，一个全球性非营利性组织，目标是支持全球性的合作，建立和推广高品质的空间信息开源软件。
+- [ESRI](https://www.esri.com/) - GIS 行业巨头，ArcGIS 发布者的官网。
+- [EPSG](http://www.epsg.org/) - EPSG 的维护组织 IOGP 官网。
 - [EPSG.io](http://epsg.io/) - 全球坐标系统 EPSG 查询。
 - [Spatial Reference](https://spatialreference.org/) - 空间参考定义查询。
 
