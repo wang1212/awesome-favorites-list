@@ -15,6 +15,7 @@
   - [React.js 开发](awesome-reactjs.md)
 - Web 后端（Web Back End）
   - [Node.js](awesome-nodejs.md)
+- [GIS 开发](awesome-gis.md)
 - [其它资源](#其它资源)
   - [Websites](#websites)
     - [技术标准](#技术标准)
