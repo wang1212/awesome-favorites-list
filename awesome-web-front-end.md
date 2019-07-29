@@ -177,6 +177,8 @@
   - 国外
     - [jsDelivr](https://www.jsdelivr.com/)
     - [UNPKG](https://unpkg.com/)
+    - [cdnjs](https://cdnjs.com/)
+    - [Google Hosted Libraries](https://developers.google.com/speed/libraries/)
   - 国内
     - [BootCDN](https://www.bootcdn.cn/)
     - [Staticfile CDN](https://staticfile.org/)
@@ -191,8 +193,6 @@
   - [Varvy SEO tool](https://varvy.com/) - 一个在线网站 SEO、性能检测工具，提供优化建议和技巧。
   - [PageSpeed Insights](https://developers.google.com/speed/pagespeed/insights/) - Google 提供的在线网站性能检测工具，提供优化建议和技巧。
   - [Lighthouse](https://developers.google.com/web/tools/lighthouse/) - Google 提供的一个网站优化检测分析工具，已被集成在 Chrome 开发工具中，也可以作为 Chrome 扩展或者命令行工具使用。
-- GIS 工具
-  - [mapshaper](https://mapshaper.org/) - 在线地图数据编辑工具，支持 Shapefile、GeoJSON、TopoJSON、DBF 和 CSV 格式。
 
 ### 编程技巧
 
@@ -202,6 +202,5 @@
 
 - [Npm Trends](https://www.npmtrends.com/) - 非官方网站，可以查询对比多个 Npm 包的下载流量数据、star 数目等。
 - [Npm Charts](https://npmcharts.com/) - 非官方网站，可以查询对比多个 Npm 包的下载流量数据、star 数目等。
-- [WebGL 中文网](http://www.hewebgl.com/) - 国内一个提供 WebGL 开发技术学习课程收费服务的网站，有部分免费教程、技术文档。
 
 [Go Top ↑](#awesome-web-front-end-list)

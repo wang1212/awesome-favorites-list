@@ -10,10 +10,12 @@
 
 ## Contents
 
-- [Chrome 扩展程序（Chrome Extension）](https://github.com/wang1212/awesome-favorites-list/blob/master/awesome-chrome-extension.md)
-- [Web 前端（Web Front End）](https://github.com/wang1212/awesome-favorites-list/blob/master/awesome-web-front-end.md)
-  - [React.js 开发](https://github.com/wang1212/awesome-favorites-list/blob/master/awesome-reactjs.md)
-- [Web 后端（Web Back End）](#)
+- [Chrome 扩展程序（Chrome Extension）](awesome-chrome-extension.md)
+- [Web 前端（Web Front End）](awesome-web-front-end.md)
+  - [React.js 开发](awesome-reactjs.md)
+- Web 后端（Web Back End）
+  - [Node.js](awesome-nodejs.md)
+- [GIS 开发](awesome-gis.md)
 - [其它资源](#其它资源)
   - [Websites](#websites)
     - [技术标准](#技术标准)
@@ -30,11 +32,7 @@
     - [桌面端开发](#桌面端开发)
     - [服务器端开发](#服务器端开发)
       - [服务器](#服务器)
-      - [开发框架](#开发框架)
-    - [GIS 开发](#gis-开发)
-      - [Web GIS](#web-gis)
     - [包管理器](#包管理器)
-    - [项目构建工具](#项目构建工具)
     - [字体图标](#字体图标)
     - [学习资源](#学习资源)
   - [其它](#其它)
@@ -47,15 +45,9 @@
 
 #### 技术文档
 
-- [Node.js 中文网](http://nodejs.cn/) - 唯一与官方同步更新的 Node.js 中文文档。
-- [GeoJSON 格式规范说明](https://www.oschina.net/translate/geojson-spec?cmp) - OSChina 上一个开发者发布的 GeoJSON 格式规范说明的中英文对照翻译。
-
 #### 论坛社区
 
-- [OSGeo](https://www.osgeo.org/) - 开源空间信息基金会（Open Source Geospatial Foundation，简称 OSGeo）是一个全球性非营利性组织，目标是支持全球性的合作，建立和推广高品质的空间信息开源软件。
-- [OSGeo 中国中心](https://www.osgeo.cn/) - OSGeo 中国中心是由国家遥感中心发起、Autodesk 中国有限公司协助，经 OSGeo 正式授权的非营利性组织。OSGeo 中国中心的使命是支持开源地理信息软件和遥感软件的开发以及推动其更广泛的应用，尤其是帮助中国地区的用户和开发者更好地使用 OSGeo 基金会提供的源代码、产品及服务。
 - [Ruby China](https://ruby-china.org/) - 由众多爱好者共同维护的 Ruby 中文社区。
-- [CNode 社区](https://cnodejs.org/) - CNode 社区由一批热爱 Node.js 技术的工程师发起，致力于 Node.js 的技术研究。
 
 #### 编程技巧
 
@@ -97,8 +89,6 @@
 
 #### 桌面端开发
 
-- [Electron](https://electronjs.org/) - 基于 Node.js 与 Chromium 技术的开源跨平台桌面端应用开发解决方案，对 Web 前端开发人员友好。
-
 #### 服务器端开发
 
 ##### 服务器
@@ -106,21 +96,6 @@
 - [Nginx](http://nginx.org/en/) - 轻量级、高性能、高并发的 Web 服务器，主要作为负载均衡、反向代理、静态资源服务的前端服务器。
 - [Apache](http://httpd.apache.org/)
 - [Tomcat](http://tomcat.apache.org/) - Java Web 开发中的 Servlet 容器。
-
-##### 开发框架
-
-- [Express](http://expressjs.com/) - 基于 Node.js 技术的 Web 服务器端开源框架。
-
-#### GIS 开发
-
-##### Web GIS
-
-- [Leaflet](https://leafletjs.com/) - 目前最流行的、移动端优先、轻量级 Web GIS 开源框架。
-- [Esri Leaflet](https://github.com/Esri/esri-leaflet) - 作为一个 Leaflet 插件存在，用于在 Leaflet 中使用 ArcGIS 服务的一组轻量级工具，为官方实现。
-- [Openlayers](https://openlayers.org/) - 一个开源的、高性能、功能丰富的二维地图引擎。
-- [Cesium.js](https://cesiumjs.org/) - 目前最具优势的、功能丰富的开源三维地图引擎。
-- [Mapbox GL](https://docs.mapbox.com/mapbox-gl-js/overview/) - 一个开源的、基于 WebGL 技术的现代化地图引擎，由 MapBox 公司进行持续维护。
-- [Turf.js](http://turfjs.org/) - 一个开源的提供给浏览器和 Node.js 平台进行高级空间分析的工具库。
 
 #### 包管理器
 
