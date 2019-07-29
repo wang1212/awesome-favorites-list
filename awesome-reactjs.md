@@ -47,19 +47,23 @@
 - [Redux-Thunk](https://github.com/reduxjs/redux-thunk) - 作为一个 Redux 的中间件存在，提供了异步支持，**Redux 官方实现**。
 - [Redux-Logger](https://github.com/LogRocket/redux-logger) - 调试工具，作为一个 Redux 的中间件存在，提供了打印 Redux 日志功能。
 - [redux-devtools](https://github.com/reduxjs/redux-devtools) - Redux 调试工具，chrome 插件。
+- [Immutable.js](https://immutable-js.github.io/immutable-js/) - 不可变数据。
 
 ### 路由管理
 
-- [React-Router](https://reacttraining.com/react-router/) - 前端路由工具库。
+- [React-Router](https://reacttraining.com/react-router/)
+- [Reach Router](https://reach.tech/router)
 
 ### 优化方案
 
 - [React-Loadable](https://github.com/jamiebuilds/react-loadable) - React 高阶组件，提供了组件懒加载功能的实现，并处理了细节问题。
+- [Next.js](https://nextjs.org) - React.js 服务器端渲染框架。
 
 ### UI 组件库
 
 - [Material UI](https://material-ui.com/) - React 组件库，实现了 Google Material Design。
 - [reactstrap](https://reactstrap.github.io/) - Bootstrap 4 的 React 组件库的**非 Bootstrap 官方实现**。
+- [MDC React](https://github.com/material-components/material-components-web-react)
 
 ### 数据可视化
 
