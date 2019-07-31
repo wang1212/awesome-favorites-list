@@ -134,6 +134,7 @@
 ### 开发框架
 
 - [React.js](https://reactjs.org/) - Facebook 出品的 Web 前端开源库，目前最火的轻量级前端开发框架之一，其技术生态圈非常繁荣。
+- [Vue.js](https://vuejs.org/)
 - [Angular.js](https://angularjs.org/) - Google 出品的 Web 前端开源库，是一个比较重型的功能齐全的前端开发框架。
 
 [Go Top ↑](#awesome-web-front-end-list)
