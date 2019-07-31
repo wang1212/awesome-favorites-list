@@ -10,7 +10,6 @@
 
 ## Contents
 
-- [官方发布](#官方发布)
 - [技术生态](#技术生态)
   - [构建工具](#构建工具)
   - [状态管理](#状态管理)
@@ -20,27 +19,21 @@
   - [数据可视化](#数据可视化)
   - [其它技术](#其它技术)
 
-## 官方发布
-
-- [React.js](https://reactjs.org/) - React.js 官网。
-- [Jest](https://jestjs.io/) - 单元测试工具。
-- [babel-jest](https://github.com/facebook/jest/tree/master/packages/babel-jest) - Babel 的 Jest 插件，官方支持。
-- [react-devtools](https://github.com/facebook/react-devtools) - React 应用的调试工具，chrome 插件。
-- [create-react-app](https://github.com/facebook/create-react-app) - 零配置的 React App 构建工具，官方支持。
-
-[Go Top ↑](#awesome-reactjs-list)
-
 ## 技术生态
 
 ### 构建工具
 
 - [Babel](https://babeljs.io/) - TypeScript/ES Next 编译工具。
-  - [babel-preset-react](https://github.com/babel/babel/tree/master/packages/babel-preset-react) - Babel 的 React.js 预设插件，Babel 官方支持。
-  - [babel-preset-flow](https://github.com/babel/babel/tree/master/packages/babel-preset-flow) - Babel 的 Flow.js 预设插件，Babel 官方支持。
+  - [babel-preset-react](https://github.com/babel/babel/tree/master/packages/babel-preset-react) - Babel 的 React.js 预设插件，**Babel 官方发布**。
+  - [babel-preset-flow](https://github.com/babel/babel/tree/master/packages/babel-preset-flow) - Babel 的 Flow 预设插件，**Babel 官方发布**。
+  - [babel-jest](https://github.com/facebook/jest/tree/master/packages/babel-jest) - Babel 的 Jest 插件，**FaceBook 官方发布**。
 - [ESLint](https://eslint.org/) - 语法规则检查工具。
   - [eslint-plugin-react](https://github.com/yannickcr/eslint-plugin-react) - ESLint 的 React.js 语法规则插件。
   - [eslint-plugin-react-hooks](https://github.com/facebook/react/tree/master/packages/eslint-plugin-react-hooks) - ESLint 的 React Hooks 语法规则检查插件，**React 官方发布**。
-- [Flow](https://flow.org/) - JavaScript 静态类型检查工具，**React 官方发布**。
+- [Flow](https://flow.org/) - JavaScript 静态类型检查工具，**FaceBook 官方发布**。
+- [Jest](https://jestjs.io/) - 单元测试工具，**FaceBook 官方发布**。
+- [Create React App](https://github.com/facebook/create-react-app) - 零配置的 React App 构建工具，**React 官方发布**。
+- [react-devtools](https://github.com/facebook/react-devtools) - React 应用的调试工具，Chrome 插件。
 
 ### 状态管理
 
