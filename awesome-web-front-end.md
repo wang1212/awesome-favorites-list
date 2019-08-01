@@ -124,6 +124,7 @@
 - [DOM to Image](https://github.com/tsayen/dom-to-image/) - 利用 HTML5 Canvas 生成 DOM 节点的快照图片。
 - [html2canvas](https://html2canvas.hertzen.com) - 截屏，利用 HTML5 Canvas 生成 DOM 节点的快照图片。
 - [localForage](https://github.com/localForage/localForage) - 离线存储，对 IndexedDB、WebSQL、localStorage 的封装。
+- [Create.js](https://createjs.com) - 工具套件，包含 Canvas、Web Audio 等工具库。
 
 ### 数据可视化
 
