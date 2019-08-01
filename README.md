@@ -12,7 +12,7 @@
 
 - [Chrome 扩展程序（Chrome Extension）](awesome-chrome-extension.md)
 - [Web 前端（Web Front End）](awesome-web-front-end.md)
-  - [React.js 开发](awesome-reactjs.md)
+  - [React.js](awesome-reactjs.md)
 - Web 后端（Web Back End）
   - [Node.js](awesome-nodejs.md)
 - [GIS 开发](awesome-gis.md)
