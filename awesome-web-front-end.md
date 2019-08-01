@@ -19,7 +19,6 @@
   - [字体图标](#字体图标)
   - [UI 框架](#ui-框架)
 - [JavaScript](#javascript)
-  - [包管理器](#包管理器)
   - [构建工具](#js-构建工具)
   - [工具库](#js-工具库)
   - [数据可视化](#数据可视化)
@@ -91,12 +90,6 @@
 ## JavaScript
 
 - [ECMAScript 官方规范标准](https://www.ecma-international.org/publications/standards/Ecma-262.htm)
-
-### 包管理器
-
-- [npm](https://www.npmjs.com/)
-- [Yarn](https://yarnpkg.com/)
-- [Bower](https://bower.io/)
 
 ### JS 构建工具
 
