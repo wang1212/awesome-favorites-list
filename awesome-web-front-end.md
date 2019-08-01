@@ -111,13 +111,14 @@
 - [jQuery](https://jquery.com/) - 前几年非常流行的 DOM 操作工具库，处理了兼容性的细节问题。
 - [Lodash](https://lodash.com/) - JavaScript 的工具函数库，提供了大量非常有用的工具函数，并采用惰性计算优化了性能。
 - [axios](https://github.com/axios/axios) - 基于 Promise 的 HTTP 客户端工具库。
-- [Konva](https://konvajs.org) - 用于桌面和移动应用程序的 HTML5 2D canvas 库。
 - [crypto-js](https://github.com/brix/crypto-js) - JavaScript 加密库。
 - [SJCL](http://bitwiseshiftleft.github.io/sjcl/) - JavaScript 加密库。
 - [DOM to Image](https://github.com/tsayen/dom-to-image/) - 利用 HTML5 Canvas 生成 DOM 节点的快照图片。
 - [html2canvas](https://html2canvas.hertzen.com) - 截屏，利用 HTML5 Canvas 生成 DOM 节点的快照图片。
 - [localForage](https://github.com/localForage/localForage) - 离线存储，对 IndexedDB、WebSQL、localStorage 的封装。
 - [Create.js](https://createjs.com) - 工具套件，包含 Canvas、Web Audio 等工具库。
+- [Konva](https://konvajs.org) - 用于桌面和移动应用程序的 HTML5 2D canvas 库。
+- [Two.js](https://two.js.org/) - Web 二维绘图工具库，基于 Canvas、Svg、WebGL。
 
 ### 数据可视化
 
