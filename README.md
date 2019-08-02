@@ -68,6 +68,8 @@
 
 ### Software
 
+- [softonic](https://en.softonic.com) - 一个很棒的下载软件的网站。
+
 #### IDE 编辑器
 
 - [VS Code](https://code.visualstudio.com/) - 微软开源的一款轻量级开发工具，功能很强大，深受开发者的青睐，是 Web 前端开发者的工作利器。
