@@ -10,12 +10,16 @@
 
 ## Contents
 
-- [Chrome 扩展程序（Chrome Extension）](awesome-chrome-extension.md)
-- [Web 前端（Web Front End）](awesome-web-front-end.md)
-  - [React.js 开发](awesome-reactjs.md)
-- Web 后端（Web Back End）
+- [Web 前端开发（Web Front End）](awesome-web-front-end.md)
+  - [React.js](awesome-reactjs.md)
+- Web 后端开发（Web Back End）
   - [Node.js](awesome-nodejs.md)
 - [GIS 开发](awesome-gis.md)
+- [免费软件](#免费软件)
+  - [Chrome 扩展程序（Chrome Extension）](awesome-chrome-extension.md)
+  - [IDE/编辑器](#ide-编辑器)
+  - [源代码管理](#源代码管理)
+  - [开发辅助工具](#开发辅助工具)
 - [其它资源](#其它资源)
   - [Websites](#websites)
     - [技术标准](#技术标准)
@@ -24,10 +28,6 @@
     - [编程技巧](#编程技巧)
     - [在线工具](#在线工具)
   - [Books](#books)
-  - [Software](#software)
-    - [IDE/编辑器](#ide-编辑器)
-    - [源代码版本控制工具](#源代码版本控制工具)
-    - [开发辅助工具](#开发辅助工具)
   - [Open Source Projects](#open-source-projects)
     - [桌面端开发](#桌面端开发)
     - [服务器端开发](#服务器端开发)
@@ -36,6 +36,27 @@
     - [字体图标](#字体图标)
     - [学习资源](#学习资源)
   - [其它](#其它)
+
+## 免费软件
+
+- [softonic](https://en.softonic.com) - 一个很棒的下载软件的网站。
+
+### IDE 编辑器
+
+- [VS Code](https://code.visualstudio.com/) - 微软开源的一款轻量级开发工具，功能很强大，深受开发者的青睐，是 Web 前端开发者的工作利器。
+- [Sublime Text](http://www.sublimetext.com/) - 一款开源的轻量级编辑器，功能很强大，是在 VS Code、Atom 出现之前最受开发者欢迎的编辑器。
+- [Eclipse](https://www.eclipse.org/) - 开源的重量级编辑器，功能非常强大，是 Java 开发者中使用最多的 IDE。
+
+### 源代码管理
+
+- [Git](https://git-scm.com/) - 目前最受欢迎的，使用最广泛的分布式源代码版本控制工具。
+- [Tortoise SVN](https://tortoisesvn.net/) - SVN 是一种传统的中心化管理的源代码版本控制工具，Tortoise SVN 提供了 GUI 来使用 SVN。
+
+### 开发辅助工具
+
+- [Postman](https://www.getpostman.com/) - 一个非常棒的 API 管理工具。
+
+[Go Top ↑](#awesome-favorites-list)
 
 ## 其它资源
 
@@ -63,25 +84,6 @@
 
 - [Advanced Bash-Scripting Guide](http://tldp.org/LDP/abs/html/) - 《高级 Bash 脚本编程指南》，一本开源书籍。
 - [The Book Of Ruby](http://www.sapphiresteel.com/ruby-programming/The-Book-Of-Ruby.html) - 一本关于 Ruby 编程的开源书籍，涉及知识概念很全面。:point_right: [简体中文翻译](https://wang1212.github.io/the-book-of-ruby/#/0-homepage.html)
-
-[Go Top ↑](#awesome-favorites-list)
-
-### Software
-
-#### IDE 编辑器
-
-- [VS Code](https://code.visualstudio.com/) - 微软开源的一款轻量级开发工具，功能很强大，深受开发者的青睐，是 Web 前端开发者的工作利器。
-- [Sublime Text](http://www.sublimetext.com/) - 一款开源的轻量级编辑器，功能很强大，是在 VS Code、Atom 出现之前最受开发者欢迎的编辑器。
-- [Eclipse](https://www.eclipse.org/) - 开源的重量级编辑器，功能非常强大，是 Java 开发者中使用最多的 IDE。
-
-#### 源代码版本控制工具
-
-- [Git](https://git-scm.com/) - 目前最受欢迎的，使用最广泛的分布式源代码版本控制工具。
-- [Tortoise SVN](https://tortoisesvn.net/) - SVN 是一种传统的中心化管理的源代码版本控制工具，Tortoise SVN 提供了 GUI 来使用 SVN。
-
-#### 开发辅助工具
-
-- [Postman](https://www.getpostman.com/) - 一个非常棒的 API 管理工具。
 
 [Go Top ↑](#awesome-favorites-list)
 
@@ -125,9 +127,7 @@
 - [33 js concepts](https://github.com/leonardomso/33-js-concepts) - 包含了丰富的 JavaScript 相关的知识概念，学习资源。
 - [掘金翻译计划](https://github.com/xitu/gold-miner) - 掘金翻译计划，可能是世界最大最好的英译中技术社区，最懂读者和译者的翻译平台。
 
-[Go Top ↑](#awesome-favorites-list)
-
-## 其它
+### 其它
 
 - [GitHub Guides](https://guides.github.com/) - Github 的官方指南页面，可以帮助开发者系统迅速的了解 Github 及其简单的用法。
 - [句子迷](https://www.juzimi.com/)

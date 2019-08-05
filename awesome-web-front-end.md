@@ -19,7 +19,6 @@
   - [字体图标](#字体图标)
   - [UI 框架](#ui-框架)
 - [JavaScript](#javascript)
-  - [包管理器](#包管理器)
   - [构建工具](#js-构建工具)
   - [工具库](#js-工具库)
   - [数据可视化](#数据可视化)
@@ -71,9 +70,12 @@
 - 字体
   - [Source Code Pro](https://github.com/adobe-fonts/source-code-pro) - Adobe 出品的开源等宽字体，适合编程使用。
 - WebFont 图标
-  - [Font Awesome](https://fontawesome.com/)
+  - [Font Awesome](https://fontawesome.com/) - 提供了非常多的免费图标的库，使用率非常高。
   - [Material Icons](https://material.io/tools/icons/) - Google 官方提供的 Material Design 风格的图标库。
   - [Material Design Icons](http://materialdesignicons.com/) - 遵循 Google Material Design 的图标库，**非官方实现**。
+  - [IonIcons](https://ionicons.com) - ionic 框架团队制作的图标库。
+  - [Octicons](https://octicons.github.com/) - GitHub 官方制作的图标库。
+  - [Feather](https://feathericons.com/)
   - [Flat Icon](https://www.flaticon.com/)
   - [Icons8](https://icons8.com/) - 提供免费的图标设计工具。
 
@@ -91,12 +93,6 @@
 ## JavaScript
 
 - [ECMAScript 官方规范标准](https://www.ecma-international.org/publications/standards/Ecma-262.htm)
-
-### 包管理器
-
-- [npm](https://www.npmjs.com/)
-- [Yarn](https://yarnpkg.com/)
-- [Bower](https://bower.io/)
 
 ### JS 构建工具
 
@@ -118,11 +114,16 @@
 - [jQuery](https://jquery.com/) - 前几年非常流行的 DOM 操作工具库，处理了兼容性的细节问题。
 - [Lodash](https://lodash.com/) - JavaScript 的工具函数库，提供了大量非常有用的工具函数，并采用惰性计算优化了性能。
 - [axios](https://github.com/axios/axios) - 基于 Promise 的 HTTP 客户端工具库。
-- [Konva](https://konvajs.org) - 用于桌面和移动应用程序的 HTML5 2D canvas 库。
 - [crypto-js](https://github.com/brix/crypto-js) - JavaScript 加密库。
 - [SJCL](http://bitwiseshiftleft.github.io/sjcl/) - JavaScript 加密库。
 - [DOM to Image](https://github.com/tsayen/dom-to-image/) - 利用 HTML5 Canvas 生成 DOM 节点的快照图片。
 - [html2canvas](https://html2canvas.hertzen.com) - 截屏，利用 HTML5 Canvas 生成 DOM 节点的快照图片。
+- [localForage](https://github.com/localForage/localForage) - 离线存储，对 IndexedDB、WebSQL、localStorage 的封装。
+- [Create.js](https://createjs.com) - 工具套件，包含 Canvas、Web Audio 等工具库。
+- [Konva](https://konvajs.org) - 用于桌面和移动应用程序的 HTML5 2D canvas 库。
+- [Two.js](https://two.js.org/) - Web 二维绘图工具库，基于 Canvas、Svg、WebGL。
+- [FileSaver.js](https://github.com/eligrey/FileSaver.js/) - Web 浏览器客户端文件保存 api 实现。
+- [StreamSaver.js](https://github.com/jimmywarting/StreamSaver.js) - Web 浏览器客户端异步保存文件 api 实现，解决了 FileSaver 的大小限制问题。
 
 ### 数据可视化
 
@@ -134,6 +135,7 @@
 ### 开发框架
 
 - [React.js](https://reactjs.org/) - Facebook 出品的 Web 前端开源库，目前最火的轻量级前端开发框架之一，其技术生态圈非常繁荣。
+- [Vue.js](https://vuejs.org/)
 - [Angular.js](https://angularjs.org/) - Google 出品的 Web 前端开源库，是一个比较重型的功能齐全的前端开发框架。
 
 [Go Top ↑](#awesome-web-front-end-list)
@@ -157,6 +159,7 @@
 - [菜鸟教程](http://www.runoob.com/) - 国内另一个仿国外 w3schools 的 Web 技术学习资源网站。
 - [jQuery API 中文文档](http://jquery.cuishifeng.cn/) - 一个国内开发者维护的 jQuery API 中文文档，非常实用。
 - [33 js concepts](https://github.com/leonardomso/33-js-concepts) - 包含了丰富的 JavaScript 相关的知识概念，学习资源。
+- [印记中文](https://docschina.org/) - 包含了许多前端技术库的中文翻译文档。
 
 ### NPM 包
 
