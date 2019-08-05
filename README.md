@@ -15,7 +15,7 @@
 - Web 后端开发（Web Back End）
   - [Node.js](awesome-nodejs.md)
 - [GIS 开发](awesome-gis.md)
-- [免费软件（Free Software）](#免费软件)
+- [免费软件](#免费软件)
   - [Chrome 扩展程序（Chrome Extension）](awesome-chrome-extension.md)
   - [IDE/编辑器](#ide-编辑器)
   - [源代码管理](#源代码管理)
