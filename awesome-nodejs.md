@@ -45,6 +45,8 @@
 ## 开发框架
 
 - [Express](http://expressjs.com/) - 非常成熟的 Node.js Web 开发框架。
+  - [express-session](https://github.com/expressjs/session) - Express 中间件，提供 Session-Cookie 机制的支持，**官方发布**。
+  - [body-parser](https://github.com/expressjs/body-parser) - Express 中间件，对 request 的 body 进行预处理，**官方发布**。
 - [Electron](https://electronjs.org/) - 基于 Node.js 与 Chromium 技术的开源跨平台桌面端应用开发解决方案，对 Web 前端开发人员友好。
 
 [Go Top ↑](#awesome-nodejs-list)
@@ -60,7 +62,9 @@
 ### 辅助工具
 
 - [n](https://github.com/tj/n) - npm 包，Node 版本管理工具。
+- [pm2](https://pm2.keymetrics.io/) - Node.js 生产环境进程管理工具，支持集群、负载。
 - [npm-check-updates](https://github.com/tjunnone/npm-check-updates) - 项目依赖 npm 包批量更新工具。
+- [nodemon](https://nodemon.io) - Node.js 热重载开发工具。
 - [chalk](https://github.com/chalk/chalk) - 终端输出字符串样式工具，支持全部的颜色。
 - [Npm Trends](https://www.npmtrends.com/) - 非官方网站，可以查询对比多个 Npm 包的下载流量数据、star 数目等。
 - [Npm Charts](https://npmcharts.com/) - 非官方网站，可以查询对比多个 Npm 包的下载流量数据、star 数目等。
