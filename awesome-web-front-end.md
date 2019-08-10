@@ -26,7 +26,6 @@
 - [资源](#资源)
   - [技术规范标准](#技术规范标准)
   - [技术参考文档](#技术参考文档)
-  - [NPM 包](#npm-包)
   - [论坛社区](#论坛社区)
   - [在线工具](#在线工具)
   - [编程技巧](#编程技巧)
@@ -106,6 +105,7 @@
 - [ESLint](https://eslint.org/) - JavaScript 语法规则检查工具。
 - [JSDoc](https://jsdoc.app/) - JavaScript 的 API 文档生成工具。
 - [Browsersync](https://www.browsersync.io/) - 浏览器同步调式工具，功能非常强大。
+- [npm-check-updates](https://www.npmjs.com/package/npm-check-updates) - 可以更新项目 npm 依赖的辅助工具，非常棒。
 
 ### JS 工具库
 
@@ -168,10 +168,6 @@
 - [jQuery API 中文文档](http://jquery.cuishifeng.cn/) - 一个国内开发者维护的 jQuery API 中文文档，非常实用。
 - [33 js concepts](https://github.com/leonardomso/33-js-concepts) - 包含了丰富的 JavaScript 相关的知识概念，学习资源。
 - [印记中文](https://docschina.org/) - 包含了许多前端技术库的中文翻译文档。
-
-### NPM 包
-
-- [npm-check-updates](https://www.npmjs.com/package/npm-check-updates) - 可以更新项目 npm 依赖的辅助工具，非常棒。
 
 ### 论坛社区
 
