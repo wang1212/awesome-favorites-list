@@ -114,12 +114,13 @@
   - [core-js](https://github.com/zloirock/core-js) - 现代 JavaScript 标准库。
 - Util
   - [Lodash](https://lodash.com/) - JavaScript 的工具函数库，提供了大量非常有用的工具函数，并采用惰性计算优化了性能。
+  - [RxJS](https://rxjs.dev/) - 响应式编程（Reactive Extensions）的 JavaScript 实现，对异步数据集合处理很方便。
 - DOM
   - [jQuery](https://jquery.com/) - 前几年非常流行的 DOM 操作工具库，处理了兼容性的细节问题。
   - [Zepto.js](https://zeptojs.com/) - 兼容 jQuery API 的轻量级工具库，适合移动端使用。
 - HTTP
   - [axios](https://github.com/axios/axios) - 基于 Promise 的 HTTP 客户端工具库。
-- Data 
+- Data & Cache
   - [crypto-js](https://github.com/brix/crypto-js) - JavaScript 加密库。
   - [SJCL](http://bitwiseshiftleft.github.io/sjcl/) - JavaScript 加密库。
   - [localForage](https://github.com/localForage/localForage) - 离线存储，对 IndexedDB、WebSQL、localStorage 的封装。
