@@ -15,7 +15,7 @@
 - Web 后端开发（Web Back End）
   - [Node.js](awesome-nodejs.md)
 - [GIS 开发](awesome-gis.md)
-- [免费软件](#免费软件)
+- [软件](#软件)
   - [Chrome 扩展程序（Chrome Extension）](awesome-chrome-extension.md)
   - [IDE/编辑器](#ide-编辑器)
   - [源代码管理](#源代码管理)
@@ -37,9 +37,11 @@
     - [学习资源](#学习资源)
   - [其它](#其它)
 
-## 免费软件
+## 软件
 
 - [softonic](https://en.softonic.com) - 一个很棒的下载软件的网站。
+- [Slant](https://www.slant.co/) - 搜索最佳实践。
+- [LibHunt](https://www.libhunt.com/) - 搜集了各种库的网站。
 
 ### IDE 编辑器
 

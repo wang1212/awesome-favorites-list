@@ -26,8 +26,8 @@
 - [资源](#资源)
   - [技术规范标准](#技术规范标准)
   - [技术参考文档](#技术参考文档)
-  - [NPM 包](#npm-包)
   - [论坛社区](#论坛社区)
+  - [期刊](#期刊)
   - [在线工具](#在线工具)
   - [编程技巧](#编程技巧)
   - [其它](#其它)
@@ -106,24 +106,34 @@
 - [ESLint](https://eslint.org/) - JavaScript 语法规则检查工具。
 - [JSDoc](https://jsdoc.app/) - JavaScript 的 API 文档生成工具。
 - [Browsersync](https://www.browsersync.io/) - 浏览器同步调式工具，功能非常强大。
+- [npm-check-updates](https://www.npmjs.com/package/npm-check-updates) - 可以更新项目 npm 依赖的辅助工具，非常棒。
 
 ### JS 工具库
 
-- [Promise Polyfill](https://github.com/taylorhakes/promise-polyfill) - 可以在不支持 Promise API 的浏览器上提供对其的支持。
-- [core-js](https://github.com/zloirock/core-js) - 现代 JavaScript 标准库。
-- [jQuery](https://jquery.com/) - 前几年非常流行的 DOM 操作工具库，处理了兼容性的细节问题。
-- [Lodash](https://lodash.com/) - JavaScript 的工具函数库，提供了大量非常有用的工具函数，并采用惰性计算优化了性能。
-- [axios](https://github.com/axios/axios) - 基于 Promise 的 HTTP 客户端工具库。
-- [crypto-js](https://github.com/brix/crypto-js) - JavaScript 加密库。
-- [SJCL](http://bitwiseshiftleft.github.io/sjcl/) - JavaScript 加密库。
-- [DOM to Image](https://github.com/tsayen/dom-to-image/) - 利用 HTML5 Canvas 生成 DOM 节点的快照图片。
-- [html2canvas](https://html2canvas.hertzen.com) - 截屏，利用 HTML5 Canvas 生成 DOM 节点的快照图片。
-- [localForage](https://github.com/localForage/localForage) - 离线存储，对 IndexedDB、WebSQL、localStorage 的封装。
-- [Create.js](https://createjs.com) - 工具套件，包含 Canvas、Web Audio 等工具库。
-- [Konva](https://konvajs.org) - 用于桌面和移动应用程序的 HTML5 2D canvas 库。
-- [Two.js](https://two.js.org/) - Web 二维绘图工具库，基于 Canvas、Svg、WebGL。
-- [FileSaver.js](https://github.com/eligrey/FileSaver.js/) - Web 浏览器客户端文件保存 api 实现。
-- [StreamSaver.js](https://github.com/jimmywarting/StreamSaver.js) - Web 浏览器客户端异步保存文件 api 实现，解决了 FileSaver 的大小限制问题。
+- Polyfill
+  - [Promise Polyfill](https://github.com/taylorhakes/promise-polyfill) - 可以在不支持 Promise API 的浏览器上提供对其的支持。
+  - [core-js](https://github.com/zloirock/core-js) - 现代 JavaScript 标准库。
+- Util
+  - [Lodash](https://lodash.com/) - JavaScript 的工具函数库，提供了大量非常有用的工具函数，并采用惰性计算优化了性能。
+  - [RxJS](https://rxjs.dev/) - 响应式编程（Reactive Extensions）的 JavaScript 实现，对异步数据集合处理很方便。
+- DOM
+  - [jQuery](https://jquery.com/) - 前几年非常流行的 DOM 操作工具库，处理了兼容性的细节问题。
+  - [Zepto.js](https://zeptojs.com/) - 兼容 jQuery API 的轻量级工具库，适合移动端使用。
+- HTTP
+  - [axios](https://github.com/axios/axios) - 基于 Promise 的 HTTP 客户端工具库。
+- Data & Cache
+  - [crypto-js](https://github.com/brix/crypto-js) - JavaScript 加密库。
+  - [SJCL](http://bitwiseshiftleft.github.io/sjcl/) - JavaScript 加密库。
+  - [localForage](https://github.com/localForage/localForage) - 离线存储，对 IndexedDB、WebSQL、localStorage 的封装。
+- Canvas & Draw
+  - [DOM to Image](https://github.com/tsayen/dom-to-image/) - 利用 HTML5 Canvas 生成 DOM 节点的快照图片。
+  - [html2canvas](https://html2canvas.hertzen.com) - 截屏，利用 HTML5 Canvas 生成 DOM 节点的快照图片。
+  - [Create.js](https://createjs.com) - 工具套件，包含 Canvas、Web Audio 等工具库。
+  - [Konva](https://konvajs.org) - 用于桌面和移动应用程序的 HTML5 2D canvas 库。
+  - [Two.js](https://two.js.org/) - Web 二维绘图工具库，基于 Canvas、Svg、WebGL。
+- File
+  - [FileSaver.js](https://github.com/eligrey/FileSaver.js/) - Web 浏览器客户端文件保存 api 实现。
+  - [StreamSaver.js](https://github.com/jimmywarting/StreamSaver.js) - Web 浏览器客户端异步保存文件 api 实现，解决了 FileSaver 的大小限制问题。
 
 ### 数据可视化
 
@@ -146,6 +156,7 @@
 
 - [W3C](https://www.w3.org/) - 万维网联盟创建于 1994 年，是 Web 技术领域最具权威和影响力的国际中立性技术标准机构。
 - [ECMA International](http://www.ecma-international.org/) - ECMA 国际是一家国际性会员制度的信息和电信标准组织，负责行业标准的制定，例如 ECMA Script。
+- [JSON Schema](http://json-schema.org/) - JSON 数据校验。
 - [Chrome Blink status](https://www.chromestatus.com/) - Google Chrome 的 Blink 引擎功能特性的官方实现和标准化的开发状态查询列表。
 - [Firefox status](https://platform-status.mozilla.org/) - Firefox 的 Web 平台功能的官方实现和标准化路线图查询列表。
 - [Webkit](https://webkit.org/) - Webkit 浏览器引擎的官方网站，可查询其功能特性的实现和标准化状态。
@@ -161,10 +172,6 @@
 - [33 js concepts](https://github.com/leonardomso/33-js-concepts) - 包含了丰富的 JavaScript 相关的知识概念，学习资源。
 - [印记中文](https://docschina.org/) - 包含了许多前端技术库的中文翻译文档。
 
-### NPM 包
-
-- [npm-check-updates](https://www.npmjs.com/package/npm-check-updates) - 可以更新项目 npm 依赖的辅助工具，非常棒。
-
 ### 论坛社区
 
 - [Stack Overflow](https://stackoverflow.com/) - 全球的程序员学习、分享，技术问答社区网站。
@@ -173,6 +180,11 @@
 - [掘金翻译计划](https://github.com/xitu/gold-miner) - 掘金翻译计划，可能是世界最大最好的英译中技术社区，最懂读者和译者的翻译平台。
 - [图灵社区](http://www.ituring.com.cn/) - 国内一个出版计算机类相关书籍的社区，外文书翻译质量非常高，拥有很好的用户口碑。
 - [慕课网](https://www.imooc.com/) - 国内一个提供计算机开发技术学习课程收费服务的网站，有大量免费优质学习资源。
+
+### 期刊
+
+- [JavaScript-weekly](https://javascriptweekly.com/) - JavaScript 周刊。
+- [CSS-weekly](https://css-weekly.com/) - CSS 周刊。
 
 ### 在线工具
 
