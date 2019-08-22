@@ -40,8 +40,9 @@
 ## 软件
 
 - [softonic](https://en.softonic.com) - 一个很棒的下载软件的网站。
+- [SourceForge.net](https://sourceforge.net/)
 - [Slant](https://www.slant.co/) - 搜索最佳实践。
-- [LibHunt](https://www.libhunt.com/) - 搜集了各种库的网站。
+- [LibHunt](https://www.libhunt.com/) - 收集了各种库的网站。
 
 ### IDE 编辑器
 
