@@ -92,6 +92,8 @@
 
 ## JavaScript
 
+推荐一个其它的收藏库，:point_right: https://github.com/sorrycc/awesome-javascript
+
 - [ECMAScript 官方规范标准](https://www.ecma-international.org/publications/standards/Ecma-262.htm)
 
 ### JS 构建工具
