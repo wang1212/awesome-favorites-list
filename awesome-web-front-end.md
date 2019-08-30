@@ -198,7 +198,9 @@
     - [Google Hosted Libraries](https://developers.google.com/speed/libraries/)
   - 国内
     - [BootCDN](https://www.bootcdn.cn/)
+    - [75CDN](https://cdn.baomitu.com)
     - [Staticfile CDN](https://staticfile.org/)
+    - [loli.net](https://css.loli.net/)
 - 图片压缩
   - [Compress PNG](https://compresspng.com/)
   - [Picdiet](https://www.picdiet.com/)
