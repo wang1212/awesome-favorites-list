@@ -20,10 +20,9 @@
   - [IDE/编辑器](#ide-编辑器)
   - [源代码管理](#源代码管理)
   - [开发辅助工具](#开发辅助工具)
+  - [办公](#办公)
 - [其它资源](#其它资源)
   - [Websites](#websites)
-    - [技术标准](#技术标准)
-    - [技术文档](#技术文档)
     - [论坛社区](#论坛社区)
     - [编程技巧](#编程技巧)
     - [在线工具](#在线工具)
@@ -40,8 +39,9 @@
 ## 软件
 
 - [softonic](https://en.softonic.com) - 一个很棒的下载软件的网站。
+- [SourceForge.net](https://sourceforge.net/)
 - [Slant](https://www.slant.co/) - 搜索最佳实践。
-- [LibHunt](https://www.libhunt.com/) - 搜集了各种库的网站。
+- [LibHunt](https://www.libhunt.com/) - 收集了各种库的网站。
 
 ### IDE 编辑器
 
@@ -58,15 +58,15 @@
 
 - [Postman](https://www.getpostman.com/) - 一个非常棒的 API 管理工具。
 
+### 办公
+
+- [DocTranslator](https://www.onlinedoctranslator.com/zh-CN/) - 在线网站，可翻译文档，PDF 转 Word 无水印。
+
 [Go Top ↑](#awesome-favorites-list)
 
 ## 其它资源
 
 ### Websites
-
-#### 技术标准
-
-#### 技术文档
 
 #### 论坛社区
 
@@ -134,5 +134,7 @@
 - [GitHub Guides](https://guides.github.com/) - Github 的官方指南页面，可以帮助开发者系统迅速的了解 Github 及其简单的用法。
 - [句子迷](https://www.juzimi.com/)
 - [古诗文网](https://www.gushiwen.org/)
+- [Pexels](https://www.pexels.com/zh-cn/) - 免费的摄影素材分享。
+- [ProductHunt](https://www.producthunt.com/) - 产品发布分享。
 
 [Go Top ↑](#awesome-favorites-list)

@@ -92,6 +92,8 @@
 
 ## JavaScript
 
+推荐一个其它的收藏库，:point_right: https://github.com/sorrycc/awesome-javascript
+
 - [ECMAScript 官方规范标准](https://www.ecma-international.org/publications/standards/Ecma-262.htm)
 
 ### JS 构建工具
@@ -196,7 +198,9 @@
     - [Google Hosted Libraries](https://developers.google.com/speed/libraries/)
   - 国内
     - [BootCDN](https://www.bootcdn.cn/)
+    - [75CDN](https://cdn.baomitu.com)
     - [Staticfile CDN](https://staticfile.org/)
+    - [loli.net](https://css.loli.net/)
 - 图片压缩
   - [Compress PNG](https://compresspng.com/)
   - [Picdiet](https://www.picdiet.com/)
