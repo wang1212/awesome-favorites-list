@@ -77,6 +77,7 @@
 - [Bash Pitfalls](http://mywiki.wooledge.org/BashPitfalls) - 此页面汇总了 Bash 用户常犯的编程错误。
 - [COMMANDLINEFU.COM](https://www.commandlinefu.com/commands/browse) - 汇集了很多优秀的、充满智慧的、简洁的命令行命令。
 - [Perfection Kills](http://perfectionkills.com/)
+- [Hackr.io](https://hackr.io/) - 在线教程。
 
 #### 在线工具
 
