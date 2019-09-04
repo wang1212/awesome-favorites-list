@@ -103,15 +103,17 @@
 - [Grunt](https://gruntjs.com/)
 - [WorkBox](https://developers.google.com/web/tools/workbox/) - Google 专门为构建 PWA （Progressive Web App，渐进式 Web 应用）提供的一套开发工具，支持多个平台，并提供了方便的 webpack 插件。
 - [Babel](https://babeljs.io/) - JS 编译工具，可将其它语言（TypeScript、ES6/7/8）代码编译为 JavaScript 代码。
-- [JEST](https://jestjs.io/) - Facebook 出品的 JavaScript 单元测试工具。
 - [Flow](https://flow.org/) - Facebook 出品的 JavaScript 静态类型检查工具。
 - [ESLint](https://eslint.org/) - JavaScript 语法规则检查工具。
-- [JSDoc](https://jsdoc.app/) - JavaScript 的 API 文档生成工具。
 - [Browsersync](https://www.browsersync.io/) - 浏览器同步调式工具，功能非常强大。
 - [npm-check-updates](https://www.npmjs.com/package/npm-check-updates) - 可以更新项目 npm 依赖的辅助工具，非常棒。
 
 ### JS 工具库
 
+- Doc
+  - [JSDoc](https://jsdoc.app/) - JavaScript 的 API 文档生成工具。
+- Test
+  - [JEST](https://jestjs.io/) - Facebook 出品的 JavaScript 单元测试工具。
 - Polyfill
   - [Promise Polyfill](https://github.com/taylorhakes/promise-polyfill) - 可以在不支持 Promise API 的浏览器上提供对其的支持。
   - [core-js](https://github.com/zloirock/core-js) - 现代 JavaScript 标准库。
@@ -121,7 +123,7 @@
 - DOM
   - [jQuery](https://jquery.com/) - 前几年非常流行的 DOM 操作工具库，处理了兼容性的细节问题。
   - [Zepto.js](https://zeptojs.com/) - 兼容 jQuery API 的轻量级工具库，适合移动端使用。
-- HTTP
+- HTTP - Ajax / Promise / fetch
   - [axios](https://github.com/axios/axios) - 基于 Promise 的 HTTP 客户端工具库。
 - Data & Cache
   - [crypto-js](https://github.com/brix/crypto-js) - JavaScript 加密库。
