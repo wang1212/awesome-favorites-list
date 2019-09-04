@@ -26,11 +26,9 @@
 - [资源](#资源)
   - [技术规范标准](#技术规范标准)
   - [技术参考文档](#技术参考文档)
-  - [论坛社区](#论坛社区)
-  - [技术期刊](#技术期刊)
   - [在线工具](#在线工具)
-  - [编程技巧](#编程技巧)
-  - [书籍](#书籍)
+  - [论坛社区](#论坛社区)  
+  - [技术读物](#技术读物)
   - [其它](#其它)
 
 ## HTML
@@ -177,20 +175,6 @@
 - [33 js concepts](https://github.com/leonardomso/33-js-concepts) - 包含了丰富的 JavaScript 相关的知识概念，学习资源。
 - [印记中文](https://docschina.org/) - 包含了许多前端技术库的中文翻译文档。
 
-### 论坛社区
-
-- [Stack Overflow](https://stackoverflow.com/) - 全球的程序员学习、分享，技术问答社区网站。
-- [SegmentFault](https://segmentfault.com/) - 国内一个类似 Stack Overflow 的程序员技术学习，问答社区网站。
-- [掘金社区](https://juejin.im/) - 国内一个帮助开发者成长的社区，有很多优质的技术文章。
-- [掘金翻译计划](https://github.com/xitu/gold-miner) - 掘金翻译计划，可能是世界最大最好的英译中技术社区，最懂读者和译者的翻译平台。
-- [图灵社区](http://www.ituring.com.cn/) - 国内一个出版计算机类相关书籍的社区，外文书翻译质量非常高，拥有很好的用户口碑。
-- [慕课网](https://www.imooc.com/) - 国内一个提供计算机开发技术学习课程收费服务的网站，有大量免费优质学习资源。
-
-### 技术期刊
-
-- [JavaScript-weekly](https://javascriptweekly.com/) - JavaScript 周刊。
-- [CSS-weekly](https://css-weekly.com/) - CSS 周刊。
-
 ### 在线工具
 
 - Free CDN
@@ -216,15 +200,30 @@
   - [PageSpeed Insights](https://developers.google.com/speed/pagespeed/insights/) - Google 提供的在线网站性能检测工具，提供优化建议和技巧。
   - [Lighthouse](https://developers.google.com/web/tools/lighthouse/) - Google 提供的一个网站优化检测分析工具，已被集成在 Chrome 开发工具中，也可以作为 Chrome 扩展或者命令行工具使用。
 
-### 编程技巧
+### 论坛社区
 
-- [30 seconds](https://github.com/30-seconds) - 30 seconds 是一个系列，包含 JS、React.js、CSS 相关的编程技巧。
+- [Stack Overflow](https://stackoverflow.com/) - 全球的程序员学习、分享，技术问答社区网站。
+- [SegmentFault](https://segmentfault.com/) - 国内一个类似 Stack Overflow 的程序员技术学习，问答社区网站。
+- [掘金社区](https://juejin.im/) - 国内一个帮助开发者成长的社区，有很多优质的技术文章。
+- [掘金翻译计划](https://github.com/xitu/gold-miner) - 掘金翻译计划，可能是世界最大最好的英译中技术社区，最懂读者和译者的翻译平台。
+- [图灵社区](http://www.ituring.com.cn/) - 国内一个出版计算机类相关书籍的社区，外文书翻译质量非常高，拥有很好的用户口碑。
+- [慕课网](https://www.imooc.com/) - 国内一个提供计算机开发技术学习课程收费服务的网站，有大量免费优质学习资源。
 
-### 书籍
+### 技术读物
 
-- [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS) - 讲解现代 JavaScript 语言核心机制的系列技术书籍。
-
-
+- Book
+  - [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS) - 讲解现代 JavaScript 语言核心机制的系列技术书籍。
+- Journal
+  - [JavaScript-weekly](https://javascriptweekly.com/) - JavaScript 周刊。
+  - [CSS-weekly](https://css-weekly.com/) - CSS 周刊。
+- Skill
+  - [30 seconds](https://github.com/30-seconds) - 30 seconds 是一个系列，包含 JS、React.js、CSS 相关的编程技巧。
+  - [JS The Right Way](http://jstherightway.org/) - 一些 JavaScript 最佳实践。
+- Other
+  - [SJSJ](https://github.com/HugoGiraudel/SJSJ) - JavaScript 术语介绍。
+  - [Superhero.js](http://superherojs.com/) - 构建大型项目的一些技巧。
+  - [Write an Open Source JavaScript Library](https://github.com/sarbbottam/write-an-open-source-js-lib)
+ 
 ### 其它
 
 - [Npm Trends](https://www.npmtrends.com/) - 非官方网站，可以查询对比多个 Npm 包的下载流量数据、star 数目等。
