@@ -27,9 +27,10 @@
   - [技术规范标准](#技术规范标准)
   - [技术参考文档](#技术参考文档)
   - [论坛社区](#论坛社区)
-  - [期刊](#期刊)
+  - [技术期刊](#技术期刊)
   - [在线工具](#在线工具)
   - [编程技巧](#编程技巧)
+  - [书籍](#书籍)
   - [其它](#其它)
 
 ## HTML
@@ -185,7 +186,7 @@
 - [图灵社区](http://www.ituring.com.cn/) - 国内一个出版计算机类相关书籍的社区，外文书翻译质量非常高，拥有很好的用户口碑。
 - [慕课网](https://www.imooc.com/) - 国内一个提供计算机开发技术学习课程收费服务的网站，有大量免费优质学习资源。
 
-### 期刊
+### 技术期刊
 
 - [JavaScript-weekly](https://javascriptweekly.com/) - JavaScript 周刊。
 - [CSS-weekly](https://css-weekly.com/) - CSS 周刊。
@@ -218,6 +219,11 @@
 ### 编程技巧
 
 - [30 seconds](https://github.com/30-seconds) - 30 seconds 是一个系列，包含 JS、React.js、CSS 相关的编程技巧。
+
+### 书籍
+
+- [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS) - 讲解现代 JavaScript 语言核心机制的系列技术书籍。
+
 
 ### 其它
 
