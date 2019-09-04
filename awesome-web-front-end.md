@@ -83,6 +83,7 @@
 - [Bootstrap](https://getbootstrap.com/) - 最流行的 CSS UI 框架。
 - [Materialize](https://materializecss.com/) - 最流行的实现了 Google Material Design 的 CSS UI 框架。
 - [Material Design Lite](https://getmdl.io/) - Google 官方实现的基于 Material Design 的轻量级 CSS UI 框架。
+- [Semantic UI](https://semantic-ui.com)
 - [Material Components Web](https://material.io/develop/) - Google 官方实现的基于 Material Design 的 Web 组件库。
 - [UIkit](https://getuikit.com/) - 轻量级的现代化前端 CSS 框架。
 - [Pure.CSS](https://purecss.io/) - 一组小的，响应式的 CSS 模块。
