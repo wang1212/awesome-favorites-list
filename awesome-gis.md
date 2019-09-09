@@ -47,6 +47,7 @@
 ### 开发工具
 
 - [Turf.js](http://turfjs.org/) - 一个开源的提供给浏览器和 Node.js 平台进行高级空间分析的工具库。
+- [JSTS](https://github.com/bjornharrtell/jsts) - 开源的空间分析库。
 - [mapshaper](https://mapshaper.org/) - 在线地图数据编辑工具，支持 Shapefile、GeoJSON、TopoJSON、DBF 和 CSV 格式。
 - [proj4js](http://proj4js.org/) - proj4 的 JavaScript 实现，可进行坐标系统转换。
 
