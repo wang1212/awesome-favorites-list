@@ -25,14 +25,13 @@
   - [Websites](#websites)
     - [论坛社区](#论坛社区)
     - [编程技巧](#编程技巧)
-    - [在线工具](#在线工具)
   - [Books](#books)
   - [Open Source Projects](#open-source-projects)
     - [桌面端开发](#桌面端开发)
     - [服务器端开发](#服务器端开发)
       - [服务器](#服务器)
     - [包管理器](#包管理器)
-    - [字体图标](#字体图标)
+    - [工具平台](#工具平台)
     - [学习资源](#学习资源)
   - [其它](#其它)
 
@@ -79,16 +78,10 @@
 - [Perfection Kills](http://perfectionkills.com/)
 - [Hackr.io](https://hackr.io/) - 在线教程。
 
-#### 在线工具
-
-[Go Top ↑](#awesome-favorites-list)
-
 ### Books
 
 - [Advanced Bash-Scripting Guide](http://tldp.org/LDP/abs/html/) - 《高级 Bash 脚本编程指南》，一本开源书籍。
 - [The Book Of Ruby](http://www.sapphiresteel.com/ruby-programming/The-Book-Of-Ruby.html) - 一本关于 Ruby 编程的开源书籍，涉及知识概念很全面。:point_right: [简体中文翻译](https://wang1212.github.io/the-book-of-ruby/#/0-homepage.html)
-
-[Go Top ↑](#awesome-favorites-list)
 
 ### Open Source Projects
 
@@ -113,16 +106,9 @@
 - Ruby
   - [RubyGems](https://rubygems.org/)
 
-### 字体图标
+### 工具平台
 
-- 图标
-  - [Font Awesome](https://fontawesome.com/)
-  - [Material Icons](https://material.io/tools/icons/) - Google 官方提供的 Material Design 风格的图标库。
-  - [Material Design Icons](http://materialdesignicons.com/) - 遵循 Google Material Design 的图标库，**非官方实现**。
-  - [Flat Icon](https://www.flaticon.com/)
-  - [Icons8](https://icons8.com/) - 提供免费的图标设计工具。
-- 字体
-  - [Source Code Pro](https://github.com/adobe-fonts/source-code-pro) - Adobe 出品的开源等宽字体，适合编程使用。
+- [Anaconda](https://www.anaconda.com) - Python 科学计算平台。
 
 ### 学习资源
 
