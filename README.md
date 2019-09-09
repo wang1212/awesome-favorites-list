@@ -82,6 +82,7 @@
 
 - [Advanced Bash-Scripting Guide](http://tldp.org/LDP/abs/html/) - 《高级 Bash 脚本编程指南》，一本开源书籍。
 - [The Book Of Ruby](http://www.sapphiresteel.com/ruby-programming/The-Book-Of-Ruby.html) - 一本关于 Ruby 编程的开源书籍，涉及知识概念很全面。:point_right: [简体中文翻译](https://wang1212.github.io/the-book-of-ruby/#/0-homepage.html)
+- [Python 101](http://python101.pythonlibrary.org) - 一本讲述 Python 3 编程的书籍。
 
 ### Open Source Projects
 
