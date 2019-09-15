@@ -124,5 +124,6 @@
 - [古诗文网](https://www.gushiwen.org/)
 - [Pexels](https://www.pexels.com/zh-cn/) - 免费的摄影素材分享。
 - [ProductHunt](https://www.producthunt.com/) - 产品发布分享。
+- [MBA 智库百科](https://wiki.mbalib.com) - 比较专业的经管知识查询。
 
 [Go Top ↑](#awesome-favorites-list)
