@@ -54,6 +54,7 @@
 
 - [React-Loadable](https://github.com/jamiebuilds/react-loadable) - React 高阶组件，提供了组件懒加载功能的实现，并处理了细节问题。
 - [Next.js](https://nextjs.org) - React.js 服务器端渲染框架。
+- [React Content Loader](https://github.com/danilowoz/react-content-loader) - 提供了组件加载占位效果（Skeleton Screen），优化交互体验。
 
 ### UI 组件库
 
