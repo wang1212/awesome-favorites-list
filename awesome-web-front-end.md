@@ -74,7 +74,7 @@
   - [Fabric Icons](https://developer.microsoft.com/en-us/fabric#/styles/web/icons) - 微软官方提供的一套图标库，**Microsoft 官方发布**。
   - [Material Design Icons](http://materialdesignicons.com/) - 遵循 Google Material Design 的图标库，**非官方实现**。
   - [IonIcons](https://ionicons.com) - ionic 框架团队制作的图标库。
-  - [Octicons](https://octicons.github.com/) - GitHub 官方制作的图标库。
+  - [Octicons](https://octicons.github.com/) - GitHub 官方制作的图标库，**GitHub 官方发布**。
   - [Feather](https://feathericons.com/)
   - [Flat Icon](https://www.flaticon.com/)
   - [Icons8](https://icons8.com/) - 提供免费的图标设计工具。
@@ -84,7 +84,7 @@
 - [Bootstrap](https://getbootstrap.com/) - 最流行的 CSS UI 框架。
 - [Materialize](https://materializecss.com/) - 最流行的实现了 Google Material Design 的 CSS UI 框架。
 - [Office UI Fabric Core](https://developer.microsoft.com/en-us/fabric) - Office 风格的 UI 库，**Microsoft 官方发布**。
-- [Material Design Lite](https://getmdl.io/) - Google 官方实现的基于 Material Design 的轻量级 CSS UI 框架。
+- [Material Design Lite](https://getmdl.io/) - Google 官方实现的基于 Material Design 的轻量级 CSS UI 框架，**Google 官方发布**。
 - [Semantic UI](https://semantic-ui.com)
 - [Material Components Web](https://material.io/develop/) - Google 官方实现的基于 Material Design 的 Web 组件库。
 - [UIkit](https://getuikit.com/) - 轻量级的现代化前端 CSS 框架。
@@ -172,7 +172,7 @@
 
 ### 技术参考文档
 
-- [MDN Developer Document](https://developer.mozilla.org/en-US/) - MDN Web Docs 网站提供开放网络（Open Web）技术有关的信息，包括用于网站和渐进式网络应用的 HTML、CSS 和 API，是提供给 Web 开发者最好的学习资料和技术文档。
+- [MDN Developer Document](https://developer.mozilla.org/en-US/) - MDN Web Docs 网站提供开放网络（Open Web）技术有关的信息，包括用于网站和渐进式网络应用的 HTML、CSS 和 API，是提供给 Web 开发者最好的学习资料和技术文档，**可作为官方标准参阅学习**。
 - [w3schools](https://www.w3schools.com/) - 国外一个非常棒的 Web 技术学习资源网站。（须翻墙）
 - [w3school](http://www.w3school.com.cn/) - 国内一个仿国外 w3schools 的 Web 技术学习资源网站。
 - [菜鸟教程](http://www.runoob.com/) - 国内另一个仿国外 w3schools 的 Web 技术学习资源网站。
@@ -189,9 +189,9 @@
     - [cdnjs](https://cdnjs.com/)
     - [Google Hosted Libraries](https://developers.google.com/speed/libraries/)
   - 国内
-    - [BootCDN](https://www.bootcdn.cn/)
-    - [75CDN](https://cdn.baomitu.com)
-    - [Staticfile CDN](https://staticfile.org/)
+    - [BootCDN](https://www.bootcdn.cn/) - Bootstrap 中文网维护。
+    - [75CDN](https://cdn.baomitu.com) - 奇虎 360 前端团队奇舞团维护。
+    - [Staticfile CDN](https://staticfile.org/) - 七牛云与掘金维护。
     - [loli.net](https://css.loli.net/)
 - 图片压缩
   - [Compress PNG](https://compresspng.com/)
@@ -202,8 +202,8 @@
   - [色彩笔](http://www.secaibi.com/tools/)
 - Web 优化
   - [Varvy SEO tool](https://varvy.com/) - 一个在线网站 SEO、性能检测工具，提供优化建议和技巧。
-  - [PageSpeed Insights](https://developers.google.com/speed/pagespeed/insights/) - Google 提供的在线网站性能检测工具，提供优化建议和技巧。
-  - [Lighthouse](https://developers.google.com/web/tools/lighthouse/) - Google 提供的一个网站优化检测分析工具，已被集成在 Chrome 开发工具中，也可以作为 Chrome 扩展或者命令行工具使用。
+  - [PageSpeed Insights](https://developers.google.com/speed/pagespeed/insights/) - Google 提供的在线网站性能检测工具，提供优化建议和技巧，**Google 官方提供**。
+  - [Lighthouse](https://developers.google.com/web/tools/lighthouse/) - Google 提供的一个网站优化检测分析工具，已被集成在 Chrome 开发工具中，也可以作为 Chrome 扩展或者命令行工具使用，**Google 官方提供**。
 
 ### 论坛社区
 
@@ -230,8 +230,5 @@
   - [Write an Open Source JavaScript Library](https://github.com/sarbbottam/write-an-open-source-js-lib)
  
 ### 其它
-
-- [Npm Trends](https://www.npmtrends.com/) - 非官方网站，可以查询对比多个 Npm 包的下载流量数据、star 数目等。
-- [Npm Charts](https://npmcharts.com/) - 非官方网站，可以查询对比多个 Npm 包的下载流量数据、star 数目等。
 
 [Go Top ↑](#awesome-web-front-end-list)
