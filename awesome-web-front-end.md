@@ -26,10 +26,9 @@
 - [资源](#资源)
   - [技术规范标准](#技术规范标准)
   - [技术参考文档](#技术参考文档)
-  - [论坛社区](#论坛社区)
-  - [期刊](#期刊)
   - [在线工具](#在线工具)
-  - [编程技巧](#编程技巧)
+  - [论坛社区](#论坛社区)  
+  - [技术读物](#技术读物)
   - [其它](#其它)
 
 ## HTML
@@ -71,10 +70,11 @@
   - [Source Code Pro](https://github.com/adobe-fonts/source-code-pro) - Adobe 出品的开源等宽字体，适合编程使用。
 - WebFont 图标
   - [Font Awesome](https://fontawesome.com/) - 提供了非常多的免费图标的库，使用率非常高。
-  - [Material Icons](https://material.io/tools/icons/) - Google 官方提供的 Material Design 风格的图标库。
+  - [Material Icons](https://material.io/tools/icons/) - Google 官方提供的 Material Design 风格的图标库，**Google 官方发布**。
+  - [Fabric Icons](https://developer.microsoft.com/en-us/fabric#/styles/web/icons) - 微软官方提供的一套图标库，**Microsoft 官方发布**。
   - [Material Design Icons](http://materialdesignicons.com/) - 遵循 Google Material Design 的图标库，**非官方实现**。
   - [IonIcons](https://ionicons.com) - ionic 框架团队制作的图标库。
-  - [Octicons](https://octicons.github.com/) - GitHub 官方制作的图标库。
+  - [Octicons](https://octicons.github.com/) - GitHub 官方制作的图标库，**GitHub 官方发布**。
   - [Feather](https://feathericons.com/)
   - [Flat Icon](https://www.flaticon.com/)
   - [Icons8](https://icons8.com/) - 提供免费的图标设计工具。
@@ -83,10 +83,13 @@
 
 - [Bootstrap](https://getbootstrap.com/) - 最流行的 CSS UI 框架。
 - [Materialize](https://materializecss.com/) - 最流行的实现了 Google Material Design 的 CSS UI 框架。
-- [Material Design Lite](https://getmdl.io/) - Google 官方实现的基于 Material Design 的轻量级 CSS UI 框架。
+- [Office UI Fabric Core](https://developer.microsoft.com/en-us/fabric) - Office 风格的 UI 库，**Microsoft 官方发布**。
+- [Material Design Lite](https://getmdl.io/) - Google 官方实现的基于 Material Design 的轻量级 CSS UI 框架，**Google 官方发布**。
+- [Semantic UI](https://semantic-ui.com)
 - [Material Components Web](https://material.io/develop/) - Google 官方实现的基于 Material Design 的 Web 组件库。
 - [UIkit](https://getuikit.com/) - 轻量级的现代化前端 CSS 框架。
 - [Pure.CSS](https://purecss.io/) - 一组小的，响应式的 CSS 模块。
+- [Skeleton](http://getskeleton.com/)
 
 [Go Top ↑](#awesome-web-front-end-list)
 
@@ -103,15 +106,17 @@
 - [Grunt](https://gruntjs.com/)
 - [WorkBox](https://developers.google.com/web/tools/workbox/) - Google 专门为构建 PWA （Progressive Web App，渐进式 Web 应用）提供的一套开发工具，支持多个平台，并提供了方便的 webpack 插件。
 - [Babel](https://babeljs.io/) - JS 编译工具，可将其它语言（TypeScript、ES6/7/8）代码编译为 JavaScript 代码。
-- [JEST](https://jestjs.io/) - Facebook 出品的 JavaScript 单元测试工具。
 - [Flow](https://flow.org/) - Facebook 出品的 JavaScript 静态类型检查工具。
 - [ESLint](https://eslint.org/) - JavaScript 语法规则检查工具。
-- [JSDoc](https://jsdoc.app/) - JavaScript 的 API 文档生成工具。
 - [Browsersync](https://www.browsersync.io/) - 浏览器同步调式工具，功能非常强大。
 - [npm-check-updates](https://www.npmjs.com/package/npm-check-updates) - 可以更新项目 npm 依赖的辅助工具，非常棒。
 
 ### JS 工具库
 
+- Doc
+  - [JSDoc](https://jsdoc.app/) - JavaScript 的 API 文档生成工具。
+- Test
+  - [JEST](https://jestjs.io/) - Facebook 出品的 JavaScript 单元测试工具。
 - Polyfill
   - [Promise Polyfill](https://github.com/taylorhakes/promise-polyfill) - 可以在不支持 Promise API 的浏览器上提供对其的支持。
   - [core-js](https://github.com/zloirock/core-js) - 现代 JavaScript 标准库。
@@ -121,7 +126,7 @@
 - DOM
   - [jQuery](https://jquery.com/) - 前几年非常流行的 DOM 操作工具库，处理了兼容性的细节问题。
   - [Zepto.js](https://zeptojs.com/) - 兼容 jQuery API 的轻量级工具库，适合移动端使用。
-- HTTP
+- HTTP - Ajax / Promise / fetch
   - [axios](https://github.com/axios/axios) - 基于 Promise 的 HTTP 客户端工具库。
 - Data & Cache
   - [crypto-js](https://github.com/brix/crypto-js) - JavaScript 加密库。
@@ -136,6 +141,8 @@
 - File
   - [FileSaver.js](https://github.com/eligrey/FileSaver.js/) - Web 浏览器客户端文件保存 api 实现。
   - [StreamSaver.js](https://github.com/jimmywarting/StreamSaver.js) - Web 浏览器客户端异步保存文件 api 实现，解决了 FileSaver 的大小限制问题。
+- Server
+  - [http-server](https://github.com/http-party/http-server) - 可快速启动一个 http 服务器。
 
 ### 数据可视化
 
@@ -166,27 +173,13 @@
 
 ### 技术参考文档
 
-- [MDN Developer Document](https://developer.mozilla.org/en-US/) - MDN Web Docs 网站提供开放网络（Open Web）技术有关的信息，包括用于网站和渐进式网络应用的 HTML、CSS 和 API，是提供给 Web 开发者最好的学习资料和技术文档。
+- [MDN Developer Document](https://developer.mozilla.org/en-US/) - MDN Web Docs 网站提供开放网络（Open Web）技术有关的信息，包括用于网站和渐进式网络应用的 HTML、CSS 和 API，是提供给 Web 开发者最好的学习资料和技术文档，**可作为官方标准参阅学习**。
 - [w3schools](https://www.w3schools.com/) - 国外一个非常棒的 Web 技术学习资源网站。（须翻墙）
 - [w3school](http://www.w3school.com.cn/) - 国内一个仿国外 w3schools 的 Web 技术学习资源网站。
 - [菜鸟教程](http://www.runoob.com/) - 国内另一个仿国外 w3schools 的 Web 技术学习资源网站。
 - [jQuery API 中文文档](http://jquery.cuishifeng.cn/) - 一个国内开发者维护的 jQuery API 中文文档，非常实用。
 - [33 js concepts](https://github.com/leonardomso/33-js-concepts) - 包含了丰富的 JavaScript 相关的知识概念，学习资源。
 - [印记中文](https://docschina.org/) - 包含了许多前端技术库的中文翻译文档。
-
-### 论坛社区
-
-- [Stack Overflow](https://stackoverflow.com/) - 全球的程序员学习、分享，技术问答社区网站。
-- [SegmentFault](https://segmentfault.com/) - 国内一个类似 Stack Overflow 的程序员技术学习，问答社区网站。
-- [掘金社区](https://juejin.im/) - 国内一个帮助开发者成长的社区，有很多优质的技术文章。
-- [掘金翻译计划](https://github.com/xitu/gold-miner) - 掘金翻译计划，可能是世界最大最好的英译中技术社区，最懂读者和译者的翻译平台。
-- [图灵社区](http://www.ituring.com.cn/) - 国内一个出版计算机类相关书籍的社区，外文书翻译质量非常高，拥有很好的用户口碑。
-- [慕课网](https://www.imooc.com/) - 国内一个提供计算机开发技术学习课程收费服务的网站，有大量免费优质学习资源。
-
-### 期刊
-
-- [JavaScript-weekly](https://javascriptweekly.com/) - JavaScript 周刊。
-- [CSS-weekly](https://css-weekly.com/) - CSS 周刊。
 
 ### 在线工具
 
@@ -197,9 +190,9 @@
     - [cdnjs](https://cdnjs.com/)
     - [Google Hosted Libraries](https://developers.google.com/speed/libraries/)
   - 国内
-    - [BootCDN](https://www.bootcdn.cn/)
-    - [75CDN](https://cdn.baomitu.com)
-    - [Staticfile CDN](https://staticfile.org/)
+    - [BootCDN](https://www.bootcdn.cn/) - Bootstrap 中文网维护。
+    - [75CDN](https://cdn.baomitu.com) - 奇虎 360 前端团队奇舞团维护。
+    - [Staticfile CDN](https://staticfile.org/) - 七牛云与掘金维护。
     - [loli.net](https://css.loli.net/)
 - 图片压缩
   - [Compress PNG](https://compresspng.com/)
@@ -210,16 +203,33 @@
   - [色彩笔](http://www.secaibi.com/tools/)
 - Web 优化
   - [Varvy SEO tool](https://varvy.com/) - 一个在线网站 SEO、性能检测工具，提供优化建议和技巧。
-  - [PageSpeed Insights](https://developers.google.com/speed/pagespeed/insights/) - Google 提供的在线网站性能检测工具，提供优化建议和技巧。
-  - [Lighthouse](https://developers.google.com/web/tools/lighthouse/) - Google 提供的一个网站优化检测分析工具，已被集成在 Chrome 开发工具中，也可以作为 Chrome 扩展或者命令行工具使用。
+  - [PageSpeed Insights](https://developers.google.com/speed/pagespeed/insights/) - Google 提供的在线网站性能检测工具，提供优化建议和技巧，**Google 官方提供**。
+  - [Lighthouse](https://developers.google.com/web/tools/lighthouse/) - Google 提供的一个网站优化检测分析工具，已被集成在 Chrome 开发工具中，也可以作为 Chrome 扩展或者命令行工具使用，**Google 官方提供**。
 
-### 编程技巧
+### 论坛社区
 
-- [30 seconds](https://github.com/30-seconds) - 30 seconds 是一个系列，包含 JS、React.js、CSS 相关的编程技巧。
+- [Stack Overflow](https://stackoverflow.com/) - 全球的程序员学习、分享，技术问答社区网站。
+- [SegmentFault](https://segmentfault.com/) - 国内一个类似 Stack Overflow 的程序员技术学习，问答社区网站。
+- [掘金社区](https://juejin.im/) - 国内一个帮助开发者成长的社区，有很多优质的技术文章。
+- [掘金翻译计划](https://github.com/xitu/gold-miner) - 掘金翻译计划，可能是世界最大最好的英译中技术社区，最懂读者和译者的翻译平台。
+- [图灵社区](http://www.ituring.com.cn/) - 国内一个出版计算机类相关书籍的社区，外文书翻译质量非常高，拥有很好的用户口碑。
+- [慕课网](https://www.imooc.com/) - 国内一个提供计算机开发技术学习课程收费服务的网站，有大量免费优质学习资源。
 
+### 技术读物
+
+- Book
+  - [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS) - 讲解现代 JavaScript 语言核心机制的系列技术书籍。
+- Journal
+  - [JavaScript-weekly](https://javascriptweekly.com/) - JavaScript 周刊。
+  - [CSS-weekly](https://css-weekly.com/) - CSS 周刊。
+- Skill
+  - [30 seconds](https://github.com/30-seconds) - 30 seconds 是一个系列，包含 JS、React.js、CSS 相关的编程技巧。
+  - [JS The Right Way](http://jstherightway.org/) - 一些 JavaScript 最佳实践。
+- Other
+  - [SJSJ](https://github.com/HugoGiraudel/SJSJ) - JavaScript 术语介绍。
+  - [Superhero.js](http://superherojs.com/) - 构建大型项目的一些技巧。
+  - [Write an Open Source JavaScript Library](https://github.com/sarbbottam/write-an-open-source-js-lib)
+ 
 ### 其它
-
-- [Npm Trends](https://www.npmtrends.com/) - 非官方网站，可以查询对比多个 Npm 包的下载流量数据、star 数目等。
-- [Npm Charts](https://npmcharts.com/) - 非官方网站，可以查询对比多个 Npm 包的下载流量数据、star 数目等。
 
 [Go Top ↑](#awesome-web-front-end-list)

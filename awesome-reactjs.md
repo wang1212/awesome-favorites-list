@@ -17,7 +17,7 @@
   - [优化方案](#优化方案)
   - [UI 组件库](#ui-组件库)
   - [数据可视化](#数据可视化)
-  - [其它技术](#其它技术)
+  - [其它](#其它)
 
 ## 技术生态
 
@@ -54,16 +54,19 @@
 
 - [React-Loadable](https://github.com/jamiebuilds/react-loadable) - React 高阶组件，提供了组件懒加载功能的实现，并处理了细节问题。
 - [Next.js](https://nextjs.org) - React.js 服务器端渲染框架。
+- [React Content Loader](https://github.com/danilowoz/react-content-loader) - 提供了组件加载占位效果（Skeleton Screen），优化交互体验。
 
 ### UI 组件库
 
-- [Material UI](https://material-ui.com/) - React 组件库，实现了 Google Material Design。
+- [Material UI](https://material-ui.com/) - 实现了 Google Material Design 的 React 组件库。
+- [Office UI Fabric React](https://developer.microsoft.com/en-us/fabric) - Office UI 风格的 React 组件库，**Microsoft 官方发布**。
+- [Semantic UI](https://react.semantic-ui.com/)
 - [reactstrap](https://reactstrap.github.io/) - Bootstrap 4 的 React 组件库的**非 Bootstrap 官方实现**。
 - [MDC React](https://github.com/material-components/material-components-web-react)
 
 ### 数据可视化
 
-### 其它技术
+### 其它
 
 - [React-JSS](https://cssinjs.org/react-jss) - JSS 是 CSS-in-JS 的一种解决方案，这个是与 React 的集成方案。
 
