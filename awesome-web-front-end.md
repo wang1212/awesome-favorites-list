@@ -143,6 +143,13 @@
   - [StreamSaver.js](https://github.com/jimmywarting/StreamSaver.js) - Web 浏览器客户端异步保存文件 api 实现，解决了 FileSaver 的大小限制问题。
 - Server
   - [http-server](https://github.com/http-party/http-server) - 可快速启动一个 http 服务器。
+- H5 Media - Audio & Video
+  - [video.js](https://videojs.com/) - 兼容大部分视频格式的视频播放器。
+  - [MediaElement.js](http://www.mediaelementjs.com/) - 非常漂亮的视、音频播放器。
+  - [Plyr](https://plyr.io/) - 很棒的视、音频播放器。
+  - [clappr](http://clappr.io/) - 视频播放器。
+  - [APlayer](https://aplayer.js.org/) - 非常漂亮的音乐播放器。
+  - [DPlayer](http://dplayer.js.org/) - 视频播放器。
 
 ### 数据可视化
 
