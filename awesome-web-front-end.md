@@ -139,7 +139,11 @@
   - [crypto-js](https://github.com/brix/crypto-js) - JavaScript 加密库。
   - [SJCL](http://bitwiseshiftleft.github.io/sjcl/) - JavaScript 加密库。
   - [localForage](https://github.com/localForage/localForage) - 离线存储，对 IndexedDB、WebSQL、localStorage 的封装。
-  
+
+- Compute - Math & High precision & Scientific Computing
+  - [math.js](https://mathjs.org/)
+  - [stdlib](https://stdlib.io/)
+
 - Canvas & Draw
   - [DOM to Image](https://github.com/tsayen/dom-to-image/) - 利用 HTML5 Canvas 生成 DOM 节点的快照图片。
   - [html2canvas](https://html2canvas.hertzen.com) - 截屏，利用 HTML5 Canvas 生成 DOM 节点的快照图片。
