@@ -22,17 +22,9 @@
   - [开发辅助工具](#开发辅助工具)
   - [办公](#办公)
 - [其它资源](#其它资源)
-  - [Websites](#websites)
-    - [论坛社区](#论坛社区)
-    - [编程技巧](#编程技巧)
-  - [Books](#books)
-  - [Open Source Projects](#open-source-projects)
-    - [桌面端开发](#桌面端开发)
-    - [服务器端开发](#服务器端开发)
-      - [服务器](#服务器)
-    - [包管理器](#包管理器)
-    - [工具平台](#工具平台)
-    - [学习资源](#学习资源)
+  - [网站](#网站)
+  - [读物](#读物)
+  - [开源项目（Open Source Projects）](#开源项目)
   - [其它](#其它)
 
 ## 软件
@@ -65,47 +57,47 @@
 
 ## 其它资源
 
-### Websites
+### 网站
 
-#### 论坛社区
+- 在线工具
+  - [IPAddress](https://www.ipaddress.com/) - 查询某个站点的 IP 地址。
+  
+- 论坛社区
+  - [Ruby China](https://ruby-china.org/) - 由众多爱好者共同维护的 Ruby 中文社区。
 
-- [Ruby China](https://ruby-china.org/) - 由众多爱好者共同维护的 Ruby 中文社区。
+- 编程技巧
+  - [Bash Pitfalls](http://mywiki.wooledge.org/BashPitfalls) - 此页面汇总了 Bash 用户常犯的编程错误。
+  - [COMMANDLINEFU.COM](https://www.commandlinefu.com/commands/browse) - 汇集了很多优秀的、充满智慧的、简洁的命令行命令。
+  - [Perfection Kills](http://perfectionkills.com/)
+  - [Hackr.io](https://hackr.io/) - 在线教程。
 
-#### 编程技巧
+### 读物
 
-- [Bash Pitfalls](http://mywiki.wooledge.org/BashPitfalls) - 此页面汇总了 Bash 用户常犯的编程错误。
-- [COMMANDLINEFU.COM](https://www.commandlinefu.com/commands/browse) - 汇集了很多优秀的、充满智慧的、简洁的命令行命令。
-- [Perfection Kills](http://perfectionkills.com/)
-- [Hackr.io](https://hackr.io/) - 在线教程。
+- 技术书籍
+  - [Advanced Bash-Scripting Guide](http://tldp.org/LDP/abs/html/) - 《高级 Bash 脚本编程指南》，一本开源书籍。
+  - [The Book Of Ruby](http://www.sapphiresteel.com/ruby-programming/The-Book-Of-Ruby.html) - 一本关于 Ruby 编程的开源书籍，涉及知识概念很全面。:point_right: [简体中文翻译](https://wang1212.github.io/the-book-of-ruby/#/0-homepage.html)
+  - [Python 101](http://python101.pythonlibrary.org) - 一本讲述 Python 3 编程的书籍。
 
-### Books
+### 开源项目
 
-- [Advanced Bash-Scripting Guide](http://tldp.org/LDP/abs/html/) - 《高级 Bash 脚本编程指南》，一本开源书籍。
-- [The Book Of Ruby](http://www.sapphiresteel.com/ruby-programming/The-Book-Of-Ruby.html) - 一本关于 Ruby 编程的开源书籍，涉及知识概念很全面。:point_right: [简体中文翻译](https://wang1212.github.io/the-book-of-ruby/#/0-homepage.html)
-- [Python 101](http://python101.pythonlibrary.org) - 一本讲述 Python 3 编程的书籍。
+- 桌面端开发
 
-### Open Source Projects
+- 服务器端开发
 
-#### 桌面端开发
+- 服务器
+  - [Nginx](http://nginx.org/en/) - 轻量级、高性能、高并发的 Web 服务器，主要作为负载均衡、反向代理、静态资源服务的前端服务器。
+  - [Apache](http://httpd.apache.org/)
+  - [Tomcat](http://tomcat.apache.org/) - Java Web 开发中的 Servlet 容器。
 
-#### 服务器端开发
-
-##### 服务器
-
-- [Nginx](http://nginx.org/en/) - 轻量级、高性能、高并发的 Web 服务器，主要作为负载均衡、反向代理、静态资源服务的前端服务器。
-- [Apache](http://httpd.apache.org/)
-- [Tomcat](http://tomcat.apache.org/) - Java Web 开发中的 Servlet 容器。
-
-#### 包管理器
-
-- Web/JavaScript/Node.js
-  - [npm](https://www.npmjs.com/)
-  - [Yarn](https://yarnpkg.com/)
-  - [Bower](https://bower.io/)
-- Python
-  - [pip](https://pypi.org/project/pip/)
-- Ruby
-  - [RubyGems](https://rubygems.org/)
+- 包管理器
+  - Web/JavaScript/Node.js
+    - [npm](https://www.npmjs.com/)
+    - [Yarn](https://yarnpkg.com/)
+    - [Bower](https://bower.io/)
+  - Python
+    - [pip](https://pypi.org/project/pip/)
+  - Ruby
+    - [RubyGems](https://rubygems.org/)
 
 ### 工具平台
 
