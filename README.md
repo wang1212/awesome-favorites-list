@@ -22,10 +22,9 @@
   - [源代码管理](#源代码管理)
   - [开发辅助工具](#开发辅助工具)
   - [办公](#办公)
+- [读物](awesome-reading.md)
 - [其它资源](#其它资源)
   - [网站](#网站)
-  - [读物](#读物)
-  - [开源项目（Open Source Projects）](#开源项目)
   - [其它](#其它)
 
 ## 软件
@@ -52,8 +51,6 @@
 
 ### 办公
 
-- [DocTranslator](https://www.onlinedoctranslator.com/zh-CN/) - 在线网站，可翻译文档，PDF 转 Word 无水印。
-
 [Go Top ↑](#awesome-favorites-list)
 
 ## 其它资源
@@ -62,6 +59,7 @@
 
 - 在线工具
   - [IPAddress](https://www.ipaddress.com/) - 查询某个站点的 IP 地址。
+  - [DocTranslator](https://www.onlinedoctranslator.com/zh-CN/) - 在线网站，可翻译文档，PDF 转 Word 无水印。
   
 - 论坛社区
   - [Ruby China](https://ruby-china.org/) - 由众多爱好者共同维护的 Ruby 中文社区。
@@ -69,3 +67,5 @@
 - 编程技巧
   - [Bash Pitfalls](http://mywiki.wooledge.org/BashPitfalls) - 此页面汇总了 Bash 用户常犯的编程错误。
   - [COMMANDL
+
+[Go Top ↑](#awesome-favorites-list)
