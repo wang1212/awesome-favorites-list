@@ -42,6 +42,7 @@
 - [Openlayers](https://openlayers.org/) - 一个开源的、高性能、功能丰富的二维地图引擎。
 - [Cesium.js](https://cesiumjs.org/) - 目前最具优势的、功能丰富的开源三维地图引擎。
 - [Mapbox GL](https://docs.mapbox.com/mapbox-gl-js/overview/) - 一个开源的、基于 WebGL 技术的现代化地图引擎，由 MapBox 公司进行持续维护。
+  - [DECK.GL](https://deck.gl/) - 基于 Mapbox-GL 引擎，由 WebGL 驱动的大数据可视化框架，由 Uber 公司维护。
 - [wrld.js](https://www.wrld3d.com/) - 基于 Leaflet.js 的 WebGL 3D 地图引擎。
 
 ### 开发工具
