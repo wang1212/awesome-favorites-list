@@ -18,6 +18,7 @@
 
 - 《计算机科学精粹》[巴西] Wladston Ferreira Filho
 - 《前端架构设计》[美] Micah Godbolt 
+- 《你不知道的 JavaScript》[美] Kyle Simpson [（Github 地址）](https://github.com/getify/You-Dont-Know-JS)
 
 [Go Top ↑](#awesome-reading-list)
 
