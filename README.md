@@ -11,9 +11,9 @@
 ## Contents
 
 - Web 开发
-  - [前端开发（Web Front End）](awesome-web-front-end.md)
+  - [前端（Web Front End）](awesome-web-front-end.md)
     - [React.js](awesome-reactjs.md)
-  - 后端开发（Web Back End）
+  - 后端（Web Back End）
     - [Node.js](awesome-nodejs.md)
 - [GIS 开发](awesome-gis.md)
 - [软件](#软件)
