@@ -66,6 +66,55 @@
 
 - 编程技巧
   - [Bash Pitfalls](http://mywiki.wooledge.org/BashPitfalls) - 此页面汇总了 Bash 用户常犯的编程错误。
-  - [COMMANDL
+  - [COMMANDLINEFU.COM](https://www.commandlinefu.com/commands/browse) - 汇集了很多优秀的、充满智慧的、简洁的命令行命令。	  - [COMMANDL
+  - [Perfection Kills](http://perfectionkills.com/)	
+  - [Hackr.io](https://hackr.io/) - 在线教程。	
+
+### 读物	
+
+- 技术书籍	
+  - [Advanced Bash-Scripting Guide](http://tldp.org/LDP/abs/html/) - 《高级 Bash 脚本编程指南》，一本开源书籍。	
+  - [The Book Of Ruby](http://www.sapphiresteel.com/ruby-programming/The-Book-Of-Ruby.html) - 一本关于 Ruby 编程的开源书籍，涉及知识概念很全面。:point_right: [简体中文翻译](https://wang1212.github.io/the-book-of-ruby/#/0-homepage.html)	
+  - [Python 101](http://python101.pythonlibrary.org) - 一本讲述 Python 3 编程的书籍。	
+
+### 开源项目	
+
+- 桌面端开发	
+
+- 服务器端开发	
+
+- 服务器	
+  - [Nginx](http://nginx.org/en/) - 轻量级、高性能、高并发的 Web 服务器，主要作为负载均衡、反向代理、静态资源服务的前端服务器。	
+  - [Apache](http://httpd.apache.org/)	
+  - [Tomcat](http://tomcat.apache.org/) - Java Web 开发中的 Servlet 容器。	
+
+- 包管理器	
+  - Web/JavaScript/Node.js	
+    - [npm](https://www.npmjs.com/)	
+    - [Yarn](https://yarnpkg.com/)	
+    - [Bower](https://bower.io/)	
+  - Python	
+    - [pip](https://pypi.org/project/pip/)	
+  - Ruby	
+    - [RubyGems](https://rubygems.org/)	
+
+### 工具平台	
+
+- [Anaconda](https://www.anaconda.com) - Python 科学计算平台。	
+
+### 学习资源	
+
+- [30 seconds](https://github.com/30-seconds) - 30 seconds 是一个系列，包含 JS、React、CSS 相关的编程技巧。	
+- [33 js concepts](https://github.com/leonardomso/33-js-concepts) - 包含了丰富的 JavaScript 相关的知识概念，学习资源。	
+- [掘金翻译计划](https://github.com/xitu/gold-miner) - 掘金翻译计划，可能是世界最大最好的英译中技术社区，最懂读者和译者的翻译平台。	
+
+### 其它	
+
+- [GitHub Guides](https://guides.github.com/) - Github 的官方指南页面，可以帮助开发者系统迅速的了解 Github 及其简单的用法。	
+- [句子迷](https://www.juzimi.com/)	
+- [古诗文网](https://www.gushiwen.org/)	
+- [Pexels](https://www.pexels.com/zh-cn/) - 免费的摄影素材分享。	
+- [ProductHunt](https://www.producthunt.com/) - 产品发布分享。	
+- [MBA 智库百科](https://wiki.mbalib.com) - 比较专业的经管知识查询。	
 
 [Go Top ↑](#awesome-favorites-list)
