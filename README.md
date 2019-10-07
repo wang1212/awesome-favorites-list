@@ -10,10 +10,11 @@
 
 ## Contents
 
-- [Web 前端开发（Web Front End）](awesome-web-front-end.md)
-  - [React.js](awesome-reactjs.md)
-- Web 后端开发（Web Back End）
-  - [Node.js](awesome-nodejs.md)
+- Web 开发
+  - [前端（Web Front End）](awesome-web-front-end.md)
+    - [React.js](awesome-reactjs.md)
+  - 后端（Web Back End）
+    - [Node.js](awesome-nodejs.md)
 - [GIS 开发](awesome-gis.md)
 - [软件](#软件)
   - [Chrome 扩展程序（Chrome Extension）](awesome-chrome-extension.md)
@@ -21,18 +22,9 @@
   - [源代码管理](#源代码管理)
   - [开发辅助工具](#开发辅助工具)
   - [办公](#办公)
+- [读物](awesome-reading.md)
 - [其它资源](#其它资源)
-  - [Websites](#websites)
-    - [论坛社区](#论坛社区)
-    - [编程技巧](#编程技巧)
-  - [Books](#books)
-  - [Open Source Projects](#open-source-projects)
-    - [桌面端开发](#桌面端开发)
-    - [服务器端开发](#服务器端开发)
-      - [服务器](#服务器)
-    - [包管理器](#包管理器)
-    - [工具平台](#工具平台)
-    - [学习资源](#学习资源)
+  - [网站](#网站)
   - [其它](#其它)
 
 ## 软件
@@ -59,71 +51,63 @@
 
 ### 办公
 
-- [DocTranslator](https://www.onlinedoctranslator.com/zh-CN/) - 在线网站，可翻译文档，PDF 转 Word 无水印。
-
 [Go Top ↑](#awesome-favorites-list)
 
 ## 其它资源
 
-### Websites
+### 网站
 
-#### 论坛社区
+- 在线工具
+  - [IPAddress](https://www.ipaddress.com/) - 查询某个站点的 IP 地址。
+  - [DocTranslator](https://www.onlinedoctranslator.com/zh-CN/) - 在线网站，可翻译文档，PDF 转 Word 无水印。
+  - [MBA 智库百科](https://wiki.mbalib.com) - 比较专业的经管知识查询。
+  
+- 论坛社区
+  - [Ruby China](https://ruby-china.org/) - 由众多爱好者共同维护的 Ruby 中文社区。
 
-- [Ruby China](https://ruby-china.org/) - 由众多爱好者共同维护的 Ruby 中文社区。
+- 编程技巧
+  - [Bash Pitfalls](http://mywiki.wooledge.org/BashPitfalls) - 此页面汇总了 Bash 用户常犯的编程错误。
+  - [COMMANDLINEFU.COM](https://www.commandlinefu.com/commands/browse) - 汇集了很多优秀的、充满智慧的、简洁的命令行命令。
+  - [Perfection Kills](http://perfectionkills.com/)	
+  - [Hackr.io](https://hackr.io/) - 在线教程。	
 
-#### 编程技巧
+### 开源项目	
 
-- [Bash Pitfalls](http://mywiki.wooledge.org/BashPitfalls) - 此页面汇总了 Bash 用户常犯的编程错误。
-- [COMMANDLINEFU.COM](https://www.commandlinefu.com/commands/browse) - 汇集了很多优秀的、充满智慧的、简洁的命令行命令。
-- [Perfection Kills](http://perfectionkills.com/)
-- [Hackr.io](https://hackr.io/) - 在线教程。
+- 桌面端开发	
 
-### Books
+- 服务器端开发	
 
-- [Advanced Bash-Scripting Guide](http://tldp.org/LDP/abs/html/) - 《高级 Bash 脚本编程指南》，一本开源书籍。
-- [The Book Of Ruby](http://www.sapphiresteel.com/ruby-programming/The-Book-Of-Ruby.html) - 一本关于 Ruby 编程的开源书籍，涉及知识概念很全面。:point_right: [简体中文翻译](https://wang1212.github.io/the-book-of-ruby/#/0-homepage.html)
-- [Python 101](http://python101.pythonlibrary.org) - 一本讲述 Python 3 编程的书籍。
+- 服务器	
+  - [Nginx](http://nginx.org/en/) - 轻量级、高性能、高并发的 Web 服务器，主要作为负载均衡、反向代理、静态资源服务的前端服务器。	
+  - [Apache](http://httpd.apache.org/)	
+  - [Tomcat](http://tomcat.apache.org/) - Java Web 开发中的 Servlet 容器。	
 
-### Open Source Projects
+- 包管理器	
+  - Web/JavaScript/Node.js	
+    - [npm](https://www.npmjs.com/)	
+    - [Yarn](https://yarnpkg.com/)	
+    - [Bower](https://bower.io/)	
+  - Python	
+    - [pip](https://pypi.org/project/pip/)	
+  - Ruby	
+    - [RubyGems](https://rubygems.org/)	
 
-#### 桌面端开发
+### 工具平台	
 
-#### 服务器端开发
+- [Anaconda](https://www.anaconda.com) - Python 科学计算平台。	
 
-##### 服务器
+### 学习资源	
 
-- [Nginx](http://nginx.org/en/) - 轻量级、高性能、高并发的 Web 服务器，主要作为负载均衡、反向代理、静态资源服务的前端服务器。
-- [Apache](http://httpd.apache.org/)
-- [Tomcat](http://tomcat.apache.org/) - Java Web 开发中的 Servlet 容器。
+- [30 seconds](https://github.com/30-seconds) - 30 seconds 是一个系列，包含 JS、React、CSS 相关的编程技巧。	
+- [33 js concepts](https://github.com/leonardomso/33-js-concepts) - 包含了丰富的 JavaScript 相关的知识概念，学习资源。	
+- [掘金翻译计划](https://github.com/xitu/gold-miner) - 掘金翻译计划，可能是世界最大最好的英译中技术社区，最懂读者和译者的翻译平台。	
 
-#### 包管理器
+### 其它	
 
-- Web/JavaScript/Node.js
-  - [npm](https://www.npmjs.com/)
-  - [Yarn](https://yarnpkg.com/)
-  - [Bower](https://bower.io/)
-- Python
-  - [pip](https://pypi.org/project/pip/)
-- Ruby
-  - [RubyGems](https://rubygems.org/)
-
-### 工具平台
-
-- [Anaconda](https://www.anaconda.com) - Python 科学计算平台。
-
-### 学习资源
-
-- [30 seconds](https://github.com/30-seconds) - 30 seconds 是一个系列，包含 JS、React、CSS 相关的编程技巧。
-- [33 js concepts](https://github.com/leonardomso/33-js-concepts) - 包含了丰富的 JavaScript 相关的知识概念，学习资源。
-- [掘金翻译计划](https://github.com/xitu/gold-miner) - 掘金翻译计划，可能是世界最大最好的英译中技术社区，最懂读者和译者的翻译平台。
-
-### 其它
-
-- [GitHub Guides](https://guides.github.com/) - Github 的官方指南页面，可以帮助开发者系统迅速的了解 Github 及其简单的用法。
-- [句子迷](https://www.juzimi.com/)
-- [古诗文网](https://www.gushiwen.org/)
-- [Pexels](https://www.pexels.com/zh-cn/) - 免费的摄影素材分享。
-- [ProductHunt](https://www.producthunt.com/) - 产品发布分享。
-- [MBA 智库百科](https://wiki.mbalib.com) - 比较专业的经管知识查询。
+- [GitHub Guides](https://guides.github.com/) - Github 的官方指南页面，可以帮助开发者系统迅速的了解 Github 及其简单的用法。	
+- [句子迷](https://www.juzimi.com/)	
+- [古诗文网](https://www.gushiwen.org/)	
+- [Pexels](https://www.pexels.com/zh-cn/) - 免费的摄影素材分享。	
+- [ProductHunt](https://www.producthunt.com/) - 产品发布分享。		
 
 [Go Top ↑](#awesome-favorites-list)

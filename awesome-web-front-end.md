@@ -68,6 +68,7 @@
 
 - 字体
   - [Source Code Pro](https://github.com/adobe-fonts/source-code-pro) - Adobe 出品的开源等宽字体，适合编程使用。
+  
 - WebFont 图标
   - [Font Awesome](https://fontawesome.com/) - 提供了非常多的免费图标的库，使用率非常高。
   - [Material Icons](https://material.io/tools/icons/) - Google 官方提供的 Material Design 风格的图标库，**Google 官方发布**。
@@ -115,34 +116,55 @@
 
 - Doc
   - [JSDoc](https://jsdoc.app/) - JavaScript 的 API 文档生成工具。
+  
 - Test
   - [JEST](https://jestjs.io/) - Facebook 出品的 JavaScript 单元测试工具。
+  
 - Polyfill
   - [Promise Polyfill](https://github.com/taylorhakes/promise-polyfill) - 可以在不支持 Promise API 的浏览器上提供对其的支持。
   - [core-js](https://github.com/zloirock/core-js) - 现代 JavaScript 标准库。
+  
 - Util
   - [Lodash](https://lodash.com/) - JavaScript 的工具函数库，提供了大量非常有用的工具函数，并采用惰性计算优化了性能。
   - [RxJS](https://rxjs.dev/) - 响应式编程（Reactive Extensions）的 JavaScript 实现，对异步数据集合处理很方便。
+  
 - DOM
   - [jQuery](https://jquery.com/) - 前几年非常流行的 DOM 操作工具库，处理了兼容性的细节问题。
   - [Zepto.js](https://zeptojs.com/) - 兼容 jQuery API 的轻量级工具库，适合移动端使用。
+  
 - HTTP - Ajax / Promise / fetch
   - [axios](https://github.com/axios/axios) - 基于 Promise 的 HTTP 客户端工具库。
+  
 - Data & Cache
   - [crypto-js](https://github.com/brix/crypto-js) - JavaScript 加密库。
   - [SJCL](http://bitwiseshiftleft.github.io/sjcl/) - JavaScript 加密库。
   - [localForage](https://github.com/localForage/localForage) - 离线存储，对 IndexedDB、WebSQL、localStorage 的封装。
+
+- Compute - Math & High precision & Scientific Computing
+  - [math.js](https://mathjs.org/)
+  - [stdlib](https://stdlib.io/)
+
 - Canvas & Draw
   - [DOM to Image](https://github.com/tsayen/dom-to-image/) - 利用 HTML5 Canvas 生成 DOM 节点的快照图片。
   - [html2canvas](https://html2canvas.hertzen.com) - 截屏，利用 HTML5 Canvas 生成 DOM 节点的快照图片。
   - [Create.js](https://createjs.com) - 工具套件，包含 Canvas、Web Audio 等工具库。
   - [Konva](https://konvajs.org) - 用于桌面和移动应用程序的 HTML5 2D canvas 库。
   - [Two.js](https://two.js.org/) - Web 二维绘图工具库，基于 Canvas、Svg、WebGL。
+  
 - File
   - [FileSaver.js](https://github.com/eligrey/FileSaver.js/) - Web 浏览器客户端文件保存 api 实现。
   - [StreamSaver.js](https://github.com/jimmywarting/StreamSaver.js) - Web 浏览器客户端异步保存文件 api 实现，解决了 FileSaver 的大小限制问题。
+  
 - Server
   - [http-server](https://github.com/http-party/http-server) - 可快速启动一个 http 服务器。
+  
+- H5 Media - Audio & Video
+  - [video.js](https://videojs.com/) - 兼容大部分视频格式的视频播放器。
+  - [MediaElement.js](http://www.mediaelementjs.com/) - 非常漂亮的视、音频播放器。
+  - [Plyr](https://plyr.io/) - 很棒的视、音频播放器。
+  - [clappr](http://clappr.io/) - 视频播放器。
+  - [APlayer](https://aplayer.js.org/) - 非常漂亮的音乐播放器。
+  - [DPlayer](http://dplayer.js.org/) - 视频播放器。
 
 ### 数据可视化
 
@@ -194,6 +216,7 @@
     - [75CDN](https://cdn.baomitu.com) - 奇虎 360 前端团队奇舞团维护。
     - [Staticfile CDN](https://staticfile.org/) - 七牛云与掘金维护。
     - [loli.net](https://css.loli.net/)
+    
 - 图片压缩
   - [Compress PNG](https://compresspng.com/)
   - [Picdiet](https://www.picdiet.com/)
@@ -201,6 +224,7 @@
   - [Optimizilla](https://imagecompressor.com/)
   - [压缩图](https://www.yasuotu.com/)
   - [色彩笔](http://www.secaibi.com/tools/)
+  
 - Web 优化
   - [Varvy SEO tool](https://varvy.com/) - 一个在线网站 SEO、性能检测工具，提供优化建议和技巧。
   - [PageSpeed Insights](https://developers.google.com/speed/pagespeed/insights/) - Google 提供的在线网站性能检测工具，提供优化建议和技巧，**Google 官方提供**。
@@ -219,12 +243,15 @@
 
 - Book
   - [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS) - 讲解现代 JavaScript 语言核心机制的系列技术书籍。
+  
 - Journal
   - [JavaScript-weekly](https://javascriptweekly.com/) - JavaScript 周刊。
   - [CSS-weekly](https://css-weekly.com/) - CSS 周刊。
+  
 - Skill
   - [30 seconds](https://github.com/30-seconds) - 30 seconds 是一个系列，包含 JS、React.js、CSS 相关的编程技巧。
   - [JS The Right Way](http://jstherightway.org/) - 一些 JavaScript 最佳实践。
+  
 - Other
   - [SJSJ](https://github.com/HugoGiraudel/SJSJ) - JavaScript 术语介绍。
   - [Superhero.js](http://superherojs.com/) - 构建大型项目的一些技巧。
