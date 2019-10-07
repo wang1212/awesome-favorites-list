@@ -60,6 +60,7 @@
 - 在线工具
   - [IPAddress](https://www.ipaddress.com/) - 查询某个站点的 IP 地址。
   - [DocTranslator](https://www.onlinedoctranslator.com/zh-CN/) - 在线网站，可翻译文档，PDF 转 Word 无水印。
+  - [MBA 智库百科](https://wiki.mbalib.com) - 比较专业的经管知识查询。
   
 - 论坛社区
   - [Ruby China](https://ruby-china.org/) - 由众多爱好者共同维护的 Ruby 中文社区。
@@ -114,7 +115,6 @@
 - [句子迷](https://www.juzimi.com/)	
 - [古诗文网](https://www.gushiwen.org/)	
 - [Pexels](https://www.pexels.com/zh-cn/) - 免费的摄影素材分享。	
-- [ProductHunt](https://www.producthunt.com/) - 产品发布分享。	
-- [MBA 智库百科](https://wiki.mbalib.com) - 比较专业的经管知识查询。	
+- [ProductHunt](https://www.producthunt.com/) - 产品发布分享。		
 
 [Go Top ↑](#awesome-favorites-list)
