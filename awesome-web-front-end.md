@@ -127,6 +127,8 @@
 - Util
   - [Lodash](https://lodash.com/) - JavaScript 的工具函数库，提供了大量非常有用的工具函数，并采用惰性计算优化了性能。
   - [RxJS](https://rxjs.dev/) - 响应式编程（Reactive Extensions）的 JavaScript 实现，对异步数据集合处理很方便。
+  - [Mousetrap](https://github.com/ccampbell/mousetrap) - 可以很方便的处理键盘事件。
+  - [Hotkeys](https://wangchujiang.com/hotkeys/) - 可以很方便的处理键盘事件。
   
 - DOM
   - [jQuery](https://jquery.com/) - 前几年非常流行的 DOM 操作工具库，处理了兼容性的细节问题。
