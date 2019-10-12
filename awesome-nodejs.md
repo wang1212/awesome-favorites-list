@@ -47,9 +47,13 @@
 - Utils
   - [n](https://github.com/tj/n) - npm 包，Node 版本管理工具。
   - [nvm](https://github.com/nvm-sh/nvm) - Node 版本管理。
-  - [pm2](https://pm2.keymetrics.io/) - Node.js 生产环境进程管理工具，支持集群、负载。
   - [chalk](https://github.com/chalk/chalk) - 终端输出字符串样式工具，支持全部的颜色。
-  
+
+- Process Manage
+  - [Forever](https://github.com/foreversd/forever) - Node 应用生产环境进程管理工具，使用简单方便。
+  - [PM2](https://pm2.keymetrics.io/) - Node 应用生产环境进程管理工具，支持集群、负载、远程部署，提供收费服务的实时监控平台。
+  - [StrongLoop-PM](http://strong-pm.io/) - Node 应用生产环境进程管理工具，支持集群、负载、远程部署，提供收费服务的实时监控平台。
+
 - Build
   - [npm-check-updates](https://github.com/tjunnone/npm-check-updates) - 项目依赖 npm 包批量更新工具。
   - [nodemon](https://nodemon.io) - Node.js 开发时热重载。
