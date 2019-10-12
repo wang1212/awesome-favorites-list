@@ -110,6 +110,8 @@
 - [Flow](https://flow.org/) - Facebook 出品的 JavaScript 静态类型检查工具。
 - [ESLint](https://eslint.org/) - JavaScript 语法规则检查工具。
 - [Browsersync](https://www.browsersync.io/) - 浏览器同步调式工具，功能非常强大。
+- [Eruda](https://eruda.liriliri.io/) - 移动端 Web 调试工具。
+- [vConsole](https://github.com/Tencent/vConsole) - 移动端 Web 调试工具，腾讯（Tencent）出品。
 - [npm-check-updates](https://www.npmjs.com/package/npm-check-updates) - 可以更新项目 npm 依赖的辅助工具，非常棒。
 
 ### JS 工具库
