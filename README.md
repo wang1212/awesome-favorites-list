@@ -26,6 +26,7 @@
 - [其它资源](#其它资源)
   - [网站](#网站)
   - [其它](#其它)
+- [Contribution](#contribution)
 
 ## 软件
 
@@ -111,3 +112,16 @@
 - [ProductHunt](https://www.producthunt.com/) - 产品发布分享。		
 
 [Go Top ↑](#awesome-favorites-list)
+
+## Contribution
+
+这些资源大部分都是经过我自己实践过的，感觉不错，才收藏起来的！
+
+也欢迎大家贡献，提交 PR！
+
+尽量遵循：
+
+- 属于比较优质的资源；
+- 尽可能是经过实践的；
+- 属于长期维护（近期更新过）的资源；
+- 有用才是最有价值的！
