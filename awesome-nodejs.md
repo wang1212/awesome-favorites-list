@@ -62,6 +62,7 @@
   
 - File
   - [fs-extra](https://github.com/jprichardson/node-fs-extra) - 作为官方原生 fs 模块的补充和优化。
+  - [rotating-file-stream](https://github.com/iccicci/rotating-file-stream) - 文件流自动轮转，可用于日志文件分割，类似 UNIX `logrotate`。
 
 [Go Top ↑](#awesome-nodejs-list)
 
