@@ -103,7 +103,7 @@
 ### JS 构建工具
 
 - [Webpack](https://webpack.js.org/) - 目前最流行的 Web 前端项目自动化构建工具。
-  - [awesome-webpack](https://github.com/webpack-contrib/awesome-webpack) - Webpack 相关资源。
+  - [awesome-webpack](https://github.com/webpack-contrib/awesome-webpack) - Webpack 相关资源，**官方认证**。
 - [Gulp](https://gulpjs.com/)
 - [Grunt](https://gruntjs.com/)
 - [WorkBox](https://developers.google.com/web/tools/workbox/) - Google 专门为构建 PWA （Progressive Web App，渐进式 Web 应用）提供的一套开发工具，支持多个平台，并提供了方便的 webpack 插件。
