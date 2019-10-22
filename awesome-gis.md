@@ -1,7 +1,7 @@
 <div align="center">
   <h1>Awesome-GIS-List</h1>
 
-  <p>:heart: 我自己的收藏列表 - :+1: 很棒的 GIS 技术资源。</p>
+  <p>:heart: 收藏列表 - :+1: 很棒的 GIS 技术资源。</p>
 </div>
 
 <br />
@@ -16,6 +16,8 @@
 - [Web GIS](#web-gis)
   - [地图引擎](#地图引擎)
   - [开发工具](#开发工具)
+- [其它资源](#其它资源)
+  - [平台](#平台)
 
 ## 技术标准
 
@@ -51,5 +53,15 @@
 - [JSTS](https://github.com/bjornharrtell/jsts) - 开源的空间分析库。
 - [mapshaper](https://mapshaper.org/) - 在线地图数据编辑工具，支持 Shapefile、GeoJSON、TopoJSON、DBF 和 CSV 格式。
 - [proj4js](http://proj4js.org/) - proj4 的 JavaScript 实现，可进行坐标系统转换。
+
+[Go Top ↑](#awesome-gis-list)
+
+## 其它资源
+
+### 平台
+
+- [ArcGIS](https://www.arcgis.com/) - GIS 行业商业巨头，其商业软件几乎为行业标准。
+- [MapTiler](https://www.maptiler.com/) - 一个提供地图设计，切片的地图托管平台，官方开源。
+- [OpenMapTiler](https://openmaptiles.org/) - 提供免费的自托管地图矢量瓦片数据。
 
 [Go Top ↑](#awesome-gis-list)
