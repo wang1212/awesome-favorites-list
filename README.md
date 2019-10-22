@@ -1,7 +1,7 @@
 <div align="center">
   <h1>Awesome-Favorites-List</h1>
 
-  <p>:heart: 我自己的收藏列表 - :+1: 很棒的开源项目，网站，书籍，软件等资源。</p>
+  <p>:heart: 收藏列表 - :+1: 很棒的开源项目，网站，书籍，软件等资源。</p>
 </div>
 
 <br />
