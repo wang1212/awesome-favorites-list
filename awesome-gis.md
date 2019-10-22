@@ -29,6 +29,9 @@
 - [EPSG.io](http://epsg.io/) - 全球坐标系统 EPSG 查询。
 - [Spatial Reference](https://spatialreference.org/) - 空间参考定义查询。
 - [GeoJSON 格式规范说明](https://www.oschina.net/translate/geojson-spec?cmp) - OSChina 上一个开发者发布的 GeoJSON 格式规范说明的中英文对照翻译。
+- [Vector Tile Specification](https://github.com/mapbox/vector-tile-spec) - Mapbox 矢量瓦片规范。
+- [MBTiles Specification](https://github.com/mapbox/mbtiles-spec) - MBTiles 规范。
+- [UTFGrid Specification](https://github.com/mapbox/utfgrid-spec) - UTFGrid 规范。
 
 [Go Top ↑](#awesome-gis-list)
 
