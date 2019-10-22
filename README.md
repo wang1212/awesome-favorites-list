@@ -44,6 +44,14 @@
 ### 源代码管理
 
 - [Git](https://git-scm.com/) - 目前最受欢迎的，使用最广泛的分布式源代码版本控制工具。
+  - [GitHub](https://github.com/)
+  - [GitLab](https://about.gitlab.com/)
+  - [Bitbucket](https://bitbucket.org/)
+  - [Gitee](https://gitee.com/) - 码云，国内[开源中国](https://www.oschina.net/)推出。
+  - [Coding](https://coding.net/) - 目前由腾讯入股，体验相比刚开始变差，不建议使用。
+  - [Gitea](https://gitea.io/) - 提供跨平台的 Git 仓库托管平台搭建，开源。
+  - [Gogs](https://gogs.io/)
+
 - [Tortoise SVN](https://tortoisesvn.net/) - SVN 是一种传统的中心化管理的源代码版本控制工具，Tortoise SVN 提供了 GUI 来使用 SVN。
 
 ### 开发辅助工具
