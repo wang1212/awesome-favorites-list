@@ -1,7 +1,7 @@
 <div align="center">
   <h1>Awesome-Reading-List</h1>
 
-  <p>:heart: 我自己的收藏列表 - :+1: 很棒的读物，包括书籍、期刊、网站、论坛等。</p>
+  <p>:heart: 收藏列表 - :+1: 很棒的读物，包括书籍、期刊、网站、论坛等。</p>
 </div>
 
 <br />
