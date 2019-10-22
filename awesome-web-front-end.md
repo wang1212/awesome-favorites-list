@@ -1,7 +1,7 @@
 <div align="center">
   <h1>Awesome-Web-Front-End-List</h1>
 
-  <p>:heart: 我自己的收藏列表 - :+1: 很棒的 Web 前端基本技术 JavaScript、CSS、HTML 相关框架、库、工具等。</p>
+  <p>:heart: 收藏列表 - :+1: 很棒的 Web 前端基本技术 JavaScript、CSS、HTML 相关框架、库、工具等。</p>
 </div>
 
 <br />
