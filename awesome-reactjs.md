@@ -6,7 +6,9 @@
 
 <br />
 
-> React.js 是 Facebook 出品的开源 Web 前端 UI 框架，其结合了组件化思想、数据驱动视图、Virtual DOM 技术等，提供了快速、轻量、高性能的 Web App 开发体验，:point_right: https://reactjs.org/
+> React.js 是 Facebook 出品的开源 Web 前端 UI 框架，其结合了组件化思想、数据驱动视图、Virtual DOM 技术等，提供了快速、轻量、高性能的 Web App 开发体验，官网为 https://reactjs.org/
+
+推荐一个其它的很棒的收藏列表，:point_right: https://github.com/enaqx/awesome-react
 
 ## Contents
 
@@ -55,7 +57,7 @@
 
 ### 优化方案
 
-- [React-Loadable](https://github.com/jamiebuilds/react-loadable) - React 高阶组件，提供了组件懒加载功能的实现，并处理了细节问题。
+- [React-Loadable](https://github.com/jamiebuilds/react-loadable) - React 高阶组件，提供了组件懒加载功能的实现，并处理了细节问题。（:warning: 不再建议使用）
 - [Next.js](https://nextjs.org) - React.js 服务器端渲染框架。
 - [React Content Loader](https://github.com/danilowoz/react-content-loader) - 提供了组件加载占位效果（Skeleton Screen），优化交互体验。
 
