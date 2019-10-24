@@ -83,6 +83,7 @@
   - [慕课网](https://www.imooc.com/) - 国内一个提供计算机开发技术学习课程收费服务的网站，有大量免费优质学习资源。
   
 - 编程技巧
+  - [Semantic Versioning](https://semver.org/) - 语义化版本控制。
   - [Bash Pitfalls](http://mywiki.wooledge.org/BashPitfalls) - 此页面汇总了 Bash 用户常犯的编程错误。
   - [COMMANDLINEFU.COM](https://www.commandlinefu.com/commands/browse) - 汇集了很多优秀的、充满智慧的、简洁的命令行命令。
   - [Perfection Kills](http://perfectionkills.com/)	
