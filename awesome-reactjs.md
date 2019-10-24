@@ -74,7 +74,7 @@
 - [Semantic UI](https://react.semantic-ui.com/)
 - [reactstrap](https://reactstrap.github.io/) - 基于 Bootstrap 4 的 React 组件库，**非 Bootstrap 官方实现**。
 - [react-bootstrap](https://github.com/react-bootstrap/react-bootstrap) - 基于 Bootstrap 4 的 React 组件库，**非 Bootstrap 官方实现**。
-- [MDC React](https://github.com/material-components/material-components-web-react)
+- [MDC React](https://github.com/material-components/material-components-web-react) - 基于 Material Design 的 React 组件库，**Google 官方实现**。
 
 ### 数据可视化
 
