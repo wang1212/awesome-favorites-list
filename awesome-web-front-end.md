@@ -86,7 +86,7 @@
 - [Office UI Fabric Core](https://developer.microsoft.com/en-us/fabric) - Office 风格的 UI 库，**Microsoft 官方发布**。
 - [Material Design Lite](https://getmdl.io/) - Google 官方实现的基于 Material Design 的轻量级 CSS UI 框架，**Google 官方发布**。
 - [Semantic UI](https://semantic-ui.com)
-- [Material Components Web](https://material.io/develop/) - Google 官方实现的基于 Material Design 的 Web 组件库。
+- [Material Components Web](https://material.io/develop/) - 基于 Material Design 的 Web 组件库，**Google 官方实现**。
 - [UIkit](https://getuikit.com/) - 轻量级的现代化前端 CSS 框架。
 - [Pure.CSS](https://purecss.io/) - 一组小的，响应式的 CSS 模块。
 - [Skeleton](http://getskeleton.com/)
