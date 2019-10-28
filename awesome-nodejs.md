@@ -1,7 +1,7 @@
 <div align="center">
   <h1>Awesome-Node.JS-List</h1>
 
-  <p>:heart: 我自己的收藏列表 - :+1: 很棒的 Node.js 开发工具和生态技术。</p>
+  <p>:heart: 收藏列表 - :+1: 很棒的 Node.js 开发工具和生态技术。</p>
 </div>
 
 <br />
@@ -45,21 +45,32 @@
 ## Node 模块
 
 - Utils
+  - [chalk](https://github.com/chalk/chalk) - 终端输出字符串样式工具，支持全部的颜色。
+
+- Node Version Manage
   - [n](https://github.com/tj/n) - npm 包，Node 版本管理工具。
   - [nvm](https://github.com/nvm-sh/nvm) - Node 版本管理。
-  - [chalk](https://github.com/chalk/chalk) - 终端输出字符串样式工具，支持全部的颜色。
 
 - Process Manage
   - [Forever](https://github.com/foreversd/forever) - Node 应用生产环境进程管理工具，使用简单方便。
   - [PM2](https://pm2.keymetrics.io/) - Node 应用生产环境进程管理工具，支持集群、负载、远程部署，提供收费服务的实时监控平台。
   - [StrongLoop-PM](http://strong-pm.io/) - Node 应用生产环境进程管理工具，支持集群、负载、远程部署，提供收费服务的实时监控平台。
 
-- Build
+- HTTP Server
+  - [Connect](https://github.com/senchalabs/connect) - 可扩展的 HTTP 服务器框架，使用中间件机制，早期的 [Express](http://expressjs.com/) 基于此开发。
+  - [log4js](https://github.com/log4js-node/log4js-node) - 日志记录。
+
+- Dev
   - [npm-check-updates](https://github.com/tjunnone/npm-check-updates) - 项目依赖 npm 包批量更新工具。
-  - [nodemon](https://nodemon.io) - Node.js 开发时热重载。
+  - [nodemon](https://nodemon.io) - 提供 Node.js 开发时热重载机制。
   
-- Other
+- DataBase
+  - [mongodb](http://mongodb.github.io/node-mongodb-native/) - 高性能、分布式文档数据库，No SQL 数据库。
+    - [mongoose](https://mongoosejs.com/) - Node.js 对 mongodb 模型的封装。
+  
+- File
   - [fs-extra](https://github.com/jprichardson/node-fs-extra) - 作为官方原生 fs 模块的补充和优化。
+  - [rotating-file-stream](https://github.com/iccicci/rotating-file-stream) - 文件流自动轮转，可用于日志文件分割，类似 UNIX `logrotate`。
 
 [Go Top ↑](#awesome-nodejs-list)
 
@@ -69,6 +80,8 @@
   - [express-session](https://github.com/expressjs/session) - Express 中间件，提供 Session-Cookie 机制的支持，**官方发布**。
   - [body-parser](https://github.com/expressjs/body-parser) - Express 中间件，对 request 的 body 进行预处理，**官方发布**。
   - [Multer](https://github.com/expressjs/multer) - Express 中间件，处理 `multipart/form-data` 表单数据，**官方发布**。
+  - [morgan](https://github.com/expressjs/morgan) - Express 中间件，请求日志记录，**官方发布**。
+- [Koa](https://koajs.com/) - 轻量级、高性能的 Web 框架，Express 团队开发。
   
 - [Electron](https://electronjs.org/) - 基于 Node.js 与 Chromium 技术的开源跨平台桌面端应用开发解决方案，对 Web 前端开发人员友好。
 

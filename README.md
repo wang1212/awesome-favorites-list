@@ -1,7 +1,7 @@
 <div align="center">
   <h1>Awesome-Favorites-List</h1>
 
-  <p>:heart: 我自己的收藏列表 - :+1: 很棒的开源项目，网站，书籍，软件等资源。</p>
+  <p>:heart: 收藏列表 - :+1: 很棒的开源项目，网站，书籍，软件等资源。</p>
 </div>
 
 <br />
@@ -44,6 +44,14 @@
 ### 源代码管理
 
 - [Git](https://git-scm.com/) - 目前最受欢迎的，使用最广泛的分布式源代码版本控制工具。
+  - [GitHub](https://github.com/)
+  - [GitLab](https://about.gitlab.com/)
+  - [Bitbucket](https://bitbucket.org/)
+  - [Gitee](https://gitee.com/) - 码云，国内[开源中国](https://www.oschina.net/)推出。
+  - [Coding](https://coding.net/) - 目前由腾讯入股，体验相比刚开始变差，不建议使用。
+  - [Gitea](https://gitea.io/) - 提供跨平台的 Git 仓库托管平台搭建，开源。
+  - [Gogs](https://gogs.io/)
+
 - [Tortoise SVN](https://tortoisesvn.net/) - SVN 是一种传统的中心化管理的源代码版本控制工具，Tortoise SVN 提供了 GUI 来使用 SVN。
 
 ### 开发辅助工具
@@ -62,11 +70,20 @@
   - [IPAddress](https://www.ipaddress.com/) - 查询某个站点的 IP 地址。
   - [DocTranslator](https://www.onlinedoctranslator.com/zh-CN/) - 在线网站，可翻译文档，PDF 转 Word 无水印。
   - [MBA 智库百科](https://wiki.mbalib.com) - 比较专业的经管知识查询。
+  - [DB-Engines](https://db-engines.com/) - 数据库排名信息。
   
 - 论坛社区
+  - [Stack Overflow](https://stackoverflow.com/) - 全球的程序员学习、分享，技术问答社区网站。
+  - [SegmentFault](https://segmentfault.com/) - 国内一个类似 Stack Overflow 的程序员技术学习，问答社区网站。
+  - [V2EX](https://v2ex.com/) - 一个汇集各类奇妙好玩的话题和流行动向的网站。
   - [Ruby China](https://ruby-china.org/) - 由众多爱好者共同维护的 Ruby 中文社区。
-
+  - [掘金社区](https://juejin.im/) - 国内一个帮助开发者成长的社区，有很多优质的技术文章。
+  - [掘金翻译计划](https://github.com/xitu/gold-miner) - 掘金翻译计划，可能是世界最大最好的英译中技术社区，最懂读者和译者的翻译平台。
+  - [图灵社区](http://www.ituring.com.cn/) - 国内一个出版计算机类相关书籍的社区，外文书翻译质量非常高，拥有很好的用户口碑。
+  - [慕课网](https://www.imooc.com/) - 国内一个提供计算机开发技术学习课程收费服务的网站，有大量免费优质学习资源。
+  
 - 编程技巧
+  - [Semantic Versioning](https://semver.org/) - 语义化版本控制。
   - [Bash Pitfalls](http://mywiki.wooledge.org/BashPitfalls) - 此页面汇总了 Bash 用户常犯的编程错误。
   - [COMMANDLINEFU.COM](https://www.commandlinefu.com/commands/browse) - 汇集了很多优秀的、充满智慧的、简洁的命令行命令。
   - [Perfection Kills](http://perfectionkills.com/)	

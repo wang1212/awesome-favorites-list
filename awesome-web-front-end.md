@@ -1,7 +1,7 @@
 <div align="center">
   <h1>Awesome-Web-Front-End-List</h1>
 
-  <p>:heart: 我自己的收藏列表 - :+1: 很棒的 Web 前端基本技术 JavaScript、CSS、HTML 相关框架、库、工具等。</p>
+  <p>:heart: 收藏列表 - :+1: 很棒的 Web 前端基本技术 JavaScript、CSS、HTML 相关框架、库、工具等。</p>
 </div>
 
 <br />
@@ -26,8 +26,7 @@
 - [资源](#资源)
   - [技术规范标准](#技术规范标准)
   - [技术参考文档](#技术参考文档)
-  - [在线工具](#在线工具)
-  - [论坛社区](#论坛社区)  
+  - [在线工具](#在线工具) 
   - [技术读物](#技术读物)
   - [其它](#其它)
 
@@ -87,7 +86,7 @@
 - [Office UI Fabric Core](https://developer.microsoft.com/en-us/fabric) - Office 风格的 UI 库，**Microsoft 官方发布**。
 - [Material Design Lite](https://getmdl.io/) - Google 官方实现的基于 Material Design 的轻量级 CSS UI 框架，**Google 官方发布**。
 - [Semantic UI](https://semantic-ui.com)
-- [Material Components Web](https://material.io/develop/) - Google 官方实现的基于 Material Design 的 Web 组件库。
+- [Material Components Web](https://material.io/develop/) - 基于 Material Design 的 Web 组件库，**Google 官方实现**。
 - [UIkit](https://getuikit.com/) - 轻量级的现代化前端 CSS 框架。
 - [Pure.CSS](https://purecss.io/) - 一组小的，响应式的 CSS 模块。
 - [Skeleton](http://getskeleton.com/)
@@ -102,7 +101,8 @@
 
 ### JS 构建工具
 
-- [webpack](https://webpack.js.org/) - 目前最流行的 Web 前端项目自动化构建工具。
+- [Webpack](https://webpack.js.org/) - 目前最流行的 Web 前端项目自动化构建工具。
+  - [awesome-webpack](https://github.com/webpack-contrib/awesome-webpack) - Webpack 相关资源，**官方认证**。
 - [Gulp](https://gulpjs.com/)
 - [Grunt](https://gruntjs.com/)
 - [WorkBox](https://developers.google.com/web/tools/workbox/) - Google 专门为构建 PWA （Progressive Web App，渐进式 Web 应用）提供的一套开发工具，支持多个平台，并提供了方便的 webpack 插件。
@@ -206,6 +206,7 @@
 - [jQuery API 中文文档](http://jquery.cuishifeng.cn/) - 一个国内开发者维护的 jQuery API 中文文档，非常实用。
 - [33 js concepts](https://github.com/leonardomso/33-js-concepts) - 包含了丰富的 JavaScript 相关的知识概念，学习资源。
 - [印记中文](https://docschina.org/) - 包含了许多前端技术库的中文翻译文档。
+- [CSS BEM](https://en.bem.info/) - CSS 类名的 BEM 命名风格和规则。
 
 ### 在线工具
 
@@ -233,15 +234,6 @@
   - [Varvy SEO tool](https://varvy.com/) - 一个在线网站 SEO、性能检测工具，提供优化建议和技巧。
   - [PageSpeed Insights](https://developers.google.com/speed/pagespeed/insights/) - Google 提供的在线网站性能检测工具，提供优化建议和技巧，**Google 官方提供**。
   - [Lighthouse](https://developers.google.com/web/tools/lighthouse/) - Google 提供的一个网站优化检测分析工具，已被集成在 Chrome 开发工具中，也可以作为 Chrome 扩展或者命令行工具使用，**Google 官方提供**。
-
-### 论坛社区
-
-- [Stack Overflow](https://stackoverflow.com/) - 全球的程序员学习、分享，技术问答社区网站。
-- [SegmentFault](https://segmentfault.com/) - 国内一个类似 Stack Overflow 的程序员技术学习，问答社区网站。
-- [掘金社区](https://juejin.im/) - 国内一个帮助开发者成长的社区，有很多优质的技术文章。
-- [掘金翻译计划](https://github.com/xitu/gold-miner) - 掘金翻译计划，可能是世界最大最好的英译中技术社区，最懂读者和译者的翻译平台。
-- [图灵社区](http://www.ituring.com.cn/) - 国内一个出版计算机类相关书籍的社区，外文书翻译质量非常高，拥有很好的用户口碑。
-- [慕课网](https://www.imooc.com/) - 国内一个提供计算机开发技术学习课程收费服务的网站，有大量免费优质学习资源。
 
 ### 技术读物
 
