@@ -194,8 +194,10 @@
 - [Chrome Blink status](https://www.chromestatus.com/) - Google Chrome 的 Blink 引擎功能特性的官方实现和标准化的开发状态查询列表。
 - [Firefox status](https://platform-status.mozilla.org/) - Firefox 的 Web 平台功能的官方实现和标准化路线图查询列表。
 - [Webkit](https://webkit.org/) - Webkit 浏览器引擎的官方网站，可查询其功能特性的实现和标准化状态。
-- [JSON Spec](http://www.json.org/) - JSON 数据格式规范。
+- [JSON Specification](http://www.json.org/) - JSON 数据格式规范。
+- [JSON Specification](http://www.json.org/) - JSON 数据格式规范。
 - [JSON Schema](http://json-schema.org/) - JSON 数据校验。
+- [NDJSON Specification](http://ndjson.org/) - Newline Delimited JSON 数据格式规范。
 
 ### 技术参考文档
 
