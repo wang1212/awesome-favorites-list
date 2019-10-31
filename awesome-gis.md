@@ -68,6 +68,7 @@
   - [JSTS](https://github.com/bjornharrtell/jsts) - 开源的空间分析库。
   - [proj4js](http://proj4js.org/) - proj4 的 JavaScript 实现，可进行坐标系统转换。
   - [Mapnik](https://mapnik.org/) - 地图数据可视化库。
+  - [shapefile](https://github.com/mbostock/shapefile) - Shapefile 转 GeoJSON。
   
 - Map Server
   - [TileStache](http://tilestache.org/) - 基于 Python、Mapnik 的地图瓦片服务器。
