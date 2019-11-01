@@ -37,7 +37,7 @@
 
 ## 技术参考文档
 
-- [EPSG.io](http://epsg.io/) - 全球坐标系统 EPSG 查询。
+- [EPSG.io](http://epsg.io/) - 全球坐标系统 EPSG 在线查询，同时提供 API 支持。
 
 [Go Top ↑](#awesome-gis-list)
 
