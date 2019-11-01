@@ -68,7 +68,9 @@
   - [JSTS](https://github.com/bjornharrtell/jsts) - 开源的空间分析库。
   - [proj4js](http://proj4js.org/) - proj4 的 JavaScript 实现，可进行坐标系统转换。
   - [Mapnik](https://mapnik.org/) - 地图数据可视化库。
-  - [shapefile](https://github.com/mbostock/shapefile) - Shapefile 转 GeoJSON。
+  - [mapshaper](https://mapshaper.org/) - 数据编辑，支持 Shapefile、GeoJSON、TopoJSON、DBF 和 CSV 格式，可在线预览转换，支持命令行，不提供坐标转换。
+  - [shapefile](https://github.com/mbostock/shapefile) - Shapefile 转 GeoJSON，支持命令行。
+  - [shp2geojson.js](https://github.com/gipong/shp2geojson.js) - Shapefile 转 GeoJSON，可在线预览转换，支持坐标系转换。
   
 - Map Server
   - [TileStache](http://tilestache.org/) - 基于 Python、Mapnik 的地图瓦片服务器。
@@ -84,7 +86,6 @@
 - [ArcGIS](https://www.arcgis.com/) - GIS 行业商业巨头，其商业软件几乎为行业标准。
 - [MapTiler](https://www.maptiler.com/) - 一个提供地图设计，切片的地图托管平台，官方开源。
 - [OpenMapTiler](https://openmaptiles.org/) - 提供免费的自托管地图矢量瓦片数据。
-- [mapshaper](https://mapshaper.org/) - 在线地图数据编辑工具，支持 Shapefile、GeoJSON、TopoJSON、DBF 和 CSV 格式。
 - [mygeodata](https://mygeodata.cloud/converter/) - 在线地理数据转换工具。
 
 [Go Top ↑](#awesome-gis-list)
