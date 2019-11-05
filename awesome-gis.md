@@ -28,7 +28,7 @@
 - [EPSG](http://www.epsg.org/) - EPSG 的维护组织 IOGP 官网。
 - [EPSG.io](http://epsg.io/) - 全球坐标系统 EPSG 查询。
 - [Spatial Reference](https://spatialreference.org/) - 空间参考定义查询。
-- [GeoJSON Specification](https://geojson.org/) - GeoJSON 规范。[中文翻译](https://www.oschina.net/translate/geojson-spec?cmp)
+- [GeoJSON Specification](https://geojson.org/) - GeoJSON 规范。:point_right: [简体中文翻译](https://www.oschina.net/translate/geojson-spec?cmp)
 - [TopoJSON Specification](https://github.com/topojson/topojson-specification) - TopoJSON 规范，是 GeoJSON 的扩展，优化了数据结构和效率。
 - [Vector Tile Specification](https://github.com/mapbox/vector-tile-spec) - Mapbox 矢量瓦片规范。
 - [MBTiles Specification](https://github.com/mapbox/mbtiles-spec) - MBTiles 规范。
