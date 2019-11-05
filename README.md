@@ -24,8 +24,6 @@
   - [办公](#办公)
 - [读物](awesome-reading.md)
 - [其它资源](#其它资源)
-  - [网站](#网站)
-  - [其它](#其它)
 - [Contribution](#contribution)
 
 ## 软件
@@ -40,6 +38,8 @@
 - [VS Code](https://code.visualstudio.com/) - 微软开源的一款轻量级开发工具，功能很强大，深受开发者的青睐，是 Web 前端开发者的工作利器。
 - [Sublime Text](http://www.sublimetext.com/) - 一款开源的轻量级编辑器，功能很强大，是在 VS Code、Atom 出现之前最受开发者欢迎的编辑器。
 - [Eclipse](https://www.eclipse.org/) - 开源的重量级编辑器，功能非常强大，是 Java 开发者中使用最多的 IDE。
+- [UltraEdit](https://www.ultraedit.com/) - 文本编辑器，功能强大，性能较好，**商业软件**。
+- [EmEditor](https://www.emeditor.com/) - 文本编辑器，功能强大，浏览大文件性能很好，**商业软件**。
 
 ### 源代码管理
 
@@ -64,8 +64,6 @@
 
 ## 其它资源
 
-### 网站
-
 - 在线工具
   - [IPAddress](https://www.ipaddress.com/) - 查询某个站点的 IP 地址。
   - [DocTranslator](https://www.onlinedoctranslator.com/zh-CN/) - 在线网站，可翻译文档，PDF 转 Word 无水印。
@@ -87,15 +85,11 @@
   - [Bash Pitfalls](http://mywiki.wooledge.org/BashPitfalls) - 此页面汇总了 Bash 用户常犯的编程错误。
   - [COMMANDLINEFU.COM](https://www.commandlinefu.com/commands/browse) - 汇集了很多优秀的、充满智慧的、简洁的命令行命令。
   - [Perfection Kills](http://perfectionkills.com/)	
-  - [Hackr.io](https://hackr.io/) - 在线教程。	
+  - [Hackr.io](https://hackr.io/) - 在线教程。		
 
-### 开源项目	
-
-- 桌面端开发	
-
-- 服务器端开发	
-
-- 服务器	
+- 服务器
+  - [Linux](https://www.linux.org/) - 服务器领域操作系统。
+    - [Ubuntu](https://ubuntu.com/) - 最为流行的 Linux 发行版，提供图形化界面等资源。
   - [Nginx](http://nginx.org/en/) - 轻量级、高性能、高并发的 Web 服务器，主要作为负载均衡、反向代理、静态资源服务的前端服务器。	
   - [Apache](http://httpd.apache.org/)	
   - [Tomcat](http://tomcat.apache.org/) - Java Web 开发中的 Servlet 容器。	
@@ -110,23 +104,20 @@
   - Ruby	
     - [RubyGems](https://rubygems.org/)	
 
-### 工具平台	
+- 工具平台
+  - [Anaconda](https://www.anaconda.com) - Python 科学计算平台。	
 
-- [Anaconda](https://www.anaconda.com) - Python 科学计算平台。	
+- 学习资源	
+  - [30 seconds](https://github.com/30-seconds) - 30 seconds 是一个系列，包含 JS、React、CSS 相关的编程技巧。	
+  - [33 js concepts](https://github.com/leonardomso/33-js-concepts) - 包含了丰富的 JavaScript 相关的知识概念，学习资源。	
+  - [掘金翻译计划](https://github.com/xitu/gold-miner) - 掘金翻译计划，可能是世界最大最好的英译中技术社区，最懂读者和译者的翻译平台。	
 
-### 学习资源	
-
-- [30 seconds](https://github.com/30-seconds) - 30 seconds 是一个系列，包含 JS、React、CSS 相关的编程技巧。	
-- [33 js concepts](https://github.com/leonardomso/33-js-concepts) - 包含了丰富的 JavaScript 相关的知识概念，学习资源。	
-- [掘金翻译计划](https://github.com/xitu/gold-miner) - 掘金翻译计划，可能是世界最大最好的英译中技术社区，最懂读者和译者的翻译平台。	
-
-### 其它	
-
-- [GitHub Guides](https://guides.github.com/) - Github 的官方指南页面，可以帮助开发者系统迅速的了解 Github 及其简单的用法。	
-- [句子迷](https://www.juzimi.com/)	
-- [古诗文网](https://www.gushiwen.org/)	
-- [Pexels](https://www.pexels.com/zh-cn/) - 免费的摄影素材分享。	
-- [ProductHunt](https://www.producthunt.com/) - 产品发布分享。		
+- 其它	
+  - [GitHub Guides](https://guides.github.com/) - Github 的官方指南页面，可以帮助开发者系统迅速的了解 Github 及其简单的用法。	
+  - [句子迷](https://www.juzimi.com/)	
+  - [古诗文网](https://www.gushiwen.org/)	
+  - [Pexels](https://www.pexels.com/zh-cn/) - 免费的摄影素材分享。	
+  - [ProductHunt](https://www.producthunt.com/) - 产品发布分享。		
 
 [Go Top ↑](#awesome-favorites-list)
 
