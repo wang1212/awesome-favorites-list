@@ -56,10 +56,12 @@
 - [Cesium.js](https://cesiumjs.org/) - 目前最具优势的、功能丰富的开源三维地图引擎。
 
 - [Mapbox GL](https://docs.mapbox.com/mapbox-gl-js/overview/) - 一个开源的、基于 WebGL 技术的现代化地图引擎，由 MapBox 公司进行持续维护。
-  - [DECK.GL](https://deck.gl/) - 基于 Mapbox-GL 引擎，由 WebGL 驱动的大数据可视化框架，**Uber 公司发布**。
+  - [DECK.GL](https://deck.gl/) - 由 WebGL 驱动的大数据可视化框架，**Uber 公司发布**。
   - [React Mapbox GL](https://uber.github.io/react-map-gl/) - 基于 React.js 集成了 MapBox GL 的实现，**Uber 公司维护**。
   
 - [wrld.js](https://www.wrld3d.com/) - 基于 Leaflet.js 的 WebGL 3D 地图引擎。
+
+- [MapillaryJS](https://mapillary.github.io/mapillary-js/) - 街景地图引擎，可与众多地图引擎（Leaflet/Openlayers/Mapbox GL 等）搭配使用。
 
 ### 开发工具
 
@@ -84,8 +86,10 @@
 
 - [ESRI](https://www.esri.com/) - GIS 行业商业巨头，ArcGIS 发布者的官网。
 - [ArcGIS](https://www.arcgis.com/) - GIS 行业商业巨头，其商业软件几乎为行业标准。
+- [Mapillary](https://www.mapillary.com/) - 街景地图平台。
 - [MapTiler](https://www.maptiler.com/) - 一个提供地图设计，切片的地图托管平台，官方开源。
 - [OpenMapTiler](https://openmaptiles.org/) - 提供免费的自托管地图矢量瓦片数据。
 - [mygeodata](https://mygeodata.cloud/converter/) - 在线地理数据转换工具。
+- [ODM](https://www.opendronemap.org/) - 开源的无人机航片拼图工具平台。
 
 [Go Top ↑](#awesome-gis-list)

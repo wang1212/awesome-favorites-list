@@ -10,6 +10,8 @@
 
 ## Contents
 
+- [技术规范标准](#技术规范标准)
+- [技术参考文档](#技术参考文档)
 - [HTML](#html)
   - [构建工具](#html-构建工具)
   - [工具库](#html-工具库)
@@ -24,11 +26,35 @@
   - [数据可视化](#数据可视化)
   - [开发框架](#开发框架)
 - [资源](#资源)
-  - [技术规范标准](#技术规范标准)
-  - [技术参考文档](#技术参考文档)
   - [在线工具](#在线工具) 
   - [技术读物](#技术读物)
   - [其它](#其它)
+
+## 技术规范标准
+
+- [W3C](https://www.w3.org/) - 万维网联盟创建于 1994 年，是 Web 技术领域最具权威和影响力的国际中立性技术标准机构。
+- [ECMA International](http://www.ecma-international.org/) - ECMA 国际是一家国际性会员制度的信息和电信标准组织，负责行业标准的制定，例如 ECMA Script。
+- [WebAssembly](https://webassembly.org/) - WebAssembly 官方网站，可在浏览器中运行 C/C++ 代码。
+- [Chrome Blink status](https://www.chromestatus.com/) - Google Chrome 的 Blink 引擎功能特性的官方实现和标准化的开发状态查询列表。
+- [Firefox status](https://platform-status.mozilla.org/) - Firefox 的 Web 平台功能的官方实现和标准化路线图查询列表。
+- [Webkit](https://webkit.org/) - Webkit 浏览器引擎的官方网站，可查询其功能特性的实现和标准化状态。
+- [JSON Specification](http://www.json.org/) - JSON 数据格式规范。
+- [JSON Schema](http://json-schema.org/) - JSON 数据校验。
+- [NDJSON Specification](http://ndjson.org/) - Newline Delimited JSON 数据格式规范。
+
+## 技术参考文档
+
+- [MDN Developer Document](https://developer.mozilla.org/en-US/) - MDN Web Docs 网站提供开放网络（Open Web）技术有关的信息，包括用于网站和渐进式网络应用的 HTML、CSS 和 API，是提供给 Web 开发者最好的学习资料和技术文档，**可作为官方标准参阅学习**。
+- [Can I use](https://caniuse.com/) - 可以查询特定 Web API（H5、CSS3）在各个浏览器平台的实现和标准化状态，**非官方网站**。
+- [w3schools](https://www.w3schools.com/) - 国外一个非常棒的 Web 技术学习资源网站。（须翻墙）
+- [w3school](http://www.w3school.com.cn/) - 国内一个仿国外 w3schools 的 Web 技术学习资源网站。
+- [菜鸟教程](http://www.runoob.com/) - 国内另一个仿国外 w3schools 的 Web 技术学习资源网站。
+- [jQuery API 中文文档](http://jquery.cuishifeng.cn/) - 一个国内开发者维护的 jQuery API 中文文档，非常实用。
+- [33 js concepts](https://github.com/leonardomso/33-js-concepts) - 包含了丰富的 JavaScript 相关的知识概念，学习资源。
+- [印记中文](https://docschina.org/) - 包含了许多前端技术库的中文翻译文档。
+- [CSS BEM](https://en.bem.info/) - CSS 类名的 BEM 命名风格和规则。
+- [Emscripten](https://emscripten.org/) - 用于编译为使用 LLVM 构建的 asm.js 和 WebAssembly 的工具链，可在 Web 浏览器中运行 C/C++ 代码。
+- [Cheerp](https://www.leaningtech.com/cheerp/) - 与 Emscripten 类似。
 
 ## HTML
 
@@ -188,29 +214,6 @@
 
 ## 资源
 
-### 技术规范标准
-
-- [W3C](https://www.w3.org/) - 万维网联盟创建于 1994 年，是 Web 技术领域最具权威和影响力的国际中立性技术标准机构。
-- [ECMA International](http://www.ecma-international.org/) - ECMA 国际是一家国际性会员制度的信息和电信标准组织，负责行业标准的制定，例如 ECMA Script。
-- [Chrome Blink status](https://www.chromestatus.com/) - Google Chrome 的 Blink 引擎功能特性的官方实现和标准化的开发状态查询列表。
-- [Firefox status](https://platform-status.mozilla.org/) - Firefox 的 Web 平台功能的官方实现和标准化路线图查询列表。
-- [Webkit](https://webkit.org/) - Webkit 浏览器引擎的官方网站，可查询其功能特性的实现和标准化状态。
-- [JSON Specification](http://www.json.org/) - JSON 数据格式规范。
-- [JSON Schema](http://json-schema.org/) - JSON 数据校验。
-- [NDJSON Specification](http://ndjson.org/) - Newline Delimited JSON 数据格式规范。
-
-### 技术参考文档
-
-- [MDN Developer Document](https://developer.mozilla.org/en-US/) - MDN Web Docs 网站提供开放网络（Open Web）技术有关的信息，包括用于网站和渐进式网络应用的 HTML、CSS 和 API，是提供给 Web 开发者最好的学习资料和技术文档，**可作为官方标准参阅学习**。
-- [Can I use](https://caniuse.com/) - 可以查询特定 Web API（H5、CSS3）在各个浏览器平台的实现和标准化状态，**非官方网站**。
-- [w3schools](https://www.w3schools.com/) - 国外一个非常棒的 Web 技术学习资源网站。（须翻墙）
-- [w3school](http://www.w3school.com.cn/) - 国内一个仿国外 w3schools 的 Web 技术学习资源网站。
-- [菜鸟教程](http://www.runoob.com/) - 国内另一个仿国外 w3schools 的 Web 技术学习资源网站。
-- [jQuery API 中文文档](http://jquery.cuishifeng.cn/) - 一个国内开发者维护的 jQuery API 中文文档，非常实用。
-- [33 js concepts](https://github.com/leonardomso/33-js-concepts) - 包含了丰富的 JavaScript 相关的知识概念，学习资源。
-- [印记中文](https://docschina.org/) - 包含了许多前端技术库的中文翻译文档。
-- [CSS BEM](https://en.bem.info/) - CSS 类名的 BEM 命名风格和规则。
-
 ### 在线工具
 
 - Free CDN
@@ -237,6 +240,12 @@
   - [Varvy SEO tool](https://varvy.com/) - 一个在线网站 SEO、性能检测工具，提供优化建议和技巧。
   - [PageSpeed Insights](https://developers.google.com/speed/pagespeed/insights/) - Google 提供的在线网站性能检测工具，提供优化建议和技巧，**Google 官方提供**。
   - [Lighthouse](https://developers.google.com/web/tools/lighthouse/) - Google 提供的一个网站优化检测分析工具，已被集成在 Chrome 开发工具中，也可以作为 Chrome 扩展或者命令行工具使用，**Google 官方提供**。
+
+- IDE / Editor
+  - [JSFiddle](https://jsfiddle.net/)
+  - [CodeSandbox](https://codesandbox.io/)
+  - [CodePen](https://codepen.io/)
+  - [WebAssembly Studio](https://webassembly.studio/) - 在线的 WebAssembly 编辑器，**Mozilla 发布**。
 
 ### 技术读物
 

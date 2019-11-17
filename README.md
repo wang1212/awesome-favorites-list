@@ -35,11 +35,19 @@
 
 ### IDE 编辑器
 
-- [VS Code](https://code.visualstudio.com/) - 微软开源的一款轻量级开发工具，功能很强大，深受开发者的青睐，是 Web 前端开发者的工作利器。
-- [Sublime Text](http://www.sublimetext.com/) - 一款开源的轻量级编辑器，功能很强大，是在 VS Code、Atom 出现之前最受开发者欢迎的编辑器。
-- [Eclipse](https://www.eclipse.org/) - 开源的重量级编辑器，功能非常强大，是 Java 开发者中使用最多的 IDE。
-- [UltraEdit](https://www.ultraedit.com/) - 文本编辑器，功能强大，性能较好，**商业软件**。
-- [EmEditor](https://www.emeditor.com/) - 文本编辑器，功能强大，浏览大文件性能很好，**商业软件**。
+- Online
+  - [CodeTable](https://code.hackerearth.com/)
+  - [JDoodle](https://www.jdoodle.com/)
+  - [IdeOne](https://ideone.com/)
+  - [OnlineGDB](https://www.onlinegdb.com/)
+  - [CodeMirror](https://codemirror.net/)
+
+- Local
+  - [VS Code](https://code.visualstudio.com/) - 微软开源的一款轻量级开发工具，功能很强大，深受开发者的青睐，是 Web 前端开发者的工作利器。
+  - [Sublime Text](http://www.sublimetext.com/) - 一款开源的轻量级编辑器，功能很强大，是在 VS Code、Atom 出现之前最受开发者欢迎的编辑器。
+  - [Eclipse](https://www.eclipse.org/) - 开源的重量级编辑器，功能非常强大，是 Java 开发者中使用最多的 IDE。
+  - [UltraEdit](https://www.ultraedit.com/) - 文本编辑器，功能强大，性能较好，**商业软件**。
+  - [EmEditor](https://www.emeditor.com/) - 文本编辑器，功能强大，浏览大文件性能很好，**商业软件**。
 
 ### 源代码管理
 
@@ -57,12 +65,23 @@
 ### 开发辅助工具
 
 - [Postman](https://www.getpostman.com/) - 一个非常棒的 API 管理工具。
+- [WinSCP](https://winscp.net/) - 一个 Windows 环境下使用 SSH 的开源图形化 SFTP 客户端，同时支持 SCP 协议。
+- [PuTTY](https://www.putty.org/) - 一个集 Telnet、SSH、rlogin、纯 TCP 以及串行接口连接软件，配合 WinSCP 可以很好的远程管理 Linux 服务器。
+
+- Linux
+  - [Universal USB Installer](https://www.pendrivelinux.com/universal-usb-installer-easy-as-1-2-3/) - 可在 U 盘中安装 Linux 操作系统。
+  - [Multiboot USB Creator](https://www.pendrivelinux.com/yumi-multiboot-usb-creator/) - 可在 U 盘中**同时安装多个** Linux 发行版本。
+  - [UNetbootin](http://unetbootin.github.io/) - 制作 Linux Live USB。
+  - [Etcher](https://www.balena.io/etcher) - 制作 Linux Live USB。
 
 ### 办公
 
 [Go Top ↑](#awesome-favorites-list)
 
 ## 其它资源
+
+- 技术规范标准
+  - [YAML Specification](https://yaml.org/) - yaml 数据格式规范。
 
 - 在线工具
   - [IPAddress](https://www.ipaddress.com/) - 查询某个站点的 IP 地址。

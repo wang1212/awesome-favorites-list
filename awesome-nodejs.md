@@ -10,39 +10,45 @@
 
 ## Contents
 
-- [技术标准](#技术标准)
-  - [规范标准](#规范标准)
-  - [技术文档](#技术文档)
-  - [包管理器](#包管理器)
+- [技术规范标准](#技术规范标准)
+- [技术参考文档](#技术参考文档)
 - [Node 模块](#node-模块)
+  - [包管理器](#包管理器)
+  - [第三方模块](#第三方模块)
 - [开发框架](#开发框架)
 - [其它](#其它)
   - [HTML 模板引擎](#html-模板引擎)
-  - [辅助工具](#辅助工具)
   - [社区论坛](#社区论坛)
   - [期刊](#期刊)
 
-## 技术标准
+## 技术规范标准
 
 - [Node.js](https://nodejs.org/) - Node.js 官方网站。
-
-### 规范标准
-
 - [OpenAPI](https://www.openapis.org/) - 定义了一种 REST APIs 标准。
 
-### 技术文档
+[Go Top ↑](#awesome-nodejs-list)
+
+## 技术参考文档
 
 - [Node.js 中文网](http://nodejs.cn/) - 唯一与官方同步更新的 Node.js 中文文档。
-
-### 包管理器
-
-- [npm](https://www.npmjs.com/) - Node.js 的官方包管理器。
-- [Yarn](https://www.yarnpkg.com/)
-- [Bower](https://bower.io/)
 
 [Go Top ↑](#awesome-nodejs-list)
 
 ## Node 模块
+
+### 包管理器
+
+- Packages Manageer
+  - [npm](https://www.npmjs.com/) - Node.js 的官方包管理器。
+  - [Yarn](https://www.yarnpkg.com/)
+  - [Bower](https://bower.io/)
+
+- 辅助工具
+  - [Lerna](https://lerna.js.org/) - 管理 Monorepo 架构的 Node 模块代码库工具。
+  - [Npm Trends](https://www.npmtrends.com/) - 非官方网站，可以查询对比多个 Npm 包的下载流量数据、star 数目等。
+  - [Npm Charts](https://npmcharts.com/) - 非官方网站，可以查询对比多个 Npm 包的下载流量数据、star 数目等。
+  
+### 第三方模块
 
 - Utils
   - [chalk](https://github.com/chalk/chalk) - 终端输出字符串样式工具，支持全部的颜色。
@@ -69,7 +75,7 @@
     - [mongoose](https://mongoosejs.com/) - Node.js 对 mongodb 模型的封装。
   
 - File
-  - [fs-extra](https://github.com/jprichardson/node-fs-extra) - 作为官方原生 fs 模块的补充和优化。
+  - [fs-extra](https://github.com/jprichardson/node-fs-extra) - 作为官方原生 [fs](https://nodejs.org/api/fs.html) 模块的补充和优化。
   - [rotating-file-stream](https://github.com/iccicci/rotating-file-stream) - 文件流自动轮转，可用于日志文件分割，类似 UNIX `logrotate`。
 
 [Go Top ↑](#awesome-nodejs-list)
@@ -81,6 +87,8 @@
   - [body-parser](https://github.com/expressjs/body-parser) - Express 中间件，对 request 的 body 进行预处理，**官方发布**。
   - [Multer](https://github.com/expressjs/multer) - Express 中间件，处理 `multipart/form-data` 表单数据，**官方发布**。
   - [morgan](https://github.com/expressjs/morgan) - Express 中间件，请求日志记录，**官方发布**。
+  - [Passport.js](http://www.passportjs.org/) - 身份验证中间件，可在基于 Express 的 Node.js 框架中使用。
+  
 - [Koa](https://koajs.com/) - 轻量级、高性能的 Web 框架，Express 团队开发。
   
 - [Electron](https://electronjs.org/) - 基于 Node.js 与 Chromium 技术的开源跨平台桌面端应用开发解决方案，对 Web 前端开发人员友好。
@@ -94,11 +102,6 @@
 - [EJS](https://ejs.co)
 - [Handlebars.js](http://handlebarsjs.com/)
 - [Jade](http://jade-lang.com/)
-
-### 辅助工具
-
-- [Npm Trends](https://www.npmtrends.com/) - 非官方网站，可以查询对比多个 Npm 包的下载流量数据、star 数目等。
-- [Npm Charts](https://npmcharts.com/) - 非官方网站，可以查询对比多个 Npm 包的下载流量数据、star 数目等。
 
 ### 社区论坛
 
