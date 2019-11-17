@@ -77,6 +77,10 @@
 
 ### 办公
 
+- [Cleaver](http://jdan.github.io/cleaver/) - Markdown 文件生成幻灯片。
+- [mermaid](https://github.com/mermaid-js/mermaid) - txt 文件生成流程图。
+- [nodeppt](https://github.com/ksky521/nodeppt)
+
 [Go Top ↑](#awesome-favorites-list)
 
 ## 其它资源
