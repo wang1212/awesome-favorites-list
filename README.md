@@ -59,6 +59,7 @@
   - [Coding](https://coding.net/) - 目前由腾讯入股，体验相比刚开始变差，不建议使用。
   - [Gitea](https://gitea.io/) - 提供跨平台的 Git 仓库托管平台搭建，开源。
   - [Gogs](https://gogs.io/)
+  - [git-open](https://github.com/paulirish/git-open) - git 命令行工具，可直接在浏览器中打开仓库页面。
 
 - [Tortoise SVN](https://tortoisesvn.net/) - SVN 是一种传统的中心化管理的源代码版本控制工具，Tortoise SVN 提供了 GUI 来使用 SVN。
 
@@ -73,8 +74,13 @@
   - [Multiboot USB Creator](https://www.pendrivelinux.com/yumi-multiboot-usb-creator/) - 可在 U 盘中**同时安装多个** Linux 发行版本。
   - [UNetbootin](http://unetbootin.github.io/) - 制作 Linux Live USB。
   - [Etcher](https://www.balena.io/etcher) - 制作 Linux Live USB。
+  - [LF](https://github.com/gokcehan/lf) - 终端文件管理工具命令包。
 
 ### 办公
+
+- [Cleaver](http://jdan.github.io/cleaver/) - Markdown 文件生成幻灯片。
+- [mermaid](https://github.com/mermaid-js/mermaid) - txt 文件生成流程图。
+- [nodeppt](https://github.com/ksky521/nodeppt)
 
 [Go Top ↑](#awesome-favorites-list)
 
