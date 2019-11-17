@@ -73,6 +73,7 @@
   - [Multiboot USB Creator](https://www.pendrivelinux.com/yumi-multiboot-usb-creator/) - 可在 U 盘中**同时安装多个** Linux 发行版本。
   - [UNetbootin](http://unetbootin.github.io/) - 制作 Linux Live USB。
   - [Etcher](https://www.balena.io/etcher) - 制作 Linux Live USB。
+  - [LF](https://github.com/gokcehan/lf) - 终端文件管理工具命令包。
 
 ### 办公
 
