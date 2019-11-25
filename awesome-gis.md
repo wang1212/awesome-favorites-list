@@ -32,6 +32,7 @@
 - [Vector Tile Specification](https://github.com/mapbox/vector-tile-spec) - Mapbox 矢量瓦片规范。
 - [MBTiles Specification](https://github.com/mapbox/mbtiles-spec) - MBTiles 规范。
 - [UTFGrid Specification](https://github.com/mapbox/utfgrid-spec) - UTFGrid 规范。
+- [ESRI Shapefile Technical Description](https://www.esri.com/library/whitepapers/pdfs/shapefile.pdf) - ESRI Shapefile 白皮书，Shapefile 技术描述。
 
 [Go Top ↑](#awesome-gis-list)
 
