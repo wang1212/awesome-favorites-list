@@ -24,7 +24,7 @@
 
 - [OGC](http://www.opengeospatial.org/) - 开放地理空间联盟（OGC）是一个致力于为全球地理空间社区制定高质量开放标准的国际非营利组织。
 - [OSGeo](https://www.osgeo.org/) - 开源空间信息基金会，一个全球性非营利性组织，目标是支持全球性的合作，建立和推广高品质的空间信息开源软件。
-- [OSGeo 中国中心](https://www.osgeo.cn/) - OSGeo 中国中心是由国家遥感中心发起、Autodesk 中国有限公司协助，经 OSGeo 正式授权的非营利性组织。OSGeo 中国中心的使命是支持开源地理信息软件和遥感软件的开发以及推动其更广泛的应用，尤其是帮助中国地区的用户和开发者更好地使用 OSGeo 基金会提供的源代码、产品及服务。
+  - [OSGeo 中国中心](https://www.osgeo.cn/) - OSGeo 中国中心是由国家遥感中心发起、Autodesk 中国有限公司协助，经 OSGeo 正式授权的非营利性组织。OSGeo 中国中心的使命是支持开源地理信息软件和遥感软件的开发以及推动其更广泛的应用，尤其是帮助中国地区的用户和开发者更好地使用 OSGeo 基金会提供的源代码、产品及服务。
 - [EPSG](http://www.epsg.org/) - EPSG 的维护组织 IOGP 官网。
 - [Spatial Reference](https://spatialreference.org/) - 空间参考定义查询。
 - [GeoJSON Specification](https://geojson.org/) - GeoJSON 规范。:point_right: [简体中文翻译](https://www.oschina.net/translate/geojson-spec?cmp)
