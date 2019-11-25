@@ -41,6 +41,7 @@
 ## 技术参考文档
 
 - [EPSG.io](http://epsg.io/) - 全球坐标系统 EPSG 在线查询，同时提供 API 支持。
+- [Format Descriptions for Geospatial Data](https://www.loc.gov/preservation/digital/formats/fdd/gis_fdd.shtml) - 地理数据格式描述参考。
 
 [Go Top ↑](#awesome-gis-list)
 
