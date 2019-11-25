@@ -94,6 +94,7 @@
   - [DocTranslator](https://www.onlinedoctranslator.com/zh-CN/) - 在线网站，可翻译文档，PDF 转 Word 无水印。
   - [MBA 智库百科](https://wiki.mbalib.com) - 比较专业的经管知识查询。
   - [DB-Engines](https://db-engines.com/) - 数据库排名信息。
+  - [美国国会图书馆](https://www.loc.gov/)
   
 - 论坛社区
   - [Stack Overflow](https://stackoverflow.com/) - 全球的程序员学习、分享，技术问答社区网站。
