@@ -33,6 +33,8 @@
 - [MBTiles Specification](https://github.com/mapbox/mbtiles-spec) - MBTiles 规范。
 - [UTFGrid Specification](https://github.com/mapbox/utfgrid-spec) - UTFGrid 规范。
 - [ESRI Shapefile Technical Description](https://www.esri.com/library/whitepapers/pdfs/shapefile.pdf) - ESRI Shapefile 白皮书，Shapefile 技术描述。
+  - [ESRI Shapefile Info](https://www.loc.gov/preservation/digital/formats/fdd/fdd000280.shtml)
+  - [Data File Header Structure for the dBASE Version 7 Table File](http://www.dbase.com/Knowledgebase/INT/db7_file_fmt.htm)
 
 [Go Top ↑](#awesome-gis-list)
 
