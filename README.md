@@ -21,7 +21,7 @@
   - [IDE/编辑器](#ide-编辑器)
   - [源代码管理](#源代码管理)
   - [开发辅助工具](#开发辅助工具)
-  - [办公](#办公)
+  - [日常办公](#日常办公)
 - [读物](awesome-reading.md)
 - [其它资源](#其它资源)
 - [Contribution](#contribution)
@@ -76,11 +76,12 @@
   - [Etcher](https://www.balena.io/etcher) - 制作 Linux Live USB。
   - [LF](https://github.com/gokcehan/lf) - 终端文件管理工具命令包。
 
-### 办公
+### 日常办公
 
 - [Cleaver](http://jdan.github.io/cleaver/) - Markdown 文件生成幻灯片。
 - [mermaid](https://github.com/mermaid-js/mermaid) - txt 文件生成流程图。
 - [nodeppt](https://github.com/ksky521/nodeppt)
+- [Chromium](https://chromium.woolyss.com/download/) - [Chromium](https://www.chromium.org/) 浏览器安装包下载，[**非官方网站**](https://chromium.woolyss.com/#notes)。
 
 [Go Top ↑](#awesome-favorites-list)
 
@@ -94,7 +95,7 @@
   - [DocTranslator](https://www.onlinedoctranslator.com/zh-CN/) - 在线网站，可翻译文档，PDF 转 Word 无水印。
   - [MBA 智库百科](https://wiki.mbalib.com) - 比较专业的经管知识查询。
   - [DB-Engines](https://db-engines.com/) - 数据库排名信息。
-  - [美国国会图书馆](https://www.loc.gov/)
+  - [Library of Congress](https://www.loc.gov/) - 美国国会图书馆。
   
 - 论坛社区
   - [Stack Overflow](https://stackoverflow.com/) - 全球的程序员学习、分享，技术问答社区网站。
