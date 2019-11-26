@@ -28,7 +28,8 @@
 
 ## 软件
 
-- [softonic](https://en.softonic.com) - 一个很棒的下载软件的网站。
+- [Apk Follow](https://www.apkfollow.com/) - 安卓应用下载网站，更新较为及时。
+- [softonic](https://en.softonic.com) - 覆盖全端软件的下载网站。
 - [SourceForge.net](https://sourceforge.net/)
 - [Slant](https://www.slant.co/) - 搜索最佳实践。
 - [LibHunt](https://www.libhunt.com/) - 收集了各种库的网站。
