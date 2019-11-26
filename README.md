@@ -142,7 +142,7 @@
 
 - 其它	
   - [GitHub Guides](https://guides.github.com/) - Github 的官方指南页面，可以帮助开发者系统迅速的了解 Github 及其简单的用法。	
-  - [句子迷](https://www.juzimi.com/)	
+  - [~~句子迷~~](https://www.juzimi.com/)
   - [古诗文网](https://www.gushiwen.org/)	
   - [Pexels](https://www.pexels.com/zh-cn/) - 免费的摄影素材分享。	
   - [ProductHunt](https://www.producthunt.com/) - 产品发布分享。		
