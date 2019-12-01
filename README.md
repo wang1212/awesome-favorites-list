@@ -85,10 +85,6 @@
 - [nodeppt](https://github.com/ksky521/nodeppt)
 - [Chromium](https://chromium.woolyss.com/download/) - [Chromium](https://www.chromium.org/) 浏览器安装包下载，[**非官方网站**](https://chromium.woolyss.com/#notes)。
 
-- [Cleaver](http://jdan.github.io/cleaver/) - Markdown 文件生成幻灯片。
-- [mermaid](https://github.com/mermaid-js/mermaid) - txt 文件生成流程图。
-- [nodeppt](https://github.com/ksky521/nodeppt)
-
 [Go Top ↑](#awesome-favorites-list)
 
 ## 其它资源
