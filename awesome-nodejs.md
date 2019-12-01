@@ -39,7 +39,7 @@
 ### 包管理器
 
 - Packages Manageer
-  - [npm](https://www.npmjs.com/) - Node.js 的官方包管理器。
+  - [npm](https://www.npmjs.com/) - Node.js 的官方指定包管理器。
   - [Yarn](https://www.yarnpkg.com/)
   - [Bower](https://bower.io/)
 
@@ -50,12 +50,13 @@
   
 ### 第三方模块
 
+- Node Version Manage
+  - [n](https://github.com/tj/n) - npm 包，Node 版本管理工具，**不支持 Windows 系统**。
+  - [nvm](https://github.com/nvm-sh/nvm) - Node 版本管理，**不支持 Windows 系统**。
+  - [nvm-windows](https://github.com/coreybutler/nvm-windows) - Windows 系统下的 Node 版本管理工具。
+
 - Utils
   - [chalk](https://github.com/chalk/chalk) - 终端输出字符串样式工具，支持全部的颜色。
-
-- Node Version Manage
-  - [n](https://github.com/tj/n) - npm 包，Node 版本管理工具。
-  - [nvm](https://github.com/nvm-sh/nvm) - Node 版本管理。
 
 - Process Manage
   - [Forever](https://github.com/foreversd/forever) - Node 应用生产环境进程管理工具，使用简单方便。
