@@ -6,7 +6,7 @@
 
 <br />
 
-推荐一个其它的很棒的收藏列表，:point_right: https://github.com/sindresorhus/awesome
+（Recommend）推荐一个其它的很棒的收藏列表，:point_right: https://github.com/sindresorhus/awesome
 
 ## Contents
 
@@ -29,6 +29,8 @@
 
 ## 软件
 
+Awesome Software.
+
 - [Apk Follow](https://www.apkfollow.com/) - 安卓应用下载网站，更新较为及时。
 - [softonic](https://en.softonic.com) - 覆盖全端软件的下载网站。
 - [SourceForge.net](https://sourceforge.net/)
@@ -44,6 +46,8 @@ Software package manager, providing software installation, uninstallation, confi
   - [Scoop](https://scoop.sh/)
 
 ### IDE 编辑器
+
+Open source free IDE editor, online code editor and some commercial paid IDE.
 
 - Online
   - [CodeTable](https://code.hackerearth.com/)
@@ -61,6 +65,8 @@ Software package manager, providing software installation, uninstallation, confi
 
 ### 源代码管理
 
+Source code version management system and building tools.
+
 - [Git](https://git-scm.com/) - 目前最受欢迎的，使用最广泛的分布式源代码版本控制工具。
   - [GitHub](https://github.com/)
   - [GitLab](https://about.gitlab.com/)
@@ -75,6 +81,8 @@ Software package manager, providing software installation, uninstallation, confi
 
 ### 开发辅助工具
 
+Developer assistance tools, including API management, remote login, and more.
+
 - [Postman](https://www.getpostman.com/) - 一个非常棒的 API 管理工具。
 - [WinSCP](https://winscp.net/) - 一个 Windows 环境下使用 SSH 的开源图形化 SFTP 客户端，同时支持 SCP 协议。
 - [PuTTY](https://www.putty.org/) - 一个集 Telnet、SSH、rlogin、纯 TCP 以及串行接口连接软件，配合 WinSCP 可以很好的远程管理 Linux 服务器。
@@ -88,6 +96,8 @@ Software package manager, providing software installation, uninstallation, confi
 
 ### 日常办公
 
+Daily office software, browse the Internet.
+
 - [ShareX](https://getsharex.com/) - 截屏、录屏、文本转换、DNS 更换等等，生产力工具。
 - [Cleaver](http://jdan.github.io/cleaver/) - Markdown 文件生成幻灯片。
 - [mermaid](https://github.com/mermaid-js/mermaid) - txt 文件生成流程图。
@@ -98,17 +108,19 @@ Software package manager, providing software installation, uninstallation, confi
 
 ## 其它资源
 
-- 技术规范标准
+Other unclassified resources.
+
+- 技术规范标准（Technical Specifications）
   - [YAML Specification](https://yaml.org/) - yaml 数据格式规范。
 
-- 在线工具
+- 在线工具（Online tools）
   - [IPAddress](https://www.ipaddress.com/) - 查询某个站点的 IP 地址。
   - [DocTranslator](https://www.onlinedoctranslator.com/zh-CN/) - 在线网站，可翻译文档，PDF 转 Word 无水印。
   - [MBA 智库百科](https://wiki.mbalib.com) - 比较专业的经管知识查询。
   - [DB-Engines](https://db-engines.com/) - 数据库排名信息。
   - [Library of Congress](https://www.loc.gov/) - 美国国会图书馆。
   
-- 论坛社区
+- 论坛社区（Forum community）
   - [Stack Overflow](https://stackoverflow.com/) - 全球的程序员学习、分享，技术问答社区网站。
   - [SegmentFault](https://segmentfault.com/) - 国内一个类似 Stack Overflow 的程序员技术学习，问答社区网站。
   - [V2EX](https://v2ex.com/) - 一个汇集各类奇妙好玩的话题和流行动向的网站。
@@ -119,21 +131,23 @@ Software package manager, providing software installation, uninstallation, confi
   - [慕课网](https://www.imooc.com/) - 国内一个提供计算机开发技术学习课程收费服务的网站，有大量免费优质学习资源。
   - [Linux 公社](https://www.linuxidc.com/) - 国内一个论坛，内有大量 Linux 相关资源。
   
-- 编程技巧
+- 编程技巧（Programming skills）
   - [Semantic Versioning](https://semver.org/) - 语义化版本控制。
   - [Bash Pitfalls](http://mywiki.wooledge.org/BashPitfalls) - 此页面汇总了 Bash 用户常犯的编程错误。
   - [COMMANDLINEFU.COM](https://www.commandlinefu.com/commands/browse) - 汇集了很多优秀的、充满智慧的、简洁的命令行命令。
   - [Perfection Kills](http://perfectionkills.com/)	
   - [Hackr.io](https://hackr.io/) - 在线教程。		
+  - [30 seconds](https://github.com/30-seconds) - 30 seconds 是一个系列，包含 JS、React、CSS 相关的编程技巧。	
+  - [33 js concepts](https://github.com/leonardomso/33-js-concepts) - 包含了丰富的 JavaScript 相关的知识概念，学习资源。	
 
-- 服务器
+- 服务器（Server）
   - [Linux](https://www.linux.org/) - 服务器领域操作系统。
     - [Ubuntu](https://ubuntu.com/) - 最为流行的 Linux 发行版，提供图形化界面等资源。
   - [Nginx](http://nginx.org/en/) - 轻量级、高性能、高并发的 Web 服务器，主要作为负载均衡、反向代理、静态资源服务的前端服务器。	
   - [Apache](http://httpd.apache.org/)	
   - [Tomcat](http://tomcat.apache.org/) - Java Web 开发中的 Servlet 容器。	
 
-- 包管理器	
+- 包管理器（Package manager）
   - Web/JavaScript/Node.js	
     - [npm](https://www.npmjs.com/)	
     - [Yarn](https://yarnpkg.com/)	
@@ -143,16 +157,12 @@ Software package manager, providing software installation, uninstallation, confi
   - Ruby	
     - [RubyGems](https://rubygems.org/)	
 
-- 工具平台
+- 工具平台（Tool platform）
   - [Anaconda](https://www.anaconda.com) - Python 科学计算平台。	
 
-- 学习资源	
-  - [30 seconds](https://github.com/30-seconds) - 30 seconds 是一个系列，包含 JS、React、CSS 相关的编程技巧。	
-  - [33 js concepts](https://github.com/leonardomso/33-js-concepts) - 包含了丰富的 JavaScript 相关的知识概念，学习资源。	
-  - [掘金翻译计划](https://github.com/xitu/gold-miner) - 掘金翻译计划，可能是世界最大最好的英译中技术社区，最懂读者和译者的翻译平台。	
-
-- 其它	
+- 其它（Others）
   - [GitHub Guides](https://guides.github.com/) - Github 的官方指南页面，可以帮助开发者系统迅速的了解 Github 及其简单的用法。	
+  - [掘金翻译计划](https://github.com/xitu/gold-miner) - 掘金翻译计划，可能是世界最大最好的英译中技术社区，最懂读者和译者的翻译平台。	
   - [~~句子迷~~](https://www.juzimi.com/)
   - [古诗文网](https://www.gushiwen.org/)	
   - [Pexels](https://www.pexels.com/zh-cn/) - 免费的摄影素材分享。	
