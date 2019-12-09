@@ -8,7 +8,9 @@
 
 （Recommend）推荐一个其它的很棒的收藏列表，:point_right: https://github.com/sindresorhus/awesome
 
-## Contents
+## 目录
+
+Resource navigation list.
 
 - Web 开发（Web Development）
   - [前端（Web Front End）](awesome-web-front-end.md)
