@@ -10,21 +10,22 @@
 
 ## Contents
 
-- Web 开发
+- Web 开发（Web Development）
   - [前端（Web Front End）](awesome-web-front-end.md)
     - [React.js](awesome-reactjs.md)
   - 后端（Web Back End）
     - [Node.js](awesome-nodejs.md)
-- [GIS 开发](awesome-gis.md)
-- [软件](#软件)
+- [GIS 开发（GIS Development）](awesome-gis.md)
+- [软件（Software）](#软件)
+  - [软件包管理器（Software Package Manager）](#软件包管理器)
   - [Chrome 扩展程序（Chrome Extension）](awesome-chrome-extension.md)
-  - [IDE/编辑器](#ide-编辑器)
-  - [源代码管理](#源代码管理)
-  - [开发辅助工具](#开发辅助工具)
-  - [日常办公](#日常办公)
-- [读物](awesome-reading.md)
-- [其它资源](#其它资源)
-- [Contribution](#contribution)
+  - [IDE/编辑器（IDE/Editor）](#ide-编辑器)
+  - [源代码管理（Source Code Management）](#源代码管理)
+  - [开发辅助工具（Developer Aids）](#开发辅助工具)
+  - [日常办公（Office）](#日常办公)
+- [读物（Reading）](awesome-reading.md)
+- [其它资源（Others）](#其它资源)
+- [贡献（Contribution）](#贡献)
 
 ## 软件
 
@@ -33,6 +34,14 @@
 - [SourceForge.net](https://sourceforge.net/)
 - [Slant](https://www.slant.co/) - 搜索最佳实践。
 - [LibHunt](https://www.libhunt.com/) - 收集了各种库的网站。
+
+### 软件包管理器
+
+Software package manager, providing software installation, uninstallation, configuration, and update.
+
+- Windows
+  - [Chocolatey](https://chocolatey.org/)
+  - [Scoop](https://scoop.sh/)
 
 ### IDE 编辑器
 
@@ -151,15 +160,17 @@
 
 [Go Top ↑](#awesome-favorites-list)
 
-## Contribution
+## 贡献
+
+Welcome to contribute your favorite resources.
 
 这些资源大部分都是经过我自己实践过的，感觉不错，才收藏起来的！
 
 也欢迎大家贡献，提交 PR！
 
-尽量遵循：
+遵循以下原则（Follow the following principles）：
 
-- 属于比较优质的资源；
-- 尽可能是经过实践的；
-- 属于长期维护（近期更新过）的资源；
-- 有用才是最有价值的！
+- （Quality resources）属于比较优质的资源；
+- （Practiced）尽可能是经过实践的；
+- （Long-term maintenance）属于长期维护（近期更新过）的资源；
+- （Useful）有用才是最有价值的！
