@@ -98,6 +98,9 @@ Developer assistance tools, including API management, remote login, and more.
     - [UNetbootin](http://unetbootin.github.io/) - 制作 Linux Live USB。
     - [Etcher](https://www.balena.io/etcher) - 制作 Linux Live USB。
     - [LF](https://github.com/gokcehan/lf) - 终端文件管理工具命令包。
+    
+- Code formatting
+  - [Prettier](https://prettier.io/)
 
 ### 日常办公
 
