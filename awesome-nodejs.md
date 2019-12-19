@@ -87,7 +87,7 @@ Some unofficial high-quality Node.js packages (or libraries).
   - [mongodb](http://mongodb.github.io/node-mongodb-native/) - 高性能、分布式文档数据库，No SQL 数据库。
     - [mongoose](https://mongoosejs.com/) - 对 mongodb 的封装，提供模型 Schema，API 更简洁、易用。
   - [mysql](https://github.com/mysqljs/mysql)
-    - [Sequelize](https://sequelize.org/) - 对 mysql 的封装，提供模型 Schema，API 更简洁、易用。
+    - [Sequelize](https://sequelize.org/) - 基于 Promise 的 Node.js ORM 库，支持 Postgres, MySQL, MariaDB, SQLite 和 Microsoft SQL Server。
   
 - File
   - [fs-extra](https://github.com/jprichardson/node-fs-extra) - 作为官方原生 [fs](https://nodejs.org/api/fs.html) 模块的补充和优化。
