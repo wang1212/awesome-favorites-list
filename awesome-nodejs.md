@@ -8,20 +8,24 @@
 
 > Node.js 是一个基于 Chrome V8 引擎的 JavaScript 运行环境，使用了一个事件驱动、非阻塞式 I/O 的模型，为 JavaScript 提供了一个服务器端应用程序开发平台，:point_right: https://nodejs.org/
 
-## Contents
+## 目录
 
-- [技术规范标准](#技术规范标准)
-- [技术参考文档](#技术参考文档)
-- [Node 模块](#node-模块)
-  - [包管理器](#包管理器)
-  - [第三方模块](#第三方模块)
-- [开发框架](#开发框架)
-- [其它](#其它)
-  - [HTML 模板引擎](#html-模板引擎)
-  - [社区论坛](#社区论坛)
-  - [期刊](#期刊)
+Resource navigation list.
+
+- [技术规范标准（Technical Specifications）](#技术规范标准)
+- [技术参考文档（Technical Reference Document）](#技术参考文档)
+- [Node 模块（Node Module）](#node-模块)
+  - [包管理器（Package Manager）](#包管理器)
+  - [第三方模块（Unofficial Module）](#第三方模块)
+- [开发框架（Framework）](#开发框架)
+- [其它（Others）](#其它)
+  - [HTML 模板引擎（HTML Template Engine）](#html-模板引擎)
+  - [社区论坛（Community Forum）](#社区论坛)
+  - [期刊（Journal）](#期刊)
 
 ## 技术规范标准
+
+Official technical specifications.
 
 - [Node.js](https://nodejs.org/) - Node.js 官方网站。
 - [OpenAPI](https://www.openapis.org/) - 定义了一种 REST APIs 标准。
@@ -30,25 +34,33 @@
 
 ## 技术参考文档
 
+Official and unofficial technical reference documents.
+
 - [Node.js 中文网](http://nodejs.cn/) - 唯一与官方同步更新的 Node.js 中文文档。
 
 [Go Top ↑](#awesome-nodejs-list)
 
 ## Node 模块
 
+Node modules (packages or libraries).
+
 ### 包管理器
+
+Node.js package (or library) manager.
 
 - Packages Manageer
   - [npm](https://www.npmjs.com/) - Node.js 的官方指定包管理器。
   - [Yarn](https://www.yarnpkg.com/)
   - [Bower](https://bower.io/)
 
-- 辅助工具
+- Tool
   - [Lerna](https://lerna.js.org/) - 管理 Monorepo 架构的 Node 模块代码库工具。
   - [Npm Trends](https://www.npmtrends.com/) - 非官方网站，可以查询对比多个 Npm 包的下载流量数据、star 数目等。
   - [Npm Charts](https://npmcharts.com/) - 非官方网站，可以查询对比多个 Npm 包的下载流量数据、star 数目等。
   
 ### 第三方模块
+
+Some unofficial high-quality Node.js packages (or libraries).
 
 - Node Version Manage
   - [n](https://github.com/tj/n) - npm 包，Node 版本管理工具，**不支持 Windows 系统**。
@@ -73,7 +85,9 @@
   
 - DataBase
   - [mongodb](http://mongodb.github.io/node-mongodb-native/) - 高性能、分布式文档数据库，No SQL 数据库。
-    - [mongoose](https://mongoosejs.com/) - Node.js 对 mongodb 模型的封装。
+    - [mongoose](https://mongoosejs.com/) - 对 mongodb 的封装，提供模型 Schema，API 更简洁、易用。
+  - [mysql](https://github.com/mysqljs/mysql)
+    - [Sequelize](https://sequelize.org/) - 对 mysql 的封装，提供模型 Schema，API 更简洁、易用。
   
 - File
   - [fs-extra](https://github.com/jprichardson/node-fs-extra) - 作为官方原生 [fs](https://nodejs.org/api/fs.html) 模块的补充和优化。
@@ -82,6 +96,8 @@
 [Go Top ↑](#awesome-nodejs-list)
 
 ## 开发框架
+
+Node.js-based server (or desktop) development framework.
 
 - [Express](http://expressjs.com/) - 非常成熟的 Node.js Web 开发框架。
   - [express-session](https://github.com/expressjs/session) - Express 中间件，提供 Session-Cookie 机制的支持，**官方发布**。
@@ -98,13 +114,19 @@
 
 ## 其它
 
+Other unclassified resources.
+
 ### HTML 模板引擎
+
+HTML's rendering template engine.
 
 - [EJS](https://ejs.co)
 - [Handlebars.js](http://handlebarsjs.com/)
 - [Jade](http://jade-lang.com/)
 
 ### 社区论坛
+
+Some technical forum communities related to Node.js.
 
 - [CNode 社区](https://cnodejs.org/) - CNode 社区由一批热爱 Node.js 技术的工程师发起，致力于 Node.js 的技术研究。
 
