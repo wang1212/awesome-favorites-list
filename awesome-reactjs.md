@@ -8,9 +8,11 @@
 
 > React.js 是 Facebook 出品的开源 Web 前端 UI 框架，其结合了组件化思想、数据驱动视图、Virtual DOM 技术等，提供了快速、轻量、高性能的 Web App 开发体验，官网为 https://reactjs.org/
 
-推荐一个其它的很棒的收藏列表，:point_right: https://github.com/enaqx/awesome-react
+（Recommend）推荐一个其它的很棒的收藏列表，:point_right: https://github.com/enaqx/awesome-react
 
 ## 目录
+
+Resource navigation list.
 
 - [构建工具（Build Tools）](#构建工具)
 - [状态管理（Application State Management）](#状态管理)
