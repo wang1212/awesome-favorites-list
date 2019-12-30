@@ -17,6 +17,8 @@ Resource navigation list.
     - [React.js](awesome-reactjs.md)
   - 后端（Web Back End）
     - [Node.js](awesome-nodejs.md)
+- 移动应用开发（Mobile Application Development）
+  - [混合应用（Hybrid App）](awesome-hybrid-app.md)
 - [GIS 开发（GIS Development）](awesome-gis.md)
 - [软件（Software）](#软件)
   - [软件包管理器（Software Package Manager）](#软件包管理器)
