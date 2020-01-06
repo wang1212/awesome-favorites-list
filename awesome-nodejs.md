@@ -75,13 +75,16 @@ Some unofficial high-quality Node.js packages (or libraries).
   - [PM2](https://pm2.keymetrics.io/) - Node 应用生产环境进程管理工具，支持集群、负载、远程部署，提供收费服务的实时监控平台。
   - [StrongLoop-PM](http://strong-pm.io/) - Node 应用生产环境进程管理工具，支持集群、负载、远程部署，提供收费服务的实时监控平台。
 
+- Dev
+  - [npm-check-updates](https://github.com/tjunnone/npm-check-updates) - 项目依赖 npm 包批量更新工具。
+  - [nodemon](https://nodemon.io) - 提供 Node.js 开发时热重载机制。
+
 - HTTP Server
   - [Connect](https://github.com/senchalabs/connect) - 可扩展的 HTTP 服务器框架，使用中间件机制，早期的 [Express](http://expressjs.com/) 基于此开发。
   - [log4js](https://github.com/log4js-node/log4js-node) - 日志记录。
 
-- Dev
-  - [npm-check-updates](https://github.com/tjunnone/npm-check-updates) - 项目依赖 npm 包批量更新工具。
-  - [nodemon](https://nodemon.io) - 提供 Node.js 开发时热重载机制。
+- HTTP Request
+  - [axios](https://github.com/axios/axios) - 处理 HTTP 请求的工具库，非常方便。
   
 - DataBase
   - [mongodb](http://mongodb.github.io/node-mongodb-native/) - 高性能、分布式文档数据库，No SQL 数据库。
