@@ -28,7 +28,6 @@ Resource navigation list.
 Official technical specifications.
 
 - [Node.js](https://nodejs.org/) - Node.js 官方网站。
-- [OpenAPI](https://www.openapis.org/) - 定义了一种 REST APIs 标准。
 
 [Go Top ↑](#awesome-nodejs-list)
 
