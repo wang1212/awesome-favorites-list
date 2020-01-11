@@ -12,15 +12,17 @@
 
 ## Contents
 
-- [技术规范标准](#技术规范标准)
-- [技术参考文档](#技术参考文档)
+- [技术规范标准（Technical Specifications）](#技术规范标准)
+- [技术参考文档（Technical Reference Document）](#技术参考文档)
 - [Web GIS](#web-gis)
-  - [地图引擎](#地图引擎)
-  - [开发工具](#开发工具)
-- [其它资源](#其它资源)
-  - [平台](#平台)
+  - [地图引擎（Map Engine）](#地图引擎)
+  - [开发工具（Tools）](#开发工具)
+- [其它（Others）](#其它)
+  - [平台（Platform）](#平台)
 
 ## 技术规范标准
+
+Official technical specifications.
 
 - [OGC](http://www.opengeospatial.org/) - 开放地理空间联盟（OGC）是一个致力于为全球地理空间社区制定高质量开放标准的国际非营利组织。
 - [OSGeo](https://www.osgeo.org/) - 开源空间信息基金会，一个全球性非营利性组织，目标是支持全球性的合作，建立和推广高品质的空间信息开源软件。
@@ -40,6 +42,8 @@
 
 ## 技术参考文档
 
+Official and unofficial technical reference documents.
+
 - [EPSG.io](http://epsg.io/) - 全球坐标系统 EPSG 在线查询，同时提供 API 支持。
 - [Format Descriptions for Geospatial Data](https://www.loc.gov/preservation/digital/formats/fdd/gis_fdd.shtml) - 地理数据格式描述参考。
 
@@ -47,7 +51,11 @@
 
 ## Web GIS
 
+GIS application technology based on web front-end technology.
+
 ### 地图引擎
+
+Web Map Engine Framework.
 
 - [Leaflet](https://leafletjs.com/) - 目前最流行的、移动端优先、轻量级 Web GIS 开源框架。
   - [Leaflet.draw](https://github.com/Leaflet/Leaflet.draw) - Leaflet 插件，矢量绘图、编辑工具，**Leaflet 官方发布**。
@@ -69,6 +77,8 @@
 
 ### 开发工具
 
+Some development aid libraries, such as geometric calculation analysis, coordinate conversion, data type conversion, etc.
+
 - Utils
   - [Turf.js](http://turfjs.org/) - 一个开源的提供给浏览器和 Node.js 平台进行高级空间分析的工具库。
   - [JSTS](https://github.com/bjornharrtell/jsts) - 开源的空间分析库。
@@ -84,9 +94,13 @@
 
 [Go Top ↑](#awesome-gis-list)
 
-## 其它资源
+## 其它
+
+Other unclassified resources.
 
 ### 平台
+
+Some platforms that provide complete solutions.
 
 - [ESRI](https://www.esri.com/) - GIS 行业商业巨头，ArcGIS 发布者的官网。
 - [ArcGIS](https://www.arcgis.com/) - GIS 行业商业巨头，其商业软件几乎为行业标准。
