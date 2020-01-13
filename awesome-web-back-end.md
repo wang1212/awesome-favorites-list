@@ -19,6 +19,9 @@ Resource navigation list.
 Official technical specifications.
 
 - [OpenAPI](https://www.openapis.org/) - 定义了一种 REST APIs 标准。
+- [JSON Specification](http://www.json.org/) - JSON 数据格式规范。
+- [NDJSON Specification](http://ndjson.org/) - Newline Delimited JSON 数据格式规范。
+- [YAML Specification](https://yaml.org/) - yaml 数据格式规范。
 
 [Go Top ↑](#awesome-web-back-end-list)
 
