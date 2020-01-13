@@ -37,7 +37,7 @@ Computer Technology Related Books.
 - 《Python 201》[美] Mike Driscoll - 讲述 Python 3 中级编程的书籍。
 - 《Ruby 元编程》[意] Paolo Perrotta
 - 《Ruby 基础教程》[日] 高桥征义 后藤裕藏
-- 《The Book Of Ruby》[英] Huw Collingbourne
+- [《The Book Of Ruby》](http://www.sapphiresteel.com/ruby-programming/The-Book-Of-Ruby.html)[英] Huw Collingbourne
 - 《C 程序设计语言》[美] Dennis M. Ritchie, Brian W. Kernighan
 - 《数据结构与算法分析：C语言描述》[美] Mark Allen Weiss
 - 《Android 4 高级编程》[美] Reto Meier
