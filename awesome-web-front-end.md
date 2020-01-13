@@ -214,6 +214,7 @@ JavaScript tool libraries, such as file manipulation, Canvas drawing, HTTP reque
   - [FileSaver.js](https://github.com/eligrey/FileSaver.js/) - Web 浏览器客户端文件保存 api 实现。
   - [StreamSaver.js](https://github.com/jimmywarting/StreamSaver.js) - Web 浏览器客户端异步保存文件 api 实现，解决了 FileSaver 的大小限制问题。
   - [JSZip](https://github.com/Stuk/jszip) - 创建/读写 zip 文件。
+  - [xlsx](https://sheetjs.com/) - 解析 Office Excel 文件。
   
 - Server
   - [http-server](https://github.com/http-party/http-server) - 可快速启动一个 http 服务器。
