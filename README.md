@@ -26,6 +26,7 @@ Resource navigation list.
   - [IDE/编辑器（IDE/Editor）](#ide-编辑器)
   - [源代码管理（Source Code Management）](#源代码管理)
   - [开发辅助工具（Developer Aids）](#开发辅助工具)
+  - [设计（Design）](#设计)
   - [日常办公（Office）](#日常办公)
 - [读物（Reading）](awesome-reading.md)
 - [其它资源（Others）](#其它资源)
@@ -103,6 +104,14 @@ Developer assistance tools, including API management, remote login, and more.
     
 - Code formatting
   - [Prettier](https://prettier.io/)
+
+### 设计
+
+Software interface design, prototype drawing design, etc.
+
+- [axure](https://www.axure.com/) - 产品原型图设计，**商业软件**。
+- [Sketch](https://www.sketch.com/) - 产品原型图设计，**商业软件**。
+- [PxCook](https://www.fancynode.com.cn/pxcook) - 图片标注工具。
 
 ### 日常办公
 
