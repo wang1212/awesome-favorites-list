@@ -88,7 +88,10 @@ Source code version management system and building tools.
 
 Developer assistance tools, including API management, remote login, and more.
 
-- [Postman](https://www.getpostman.com/) - 一个非常棒的 API 管理工具。
+- API Manage && Test
+  - [Postman](https://www.getpostman.com/) - 一个非常棒的 API 管理工具。
+  - [Insomnia](https://insomnia.rest/) - API 接口测试工具。
+  
 - [WinSCP](https://winscp.net/) - 一个 Windows 环境下使用 SSH 的开源图形化 SFTP 客户端，同时支持 SCP 协议。
 - [PuTTY](https://www.putty.org/) - 一个集 Telnet、SSH、rlogin、纯 TCP 以及串行接口连接软件，配合 WinSCP 可以很好的远程管理 Linux 服务器。
 
