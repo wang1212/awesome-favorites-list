@@ -87,6 +87,7 @@ Some development aid libraries, such as geometric calculation analysis, coordina
   - [mapshaper](https://mapshaper.org/) - 数据编辑，支持 Shapefile、GeoJSON、TopoJSON、DBF 和 CSV 格式，可在线预览转换，支持命令行，不提供坐标转换。
   - [shapefile](https://github.com/mbostock/shapefile) - Shapefile 转 GeoJSON，支持命令行。
   - [shp2geojson.js](https://github.com/gipong/shp2geojson.js) - Shapefile 转 GeoJSON，可在线预览转换，支持坐标系转换。
+  - [GeoConverter](https://geoconverter.hsr.ch/) - 通过 Web 在线地图服务导出 GeoTiff 数据。
   
 - Map Server
   - [TileStache](http://tilestache.org/) - 基于 Python、Mapnik 的地图瓦片服务器。
