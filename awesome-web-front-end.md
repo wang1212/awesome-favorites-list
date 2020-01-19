@@ -110,6 +110,7 @@ Font icon, vector icon.
 
 - 字体
   - [Source Code Pro](https://github.com/adobe-fonts/source-code-pro) - Adobe 出品的开源等宽字体，适合编程使用。
+  - [JetBrains Mono](https://www.jetbrains.com/lp/mono/) - JetBrains 出品的开源编程字体。
   
 - WebFont 图标
   - [Font Awesome](https://fontawesome.com/) - 提供了非常多的免费图标的库，使用率非常高。
