@@ -13,6 +13,7 @@ Resource navigation list.
 - [技术规范标准（Technical Specifications）](#技术规范标准)
 - [技术参考文档（Technical Reference Document）](#技术参考文档)
 - [其它（Others）](#其它)
+  - [文章（Article）](#文章)
 
 ## 技术规范标准
 
@@ -36,5 +37,11 @@ Official and unofficial technical reference documents.
 ## 其它
 
 Other unclassified resources.
+
+### 文章
+
+- [How To Safely Store A Password](https://codahale.com/how-to-safely-store-a-password/)
+
+Some articles related to server-side problem solutions.
 
 [Go Top ↑](#awesome-web-back-end-list)
