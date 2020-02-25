@@ -181,7 +181,10 @@ JavaScript tool libraries, such as file manipulation, Canvas drawing, HTTP reque
   - [Zepto.js](https://zeptojs.com/) - 兼容 jQuery API 的轻量级工具库，适合移动端使用。
   
 - Event
-  - [Hammer.js](http://hammerjs.github.io/) - 事件处理库，可支持移动端触摸事件，以及手势事件。
+  - [Hammer.js](http://hammerjs.github.io/) - 支持移动端触摸事件，以及手势操作、多点触控。
+  - [interact.js](https://interactjs.io/) - 同上。
+  - [Dragula](https://bevacqua.github.io/dragula/) - 拖放事件处理，可用于列表项的拖放、顺序调整等。
+  - [SortableJS](https://sortablejs.github.io/Sortable/) - 列表项拖放调整辅助库，支持 React.js、Vue.js 等。
   - [Mousetrap](https://github.com/ccampbell/mousetrap) - 可以很方便的处理键盘事件。
   - [Hotkeys](https://wangchujiang.com/hotkeys/) - 可以很方便的处理键盘事件。
 
