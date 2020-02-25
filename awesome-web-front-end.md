@@ -176,19 +176,22 @@ JavaScript tool libraries, such as file manipulation, Canvas drawing, HTTP reque
   - [Promise Polyfill](https://github.com/taylorhakes/promise-polyfill) - 可以在不支持 Promise API 的浏览器上提供对其的支持。
   - [core-js](https://github.com/zloirock/core-js) - 现代 JavaScript 标准库。
   
-- Utils
-  - [Lodash](https://lodash.com/) - JavaScript 的工具函数库，提供了大量非常有用的工具函数，并采用惰性计算优化了性能。
-  - [RxJS](https://rxjs.dev/) - 响应式编程（Reactive Extensions）的 JavaScript 实现，对异步数据集合处理很方便。
-  - [Mousetrap](https://github.com/ccampbell/mousetrap) - 可以很方便的处理键盘事件。
-  - [Hotkeys](https://wangchujiang.com/hotkeys/) - 可以很方便的处理键盘事件。
-  
 - DOM
   - [jQuery](https://jquery.com/) - 前几年非常流行的 DOM 操作工具库，处理了兼容性的细节问题。
   - [Zepto.js](https://zeptojs.com/) - 兼容 jQuery API 的轻量级工具库，适合移动端使用。
   
+- Event
+  - [Hammer.js](http://hammerjs.github.io/) - 事件处理库，可支持移动端触摸事件，以及手势事件。
+  - [Mousetrap](https://github.com/ccampbell/mousetrap) - 可以很方便的处理键盘事件。
+  - [Hotkeys](https://wangchujiang.com/hotkeys/) - 可以很方便的处理键盘事件。
+
 - HTTP - Ajax / Promise / fetch
   - [axios](https://github.com/axios/axios) - 基于 Promise 的 HTTP 客户端工具库。
-  
+
+- Utils
+  - [Lodash](https://lodash.com/) - JavaScript 的工具函数库，提供了大量非常有用的工具函数，并采用惰性计算优化了性能。
+  - [RxJS](https://rxjs.dev/) - 响应式编程（Reactive Extensions）的 JavaScript 实现，对异步数据集合处理很方便。
+
 - Date & Time
   - [Moment.js](https://momentjs.com/) - 功能强大的日期、时间处理库。
   - [Luxon](https://moment.github.io/luxon/) - 现代化、api 友好的日期、时间处理库，Moment.js 团队开发。
