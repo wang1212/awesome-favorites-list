@@ -29,7 +29,6 @@ Resource navigation list.
   - [开发框架（Framework）](#开发框架)
 - [资源（Resources）](#资源)
   - [在线工具（Online Tools）](#在线工具) 
-  - [技术读物（Technical Reading）](#技术读物)
   - [其它（Others）](#其它)
 
 ## 技术规范标准
@@ -291,26 +290,6 @@ Some online resources, such as CDN, image compression tools, online IDE, etc.
   - [CodeSandbox](https://codesandbox.io/)
   - [CodePen](https://codepen.io/)
   - [WebAssembly Studio](https://webassembly.studio/) - 在线的 WebAssembly 编辑器，**Mozilla 发布**。
-
-### 技术读物
-
-Books, journals, magazines, and other reading related to the web front end.
-
-- Book
-  - [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS) - 讲解现代 JavaScript 语言核心机制的系列技术书籍。
-  
-- Journal
-  - [JavaScript-weekly](https://javascriptweekly.com/) - JavaScript 周刊。
-  - [CSS-weekly](https://css-weekly.com/) - CSS 周刊。
-  
-- Skill
-  - [30 seconds](https://github.com/30-seconds) - 30 seconds 是一个系列，包含 JS、React.js、CSS 相关的编程技巧。
-  - [JS The Right Way](http://jstherightway.org/) - 一些 JavaScript 最佳实践。
-  
-- Other
-  - [SJSJ](https://github.com/HugoGiraudel/SJSJ) - JavaScript 术语介绍。
-  - [Superhero.js](http://superherojs.com/) - 构建大型项目的一些技巧。
-  - [Write an Open Source JavaScript Library](https://github.com/sarbbottam/write-an-open-source-js-lib)
  
 ### 其它
 
