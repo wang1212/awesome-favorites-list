@@ -23,26 +23,35 @@ Some classic, best-selling, high-quality books.
 
 Computer Technology Related Books.
 
-- 《计算机科学精粹》[巴西] Wladston Ferreira Filho - 讲述了常见的计算机概念，非常值得一读，拓宽自己的视野。
-- 《前端架构设计》[美] Micah Godbolt - 很好的 Web 前端工程化实践参考。
-- [《你不知道的 JavaScript》](https://github.com/getify/You-Dont-Know-JS)[美] Kyle Simpson - 系列书籍，讲解 JavaScript 核心概念，**开源书籍**。
-- 《了不起的 Node.js：将 JavaScript 进行到底》[美] Guillermo Rauch
-- [《Advanced Bash-Scripting Guide》](http://tldp.org/LDP/abs/html/) - 高级 Bash 脚本编程指南，**开源书籍**。	
-- [《The Book Of Ruby》](http://www.sapphiresteel.com/ruby-programming/The-Book-Of-Ruby.html)[英] Huw Collingbourne - 关于 Ruby 编程的开源书籍，涉及知识概念很全面，**开源书籍**。:point_right: [简体中文翻译](https://wang1212.github.io/the-book-of-ruby/#/0-homepage.html)	
-- [《Python 101》](http://python101.pythonlibrary.org)[美] Mike Driscoll - 讲述 Python 3 初级编程的书籍。	
-- 《Python 201》[美] Mike Driscoll - 讲述 Python 3 中级编程的书籍。
-- 《Ruby 元编程》[意] Paolo Perrotta
-- 《Ruby 基础教程》[日] 高桥征义 后藤裕藏
-- 《C 程序设计语言》[美] Dennis M. Ritchie, Brian W. Kernighan
-- 《数据结构与算法分析：C语言描述》[美] Mark Allen Weiss
-- 《Android 4 高级编程》[美] Reto Meier
-- 《C++ API 设计》[美] Martin Redd
-- 《编程珠玑》[美] Jon Bentley
-- 《编码：隐匿在计算机软硬件背后的语言》[美] Charles Petzold
-- 《算法图解》[美] Aditya Bhargava
-- 《架构之美：行业思想领袖揭秘软件设计之美》[美] Diomidis Spinellis, Georgios Gousios
-- 《图解 HTTP》[日] 上野 · 宣
-- 《图解 TCP/IP》[日] 竹下隆史 村山公保 荒井透 苅田幸雄
+- Programming language
+  - 《C 程序设计语言》[美] Dennis M. Ritchie, Brian W. Kernighan
+  - [《你不知道的 JavaScript》](https://github.com/getify/You-Dont-Know-JS)[美] Kyle Simpson - 系列书籍，讲解 JavaScript 核心概念，**开源书籍**。
+  - [《Python 101》](http://python101.pythonlibrary.org)[美] Mike Driscoll - 讲述 Python 3 初级编程的书籍。	
+  - 《Python 201》[美] Mike Driscoll - 讲述 Python 3 中级编程的书籍。
+  - 《Ruby 元编程》[意] Paolo Perrotta
+  - 《Ruby 基础教程》[日] 高桥征义 后藤裕藏  
+  - [《The Book Of Ruby》](http://www.sapphiresteel.com/ruby-programming/The-Book-Of-Ruby.html)[英] Huw Collingbourne - 关于 Ruby 编程的开源书籍，涉及知识概念很全面，**开源书籍**。:point_right: [简体中文翻译](https://wang1212.github.io/the-book-of-ruby/#/0-homepage.html)	
+  - [《Advanced Bash-Scripting Guide》](http://tldp.org/LDP/abs/html/) - 高级 Bash 脚本编程指南，**开源书籍**。
+ 
+- Data algorithm
+  - 《数据结构与算法分析：C语言描述》[美] Mark Allen Weiss
+  - 《算法图解》[美] Aditya Bhargava
+  
+- Web development 
+  - 《了不起的 Node.js：将 JavaScript 进行到底》[美] Guillermo Rauch
+  - 《图解 HTTP》[日] 上野 · 宣
+  - 《图解 TCP/IP》[日] 竹下隆史 村山公保 荒井透 苅田幸雄  
+  - 《前端架构设计》[美] Micah Godbolt - 很好的 Web 前端工程化实践参考。
+  
+- Android development
+  - 《Android 4 高级编程》[美] Reto Meier
+
+- Others
+  - 《计算机科学精粹》[巴西] Wladston Ferreira Filho - 讲述了常见的计算机概念，非常值得一读，拓宽自己的视野。
+  - 《C++ API 设计》[美] Martin Redd
+  - 《编程珠玑》[美] Jon Bentley
+  - 《编码：隐匿在计算机软硬件背后的语言》[美] Charles Petzold
+  - 《架构之美：行业思想领袖揭秘软件设计之美》[美] Diomidis Spinellis, Georgios Gousios
 
 ### 文学
 
@@ -85,6 +94,14 @@ Philosophical Books.
 
 Some classic and well-known journals, newspapers and magazines.
 
+### 计算机技术
+
+Computer technology and software development.
+
+- [JavaScript-weekly](https://javascriptweekly.com/) - JavaScript 周刊。
+- [CSS-weekly](https://css-weekly.com/) - CSS 周刊。
+- [Node-weekly](https://nodeweekly.com/) - Node.js 周刊。
+
 [Go Top ↑](#awesome-reading-list)
 
 ## 论坛
@@ -96,9 +113,10 @@ Some high-quality, more interesting forum communities.
 Computer technology and software development.
 
 - [Stack Overflow](https://stackoverflow.com/) - 全球的程序员学习、分享，技术问答社区网站。
-- [SegmentFault](https://segmentfault.com/) - 国内一个类似 Stack Overflow 的程序员技术学习，问答社区网站。
-- [V2EX](https://v2ex.com/) - 一个汇集各类奇妙好玩的话题和流行动向的网站。
+- [CNode 社区](https://cnodejs.org/) - CNode 社区由一批热爱 Node.js 技术的工程师发起，致力于 Node.js 的技术研究。
 - [Ruby China](https://ruby-china.org/) - 由众多爱好者共同维护的 Ruby 中文社区。
+- [V2EX](https://v2ex.com/) - 一个汇集各类奇妙好玩的话题和流行动向的网站。
+- [SegmentFault](https://segmentfault.com/) - 国内一个类似 Stack Overflow 的程序员技术学习，问答社区网站。
 - [掘金社区](https://juejin.im/) - 国内一个帮助开发者成长的社区，有很多优质的技术文章。
 - [掘金翻译计划](https://github.com/xitu/gold-miner) - 掘金翻译计划，可能是世界最大最好的英译中技术社区，最懂读者和译者的翻译平台。
 - [图灵社区](http://www.ituring.com.cn/) - 国内一个出版计算机类相关书籍的社区，外文书翻译质量非常高，拥有很好的用户口碑。
@@ -110,5 +128,13 @@ Computer technology and software development.
 ## 其它
 
 Other unclassified resources.
+
+- [GitHub Guides](https://guides.github.com/) - Github 的官方指南页面，可以帮助开发者系统迅速的了解 Github 及其简单的用法。	
+- [掘金翻译计划](https://github.com/xitu/gold-miner) - 掘金翻译计划，可能是世界最大最好的英译中技术社区，最懂读者和译者的翻译平台。
+- [30 seconds](https://github.com/30-seconds) - 30 seconds 是一个系列，包含 JS、React.js、CSS 相关的编程技巧。
+- [JS The Right Way](http://jstherightway.org/) - 一些 JavaScript 最佳实践。
+- [SJSJ](https://github.com/HugoGiraudel/SJSJ) - JavaScript 术语介绍。
+- [Superhero.js](http://superherojs.com/) - 构建大型项目的一些技巧。
+- [Write an Open Source JavaScript Library](https://github.com/sarbbottam/write-an-open-source-js-lib)
 
 [Go Top ↑](#awesome-reading-list)
