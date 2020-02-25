@@ -20,8 +20,6 @@ Resource navigation list.
 - [开发框架（Framework）](#开发框架)
 - [其它（Others）](#其它)
   - [HTML 模板引擎（HTML Template Engine）](#html-模板引擎)
-  - [社区论坛（Community Forum）](#社区论坛)
-  - [期刊（Journal）](#期刊)
 
 ## 技术规范标准
 
@@ -129,15 +127,5 @@ HTML's rendering template engine.
 - [EJS](https://ejs.co)
 - [Handlebars.js](http://handlebarsjs.com/)
 - [Jade](http://jade-lang.com/)
-
-### 社区论坛
-
-Some technical forum communities related to Node.js.
-
-- [CNode 社区](https://cnodejs.org/) - CNode 社区由一批热爱 Node.js 技术的工程师发起，致力于 Node.js 的技术研究。
-
-### 期刊
-
-- [Node-weekly](https://nodeweekly.com/) - Node.js 周刊。
 
 [Go Top ↑](#awesome-nodejs-list)
