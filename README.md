@@ -136,6 +136,7 @@ Other unclassified resources.
 - 技术规范标准（Technical Specifications）
 
 - 在线工具（Online tools）
+  - [DevDocs](https://devdocs.io/) - 在线技术文档查询。
   - [IPAddress](https://www.ipaddress.com/) - 查询某个站点的 IP 地址。
   - [DocTranslator](https://www.onlinedoctranslator.com/zh-CN/) - 在线网站，可翻译文档，PDF 转 Word 无水印。
   - [MBA 智库百科](https://wiki.mbalib.com) - 比较专业的经管知识查询。
