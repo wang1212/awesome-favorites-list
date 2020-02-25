@@ -11,10 +11,6 @@
 Resource navigation list.
 
 - [书籍（Book）](#书籍)
-  - [计算机技术（Computer Technology）](#计算机技术)
-  - [文学（Literary）](#文学)
-  - [金融经济（Financial Economy）](#金融经济)
-  - [哲学（Philosophical）](#哲学)
 - [期刊（Journal）](#期刊)
 - [论坛（Forum）](#论坛)
 - [其它（Others）](#其它)
@@ -47,6 +43,7 @@ Computer Technology Related Books.
 - 《算法图解》[美] Aditya Bhargava
 - 《架构之美：行业思想领袖揭秘软件设计之美》[美] Diomidis Spinellis, Georgios Gousios
 - 《图解 HTTP》[日] 上野 · 宣
+- 《图解 TCP/IP》[日] 竹下隆史 村山公保 荒井透 苅田幸雄
 
 ### 文学
 
@@ -94,6 +91,20 @@ Some classic and well-known journals, newspapers and magazines.
 ## 论坛
 
 Some high-quality, more interesting forum communities.
+
+### 计算机技术
+
+Computer technology and software development.
+
+- [Stack Overflow](https://stackoverflow.com/) - 全球的程序员学习、分享，技术问答社区网站。
+- [SegmentFault](https://segmentfault.com/) - 国内一个类似 Stack Overflow 的程序员技术学习，问答社区网站。
+- [V2EX](https://v2ex.com/) - 一个汇集各类奇妙好玩的话题和流行动向的网站。
+- [Ruby China](https://ruby-china.org/) - 由众多爱好者共同维护的 Ruby 中文社区。
+- [掘金社区](https://juejin.im/) - 国内一个帮助开发者成长的社区，有很多优质的技术文章。
+- [掘金翻译计划](https://github.com/xitu/gold-miner) - 掘金翻译计划，可能是世界最大最好的英译中技术社区，最懂读者和译者的翻译平台。
+- [图灵社区](http://www.ituring.com.cn/) - 国内一个出版计算机类相关书籍的社区，外文书翻译质量非常高，拥有很好的用户口碑。
+- [慕课网](https://www.imooc.com/) - 国内一个提供计算机开发技术学习课程收费服务的网站，有大量免费优质学习资源。
+- [Linux 公社](https://www.linuxidc.com/) - 国内一个论坛，内有大量 Linux 相关资源。
 
 [Go Top ↑](#awesome-reading-list)
 
