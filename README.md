@@ -134,7 +134,6 @@ Daily office software, browse the Internet.
 Other unclassified resources.
 
 - 技术规范标准（Technical Specifications）
-  - [YAML Specification](https://yaml.org/) - yaml 数据格式规范。
 
 - 在线工具（Online tools）
   - [IPAddress](https://www.ipaddress.com/) - 查询某个站点的 IP 地址。
@@ -172,9 +171,7 @@ Other unclassified resources.
 - 工具平台（Tool platform）
   - [Anaconda](https://www.anaconda.com) - Python 科学计算平台。	
 
-- 其它（Others）
-  - [GitHub Guides](https://guides.github.com/) - Github 的官方指南页面，可以帮助开发者系统迅速的了解 Github 及其简单的用法。	
-  - [掘金翻译计划](https://github.com/xitu/gold-miner) - 掘金翻译计划，可能是世界最大最好的英译中技术社区，最懂读者和译者的翻译平台。	
+- 其它（Others）	
   - [~~句子迷~~](https://www.juzimi.com/)
   - [古诗文网](https://www.gushiwen.org/)	
   - [Pexels](https://www.pexels.com/zh-cn/) - 免费的摄影素材分享。	
