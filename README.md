@@ -120,9 +120,11 @@ Software interface design, prototype drawing design, etc.
 
 Daily office software, browse the Internet.
 
+- [bandizip](http://www.bandisoft.com/) - 解压缩软件，兼容主流格式，UI 比较精美，轻量，标准版免费，但有广告。
+- [7-Zip](https://www.7-zip.org/) - 解压缩软件，兼容主流格式，轻量，无广告，**开源软件**。
 - [Syncthing](https://syncthing.net/) - 跨平台、跨设备文件同步软件，**开源软件**。
 - [ShareX](https://getsharex.com/) - 截屏、录屏、文本转换、DNS 更换等等，生产力工具，**开源软件**。
-- [Everything](https://www.voidtools.com/zh-cn/) - 文件快速搜索工具。
+- [Everything](https://www.voidtools.com/zh-cn/) - 文件快速搜索工具，**免费软件**。
 - [Cleaver](http://jdan.github.io/cleaver/) - Markdown 文件生成幻灯片。
 - [mermaid](https://github.com/mermaid-js/mermaid) - txt 文件生成流程图。
 - [nodeppt](https://github.com/ksky521/nodeppt)
