@@ -120,7 +120,8 @@ Software interface design, prototype drawing design, etc.
 
 Daily office software, browse the Internet.
 
-- [ShareX](https://getsharex.com/) - 截屏、录屏、文本转换、DNS 更换等等，生产力工具。
+- [Syncthing](https://syncthing.net/) - 跨平台、跨设备文件同步软件，**开源软件**。
+- [ShareX](https://getsharex.com/) - 截屏、录屏、文本转换、DNS 更换等等，生产力工具，**开源软件**。
 - [Everything](https://www.voidtools.com/zh-cn/) - 文件快速搜索工具。
 - [Cleaver](http://jdan.github.io/cleaver/) - Markdown 文件生成幻灯片。
 - [mermaid](https://github.com/mermaid-js/mermaid) - txt 文件生成流程图。
