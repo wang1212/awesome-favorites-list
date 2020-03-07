@@ -51,6 +51,7 @@ Node.js package (or library) manager.
   - [Bower](https://bower.io/)
 
 - Tool
+  - [nrm](https://github.com/Pana/nrm) - npm 换源。
   - [Lerna](https://lerna.js.org/) - 管理 Monorepo 架构的 Node 模块代码库工具。
   - [Npm Trends](https://www.npmtrends.com/) - 可以查询对比多个 Npm 包的下载流量数据、star 数目等，**非官方网站**。
   - [Npm Charts](https://npmcharts.com/) - 可以查询对比多个 Npm 包的下载流量数据、star 数目等，**非官方网站**。
