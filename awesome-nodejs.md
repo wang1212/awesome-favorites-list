@@ -93,6 +93,7 @@ Some unofficial high-quality Node.js packages (or libraries).
   
 - File
   - [fs-extra](https://github.com/jprichardson/node-fs-extra) - 作为官方原生 [fs](https://nodejs.org/api/fs.html) 模块的补充和优化。
+  - [rimraf](https://github.com/isaacs/rimraf) - 为 Node 提供类似 `rm -rf` 删除文件操作。
   - [memfs](https://github.com/streamich/memfs) - 内存文件系统。
   - [rotating-file-stream](https://github.com/iccicci/rotating-file-stream) - 文件流自动轮转，可用于日志文件分割，类似 UNIX `logrotate`。
 
