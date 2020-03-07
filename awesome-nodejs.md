@@ -99,6 +99,7 @@ Some unofficial high-quality Node.js packages (or libraries).
 
 - HTML & XML Parse
   - [cheerio](https://cheerio.js.org/) - 包装了[parse5](https://github.com/inikulin/parse5) 和 [htmlparser2](https://github.com/fb55/htmlparser2/) 的轻量级 HTML 文档解析库，具有类 jQuery 的 api。
+  - [puppeteer](https://github.com/puppeteer/puppeteer)
 
 - Image Process
   - [sharp](https://sharp.pixelplumbing.com/) - 图像处理，拉伸、缩放、色彩提取等等，底层使用 [libvips](https://libvips.github.io/libvips/)，无需安装其它依赖，开箱即用，效率更高。
