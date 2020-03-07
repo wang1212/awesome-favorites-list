@@ -78,14 +78,18 @@ React web application optimization solution.
 
 Feature-rich component library built on React.js.
 
-- [Material UI](https://material-ui.com/) - 实现了 Google Material Design，组件非常丰富。
-- [React Toolbox](http://react-toolbox.io/) - 实现了 Google Material Design。
-- [Grommet](https://v2.grommet.io/)
-- [Office UI Fabric React](https://developer.microsoft.com/en-us/fabric) - Office UI 风格，**Microsoft 官方发布**。
-- [Semantic UI](https://react.semantic-ui.com/)
-- [reactstrap](https://reactstrap.github.io/) - 基于 Bootstrap 4，**非 Bootstrap 官方实现**。
-- [react-bootstrap](https://github.com/react-bootstrap/react-bootstrap) - 基于 Bootstrap 4，**非 Bootstrap 官方实现**。
-- [MDC React](https://github.com/material-components/material-components-web-react) - 实现了 Google Material Design，**Google 官方实现**。
+- All
+  - [Material UI](https://material-ui.com/) - 实现了 Google Material Design，组件非常丰富。
+  - [React Toolbox](http://react-toolbox.io/) - 实现了 Google Material Design。
+  - [Grommet](https://v2.grommet.io/)
+  - [Office UI Fabric React](https://developer.microsoft.com/en-us/fabric) - Office UI 风格，**Microsoft 官方发布**。
+  - [Semantic UI](https://react.semantic-ui.com/)
+  - [reactstrap](https://reactstrap.github.io/) - 基于 Bootstrap 4，**非 Bootstrap 官方实现**。
+  - [react-bootstrap](https://github.com/react-bootstrap/react-bootstrap) - 基于 Bootstrap 4，**非 Bootstrap 官方实现**。
+  - [MDC React](https://github.com/material-components/material-components-web-react) - 实现了 Google Material Design，**Google 官方实现**。
+
+- File Upload
+  - [react-dropzone](https://react-dropzone.js.org/) - 文件上传组件，支持 Hook API。
 
 ## 数据可视化
 
