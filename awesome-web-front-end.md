@@ -221,7 +221,8 @@ JavaScript tool libraries, such as file manipulation, Canvas drawing, HTTP reque
   - [StreamSaver.js](https://github.com/jimmywarting/StreamSaver.js) - Web 浏览器客户端异步保存文件 api 实现，解决了 FileSaver 的大小限制问题。
   - [JSZip](https://github.com/Stuk/jszip) - 创建/读写 zip 文件。
   - [xlsx](https://sheetjs.com/) - 解析 Office Excel 文件。
-  - [DropzoneJS](https://www.dropzonejs.com/) - 带有拖放和图片预览功能的文件上传库。
+  - [DropzoneJS](https://www.dropzonejs.com/) - 文件上传组件，支持拖放文件、图片预览功能。
+  - [filepond](https://pqina.nl/filepond/) - 文件上传组件，功能比较丰富。
   
 - Server
   - [http-server](https://github.com/http-party/http-server) - 可快速启动一个 http 服务器。
