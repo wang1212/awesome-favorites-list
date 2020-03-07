@@ -221,6 +221,7 @@ JavaScript tool libraries, such as file manipulation, Canvas drawing, HTTP reque
   - [StreamSaver.js](https://github.com/jimmywarting/StreamSaver.js) - Web 浏览器客户端异步保存文件 api 实现，解决了 FileSaver 的大小限制问题。
   - [JSZip](https://github.com/Stuk/jszip) - 创建/读写 zip 文件。
   - [xlsx](https://sheetjs.com/) - 解析 Office Excel 文件。
+  - [DropzoneJS](https://www.dropzonejs.com/) - 带有拖放和图片预览功能的文件上传库。
   
 - Server
   - [http-server](https://github.com/http-party/http-server) - 可快速启动一个 http 服务器。
@@ -247,7 +248,10 @@ Data visualization libraries, such as chart libraries, 3D engines, etc.
 Web front-end development framework (library).
 
 - [React.js](https://reactjs.org/) - Facebook 出品的 Web 前端开源库，目前最火的轻量级前端开发框架之一，其技术生态圈非常繁荣。
+  - [Awesome-React.js](./awesome-reactjs.md)
+  
 - [Vue.js](https://vuejs.org/)
+
 - [Angular.js](https://angularjs.org/) - Google 出品的 Web 前端开源库，是一个比较重型的功能齐全的前端开发框架。
 
 [Go Top ↑](#awesome-web-front-end-list)
