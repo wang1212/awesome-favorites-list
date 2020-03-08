@@ -120,6 +120,7 @@ Software interface design, prototype drawing design, etc.
 
 Daily office software, browse the Internet.
 
+- [PotPlayer](https://daumpotplayer.com/) - 视频播放器，解码能力很强大。
 - [Bandizip](http://www.bandisoft.com/) - 解压缩软件，兼容主流格式，UI 比较精美，轻量，标准版免费，但有广告。
 - [7-Zip](https://www.7-zip.org/) - 解压缩软件，兼容主流格式，轻量，无广告，**开源软件**。
 - [Syncthing](https://syncthing.net/) - 跨平台、跨设备文件同步软件，**开源软件**。
