@@ -141,45 +141,24 @@ Other unclassified resources.
 - 技术规范标准（Technical Specifications）
 
 - 在线工具（Online tools）
+  - [lib4dev](http://www.lib4dev.in/) - 开源库分类查询。
+  - [tool.lu](https://tool.lu/) - 开发者小工具集合。
   - [DevDocs](https://devdocs.io/) - 在线技术文档查询。
   - [IPAddress](https://www.ipaddress.com/) - 查询某个站点的 IP 地址。
   - [DocTranslator](https://www.onlinedoctranslator.com/zh-CN/) - 在线网站，可翻译文档，PDF 转 Word 无水印。
-  - [MBA 智库百科](https://wiki.mbalib.com) - 比较专业的经管知识查询。
   - [DB-Engines](https://db-engines.com/) - 数据库排名信息。
-  - [Library of Congress](https://www.loc.gov/) - 美国国会图书馆。
   
 - 编程技巧（Programming skills）
   - [Semantic Versioning](https://semver.org/) - 语义化版本控制。
   - [Bash Pitfalls](http://mywiki.wooledge.org/BashPitfalls) - 此页面汇总了 Bash 用户常犯的编程错误。
   - [COMMANDLINEFU.COM](https://www.commandlinefu.com/commands/browse) - 汇集了很多优秀的、充满智慧的、简洁的命令行命令。
   - [Perfection Kills](http://perfectionkills.com/)	
-  - [Hackr.io](https://hackr.io/) - 在线教程。		
-  - [30 seconds](https://github.com/30-seconds) - 30 seconds 是一个系列，包含 JS、React、CSS 相关的编程技巧。	
-  - [33 js concepts](https://github.com/leonardomso/33-js-concepts) - 包含了丰富的 JavaScript 相关的知识概念，学习资源。	
-
-- 服务器（Server）
-  - [Linux](https://www.linux.org/) - 服务器领域操作系统。
-    - [Ubuntu](https://ubuntu.com/) - 最为流行的 Linux 发行版，提供图形化界面等资源。
-  - [Nginx](http://nginx.org/en/) - 轻量级、高性能、高并发的 Web 服务器，主要作为负载均衡、反向代理、静态资源服务的前端服务器。	
-  - [Apache](http://httpd.apache.org/)	
-  - [Tomcat](http://tomcat.apache.org/) - Java Web 开发中的 Servlet 容器。	
-
-- 包管理器（Package manager）
-  - Web/JavaScript/Node.js	
-    - [npm](https://www.npmjs.com/)	
-    - [Yarn](https://yarnpkg.com/)	
-    - [Bower](https://bower.io/)	
-  - Python	
-    - [pip](https://pypi.org/project/pip/)	
-  - Ruby	
-    - [RubyGems](https://rubygems.org/)	
+  - [Hackr.io](https://hackr.io/) - 在线教程。			
 
 - 工具平台（Tool platform）
   - [Anaconda](https://www.anaconda.com) - Python 科学计算平台。	
 
 - 其它（Others）	
-  - [~~句子迷~~](https://www.juzimi.com/)
-  - [古诗文网](https://www.gushiwen.org/)	
   - [Pexels](https://www.pexels.com/zh-cn/) - 免费的摄影素材分享。	
   - [ProductHunt](https://www.producthunt.com/) - 产品发布分享。		
 
