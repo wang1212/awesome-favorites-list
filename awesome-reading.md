@@ -125,6 +125,17 @@ Computer technology and software development.
 - [慕课网](https://www.imooc.com/) - 国内一个提供计算机开发技术学习课程收费服务的网站，有大量免费优质学习资源。
 - [Linux 公社](https://www.linuxidc.com/) - 国内一个论坛，内有大量 Linux 相关资源。
 
+### 文学
+
+Literature related forum sites.
+
+- [~~句子迷~~](https://www.juzimi.com/)
+- [古诗文网](https://www.gushiwen.org/)	
+
+### 金融经济
+
+- [MBA 智库百科](https://wiki.mbalib.com) - 比较专业的经管知识查询。
+
 [Go Top ↑](#awesome-reading-list)
 
 ## 其它
@@ -136,7 +147,9 @@ Other unclassified resources.
 - [30 seconds](https://github.com/30-seconds) - 30 seconds 是一个系列，包含 JS、React.js、CSS 相关的编程技巧。
 - [JS The Right Way](http://jstherightway.org/) - 一些 JavaScript 最佳实践。
 - [SJSJ](https://github.com/HugoGiraudel/SJSJ) - JavaScript 术语介绍。
+- [33 js concepts](https://github.com/leonardomso/33-js-concepts) - 包含了丰富的 JavaScript 相关的知识概念，学习资源。
 - [Superhero.js](http://superherojs.com/) - 构建大型项目的一些技巧。
 - [Write an Open Source JavaScript Library](https://github.com/sarbbottam/write-an-open-source-js-lib)
-
+- [Library of Congress](https://www.loc.gov/) - 美国国会图书馆。
+  
 [Go Top ↑](#awesome-reading-list)
