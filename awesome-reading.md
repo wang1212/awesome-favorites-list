@@ -144,10 +144,6 @@ Other unclassified resources.
 
 - [GitHub Guides](https://guides.github.com/) - Github 的官方指南页面，可以帮助开发者系统迅速的了解 Github 及其简单的用法。	
 - [掘金翻译计划](https://github.com/xitu/gold-miner) - 掘金翻译计划，可能是世界最大最好的英译中技术社区，最懂读者和译者的翻译平台。
-- [30 seconds](https://github.com/30-seconds) - 30 seconds 是一个系列，包含 JS、React.js、CSS 相关的编程技巧。
-- [JS The Right Way](http://jstherightway.org/) - 一些 JavaScript 最佳实践。
-- [SJSJ](https://github.com/HugoGiraudel/SJSJ) - JavaScript 术语介绍。
-- [33 js concepts](https://github.com/leonardomso/33-js-concepts) - 包含了丰富的 JavaScript 相关的知识概念，学习资源。
 - [Superhero.js](http://superherojs.com/) - 构建大型项目的一些技巧。
 - [Write an Open Source JavaScript Library](https://github.com/sarbbottam/write-an-open-source-js-lib)
 - [Library of Congress](https://www.loc.gov/) - 美国国会图书馆。
