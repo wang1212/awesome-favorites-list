@@ -10,7 +10,7 @@
 
 ## 目录
 
-Resource navigation list.
+*Resource navigation list.*
 
 - Web 开发（Web Development）
   - [前端（Web Front End）](awesome-web-front-end.md)
@@ -34,7 +34,7 @@ Resource navigation list.
 
 ## 软件
 
-Awesome Software.
+*Awesome Software.*
 
 - [Apk Follow](https://www.apkfollow.com/) - 安卓应用下载网站，更新较为及时。
 - [softonic](https://en.softonic.com) - 覆盖全端软件的下载网站。
@@ -44,7 +44,7 @@ Awesome Software.
 
 ### 软件包管理器
 
-Software package manager, providing software installation, uninstallation, configuration, and update.
+*Software package manager, providing software installation, uninstallation, configuration, and update.*
 
 - Windows
   - [Chocolatey](https://chocolatey.org/)
@@ -52,7 +52,7 @@ Software package manager, providing software installation, uninstallation, confi
 
 ### IDE 编辑器
 
-Open source free IDE editor, online code editor and some commercial paid IDE.
+*Open source free IDE editor, online code editor and some commercial paid IDE.*
 
 - Online
   - [CodeTable](https://code.hackerearth.com/)
@@ -70,7 +70,7 @@ Open source free IDE editor, online code editor and some commercial paid IDE.
 
 ### 源代码管理
 
-Source code version management system and building tools.
+*Source code version management system and building tools.*
 
 - [Git](https://git-scm.com/) - 目前最受欢迎的，使用最广泛的分布式源代码版本控制工具。
   - [GitHub](https://github.com/)
@@ -86,7 +86,7 @@ Source code version management system and building tools.
 
 ### 开发辅助工具
 
-Developer assistance tools, including API management, remote login, and more.
+*Developer assistance tools, including API management, remote login, and more.*
 
 - API Manage && Test
   - [Postman](https://www.getpostman.com/) - 一个非常棒的 API 管理工具。
@@ -110,7 +110,7 @@ Developer assistance tools, including API management, remote login, and more.
 
 ### 设计
 
-Software interface design, prototype drawing design, etc.
+*Software interface design, prototype drawing design, etc.*
 
 - [axure](https://www.axure.com/) - 产品原型图设计，**商业软件**。
 - [Sketch](https://www.sketch.com/) - 产品原型图设计，**商业软件**。
@@ -118,7 +118,7 @@ Software interface design, prototype drawing design, etc.
 
 ### 日常办公
 
-Daily office software, browse the Internet.
+*Daily office software, browse the Internet.*
 
 - [PotPlayer](https://daumpotplayer.com/) - 视频播放器，解码能力很强大。
 - [Bandizip](http://www.bandisoft.com/) - 解压缩软件，兼容主流格式，UI 比较精美，轻量，标准版免费，但有广告。
@@ -136,7 +136,7 @@ Daily office software, browse the Internet.
 
 ## 其它资源
 
-Other unclassified resources.
+*Other unclassified resources.*
 
 - 技术规范标准（Technical Specifications）
 
