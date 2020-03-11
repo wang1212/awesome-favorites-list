@@ -143,6 +143,7 @@ UI framework, CSS library, component library.
 （Recommend）推荐一个其它的收藏库，:point_right: https://github.com/sorrycc/awesome-javascript
 
 - [ECMAScript 官方规范标准](https://www.ecma-international.org/publications/standards/Ecma-262.htm)
+- [TC39 ECMAScript proposals](https://github.com/tc39/proposals) - TC39 对 ECMAScript 标准制定提案的记录。
 
 ### JS 构建工具
 
