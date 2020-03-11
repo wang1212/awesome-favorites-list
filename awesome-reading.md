@@ -100,6 +100,7 @@ Some classic and well-known journals, newspapers and magazines.
 
 Computer technology and software development.
 
+- [Technology Radar](https://www.thoughtworks.com/radar) - 技术雷达，[ThoughtWorks](https://www.thoughtworks.com/) 出品。
 - [JavaScript-weekly](https://javascriptweekly.com/) - JavaScript 周刊。
 - [CSS-weekly](https://css-weekly.com/) - CSS 周刊。
 - [Node-weekly](https://nodeweekly.com/) - Node.js 周刊。
