@@ -69,6 +69,13 @@
   - [PM2](https://pm2.keymetrics.io/) - Node 应用生产环境进程管理工具，支持集群、负载、远程部署，提供收费服务的实时监控平台。
   - [StrongLoop-PM](http://strong-pm.io/) - Node 应用生产环境进程管理工具，支持集群、负载、远程部署，提供收费服务的实时监控平台。
 
+- Doc
+  - [JSDoc](https://jsdoc.app/) - JavaScript 的 API 文档生成工具。
+
+- Test
+  - [Mocha](https://mochajs.org/)
+  - [JEST](https://jestjs.io/) - Facebook 出品的 JavaScript 单元测试工具。
+
 - Dev
   - [esm](https://github.com/standard-things/esm) - 能够为 `.js` 文件提供 [ECMAScript Modules](https://tc39.es/ecma262/#sec-modules) 支持。
   - [npm-check-updates](https://github.com/tjunnone/npm-check-updates) - 项目依赖 npm 包批量更新工具。
