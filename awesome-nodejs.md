@@ -101,6 +101,11 @@ Some unofficial high-quality Node.js packages (or libraries).
   - [cheerio](https://cheerio.js.org/) - 包装了[parse5](https://github.com/inikulin/parse5) 和 [htmlparser2](https://github.com/fb55/htmlparser2/) 的轻量级 HTML 文档解析库，具有类 jQuery 的 api。
   - [puppeteer](https://github.com/puppeteer/puppeteer)
 
+- HTML Template
+  - [EJS](https://ejs.co) - html 模版引擎。
+  - [Handlebars.js](http://handlebarsjs.com/) - html 模版引擎。
+  - [Jade](http://jade-lang.com/) - html 模版引擎。
+  
 - Image Process
   - [sharp](https://sharp.pixelplumbing.com/) - 图像处理，拉伸、缩放、色彩提取等等，底层使用 [libvips](https://libvips.github.io/libvips/)，无需安装其它依赖，开箱即用，效率更高。
   - [gm](http://aheckmann.github.io/gm/) - 图像处理，需先安装 [GraphicsMagick](http://www.graphicsmagick.org/) 或 [ImageMagick](https://imagemagick.org/index.php)。
