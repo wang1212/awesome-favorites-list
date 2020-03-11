@@ -10,20 +10,19 @@
 
 ## 目录
 
-Resource navigation list.
+*Resource navigation list.*
 
 - [技术规范标准（Technical Specifications）](#技术规范标准)
 - [技术参考文档（Technical Reference Document）](#技术参考文档)
 - [Node 模块（Node Module）](#node-模块)
   - [包管理器（Package Manager）](#包管理器)
   - [第三方模块（Unofficial Module）](#第三方模块)
-- [开发框架（Framework）](#开发框架)
+- [Web 开发框架（Web Development Framework）](#web-开发框架)
 - [其它（Others）](#其它)
-  - [HTML 模板引擎（HTML Template Engine）](#html-模板引擎)
 
 ## 技术规范标准
 
-Official technical specifications.
+*Official technical specifications.*
 
 - [Node.js](https://nodejs.org/) - Node.js 官方网站。
 
@@ -31,7 +30,7 @@ Official technical specifications.
 
 ## 技术参考文档
 
-Official and unofficial technical reference documents.
+*Official and unofficial technical reference documents.*
 
 - [Node.js 中文网](http://nodejs.cn/) - 唯一与官方同步更新的 Node.js 中文文档。
 
@@ -39,11 +38,11 @@ Official and unofficial technical reference documents.
 
 ## Node 模块
 
-Node modules (packages or libraries).
+*Node modules (packages or libraries).*
 
 ### 包管理器
 
-Node.js package (or library) manager.
+*Node.js package (or library) manager.*
 
 - Packages Manageer
   - [npm](https://www.npmjs.com/) - Node.js 的官方指定包管理器。
@@ -58,15 +57,12 @@ Node.js package (or library) manager.
   
 ### 第三方模块
 
-Some unofficial high-quality Node.js packages (or libraries).
+*Some unofficial high-quality Node.js packages (or libraries).*
 
 - Node Version Manage
   - [n](https://github.com/tj/n) - npm 包，Node 版本管理工具，**不支持 Windows 系统**。
   - [nvm](https://github.com/nvm-sh/nvm) - Node 版本管理，**不支持 Windows 系统**。
   - [nvm-windows](https://github.com/coreybutler/nvm-windows) - Windows 系统下的 Node 版本管理工具。
-
-- Utils
-  - [chalk](https://github.com/chalk/chalk) - 终端输出字符串样式工具，支持全部的颜色。
 
 - Process Manage
   - [Forever](https://github.com/foreversd/forever) - Node 应用生产环境进程管理工具，使用简单方便。
@@ -78,7 +74,11 @@ Some unofficial high-quality Node.js packages (or libraries).
   - [npm-check-updates](https://github.com/tjunnone/npm-check-updates) - 项目依赖 npm 包批量更新工具。
   - [nodemon](https://nodemon.io) - 提供 Node.js 开发时热重载机制。
 
+- Utils
+  - [chalk](https://github.com/chalk/chalk) - 终端输出字符串样式工具，支持全部的颜色。
+
 - HTTP Server
+  - [http-server](https://github.com/http-party/http-server) - 可快速启动一个 http 服务器。
   - [Connect](https://github.com/senchalabs/connect) - 可扩展的 HTTP 服务器框架，使用中间件机制，早期的 [Express](http://expressjs.com/) 基于此开发。
   - [log4js](https://github.com/log4js-node/log4js-node) - 日志记录。
 
@@ -101,10 +101,10 @@ Some unofficial high-quality Node.js packages (or libraries).
   - [cheerio](https://cheerio.js.org/) - 包装了[parse5](https://github.com/inikulin/parse5) 和 [htmlparser2](https://github.com/fb55/htmlparser2/) 的轻量级 HTML 文档解析库，具有类 jQuery 的 api。
   - [puppeteer](https://github.com/puppeteer/puppeteer)
 
-- HTML Template
-  - [EJS](https://ejs.co) - html 模版引擎。
-  - [Handlebars.js](http://handlebarsjs.com/) - html 模版引擎。
-  - [Jade](http://jade-lang.com/) - html 模版引擎。
+- HTML Template Engines
+  - [EJS](https://ejs.co)
+  - [Handlebars.js](http://handlebarsjs.com/)
+  - [Jade](http://jade-lang.com/)
   
 - Image Process
   - [sharp](https://sharp.pixelplumbing.com/) - 图像处理，拉伸、缩放、色彩提取等等，底层使用 [libvips](https://libvips.github.io/libvips/)，无需安装其它依赖，开箱即用，效率更高。
@@ -112,9 +112,9 @@ Some unofficial high-quality Node.js packages (or libraries).
 
 [Go Top ↑](#awesome-nodejs-list)
 
-## 开发框架
+## Web 开发框架
 
-Node.js-based server (or desktop) development framework.
+*Node.js-based server development framework.*
 
 - [Express](http://expressjs.com/) - 非常成熟的 Node.js Web 开发框架。
   - [express-session](https://github.com/expressjs/session) - Express 中间件，提供 Session-Cookie 机制的支持，**官方发布**。
@@ -124,21 +124,17 @@ Node.js-based server (or desktop) development framework.
   - [Passport.js](http://www.passportjs.org/) - 身份验证中间件，可在基于 Express 的 Node.js 框架中使用。
   
 - [Koa](https://koajs.com/) - 轻量级、高性能的 Web 框架，Express 团队开发。
-  
-- [Electron](https://electronjs.org/) - 基于 Node.js 与 Chromium 技术的开源跨平台桌面端应用开发解决方案，对 Web 前端开发人员友好。
 
 [Go Top ↑](#awesome-nodejs-list)
 
 ## 其它
 
-Other unclassified resources.
+*Other unclassified resources.*
 
-### HTML 模板引擎
+### 桌面端开发
 
-HTML's rendering template engine.
+*Desktop-side application development framework.*
 
-- [EJS](https://ejs.co)
-- [Handlebars.js](http://handlebarsjs.com/)
-- [Jade](http://jade-lang.com/)
+- [Electron](https://electronjs.org/) - 基于 Node.js 与 Chromium 技术的开源跨平台桌面端应用开发解决方案，对 Web 前端开发人员友好。
 
 [Go Top ↑](#awesome-nodejs-list)
