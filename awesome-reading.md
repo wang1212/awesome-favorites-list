@@ -8,7 +8,7 @@
 
 ## 目录
 
-Resource navigation list.
+*Resource navigation list.*
 
 - [书籍（Book）](#书籍)
 - [期刊（Journal）](#期刊)
@@ -17,11 +17,11 @@ Resource navigation list.
 
 ## 书籍
 
-Some classic, best-selling, high-quality books.
+*Some classic, best-selling, high-quality books.*
 
 ### 计算机技术
 
-Computer Technology Related Books.
+*Computer Technology Related Books.*
 
 - Programming language
   - 《C 程序设计语言》[美] Dennis M. Ritchie, Brian W. Kernighan
@@ -55,7 +55,7 @@ Computer Technology Related Books.
 
 ### 文学
 
-Literary books such as novels, prose, essays.
+*Literary books such as novels, prose, essays.*
 
 - 《浮生六记》沈复
 - 《月亮与六便士》[英] 威廉· 萨默赛特·毛姆
@@ -73,7 +73,7 @@ Literary books such as novels, prose, essays.
 
 ### 金融经济
 
-Financial Economy Related Books.
+*Financial Economy Related Books.*
 
 - 《灰犀牛：如何应对大概率危机》[美] 米歇尔·渥克
 - 《股票大作操盘术》[美] 杰西·利弗莫尔
@@ -86,7 +86,7 @@ Financial Economy Related Books.
 
 ### 哲学
 
-Philosophical Books.
+*Philosophical Books.*
 
 - 《苏菲的世界》[挪威] 乔斯坦·贾德
 
@@ -94,11 +94,11 @@ Philosophical Books.
 
 ## 期刊
 
-Some classic and well-known journals, newspapers and magazines.
+*Some classic and well-known journals, newspapers and magazines.*
 
 ### 计算机技术
 
-Computer technology and software development.
+*Computer technology and software development.*
 
 - [Technology Radar](https://www.thoughtworks.com/radar) - 技术雷达，[ThoughtWorks](https://www.thoughtworks.com/) 出品。
 - [JavaScript-weekly](https://javascriptweekly.com/) - JavaScript 周刊。
@@ -109,11 +109,11 @@ Computer technology and software development.
 
 ## 论坛
 
-Some high-quality, more interesting forum communities.
+*Some high-quality, more interesting forum communities.*
 
 ### 计算机技术
 
-Computer technology and software development.
+*Computer technology and software development.*
 
 - [Stack Overflow](https://stackoverflow.com/) - 全球的程序员学习、分享，技术问答社区网站。
 - [CNode 社区](https://cnodejs.org/) - CNode 社区由一批热爱 Node.js 技术的工程师发起，致力于 Node.js 的技术研究。
@@ -128,7 +128,7 @@ Computer technology and software development.
 
 ### 文学
 
-Literature related forum sites.
+*Literature related forum sites.*
 
 - [~~句子迷~~](https://www.juzimi.com/)
 - [古诗文网](https://www.gushiwen.org/)	
@@ -141,7 +141,7 @@ Literature related forum sites.
 
 ## 其它
 
-Other unclassified resources.
+*Other unclassified resources.*
 
 - [GitHub Guides](https://guides.github.com/) - Github 的官方指南页面，可以帮助开发者系统迅速的了解 Github 及其简单的用法。	
 - [掘金翻译计划](https://github.com/xitu/gold-miner) - 掘金翻译计划，可能是世界最大最好的英译中技术社区，最懂读者和译者的翻译平台。
