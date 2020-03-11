@@ -174,6 +174,7 @@
   - [JSDoc](https://jsdoc.app/) - JavaScript 的 API 文档生成工具。
   
 - Test
+  - [Mocha](https://mochajs.org/)
   - [JEST](https://jestjs.io/) - Facebook 出品的 JavaScript 单元测试工具。
   
 - DOM
