@@ -10,7 +10,7 @@
 
 ## 目录
 
-Resource navigation list.
+*Resource navigation list.*
 
 - [技术规范标准（Technical Specifications）](#技术规范标准)
 - [技术参考文档（Technical Reference Document）](#技术参考文档)
@@ -33,7 +33,7 @@ Resource navigation list.
 
 ## 技术规范标准
 
-Official technical specifications.
+*Official technical specifications.*
 
 - [W3C](https://www.w3.org/) - 万维网联盟创建于 1994 年，是 Web 技术领域最具权威和影响力的国际中立性技术标准机构。
 - [ECMA International](http://www.ecma-international.org/) - ECMA 国际是一家国际性会员制度的信息和电信标准组织，负责行业标准的制定，例如 ECMA Script。
@@ -47,7 +47,7 @@ Official technical specifications.
 
 ## 技术参考文档
 
-Official and unofficial technical reference documents.
+*Official and unofficial technical reference documents.*
 
 - [MDN Developer Document](https://developer.mozilla.org/en-US/) - MDN Web Docs 网站提供开放网络（Open Web）技术有关的信息，包括用于网站和渐进式网络应用的 HTML、CSS 和 API，是提供给 Web 开发者最好的学习资料和技术文档，**可作为官方标准参阅学习**。
 - [Can I use](https://caniuse.com/) - 可以查询特定 Web API（H5、CSS3）在各个浏览器平台的实现和标准化状态，**非官方网站**。
@@ -68,7 +68,7 @@ Official and unofficial technical reference documents.
 
 ### HTML 构建工具
 
-HTML build tools, such as a template engine.
+*HTML build tools, such as a template engine.*
 
 - [EJS](https://ejs.co) - html 模版引擎。
 - [Handlebars.js](http://handlebarsjs.com/) - html 模版引擎。
@@ -76,7 +76,7 @@ HTML build tools, such as a template engine.
 
 ### HTML 工具库
 
-HTML tool library, dealing with compatibility issues, etc.
+*HTML tool library, dealing with compatibility issues, etc.*
 
 - [html5shiv](https://github.com/aFarkas/html5shiv) - 在旧浏览器（IE9 以下）上提供对 HTML5 新标签（例如 footer、nav）的支持。
 
@@ -88,7 +88,7 @@ HTML tool library, dealing with compatibility issues, etc.
 
 ### CSS 构建工具
 
-CSS build tools, such as introducing module variables and other useful features.
+*CSS build tools, such as introducing module variables and other useful features.*
 
 - [Sass](https://sass-lang.com/) - CSS 预处理器，可提供类似编程语言的能力（变量、方法、作用域、嵌套）来编写 CSS。
 - [PostCSS](https://postcss.org/) - CSS 后处理器，提供众多插件来实现还未被广泛实现和标准化的 CSS 功能特性，最终将其编译为目标平台支持的 CSS 代码。
@@ -97,7 +97,7 @@ CSS build tools, such as introducing module variables and other useful features.
 
 ### CSS 工具库
 
-CSS tool library, dealing with compatibility issues, etc.
+*CSS tool library, dealing with compatibility issues, etc.*
 
 - [Respond](https://github.com/scottjehl/Respond) - 在旧浏览器（IE 6-8）上提供对 CSS3 Media Queries（媒体查询）的支持。
 - [selectivizr](http://selectivizr.com/) - 在旧浏览器（IE 6-8）上提供对 CSS3 新选择器的支持，注意 `style` 标签内样式不解析，动态生成的 DOM 也不解析。
@@ -105,7 +105,7 @@ CSS tool library, dealing with compatibility issues, etc.
 
 ### 字体图标
 
-Font icon, vector icon.
+*Font icon, vector icon.*
 
 - 字体
   - [Source Code Pro](https://github.com/adobe-fonts/source-code-pro) - Adobe 出品的开源等宽字体，适合编程使用。
@@ -124,7 +124,7 @@ Font icon, vector icon.
 
 ### UI 框架
 
-UI framework, CSS library, component library.
+*UI framework, CSS library, component library.*
 
 - [Bootstrap](https://getbootstrap.com/) - 最流行的 CSS UI 框架。
 - [Materialize](https://materializecss.com/) - 最流行的实现了 Google Material Design 的 CSS UI 框架。
@@ -140,14 +140,14 @@ UI framework, CSS library, component library.
 
 ## JavaScript
 
-（Recommend）推荐一个其它的收藏库，:point_right: https://github.com/sorrycc/awesome-javascript
+*（Recommend）推荐一个其它的收藏库，:point_right: https://github.com/sorrycc/awesome-javascript*
 
 - [ECMAScript 官方规范标准](https://www.ecma-international.org/publications/standards/Ecma-262.htm)
 - [TC39 ECMAScript proposals](https://github.com/tc39/proposals) - TC39 对 ECMAScript 标准制定提案的记录。
 
 ### JS 构建工具
 
-JavaScript building tools, such as TypeScript parsing, syntax rules parsing, code formatting, etc.
+*JavaScript building tools, such as TypeScript parsing, syntax rules parsing, code formatting, etc.*
 
 - [Webpack](https://webpack.js.org/) - 目前最流行的 Web 前端项目自动化构建工具。
   - [awesome-webpack](https://github.com/webpack-contrib/awesome-webpack) - Webpack 相关资源，**官方认证**。
@@ -164,17 +164,17 @@ JavaScript building tools, such as TypeScript parsing, syntax rules parsing, cod
 
 ### JS 工具库
 
-JavaScript tool libraries, such as file manipulation, Canvas drawing, HTTP requests, etc.
+*JavaScript tool libraries, such as file manipulation, Canvas drawing, HTTP requests, etc.*
+
+- Polyfill
+  - [Promise Polyfill](https://github.com/taylorhakes/promise-polyfill) - 可以在不支持 Promise API 的浏览器上提供对其的支持。
+  - [core-js](https://github.com/zloirock/core-js) - 现代 JavaScript 标准库。
 
 - Doc
   - [JSDoc](https://jsdoc.app/) - JavaScript 的 API 文档生成工具。
   
 - Test
   - [JEST](https://jestjs.io/) - Facebook 出品的 JavaScript 单元测试工具。
-  
-- Polyfill
-  - [Promise Polyfill](https://github.com/taylorhakes/promise-polyfill) - 可以在不支持 Promise API 的浏览器上提供对其的支持。
-  - [core-js](https://github.com/zloirock/core-js) - 现代 JavaScript 标准库。
   
 - DOM
   - [jQuery](https://jquery.com/) - 前几年非常流行的 DOM 操作工具库，处理了兼容性的细节问题。
@@ -222,6 +222,7 @@ JavaScript tool libraries, such as file manipulation, Canvas drawing, HTTP reque
   - [StreamSaver.js](https://github.com/jimmywarting/StreamSaver.js) - Web 浏览器客户端异步保存文件 api 实现，解决了 FileSaver 的大小限制问题。
   - [JSZip](https://github.com/Stuk/jszip) - 创建/读写 zip 文件。
   - [xlsx](https://sheetjs.com/) - 解析 Office Excel 文件。
+  - [jsPDF](https://github.com/MrRio/jsPDF) - Web 客户端生成 PDF 文件。
   - [DropzoneJS](https://www.dropzonejs.com/) - 文件上传组件，支持拖放文件、图片预览功能。
   - [filepond](https://pqina.nl/filepond/) - 文件上传组件，功能比较丰富。
   
@@ -238,7 +239,7 @@ JavaScript tool libraries, such as file manipulation, Canvas drawing, HTTP reque
 
 ### 数据可视化
 
-Data visualization libraries, such as chart libraries, 3D engines, etc.
+*Data visualization libraries, such as chart libraries, 3D engines, etc.*
 
 - [Chart.js](https://www.chartjs.org/) - 最流行的轻量级图表库。
 - [Echarts](http://echarts.apache.org/) - 国内百度团队开发的图表库，功能丰富。
@@ -247,7 +248,7 @@ Data visualization libraries, such as chart libraries, 3D engines, etc.
 
 ### 开发框架
 
-Web front-end development framework (library).
+*Web front-end development framework (library).*
 
 - [React.js](https://reactjs.org/) - Facebook 出品的 Web 前端开源库，目前最火的轻量级前端开发框架之一，其技术生态圈非常繁荣。
   - [Awesome-React.js](./awesome-reactjs.md)
@@ -260,11 +261,11 @@ Web front-end development framework (library).
 
 ## 资源
 
-Some useful related resources.
+*Some useful related resources.*
 
 ### 在线工具
 
-Some online resources, such as CDN, image compression tools, online IDE, etc.
+*Some online resources, such as CDN, image compression tools, online IDE, etc.*
 
 - Free CDN
   - 国外
@@ -300,7 +301,7 @@ Some online resources, such as CDN, image compression tools, online IDE, etc.
  
 ### 其它
 
-Other unclassified resources.
+*Other unclassified resources.*
 
 - WebAssembly(wasm)
   - [Emscripten](https://emscripten.org/) - 用于编译为使用 LLVM 构建的 asm.js 和 WebAssembly 的工具链，可在 Web 浏览器中运行 C/C++ 代码。
