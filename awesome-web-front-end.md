@@ -164,7 +164,7 @@
 
 ### JS 工具库
 
-*JavaScript tool libraries, such as file manipulation, Canvas drawing, HTTP requests, etc.*
+*JavaScript tool libraries (browser-side), such as file manipulation, Canvas drawing, HTTP requests, etc.*
 
 - Polyfill
   - [Promise Polyfill](https://github.com/taylorhakes/promise-polyfill) - 可以在不支持 Promise API 的浏览器上提供对其的支持。
@@ -241,9 +241,10 @@
 
 *Data visualization libraries, such as chart libraries, 3D engines, etc.*
 
+- [D3](https://d3js.org/) - 数据驱动的可视化库，非常著名，许多图表库基于此开发。
+- [three.js](https://threejs.org/)
 - [Chart.js](https://www.chartjs.org/) - 最流行的轻量级图表库。
 - [Echarts](http://echarts.apache.org/) - 国内百度团队开发的图表库，功能丰富。
-- [D3](https://d3js.org/) - 数据驱动的可视化库，非常著名，许多图表库基于此开发。
 - [C3](https://c3js.org/) - 基于 D3 的可重用图表库。
 
 ### 开发框架
