@@ -226,9 +226,6 @@
   - [DropzoneJS](https://www.dropzonejs.com/) - 文件上传组件，支持拖放文件、图片预览功能。
   - [filepond](https://pqina.nl/filepond/) - 文件上传组件，功能比较丰富。
   
-- Server
-  - [http-server](https://github.com/http-party/http-server) - 可快速启动一个 http 服务器。
-  
 - H5 Media - Audio & Video
   - [video.js](https://videojs.com/) - 兼容大部分视频格式的视频播放器。
   - [MediaElement.js](http://www.mediaelementjs.com/) - 非常漂亮的视、音频播放器。
