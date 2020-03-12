@@ -12,7 +12,7 @@
 
 ## 目录
 
-Resource navigation list.
+*Resource navigation list.*
 
 - [构建工具（Build Tools）](#构建工具)
 - [状态管理（Application State Management）](#状态管理)
@@ -24,11 +24,12 @@ Resource navigation list.
 
 ## 构建工具
 
-Application building tools, including JSX code compilation, code file merging and packaging, syntax rule checking, etc.
+*Application building tools, including JSX code compilation, code file merging and packaging, syntax rule checking, etc.*
 
 - [Babel](https://babeljs.io/) - TypeScript/ES Next 编译工具。
   - [babel-preset-react](https://github.com/babel/babel/tree/master/packages/babel-preset-react) - Babel 的 React.js 预设插件，**Babel 官方发布**。
   - [babel-preset-flow](https://github.com/babel/babel/tree/master/packages/babel-preset-flow) - Babel 的 Flow 预设插件，**Babel 官方发布**。
+  - [babel-preset-typescript](https://github.com/babel/babel/tree/master/packages/babel-preset-typescript) - Babel 的 TypeScript 预设插件，**Babel 官方发布**。
   - [babel-jest](https://github.com/facebook/jest/tree/master/packages/babel-jest) - Babel 的 Jest 插件，**FaceBook 官方发布**。
   
 - [ESLint](https://eslint.org/) - 语法规则检查工具。
@@ -42,7 +43,7 @@ Application building tools, including JSX code compilation, code file merging an
 
 ## 状态管理
 
-React application global state management and optimization.
+*React application global state management and optimization.*
 
 - [Redux](https://redux.js.org/) - Redux 是一个独立的应用状态管理库，它本身是可以和任何库结合使用的，但通常提到它均是认为和 React.js 一块使用，需要配合 react-redux 使用。
   - [React-Redux](https://react-redux.js.org/) - 将 Redux 与 React.js 搭配使用，**Redux 官方实现**。
@@ -55,14 +56,14 @@ React application global state management and optimization.
 
 ## 路由管理
 
-Route management for SPA applications built with React.js.
+*Route management for SPA applications built with React.js.*
 
 - [React-Router](https://reacttraining.com/react-router/)
 - [Reach Router](https://reach.tech/router)
 
 ## 优化方案
 
-React web application optimization solution.
+*React web application optimization solution.*
 
 - Lazy Load && Code Split
   - [loadable-components](https://www.smooth-code.com/open-source/loadable-components/) - 提供组件懒加载的功能，支持服务器端渲染（SSR）。
@@ -76,7 +77,7 @@ React web application optimization solution.
 
 ## UI 组件库
 
-Feature-rich component library built on React.js.
+*Feature-rich component library built on React.js.*
 
 - All
   - [Material UI](https://material-ui.com/) - 实现了 Google Material Design，组件非常丰富。
@@ -93,11 +94,11 @@ Feature-rich component library built on React.js.
 
 ## 数据可视化
 
-Data visualization chart library, framework.
+*Data visualization chart library, framework.*
 
 ## 其它
 
-Other unclassified resources.
+*Other unclassified resources.*
 
 - [React-JSS](https://cssinjs.org/react-jss) - JSS 是 CSS-in-JS 的一种解决方案，这个是与 React 的集成方案。
 
