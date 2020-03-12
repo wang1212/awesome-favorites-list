@@ -149,6 +149,7 @@
 
 *JavaScript building tools, such as TypeScript parsing, syntax rules parsing, code formatting, etc.*
 
+- [TypeScript](http://www.typescriptlang.org/) - JavaScript 的超集，强类型语言。
 - [Webpack](https://webpack.js.org/) - 目前最流行的 Web 前端项目自动化构建工具。
   - [awesome-webpack](https://github.com/webpack-contrib/awesome-webpack) - Webpack 相关资源，**官方认证**。
 - [Gulp](https://gulpjs.com/)
