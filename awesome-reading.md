@@ -10,10 +10,39 @@
 
 *Resource navigation list.*
 
+- [数据（Data）](#数据)
 - [书籍（Book）](#书籍)
 - [期刊（Journal）](#期刊)
 - [论坛（Forum）](#论坛)
 - [其它（Others）](#其它)
+
+## 数据
+
+*More reliable consulting, data statistics, industry analysis and reporting platform.*
+
+- [IDC](https://www.idc.com/) - 国际数据公司（IDC）是面向信息技术，电信和消费者技术市场的市场情报，咨询服务和活动的全球领先提供商。
+- [艾瑞数据](https://data.iresearch.com.cn/) - 艾瑞汇集多家大型互联网企业数据，共同打造的互联网行业信息情报分析系统。
+- [BCG](https://www.bcg.com/)
+- [麦肯锡](https://www.mckinsey.com.cn/)
+- [贝恩](https://www.bain.com/)
+- [移动观象台](http://mi.talkingdata.com/) - 全球领先免费公开数据实时查询平台。
+- [艾媒网](https://www.iimedia.cn/)
+- [DataEye](https://www.dataeye.com/report)
+- [CBNData](http://www.cbndata.com/)
+- [199IT](http://www.199it.com/)
+- [百度指数](http://index.baidu.com/)
+- [360 趋势](https://trends.so.com/)
+- [搜狗指数](http://index.sogou.com/)
+- [阿里指数](https://index.1688.com/)
+- [高德地图](https://report.amap.com/)
+- [百度地图慧眼](https://huiyan.baidu.com/)
+- [CBO 实时票房榜](http://www.endata.com.cn/BoxOffice/)
+- [易车指数](http://index.bitauto.com/)
+- [房天下指数](https://fdc.fang.com/index/)
+- [App Annie](https://www.appannie.com/)
+- [新榜](https://www.newrank.cn/public/info/list.html)
+- [微小宝](https://data.wxb.com/rank)
+- [国家数据](http://data.stats.gov.cn/)
 
 ## 书籍
 
