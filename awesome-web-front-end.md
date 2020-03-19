@@ -150,19 +150,33 @@
 
 *JavaScript building tools, such as TypeScript parsing, syntax rules parsing, code formatting, etc.*
 
-- [TypeScript](http://www.typescriptlang.org/) - JavaScript 的超集，强类型语言。
-- [Webpack](https://webpack.js.org/) - 目前最流行的 Web 前端项目自动化构建工具。
-  - [awesome-webpack](https://github.com/webpack-contrib/awesome-webpack) - Webpack 相关资源，**官方认证**。
-- [Gulp](https://gulpjs.com/)
-- [Grunt](https://gruntjs.com/)
-- [WorkBox](https://developers.google.com/web/tools/workbox/) - Google 专门为构建 PWA （Progressive Web App，渐进式 Web 应用）提供的一套开发工具，支持多个平台，并提供了方便的 webpack 插件。
-- [Babel](https://babeljs.io/) - JS 编译工具，可将其它语言（TypeScript、ES6/7/8）代码编译为 JavaScript 代码。
-- [Flow](https://flow.org/) - Facebook 出品的 JavaScript 静态类型检查工具。
-- [ESLint](https://eslint.org/) - JavaScript 语法规则检查工具。
-- [Browsersync](https://www.browsersync.io/) - 浏览器同步调式工具，功能非常强大。
-- [Eruda](https://eruda.liriliri.io/) - 移动端 Web 调试工具。
-- [vConsole](https://github.com/Tencent/vConsole) - 移动端 Web 调试工具，腾讯（Tencent）出品。
-- [npm-check-updates](https://www.npmjs.com/package/npm-check-updates) - 可以更新项目 npm 依赖的辅助工具，非常棒。
+- Dependency management
+  - [npm-check-updates](https://www.npmjs.com/package/npm-check-updates) - 可以更新项目 npm 依赖包的辅助命令工具。
+  
+- Build tools
+  - [Webpack](https://webpack.js.org/) - 目前最流行的 Web 前端项目自动化构建工具。
+    - [awesome-webpack](https://github.com/webpack-contrib/awesome-webpack) - Webpack 相关资源，**官方认证**。
+  - [Gulp](https://gulpjs.com/)
+  - [Grunt](https://gruntjs.com/)
+  
+- Language && Compiler
+  - [TypeScript](http://www.typescriptlang.org/) - JavaScript 的超集，强类型语言。
+  - [Babel](https://babeljs.io/) - 编译工具，可将 TypeScript、ES6/7/8 代码编译为 JavaScript（ES5） 代码。
+
+- Type check && Format
+  - [Flow](https://flow.org/) - Facebook 出品的 JavaScript 静态类型检查工具。
+  - [ESLint](https://eslint.org/) - JavaScript 语法规则检查工具。
+  - [Prettier](https://prettier.io/) - 代码格式化工具。
+
+- PWA && Offline cache
+  - [WorkBox](https://developers.google.com/web/tools/workbox/) - Google 专门为构建 PWA （Progressive Web App，渐进式 Web 应用）提供的一套开发工具，支持多个平台，并提供了方便的 webpack 插件。
+
+- Server hot reload
+  - [Browsersync](https://www.browsersync.io/) - 浏览器同步调式工具，功能非常强大。
+
+- Mobile debugging
+  - [Eruda](https://eruda.liriliri.io/) - 移动端 Web 调试工具。
+  - [vConsole](https://github.com/Tencent/vConsole) - 移动端 Web 调试工具，腾讯（Tencent）出品。
 
 ### JS 工具库
 
