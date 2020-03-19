@@ -26,20 +26,22 @@
 
 *Application building tools, including JSX code compilation, code file merging and packaging, syntax rule checking, etc.*
 
+- [webpack](https://webpack.js.org/) - 打包工具。
+
 - [Babel](https://babeljs.io/) - TypeScript/ES Next 编译工具。
   - [babel-preset-react](https://github.com/babel/babel/tree/master/packages/babel-preset-react) - Babel 的 React.js 预设插件，**Babel 官方发布**。
   - [babel-preset-flow](https://github.com/babel/babel/tree/master/packages/babel-preset-flow) - Babel 的 Flow 预设插件，**Babel 官方发布**。
   - [babel-preset-typescript](https://github.com/babel/babel/tree/master/packages/babel-preset-typescript) - Babel 的 TypeScript 预设插件，**Babel 官方发布**。
-  - [babel-jest](https://github.com/facebook/jest/tree/master/packages/babel-jest) - Babel 的 Jest 插件，**FaceBook 官方发布**。
+  - [babel-jest](https://github.com/facebook/jest/tree/master/packages/babel-jest) - Babel 的 Jest 插件，**FaceBook 发布**。
   
 - [ESLint](https://eslint.org/) - 语法规则检查工具。
   - [eslint-plugin-react](https://github.com/yannickcr/eslint-plugin-react) - ESLint 的 React.js 语法规则插件。
   - [eslint-plugin-react-hooks](https://github.com/facebook/react/tree/master/packages/eslint-plugin-react-hooks) - ESLint 的 React Hooks 语法规则检查插件，**React 官方发布**。
   
 - [Flow](https://flow.org/) - JavaScript 静态类型检查工具，**FaceBook 官方发布**。
-- [Jest](https://jestjs.io/) - 单元测试工具，**FaceBook 官方发布**。
+- [Jest](https://jestjs.io/) - 单元测试工具，**FaceBook 发布**。
 - [Create React App](https://github.com/facebook/create-react-app) - 零配置的 React App 构建工具，**React 官方发布**。
-- [react-devtools](https://github.com/facebook/react-devtools) - React 应用的调试工具，Chrome 插件。
+- [react-devtools](https://github.com/facebook/react-devtools) - React 应用的调试工具，Chrome 插件，**React 官方发布**。
 
 ## 状态管理
 
