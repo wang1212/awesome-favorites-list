@@ -26,6 +26,9 @@
 
 *Application building tools, including JSX code compilation, code file merging and packaging, syntax rule checking, etc.*
 
+- [Create React App](https://create-react-app.dev/) - 零配置的 React App 构建工具，**React 官方发布**。
+- [react-devtools](https://github.com/facebook/react-devtools) - React 应用的调试工具，Chrome 插件，**React 官方发布**。
+
 - [webpack](https://webpack.js.org/) - 打包工具。
 
 - [Babel](https://babeljs.io/) - TypeScript/ES Next 编译工具。
@@ -39,9 +42,8 @@
   - [eslint-plugin-react-hooks](https://github.com/facebook/react/tree/master/packages/eslint-plugin-react-hooks) - ESLint 的 React Hooks 语法规则检查插件，**React 官方发布**。
   
 - [Flow](https://flow.org/) - JavaScript 静态类型检查工具，**FaceBook 官方发布**。
+- [Prettier](https://prettier.io/) - 代码格式化工具。
 - [Jest](https://jestjs.io/) - 单元测试工具，**FaceBook 发布**。
-- [Create React App](https://github.com/facebook/create-react-app) - 零配置的 React App 构建工具，**React 官方发布**。
-- [react-devtools](https://github.com/facebook/react-devtools) - React 应用的调试工具，Chrome 插件，**React 官方发布**。
 
 ## 状态管理
 
