@@ -51,6 +51,7 @@
 
 - [MDN Developer Document](https://developer.mozilla.org/en-US/) - MDN Web Docs 网站提供开放网络（Open Web）技术有关的信息，包括用于网站和渐进式网络应用的 HTML、CSS 和 API，是提供给 Web 开发者最好的学习资料和技术文档，**可作为官方标准参阅学习**。
 - [Can I use](https://caniuse.com/) - 可以查询特定 Web API（H5、CSS3）在各个浏览器平台的实现和标准化状态，**非官方网站**。
+- [cssdb](https://cssdb.org/) - CSS 新特性列表。
 - [CSS BEM](https://en.bem.info/) - CSS 类名的 BEM 命名风格和规则。
 - [30 seconds](https://github.com/30-seconds) - 30 seconds 是一个系列，包含 JS、React.js、CSS 相关的编程技巧。
 - [JS The Right Way](http://jstherightway.org/) - 一些 JavaScript 最佳实践。
