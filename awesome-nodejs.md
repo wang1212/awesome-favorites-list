@@ -81,6 +81,10 @@
   - [npm-check-updates](https://github.com/tjunnone/npm-check-updates) - 项目依赖 npm 包批量更新工具。
   - [nodemon](https://nodemon.io) - 提供 Node.js 开发时热重载机制。
 
+- Code version management 
+  - [husky](https://github.com/typicode/husky) - 更容易的使用 [Git Hooks](https://git-scm.com/book/it/v2/Customizing-Git-Git-Hooks)。
+  - [lint-staged](https://www.npmjs.com/package/lint-staged) - 搭配 husky 使用，提交代码前进行 lint。
+
 - Utils
   - [chalk](https://github.com/chalk/chalk) - 终端输出字符串样式工具，支持全部的颜色。
 
