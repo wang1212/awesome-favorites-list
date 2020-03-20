@@ -91,7 +91,10 @@
 *CSS build tools, such as introducing module variables and other useful features.*
 
 - [Sass](https://sass-lang.com/) - CSS 预处理器，可提供类似编程语言的能力（变量、方法、作用域、嵌套）来编写 CSS。
+
 - [PostCSS](https://postcss.org/) - CSS 后处理器，提供众多插件来实现还未被广泛实现和标准化的 CSS 功能特性，最终将其编译为目标平台支持的 CSS 代码。
+  - [postcss-normalize](https://github.com/csstools/postcss-normalize)
+  
 - [JSS](https://cssinjs.org) - 一种 CSS-in-JS 的解决方案。
 - [styled components](https://www.styled-components.com) - 一种 CSS-in-JS 的解决方案。
 
@@ -99,9 +102,13 @@
 
 *CSS tool library, dealing with compatibility issues, etc.*
 
-- [Respond](https://github.com/scottjehl/Respond) - 在旧浏览器（IE 6-8）上提供对 CSS3 Media Queries（媒体查询）的支持。
-- [selectivizr](http://selectivizr.com/) - 在旧浏览器（IE 6-8）上提供对 CSS3 新选择器的支持，注意 `style` 标签内样式不解析，动态生成的 DOM 也不解析。
-- [Normalize](http://necolas.github.io/normalize.css/) - 现代化的 Reset CSS 工具库，统一浏览器默认样式。
+- Polyfill
+  - [Respond](https://github.com/scottjehl/Respond) - 在旧浏览器（IE 6-8）上提供对 CSS3 Media Queries（媒体查询）的支持。
+  - [selectivizr](http://selectivizr.com/) - 在旧浏览器（IE 6-8）上提供对 CSS3 新选择器的支持，注意 `style` 标签内样式不解析，动态生成的 DOM 也不解析。
+
+- CSS Reset
+  - [Normalize.css](http://necolas.github.io/normalize.css/) - 现代化的 Reset CSS 工具库，统一浏览器默认样式。
+  - [sanitize.css](https://csstools.github.io/sanitize.css/)
 
 ### 字体图标
 
