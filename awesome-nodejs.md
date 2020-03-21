@@ -51,8 +51,8 @@
   - [Bower](https://bower.io/)
 
 - Tool
-  - [nrm](https://github.com/Pana/nrm) - npm 换源。
-  - [Lerna](https://lerna.js.org/) - 管理 Monorepo 架构的 Node 模块代码库工具。
+  - [nrm](https://github.com/Pana/nrm) - npm 换源，**非官方**。
+  - [Lerna](https://lerna.js.org/) - 管理 Monorepo 架构的 Node 模块代码库工具，**非官方**。
   - [Npm Trends](https://www.npmtrends.com/) - 可以查询对比多个 Npm 包的下载流量数据、star 数目等，**非官方网站**。
   - [Npm Charts](https://npmcharts.com/) - 可以查询对比多个 Npm 包的下载流量数据、star 数目等，**非官方网站**。
   
@@ -88,6 +88,9 @@
 
 - Utils
   - [chalk](https://github.com/chalk/chalk) - 终端输出字符串样式工具，支持全部的颜色。
+  - [commander](https://github.com/tj/commander.js) - 简单的命令行接口。
+  - [inquirer](https://github.com/SBoudrias/Inquirer.js) - 交互式命令行。
+  - [envinfo](https://github.com/tabrindle/envinfo) - 生成开发环境信息报告。
 
 - HTTP Server
   - [http-server](https://github.com/http-party/http-server) - 可快速启动一个 http 服务器。
