@@ -33,6 +33,7 @@
 *Official and unofficial technical reference documents.*
 
 - [Node.js 中文网](http://nodejs.cn/) - 唯一与官方同步更新的 Node.js 中文文档。
+- [Introduction to Node.js](https://nodejs.dev/) - Node.js 技术介绍。
 
 [Go Top ↑](#awesome-nodejs-list)
 
