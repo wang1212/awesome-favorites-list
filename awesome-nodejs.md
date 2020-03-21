@@ -107,6 +107,7 @@
   - [rimraf](https://github.com/isaacs/rimraf) - 为 Node 提供类似 `rm -rf` 删除文件操作。
   - [memfs](https://github.com/streamich/memfs) - 内存文件系统。
   - [rotating-file-stream](https://github.com/iccicci/rotating-file-stream) - 文件流自动轮转，可用于日志文件分割，类似 UNIX `logrotate`。
+  - [xlsx](https://sheetjs.com/) - 解析 Office Excel 文件。
 
 - HTML & XML Parse
   - [cheerio](https://cheerio.js.org/) - 包装了[parse5](https://github.com/inikulin/parse5) 和 [htmlparser2](https://github.com/fb55/htmlparser2/) 的轻量级 HTML 文档解析库，具有类 jQuery 的 api。
