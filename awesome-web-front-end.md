@@ -317,11 +317,17 @@
   - [What Web Can Do](https://whatwebcando.today/) - 可以检测当前设备所支持的 Web API，主要检测硬件设备传感器等，**非官方网站**。
 
 - IDE / Editor
+  - [StackBlitz](https://stackblitz.com/)
   - [JSFiddle](https://jsfiddle.net/)
   - [CodeSandbox](https://codesandbox.io/)
   - [CodePen](https://codepen.io/)
   - [WebAssembly Studio](https://webassembly.studio/) - 在线的 WebAssembly 编辑器，**Mozilla 发布**。
- 
+  
+- Others
+  - [enjoyCSS](https://enjoycss.com/) - 便捷的组件样式设计输出在线工具。
+  - [bit](https://bit.dev/) - 构建可重用组件的协作平台。
+  - [Prettier Playground](https://prettier.io/playground/) - Prettier 代码格式化工具的在线版本。
+
 ### 其它
 
 *Other unclassified resources.*
