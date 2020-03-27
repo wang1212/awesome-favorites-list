@@ -290,19 +290,28 @@
 
 *Some online resources, such as CDN, image compression tools, online IDE, etc.*
 
+- Web Security
+  - [SRI Hash Generator](https://www.srihash.org/) - [SRI](https://www.w3.org/TR/SRI/) 的 hash 生成。
+
+- Web Optimization
+  - [Varvy SEO tool](https://varvy.com/) - 一个在线网站 SEO、性能检测工具，提供优化建议和技巧。
+  - [PageSpeed Insights](https://developers.google.com/speed/pagespeed/insights/) - Google 提供的在线网站性能检测工具，提供优化建议和技巧，**Google 官方提供**。
+  - [Lighthouse](https://developers.google.com/web/tools/lighthouse/) - Google 提供的一个网站优化检测分析工具，已被集成在 Chrome 开发工具中，也可以作为 Chrome 扩展或者命令行工具使用，**Google 官方提供**。
+  - [What Web Can Do](https://whatwebcando.today/) - 可以检测当前设备所支持的 Web API，主要检测硬件设备传感器等，**非官方网站**。
+
 - Free CDN
-  - 国外
+  - Global
     - [jsDelivr](https://www.jsdelivr.com/)
     - [UNPKG](https://unpkg.com/)
     - [cdnjs](https://cdnjs.com/)
     - [Google Hosted Libraries](https://developers.google.com/speed/libraries/)
-  - 国内
+  - China
     - [BootCDN](https://www.bootcdn.cn/) - Bootstrap 中文网维护。
     - [75CDN](https://cdn.baomitu.com) - 奇虎 360 前端团队奇舞团维护。
     - [Staticfile CDN](https://staticfile.org/) - 七牛云与掘金维护。
     - [loli.net](https://css.loli.net/)
     
-- 图片压缩
+- Image Compression
   - [Compress PNG](https://compresspng.com/)
   - [Picdiet](https://www.picdiet.com/)
   - [TinyPNG](https://tinypng.com/)
@@ -310,12 +319,6 @@
   - [压缩图](https://www.yasuotu.com/)
   - [色彩笔](http://www.secaibi.com/tools/)
   
-- Web 优化
-  - [Varvy SEO tool](https://varvy.com/) - 一个在线网站 SEO、性能检测工具，提供优化建议和技巧。
-  - [PageSpeed Insights](https://developers.google.com/speed/pagespeed/insights/) - Google 提供的在线网站性能检测工具，提供优化建议和技巧，**Google 官方提供**。
-  - [Lighthouse](https://developers.google.com/web/tools/lighthouse/) - Google 提供的一个网站优化检测分析工具，已被集成在 Chrome 开发工具中，也可以作为 Chrome 扩展或者命令行工具使用，**Google 官方提供**。
-  - [What Web Can Do](https://whatwebcando.today/) - 可以检测当前设备所支持的 Web API，主要检测硬件设备传感器等，**非官方网站**。
-
 - IDE / Editor
   - [StackBlitz](https://stackblitz.com/)
   - [JSFiddle](https://jsfiddle.net/)
