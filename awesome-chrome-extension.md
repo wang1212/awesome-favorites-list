@@ -49,6 +49,7 @@
 
 - `Tampermonkey` - 脚本管理工具。
   - [Greasy Fork](https://greasyfork.org/)
+  - [OpenUserJS](https://openuserjs.org/)
 
 [Go Top ↑](#awesome-chrome-extension-list)
 
