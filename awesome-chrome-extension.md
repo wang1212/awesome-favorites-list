@@ -46,7 +46,10 @@
 - ~~`Video Downloader professional` - 下载网站中的视频。~~
 - `LINE` - 日本即时通讯软件。
 - `skyZIP™ Proxy` - 网络代理。
- 
+
+- `Tampermonkey` - 脚本管理工具。
+  - [Greasy Fork](https://greasyfork.org/)
+
 [Go Top ↑](#awesome-chrome-extension-list)
 
 ### 开发工具
