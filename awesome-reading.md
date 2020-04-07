@@ -177,5 +177,6 @@
 - [Superhero.js](http://superherojs.com/) - 构建大型项目的一些技巧。
 - [Write an Open Source JavaScript Library](https://github.com/sarbbottam/write-an-open-source-js-lib)
 - [Library of Congress](https://www.loc.gov/) - 美国国会图书馆。
+- [A successful Git branching model](https://nvie.com/posts/a-successful-git-branching-model/)  
   
 [Go Top ↑](#awesome-reading-list)
