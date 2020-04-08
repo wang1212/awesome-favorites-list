@@ -99,6 +99,7 @@
 
 - HTTP Request
   - [axios](https://github.com/axios/axios) - 处理 HTTP 请求的工具库，非常方便。
+  - [form-data](https://github.com/form-data/form-data) - 创建 `multipart/form-data` 数据，并提供正确的 Headers。
   
 - DataBase
   - [mongodb](http://mongodb.github.io/node-mongodb-native/) - 高性能、分布式文档数据库，No SQL 数据库。
