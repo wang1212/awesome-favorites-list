@@ -220,6 +220,7 @@
 - Utils
   - [Lodash](https://lodash.com/) - JavaScript 的工具函数库，提供了大量非常有用的工具函数，并采用惰性计算优化了性能。
   - [RxJS](https://rxjs.dev/) - 响应式编程（Reactive Extensions）的 JavaScript 实现，对异步数据集合处理很方便。
+  - [clsx](https://github.com/lukeed/clsx) - 非常轻量的 CSS 类名拼接工具。
 
 - Date & Time
   - [Moment.js](https://momentjs.com/) - 功能强大的日期、时间处理库。
