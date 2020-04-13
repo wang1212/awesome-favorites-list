@@ -21,6 +21,7 @@
   - [混合应用（Hybrid App）](awesome-hybrid-app.md)
 - [GIS 开发（GIS Development）](awesome-gis.md)
 - [软件（Software）](#软件)
+  - [应用程序商店（Application store）](#应用程序商店)
   - [软件包管理器（Software Package Manager）](#软件包管理器)
   - [Chrome 扩展程序（Chrome Extension）](awesome-chrome-extension.md)
   - [IDE/编辑器（IDE/Editor）](#ide-编辑器)
@@ -28,6 +29,7 @@
   - [开发辅助工具（Developer Aids）](#开发辅助工具)
   - [设计（Design）](#设计)
   - [日常办公（Office）](#日常办公)
+  - [其它（Others）](#其它)
 - [读物（Reading）](awesome-reading.md)
 - [其它资源（Others）](#其它资源)
 - [贡献（Contribution）](#贡献)
@@ -36,12 +38,16 @@
 
 *Awesome Software.*
 
+### 应用程序商店
+
+*Application store.*
+
 - [APKMirror](https://www.apkmirror.com/) - 安卓应用下载网站，更新较为及时。
+- [APKPure](https://apkpure.com/)
+- [APKLinker](https://www.apklinker.com/)
 - [Apk Follow](https://www.apkfollow.com/)
 - [softonic](https://en.softonic.com) - 覆盖全端软件的下载网站。
 - [SourceForge.net](https://sourceforge.net/)
-- [Slant](https://www.slant.co/) - 搜索最佳实践。
-- [LibHunt](https://www.libhunt.com/) - 收集了各种库的网站。
 
 ### 软件包管理器
 
@@ -132,6 +138,13 @@
 - [mermaid](https://github.com/mermaid-js/mermaid) - txt 文件生成流程图。
 - [nodeppt](https://github.com/ksky521/nodeppt)
 - [Chromium](https://chromium.woolyss.com/download/) - [Chromium](https://www.chromium.org/) 浏览器安装包下载，[**非官方网站**](https://chromium.woolyss.com/#notes)。
+
+### 其它
+
+*Uncategorized software.*
+
+- [Slant](https://www.slant.co/) - 搜索最佳实践。
+- [LibHunt](https://www.libhunt.com/) - 收集了各种库的网站。
 
 [Go Top ↑](#awesome-favorites-list)
 
