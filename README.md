@@ -36,7 +36,8 @@
 
 *Awesome Software.*
 
-- [Apk Follow](https://www.apkfollow.com/) - 安卓应用下载网站，更新较为及时。
+- [APKMirror](https://www.apkmirror.com/) - 安卓应用下载网站，更新较为及时。
+- [Apk Follow](https://www.apkfollow.com/)
 - [softonic](https://en.softonic.com) - 覆盖全端软件的下载网站。
 - [SourceForge.net](https://sourceforge.net/)
 - [Slant](https://www.slant.co/) - 搜索最佳实践。
