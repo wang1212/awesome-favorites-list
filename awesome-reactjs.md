@@ -19,6 +19,9 @@
 - [路由管理（Route Management）](#路由管理)
 - [优化方案（Application Optimization）](#优化方案)
 - [UI 组件库（UI Component Library）](#ui-组件库)
+  - [Google Material Design](#google-material-design)
+  - [Bootstrap](#bootstrap)
+  - [其它（Others）](#其它)
 - [数据可视化（Data Visualization）](#数据可视化)
 - [其它（Others）](#其它)
 
@@ -83,16 +86,30 @@
 
 *Feature-rich component library built on React.js.*
 
-- All
-  - [Material UI](https://material-ui.com/) - 实现了 Google Material Design，组件非常丰富。
-  - [React Toolbox](http://react-toolbox.io/) - 实现了 Google Material Design。
-  - [Grommet](https://v2.grommet.io/)
+### Google Material Design
+
+*Component library that implements [Google Material Design](https://www.material.io/).*
+
+- [MDC React](https://github.com/material-components/material-components-web-react) - 实现了 Google Material Design，**Google 官方实现**。
+- [Material UI](https://material-ui.com/) - 实现了 Google Material Design，组件非常丰富。
+- [Framework7-React](https://framework7.io/react/) - 跨平台 UI 组件库，支持 Android/ios/Desktop，且自适应相应平台设计风格。  
+- [React Toolbox](http://react-toolbox.io/) - 实现了 Google Material Design。
+  
+### Bootstrap
+  
+*Based on [Bootstrap](https://getbootstrap.com/)*.
+
+- [reactstrap](https://reactstrap.github.io/) - 基于 Bootstrap 4，**非 Bootstrap 官方实现**。
+- [react-bootstrap](https://github.com/react-bootstrap/react-bootstrap) - 基于 Bootstrap 4，**非 Bootstrap 官方实现**。
+
+### 其它
+
+*Single component or other design style component library.*
+
+- Library
   - [Office UI Fabric React](https://developer.microsoft.com/en-us/fabric) - Office UI 风格，**Microsoft 官方发布**。
   - [Semantic UI](https://react.semantic-ui.com/)
-  - [reactstrap](https://reactstrap.github.io/) - 基于 Bootstrap 4，**非 Bootstrap 官方实现**。
-  - [react-bootstrap](https://github.com/react-bootstrap/react-bootstrap) - 基于 Bootstrap 4，**非 Bootstrap 官方实现**。
-  - [MDC React](https://github.com/material-components/material-components-web-react) - 实现了 Google Material Design，**Google 官方实现**。
-  - [Framework7-React](https://framework7.io/react/) - 跨平台 UI 组件库，支持 Android/ios/Desktop，且自适应相应平台设计风格。
+  - [Grommet](https://v2.grommet.io/)
 
 - File Upload
   - [react-dropzone](https://react-dropzone.js.org/) - 文件上传组件，支持 Hook API。
