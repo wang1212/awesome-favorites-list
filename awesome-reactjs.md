@@ -86,6 +86,8 @@
 
 *Feature-rich component library built on React.js.*
 
+*（Recommend）推荐一个其它的收藏列表，:point_right: https://github.com/brillout/awesome-react-components*
+
 ### Google Material Design
 
 *Component library that implements [Google Material Design](https://www.material.io/).*
@@ -130,5 +132,6 @@
 *Other unclassified resources.*
 
 - [React-JSS](https://cssinjs.org/react-jss) - JSS 是 CSS-in-JS 的一种解决方案，这个是与 React 的集成方案。
+- [awesome-react-hooks](https://github.com/brillout/awesome-react-components)
 
 [Go Top ↑](#awesome-reactjs-list)
