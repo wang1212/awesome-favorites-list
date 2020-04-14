@@ -74,7 +74,7 @@
 
 - Lazy Load && Code Split
   - [loadable-components](https://www.smooth-code.com/open-source/loadable-components/) - 提供组件懒加载的功能，支持服务器端渲染（SSR）。
-  - [React-Loadable](https://github.com/jamiebuilds/react-loadable) - React 高阶组件，提供了组件懒加载功能的实现，并处理了细节问题。（:warning: 不再建议使用）
+  - [React-Loadable](https://github.com/jamiebuilds/react-loadable) - React 高阶组件，提供了组件懒加载功能的实现，并处理了细节问题。（:warning: 不再更新）
 
 - SSR - Server-side rendering
   - [Next.js](https://nextjs.org) - React.js 服务器端渲染框架。
@@ -113,6 +113,13 @@
 
 - File Upload
   - [react-dropzone](https://react-dropzone.js.org/) - 文件上传组件，支持 Hook API。
+
+- Image
+  - [React Carousel Image Gallery](https://github.com/xiaolin/react-image-gallery) - 图片轮播组件。
+  - [React Images](https://jossmac.github.io/react-images) - 图片点击原图查看、列表。
+  - [React Image Lightbox](https://frontend-collective.github.io/react-image-lightbox/) - 图片点击原图查看、列表、缩放。
+  - [React lightbox component](https://github.com/jfcaiceo/react-lightbox-component) - 图片点击原图查看、列表、缩放、旋转。（:warning: 不再更新）
+  - [react-zmage](https://zmage.caldis.me/) - 图片点击原图查看、列表、旋转。
 
 ## 数据可视化
 
