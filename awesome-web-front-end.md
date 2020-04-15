@@ -246,15 +246,20 @@
   - [Two.js](https://two.js.org/) - Web 二维绘图工具库，基于 Canvas、Svg、WebGL。
   
 - File
-  - [FileSaver.js](https://github.com/eligrey/FileSaver.js/) - Web 浏览器客户端文件保存 api 实现。
-  - [StreamSaver.js](https://github.com/jimmywarting/StreamSaver.js) - Web 浏览器客户端异步保存文件 api 实现，解决了 FileSaver 的大小限制问题。
-  - [JSZip](https://github.com/Stuk/jszip) - 创建/读写 zip 文件。
-  - [xlsx](https://sheetjs.com/) - 读、写 xlsx、csv 文件（写功能部分特性不免费）。
-  - [exceljs](https://github.com/exceljs/exceljs) - 读、写 xlsx、csv 文件。
-  - [jsPDF](https://github.com/MrRio/jsPDF) - Web 客户端生成 PDF 文件。
-  - [DropzoneJS](https://www.dropzonejs.com/) - 文件上传组件，支持拖放文件、图片预览功能。
-  - [filepond](https://pqina.nl/filepond/) - 文件上传组件，功能比较丰富。
-  
+  - utils
+    - [FileSaver.js](https://github.com/eligrey/FileSaver.js/) - Web 浏览器客户端文件保存 api 实现。
+    - [StreamSaver.js](https://github.com/jimmywarting/StreamSaver.js) - Web 浏览器客户端异步保存文件 api 实现，解决了 FileSaver 的大小限制问题。
+    - [DropzoneJS](https://www.dropzonejs.com/) - 文件上传组件，支持拖放文件、图片预览功能。
+    - [filepond](https://pqina.nl/filepond/) - 文件上传组件，功能比较丰富。
+  - zip
+    - [JSZip](https://github.com/Stuk/jszip) - 创建/读写 zip 文件。
+  - xlsx
+    - [xlsx](https://sheetjs.com/) - 读、写 xlsx、csv 文件（写功能部分特性不免费）。
+    - [exceljs](https://github.com/exceljs/exceljs) - 读、写 xlsx、csv 文件。
+  - pdf
+    - [PDF-LIB](https://pdf-lib.js.org/) - 解析和操作 PDF 文件。
+    - [jsPDF](https://github.com/MrRio/jsPDF) - Web 客户端生成 PDF 文件。
+    
 - H5 Media - Audio & Video
   - [video.js](https://videojs.com/) - 兼容大部分视频格式的视频播放器。
   - [MediaElement.js](http://www.mediaelementjs.com/) - 非常漂亮的视、音频播放器。
