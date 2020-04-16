@@ -127,6 +127,8 @@
 
 *Data visualization chart library, framework.*
 
+- [React-Vis](https://uber.github.io/react-vis/) - 图表可视化库，**Uber 团队开发**。
+
 ## 其它
 
 *Other unclassified resources.*
