@@ -140,11 +140,13 @@
 
 *Some high-quality, more interesting forum communities.*
 
+- [StackExchange](https://stackexchange.com/sites) - 一个链接多种类型问答社区的网络。
+
 ### 计算机技术
 
 *Computer technology and software development.*
 
-- [Stack Overflow](https://stackoverflow.com/) - 全球的程序员学习、分享，技术问答社区网站。
+- [Stack Overflow](https://stackoverflow.com/) - 全球程序员学习、分享，技术问答社区网站，**包含在 StackExchange 中**。
 - [CNode 社区](https://cnodejs.org/) - CNode 社区由一批热爱 Node.js 技术的工程师发起，致力于 Node.js 的技术研究。
 - [Ruby China](https://ruby-china.org/) - 由众多爱好者共同维护的 Ruby 中文社区。
 - [V2EX](https://v2ex.com/) - 一个汇集各类奇妙好玩的话题和流行动向的网站。
