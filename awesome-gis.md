@@ -16,10 +16,10 @@
 
 - [技术规范标准（Technical Specifications）](#技术规范标准)
 - [技术参考文档（Technical Reference Document）](#技术参考文档)
-- [Web GIS](#web-gis)
-  - [地图服务器（Map Server）](#地图服务器)
-  - [地图引擎（Map Engine）](#地图引擎)
-  - [开发工具（Tools）](#开发工具)
+- [地图服务器（Map Server）](#地图服务器)
+- [地图引擎（Map Engine）](#地图引擎)
+  - [WebGIS](#webgis)
+- [开发工具（Tools）](#开发工具)
 - [其它（Others）](#其它)
   - [平台（Platform）](#平台)
 
@@ -53,11 +53,7 @@
 
 [Go Top ↑](#awesome-gis-list)
 
-## Web GIS
-
-*Web GIS related application technology.*
-
-### 地图服务器
+## 地图服务器
 
 *Server application that can provide web map service resources.*
 
@@ -73,9 +69,15 @@
 - Others
   - [ArcGIS Server](https://enterprise.arcgis.com/) - 性能很好，**ESRI 公司开发的商业软件**。
 
-### 地图引擎
+[Go Top ↑](#awesome-gis-list)
 
-*Web Map Engine Framework.*
+## 地图引擎
+
+*Map Engine Framework.*
+
+### WebGIS
+
+*Web front-end map framework. :point_right: [WebGIS](http://www.webgis.com/)*
 
 - [Leaflet.js](https://leafletjs.com/) - 目前最流行的、移动端优先、轻量级 Web GIS 开源框架。
   - [Leaflet.draw](https://github.com/Leaflet/Leaflet.draw) - Leaflet 插件，矢量绘图、编辑工具，**Leaflet 官方发布**。
@@ -95,7 +97,9 @@
 
 - [MapillaryJS](https://mapillary.github.io/mapillary-js/) - 街景地图引擎，可与众多地图引擎（Leaflet/Openlayers/Mapbox GL 等）搭配使用。
 
-### 开发工具
+[Go Top ↑](#awesome-gis-list)
+
+## 开发工具
 
 *Some development aid libraries, such as geometric calculation analysis, coordinate conversion, data type conversion, etc.*
 
