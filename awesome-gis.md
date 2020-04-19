@@ -98,7 +98,7 @@
 
 - [Cesium.js](https://cesiumjs.org/) - 目前最具优势的、功能丰富的开源三维地图引擎。
 
-- [Mapbox GL](https://docs.mapbox.com/mapbox-gl-js/overview/) - 基于 WebGL 技术的现代化地图引擎，**MapBox 公司开发**。
+- [Mapbox GL](https://docs.mapbox.com/mapbox-gl-js/overview/) - 基于 WebGL 技术的现代化地图引擎，**Mapbox 公司开发**。
   - [React Mapbox GL](https://uber.github.io/react-map-gl/) - 基于 React.js 集成了 MapBox GL 的实现，**Uber 公司维护**。
 
 - [DECK.GL](https://deck.gl/) - 由 WebGL 驱动的大数据可视化框架，**Uber 公司开发**。
@@ -141,6 +141,8 @@
 - [mapshaper](https://mapshaper.org/) - 数据编辑，支持 Shapefile、GeoJSON、TopoJSON、DBF 和 CSV 格式，可在线预览转换，支持命令行，不提供坐标转换（支持 Node.js）。
 - [shapefile](https://github.com/mbostock/shapefile) - Shapefile 转 GeoJSON，支持命令行（支持 Node.js）。
 - [shp2geojson.js](https://github.com/gipong/shp2geojson.js) - Shapefile 转 GeoJSON，可在线预览转换，支持坐标系转换。
+- [Geobuf](https://github.com/mapbox/geobuf) - 对 GeoJSON 数据进行 [protocol buffers](https://developers.google.com/protocol-buffers) 编/解码，大幅减小体积，加快网络传输速度，**Mapbox 公司发布**（支持 Node.js）。
+  - [pbd](https://github.com/mapbox/pbf) - protocol buffers 编/解码，**Mapbox 公司发布**（支持 Node.js）。
 
 ### Node.js
 
