@@ -19,7 +19,12 @@
 - [地图服务器（Map Server）](#地图服务器)
 - [地图引擎（Map Engine）](#地图引擎)
   - [WebGIS](#webgis)
-- [开发工具（Tools）](#开发工具)
+  - [移动 GIS（Mobile GIS）](#mobile-gis)
+- [空间数据库（Spatial Database）](#空间数据库)
+- [地理空间库（Geospatial Library）](#地理空间库)
+  - [C++](#c++)
+  - [Browser](#browser)
+  - [Node.js](#nodejs)
 - [其它（Others）](#其它)
   - [平台（Platform）](#平台)
 
@@ -77,40 +82,68 @@
 
 ### WebGIS
 
-*Web front-end map framework. :point_right: [WebGIS](http://www.webgis.com/)*
+*WebGIS, Web front-end map framework. :point_right: [WebGIS](http://www.webgis.com/)*
+
+- [ArcGIS API for JavaScript](https://developers.arcgis.com/javascript/) - 2D/3D 地图引擎，**ESRI 公司开发**。
 
 - [Leaflet.js](https://leafletjs.com/) - 目前最流行的、移动端优先、轻量级 Web GIS 开源框架。
   - [Leaflet.draw](https://github.com/Leaflet/Leaflet.draw) - Leaflet 插件，矢量绘图、编辑工具，**Leaflet 官方发布**。
   - [Leaflet.fullscreen](https://github.com/Leaflet/Leaflet.fullscreen) - Leaflet 插件，地图全屏显示，**Leaflet 官方发布**。
   - [Leaflet-measure](https://github.com/ljagis/leaflet-measure) - Leaflet 插件，面积、距离测量。
   - [esri-Leaflet](https://github.com/Esri/esri-leaflet) - Leaflet 插件，用于在 Leaflet 中使用 ArcGIS 地图服务的一组轻量级 api，**ESRI 官方实现**。
+  - [Tangram](https://github.com/tangrams/tangram) - Leaflet 插件，基于 WebGL 技术，利用矢量数据实时渲染 2D 和 3D 地图的引擎。
+  - [wrld.js](https://www.wrld3d.com/) -  Leaflet 插件，基于 WebGL 技术的 3D 地图引擎。
   
 - [Openlayers](https://openlayers.org/) - 一个开源的、高性能、功能丰富的二维地图引擎。
 
 - [Cesium.js](https://cesiumjs.org/) - 目前最具优势的、功能丰富的开源三维地图引擎。
 
-- [Mapbox GL](https://docs.mapbox.com/mapbox-gl-js/overview/) - 一个开源的、基于 WebGL 技术的现代化地图引擎，由 MapBox 公司进行持续维护。
+- [Mapbox GL](https://docs.mapbox.com/mapbox-gl-js/overview/) - 基于 WebGL 技术的现代化地图引擎，**MapBox 公司开发**。
   - [DECK.GL](https://deck.gl/) - 由 WebGL 驱动的大数据可视化框架，**Uber 公司开发**。
   - [React Mapbox GL](https://uber.github.io/react-map-gl/) - 基于 React.js 集成了 MapBox GL 的实现，**Uber 公司维护**。
-  
-- [wrld.js](https://www.wrld3d.com/) - 基于 Leaflet.js 的 WebGL 3D 地图引擎。
 
 - [MapillaryJS](https://mapillary.github.io/mapillary-js/) - 街景地图引擎，可与众多地图引擎（Leaflet/Openlayers/Mapbox GL 等）搭配使用。
 
+### 移动 GIS
+
+*Mobile GIS, native map framework for mobile devices such as Android and IOS.*
+
+- [Tangram ES](https://github.com/tangrams/tangram-es) - C++ 库，使用 OpenGL ES 从矢量数据渲染 2D 和 3D 地图。
+- [Mapbox GL Native](https://www.mapbox.com/mobile/) - C++ 库，使用 OpenGL ES（或 Metal） 渲染引擎和 MVT 矢量数据渲染地图，支持完全的自定义样式。
+
 [Go Top ↑](#awesome-gis-list)
 
-## 开发工具
+## 空间数据库
 
-*Some development aid libraries, such as geometric calculation analysis, coordinate conversion, data type conversion, etc.*
+*Spatial data, support geographic data storage, analysis, etc.*
 
-- Utils
-  - [Turf.js](http://turfjs.org/) - 一个开源的提供给浏览器和 Node.js 平台进行高级空间分析的工具库。
-  - [JSTS](https://github.com/bjornharrtell/jsts) - 开源的空间分析库。
-  - [proj4js](http://proj4js.org/) - proj4 的 JavaScript 实现，可进行坐标系统转换。
-  - [Mapnik](https://mapnik.org/) - 地图数据可视化库。
-  - [mapshaper](https://mapshaper.org/) - 数据编辑，支持 Shapefile、GeoJSON、TopoJSON、DBF 和 CSV 格式，可在线预览转换，支持命令行，不提供坐标转换。
-  - [shapefile](https://github.com/mbostock/shapefile) - Shapefile 转 GeoJSON，支持命令行。
-  - [shp2geojson.js](https://github.com/gipong/shp2geojson.js) - Shapefile 转 GeoJSON，可在线预览转换，支持坐标系转换。
+- [PostGIS](https://postgis.net/) - 基于 [PostgreSQL](https://www.postgresql.org/) 数据库的空间扩展，提供了高级、复杂、强大的空间分析功能。
+- [SpatiaLite](https://www.gaia-gis.it/fossil/libspatialite/home) - 基于 [SQLite](https://www.sqlite.org/index.html) 数据库的空间扩展，轻量级完整的空间数据库。
+
+[Go Top ↑](#awesome-gis-list)
+
+## 地理空间库
+
+*Geospatial libraries, some libraries or modules that support manipulation of geospatial data.*
+
+### C++
+
+- [Mapnik](https://mapnik.org/) - 空间数据可视化（支持 Node.js、Python）。
+
+### Browser
+
+*Available in browser（JavaScript）.*
+
+- [Turf.js](http://turfjs.org/) - 高级空间分析的工具库（支持 Node.js）。
+- [JSTS](https://github.com/bjornharrtell/jsts) - 开源的空间分析库。
+- [proj4js](http://proj4js.org/) - proj4 的 JavaScript 实现，可进行坐标系统转换（支持 Node.js）。
+- [mapshaper](https://mapshaper.org/) - 数据编辑，支持 Shapefile、GeoJSON、TopoJSON、DBF 和 CSV 格式，可在线预览转换，支持命令行，不提供坐标转换（支持 Node.js）。
+- [shapefile](https://github.com/mbostock/shapefile) - Shapefile 转 GeoJSON，支持命令行（支持 Node.js）。
+- [shp2geojson.js](https://github.com/gipong/shp2geojson.js) - Shapefile 转 GeoJSON，可在线预览转换，支持坐标系转换。
+
+### Node.js
+
+_**Tips:** Most of what is available in the browser can also be used in Node.js._
 
 [Go Top ↑](#awesome-gis-list)
 
@@ -132,5 +165,6 @@
 - [GeoConverter](https://geoconverter.hsr.ch/) - 通过 Web 在线地图服务导出 GeoTiff 数据。
 - [TileJSON.io](https://tilejson.io/)
 - [GeoJSON.io](http://geojson.io/)
+- [Skia](https://skia.org/) - 2D 绘图库。
 
 [Go Top ↑](#awesome-gis-list)
