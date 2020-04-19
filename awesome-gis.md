@@ -99,8 +99,9 @@
 - [Cesium.js](https://cesiumjs.org/) - 目前最具优势的、功能丰富的开源三维地图引擎。
 
 - [Mapbox GL](https://docs.mapbox.com/mapbox-gl-js/overview/) - 基于 WebGL 技术的现代化地图引擎，**MapBox 公司开发**。
-  - [DECK.GL](https://deck.gl/) - 由 WebGL 驱动的大数据可视化框架，**Uber 公司开发**。
   - [React Mapbox GL](https://uber.github.io/react-map-gl/) - 基于 React.js 集成了 MapBox GL 的实现，**Uber 公司维护**。
+
+- [DECK.GL](https://deck.gl/) - 由 WebGL 驱动的大数据可视化框架，**Uber 公司开发**。
 
 - [MapillaryJS](https://mapillary.github.io/mapillary-js/) - 街景地图引擎，可与众多地图引擎（Leaflet/Openlayers/Mapbox GL 等）搭配使用。
 
