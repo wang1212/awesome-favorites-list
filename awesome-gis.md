@@ -23,8 +23,7 @@
 - [空间数据库（Spatial Database）](#空间数据库)
 - [地理空间库（Geospatial Library）](#地理空间库)
   - [C++](#c++)
-  - [Browser](#browser)
-  - [Node.js](#nodejs)
+  - [JavaScript](#javascript)
 - [其它（Others）](#其它)
   - [平台（Platform）](#平台)
 
@@ -131,9 +130,9 @@
 
 - [Mapnik](https://mapnik.org/) - 空间数据可视化（支持 Node.js、Python）。
 
-### Browser
+### JavaScript
 
-*Available in browser（JavaScript）.*
+_Available in browser（JavaScript）. **Tips:** Most of what is available in the browser can also be used in Node.js._
 
 - [Turf.js](http://turfjs.org/) - 高级空间分析的工具库（支持 Node.js）。
 - [JSTS](https://github.com/bjornharrtell/jsts) - 开源的空间分析库。
@@ -142,11 +141,7 @@
 - [shapefile](https://github.com/mbostock/shapefile) - Shapefile 转 GeoJSON，支持命令行（支持 Node.js）。
 - [shp2geojson.js](https://github.com/gipong/shp2geojson.js) - Shapefile 转 GeoJSON，可在线预览转换，支持坐标系转换。
 - [Geobuf](https://github.com/mapbox/geobuf) - 对 GeoJSON 数据进行 [protocol buffers](https://developers.google.com/protocol-buffers) 编/解码，大幅减小体积，加快网络传输速度，**Mapbox 公司发布**（支持 Node.js）。
-  - [pbd](https://github.com/mapbox/pbf) - protocol buffers 编/解码，**Mapbox 公司发布**（支持 Node.js）。
-
-### Node.js
-
-_**Tips:** Most of what is available in the browser can also be used in Node.js._
+  - [pbf](https://github.com/mapbox/pbf) - protocol buffers 编/解码，**Mapbox 公司发布**（支持 Node.js）。
 
 [Go Top ↑](#awesome-gis-list)
 
@@ -169,5 +164,6 @@ _**Tips:** Most of what is available in the browser can also be used in Node.js.
 - [TileJSON.io](https://tilejson.io/)
 - [GeoJSON.io](http://geojson.io/)
 - [Skia](https://skia.org/) - 2D 绘图库。
+- [Mapzen](https://www.mapzen.com/)
 
 [Go Top ↑](#awesome-gis-list)
