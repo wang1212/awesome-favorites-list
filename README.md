@@ -88,6 +88,7 @@
   - [Coding](https://coding.net/) - 目前由腾讯入股，体验相比刚开始变差，不建议使用。
   - [Gitea](https://gitea.io/) - 提供跨平台的 Git 仓库托管平台搭建，开源。
   - [Gogs](https://gogs.io/)
+  - [Sourcetree](https://www.sourcetreeapp.com/) - 免费的 Git 客户端，支持 Windows 和 Mac。
   - [git-open](https://github.com/paulirish/git-open) - git 命令行工具，可直接在浏览器中打开仓库页面。
 
 - [Tortoise SVN](https://tortoisesvn.net/) - SVN 是一种传统的中心化管理的源代码版本控制工具，Tortoise SVN 提供了 GUI 来使用 SVN。
