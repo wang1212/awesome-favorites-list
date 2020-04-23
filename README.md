@@ -48,6 +48,7 @@
 - [Apk Follow](https://www.apkfollow.com/)
 - [softonic](https://en.softonic.com) - 覆盖全端软件的下载网站。
 - [SourceForge.net](https://sourceforge.net/)
+- [OSDN](https://osdn.net/) - 开源软件下载。
 
 ### 软件包管理器
 
@@ -114,6 +115,21 @@
     
 - Code formatting
   - [Prettier](https://prettier.io/)
+
+- Linux CLI Tools
+  - [Z-Shell](https://www.zsh.org/)
+    - [Oh My Zsh](https://ohmyz.sh/) - 管理 Z-Shell 配置的框架。
+
+- Windows CLI Tools
+  - [Git Bash](https://gitforwindows.org/)
+  - [MSYS2](https://www.msys2.org/) - 基于 Cygwin 和 MinGW-w64 对 MSYS 的重写，支持 Bash、Git 等更多特性。
+  - [MinGW](http://www.mingw.org/) - Minimalist GNU for Windows，不支持 POSIX。
+  - [Cygwin](http://www.cygwin.com/) - GNU 和开源工具的集合，支持 POSIX。
+  - [ConEmu](https://conemu.github.io/)
+  - [Clink](https://mridgers.github.io/clink/)
+  - [hyper](https://hyper.is/)
+  - [Cmder](https://cmder.net/) - 基于 ConEmu 和 Clink 特性，采用 Monokai 颜色主题，支持 Git 等。
+  - [Far Manager](https://www.farmanager.com/) - Windows 系统纯文本的文件管理器。
 
 ### 设计
 
