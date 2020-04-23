@@ -191,7 +191,8 @@
     - [Anaconda](https://www.anaconda.com) - Python 发行版，开箱即用，包含了多个科学计算辅助库。	
 
 - 其它（Others）	
-  - [Pexels](https://www.pexels.com/zh-cn/) - 免费的摄影素材分享。	
+  - [Pexels](https://www.pexels.com/zh-cn/) - 免费的摄影素材分享。
+  - [Unsplash](https://unsplash.com/) - 免费的图片素材。
   - [ProductHunt](https://www.producthunt.com/) - 产品发布分享。		
 
 [Go Top ↑](#awesome-favorites-list)
