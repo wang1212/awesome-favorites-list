@@ -277,6 +277,10 @@
   - [DPlayer](http://dplayer.js.org/) - 视频播放器。
   - [Vime](https://vime-js.com/) - 视频播放器。
 
+- Others
+  - [Flip](https://github.com/pqina/flip/) - 时间、翻转、倒计时、计数器。
+  - [FilePond ](https://pqina.nl/filepond/) - 文件上传。
+
 ### 数据可视化
 
 *Data visualization libraries, such as chart libraries, 3D engines, etc.*
@@ -349,6 +353,7 @@
   - [bit](https://bit.dev/) - 构建可重用组件的协作平台。
   - [Prettier Playground](https://prettier.io/playground/) - Prettier 代码格式化工具的在线版本。
   - [Color Hunt](https://colorhunt.co/) - 配色方案。
+  - [Doka](https://doka.photo/) - 图片编辑工具。
 
 ### 其它
 
