@@ -12,14 +12,7 @@
 
 *Resource navigation list.*
 
-- Web 开发（Web Development）
-  - [前端（Web Front End）](awesome-web-front-end.md)
-    - [React.js](awesome-reactjs.md)
-  - [后端（Web Back End）](awesome-web-back-end.md)
-    - [Node.js](awesome-nodejs.md)
-- 移动应用开发（Mobile Application Development）
-  - [混合应用（Hybrid App）](awesome-hybrid-app.md)
-- [GIS 开发（GIS Development）](awesome-gis.md)
+- [读物（Reading）](awesome-reading.md)
 - [软件（Software）](#软件)
   - [应用程序商店（Application store）](#应用程序商店)
   - [软件包管理器（Software Package Manager）](#软件包管理器)
@@ -30,7 +23,14 @@
   - [设计（Design）](#设计)
   - [日常办公（Office）](#日常办公)
   - [其它（Others）](#其它)
-- [读物（Reading）](awesome-reading.md)
+- 软件开发（Software Development）
+  - [Web 前端（Web Front-end）](awesome-web-front-end.md)
+    - [React.js](awesome-reactjs.md)
+  - [Web 后端（Web Backend）](awesome-web-back-end.md)
+  - 移动应用（Mobile Application）
+    - [混合应用（Hybrid App）](awesome-hybrid-app.md)
+  - [GIS 开发（GIS Development）](awesome-gis.md)
+  - [Node.js](awesome-nodejs.md)
 - [其它资源（Others）](#其它资源)
 - [贡献（Contribution）](#贡献)
 
