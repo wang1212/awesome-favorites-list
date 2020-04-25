@@ -128,7 +128,9 @@
 
 ### C++
 
-- [Mapnik](https://mapnik.org/) - 空间数据可视化（支持 Node.js、Python）。
+- [GDAL](https://gdal.org/) - 通用的栅格和矢量数据转换工具，OSGeo 开源项目。
+- [PROJ](https://proj.org/) - 通用的坐标转换工具，OSGeo 开源项目。
+- [Mapnik](https://mapnik.org/) - 空间数据可视化（支持 Node.js、Python），开源。
 
 ### JavaScript
 
@@ -136,7 +138,7 @@ _Available in browser（JavaScript）. **Tips:** Most of what is available in th
 
 - [Turf.js](http://turfjs.org/) - 高级空间分析的工具库（支持 Node.js）。
 - [JSTS](https://github.com/bjornharrtell/jsts) - 开源的空间分析库。
-- [proj4js](http://proj4js.org/) - proj4 的 JavaScript 实现，可进行坐标系统转换（支持 Node.js）。
+- [proj4js](http://proj4js.org/) - PROJ 的 JavaScript 实现，可进行坐标系统转换（支持 Node.js）。
 - [mapshaper](https://mapshaper.org/) - 数据编辑，支持 Shapefile、GeoJSON、TopoJSON、DBF 和 CSV 格式，可在线预览转换，支持命令行，不提供坐标转换（支持 Node.js）。
 - [shapefile](https://github.com/mbostock/shapefile) - Shapefile 转 GeoJSON，支持命令行（支持 Node.js）。
 - [shp2geojson.js](https://github.com/gipong/shp2geojson.js) - Shapefile 转 GeoJSON，可在线预览转换，支持坐标系转换。
