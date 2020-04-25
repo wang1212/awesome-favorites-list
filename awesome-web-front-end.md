@@ -25,6 +25,7 @@
 - [JavaScript](#javascript)
   - [构建工具（Build Tools）](#js-构建工具)
   - [工具库（Library）](#js-工具库)
+  - [UI 组件（UI Component）](#ui-组件)
   - [数据可视化（Data Visualization）](#数据可视化)
   - [开发框架（Framework）](#开发框架)
 - [资源（Resources）](#资源)
@@ -259,7 +260,14 @@
   - pdf
     - [PDF-LIB](https://pdf-lib.js.org/) - 解析和操作 PDF 文件。
     - [jsPDF](https://github.com/MrRio/jsPDF) - Web 客户端生成 PDF 文件。
-    
+
+### UI 组件
+
+*UI Component, provide out-of-the-box UI interface and interactive component library.*
+
+- Image
+  - [Viewer.js](https://fengyuanchen.github.io/viewerjs/) - 图片列表预览。
+
 - H5 Media - Audio & Video
   - [video.js](https://videojs.com/) - 兼容大部分视频格式的视频播放器。
   - [MediaElement.js](http://www.mediaelementjs.com/) - 非常漂亮的视、音频播放器。
@@ -267,6 +275,7 @@
   - [clappr](http://clappr.io/) - 视频播放器。
   - [APlayer](https://aplayer.js.org/) - 非常漂亮的音乐播放器。
   - [DPlayer](http://dplayer.js.org/) - 视频播放器。
+  - [Vime](https://vime-js.com/) - 视频播放器。
 
 ### 数据可视化
 
