@@ -23,11 +23,11 @@
 
 *Google officially released extensions.*
 
-- Everyday Tools - *Daily tools, such as language translation, note application, etc.*
+- 日常工具（Everyday Tools） - *Daily tools, such as language translation, note application, etc.*
   - `Google 翻译` - 可在页面上进行实时翻译。
   - `Google Keep` - 类似便签的简单应用。
 
-- Development Tools - *Development tools, very useful tools for developers.*
+- 开发工具（Development Tools） - *Development tools, very useful tools for developers.*
   - `Lighthouse` - 站点性能监测工具，可提供优化建议和报告。
 
 [Go Top ↑](#awesome-chrome-extension-list)
@@ -47,7 +47,12 @@
 - `LINE` - 日本即时通讯软件。
 - `skyZIP™ Proxy` - 网络代理。
 
-- `Tampermonkey` - 脚本管理工具。
+- 用户脚本管理器（userscript manager）
+  - [Tampermonkey](https://www.tampermonkey.net/) - 免费，基本支持所有浏览器。
+  - [Violentmonkey](https://violentmonkey.github.io/) - 开源的，基本支持所有浏览器。
+  - [Greasemonkey](https://addons.mozilla.org/en-US/firefox/addon/greasemonkey/) - 仅支持 FireFox。
+  
+- 用户脚本（userscript）
   - [Greasy Fork](https://greasyfork.org/)
   - [OpenUserJS](https://openuserjs.org/)
 
