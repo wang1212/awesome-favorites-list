@@ -203,6 +203,7 @@
   - [SortableJS](https://sortablejs.github.io/Sortable/) - 列表项拖放调整辅助库，支持 React.js、Vue.js 等。
   - [Mousetrap](https://github.com/ccampbell/mousetrap) - 可以很方便的处理键盘事件。
   - [Hotkeys](https://wangchujiang.com/hotkeys/) - 可以很方便的处理键盘事件。
+  - [Hotkey](https://github.com/github/hotkey) - 处理键盘按键事件。
 
 - HTTP - Ajax / Promise / fetch
   - [axios](https://github.com/axios/axios) - 基于 Promise 的 HTTP 客户端工具库。
