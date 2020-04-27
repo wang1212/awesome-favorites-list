@@ -21,13 +21,14 @@
   - [构建工具（Build Tools）](#css-构建工具)
   - [工具库（Library）](#css-工具库)
   - [字体图标（Font Icon）](#字体图标)
-  - [UI 框架（UI Framework）](#ui-框架)
 - [JavaScript](#javascript)
   - [构建工具（Build Tools）](#js-构建工具)
   - [工具库（Library）](#js-工具库)
-  - [UI 组件（UI Component）](#ui-组件)
   - [数据可视化（Data Visualization）](#数据可视化)
   - [开发框架（Framework）](#开发框架)
+- [UI 组件（UI Component）](#ui-组件)
+  - [组件库（Component Library）](#组件库)
+  - [独立组件（Independent Components）](#独立组件)
 - [资源（Resources）](#资源)
   - [在线工具（Online Tools）](#在线工具) 
   - [其它（Others）](#其它)
@@ -131,21 +132,6 @@
   - [Feather](https://feathericons.com/)
   - [Flat Icon](https://www.flaticon.com/)
   - [Icons8](https://icons8.com/) - 提供免费的图标设计工具。
-
-### UI 框架
-
-*UI framework, CSS library, component library.*
-
-- [Bootstrap](https://getbootstrap.com/) - 最流行的 CSS UI 框架。
-- [Materialize](https://materializecss.com/) - 最流行的实现了 Google Material Design 的 CSS UI 框架。
-- [Office UI Fabric Core](https://developer.microsoft.com/en-us/fabric) - Office 风格的 UI 库，**Microsoft 官方发布**。
-- [Material Design Lite](https://getmdl.io/) - Google 官方实现的基于 Material Design 的轻量级 CSS UI 框架，**Google 官方发布**。
-- [Semantic UI](https://semantic-ui.com)
-- [Material Components Web](https://material.io/develop/) - 基于 Material Design 的 Web 组件库，**Google 官方实现**。
-- [UIkit](https://getuikit.com/) - 轻量级的现代化前端 CSS 框架。
-- [Pure.CSS](https://purecss.io/) - 一组小的，响应式的 CSS 模块。
-- [Skeleton](http://getskeleton.com/)
-- [Framework7](https://framework7.io/) - 跨平台 UI 库，支持 Android/ios/Desktop 平台，且主题样式设计适配相应平台。
 
 [Go Top ↑](#awesome-web-front-end-list)
 
@@ -262,26 +248,6 @@
     - [PDF-LIB](https://pdf-lib.js.org/) - 解析和操作 PDF 文件。
     - [jsPDF](https://github.com/MrRio/jsPDF) - Web 客户端生成 PDF 文件。
 
-### UI 组件
-
-*UI Component, provide out-of-the-box UI interface and interactive component library.*
-
-- Image
-  - [Viewer.js](https://fengyuanchen.github.io/viewerjs/) - 图片列表预览。
-
-- H5 Media - Audio & Video
-  - [video.js](https://videojs.com/) - 兼容大部分视频格式的视频播放器。
-  - [MediaElement.js](http://www.mediaelementjs.com/) - 非常漂亮的视、音频播放器。
-  - [Plyr](https://plyr.io/) - 很棒的视、音频播放器。
-  - [clappr](http://clappr.io/) - 视频播放器。
-  - [APlayer](https://aplayer.js.org/) - 非常漂亮的音乐播放器。
-  - [DPlayer](http://dplayer.js.org/) - 视频播放器。
-  - [Vime](https://vime-js.com/) - 视频播放器。
-
-- Others
-  - [Flip](https://github.com/pqina/flip/) - 时间、翻转、倒计时、计数器。
-  - [FilePond ](https://pqina.nl/filepond/) - 文件上传。
-
 ### 数据可视化
 
 *Data visualization libraries, such as chart libraries, 3D engines, etc.*
@@ -302,6 +268,48 @@
 - [Vue.js](https://vuejs.org/)
 
 - [Angular.js](https://angularjs.org/) - Google 出品的 Web 前端开源库，是一个比较重型的功能齐全的前端开发框架。
+
+[Go Top ↑](#awesome-web-front-end-list)
+
+## UI 组件
+
+*UI Component*
+
+### 组件库
+
+*UI component library, providing a set of components with consistent design style.*
+
+- [Bootstrap](https://getbootstrap.com/) - 最流行的 CSS UI 框架。
+- [Materialize](https://materializecss.com/) - 最流行的实现了 Google Material Design 的 CSS UI 框架。
+- [Office UI Fabric Core](https://developer.microsoft.com/en-us/fabric) - Office 风格的 UI 库，**Microsoft 官方发布**。
+- [Material Design Lite](https://getmdl.io/) - Google 官方实现的基于 Material Design 的轻量级 CSS UI 框架，**Google 官方发布**。
+- [Semantic UI](https://semantic-ui.com)
+- [Material Components Web](https://material.io/develop/) - 基于 Material Design 的 Web 组件库，**Google 官方实现**。
+- [UIkit](https://getuikit.com/) - 轻量级的现代化前端 CSS 框架。
+- [Pure.CSS](https://purecss.io/) - 一组小的，响应式的 CSS 模块。
+- [Skeleton](http://getskeleton.com/)
+- [Framework7](https://framework7.io/) - 跨平台 UI 库，支持 Android/ios/Desktop 平台，且主题样式设计适配相应平台。
+
+### 独立组件
+
+*Independent UI components, only providing component modules that implement an interactive function.*
+
+- Image
+  - [Viewer.js](https://fengyuanchen.github.io/viewerjs/) - 图片列表预览。
+  - [Image Compare Viewer](https://image-compare-viewer.netlify.app/) - 图片对比预览。
+
+- H5 Media - Audio & Video
+  - [video.js](https://videojs.com/) - 兼容大部分视频格式的视频播放器。
+  - [MediaElement.js](http://www.mediaelementjs.com/) - 非常漂亮的视、音频播放器。
+  - [Plyr](https://plyr.io/) - 很棒的视、音频播放器。
+  - [clappr](http://clappr.io/) - 视频播放器。
+  - [APlayer](https://aplayer.js.org/) - 非常漂亮的音乐播放器。
+  - [DPlayer](http://dplayer.js.org/) - 视频播放器。
+  - [Vime](https://vime-js.com/) - 视频播放器。
+
+- Others
+  - [Flip](https://github.com/pqina/flip/) - 时间、翻转、倒计时、计数器。
+  - [FilePond ](https://pqina.nl/filepond/) - 文件上传。
 
 [Go Top ↑](#awesome-web-front-end-list)
 
