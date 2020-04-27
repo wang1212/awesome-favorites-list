@@ -57,6 +57,7 @@
 - Every day
   - [Webdesigner News](https://www.webdesignernews.com/) - 日报，针对 Web 设计师的新闻。
   - [Echo JS](https://www.echojs.com/) - 日报，Web 前端新闻。
+  - [CSS-Tricks](https://css-tricks.com/) - 日报，CSS 技术文章。
   
 - Weekly
   - [StatusCode Weekly](https://weekly.statuscode.com/) - 周刊，软件开发、Web 技术、软件架构等。
