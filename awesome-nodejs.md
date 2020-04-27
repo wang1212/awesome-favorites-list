@@ -120,10 +120,11 @@
     - [xlsx](https://sheetjs.com/) - 读、写 xlsx、csv 文件（写功能部分特性不免费）。
   - pdf
     - [PDF-LIB](https://pdf-lib.js.org/) - 解析和操作 PDF 文件。
-
-- HTML & XML Parse
-  - [cheerio](https://cheerio.js.org/) - 包装了[parse5](https://github.com/inikulin/parse5) 和 [htmlparser2](https://github.com/fb55/htmlparser2/) 的轻量级 HTML 文档解析库，具有类 jQuery 的 api。
-  - [puppeteer](https://github.com/puppeteer/puppeteer)
+  - html/xml
+    - [cheerio](https://cheerio.js.org/) - 包装了[parse5](https://github.com/inikulin/parse5) 和 [htmlparser2](https://github.com/fb55/htmlparser2/) 的轻量级 HTML 文档解析库，具有类 jQuery 的 api。
+    - [puppeteer](https://github.com/puppeteer/puppeteer)    
+  - markdown
+    - [Marked](https://marked.js.org/) - markdown 文件解析，转换成 HTML 文件。
 
 - HTML Template Engines
   - [EJS](https://ejs.co)
