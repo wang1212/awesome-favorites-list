@@ -199,6 +199,7 @@
 
 - Doc
   - [JSDoc](https://jsdoc.app/) - JavaScript 的 API 文档生成工具。
+  - [highlight.js](https://highlightjs.org/) - 页面代码高亮。
   
 - Test
   - [Mocha](https://mochajs.org/)
