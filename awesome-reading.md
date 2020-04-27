@@ -11,15 +11,16 @@
 *Resource navigation list.*
 
 - [数据（Data）](#数据)
-- [书籍（Book）](#书籍)
 - [期刊（Journal）](#期刊)
 - [论坛（Forum）](#论坛)
+- [书籍（Book）](#书籍)
 - [其它（Others）](#其它)
 
 ## 数据
 
 *More reliable consulting, data statistics, industry analysis and reporting platform.*
 
+- [199IT](http://www.199it.com/)
 - [IDC](https://www.idc.com/) - 国际数据公司（IDC）是面向信息技术，电信和消费者技术市场的市场情报，咨询服务和活动的全球领先提供商。
 - [艾瑞数据](https://data.iresearch.com.cn/) - 艾瑞汇集多家大型互联网企业数据，共同打造的互联网行业信息情报分析系统。
 - [BCG](https://www.bcg.com/)
@@ -29,7 +30,6 @@
 - [艾媒网](https://www.iimedia.cn/)
 - [DataEye](https://www.dataeye.com/report)
 - [CBNData](http://www.cbndata.com/)
-- [199IT](http://www.199it.com/)
 - [百度指数](http://index.baidu.com/)
 - [360 趋势](https://trends.so.com/)
 - [搜狗指数](http://index.sogou.com/)
@@ -43,6 +43,69 @@
 - [新榜](https://www.newrank.cn/public/info/list.html)
 - [微小宝](https://data.wxb.com/rank)
 - [国家数据](http://data.stats.gov.cn/)
+
+[Go Top ↑](#awesome-reading-list)
+
+## 期刊
+
+*Some classic and well-known journals, newspapers and magazines.*
+
+### 计算机技术
+
+*Computer technology and software development.*
+
+- Every day
+  - [Webdesigner News](https://www.webdesignernews.com/) - 日报，针对 Web 设计师的新闻。
+  - [Echo JS](https://www.echojs.com/) - 日报，Web 前端新闻。
+  
+- Weekly
+  - [StatusCode Weekly](https://weekly.statuscode.com/) - 周刊，软件开发、Web 技术、软件架构等。
+  - [Mobile Dev Weekly](https://mobiledevweekly.com/) - 周刊，移动应用（Web 和 Native）开发技术。
+  - [Frontend Focus](https://frontendfoc.us/) - 周刊，Web 前端技术资讯。
+  - [JavaScript Weekly](https://javascriptweekly.com/) - 周刊，JavaScript 技术。
+  - [JSK Weekly](https://javascriptkicks.com/) - 周刊，JavaScript 技术。
+  - [CSS Weekly](https://css-weekly.com/) - 周刊，CSS 技术。
+  - [Node Weekly](https://nodeweekly.com/) - 周刊，Node.js 技术。
+
+- Others
+  - [Technology Radar](https://www.thoughtworks.com/radar) - 六个月一期，[ThoughtWorks](https://www.thoughtworks.com/) 出品的技术雷达。
+
+[Go Top ↑](#awesome-reading-list)
+
+## 论坛
+
+*Some high-quality, more interesting forum communities.*
+
+- [StackExchange](https://stackexchange.com/sites) - 一个链接多种类型问答社区的网络。
+
+### 计算机技术
+
+*Computer technology and software development.*
+
+- [Stack Overflow](https://stackoverflow.com/) - 全球程序员学习、分享，技术问答社区网站，**包含在 StackExchange 中**。
+- [Front-End Front](https://frontendfront.com/) - 前端开发人员社区。
+- [CNode 社区](https://cnodejs.org/) - CNode 社区由一批热爱 Node.js 技术的工程师发起，致力于 Node.js 的技术研究。
+- [Ruby China](https://ruby-china.org/) - 由众多爱好者共同维护的 Ruby 中文社区。
+- [V2EX](https://v2ex.com/) - 一个汇集各类奇妙好玩的话题和流行动向的网站。
+- [SegmentFault](https://segmentfault.com/) - 国内一个类似 Stack Overflow 的程序员技术学习，问答社区网站。
+- [掘金社区](https://juejin.im/) - 国内一个帮助开发者成长的社区，有很多优质的技术文章。
+- [掘金翻译计划](https://github.com/xitu/gold-miner) - 掘金翻译计划，可能是世界最大最好的英译中技术社区，最懂读者和译者的翻译平台。
+- [图灵社区](http://www.ituring.com.cn/) - 国内一个出版计算机类相关书籍的社区，外文书翻译质量非常高，拥有很好的用户口碑。
+- [慕课网](https://www.imooc.com/) - 国内一个提供计算机开发技术学习课程收费服务的网站，有大量免费优质学习资源。
+- [Linux 公社](https://www.linuxidc.com/) - 国内一个论坛，内有大量 Linux 相关资源。
+
+### 文学
+
+*Literature related forum sites.*
+
+- [~~句子迷~~](https://www.juzimi.com/)
+- [古诗文网](https://www.gushiwen.org/)	
+
+### 金融经济
+
+- [MBA 智库百科](https://wiki.mbalib.com) - 比较专业的经管知识查询。
+
+[Go Top ↑](#awesome-reading-list)
 
 ## 书籍
 
@@ -118,55 +181,6 @@
 *Philosophical Books.*
 
 - 《苏菲的世界》[挪威] 乔斯坦·贾德
-
-[Go Top ↑](#awesome-reading-list)
-
-## 期刊
-
-*Some classic and well-known journals, newspapers and magazines.*
-
-### 计算机技术
-
-*Computer technology and software development.*
-
-- [Technology Radar](https://www.thoughtworks.com/radar) - 技术雷达，[ThoughtWorks](https://www.thoughtworks.com/) 出品。
-- [JavaScript-weekly](https://javascriptweekly.com/) - JavaScript 周刊。
-- [CSS-weekly](https://css-weekly.com/) - CSS 周刊。
-- [Node-weekly](https://nodeweekly.com/) - Node.js 周刊。
-
-[Go Top ↑](#awesome-reading-list)
-
-## 论坛
-
-*Some high-quality, more interesting forum communities.*
-
-- [StackExchange](https://stackexchange.com/sites) - 一个链接多种类型问答社区的网络。
-
-### 计算机技术
-
-*Computer technology and software development.*
-
-- [Stack Overflow](https://stackoverflow.com/) - 全球程序员学习、分享，技术问答社区网站，**包含在 StackExchange 中**。
-- [CNode 社区](https://cnodejs.org/) - CNode 社区由一批热爱 Node.js 技术的工程师发起，致力于 Node.js 的技术研究。
-- [Ruby China](https://ruby-china.org/) - 由众多爱好者共同维护的 Ruby 中文社区。
-- [V2EX](https://v2ex.com/) - 一个汇集各类奇妙好玩的话题和流行动向的网站。
-- [SegmentFault](https://segmentfault.com/) - 国内一个类似 Stack Overflow 的程序员技术学习，问答社区网站。
-- [掘金社区](https://juejin.im/) - 国内一个帮助开发者成长的社区，有很多优质的技术文章。
-- [掘金翻译计划](https://github.com/xitu/gold-miner) - 掘金翻译计划，可能是世界最大最好的英译中技术社区，最懂读者和译者的翻译平台。
-- [图灵社区](http://www.ituring.com.cn/) - 国内一个出版计算机类相关书籍的社区，外文书翻译质量非常高，拥有很好的用户口碑。
-- [慕课网](https://www.imooc.com/) - 国内一个提供计算机开发技术学习课程收费服务的网站，有大量免费优质学习资源。
-- [Linux 公社](https://www.linuxidc.com/) - 国内一个论坛，内有大量 Linux 相关资源。
-
-### 文学
-
-*Literature related forum sites.*
-
-- [~~句子迷~~](https://www.juzimi.com/)
-- [古诗文网](https://www.gushiwen.org/)	
-
-### 金融经济
-
-- [MBA 智库百科](https://wiki.mbalib.com) - 比较专业的经管知识查询。
 
 [Go Top ↑](#awesome-reading-list)
 
