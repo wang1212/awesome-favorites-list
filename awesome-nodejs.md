@@ -122,6 +122,7 @@
   - [commander](https://github.com/tj/commander.js) - 简单的命令行接口。
   - [inquirer](https://github.com/SBoudrias/Inquirer.js) - 交互式命令行。
   - [envinfo](https://github.com/tabrindle/envinfo) - 生成开发环境信息报告。
+  - [web-worker](https://github.com/developit/web-worker) - 在浏览器和 Node.js 环境中实现一致的 Web Worker API。
 
 - HTTP Server
   - [http-server](https://github.com/http-party/http-server) - 可快速启动一个 http 服务器。
@@ -131,6 +132,15 @@
 - HTTP Request
   - [axios](https://github.com/axios/axios) - 处理 HTTP 请求的工具库，非常方便。
   - [form-data](https://github.com/form-data/form-data) - 创建 `multipart/form-data` 数据，并提供正确的 Headers。
+  
+- HTML Template Engines
+  - [EJS](https://ejs.co)
+  - [Handlebars.js](http://handlebarsjs.com/)
+  - [Jade](http://jade-lang.com/)
+  
+- Image Process
+  - [sharp](https://sharp.pixelplumbing.com/) - 图像处理，拉伸、缩放、色彩提取等等，底层使用 [libvips](https://libvips.github.io/libvips/)，无需安装其它依赖，开箱即用，效率更高。
+  - [gm](http://aheckmann.github.io/gm/) - 图像处理，需先安装 [GraphicsMagick](http://www.graphicsmagick.org/) 或 [ImageMagick](https://imagemagick.org/index.php)。
   
 - File
   - utils tool
@@ -148,15 +158,13 @@
     - [puppeteer](https://github.com/puppeteer/puppeteer)    
   - markdown
     - [Marked](https://marked.js.org/) - markdown 文件解析，转换成 HTML 文件。
-
-- HTML Template Engines
-  - [EJS](https://ejs.co)
-  - [Handlebars.js](http://handlebarsjs.com/)
-  - [Jade](http://jade-lang.com/)
-  
-- Image Process
-  - [sharp](https://sharp.pixelplumbing.com/) - 图像处理，拉伸、缩放、色彩提取等等，底层使用 [libvips](https://libvips.github.io/libvips/)，无需安装其它依赖，开箱即用，效率更高。
-  - [gm](http://aheckmann.github.io/gm/) - 图像处理，需先安装 [GraphicsMagick](http://www.graphicsmagick.org/) 或 [ImageMagick](https://imagemagick.org/index.php)。
+  - zip
+    - [JSZip](https://stuk.github.io/jszip/) - 解析、生成 zip 文件，具有简单的 API。 
+    - [ADM-ZIP](https://github.com/cthackers/adm-zip)
+    - [Archiver](https://www.archiverjs.com/) - 生成存档文件的流式接口。
+    - [node-stream-zip](https://github.com/antelle/node-stream-zip) - 支持大的 zip 文件。
+  - csv
+    - [CSV](https://csv.js.org/) - 功能全面的 csv 文件生成、解析、转换、序列化工具。
 
 [Go Top ↑](#awesome-nodejs-list)
 
