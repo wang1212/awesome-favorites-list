@@ -24,11 +24,11 @@
 - [JavaScript](#javascript)
   - [构建工具（Build Tools）](#js-构建工具)
   - [工具库（Library）](#js-工具库)
-  - [数据可视化（Data Visualization）](#数据可视化)
   - [开发框架（Framework）](#开发框架)
 - [UI 组件（UI Component）](#ui-组件)
   - [组件库（Component Library）](#组件库)
   - [独立组件（Independent Components）](#独立组件)
+- [数据可视化（Data Visualization）](#数据可视化)
 - [资源（Resources）](#资源)
   - [在线工具（Online Tools）](#在线工具) 
   - [其它（Others）](#其它)
@@ -236,7 +236,7 @@
   - [Create.js](https://createjs.com) - 工具套件，包含 Canvas、Web Audio 等工具库。
   - [Konva](https://konvajs.org) - 用于桌面和移动应用程序的 HTML5 2D canvas 库。
   - [Two.js](https://two.js.org/) - Web 二维绘图工具库，基于 Canvas、Svg、WebGL。
-  
+
 - File
   - utils
     - [FileSaver.js](https://github.com/eligrey/FileSaver.js/) - Web 浏览器客户端文件保存 api 实现。
@@ -251,16 +251,12 @@
   - pdf
     - [PDF-LIB](https://pdf-lib.js.org/) - 解析和操作 PDF 文件。
     - [jsPDF](https://github.com/MrRio/jsPDF) - Web 客户端生成 PDF 文件。
-
-### 数据可视化
-
-*Data visualization libraries, such as chart libraries, 3D engines, etc.*
-
-- [D3](https://d3js.org/) - 数据驱动的可视化库，非常著名，许多图表库基于此开发。
-- [three.js](https://threejs.org/)
-- [Chart.js](https://www.chartjs.org/) - 最流行的轻量级图表库。
-- [Echarts](http://echarts.apache.org/) - 国内百度团队开发的图表库，功能丰富。
-- [C3](https://c3js.org/) - 基于 D3 的可重用图表库。
+  - image
+    - [Pica](http://nodeca.github.io/pica/demo/) - 图片质量调整。
+    - [merge-images](https://github.com/lukechilds/merge-images) - 图片拼接合并。
+    - [blurify](https://github.com/JustClear/blurify) - 图片模糊化。
+    - [Compressor.js](https://fengyuanchen.github.io/compressorjs/) - 图片压缩。
+    - [Lena.js](https://fellipe.com/demos/lena-js/) - 图片滤镜。
 
 ### 开发框架
 
@@ -301,6 +297,7 @@
 - Image
   - [Viewer.js](https://fengyuanchen.github.io/viewerjs/) - 图片列表预览。
   - [Image Compare Viewer](https://image-compare-viewer.netlify.app/) - 图片对比预览。
+  - [Cropper.js](https://fengyuanchen.github.io/cropperjs/) - 图片裁剪。
 
 - H5 Media - Audio & Video
   - [video.js](https://videojs.com/) - 兼容大部分视频格式的视频播放器。
@@ -314,6 +311,23 @@
 - Others
   - [Flip](https://github.com/pqina/flip/) - 时间、翻转、倒计时、计数器。
   - [FilePond ](https://pqina.nl/filepond/) - 文件上传。
+
+[Go Top ↑](#awesome-web-front-end-list)
+
+## 数据可视化
+
+*Data visualization libraries, such as chart libraries, 3D engines, etc.*
+
+- [D3](https://d3js.org/) - 数据驱动的可视化库，非常著名，许多图表库基于此开发。
+- [three.js](https://threejs.org/) - 强大的 JavaScript 3D 动画库。
+- [Chart.js](https://www.chartjs.org/) - 最流行的轻量级图表库。
+- [Echarts](http://echarts.apache.org/) - 国内百度团队开发的图表库，功能丰富。
+- [C3](https://c3js.org/) - 基于 D3 的可重用图表库。
+- [Anime.js](https://animejs.com/) - 轻量的 JavaScript 动画工具库。
+- [Popmotion](https://popmotion.io/pure/) - 实用、灵活的 JavaScript 动画工具库。
+- [mo.js](https://mojs.github.io/) - 丰富，强大的运动图形动画工具库。
+- [GSAP](https://greensock.com/) - 现代化的高性能动画工具库。
+- [Animate.css](https://daneden.github.io/animate.css/) - 丰富的 CSS 动画工具库。
 
 [Go Top ↑](#awesome-web-front-end-list)
 
