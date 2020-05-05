@@ -23,6 +23,7 @@
   - [Bootstrap](#bootstrap)
   - [其它（Others）](#其它)
 - [数据可视化（Data Visualization）](#数据可视化)
+- [Hook](#hook)
 - [其它（Others）](#其它)
 
 ## 构建工具
@@ -123,11 +124,25 @@
   - [React lightbox component](https://github.com/jfcaiceo/react-lightbox-component) - 图片点击原图查看、列表、缩放、旋转。（:warning: 不再更新）
   - [react-zmage](https://zmage.caldis.me/) - 图片点击原图查看、列表、旋转。
 
+[Go Top ↑](#awesome-reactjs-list)
+
 ## 数据可视化
 
 *Data visualization chart library, framework.*
 
 - [React-Vis](https://uber.github.io/react-vis/) - 图表可视化库，**Uber 团队开发**。
+
+[Go Top ↑](#awesome-reactjs-list)
+
+## Hook
+
+*Useful [React Hook](https://reactjs.org/docs/hooks-intro.html) tool.*
+
+（Recommend）推荐一个其它的很棒的收藏列表，:point_right: https://github.com/rehooks/awesome-react-hooks
+
+- [useWorker](https://useworker.js.org/) - 使用 Web Worker 运行复杂任务，创建非阻塞 UI。
+
+[Go Top ↑](#awesome-reactjs-list)
 
 ## 其它
 
