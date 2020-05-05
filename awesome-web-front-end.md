@@ -257,6 +257,8 @@
     - [blurify](https://github.com/JustClear/blurify) - 图片模糊化。
     - [Compressor.js](https://fengyuanchen.github.io/compressorjs/) - 图片压缩。
     - [Lena.js](https://fellipe.com/demos/lena-js/) - 图片滤镜。
+  - audio
+    - [howler.js](https://howlerjs.com/) - 强大的音频处理工具库，支持所有的编解码器，跨浏览器支持。
 
 ### 开发框架
 
@@ -311,6 +313,7 @@
 - Others
   - [Flip](https://github.com/pqina/flip/) - 时间、翻转、倒计时、计数器。
   - [FilePond ](https://pqina.nl/filepond/) - 文件上传。
+  - [reveal.js](https://revealjs.com/) - 创建漂亮的演示文稿（幻灯片）。
 
 [Go Top ↑](#awesome-web-front-end-list)
 
@@ -320,6 +323,7 @@
 
 - [D3](https://d3js.org/) - 数据驱动的可视化库，非常著名，许多图表库基于此开发。
 - [three.js](https://threejs.org/) - 强大的 JavaScript 3D 动画库。
+- [PixiJS](https://www.pixijs.com/) - 高性能 2D WebGL 渲染引擎。
 - [Chart.js](https://www.chartjs.org/) - 最流行的轻量级图表库。
 - [Echarts](http://echarts.apache.org/) - 国内百度团队开发的图表库，功能丰富。
 - [C3](https://c3js.org/) - 基于 D3 的可重用图表库。
