@@ -332,6 +332,7 @@
 - [mo.js](https://mojs.github.io/) - 丰富，强大的运动图形动画工具库。
 - [GSAP](https://greensock.com/) - 现代化的高性能动画工具库。
 - [Animate.css](https://daneden.github.io/animate.css/) - 丰富的 CSS 动画工具库。
+- [lax.js](https://github.com/alexfoxy/laxxx) - 简单、轻量的工具库，创建平滑的滚动动画。
 
 [Go Top ↑](#awesome-web-front-end-list)
 
