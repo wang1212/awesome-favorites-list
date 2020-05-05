@@ -191,7 +191,14 @@
 - Test
   - [Mocha](https://mochajs.org/)
   - [JEST](https://jestjs.io/) - Facebook 出品的 JavaScript 单元测试工具。
-  
+ 
+- Utils
+  - [Underscore](https://underscorejs.org/) - JavaScript 的工具函数库，提供了大量非常有用的工具函数。
+  - [Lodash](https://lodash.com/) - JavaScript 的工具函数库，参考自 Underscore，功能更丰富。
+  - [Ramda](https://ramdajs.com/) - JavaScript 的工具函数库，适用于函数式编程。
+  - [RxJS](https://rxjs.dev/) - 响应式编程（Reactive Extensions）的 JavaScript 实现，对异步数据集合处理很方便。
+  - [clsx](https://github.com/lukeed/clsx) - 非常轻量的 CSS 类名拼接工具。
+ 
 - DOM
   - [jQuery](https://jquery.com/) - 前几年非常流行的 DOM 操作工具库，处理了兼容性的细节问题。
   - [Zepto.js](https://zeptojs.com/) - 兼容 jQuery API 的轻量级工具库，适合移动端使用。
@@ -207,11 +214,6 @@
 
 - HTTP - Ajax / Promise / fetch
   - [axios](https://github.com/axios/axios) - 基于 Promise 的 HTTP 客户端工具库。
-
-- Utils
-  - [Lodash](https://lodash.com/) - JavaScript 的工具函数库，提供了大量非常有用的工具函数，并采用惰性计算优化了性能。
-  - [RxJS](https://rxjs.dev/) - 响应式编程（Reactive Extensions）的 JavaScript 实现，对异步数据集合处理很方便。
-  - [clsx](https://github.com/lukeed/clsx) - 非常轻量的 CSS 类名拼接工具。
 
 - Date & Time
   - [Moment.js](https://momentjs.com/) - 功能强大的日期、时间处理库。
