@@ -138,10 +138,6 @@
   - [Handlebars.js](http://handlebarsjs.com/)
   - [Jade](http://jade-lang.com/)
   
-- Image Process
-  - [sharp](https://sharp.pixelplumbing.com/) - 图像处理，拉伸、缩放、色彩提取等等，底层使用 [libvips](https://libvips.github.io/libvips/)，无需安装其它依赖，开箱即用，效率更高。
-  - [gm](http://aheckmann.github.io/gm/) - 图像处理，需先安装 [GraphicsMagick](http://www.graphicsmagick.org/) 或 [ImageMagick](https://imagemagick.org/index.php)。
-  
 - File
   - utils tool
     - [fs-extra](https://github.com/jprichardson/node-fs-extra) - 作为官方原生 [fs](https://nodejs.org/api/fs.html) 模块的补充和优化。
@@ -151,6 +147,9 @@
   - xlsx
     - [exceljs](https://github.com/exceljs/exceljs) - 读、写 xlsx、csv 文件。
     - [xlsx](https://sheetjs.com/) - 读、写 xlsx、csv 文件（写功能部分特性不免费）。
+  - csv
+    - [CSV](https://csv.js.org/) - 功能全面的 csv 文件生成、解析、转换、序列化工具。
+    - [Papa Parse](https://www.papaparse.com/)    
   - pdf
     - [PDF-LIB](https://pdf-lib.js.org/) - 解析和操作 PDF 文件。
   - html/xml
@@ -158,13 +157,16 @@
     - [puppeteer](https://github.com/puppeteer/puppeteer)    
   - markdown
     - [Marked](https://marked.js.org/) - markdown 文件解析，转换成 HTML 文件。
+    - [gray-matter](https://github.com/jonschlinkert/gray-matter) - 解析 [Front Matter](https://jekyllrb.com/docs/front-matter/)。
+    - [front-matter](https://github.com/jxson/front-matter) - 解析 Front Matter。
   - zip
     - [JSZip](https://stuk.github.io/jszip/) - 解析、生成 zip 文件，具有简单的 API。 
     - [ADM-ZIP](https://github.com/cthackers/adm-zip)
     - [Archiver](https://www.archiverjs.com/) - 生成存档文件的流式接口。
     - [node-stream-zip](https://github.com/antelle/node-stream-zip) - 支持大的 zip 文件。
-  - csv
-    - [CSV](https://csv.js.org/) - 功能全面的 csv 文件生成、解析、转换、序列化工具。
+  - image
+    - [sharp](https://sharp.pixelplumbing.com/) - 图像处理，拉伸、缩放、色彩提取等等，底层使用 [libvips](https://libvips.github.io/libvips/)，无需安装其它依赖，开箱即用，效率更高。
+    - [gm](http://aheckmann.github.io/gm/) - 图像处理，需先安装 [GraphicsMagick](http://www.graphicsmagick.org/) 或 [ImageMagick](https://imagemagick.org/index.php)。
 
 [Go Top ↑](#awesome-nodejs-list)
 
