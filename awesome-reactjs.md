@@ -124,6 +124,9 @@
   - [React lightbox component](https://github.com/jfcaiceo/react-lightbox-component) - 图片点击原图查看、列表、缩放、旋转。（:warning: 不再更新）
   - [react-zmage](https://zmage.caldis.me/) - 图片点击原图查看、列表、旋转。
 
+- Color Picker
+  - [React Color](http://casesandberg.github.io/react-color/) - 颜色拾取器，支持十多种样式。
+
 [Go Top ↑](#awesome-reactjs-list)
 
 ## 数据可视化
