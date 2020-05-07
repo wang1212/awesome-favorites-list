@@ -67,8 +67,9 @@
 - [PotPlayer](https://daumpotplayer.com/) - 视频播放器，解码能力很强大。
 - [VLC media player](http://www.videolan.org/vlc/) - 跨平台多媒体播放器及框架，可播放大多数多媒体文件，**开源软件**。
 - [MPC-HC](https://mpc-hc.org/) - Windows 平台轻量的媒体播放器，**开源软件**。（:warning: 不再更新）
-- [Captura](https://mathewsachin.github.io/Captura/) - 录屏、截屏等，**开源软件**。
-- [FFmpeg](http://ffmpeg.org/) - 命令行工具，完整的、跨平台的解决方案，用于记录、转换和流传输音频和视频，大部分媒体播放器软件的核心库。
+- [Open Broadcaster Software](https://obsproject.com/) - 具有强大的录屏、截屏、流媒体传输等功能，**开源软件**。
+- [Captura](https://mathewsachin.github.io/Captura/) - 轻量级的录屏、截屏等功能，**开源软件**。
+- [FFmpeg](http://ffmpeg.org/) - 命令行工具，完整的、跨平台的解决方案，用于记录、转换和流传输音频和视频，大部分媒体播放器软件的核心库，**开源软件**。
 
 ### 文件下载
 
