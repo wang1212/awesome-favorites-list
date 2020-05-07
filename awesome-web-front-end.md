@@ -199,6 +199,7 @@
   - [Ramda](https://ramdajs.com/) - JavaScript 的工具函数库，适用于函数式编程。
   - [RxJS](https://rxjs.dev/) - 响应式编程（Reactive Extensions）的 JavaScript 实现，对异步数据集合处理很方便。
   - [clsx](https://github.com/lukeed/clsx) - 非常轻量的 CSS 类名拼接工具。
+  - [one.color](https://github.com/One-com/one-color) - 颜色字符串解析、计算工具，支持 RGB, HSV, HSL, CMYK 等。
  
 - DOM
   - [jQuery](https://jquery.com/) - 前几年非常流行的 DOM 操作工具库，处理了兼容性的细节问题。
