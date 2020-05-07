@@ -1,7 +1,7 @@
 <div align="center">
   <h1>Awesome-Software</h1>
 
-  <p>:heart: 收藏列表 - :+1: 很棒的开源、免费、商业软件等资源。</p>
+  <p>:heart: 收藏列表 - :+1: 很棒的开源、免费软件等资源。</p>
 </div>
 
 ## 目录
@@ -12,12 +12,16 @@
 - [软件包管理器（Software Package Manager）](#软件包管理器)
 - [Chrome 扩展程序（Chrome Extension）](awesome-chrome-extension.md)
 - [日常办公（Office）](#日常办公)
+  - [浏览器（Browser）](#浏览器)
+  - [多媒体（Multimedia）](#多媒体)
+  - [文件下载（Download）](#文件下载)
+  - [其它（Others）](#其它)
 - [设计（Design）](#设计)
-- [软件开发](#软件开发)
+- [软件开发（Software Development）](#软件开发)
   - [IDE/编辑器（IDE/Editor）](#ide-编辑器)
   - [源代码管理（Source Code Management）](#源代码管理)
   - [开发辅助工具（Developer Aids）](#开发辅助工具)
-- [其它（Others）](#其它)
+- [其它资源（Others）](#其它资源)
 
 ## 应用程序商店
 
@@ -63,6 +67,7 @@
 - [PotPlayer](https://daumpotplayer.com/) - 视频播放器，解码能力很强大。
 - [VLC media player](http://www.videolan.org/vlc/) - 跨平台多媒体播放器及框架，可播放大多数多媒体文件，**开源软件**。
 - [MPC-HC](https://mpc-hc.org/) - Windows 平台轻量的媒体播放器，**开源软件**。（:warning: 不再更新）
+- [Captura](https://mathewsachin.github.io/Captura/) - 录屏、截屏等，**开源软件**。
 - [FFmpeg](http://ffmpeg.org/) - 命令行工具，完整的、跨平台的解决方案，用于记录、转换和流传输音频和视频，大部分媒体播放器软件的核心库。
 
 ### 文件下载
@@ -177,7 +182,7 @@
 
 [Go Top ↑](#awesome-software)
 
-## 其它
+## 其它资源
 
 *Uncategorized software.*
 
