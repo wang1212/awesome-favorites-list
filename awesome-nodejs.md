@@ -17,9 +17,9 @@
 - [技术规范标准（Technical Specifications）](#技术规范标准)
 - [技术参考文档（Technical Reference Document）](#技术参考文档)
 - [包管理器（Package Manager）](#包管理器)
+- [工具库（Tool Library）](#工具库)
 - [数据库（Database）](#数据库)
 - [Web 框架（Web Framework）](#web-框架)
-- [工具库（Tool Library）](#工具库)
 - [其它（Others）](#其它)
 
 ## 技术规范标准
@@ -54,38 +54,6 @@
   - [npm-check-updates](https://github.com/tjunnone/npm-check-updates) - 项目依赖 npm 包批量更新工具，**非官方**。
   - [Npm Trends](https://www.npmtrends.com/) - 可以查询对比多个 Npm 包的下载流量数据、star 数目等，**非官方网站**。
   - [Npm Charts](https://npmcharts.com/) - 可以查询对比多个 Npm 包的下载流量数据、star 数目等，**非官方网站**。
-
-[Go Top ↑](#awesome-nodejs-list)
-
-## 数据库
-
-*Database.*
-
-- [Sequelize](https://sequelize.org/) - 基于 Promise 的 Node.js ORM 库，支持 Postgres, MySQL, MariaDB, SQLite 和 Microsoft SQL Server。
-
-- [mongodb](http://mongodb.github.io/node-mongodb-native/) - [MongoDB](https://www.mongodb.com/) 的 Node.js 驱动，**MongoDB 官方发布**。
-  - [mongoose](https://mongoosejs.com/) - 对 mongodb 的封装，提供模型 Schema，API 更简洁、易用。
-  
-- [mysql](https://github.com/mysqljs/mysql) - [MySQL](https://www.mysql.com/) 的 Node.js 驱动，**非官方发布**。
-
-- [sqlite3](https://github.com/mapbox/node-sqlite3) - [SQLite](https://sqlite.org/) 的 Node.js 驱动，异步、非阻塞，**非官方发布**。
-
-[Go Top ↑](#awesome-nodejs-list)
-
-## Web 框架
-
-*Node.js-based server development framework.*
-
-- [Connect](https://github.com/senchalabs/connect) - 可扩展的 HTTP 服务器开发框架，使用中间件机制，早期的 [Express](http://expressjs.com/) 基于此开发。
-
-- [Express](http://expressjs.com/) - 非常成熟的 Web 开发框架。
-  - [express-session](https://github.com/expressjs/session) - Express 中间件，提供 Session-Cookie 机制的支持，**官方发布**。
-  - [body-parser](https://github.com/expressjs/body-parser) - Express 中间件，对 request 的 body 进行预处理，**官方发布**。
-  - [Multer](https://github.com/expressjs/multer) - Express 中间件，处理 `multipart/form-data` 表单数据，**官方发布**。
-  - [morgan](https://github.com/expressjs/morgan) - Express 中间件，请求日志记录，**官方发布**。
-  - [Passport.js](http://www.passportjs.org/) - 身份验证中间件，可在基于 Express 的 Node.js 框架中使用。
-  
-- [Koa](https://koajs.com/) - 轻量级、高性能的 Web 框架，Express 团队开发。
 
 [Go Top ↑](#awesome-nodejs-list)
 
@@ -173,6 +141,40 @@
   - image
     - [sharp](https://sharp.pixelplumbing.com/) - 图像处理，拉伸、缩放、色彩提取等等，底层使用 [libvips](https://libvips.github.io/libvips/)，无需安装其它依赖，开箱即用，效率更高。
     - [gm](http://aheckmann.github.io/gm/) - 图像处理，需先安装 [GraphicsMagick](http://www.graphicsmagick.org/) 或 [ImageMagick](https://imagemagick.org/index.php)。
+
+[Go Top ↑](#awesome-nodejs-list)
+
+## 数据库
+
+*Database.*
+
+- [Sequelize](https://sequelize.org/) - 基于 Promise 的 Node.js ORM 库，支持 Postgres, MySQL, MariaDB, SQLite 和 Microsoft SQL Server。
+
+- [mongodb](http://mongodb.github.io/node-mongodb-native/) - [MongoDB](https://www.mongodb.com/) 的 Node.js 驱动，**MongoDB 官方发布**。
+  - [mongoose](https://mongoosejs.com/) - 对 mongodb 的封装，提供模型 Schema，API 更简洁、易用。
+  
+- [mysql](https://github.com/mysqljs/mysql) - [MySQL](https://www.mysql.com/) 的 Node.js 驱动，**非官方发布**。
+
+- [sqlite3](https://github.com/mapbox/node-sqlite3) - [SQLite](https://sqlite.org/) 的 Node.js 驱动，异步、非阻塞，**非官方发布**。
+
+[Go Top ↑](#awesome-nodejs-list)
+
+## Web 框架
+
+*Node.js-based server development framework.*
+
+- [Connect](https://github.com/senchalabs/connect) - 可扩展的 HTTP 服务器开发框架，使用中间件机制，早期的 [Express](http://expressjs.com/) 基于此开发。
+
+- [Express](http://expressjs.com/) - 非常成熟的 Web 开发框架。
+  - [express-session](https://github.com/expressjs/session) - Express 中间件，提供 Session-Cookie 机制的支持，**官方发布**。
+  - [body-parser](https://github.com/expressjs/body-parser) - Express 中间件，对 request 的 body 进行预处理，**官方发布**。
+  - [Multer](https://github.com/expressjs/multer) - Express 中间件，处理 `multipart/form-data` 表单数据，**官方发布**。
+  - [morgan](https://github.com/expressjs/morgan) - Express 中间件，请求日志记录，**官方发布**。
+  - [Passport.js](http://www.passportjs.org/) - 身份验证中间件，可在基于 Express 的 Node.js 框架中使用。
+  
+- [Koa](https://koajs.com/) - 轻量级、高性能的 Web 框架，Express 团队开发。
+
+- [Gatsby](https://www.gatsbyjs.org/) - 基于 React.js 的开源框架，可快速开发 Web 网站和应用，多用于制作静态资源站点。
 
 [Go Top ↑](#awesome-nodejs-list)
 
