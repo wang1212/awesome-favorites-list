@@ -24,11 +24,11 @@
 - [JavaScript](#javascript)
   - [构建工具（Build Tools）](#js-构建工具)
   - [工具库（Library）](#js-工具库)
-  - [开发框架（Framework）](#开发框架)
 - [UI 组件（UI Component）](#ui-组件)
   - [组件库（Component Library）](#组件库)
   - [独立组件（Independent Components）](#独立组件)
 - [数据可视化（Data Visualization）](#数据可视化)
+- [开发框架（Framework）](#开发框架)
 - [资源（Resources）](#资源)
   - [在线工具（Online Tools）](#在线工具) 
   - [其它（Others）](#其它)
@@ -170,8 +170,11 @@
 - PWA && Offline cache
   - [WorkBox](https://developers.google.com/web/tools/workbox/) - Google 专门为构建 PWA （Progressive Web App，渐进式 Web 应用）提供的一套开发工具，支持多个平台，并提供了方便的 webpack 插件。
 
-- Server hot reload
+- Server
   - [Browsersync](https://www.browsersync.io/) - 浏览器同步调式工具，功能非常强大。
+  - [JSON Server](https://github.com/typicode/json-serve) - 可快速启动一个提供 REST API 的服务器，并返回指定测试数据。
+  - [Nock](https://github.com/nock/nock) - 模拟 API 服务，响应指定测试数据。
+  - [Mock.js](http://mockjs.com/) - 模拟 API 服务，响应随机测试数据。
 
 - Mobile debugging
   - [Eruda](https://eruda.liriliri.io/) - 移动端 Web 调试工具。
@@ -192,6 +195,8 @@
 - Test
   - [Mocha](https://mochajs.org/)
   - [JEST](https://jestjs.io/) - Facebook 出品的 JavaScript 单元测试工具。
+  - [faker.js](https://github.com/marak/faker.js) - 生成大量随机测试数据，可用来开发过程中进行 API 调试。
+  - [Chance](https://chancejs.com/) - 生成随机的测试数据。
  
 - Utils
   - [Underscore](https://underscorejs.org/) - JavaScript 的工具函数库，提供了大量非常有用的工具函数。
@@ -264,17 +269,6 @@
   - audio
     - [howler.js](https://howlerjs.com/) - 强大的音频处理工具库，支持所有的编解码器，跨浏览器支持。
 
-### 开发框架
-
-*Web front-end development framework (library).*
-
-- [React.js](https://reactjs.org/) - Facebook 出品的 Web 前端开源库，目前最火的轻量级前端开发框架之一，其技术生态圈非常繁荣。
-  - [Awesome-React.js](./awesome-reactjs.md)
-  
-- [Vue.js](https://vuejs.org/)
-
-- [Angular.js](https://angularjs.org/) - Google 出品的 Web 前端开源库，是一个比较重型的功能齐全的前端开发框架。
-
 [Go Top ↑](#awesome-web-front-end-list)
 
 ## UI 组件
@@ -337,6 +331,19 @@
 - [GSAP](https://greensock.com/) - 现代化的高性能动画工具库。
 - [Animate.css](https://daneden.github.io/animate.css/) - 丰富的 CSS 动画工具库。
 - [lax.js](https://github.com/alexfoxy/laxxx) - 简单、轻量的工具库，创建平滑的滚动动画。
+
+[Go Top ↑](#awesome-web-front-end-list)
+
+## 开发框架
+
+*Web front-end development framework (library).*
+
+- [React.js](https://reactjs.org/) - Facebook 出品的 Web 前端开源库，目前最火的轻量级前端开发框架之一，其技术生态圈非常繁荣。
+  - [Awesome-React.js](./awesome-reactjs.md)
+  
+- [Vue.js](https://vuejs.org/)
+
+- [Angular.js](https://angularjs.org/) - Google 出品的 Web 前端开源库，是一个比较重型的功能齐全的前端开发框架。
 
 [Go Top ↑](#awesome-web-front-end-list)
 
