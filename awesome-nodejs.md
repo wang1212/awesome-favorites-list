@@ -76,7 +76,9 @@
 
 *Node.js-based server development framework.*
 
-- [Express](http://expressjs.com/) - 非常成熟的 Node.js Web 开发框架。
+- [Connect](https://github.com/senchalabs/connect) - 可扩展的 HTTP 服务器开发框架，使用中间件机制，早期的 [Express](http://expressjs.com/) 基于此开发。
+
+- [Express](http://expressjs.com/) - 非常成熟的 Web 开发框架。
   - [express-session](https://github.com/expressjs/session) - Express 中间件，提供 Session-Cookie 机制的支持，**官方发布**。
   - [body-parser](https://github.com/expressjs/body-parser) - Express 中间件，对 request 的 body 进行预处理，**官方发布**。
   - [Multer](https://github.com/expressjs/multer) - Express 中间件，处理 `multipart/form-data` 表单数据，**官方发布**。
@@ -105,13 +107,19 @@
   - [JSDoc](https://jsdoc.app/) - JavaScript 的 API 文档生成工具。
 
 - Test
-  - [Mocha](https://mochajs.org/)
+  - [Mocha](https://mochajs.org/) - 测试框架。
   - [JEST](https://jestjs.io/) - Facebook 出品的 JavaScript 单元测试工具。
+  - [JSON Server](https://github.com/typicode/json-serve) - 可快速启动一个提供 REST API 的服务器，并返回指定测试数据。  
+  - [Nock](https://github.com/nock/nock) - 模拟 API 服务，响应指定测试数据。
+  - [Mock.js](http://mockjs.com/) - 模拟 API 服务，响应随机测试数据。
+  - [faker.js](https://github.com/marak/faker.js) - 生成大量随机测试数据，可用来开发过程中进行 API 调试。
+  - [Chance](https://chancejs.com/) - 生成随机的测试数据。  
 
 - Dev
   - [esm](https://github.com/standard-things/esm) - 能够为 `.js` 文件提供 [ECMAScript Modules](https://tc39.es/ecma262/#sec-modules) 支持。
   - [nodemon](https://nodemon.io) - 提供 Node.js 开发时热重载机制。
   - [TS Node](https://github.com/TypeStrong/ts-node) - Node.js 的 TypeScript 语言运行器和交互式解释器。
+  - [http-server](https://github.com/http-party/http-server) - 可快速启动一个轻量的 http 服务器。
 
 - Code version management 
   - [husky](https://github.com/typicode/husky) - 更容易的使用 [Git Hooks](https://git-scm.com/book/it/v2/Customizing-Git-Git-Hooks)。
@@ -125,8 +133,6 @@
   - [web-worker](https://github.com/developit/web-worker) - 在浏览器和 Node.js 环境中实现一致的 Web Worker API。
 
 - HTTP Server
-  - [http-server](https://github.com/http-party/http-server) - 可快速启动一个 http 服务器。
-  - [Connect](https://github.com/senchalabs/connect) - 可扩展的 HTTP 服务器框架，使用中间件机制，早期的 [Express](http://expressjs.com/) 基于此开发。
   - [log4js](https://github.com/log4js-node/log4js-node) - 日志记录。
 
 - HTTP Request
