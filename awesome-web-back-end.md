@@ -22,6 +22,7 @@ Official technical specifications.
 
 - [OpenAPI](https://www.openapis.org/) - 定义了一种 REST APIs 标准。
 - [JSON Specification](http://www.json.org/) - JSON 数据格式规范。
+- [JSON5 Specification](https://spec.json5.org/) - JSON5 数据格式规范，是对 JSON 格式的扩展，支持注释等特性。
 - [NDJSON Specification](http://ndjson.org/) - Newline Delimited JSON 数据格式规范。
 - [YAML Specification](https://yaml.org/) - yaml 数据格式规范。
 
