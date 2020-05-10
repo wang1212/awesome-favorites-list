@@ -118,6 +118,13 @@
     - [rimraf](https://github.com/isaacs/rimraf) - 为 Node 提供类似 `rm -rf` 删除文件操作。
     - [memfs](https://github.com/streamich/memfs) - 内存文件系统。
     - [rotating-file-stream](https://github.com/iccicci/rotating-file-stream) - 文件流自动轮转，可用于日志文件分割，类似 UNIX `logrotate`。
+  - json5
+    - [JSON5](https://json5.org/) - JSON5 格式数据解析、序列化。
+  - zip
+    - [JSZip](https://stuk.github.io/jszip/) - 解析、生成 zip 文件，具有简单的 API。 
+    - [ADM-ZIP](https://github.com/cthackers/adm-zip)
+    - [Archiver](https://www.archiverjs.com/) - 生成存档文件的流式接口。
+    - [node-stream-zip](https://github.com/antelle/node-stream-zip) - 支持大的 zip 文件。    
   - xlsx
     - [exceljs](https://github.com/exceljs/exceljs) - 读、写 xlsx、csv 文件。
     - [xlsx](https://sheetjs.com/) - 读、写 xlsx、csv 文件（写功能部分特性不免费）。
@@ -133,11 +140,6 @@
     - [Marked](https://marked.js.org/) - markdown 文件解析，转换成 HTML 文件。
     - [gray-matter](https://github.com/jonschlinkert/gray-matter) - 解析 [Front Matter](https://jekyllrb.com/docs/front-matter/)。
     - [front-matter](https://github.com/jxson/front-matter) - 解析 Front Matter。
-  - zip
-    - [JSZip](https://stuk.github.io/jszip/) - 解析、生成 zip 文件，具有简单的 API。 
-    - [ADM-ZIP](https://github.com/cthackers/adm-zip)
-    - [Archiver](https://www.archiverjs.com/) - 生成存档文件的流式接口。
-    - [node-stream-zip](https://github.com/antelle/node-stream-zip) - 支持大的 zip 文件。
   - image
     - [sharp](https://sharp.pixelplumbing.com/) - 图像处理，拉伸、缩放、色彩提取等等，底层使用 [libvips](https://libvips.github.io/libvips/)，无需安装其它依赖，开箱即用，效率更高。
     - [gm](http://aheckmann.github.io/gm/) - 图像处理，需先安装 [GraphicsMagick](http://www.graphicsmagick.org/) 或 [ImageMagick](https://imagemagick.org/index.php)。
