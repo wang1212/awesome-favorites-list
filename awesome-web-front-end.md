@@ -45,6 +45,7 @@
 - [Webkit](https://webkit.org/) - Webkit 浏览器引擎的官方网站，可查询其功能特性的实现和标准化状态。
 - [JSON Specification](http://www.json.org/) - JSON 数据格式规范。
 - [JSON Schema](http://json-schema.org/) - JSON 数据校验。
+- [JSON5 Specification](https://spec.json5.org/) - JSON5 数据格式规范，是对 JSON 格式的扩展，支持注释等特性。
 - [NDJSON Specification](http://ndjson.org/) - Newline Delimited JSON 数据格式规范。
 
 ## 技术参考文档
@@ -250,11 +251,13 @@
     - [StreamSaver.js](https://github.com/jimmywarting/StreamSaver.js) - Web 浏览器客户端异步保存文件 api 实现，解决了 FileSaver 的大小限制问题。
     - [DropzoneJS](https://www.dropzonejs.com/) - 文件上传组件，支持拖放文件、图片预览功能。
     - [filepond](https://pqina.nl/filepond/) - 文件上传组件，功能比较丰富。
+  - json5
+    - [JSON5](https://json5.org/) - JSON5 格式数据解析、序列化。
   - zip
     - [JSZip](https://github.com/Stuk/jszip) - 创建/读写 zip 文件。
   - xlsx
+    - [exceljs](https://github.com/exceljs/exceljs) - 读、写 xlsx、csv 文件。  
     - [xlsx](https://sheetjs.com/) - 读、写 xlsx、csv 文件（写功能部分特性不免费）。
-    - [exceljs](https://github.com/exceljs/exceljs) - 读、写 xlsx、csv 文件。
   - csv
     - [Papa Parse](https://www.papaparse.com/)
   - pdf
@@ -268,6 +271,8 @@
     - [Lena.js](https://fellipe.com/demos/lena-js/) - 图片滤镜。
   - audio
     - [howler.js](https://howlerjs.com/) - 强大的音频处理工具库，支持所有的编解码器，跨浏览器支持。
+  - markdown
+    - [Marked](https://marked.js.org/) - markdown 文件解析，转换成 HTML 文件。
 
 [Go Top ↑](#awesome-web-front-end-list)
 
