@@ -67,6 +67,7 @@
   - [JSK Weekly](https://javascriptkicks.com/) - 周刊，JavaScript 技术。
   - [CSS Weekly](https://css-weekly.com/) - 周刊，CSS 技术。
   - [Node Weekly](https://nodeweekly.com/) - 周刊，Node.js 技术。
+  - [Deno Weekly](https://denoweekly.com/) - 周刊，Deno 技术。
 
 - Others
   - [Technology Radar](https://www.thoughtworks.com/radar) - 六个月一期，[ThoughtWorks](https://www.thoughtworks.com/) 出品的技术雷达。
