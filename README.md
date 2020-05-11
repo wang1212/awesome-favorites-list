@@ -12,7 +12,7 @@
 
 *Resource navigation list.*
 
-- [读物（Reading）](awesome-reading.md)
+- [阅读（Reading）](awesome-reading.md)
 - [软件（Software）](awesome-software.md)
 - 软件开发（Software Development）
   - [Web 前端（Web Front-end）](awesome-web-front-end.md)
@@ -22,6 +22,7 @@
     - [混合应用（Hybrid App）](awesome-hybrid-app.md)
   - [GIS 开发（GIS Development）](awesome-gis.md)
   - [Node.js](awesome-nodejs.md)
+  - [Python](awesome-python.md)
 - [其它（Others）](#其它)
 - [贡献（Contribution）](#贡献)
 
@@ -42,11 +43,7 @@
   - [Bash Pitfalls](http://mywiki.wooledge.org/BashPitfalls) - 此页面汇总了 Bash 用户常犯的编程错误。
   - [COMMANDLINEFU.COM](https://www.commandlinefu.com/commands/browse) - 汇集了很多优秀的、充满智慧的、简洁的命令行命令。
   - [Perfection Kills](http://perfectionkills.com/)	
-  - [Hackr.io](https://hackr.io/) - 在线教程。			
-
-- 工具平台（Tool platform）
-  - [Conda](https://docs.conda.io/en/latest/) - 通用的包管理软件。
-    - [Anaconda](https://www.anaconda.com) - Python 发行版，开箱即用，包含了多个科学计算辅助库。	
+  - [Hackr.io](https://hackr.io/) - 在线教程。				
 
 - 其它（Others）	
   - [Pexels](https://www.pexels.com/zh-cn/) - 免费的摄影素材分享。
