@@ -343,12 +343,15 @@
 
 *Web front-end development framework (library).*
 
-- [React.js](https://reactjs.org/) - Facebook 出品的 Web 前端开源库，目前最火的轻量级前端开发框架之一，其技术生态圈非常繁荣。
-  - [Awesome-React.js](./awesome-reactjs.md)
+- [React.js](https://reactjs.org/) -  前端响应式 UI 库，其技术生态圈非常繁荣，Facebook 公司发布。
+  - [Awesome-React.js](./awesome-reactjs.md) - React.js 生态技术汇总。
   
 - [Vue.js](https://vuejs.org/)
 
-- [Angular.js](https://angularjs.org/) - Google 出品的 Web 前端开源库，是一个比较重型的功能齐全的前端开发框架。
+- [Angular.js](https://angularjs.org/) - 一个比较重型的功能齐全的前端开发框架，Google 公司发布。
+
+- [Svelte](https://svelte.dev/) - 更轻量的前端 UI 库。
+  - [Sapper](https://sapper.svelte.dev/) - 基于 Svelte 的 Web App 开发框架。
 
 [Go Top ↑](#awesome-web-front-end-list)
 
