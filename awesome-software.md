@@ -75,6 +75,7 @@
 
 *File download tool.*
 
+- [Free Download Manager](https://www.freedownloadmanager.org/) - 加速下载器，全平台支持，**开源软件**。
 - [BitComet](http://www.bitcomet.com/) - BitTorrent 下载客户端，**免费软件**。
 - [WebTorrent](https://webtorrent.io/) - Web 端和桌面端跨平台的流式 torrent 客户端，**开源软件**。
 
