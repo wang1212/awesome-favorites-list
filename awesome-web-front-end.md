@@ -30,6 +30,7 @@
 - [数据可视化（Data Visualization）](#数据可视化)
 - [开发框架（Framework）](#开发框架)
 - [资源（Resources）](#资源)
+  - [CDN](#cdn)
   - [在线工具（Online Tools）](#在线工具) 
   - [其它（Others）](#其它)
 
@@ -115,6 +116,10 @@
 - CSS Reset
   - [Normalize.css](http://necolas.github.io/normalize.css/) - 现代化的 Reset CSS 工具库，统一浏览器默认样式。
   - [sanitize.css](https://csstools.github.io/sanitize.css/)
+
+- Utils
+  - [Animate.css](https://daneden.github.io/animate.css/) - 丰富的 CSS 动画工具库。
+  - [Imagehover.css](http://imagehover.io/) - 添加鼠标悬停效果。
 
 ### 字体图标
 
@@ -210,6 +215,8 @@
 - DOM
   - [jQuery](https://jquery.com/) - 前几年非常流行的 DOM 操作工具库，处理了兼容性的细节问题。
   - [Zepto.js](https://zeptojs.com/) - 兼容 jQuery API 的轻量级工具库，适合移动端使用。
+  - [Lozad.js](https://github.com/ApoorvSaxena/lozad.js) - 轻量、高性能图片懒加载工具，使用了 [Intersection Observer API](https://developer.mozilla.org/en-US/docs/Web/API/Intersection_Observer_API)。
+  - [clipboard.js](https://clipboardjs.com/) - 现代的粘贴板工具库。
   
 - Event
   - [Hammer.js](http://hammerjs.github.io/) - 支持移动端触摸事件，以及手势操作、多点触控。
@@ -222,6 +229,9 @@
 
 - HTTP - Ajax / Promise / fetch
   - [axios](https://github.com/axios/axios) - 基于 Promise 的 HTTP 客户端工具库。
+
+- Socket / TCP
+  - [socket.io](https://socket.io/) - 优秀的实时通信客户端框架。
 
 - Date & Time
   - [Moment.js](https://momentjs.com/) - 功能强大的日期、时间处理库。
@@ -244,6 +254,10 @@
   - [Create.js](https://createjs.com) - 工具套件，包含 Canvas、Web Audio 等工具库。
   - [Konva](https://konvajs.org) - 用于桌面和移动应用程序的 HTML5 2D canvas 库。
   - [Two.js](https://two.js.org/) - Web 二维绘图工具库，基于 Canvas、Svg、WebGL。
+
+- QR Code
+  - [node-qrcode](https://github.com/soldair/node-qrcode) - 二维码生成。
+  - [Awesome-qr.js](https://www.bitcat.cc/webapp/awesome-qr/index.html) - 个性化二维码生成。（:warning: 不再更新）
 
 - File
   - utils
@@ -294,6 +308,7 @@
 - [Pure.CSS](https://purecss.io/) - 一组小的，响应式的 CSS 模块。
 - [Skeleton](http://getskeleton.com/)
 - [Framework7](https://framework7.io/) - 跨平台 UI 库，支持 Android/ios/Desktop 平台，且主题样式设计适配相应平台。
+- [Layui](https://www.layui.com/) - 适合后端开发使用。
 
 ### 独立组件
 
@@ -316,6 +331,7 @@
 - Others
   - [Flip](https://github.com/pqina/flip/) - 时间、翻转、倒计时、计数器。
   - [FilePond ](https://pqina.nl/filepond/) - 文件上传。
+  - [TOAST UI Calendar](https://github.com/nhn/tui.calendar) - 强大的日历日程组件。
   - [reveal.js](https://revealjs.com/) - 创建漂亮的演示文稿（幻灯片）。
 
 [Go Top ↑](#awesome-web-front-end-list)
@@ -334,7 +350,6 @@
 - [Popmotion](https://popmotion.io/pure/) - 实用、灵活的 JavaScript 动画工具库。
 - [mo.js](https://mojs.github.io/) - 丰富，强大的运动图形动画工具库。
 - [GSAP](https://greensock.com/) - 现代化的高性能动画工具库。
-- [Animate.css](https://daneden.github.io/animate.css/) - 丰富的 CSS 动画工具库。
 - [lax.js](https://github.com/alexfoxy/laxxx) - 简单、轻量的工具库，创建平滑的滚动动画。
 
 [Go Top ↑](#awesome-web-front-end-list)
@@ -359,6 +374,22 @@
 
 *Some useful related resources.*
 
+### CDN
+
+*Content distribution network, static resource hosting.*
+
+- Global
+  - [jsDelivr](https://www.jsdelivr.com/)
+  - [UNPKG](https://unpkg.com/)
+  - [cdnjs](https://cdnjs.com/)
+  - [Google Hosted Libraries](https://developers.google.com/speed/libraries/)
+  
+- China
+  - [BootCDN](https://www.bootcdn.cn/) - Bootstrap 中文网维护。
+  - [75CDN](https://cdn.baomitu.com) - 奇虎 360 前端团队奇舞团维护。
+  - [Staticfile CDN](https://staticfile.org/) - 七牛云与掘金维护。
+  - [loli.net](https://css.loli.net/)
+
 ### 在线工具
 
 *Some online resources, such as CDN, image compression tools, online IDE, etc.*
@@ -371,18 +402,6 @@
   - [PageSpeed Insights](https://developers.google.com/speed/pagespeed/insights/) - Google 提供的在线网站性能检测工具，提供优化建议和技巧，**Google 官方提供**。
   - [Lighthouse](https://developers.google.com/web/tools/lighthouse/) - Google 提供的一个网站优化检测分析工具，已被集成在 Chrome 开发工具中，也可以作为 Chrome 扩展或者命令行工具使用，**Google 官方提供**。
   - [What Web Can Do](https://whatwebcando.today/) - 可以检测当前设备所支持的 Web API，主要检测硬件设备传感器等，**非官方网站**。
-
-- Free CDN
-  - Global
-    - [jsDelivr](https://www.jsdelivr.com/)
-    - [UNPKG](https://unpkg.com/)
-    - [cdnjs](https://cdnjs.com/)
-    - [Google Hosted Libraries](https://developers.google.com/speed/libraries/)
-  - China
-    - [BootCDN](https://www.bootcdn.cn/) - Bootstrap 中文网维护。
-    - [75CDN](https://cdn.baomitu.com) - 奇虎 360 前端团队奇舞团维护。
-    - [Staticfile CDN](https://staticfile.org/) - 七牛云与掘金维护。
-    - [loli.net](https://css.loli.net/)
     
 - Image Compression
   - [Compress PNG](https://compresspng.com/)
@@ -404,6 +423,7 @@
   - [bit](https://bit.dev/) - 构建可重用组件的协作平台。
   - [Prettier Playground](https://prettier.io/playground/) - Prettier 代码格式化工具的在线版本。
   - [Color Hunt](https://colorhunt.co/) - 配色方案。
+  - [Open Color](https://yeun.github.io/open-color/) - 配色方案。
   - [Doka](https://doka.photo/) - 图片编辑工具。
 
 ### 其它
