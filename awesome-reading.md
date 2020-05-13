@@ -63,14 +63,23 @@
   - [StatusCode Weekly](https://weekly.statuscode.com/) - 周刊，软件开发、Web 技术、软件架构等。
   - [Mobile Dev Weekly](https://mobiledevweekly.com/) - 周刊，移动应用（Web 和 Native）开发技术。
   - [Frontend Focus](https://frontendfoc.us/) - 周刊，Web 前端技术资讯。
+  - [Android Weekly](https://androidweekly.net/) - 周刊，Android 技术。
   - [JavaScript Weekly](https://javascriptweekly.com/) - 周刊，JavaScript 技术。
   - [JSK Weekly](https://javascriptkicks.com/) - 周刊，JavaScript 技术。
   - [CSS Weekly](https://css-weekly.com/) - 周刊，CSS 技术。
   - [Node Weekly](https://nodeweekly.com/) - 周刊，Node.js 技术。
+  - [npm Weekly](https://www.npmjs.com/npm-weekly) - 周刊，npm 新闻。
   - [Deno Weekly](https://denoweekly.com/) - 周刊，Deno 技术。
+  - [Python Weekly](https://www.pythonweekly.com/) - 周刊，Python 技术。
+  - [Programmer Weekly](https://www.programmerweekly.com/) - 周刊，面向程序员。
 
 - Others
   - [Technology Radar](https://www.thoughtworks.com/radar) - 六个月一期，[ThoughtWorks](https://www.thoughtworks.com/) 出品的技术雷达。
+
+### 其它
+
+- Weekly
+  - [Founder Weekly](http://www.founderweekly.com/) - 周刊，面向企业家。
 
 [Go Top ↑](#awesome-reading-list)
 
@@ -79,6 +88,7 @@
 *Some high-quality, more interesting forum communities.*
 
 - [StackExchange](https://stackexchange.com/sites) - 一个链接多种类型问答社区的网络。
+- [Medium](https://medium.com/) - 一个写作阅读平台。
 
 ### 计算机技术
 
@@ -95,6 +105,7 @@
 - [图灵社区](http://www.ituring.com.cn/) - 国内一个出版计算机类相关书籍的社区，外文书翻译质量非常高，拥有很好的用户口碑。
 - [慕课网](https://www.imooc.com/) - 国内一个提供计算机开发技术学习课程收费服务的网站，有大量免费优质学习资源。
 - [Linux 公社](https://www.linuxidc.com/) - 国内一个论坛，内有大量 Linux 相关资源。
+- [PaperWeekly](http://www.paperweekly.site/) - 一个推荐、解读、讨论和报道人工智能前沿论文成果的学术平台。
 
 ### 文学
 
