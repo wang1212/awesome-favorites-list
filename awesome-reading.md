@@ -70,8 +70,11 @@
   - [Node Weekly](https://nodeweekly.com/) - 周刊，Node.js 技术。
   - [npm Weekly](https://www.npmjs.com/npm-weekly) - 周刊，npm 新闻。
   - [Deno Weekly](https://denoweekly.com/) - 周刊，Deno 技术。
-  - [Python Weekly](https://www.pythonweekly.com/) - 周刊，Python 技术。
-  - [Programmer Weekly](https://www.programmerweekly.com/) - 周刊，面向程序员。
+  - [Ruby Weekly](https://rubyweekly.com/) - 周刊，Ruby 技术。
+  - [PyCoder’s Weekly](https://pycoders.com/) - 周刊，Python 技术。
+  - [Golang Weekly](https://golangweekly.com/) - 周刊，Go 技术。
+  - [Postgres Weekly](https://postgresweekly.com/) - 周刊，PostgreSQL 技术。
+  - [DB Weekly](https://dbweekly.com/) - 周刊，数据库技术。
 
 - Others
   - [Technology Radar](https://www.thoughtworks.com/radar) - 六个月一期，[ThoughtWorks](https://www.thoughtworks.com/) 出品的技术雷达。
@@ -79,7 +82,11 @@
 ### 其它
 
 - Weekly
-  - [Founder Weekly](http://www.founderweekly.com/) - 周刊，面向企业家。
+  - [科技爱好者周刊](https://github.com/ruanyf/weekly)
+
+### 更多
+
+- [Awesome Weekly](https://github.com/jondot/awesome-weekly)
 
 [Go Top ↑](#awesome-reading-list)
 
