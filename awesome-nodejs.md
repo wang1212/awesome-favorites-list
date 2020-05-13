@@ -112,6 +112,10 @@
   - [Handlebars.js](http://handlebarsjs.com/)
   - [Jade](http://jade-lang.com/)
   
+- QR Code
+  - [node-qrcode](https://github.com/soldair/node-qrcode) - 二维码生成。
+  - [Awesome-qr.js](https://www.bitcat.cc/webapp/awesome-qr/index.html) - 个性化二维码生成。（:warning: 不再维护）
+  
 - File
   - utils tool
     - [fs-extra](https://github.com/jprichardson/node-fs-extra) - 作为官方原生 [fs](https://nodejs.org/api/fs.html) 模块的补充和优化。
