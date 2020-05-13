@@ -79,6 +79,8 @@
 
 *Map Engine Framework.*
 
+- [osgEarth](http://osgearth.org/) - C++ 地理空间 SDK 和地图引擎。
+
 ### WebGIS
 
 *WebGIS, Web front-end map framework. :point_right: [WebGIS](http://www.webgis.com/)*
