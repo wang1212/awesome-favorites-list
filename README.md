@@ -6,8 +6,6 @@
 
 <br />
 
-（Recommend）推荐一个其它的很棒的收藏列表，:point_right: https://github.com/sindresorhus/awesome
-
 ## 目录
 
 *Resource navigation list.*
@@ -24,6 +22,7 @@
   - [Node.js](awesome-nodejs.md)
   - [Python](awesome-python.md)
 - [其它（Others）](#其它)
+- [更多（More）](#更多)
 - [贡献（Contribution）](#贡献)
 
 ## 其它
@@ -49,6 +48,15 @@
   - [Pexels](https://www.pexels.com/zh-cn/) - 免费的摄影素材分享。
   - [Unsplash](https://unsplash.com/) - 免费的图片素材。
   - [ProductHunt](https://www.producthunt.com/) - 产品发布分享。		
+
+[Go Top ↑](#awesome-favorites-list)
+
+## 更多
+
+*Recommend other more awesome list.*
+
+- [Awesome](https://github.com/sindresorhus/awesome)
+- [Awesome Awesomeness](https://github.com/bayandin/awesome-awesomeness)
 
 [Go Top ↑](#awesome-favorites-list)
 
