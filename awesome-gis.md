@@ -155,7 +155,7 @@ _Available in browser（JavaScript）. **Tips:** Most of what is available in th
 
 ### 平台
 
-*Some platforms that provide complete solutions.*
+*Some platforms that provide complete solutions, data etc.*
 
 - [ESRI](https://www.esri.com/) - GIS 行业商业巨头，ArcGIS 发布者的官网。
 - [ArcGIS](https://www.arcgis.com/) - GIS 行业商业巨头，其商业软件几乎为行业标准。
@@ -170,5 +170,6 @@ _Available in browser（JavaScript）. **Tips:** Most of what is available in th
 - [GeoJSON.io](http://geojson.io/)
 - [Skia](https://skia.org/) - 2D 绘图库。
 - [Mapzen](https://www.mapzen.com/)
+- [Geospatial Data Cloud](http://www.gscloud.cn/)
 
 [Go Top ↑](#awesome-gis-list)
