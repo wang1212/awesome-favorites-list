@@ -190,5 +190,6 @@
 
 - [Slant](https://www.slant.co/) - 搜索最佳实践。
 - [LibHunt](https://www.libhunt.com/) - 收集了各种库的网站。
+- [MSDN, I tell you](https://msdn.itellyou.cn/) - 可下载系统镜像文件。
 
 [Go Top ↑](#awesome-software)
