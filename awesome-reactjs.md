@@ -126,6 +126,9 @@
 
 - Color Picker
   - [React Color](http://casesandberg.github.io/react-color/) - 颜色拾取器，支持十多种样式。
+  
+- Others
+  - [qrcode.react](https://github.com/zpao/qrcode.react) - 二维码组件。
 
 [Go Top ↑](#awesome-reactjs-list)
 
