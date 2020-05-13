@@ -157,6 +157,7 @@ _Available in browser（JavaScript）. **Tips:** Most of what is available in th
 
 - [ESRI](https://www.esri.com/) - GIS 行业商业巨头，ArcGIS 发布者的官网。
 - [ArcGIS](https://www.arcgis.com/) - GIS 行业商业巨头，其商业软件几乎为行业标准。
+- [OpenStreetMap](https://www.openstreetmap.org/) - 一个开放的全球地图数据平台。
 - [Mapillary](https://www.mapillary.com/) - 街景地图平台。
 - [MapTiler](https://www.maptiler.com/) - 一个提供地图设计，切片的地图托管平台，官方开源。
 - [OpenMapTiler](https://openmaptiles.org/) - 提供免费的自托管地图矢量瓦片数据。
