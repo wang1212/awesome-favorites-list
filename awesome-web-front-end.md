@@ -256,6 +256,9 @@
   - [Create.js](https://createjs.com) - 工具套件，包含 Canvas、Web Audio 等工具库。
   - [Konva](https://konvajs.org) - 用于桌面和移动应用程序的 HTML5 2D canvas 库。
   - [Two.js](https://two.js.org/) - Web 二维绘图工具库，基于 Canvas、Svg、WebGL。
+  - [Paper.js](http://paperjs.org/) - 矢量绘图工具。
+  - [Fabric.js](http://fabricjs.com/) - 矢量绘图工具。
+  - [Pencil.js](https://pencil.js.org/) - 2D 绘图库。
 
 - QR Code
   - [node-qrcode](https://github.com/soldair/node-qrcode) - 二维码生成。
