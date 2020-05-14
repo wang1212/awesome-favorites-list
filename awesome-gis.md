@@ -16,14 +16,14 @@
 
 - [技术规范标准（Technical Specifications）](#技术规范标准)
 - [技术参考文档（Technical Reference Document）](#技术参考文档)
+- [地理空间库（Geospatial Library）](#地理空间库)
+  - [C++](#c++)
+  - [JavaScript](#javascript)
+- [空间数据库（Spatial Database）](#空间数据库)
 - [地图服务器（Map Server）](#地图服务器)
 - [地图引擎（Map Engine）](#地图引擎)
   - [WebGIS](#webgis)
   - [移动 GIS（Mobile GIS）](#移动-gis)
-- [空间数据库（Spatial Database）](#空间数据库)
-- [地理空间库（Geospatial Library）](#地理空间库)
-  - [C++](#c++)
-  - [JavaScript](#javascript)
 - [其它（Others）](#其它)
   - [平台（Platform）](#平台)
 
@@ -33,7 +33,7 @@
 
 - [OGC](http://www.opengeospatial.org/) - 开放地理空间联盟（OGC）是一个致力于为全球地理空间社区制定高质量开放标准的国际非营利组织。
 - [OSGeo](https://www.osgeo.org/) - 开源空间信息基金会，一个全球性非营利性组织，目标是支持全球性的合作，建立和推广高品质的空间信息开源软件。
-  - [OSGeo 中国中心](https://www.osgeo.cn/) - OSGeo 中国中心是由国家遥感中心发起、Autodesk 中国有限公司协助，经 OSGeo 正式授权的非营利性组织。OSGeo 中国中心的使命是支持开源地理信息软件和遥感软件的开发以及推动其更广泛的应用，尤其是帮助中国地区的用户和开发者更好地使用 OSGeo 基金会提供的源代码、产品及服务。
+  - [OSGeo 中国中心](https://www.osgeo.cn/)
 - [EPSG](http://www.epsg.org/) - EPSG 的维护组织 IOGP 官网。
 - [Spatial Reference](https://spatialreference.org/) - 空间参考定义查询。
 - [GeoJSON Specification](https://geojson.org/) - GeoJSON 规范。:point_right: [简体中文翻译](https://www.oschina.net/translate/geojson-spec?cmp)
@@ -54,6 +54,44 @@
 
 - [EPSG.io](http://epsg.io/) - 全球坐标系统 EPSG 在线查询，同时提供 API 支持。
 - [Format Descriptions for Geospatial Data](https://www.loc.gov/preservation/digital/formats/fdd/gis_fdd.shtml) - 地理数据格式描述参考。
+
+[Go Top ↑](#awesome-gis-list)
+
+## 地理空间库
+
+*Geospatial libraries, some libraries or modules that support manipulation of geospatial data.*
+
+### C++
+
+- [GDAL](https://gdal.org/) - 通用的栅格和矢量数据转换工具，OSGeo 开源项目。
+- [PROJ](https://proj.org/) - 通用的坐标转换工具，OSGeo 开源项目。
+- [Mapnik](https://mapnik.org/) - 空间数据可视化（支持 Node.js、Python），开源。
+
+### JavaScript
+
+_Available in browser（JavaScript）. **Tips:** Most of what is available in the browser can also be used in Node.js._
+
+- [Turf.js](http://turfjs.org/) - 高级空间分析的工具库（支持 Node.js）。
+- [JSTS](https://github.com/bjornharrtell/jsts) - 开源的空间分析库。
+- [proj4js](http://proj4js.org/) - PROJ 的 JavaScript 实现，可进行坐标系统转换（支持 Node.js）。
+- [mapshaper](https://mapshaper.org/) - 数据编辑，支持 Shapefile、GeoJSON、TopoJSON、DBF 和 CSV 格式，可在线预览转换，支持命令行，不提供坐标转换（支持 Node.js）。
+- [shapefile](https://github.com/mbostock/shapefile) - Shapefile 转 GeoJSON，支持命令行（支持 Node.js）。
+- [shp2geojson.js](https://github.com/gipong/shp2geojson.js) - Shapefile 转 GeoJSON，可在线预览转换，支持坐标系转换。
+- [Geobuf](https://github.com/mapbox/geobuf) - 对 GeoJSON 数据进行 [protocol buffers](https://developers.google.com/protocol-buffers) 编/解码，大幅减小体积，加快网络传输速度，**Mapbox 公司发布**（支持 Node.js）。
+  - [pbf](https://github.com/mapbox/pbf) - protocol buffers 编/解码，**Mapbox 公司发布**（支持 Node.js）。
+- TopoJSON
+  - [TopoJSON Server](https://github.com/topojson/topojson-server) - TopoJSON 生成。
+  - [TopoJSON Simplify](https://github.com/topojson/topojson-simplify) - TopoJSON 简化和过滤。
+  - [TopoJSON Client](https://github.com/topojson/topojson-client) - TopoJSON 数据操作，例如合并、获取边界坐标等。
+
+[Go Top ↑](#awesome-gis-list)
+
+## 空间数据库
+
+*Spatial data, support geographic data storage, analysis, etc.*
+
+- [PostGIS](https://postgis.net/) - 基于 [PostgreSQL](https://www.postgresql.org/) 数据库的空间扩展，提供了高级、复杂、强大的空间分析功能。
+- [SpatiaLite](https://www.gaia-gis.it/fossil/libspatialite/home) - 基于 [SQLite](https://www.sqlite.org/index.html) 数据库的空间扩展，轻量级完整的空间数据库。
 
 [Go Top ↑](#awesome-gis-list)
 
@@ -112,40 +150,6 @@
 
 - [Tangram ES](https://github.com/tangrams/tangram-es) - C++ 库，使用 OpenGL ES 从矢量数据渲染 2D 和 3D 地图。
 - [Mapbox GL Native](https://www.mapbox.com/mobile/) - C++ 库，使用 OpenGL ES（或 Metal） 渲染引擎和 MVT 矢量数据渲染地图，支持完全的自定义样式。
-
-[Go Top ↑](#awesome-gis-list)
-
-## 空间数据库
-
-*Spatial data, support geographic data storage, analysis, etc.*
-
-- [PostGIS](https://postgis.net/) - 基于 [PostgreSQL](https://www.postgresql.org/) 数据库的空间扩展，提供了高级、复杂、强大的空间分析功能。
-- [SpatiaLite](https://www.gaia-gis.it/fossil/libspatialite/home) - 基于 [SQLite](https://www.sqlite.org/index.html) 数据库的空间扩展，轻量级完整的空间数据库。
-
-[Go Top ↑](#awesome-gis-list)
-
-## 地理空间库
-
-*Geospatial libraries, some libraries or modules that support manipulation of geospatial data.*
-
-### C++
-
-- [GDAL](https://gdal.org/) - 通用的栅格和矢量数据转换工具，OSGeo 开源项目。
-- [PROJ](https://proj.org/) - 通用的坐标转换工具，OSGeo 开源项目。
-- [Mapnik](https://mapnik.org/) - 空间数据可视化（支持 Node.js、Python），开源。
-
-### JavaScript
-
-_Available in browser（JavaScript）. **Tips:** Most of what is available in the browser can also be used in Node.js._
-
-- [Turf.js](http://turfjs.org/) - 高级空间分析的工具库（支持 Node.js）。
-- [JSTS](https://github.com/bjornharrtell/jsts) - 开源的空间分析库。
-- [proj4js](http://proj4js.org/) - PROJ 的 JavaScript 实现，可进行坐标系统转换（支持 Node.js）。
-- [mapshaper](https://mapshaper.org/) - 数据编辑，支持 Shapefile、GeoJSON、TopoJSON、DBF 和 CSV 格式，可在线预览转换，支持命令行，不提供坐标转换（支持 Node.js）。
-- [shapefile](https://github.com/mbostock/shapefile) - Shapefile 转 GeoJSON，支持命令行（支持 Node.js）。
-- [shp2geojson.js](https://github.com/gipong/shp2geojson.js) - Shapefile 转 GeoJSON，可在线预览转换，支持坐标系转换。
-- [Geobuf](https://github.com/mapbox/geobuf) - 对 GeoJSON 数据进行 [protocol buffers](https://developers.google.com/protocol-buffers) 编/解码，大幅减小体积，加快网络传输速度，**Mapbox 公司发布**（支持 Node.js）。
-  - [pbf](https://github.com/mapbox/pbf) - protocol buffers 编/解码，**Mapbox 公司发布**（支持 Node.js）。
 
 [Go Top ↑](#awesome-gis-list)
 
