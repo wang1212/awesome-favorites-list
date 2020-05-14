@@ -68,6 +68,8 @@
 - [印记中文](https://docschina.org/) - 包含了许多前端技术库的中文翻译文档。
 - [jQuery API 中文文档](http://jquery.cuishifeng.cn/) - 一个国内开发者维护的 jQuery API 中文文档，非常实用。
 - [favorite JavaScript utilities](https://1loc.dev/) - JavaScript 编程技巧，一行代码。
+- [CSS Triggers](https://csstriggers.com/) - 一些改变会导致重绘、重布局的 CSS 属性。
+- [What forces layout / reflow](https://gist.github.com/paulirish/5d52fb081b3570c81e3a) - 一些会导致重绘、重布局的 DOM 操作。
 
 ## HTML
 
