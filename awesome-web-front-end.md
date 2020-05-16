@@ -203,6 +203,7 @@
   - [JEST](https://jestjs.io/) - Facebook 出品的 JavaScript 单元测试工具。
   - [faker.js](https://github.com/marak/faker.js) - 生成大量随机测试数据，可用来开发过程中进行 API 调试。
   - [Chance](https://chancejs.com/) - 生成随机的测试数据。
+  - [Perfume.js](https://zizzamia.github.io/perfume/) - 性能监控工具。
  
 - Utils
   - [Underscore](https://underscorejs.org/) - JavaScript 的工具函数库，提供了大量非常有用的工具函数。
@@ -214,6 +215,7 @@
   - [chroma.js](https://vis4.net/chromajs/) - 颜色字符串解析、计算工具，功能很强大。
   - [TinyColor](https://github.com/bgrins/TinyColor) - 颜色字符串解析、计算工具，更轻量一些。
   - [one.color](https://github.com/One-com/one-color) - 颜色字符串解析、计算工具，支持 RGB, HSV, HSL, CMYK 等。
+  - [Fuse.js](https://fusejs.io/) - 模糊搜索工具。
  
 - DOM
   - [jQuery](https://jquery.com/) - 前几年非常流行的 DOM 操作工具库，处理了兼容性的细节问题。
@@ -359,7 +361,7 @@
 - [lax.js](https://github.com/alexfoxy/laxxx) - 简单、轻量的工具库，创建平滑的滚动动画。
 - [Velocity.js](http://velocityjs.org/) - 动画工具库。
 - [KUTE.js](https://thednp.github.io/kute.js/) - 高性能动画引擎。
-
+- [Shifty](https://jeremyckahn.github.io/shifty/doc/index.html) - 轻量级、高性能的低级动画工具库。
 
 [Go Top ↑](#awesome-web-front-end-list)
 
