@@ -36,6 +36,7 @@
 
 - [Node.js 中文网](http://nodejs.cn/) - 唯一与官方同步更新的 Node.js 中文文档。
 - [Introduction to Node.js](https://nodejs.dev/) - Node.js 技术介绍。
+- [JavaScript Algorithms and Data Structures](https://github.com/trekhleb/javascript-algorithms) - 算法和数据结构。
 
 [Go Top ↑](#awesome-nodejs-list)
 
