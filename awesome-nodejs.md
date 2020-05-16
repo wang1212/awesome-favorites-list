@@ -51,6 +51,7 @@
 - Tool
   - [nrm](https://github.com/Pana/nrm) - npm 换源，**非官方**。
   - [Lerna](https://lerna.js.org/) - 管理 Monorepo 架构的 Node 模块代码库工具，**非官方**。
+  - [Nx](https://nx.dev/) - 管理 Monorepo 架构的 Node 模块代码库工具，**非官方**。
   - [npm-check-updates](https://github.com/tjunnone/npm-check-updates) - 项目依赖 npm 包批量更新工具，**非官方**。
   - [Npm Trends](https://www.npmtrends.com/) - 可以查询对比多个 Npm 包的下载流量数据、star 数目等，**非官方网站**。
   - [Npm Charts](https://npmcharts.com/) - 可以查询对比多个 Npm 包的下载流量数据、star 数目等，**非官方网站**。
@@ -192,6 +193,8 @@
 
 *Desktop-side application development framework.*
 
-- [Electron](https://electronjs.org/) - 基于 Node.js 与 Chromium 技术的开源跨平台桌面端应用开发解决方案，对 Web 前端开发人员友好。
+- [Electron](https://electronjs.org/) - 基于 Node.js 与 Chromium 技术的开源跨平台桌面端应用开发解决方案。
+- [NW.js](https://nwjs.io/) - 基于 Node.js 与 Chromium 技术的开源跨平台桌面端应用开发解决方案。
+- [Neutralino](https://neutralino.js.org/) - 轻量级跨平台桌面端应用开发框架。
 
 [Go Top ↑](#awesome-nodejs-list)
