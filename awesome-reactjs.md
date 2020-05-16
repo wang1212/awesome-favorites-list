@@ -15,15 +15,15 @@
 *Resource navigation list.*
 
 - [构建工具（Build Tools）](#构建工具)
+- [Hook](#hook)
 - [状态管理（Application State Management）](#状态管理)
 - [路由管理（Route Management）](#路由管理)
-- [优化方案（Application Optimization）](#优化方案)
 - [UI 组件库（UI Component Library）](#ui-组件库)
   - [Google Material Design](#google-material-design)
   - [Bootstrap](#bootstrap)
   - [其它（Others）](#其它)
 - [数据可视化（Data Visualization）](#数据可视化)
-- [Hook](#hook)
+- [优化方案（Application Optimization）](#优化方案)
 - [其它（Others）](#其它)
 
 ## 构建工具
@@ -49,6 +49,19 @@
 - [Prettier](https://prettier.io/) - 代码格式化工具。
 - [Jest](https://jestjs.io/) - 单元测试工具，**FaceBook 发布**。
 
+[Go Top ↑](#awesome-reactjs-list)
+
+## Hook
+
+*Useful [React Hook](https://reactjs.org/docs/hooks-intro.html) tool.*
+
+（Recommend）推荐一个其它的很棒的收藏列表，:point_right: https://github.com/rehooks/awesome-react-hooks
+
+- [useWorker](https://useworker.js.org/) - 使用 Web Worker 运行复杂任务，创建非阻塞 UI。
+- [SWR](https://swr.now.sh/) - 用于远程数据获取的 Hook。
+
+[Go Top ↑](#awesome-reactjs-list)
+
 ## 状态管理
 
 *React application global state management and optimization.*
@@ -68,20 +81,6 @@
 
 - [React-Router](https://reacttraining.com/react-router/)
 - [Reach Router](https://reach.tech/router)
-
-## 优化方案
-
-*React web application optimization solution.*
-
-- Lazy Load && Code Split
-  - [loadable-components](https://www.smooth-code.com/open-source/loadable-components/) - 提供组件懒加载的功能，支持服务器端渲染（SSR）。
-  - [React-Loadable](https://github.com/jamiebuilds/react-loadable) - React 高阶组件，提供了组件懒加载功能的实现，并处理了细节问题。（:warning: 不再更新）
-
-- SSR - Server-side rendering
-  - [Next.js](https://nextjs.org) - React.js 服务器端渲染框架。
-  
-- Other
-  - [React Content Loader](https://github.com/danilowoz/react-content-loader) - 提供了组件加载占位效果（Skeleton Screen），优化交互体验。
 
 ## UI 组件库
 
@@ -140,15 +139,19 @@
 
 [Go Top ↑](#awesome-reactjs-list)
 
-## Hook
+## 优化方案
 
-*Useful [React Hook](https://reactjs.org/docs/hooks-intro.html) tool.*
+*React web application optimization solution.*
 
-（Recommend）推荐一个其它的很棒的收藏列表，:point_right: https://github.com/rehooks/awesome-react-hooks
+- Lazy Load && Code Split
+  - [loadable-components](https://www.smooth-code.com/open-source/loadable-components/) - 提供组件懒加载的功能，支持服务器端渲染（SSR）。
+  - [React-Loadable](https://github.com/jamiebuilds/react-loadable) - React 高阶组件，提供了组件懒加载功能的实现，并处理了细节问题。（:warning: 不再更新）
 
-- [useWorker](https://useworker.js.org/) - 使用 Web Worker 运行复杂任务，创建非阻塞 UI。
-
-[Go Top ↑](#awesome-reactjs-list)
+- SSR - Server-side rendering
+  - [Next.js](https://nextjs.org) - React.js 服务器端渲染框架。
+  
+- Other
+  - [React Content Loader](https://github.com/danilowoz/react-content-loader) - 提供了组件加载占位效果（Skeleton Screen），优化交互体验。
 
 ## 其它
 
