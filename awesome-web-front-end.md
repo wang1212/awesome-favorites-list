@@ -62,14 +62,12 @@
 - [JS The Right Way](http://jstherightway.org/) - 一些 JavaScript 最佳实践。
 - [SJSJ](https://github.com/HugoGiraudel/SJSJ) - JavaScript 术语介绍。
 - [33 js concepts](https://github.com/leonardomso/33-js-concepts) - 包含了丰富的 JavaScript 相关的知识概念，学习资源。
-- [w3schools](https://www.w3schools.com/) - 国外一个非常棒的 Web 技术学习资源网站。（须翻墙）
-- [w3school](http://www.w3school.com.cn/) - 国内一个仿国外 w3schools 的 Web 技术学习资源网站。
-- [菜鸟教程](http://www.runoob.com/) - 国内另一个仿国外 w3schools 的 Web 技术学习资源网站。
 - [印记中文](https://docschina.org/) - 包含了许多前端技术库的中文翻译文档。
 - [jQuery API 中文文档](http://jquery.cuishifeng.cn/) - 一个国内开发者维护的 jQuery API 中文文档，非常实用。
 - [favorite JavaScript utilities](https://1loc.dev/) - JavaScript 编程技巧，一行代码。
 - [CSS Triggers](https://csstriggers.com/) - 一些改变会导致重绘、重布局的 CSS 属性。
 - [What forces layout / reflow](https://gist.github.com/paulirish/5d52fb081b3570c81e3a) - 一些会导致重绘、重布局的 DOM 操作。
+- [JavaScript Algorithms and Data Structures](https://github.com/trekhleb/javascript-algorithms) - 算法和数据结构。
 
 ## HTML
 
@@ -356,6 +354,9 @@
 - [mo.js](https://mojs.github.io/) - 丰富，强大的运动图形动画工具库。
 - [GSAP](https://greensock.com/) - 现代化的高性能动画工具库。
 - [lax.js](https://github.com/alexfoxy/laxxx) - 简单、轻量的工具库，创建平滑的滚动动画。
+- [Velocity.js](http://velocityjs.org/) - 动画工具库。
+- [KUTE.js](https://thednp.github.io/kute.js/) - 高性能动画引擎。
+
 
 [Go Top ↑](#awesome-web-front-end-list)
 
