@@ -14,6 +14,7 @@
 - [期刊（Journal）](#期刊)
 - [论坛（Forum）](#论坛)
 - [书籍（Book）](#书籍)
+- [文章(Article)]
 - [其它（Others）](#其它)
 
 ## 数据
@@ -142,6 +143,7 @@
 - Programming language
   - 《C 程序设计语言》[美] Dennis M. Ritchie, Brian W. Kernighan
   - [《你不知道的 JavaScript》](https://github.com/getify/You-Dont-Know-JS)[美] Kyle Simpson - 系列书籍，讲解 JavaScript 核心概念，**开源书籍**。
+  - [Eloquent JavaScript](https://eloquentjavascript.net/)[美] Marijn Haverbeke - JavaScript、Node.js 技术，**开源书籍**。
   - [《Python 101》](http://python101.pythonlibrary.org)[美] Mike Driscoll - 讲述 Python 3 初级编程的书籍。	
   - 《Python 201》[美] Mike Driscoll - 讲述 Python 3 中级编程的书籍。
   - 《Ruby 元编程》[意] Paolo Perrotta
@@ -205,6 +207,12 @@
 *Philosophical Books.*
 
 - 《苏菲的世界》[挪威] 乔斯坦·贾德
+
+[Go Top ↑](#awesome-reading-list)
+
+## 文章
+
+*Some very useful articles.*
 
 [Go Top ↑](#awesome-reading-list)
 
