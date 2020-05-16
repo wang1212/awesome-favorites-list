@@ -210,6 +210,9 @@
   - [Ramda](https://ramdajs.com/) - JavaScript 的工具函数库，适用于函数式编程。
   - [RxJS](https://rxjs.dev/) - 响应式编程（Reactive Extensions）的 JavaScript 实现，对异步数据集合处理很方便。
   - [clsx](https://github.com/lukeed/clsx) - 非常轻量的 CSS 类名拼接工具。
+  - [polished](https://polished.js.org/) - CSS 样式辅助工具。
+  - [chroma.js](https://vis4.net/chromajs/) - 颜色字符串解析、计算工具，功能很强大。
+  - [TinyColor](https://github.com/bgrins/TinyColor) - 颜色字符串解析、计算工具，更轻量一些。
   - [one.color](https://github.com/One-com/one-color) - 颜色字符串解析、计算工具，支持 RGB, HSV, HSL, CMYK 等。
  
 - DOM
