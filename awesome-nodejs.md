@@ -27,6 +27,7 @@
 *Official technical specifications.*
 
 - [Node.js](https://nodejs.org/) - Node.js 官方网站。
+- [Universal Module Definition](https://github.com/umdjs/umd) - 通用模块定义。
 
 [Go Top ↑](#awesome-nodejs-list)
 
