@@ -38,6 +38,7 @@
 - [Node.js 中文网](http://nodejs.cn/) - 唯一与官方同步更新的 Node.js 中文文档。
 - [Introduction to Node.js](https://nodejs.dev/) - Node.js 技术介绍。
 - [JavaScript Algorithms and Data Structures](https://github.com/trekhleb/javascript-algorithms) - 算法和数据结构。
+- [Setting up multi-platform npm packages](https://2ality.com/2017/04/setting-up-multi-platform-packages.html) - 多平台支持的 npm 包配置。
 
 [Go Top ↑](#awesome-nodejs-list)
 
@@ -49,6 +50,7 @@
   - [npm](https://www.npmjs.com/) - Node.js 的官方包管理器。
   - [Yarn](https://www.yarnpkg.com/)
   - [Bower](https://bower.io/)
+  - [jspm](https://jspm.org/)
 
 - Tool
   - [nrm](https://github.com/Pana/nrm) - npm 换源，**非官方**。
@@ -87,6 +89,7 @@
   - [Chance](https://chancejs.com/) - 生成随机的测试数据。  
 
 - Dev
+  - [SystemJS](https://github.com/systemjs/systemjs) - 动态 ES Module 加载器。
   - [esm](https://github.com/standard-things/esm) - 能够为 `.js` 文件提供 [ECMAScript Modules](https://tc39.es/ecma262/#sec-modules) 支持。
   - [nodemon](https://nodemon.io) - 提供 Node.js 开发时热重载机制。
   - [TS Node](https://github.com/TypeStrong/ts-node) - Node.js 的 TypeScript 语言运行器和交互式解释器。
