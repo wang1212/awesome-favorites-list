@@ -71,10 +71,13 @@
   - [nvm](https://github.com/nvm-sh/nvm) - Node 版本管理，**不支持 Windows 系统**。
   - [nvm-windows](https://github.com/coreybutler/nvm-windows) - Windows 系统下的 Node 版本管理工具。
 
-- Process Manage
-  - [Forever](https://github.com/foreversd/forever) - Node 应用生产环境进程管理工具，使用简单方便。
-  - [PM2](https://pm2.keymetrics.io/) - Node 应用生产环境进程管理工具，支持集群、负载、远程部署，提供收费服务的实时监控平台。
-  - [StrongLoop-PM](http://strong-pm.io/) - Node 应用生产环境进程管理工具，支持集群、负载、远程部署，提供收费服务的实时监控平台。
+- Build
+  - [webpack](https://webpack.js.org/) - 打包工具，适合开发 Web 应用。
+  - [Rollup](http://rollupjs.org/) - 打包工具，适合开发库、框架。
+  - [SystemJS](https://github.com/systemjs/systemjs) - 动态 ES Module 加载器。
+  - [esm](https://github.com/standard-things/esm) - 能够为 `.js` 文件提供 [ECMAScript Modules](https://tc39.es/ecma262/#sec-modules) 支持。
+  - [nodemon](https://nodemon.io) - 提供 Node.js 开发时热重载机制。
+  - [TS Node](https://github.com/TypeStrong/ts-node) - Node.js 的 TypeScript 语言运行器和交互式解释器。
 
 - Doc
   - [JSDoc](https://jsdoc.app/) - JavaScript 的 API 文档生成工具。
@@ -88,16 +91,14 @@
   - [faker.js](https://github.com/marak/faker.js) - 生成大量随机测试数据，可用来开发过程中进行 API 调试。
   - [Chance](https://chancejs.com/) - 生成随机的测试数据。  
 
-- Dev
-  - [SystemJS](https://github.com/systemjs/systemjs) - 动态 ES Module 加载器。
-  - [esm](https://github.com/standard-things/esm) - 能够为 `.js` 文件提供 [ECMAScript Modules](https://tc39.es/ecma262/#sec-modules) 支持。
-  - [nodemon](https://nodemon.io) - 提供 Node.js 开发时热重载机制。
-  - [TS Node](https://github.com/TypeStrong/ts-node) - Node.js 的 TypeScript 语言运行器和交互式解释器。
-  - [http-server](https://github.com/http-party/http-server) - 可快速启动一个轻量的 http 服务器。
-
 - Code version management 
   - [husky](https://github.com/typicode/husky) - 更容易的使用 [Git Hooks](https://git-scm.com/book/it/v2/Customizing-Git-Git-Hooks)。
   - [lint-staged](https://www.npmjs.com/package/lint-staged) - 搭配 husky 使用，提交代码前进行 lint。
+
+- Process Manage
+  - [Forever](https://github.com/foreversd/forever) - Node 应用生产环境进程管理工具，使用简单方便。
+  - [PM2](https://pm2.keymetrics.io/) - Node 应用生产环境进程管理工具，支持集群、负载、远程部署，提供收费服务的实时监控平台。
+  - [StrongLoop-PM](http://strong-pm.io/) - Node 应用生产环境进程管理工具，支持集群、负载、远程部署，提供收费服务的实时监控平台。
 
 - Utils
   - [chalk](https://github.com/chalk/chalk) - 终端输出字符串样式工具，支持全部的颜色。
@@ -107,6 +108,7 @@
   - [web-worker](https://github.com/developit/web-worker) - 在浏览器和 Node.js 环境中实现一致的 Web Worker API。
 
 - HTTP Server
+  - [http-server](https://github.com/http-party/http-server) - 可快速启动一个轻量的 http 服务器。
   - [log4js](https://github.com/log4js-node/log4js-node) - 日志记录。
 
 - HTTP Request
