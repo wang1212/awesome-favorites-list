@@ -27,6 +27,7 @@
 *Official technical specifications.*
 
 - [Node.js](https://nodejs.org/) - Node.js 官方网站。
+- [ECMA International](http://www.ecma-international.org/) - ECMA 国际是一家国际性会员制度的信息和电信标准组织，负责行业标准的制定，例如 ECMA Script。
 - [Universal Module Definition](https://github.com/umdjs/umd) - 通用模块定义。
 
 [Go Top ↑](#awesome-nodejs-list)
