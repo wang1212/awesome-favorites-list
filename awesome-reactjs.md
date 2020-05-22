@@ -59,6 +59,7 @@
 
 - [useWorker](https://useworker.js.org/) - 使用 Web Worker 运行复杂任务，创建非阻塞 UI。
 - [SWR](https://swr.now.sh/) - 用于远程数据获取的 Hook。
+- [React Query](https://github.com/tannerlinsley/react-query) - 服务器端数据获取、缓存、异步更新。
 
 [Go Top ↑](#awesome-reactjs-list)
 
@@ -103,6 +104,15 @@
 
 - [reactstrap](https://reactstrap.github.io/) - 基于 Bootstrap 4，**非 Bootstrap 官方实现**。
 - [react-bootstrap](https://github.com/react-bootstrap/react-bootstrap) - 基于 Bootstrap 4，**非 Bootstrap 官方实现**。
+
+### Animation
+
+*Some useful animation libraries.*
+
+- [React Transition Group](https://reactcommunity.org/react-transition-group/) - 过渡动画。
+- [React-Motion](https://github.com/chenglou/react-motion) - 提供更简单的动画 API。
+- [Framer-Motion](https://framer.com/api/motion) - 手势动画。
+- [React Awesome Reveal](https://react-awesome-reveal.morello.dev/) - 基于 [Intersection Observer API](https://developer.mozilla.org/en-US/docs/Web/API/Intersection_Observer_API) 和 [Animate.css](https://animate.style/) 的动画库。
 
 ### 其它
 
