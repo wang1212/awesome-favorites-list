@@ -68,6 +68,7 @@
   - [JavaScript Weekly](https://javascriptweekly.com/) - 周刊，JavaScript 技术。
   - [JSK Weekly](https://javascriptkicks.com/) - 周刊，JavaScript 技术。
   - [CSS Weekly](https://css-weekly.com/) - 周刊，CSS 技术。
+  - [CSS Animation Weekly](https://cssanimation.rocks/weekly/) - 周刊，CSS 动画。
   - [Node Weekly](https://nodeweekly.com/) - 周刊，Node.js 技术。
   - [npm Weekly](https://www.npmjs.com/npm-weekly) - 周刊，npm 新闻。
   - [Deno Weekly](https://denoweekly.com/) - 周刊，Deno 技术。
@@ -117,6 +118,7 @@
 - [慕课网](https://www.imooc.com/) - 国内一个提供计算机开发技术学习课程收费服务的网站，有大量免费优质学习资源。
 - [Linux 公社](https://www.linuxidc.com/) - 国内一个论坛，内有大量 Linux 相关资源。
 - [PaperWeekly](http://www.paperweekly.site/) - 一个推荐、解读、讨论和报道人工智能前沿论文成果的学术平台。
+- [前端资源网](http://www.fly63.com/) - Web 前端开发技术资源论坛。
 
 ### 文学
 
@@ -163,6 +165,7 @@
   - 《图解 HTTP》[日] 上野 · 宣
   - 《图解 TCP/IP》[日] 竹下隆史 村山公保 荒井透 苅田幸雄  
   - 《前端架构设计》[美] Micah Godbolt - 很好的 Web 前端工程化实践参考。
+  - [CSS Animation 101](https://github.com/cssanimation/css-animation-101) - 学习 CSS 动画，**开源书籍**。
   
 - Android development
   - 《Android 4 高级编程》[美] Reto Meier
