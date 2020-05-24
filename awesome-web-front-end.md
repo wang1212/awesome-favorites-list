@@ -32,6 +32,7 @@
 - [资源（Resources）](#资源)
   - [CDN](#cdn)
   - [在线工具（Online Tools）](#在线工具) 
+  - [文章（Article）](#文章)
   - [其它（Others）](#其它)
 
 ## 技术规范标准
@@ -66,7 +67,6 @@
 - [jQuery API 中文文档](http://jquery.cuishifeng.cn/) - 一个国内开发者维护的 jQuery API 中文文档，非常实用。
 - [favorite JavaScript utilities](https://1loc.dev/) - JavaScript 编程技巧，一行代码。
 - [CSS Triggers](https://csstriggers.com/) - 一些改变会导致重绘、重布局的 CSS 属性。
-- [What forces layout / reflow](https://gist.github.com/paulirish/5d52fb081b3570c81e3a) - 一些会导致重绘、重布局的 DOM 操作。
 - [JavaScript Algorithms and Data Structures](https://github.com/trekhleb/javascript-algorithms) - 算法和数据结构。
 
 ## HTML
@@ -437,6 +437,13 @@
   - [Color Hunt](https://colorhunt.co/) - 配色方案。
   - [Open Color](https://yeun.github.io/open-color/) - 配色方案。
   - [Doka](https://doka.photo/) - 图片编辑工具。
+
+### 文章
+
+*Some technical discussion articles.*
+
+- [What forces layout / reflow](https://gist.github.com/paulirish/5d52fb081b3570c81e3a) - 一些会导致重绘、重布局的 DOM 操作。
+- [You might not need jQuery](http://youmightnotneedjquery.com/)
 
 ### 其它
 
