@@ -33,8 +33,6 @@
   - [lib4dev](http://www.lib4dev.in/) - 开源库分类查询。
   - [tool.lu](https://tool.lu/) - 开发者小工具集合。
   - [DevDocs](https://devdocs.io/) - 在线技术文档查询。
-  - [IPAddress](https://www.ipaddress.com/) - 查询某个站点的 IP 地址。
-  - [DocTranslator](https://www.onlinedoctranslator.com/zh-CN/) - 在线网站，可翻译文档，PDF 转 Word 无水印。
   - [DB-Engines](https://db-engines.com/) - 数据库排名信息。
   
 - 编程技巧（Programming skills）
