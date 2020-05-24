@@ -14,7 +14,8 @@
 - [日常办公（Office）](#日常办公)
   - [浏览器（Browser）](#浏览器)
   - [多媒体（Multimedia）](#多媒体)
-  - [文件下载（Download）](#文件下载)
+  - [下载（Download）](#下载)
+  - [文件处理（File Processing）](#文件处理)
   - [其它（Others）](#其它)
 - [设计（Design）](#设计)
 - [软件开发（Software Development）](#软件开发)
@@ -71,13 +72,20 @@
 - [Captura](https://mathewsachin.github.io/Captura/) - 轻量级的录屏、截屏等功能，**开源软件**。
 - [FFmpeg](http://ffmpeg.org/) - 命令行工具，完整的、跨平台的解决方案，用于记录、转换和流传输音频和视频，大部分媒体播放器软件的核心库，**开源软件**。
 
-### 文件下载
+### 下载
 
 *File download tool.*
 
 - [Free Download Manager](https://www.freedownloadmanager.org/) - 加速下载器，全平台支持，**开源软件**。
 - [BitComet](http://www.bitcomet.com/) - BitTorrent 下载客户端，**免费软件**。
 - [WebTorrent](https://webtorrent.io/) - Web 端和桌面端跨平台的流式 torrent 客户端，**开源软件**。
+
+### 文件处理
+
+*File processing tools.*
+
+- [DocTranslator](https://www.onlinedoctranslator.com/zh-CN/) - 在线文档翻译工具，以及 PDF 转 Word 无水印等。
+- [HiPDF](https://www.hipdf.com/) - PDF 在线处理工具。
 
 ### 其它
 
@@ -188,8 +196,9 @@
 
 *Uncategorized software.*
 
+- [IPAddress](https://www.ipaddress.com/) - 在线查询某个站点的 IP 地址。
+- [MSDN, I tell you](https://msdn.itellyou.cn/) - 可下载系统镜像文件。
 - [Slant](https://www.slant.co/) - 搜索最佳实践。
 - [LibHunt](https://www.libhunt.com/) - 收集了各种库的网站。
-- [MSDN, I tell you](https://msdn.itellyou.cn/) - 可下载系统镜像文件。
 
 [Go Top ↑](#awesome-software)
