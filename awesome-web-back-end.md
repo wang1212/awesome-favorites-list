@@ -24,6 +24,7 @@
 - [JSON Specification](http://www.json.org/) - JSON 数据格式规范。
 - [JSON5 Specification](https://spec.json5.org/) - JSON5 数据格式规范，是对 JSON 格式的扩展，支持注释等特性。
 - [NDJSON Specification](http://ndjson.org/) - Newline Delimited JSON 数据格式规范。
+- [BSON Specification](http://bsonspec.org/) - Binary JSON 数据格式规范。
 - [YAML Specification](https://yaml.org/) - yaml 数据格式规范。
 
 [Go Top ↑](#awesome-web-back-end-list)
