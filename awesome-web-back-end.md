@@ -8,7 +8,7 @@
 
 ## 目录
 
-Resource navigation list.
+*Resource navigation list.*
 
 - [技术规范标准（Technical Specifications）](#技术规范标准)
 - [技术参考文档（Technical Reference Document）](#技术参考文档)
@@ -18,7 +18,7 @@ Resource navigation list.
 
 ## 技术规范标准
 
-Official technical specifications.
+*Official technical specifications.*
 
 - [OpenAPI](https://www.openapis.org/) - 定义了一种 REST APIs 标准。
 - [JSON Specification](http://www.json.org/) - JSON 数据格式规范。
@@ -30,7 +30,7 @@ Official technical specifications.
 
 ## 技术参考文档
 
-Official and unofficial technical reference documents.
+*Official and unofficial technical reference documents.*
 
 - [Learn REST](http://rest.elkstein.org/) - RESTful 学习参考。
 
@@ -38,7 +38,7 @@ Official and unofficial technical reference documents.
 
 ## 服务器
 
-Containers that run server-side programs and provide static resource services.
+*Containers that run server-side programs and provide static resource services.*
 
 - [Linux](https://www.linux.org/) - 服务器领域操作系统。
   - [Ubuntu](https://ubuntu.com/) - 最为流行的 Linux 发行版，提供图形化界面等资源。
@@ -55,12 +55,14 @@ Containers that run server-side programs and provide static resource services.
 
 ## 其它
 
-Other unclassified resources.
+*Other unclassified resources.*
+
+- [NGINX Config](https://www.digitalocean.com/community/tools/nginx) - Nginx 配置在线生成工具。
 
 ### 文章
 
-- [How To Safely Store A Password](https://codahale.com/how-to-safely-store-a-password/)
+*Some articles related to server-side problem solutions.*
 
-Some articles related to server-side problem solutions.
+- [How To Safely Store A Password](https://codahale.com/how-to-safely-store-a-password/)
 
 [Go Top ↑](#awesome-web-back-end-list)
