@@ -10,6 +10,7 @@
 
 *Resource navigation list.*
 
+- [在线工具（Online Tools）](#在线工具)
 - [阅读（Reading）](awesome-reading.md)
 - [软件（Software）](awesome-software.md)
 - 软件开发（Software Development）
@@ -25,15 +26,14 @@
 - [更多（More）](#更多)
 - [贡献（Contribution）](#贡献)
 
-## 其它
+## 线工具
 
-*Other unclassified resources.*
+*Online tools, tools that can be used directly on the web page.*
 
-- 在线工具（Online tools）
-  - [lib4dev](http://www.lib4dev.in/) - 开源库分类查询。
-  - [tool.lu](https://tool.lu/) - 开发者小工具集合。
-  - [DevDocs](https://devdocs.io/) - 在线技术文档查询。
-  - [DB-Engines](https://db-engines.com/) - 数据库排名信息。
+- [lib4dev](http://www.lib4dev.in/) - 开源库分类查询。
+- [tool.lu](https://tool.lu/) - 开发者小工具集合。
+- [DevDocs](https://devdocs.io/) - 在线技术文档查询。
+- [DB-Engines](https://db-engines.com/) - 数据库排名信息。
   
 - 编程技巧（Programming skills）
   - [Semantic Versioning](https://semver.org/) - 语义化版本控制。
