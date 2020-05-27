@@ -453,4 +453,6 @@
   - [Emscripten](https://emscripten.org/) - 用于编译为使用 LLVM 构建的 asm.js 和 WebAssembly 的工具链，可在 Web 浏览器中运行 C/C++ 代码。
   - [Cheerp](https://www.leaningtech.com/cheerp/) - 与 Emscripten 类似。
 
+- [JavaScript Open Source Award](https://osawards.com/javascript/) - JavaScript 开源项目奖，**非官方**。
+
 [Go Top ↑](#awesome-web-front-end-list)
