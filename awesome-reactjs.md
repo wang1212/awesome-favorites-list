@@ -72,10 +72,14 @@
 - [Redux](https://redux.js.org/) - Redux 是一个独立的应用状态管理库，它本身是可以和任何库结合使用的，但通常提到它均是认为和 React.js 一块使用，需要配合 react-redux 使用。
   - [React-Redux](https://react-redux.js.org/) - 将 Redux 与 React.js 搭配使用，**Redux 官方实现**。
   - [Redux-Thunk](https://github.com/reduxjs/redux-thunk) - 作为一个 Redux 的中间件存在，提供了异步支持，**Redux 官方实现**。
+  - [redux-saga](https://redux-saga.js.org/) - 提供异步支持，功能比 Redux-Thunk 更丰富，利于测试。
   - [Reselect](https://github.com/reduxjs/reselect) - Redux 状态缓存。
   - [Redux-Logger](https://github.com/LogRocket/redux-logger) - 调试工具，作为一个 Redux 的中间件存在，提供了打印 Redux 日志功能。
-  - [redux-devtools](https://github.com/reduxjs/redux-devtools) - Redux 调试工具，chrome 插件。
-  
+  - [redux-devtools](https://github.com/reduxjs/redux-devtools) - Redux 调试工具，Chrome 插件。
+
+- [Rematch](https://rematch.github.io/rematch/) - 对 Redux 进行了封装，提供更简单方便的 API。
+- [Mirror](https://github.com/mirrorjs/mirror) - 简单的状态管理库。
+
 - [Immutable.js](https://immutable-js.github.io/immutable-js/) - 不可变数据。（:warning: 不再更新）
 - [Immer](https://immerjs.github.io/immer/) - 不可变数据。
 
