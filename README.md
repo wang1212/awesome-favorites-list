@@ -22,7 +22,6 @@
   - [GIS 开发（GIS Development）](awesome-gis.md)
   - [Node.js](awesome-nodejs.md)
   - [Python](awesome-python.md)
-- [其它（Others）](#其它)
 - [更多（More）](#更多)
 - [贡献（Contribution）](#贡献)
 
@@ -30,11 +29,34 @@
 
 *Online tools, tools that can be used directly on the web page.*
 
+### 日常使用
+
+*Things you need for daily use, work or internet.*
+
+- [IPAddress](https://www.ipaddress.com/) - 在线查询某个站点的 IP 地址。
+- [MSDN, I tell you](https://msdn.itellyou.cn/) - 可下载系统镜像文件。
+- [DocTranslator](https://www.onlinedoctranslator.com/zh-CN/) - 在线文档翻译工具，以及 PDF 转 Word 无水印等。
+- [HiPDF](https://www.hipdf.com/) - PDF 在线处理工具。
+
+### 软件开发
+
+*Software Development, technical information, documentation, etc.*
+
+- [StackShare](https://stackshare.io/) - 技术趋势分享。
+- [Open Source Awards](https://osawards.com/) - 开源项目奖。
+- [LibHunt](https://www.libhunt.com/) - 收集了各种库的网站。
 - [lib4dev](http://www.lib4dev.in/) - 开源库分类查询。
 - [tool.lu](https://tool.lu/) - 开发者小工具集合。
 - [DevDocs](https://devdocs.io/) - 在线技术文档查询。
 - [DB-Engines](https://db-engines.com/) - 数据库排名信息。
-  
+
+- 在线编辑器（Online Editor）
+  - [CodeTable](https://code.hackerearth.com/)
+  - [JDoodle](https://www.jdoodle.com/)
+  - [IdeOne](https://ideone.com/)
+  - [OnlineGDB](https://www.onlinegdb.com/)
+  - [CodeMirror](https://codemirror.net/)
+
 - 编程技巧（Programming skills）
   - [Semantic Versioning](https://semver.org/) - 语义化版本控制。
   - [Bash Pitfalls](http://mywiki.wooledge.org/BashPitfalls) - 此页面汇总了 Bash 用户常犯的编程错误。
@@ -42,10 +64,14 @@
   - [Perfection Kills](http://perfectionkills.com/)	
   - [Hackr.io](https://hackr.io/) - 在线教程。				
 
-- 其它（Others）	
-  - [Pexels](https://www.pexels.com/zh-cn/) - 免费的摄影素材分享。
-  - [Unsplash](https://unsplash.com/) - 免费的图片素材。
-  - [ProductHunt](https://www.producthunt.com/) - 产品发布分享。		
+### 其它
+
+*Others.*
+
+- [Pexels](https://www.pexels.com/zh-cn/) - 免费的摄影素材分享。
+- [Unsplash](https://unsplash.com/) - 免费的图片素材。
+- [ProductHunt](https://www.producthunt.com/) - 产品发布分享。
+- [Slant](https://www.slant.co/) - 搜索最佳实践。
 
 [Go Top ↑](#awesome-favorites-list)
 
