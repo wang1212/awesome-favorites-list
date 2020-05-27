@@ -67,6 +67,8 @@
 
 *React application global state management and optimization.*
 
+（Recommend）Redux 生态技术，:point_right: https://github.com/markerikson/redux-ecosystem-links
+
 - [Redux](https://redux.js.org/) - Redux 是一个独立的应用状态管理库，它本身是可以和任何库结合使用的，但通常提到它均是认为和 React.js 一块使用，需要配合 react-redux 使用。
   - [React-Redux](https://react-redux.js.org/) - 将 Redux 与 React.js 搭配使用，**Redux 官方实现**。
   - [Redux-Thunk](https://github.com/reduxjs/redux-thunk) - 作为一个 Redux 的中间件存在，提供了异步支持，**Redux 官方实现**。
@@ -74,7 +76,8 @@
   - [Redux-Logger](https://github.com/LogRocket/redux-logger) - 调试工具，作为一个 Redux 的中间件存在，提供了打印 Redux 日志功能。
   - [redux-devtools](https://github.com/reduxjs/redux-devtools) - Redux 调试工具，chrome 插件。
   
-- [Immutable.js](https://immutable-js.github.io/immutable-js/) - 不可变数据。
+- [Immutable.js](https://immutable-js.github.io/immutable-js/) - 不可变数据。（:warning: 不再更新）
+- [Immer](https://immerjs.github.io/immer/) - 不可变数据。
 
 ## 路由管理
 
@@ -146,6 +149,7 @@
 *Data visualization chart library, framework.*
 
 - [React-Vis](https://uber.github.io/react-vis/) - 图表可视化库，**Uber 团队开发**。
+- [vx](https://vx-demo.now.sh/) - 基于 React 和 D3.js 的可视化库。
 
 [Go Top ↑](#awesome-reactjs-list)
 
@@ -154,8 +158,8 @@
 *React web application optimization solution.*
 
 - Lazy Load && Code Split
-  - [loadable-components](https://www.smooth-code.com/open-source/loadable-components/) - 提供组件懒加载的功能，支持服务器端渲染（SSR）。
-  - [React-Loadable](https://github.com/jamiebuilds/react-loadable) - React 高阶组件，提供了组件懒加载功能的实现，并处理了细节问题。（:warning: 不再更新）
+  - [loadable-components](https://www.smooth-code.com/open-source/loadable-components/) - 实现组件懒加载功能，支持服务器端渲染（SSR）。
+  - [React-Loadable](https://github.com/jamiebuilds/react-loadable) - 基于 React 高阶组件，实现组件懒加载功能。（:warning: 不再更新）
 
 - SSR - Server-side rendering
   - [Next.js](https://nextjs.org) - React.js 服务器端渲染框架。
@@ -169,5 +173,6 @@
 
 - [React-JSS](https://cssinjs.org/react-jss) - JSS 是 CSS-in-JS 的一种解决方案，这个是与 React 的集成方案。
 - [awesome-react-hooks](https://github.com/brillout/awesome-react-components)
+- [React Open Source Awards](https://osawards.com/react/) - React 开源项目奖，**非官方**。
 
 [Go Top ↑](#awesome-reactjs-list)
