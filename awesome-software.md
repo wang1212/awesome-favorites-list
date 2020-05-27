@@ -120,14 +120,14 @@
 
 *Open source free IDE editor, online code editor and some commercial paid IDE.*
 
-- Online
+- 在线（Online）
   - [CodeTable](https://code.hackerearth.com/)
   - [JDoodle](https://www.jdoodle.com/)
   - [IdeOne](https://ideone.com/)
   - [OnlineGDB](https://www.onlinegdb.com/)
   - [CodeMirror](https://codemirror.net/)
 
-- Local
+- 本地（Local）
   - [VS Code](https://code.visualstudio.com/) - 微软开源的一款轻量级开发工具，功能很强大，深受开发者的青睐，是 Web 前端开发者的工作利器。
   - [Sublime Text](http://www.sublimetext.com/) - 一款开源的轻量级编辑器，功能很强大，是在 VS Code、Atom 出现之前最受开发者欢迎的编辑器。
   - [Eclipse](https://www.eclipse.org/) - 开源的重量级编辑器，功能非常强大，是 Java 开发者中使用最多的 IDE。
@@ -196,9 +196,7 @@
 
 *Uncategorized software.*
 
-- [IPAddress](https://www.ipaddress.com/) - 在线查询某个站点的 IP 地址。
 - [MSDN, I tell you](https://msdn.itellyou.cn/) - 可下载系统镜像文件。
 - [Slant](https://www.slant.co/) - 搜索最佳实践。
-- [LibHunt](https://www.libhunt.com/) - 收集了各种库的网站。
 
 [Go Top ↑](#awesome-software)
