@@ -206,4 +206,6 @@
 - [NW.js](https://nwjs.io/) - 基于 Node.js 与 Chromium 技术的开源跨平台桌面端应用开发解决方案。
 - [Neutralino](https://neutralino.js.org/) - 轻量级跨平台桌面端应用开发框架。
 
+- [JavaScript Open Source Award](https://osawards.com/javascript/) - JavaScript 开源项目奖，**非官方**。
+
 [Go Top ↑](#awesome-nodejs-list)
