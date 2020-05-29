@@ -59,6 +59,7 @@
   - [Lerna](https://lerna.js.org/) - 管理 Monorepo 架构的 Node 模块代码库工具，**非官方**。
   - [Nx](https://nx.dev/) - 管理 Monorepo 架构的 Node 模块代码库工具，**非官方**。
   - [npm-check-updates](https://github.com/tjunnone/npm-check-updates) - 项目依赖 npm 包批量更新工具，**非官方**。
+  - [np](https://github.com/sindresorhus/np) - `npm publish` 的替代工具库，让发布更优雅、安全，**非官方**。
   - [Npm Trends](https://www.npmtrends.com/) - 可以查询对比多个 Npm 包的下载流量数据、star 数目等，**非官方网站**。
   - [Npm Charts](https://npmcharts.com/) - 可以查询对比多个 Npm 包的下载流量数据、star 数目等，**非官方网站**。
 
