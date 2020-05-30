@@ -22,6 +22,7 @@
   - [IDE/编辑器（IDE/Editor）](#ide-编辑器)
   - [源代码管理（Source Code Management）](#源代码管理)
   - [开发辅助工具（Developer Aids）](#开发辅助工具)
+- [命令行工具（CLI Tools）](#命令行工具)
 - [其它资源（Others）](#其它资源)
 
 ## 应用程序商店
@@ -69,8 +70,6 @@
 - [VLC media player](http://www.videolan.org/vlc/) - 跨平台多媒体播放器及框架，可播放大多数多媒体文件，**开源软件**。
 - [MPC-HC](https://mpc-hc.org/) - Windows 平台轻量的媒体播放器，**开源软件**。（:warning: 不再更新）
 - [Open Broadcaster Software](https://obsproject.com/) - 具有强大的录屏、截屏、流媒体传输等功能，**开源软件**。
-- [Captura](https://mathewsachin.github.io/Captura/) - 轻量级的录屏、截屏等功能，**开源软件**。
-- [FFmpeg](http://ffmpeg.org/) - 命令行工具，完整的、跨平台的解决方案，用于记录、转换和流传输音频和视频，大部分媒体播放器软件的核心库，**开源软件**。
 
 ### 下载
 
@@ -79,6 +78,8 @@
 - [Free Download Manager](https://www.freedownloadmanager.org/) - 加速下载器，全平台支持，**开源软件**。
 - [BitComet](http://www.bitcomet.com/) - BitTorrent 下载客户端，**免费软件**。
 - [WebTorrent](https://webtorrent.io/) - Web 端和桌面端跨平台的流式 torrent 客户端，**开源软件**。
+- [Persepolis Download Manager](https://persepolisdm.github.io/) - 一个 [aria2](https://aria2.github.io/) 的图形化界面软件，**开源软件**。
+- [Xtreme Download Manager](https://subhra74.github.io/xdm/) - 提供了很多浏览器插件支持，支持视频格式转换，**开源软件**。
 
 ### 文件处理
 
@@ -100,9 +101,9 @@
 - [Cleaver](http://jdan.github.io/cleaver/) - Markdown 文件生成幻灯片。
 - [mermaid](https://github.com/mermaid-js/mermaid) - txt 文件生成流程图。
 - [nodeppt](https://github.com/ksky521/nodeppt)
+- [Captura](https://mathewsachin.github.io/Captura/) - 轻量级、功能齐全的录屏、截屏软件，需安装 FFmpeg 依赖，**开源软件**。
 
 [Go Top ↑](#awesome-software)
-
 
 ## 设计
 
@@ -192,11 +193,21 @@
 
 [Go Top ↑](#awesome-software)
 
+## 命令行工具
+
+*Some command line tools without GUI.*
+
+- [FFmpeg](http://ffmpeg.org/) - 命令行工具，完整的、跨平台的解决方案，用于记录、转换和流传输音频和视频，**开源软件**。
+- [aria2](https://aria2.github.io/) - 支持多协议、高速文件下载工具，**开源软件**。
+
+[Go Top ↑](#awesome-software)
+
 ## 其它资源
 
 *Uncategorized software.*
 
 - [MSDN, I tell you](https://msdn.itellyou.cn/) - 可下载系统镜像文件。
 - [Slant](https://www.slant.co/) - 搜索最佳实践。
+- [小众软件](https://www.appinn.com/) - 小众软件推荐网站。
 
 [Go Top ↑](#awesome-software)
