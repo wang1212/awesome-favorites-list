@@ -117,9 +117,10 @@
   - [Normalize.css](http://necolas.github.io/normalize.css/) - 现代化的 Reset CSS 工具库，统一浏览器默认样式。
   - [sanitize.css](https://csstools.github.io/sanitize.css/)
 
-- Utils
+- Animate
   - [Animate.css](https://daneden.github.io/animate.css/) - 丰富的 CSS 动画工具库。
-  - [Imagehover.css](http://imagehover.io/) - 添加鼠标悬停效果。
+  - [Hover.css](http://ianlunn.github.io/Hover/) - 添加鼠标悬停动画效果。
+  - [Imagehover.css](http://imagehover.io/) - 添加鼠标悬停动画效果。
 
 ### 字体图标
 
@@ -263,6 +264,19 @@
   - [Fabric.js](http://fabricjs.com/) - 矢量绘图工具。
   - [Pencil.js](https://pencil.js.org/) - 2D 绘图库。
 
+- Animate
+  - [Anime.js](https://animejs.com/) - 动画引擎，轻量的 JavaScript 动画工具库。
+  - [Velocity.js](http://velocityjs.org/) - 动画引擎，为元素提供动画效果。
+  - [mo.js](https://mojs.github.io/) - 丰富，强大的运动图形动画工具库。
+  - [KUTE.js](https://thednp.github.io/kute.js/) - 高性能动画引擎。
+  - [Popmotion](https://popmotion.io/) - 实用、灵活的 JavaScript 动画工具套件。
+  - [tween.js](https://createjs.com/tweenjs) - 动画工具库。
+  - [ScrollReveal](https://scrollrevealjs.org/) - 为滚动进入视区的元素提供动画效果。
+  - [lax.js](https://github.com/alexfoxy/laxxx) - 简单、轻量的工具库，创建平滑的滚动动画。
+  - [vivus.js](https://github.com/maxwellito/vivus) - 为 SVG 提供动画效果。
+  - [SVG.js](https://svgjs.com/) - 轻量级 SVG 动画库。
+  - [Typed.js](https://github.com/mattboldt/typed.js) - 为输入框输入提供动画效果。
+
 - QR Code
   - [node-qrcode](https://github.com/soldair/node-qrcode) - 二维码生成。
   - [Awesome-qr.js](https://www.bitcat.cc/webapp/awesome-qr/index.html) - 个性化二维码生成。（:warning: 不再更新）
@@ -341,6 +355,8 @@
   - [FilePond ](https://pqina.nl/filepond/) - 文件上传。
   - [TOAST UI Calendar](https://github.com/nhn/tui.calendar) - 强大的日历日程组件。
   - [reveal.js](https://revealjs.com/) - 创建漂亮的演示文稿（幻灯片）。
+  - [Cleave.js](https://nosir.github.io/cleave.js/) - 格式化输入框内容。
+  - [slick](https://kenwheeler.github.io/slick/) - 轮播组件。
 
 [Go Top ↑](#awesome-web-front-end-list)
 
@@ -354,13 +370,7 @@
 - [Chart.js](https://www.chartjs.org/) - 最流行的轻量级图表库。
 - [Echarts](http://echarts.apache.org/) - 国内百度团队开发的图表库，功能丰富。
 - [C3](https://c3js.org/) - 基于 D3 的可重用图表库。
-- [Anime.js](https://animejs.com/) - 轻量的 JavaScript 动画工具库。
-- [Popmotion](https://popmotion.io/pure/) - 实用、灵活的 JavaScript 动画工具库。
-- [mo.js](https://mojs.github.io/) - 丰富，强大的运动图形动画工具库。
 - [GSAP](https://greensock.com/) - 现代化的高性能动画工具库。
-- [lax.js](https://github.com/alexfoxy/laxxx) - 简单、轻量的工具库，创建平滑的滚动动画。
-- [Velocity.js](http://velocityjs.org/) - 动画工具库。
-- [KUTE.js](https://thednp.github.io/kute.js/) - 高性能动画引擎。
 - [Shifty](https://jeremyckahn.github.io/shifty/doc/index.html) - 轻量级、高性能的低级动画工具库。
 
 [Go Top ↑](#awesome-web-front-end-list)
