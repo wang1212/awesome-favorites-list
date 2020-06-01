@@ -142,7 +142,10 @@
 
 - Color Picker
   - [React Color](http://casesandberg.github.io/react-color/) - 颜色拾取器，支持十多种样式。
-  
+
+- Draggable
+  - [React-Draggable](https://github.com/STRML/react-draggable) - 让组件位置可以被拖动调整。
+
 - Others
   - [qrcode.react](https://github.com/zpao/qrcode.react) - 二维码组件。
 
