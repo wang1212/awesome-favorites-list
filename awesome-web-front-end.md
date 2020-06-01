@@ -229,9 +229,10 @@
   - [interact.js](https://interactjs.io/) - 同上。
   - [Dragula](https://bevacqua.github.io/dragula/) - 拖放事件处理，可用于列表项的拖放、顺序调整等。
   - [SortableJS](https://sortablejs.github.io/Sortable/) - 列表项拖放调整辅助库，支持 React.js、Vue.js 等。
-  - [Mousetrap](https://github.com/ccampbell/mousetrap) - 可以很方便的处理键盘事件。
-  - [Hotkeys](https://wangchujiang.com/hotkeys/) - 可以很方便的处理键盘事件。
-  - [Hotkey](https://github.com/github/hotkey) - 处理键盘按键事件。
+  - [Mousetrap](https://github.com/ccampbell/mousetrap) - 处理键盘事件。
+  - [Hotkeys](https://wangchujiang.com/hotkeys/) - 处理键盘事件。
+  - [Hotkey](https://github.com/github/hotkey) - 处理键盘事件。
+  - [Selecto.js](https://github.com/daybrush/selecto) - 拖动选择元素，支持鼠标和触摸事件。
 
 - HTTP - Ajax / Promise / fetch
   - [axios](https://github.com/axios/axios) - 基于 Promise 的 HTTP 客户端工具库。
