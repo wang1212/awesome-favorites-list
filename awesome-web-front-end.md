@@ -353,6 +353,10 @@
   - [DPlayer](http://dplayer.js.org/) - 视频播放器。
   - [Vime](https://vime-js.com/) - 视频播放器。
 
+- Table
+  - [Grid.js](https://gridjs.io/) - 高级表格插件。
+  - [Frappe Datatable](https://frappe.io/datatable)
+
 - Others
   - [Flip](https://github.com/pqina/flip/) - 时间、翻转、倒计时、计数器。
   - [FilePond ](https://pqina.nl/filepond/) - 文件上传。
@@ -360,7 +364,6 @@
   - [reveal.js](https://revealjs.com/) - 创建漂亮的演示文稿（幻灯片）。
   - [Cleave.js](https://nosir.github.io/cleave.js/) - 格式化输入框内容。
   - [slick](https://kenwheeler.github.io/slick/) - 轮播组件。
-  - [Grid.js](https://gridjs.io/) - 高级表格插件。
   - [TOAST UI Editor](https://ui.toast.com/tui-editor/) - 所见即所得编辑器。
 
 [Go Top ↑](#awesome-web-front-end-list)
@@ -374,11 +377,11 @@
 - [PixiJS](https://www.pixijs.com/) - 高性能 2D WebGL 渲染引擎。
 - [Chart.js](https://www.chartjs.org/) - 最流行的轻量级图表库。
 - [Frappe Charts](https://frappe.io/charts) - 高性能 SVG 图标库。
+- [Frappe Gantt](https://frappe.io/gantt) - 甘特图。
 - [Echarts](http://echarts.apache.org/) - 国内百度团队开发的图表库，功能丰富。
 - [C3](https://c3js.org/) - 基于 D3 的可重用图表库。
 - [GSAP](https://greensock.com/) - 现代化的高性能动画工具库。
 - [Shifty](https://jeremyckahn.github.io/shifty/doc/index.html) - 轻量级、高性能的低级动画工具库。
-
 [Go Top ↑](#awesome-web-front-end-list)
 
 ## 开发框架
