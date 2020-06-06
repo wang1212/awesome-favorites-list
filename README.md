@@ -38,6 +38,7 @@
 - [MSDN, I tell you](https://msdn.itellyou.cn/) - 可下载系统镜像文件。
 - [DocTranslator](https://www.onlinedoctranslator.com/zh-CN/) - 在线文档翻译工具，以及 PDF 转 Word 无水印等。
 - [HiPDF](https://www.hipdf.com/) - PDF 在线处理工具。
+- [AudioMass](https://audiomass.co/) - 音频文件在线编辑软件。
 
 ### 软件开发
 
