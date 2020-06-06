@@ -109,6 +109,7 @@
   - [inquirer](https://github.com/SBoudrias/Inquirer.js) - 交互式命令行。
   - [envinfo](https://github.com/tabrindle/envinfo) - 生成开发环境信息报告。
   - [web-worker](https://github.com/developit/web-worker) - 在浏览器和 Node.js 环境中实现一致的 Web Worker API。
+  - [tslog](https://tslog.js.org/) - 日志格式化。
 
 - HTTP Server
   - [http-server](https://github.com/http-party/http-server) - 可快速启动一个轻量的 http 服务器。
@@ -117,6 +118,8 @@
 - HTTP Request
   - [axios](https://github.com/axios/axios) - 处理 HTTP 请求的工具库，非常方便。
   - [form-data](https://github.com/form-data/form-data) - 创建 `multipart/form-data` 数据，并提供正确的 Headers。
+  - [formidable ](https://github.com/node-formidable/formidable) - 解析请求中的 `multipart/form-data` 数据。
+  - [Busboy](https://github.com/mscdex/busboy) -  解析请求中的 `multipart/form-data` 数据，支持流。
   
 - HTML Template Engines
   - [EJS](https://ejs.co)
@@ -208,5 +211,7 @@
 - [Neutralino](https://neutralino.js.org/) - 轻量级跨平台桌面端应用开发框架。
 
 - [JavaScript Open Source Award](https://osawards.com/javascript/) - JavaScript 开源项目奖，**非官方**。
+
+- [Testing Library](https://testing-library.com/) - 包含了众多测试工具项目。
 
 [Go Top ↑](#awesome-nodejs-list)
