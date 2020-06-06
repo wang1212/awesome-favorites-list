@@ -217,6 +217,7 @@
   - [TinyColor](https://github.com/bgrins/TinyColor) - 颜色字符串解析、计算工具，更轻量一些。（:warning: 不再更新）
   - [one.color](https://github.com/One-com/one-color) - 颜色字符串解析、计算工具，支持 RGB, HSV, HSL, CMYK 等。
   - [Fuse.js](https://fusejs.io/) - 模糊搜索工具。
+  - [ms](https://github.com/vercel/ms) - 毫秒格式化工具。
  
 - DOM
   - [jQuery](https://jquery.com/) - 前几年非常流行的 DOM 操作工具库，处理了兼容性的细节问题。
@@ -359,6 +360,8 @@
   - [reveal.js](https://revealjs.com/) - 创建漂亮的演示文稿（幻灯片）。
   - [Cleave.js](https://nosir.github.io/cleave.js/) - 格式化输入框内容。
   - [slick](https://kenwheeler.github.io/slick/) - 轮播组件。
+  - [Grid.js](https://gridjs.io/) - 高级表格插件。
+  - [TOAST UI Editor](https://ui.toast.com/tui-editor/) - 所见即所得编辑器。
 
 [Go Top ↑](#awesome-web-front-end-list)
 
@@ -370,6 +373,7 @@
 - [three.js](https://threejs.org/) - 强大的 JavaScript 3D 动画库。
 - [PixiJS](https://www.pixijs.com/) - 高性能 2D WebGL 渲染引擎。
 - [Chart.js](https://www.chartjs.org/) - 最流行的轻量级图表库。
+- [Frappe Charts](https://frappe.io/charts) - 高性能 SVG 图标库。
 - [Echarts](http://echarts.apache.org/) - 国内百度团队开发的图表库，功能丰富。
 - [C3](https://c3js.org/) - 基于 D3 的可重用图表库。
 - [GSAP](https://greensock.com/) - 现代化的高性能动画工具库。
