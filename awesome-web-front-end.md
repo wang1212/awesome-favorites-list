@@ -277,6 +277,7 @@
   - [vivus.js](https://github.com/maxwellito/vivus) - 为 SVG 提供动画效果。
   - [SVG.js](https://svgjs.com/) - 轻量级 SVG 动画库。
   - [Typed.js](https://github.com/mattboldt/typed.js) - 为输入框输入提供动画效果。
+  - [Rough Notation](https://roughnotation.com/) - 为元素提供注释效果和动画。
 
 - QR Code
   - [node-qrcode](https://github.com/soldair/node-qrcode) - 二维码生成。
@@ -448,6 +449,7 @@
   - [Color Hunt](https://colorhunt.co/) - 配色方案。
   - [Open Color](https://yeun.github.io/open-color/) - 配色方案。
   - [Doka](https://doka.photo/) - 图片编辑工具。
+  - [easings.co](https://easings.co/) - 测试动画函数效果。
 
 ### 文章
 
@@ -464,6 +466,7 @@
 - WebAssembly(wasm)
   - [Emscripten](https://emscripten.org/) - 用于编译为使用 LLVM 构建的 asm.js 和 WebAssembly 的工具链，可在 Web 浏览器中运行 C/C++ 代码。
   - [Cheerp](https://www.leaningtech.com/cheerp/) - 与 Emscripten 类似。
+  - [Perspective](https://github.com/finos/perspective) - 基于 C++ 的 wasm 数据可视化组件。
 
 - [JavaScript Open Source Award](https://osawards.com/javascript/) - JavaScript 开源项目奖，**非官方**。
 
