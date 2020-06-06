@@ -26,6 +26,7 @@
 - [NDJSON Specification](http://ndjson.org/) - Newline Delimited JSON 数据格式规范。
 - [BSON Specification](http://bsonspec.org/) - Binary JSON 数据格式规范。
 - [YAML Specification](https://yaml.org/) - yaml 数据格式规范。
+- [CommonMark](https://commonmark.org/) - 一个高度兼容，定义严格的 Markdown 规范。
 
 [Go Top ↑](#awesome-web-back-end-list)
 
