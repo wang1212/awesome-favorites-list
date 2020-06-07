@@ -66,6 +66,11 @@
   - [Perfection Kills](http://perfectionkills.com/)	
   - [Hackr.io](https://hackr.io/) - 在线教程。				
 
+- 徽章图标服务（Badge Service）
+  - [Shields.IO](https://shields.io/)
+  - [NodeICO](https://nodei.co/)
+  - [Badgen](https://badgen.net/)
+
 ### 其它
 
 *Others.*
