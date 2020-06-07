@@ -85,6 +85,7 @@
 
 *File processing tools.*
 
+- [Sumatra PDF](https://www.sumatrapdfreader.org/) - windows 平台 PDF、CHM 等文件阅读器，**开源软件**。
 - [DocTranslator](https://www.onlinedoctranslator.com/zh-CN/) - 在线文档翻译工具，以及 PDF 转 Word 无水印等。
 - [HiPDF](https://www.hipdf.com/) - PDF 在线处理工具。
 
