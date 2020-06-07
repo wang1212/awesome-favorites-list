@@ -214,6 +214,7 @@
   - [clsx](https://github.com/lukeed/clsx) - 非常轻量的 CSS 类名拼接工具。
   - [polished](https://polished.js.org/) - CSS 样式辅助工具。
   - [chroma.js](https://vis4.net/chromajs/) - 颜色字符串解析、计算工具，功能很强大。
+  - [color](https://github.com/Qix-/color) - 颜色字符串解析、计算工具，更轻量。
   - [TinyColor](https://github.com/bgrins/TinyColor) - 颜色字符串解析、计算工具，更轻量一些。（:warning: 不再更新）
   - [one.color](https://github.com/One-com/one-color) - 颜色字符串解析、计算工具，支持 RGB, HSV, HSL, CMYK 等。
   - [Fuse.js](https://fusejs.io/) - 模糊搜索工具。
