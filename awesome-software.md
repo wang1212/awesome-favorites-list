@@ -36,6 +36,7 @@
 - [softonic](https://en.softonic.com) - 覆盖全端软件的下载网站。
 - [SourceForge.net](https://sourceforge.net/)
 - [OSDN](https://osdn.net/) - 开源软件下载。
+- [F-Droid.](https://f-droid.org/) - 安卓自由开源软件（FOSS）仓库。
 
 [Go Top ↑](#awesome-software)
 
