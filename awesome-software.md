@@ -86,9 +86,15 @@
 
 *File processing tools.*
 
-- [Sumatra PDF](https://www.sumatrapdfreader.org/) - windows 平台 PDF、CHM 等文件阅读器，**开源软件**。
-- [DocTranslator](https://www.onlinedoctranslator.com/zh-CN/) - 在线文档翻译工具，以及 PDF 转 Word 无水印等。
-- [HiPDF](https://www.hipdf.com/) - PDF 在线处理工具。
+- Image
+  - [ImageGlass](https://imageglass.org/) - 非常轻量的图片浏览器，**开源软件**。
+  - [qimgv](https://github.com/easymodo/qimgv) - 图片浏览器，支持视频预览，**开源软件**。
+  - [Picasa](https://picasa.google.com/) - 图片浏览器，Google 公司开发。（:warning: 停止支持）
+
+- PDF
+  - [Sumatra PDF](https://www.sumatrapdfreader.org/) - windows 平台 PDF、CHM 等文件浏览器，**开源软件**。
+  - [DocTranslator](https://www.onlinedoctranslator.com/zh-CN/) - 在线文档翻译工具，以及 PDF 转 Word 无水印等。
+  - [HiPDF](https://www.hipdf.com/) - PDF 在线处理工具。
 
 ### 其它
 
