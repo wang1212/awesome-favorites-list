@@ -34,7 +34,11 @@
 
 *Things you need for daily use, work or internet.*
 
+- [IPFS](https://ipfs.io/) - 全球分布式文件系统。
+  - [i-Book.in](https://book.tstrs.me/) - 针对 IPFS 链接的搜索引擎。
+
 - [IPAddress](https://www.ipaddress.com/) - 在线查询某个站点的 IP 地址。
+- [IKnowWhatYouDownload](https://iknowwhatyoudownload.com/) - 查看 IP 下载过的 BT 资源。
 - [MSDN, I tell you](https://msdn.itellyou.cn/) - 可下载系统镜像文件。
 - [DocTranslator](https://www.onlinedoctranslator.com/zh-CN/) - 在线文档翻译工具，以及 PDF 转 Word 无水印等。
 - [HiPDF](https://www.hipdf.com/) - PDF 在线处理工具。
@@ -44,6 +48,7 @@
 
 *Software Development, technical information, documentation, etc.*
 
+- [SOCODE.PRO](https://socode.pro/) - 快速搜索一些开发资源。
 - [StackShare](https://stackshare.io/) - 技术趋势分享。
 - [Open Source Awards](https://osawards.com/) - 开源项目奖。
 - [LibHunt](https://www.libhunt.com/) - 收集了各种库的网站。
