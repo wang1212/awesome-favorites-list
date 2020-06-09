@@ -8,6 +8,8 @@
 
 > Python 是一个脚本语言，在科学计算、Web 开发领域非常受欢迎，:point_right: https://www.python.org/
 
+（Recommend）推荐一个其它的很棒的收藏列表，:point_right: https://awesome-python.com/
+
 ## 目录
 
 *Resource navigation list.*
