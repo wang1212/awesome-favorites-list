@@ -17,8 +17,6 @@
 - [技术规范标准（Technical Specifications）](#技术规范标准)
 - [技术参考文档（Technical Reference Document）](#技术参考文档)
 - [地理空间库（Geospatial Library）](#地理空间库)
-  - [C++](#c++)
-  - [JavaScript](#javascript)
 - [空间数据库（Spatial Database）](#空间数据库)
 - [地图服务器（Map Server）](#地图服务器)
 - [地图引擎（Map Engine）](#地图引擎)
@@ -163,17 +161,21 @@ _Available in browser（JavaScript）. **Tips:** Most of what is available in th
 
 - [ESRI](https://www.esri.com/) - GIS 行业商业巨头，ArcGIS 发布者的官网。
 - [ArcGIS](https://www.arcgis.com/) - GIS 行业商业巨头，其商业软件几乎为行业标准。
-- [OpenStreetMap](https://www.openstreetmap.org/) - 一个开放的全球地图数据平台。
+
+- [OpenStreetMap](https://www.openstreetmap.org/) - 一个**开放**的全球地图数据平台。
+- [MapTiler](https://www.maptiler.com/) - 一个提供地图设计，地图托管工具，地图服务等资源的平台，**开源。**
+- [OpenMapTiler](https://openmaptiles.org/) - 基于 OSM 数据，提供**全套开源**工具以进行全球地图样式设计和自托管地图服务。
+
+- [OpenDroneMap](https://www.opendronemap.org/) - 无人机航片拼图工具平台，**开源。**
+- [OpenSfM](https://github.com/mapillary/OpenSfM) - Python 编写的 SFM，利用二维图像进行三维重建。
+
 - [Mapillary](https://www.mapillary.com/) - 街景地图平台。
-- [MapTiler](https://www.maptiler.com/) - 一个提供地图设计，切片的地图托管平台，官方开源。
-- [OpenMapTiler](https://openmaptiles.org/) - 提供免费的自托管地图矢量瓦片数据。
+- [Mapzen](https://www.mapzen.com/)
 - [mygeodata](https://mygeodata.cloud/converter/) - 在线地理数据转换工具。
-- [ODM](https://www.opendronemap.org/) - 开源的无人机航片拼图工具平台。
 - [GeoConverter](https://geoconverter.hsr.ch/) - 通过 Web 在线地图服务导出 GeoTiff 数据。
 - [TileJSON.io](https://tilejson.io/)
 - [GeoJSON.io](http://geojson.io/)
 - [Skia](https://skia.org/) - 2D 绘图库。
-- [Mapzen](https://www.mapzen.com/)
 - [Geospatial Data Cloud](http://www.gscloud.cn/)
 
 [Go Top ↑](#awesome-gis-list)
