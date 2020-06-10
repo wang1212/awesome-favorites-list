@@ -11,19 +11,11 @@
 - [应用程序商店（Application store）](#应用程序商店)
 - [软件包管理器（Software Package Manager）](#软件包管理器)
 - [Chrome 扩展程序（Chrome Extension）](awesome-chrome-extension.md)
-- [日常办公（Office）](#日常办公)
-  - [浏览器（Browser）](#浏览器)
-  - [多媒体（Multimedia）](#多媒体)
-  - [下载（Download）](#下载)
-  - [文件处理（File Processing）](#文件处理)
-  - [其它（Others）](#其它)
-- [设计（Design）](#设计)
-- [软件开发（Software Development）](#软件开发)
-  - [IDE/编辑器（IDE/Editor）](#ide-编辑器)
-  - [源代码管理（Source Code Management）](#源代码管理)
-  - [开发辅助工具（Developer Aids）](#开发辅助工具)
+- [浏览器端（Web && PWA）](#浏览器端)
+- [安卓端（Android）](#安卓端)
+- [桌面端（Desktop）](#桌面端)
 - [命令行工具（CLI Tools）](#命令行工具)
-- [其它资源（Others）](#其它资源)
+- [其它（Others）](#其它)
 
 ## 应用程序商店
 
@@ -38,7 +30,7 @@
 - [OSDN](https://osdn.net/) - 开源软件下载。
 - [F-Droid.](https://f-droid.org/) - 安卓自由开源软件（FOSS）仓库。
 
-[Go Top ↑](#awesome-software)
+[`Go Top ↑`](#awesome-software)
 
 ## 软件包管理器
 
@@ -51,11 +43,31 @@
 - [Chocolatey](https://chocolatey.org/)
 - [Scoop](https://scoop.sh/)
 
-[Go Top ↑](#awesome-software)
+[`Go Top ↑`](#awesome-software)
 
-## 日常办公
+## 浏览器端
 
-*Daily office software, browse the Internet.*
+*Software that can be used in a web browser. (Progressive web application)*
+
+### 文件处理
+
+*File processing tools.*
+
+- PDF
+  - [DocTranslator](https://www.onlinedoctranslator.com/zh-CN/) - 在线文档翻译工具，以及 PDF 转 Word 无水印等。
+  - [HiPDF](https://www.hipdf.com/) - PDF 在线处理工具。
+
+[`Go Top ↑`](#awesome-software)
+
+## 安卓端
+
+*Android*
+
+[`Go Top ↑`](#awesome-software)
+
+## 桌面端
+
+*Software that can be used on desktop platforms such as windows and linux, etc.*
 
 ### 浏览器
 
@@ -93,27 +105,12 @@
 
 - PDF
   - [Sumatra PDF](https://www.sumatrapdfreader.org/) - windows 平台 PDF、CHM 等文件浏览器，**开源软件**。
-  - [DocTranslator](https://www.onlinedoctranslator.com/zh-CN/) - 在线文档翻译工具，以及 PDF 转 Word 无水印等。
-  - [HiPDF](https://www.hipdf.com/) - PDF 在线处理工具。
 
-### 其它
+- ZIP/RAR
+  - [7-Zip](https://www.7-zip.org/) - 解压缩软件，兼容主流格式，轻量，无广告，**开源软件**。
+  - [Bandizip](http://www.bandisoft.com/) - 解压缩软件，兼容主流格式，UI 比较精美，轻量，标准版免费，但有广告。
 
-*Others.*
-
-- [Bandizip](http://www.bandisoft.com/) - 解压缩软件，兼容主流格式，UI 比较精美，轻量，标准版免费，但有广告。
-- [7-Zip](https://www.7-zip.org/) - 解压缩软件，兼容主流格式，轻量，无广告，**开源软件**。
-- [Syncthing](https://syncthing.net/) - 跨平台、跨设备文件同步软件，**开源软件**。
-- [ShareX](https://getsharex.com/) - 截屏、录屏、文本转换、DNS 更换等等，生产力工具，**开源软件**。
-- [Everything](https://www.voidtools.com/zh-cn/) - 文件快速搜索工具，**免费软件**。
-- [Typora](https://www.typora.io/) - Markdown 文本编辑器，很漂亮，功能很强大，**测试版免费**。
-- [Cleaver](http://jdan.github.io/cleaver/) - Markdown 文件生成幻灯片。
-- [mermaid](https://github.com/mermaid-js/mermaid) - txt 文件生成流程图。
-- [nodeppt](https://github.com/ksky521/nodeppt)
-- [Captura](https://mathewsachin.github.io/Captura/) - 轻量级、功能齐全的录屏、截屏软件，需安装 FFmpeg 依赖，**开源软件**。
-
-[Go Top ↑](#awesome-software)
-
-## 设计
+### 设计
 
 *Software interface design, prototype drawing design, etc.*
 
@@ -121,11 +118,11 @@
 - [Sketch](https://www.sketch.com/) - 产品原型图设计，**商业软件**。
 - [PxCook](https://www.fancynode.com.cn/pxcook) - 图片标注工具。
 
-## 软件开发
+### 软件开发
 
 *Software tools related to software development.*
 
-### IDE 编辑器
+#### IDE 编辑器
 
 *Open source free IDE editor, online code editor and some commercial paid IDE.*
 
@@ -143,7 +140,7 @@
   - [UltraEdit](https://www.ultraedit.com/) - 文本编辑器，功能强大，性能较好，**商业软件**。
   - [EmEditor](https://www.emeditor.com/) - 文本编辑器，功能强大，浏览大文件性能很好，**商业软件**。
 
-### 源代码管理
+#### 源代码管理
 
 *Source code version management system and building tools.*
 
@@ -160,7 +157,7 @@
 
 - [Tortoise SVN](https://tortoisesvn.net/) - SVN 是一种传统的中心化管理的源代码版本控制工具，Tortoise SVN 提供了 GUI 来使用 SVN。
 
-### 开发辅助工具
+#### 开发辅助工具
 
 *Developer assistance tools, including API management, remote login, and more.*
 
@@ -199,7 +196,20 @@
   - [Cmder](https://cmder.net/) - 基于 ConEmu 和 Clink 特性，采用 Monokai 颜色主题，支持 Git 等。
   - [Far Manager](https://www.farmanager.com/) - Windows 系统纯文本的文件管理器。
 
-[Go Top ↑](#awesome-software)
+### 其它
+
+*Others.*
+
+- [Syncthing](https://syncthing.net/) - 跨平台、跨设备文件同步软件，**开源软件**。
+- [ShareX](https://getsharex.com/) - 截屏、录屏、文本转换、DNS 更换等等，生产力工具，**开源软件**。
+- [Everything](https://www.voidtools.com/zh-cn/) - 文件快速搜索工具，**免费软件**。
+- [Typora](https://www.typora.io/) - Markdown 文本编辑器，很漂亮，功能很强大，**测试版免费**。
+- [Cleaver](http://jdan.github.io/cleaver/) - Markdown 文件生成幻灯片。
+- [mermaid](https://github.com/mermaid-js/mermaid) - txt 文件生成流程图。
+- [nodeppt](https://github.com/ksky521/nodeppt)
+- [Captura](https://mathewsachin.github.io/Captura/) - 轻量级、功能齐全的录屏、截屏软件，需安装 FFmpeg 依赖，**开源软件**。
+
+[`Go Top ↑`](#awesome-software)
 
 ## 命令行工具
 
@@ -208,9 +218,9 @@
 - [FFmpeg](http://ffmpeg.org/) - 命令行工具，完整的、跨平台的解决方案，用于记录、转换和流传输音频和视频，**开源软件**。
 - [aria2](https://aria2.github.io/) - 支持多协议、高速文件下载工具，**开源软件**。
 
-[Go Top ↑](#awesome-software)
+[`Go Top ↑`](#awesome-software)
 
-## 其它资源
+## 其它
 
 *Uncategorized software.*
 
@@ -218,4 +228,4 @@
 - [Slant](https://www.slant.co/) - 搜索最佳实践。
 - [小众软件](https://www.appinn.com/) - 小众软件推荐网站。
 
-[Go Top ↑](#awesome-software)
+[`Go Top ↑`](#awesome-software)
