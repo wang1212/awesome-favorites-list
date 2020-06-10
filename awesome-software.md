@@ -15,7 +15,7 @@
 - [安卓端（Android）](#安卓端)
 - [桌面端（Desktop）](#桌面端)
 - [命令行工具（CLI Tools）](#命令行工具)
-- [其它（Others）](#其它)
+- [更多（More）](#更多)
 
 ## 应用程序商店
 
@@ -220,9 +220,9 @@
 
 [`Go Top ↑`](#awesome-software)
 
-## 其它
+## 更多
 
-*Uncategorized software.*
+*More.*
 
 - [MSDN, I tell you](https://msdn.itellyou.cn/) - 可下载系统镜像文件。
 - [Slant](https://www.slant.co/) - 搜索最佳实践。
