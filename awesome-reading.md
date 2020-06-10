@@ -45,7 +45,7 @@
 - [微小宝](https://data.wxb.com/rank)
 - [国家数据](http://data.stats.gov.cn/)
 
-[Go Top ↑](#awesome-reading-list)
+[`Go Top ↑`](#awesome-reading-list)
 
 ## 期刊
 
@@ -90,7 +90,7 @@
 
 - [Awesome Weekly](https://github.com/jondot/awesome-weekly)
 
-[Go Top ↑](#awesome-reading-list)
+[`Go Top ↑`](#awesome-reading-list)
 
 ## 论坛
 
@@ -135,7 +135,7 @@
 
 - [ACG17](http://acg17.com/) - ACG 资源站，宅就宅一起。
 
-[Go Top ↑](#awesome-reading-list)
+[`Go Top ↑`](#awesome-reading-list)
 
 ## 书籍
 
@@ -214,24 +214,28 @@
 
 - 《苏菲的世界》[挪威] 乔斯坦·贾德
 
-[Go Top ↑](#awesome-reading-list)
+[`Go Top ↑`](#awesome-reading-list)
 
 ## 文章
 
 *Some very useful articles.*
 
-[Go Top ↑](#awesome-reading-list)
+### 软件开发
+
+*Software development.*
+
+- [GitHub Guides](https://guides.github.com/) - Github 的官方指南页面，可以帮助开发者系统迅速的了解 Github 及其简单的用法。	
+- [Superhero.js](http://superherojs.com/) - 构建大型项目的一些技巧。
+- [Write an Open Source JavaScript Library](https://github.com/sarbbottam/write-an-open-source-js-lib) - 如何编写开源 JavaScript 库，并且发布到 npm。
+- [A successful Git branching model](https://nvie.com/posts/a-successful-git-branching-model/) - 一个成功的 Git 分支模型。
+
+[`Go Top ↑`](#awesome-reading-list)
 
 ## 其它
 
 *Other unclassified resources.*
 
-- [GitHub Guides](https://guides.github.com/) - Github 的官方指南页面，可以帮助开发者系统迅速的了解 Github 及其简单的用法。	
 - [掘金翻译计划](https://github.com/xitu/gold-miner) - 掘金翻译计划，可能是世界最大最好的英译中技术社区，最懂读者和译者的翻译平台。
-- [Superhero.js](http://superherojs.com/) - 构建大型项目的一些技巧。
-- [Write an Open Source JavaScript Library](https://github.com/sarbbottam/write-an-open-source-js-lib)
 - [Library of Congress](https://www.loc.gov/) - 美国国会图书馆。
-- [A successful Git branching model](https://nvie.com/posts/a-successful-git-branching-model/)
-- [Code Cheatsheets](https://devhints.io/)
   
-[Go Top ↑](#awesome-reading-list)
+[`Go Top ↑`](#awesome-reading-list)
