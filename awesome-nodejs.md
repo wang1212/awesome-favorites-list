@@ -33,7 +33,7 @@
 - [ECMA International](http://www.ecma-international.org/) - ECMA 国际是一家国际性会员制度的信息和电信标准组织，负责行业标准的制定，例如 ECMA Script。
 - [Universal Module Definition](https://github.com/umdjs/umd) - 通用模块定义。
 
-[Go Top ↑](#awesome-nodejs-list)
+[`Go Top ↑`](#awesome-nodejs-list)
 
 ## 技术参考文档
 
@@ -44,7 +44,7 @@
 - [JavaScript Algorithms and Data Structures](https://github.com/trekhleb/javascript-algorithms) - 算法和数据结构。
 - [Setting up multi-platform npm packages](https://2ality.com/2017/04/setting-up-multi-platform-packages.html) - 多平台支持的 npm 包配置。
 
-[Go Top ↑](#awesome-nodejs-list)
+[`Go Top ↑`](#awesome-nodejs-list)
 
 ## 包管理器
 
@@ -66,7 +66,7 @@
   - [Npm Charts](https://npmcharts.com/) - 可以查询对比多个 Npm 包的下载流量数据、star 数目等，**非官方网站**。
   - [BUNDLEPHOBIA](https://bundlephobia.com/) - 分析 npm 包大小和依赖关系，**非官方网站**。
 
-[Go Top ↑](#awesome-nodejs-list)
+[`Go Top ↑`](#awesome-nodejs-list)
 
 ## 工具库
 
@@ -166,13 +166,11 @@
     - [sharp](https://sharp.pixelplumbing.com/) - 图像处理，拉伸、缩放、色彩提取等等，底层使用 [libvips](https://libvips.github.io/libvips/)，无需安装其它依赖，开箱即用，效率更高。
     - [gm](http://aheckmann.github.io/gm/) - 图像处理，需先安装 [GraphicsMagick](http://www.graphicsmagick.org/) 或 [ImageMagick](https://imagemagick.org/index.php)。
 
-[Go Top ↑](#awesome-nodejs-list)
+[`Go Top ↑`](#awesome-nodejs-list)
 
 ## 数据库
 
 *Database.*
-
-- [Sequelize](https://sequelize.org/) - 基于 Promise 的 Node.js ORM 库，支持 Postgres, MySQL, MariaDB, SQLite 和 Microsoft SQL Server。
 
 - [mongodb](http://mongodb.github.io/node-mongodb-native/) - [MongoDB](https://www.mongodb.com/) 的 Node.js 驱动，**MongoDB 官方发布**。
   - [mongoose](https://mongoosejs.com/) - 对 mongodb 的封装，提供模型 Schema，API 更简洁、易用。
@@ -181,7 +179,11 @@
 
 - [sqlite3](https://github.com/mapbox/node-sqlite3) - [SQLite](https://sqlite.org/) 的 Node.js 驱动，异步、非阻塞，**非官方发布**。
 
-[Go Top ↑](#awesome-nodejs-list)
+- ORM
+  - [TypeORM](https://typeorm.io/) - 可以运行在所有 JS 技术栈中的 ORM 库，支持主流数据库。
+  - [Sequelize](https://sequelize.org/) - 基于 Promise 的 Node.js ORM 库，支持 Postgres, MySQL, MariaDB, SQLite 和 Microsoft SQL Server。
+
+[`Go Top ↑`](#awesome-nodejs-list)
 
 ## Web 框架
 
@@ -200,7 +202,7 @@
 
 - [Gatsby](https://www.gatsbyjs.org/) - 基于 React.js 的开源框架，可快速开发 Web 网站和应用，多用于制作静态资源站点。
 
-[Go Top ↑](#awesome-nodejs-list)
+[`Go Top ↑`](#awesome-nodejs-list)
 
 ## 其它
 
@@ -218,4 +220,4 @@
 
 - [Testing Library](https://testing-library.com/) - 包含了众多测试工具项目。
 
-[Go Top ↑](#awesome-nodejs-list)
+[`Go Top ↑`](#awesome-nodejs-list)
