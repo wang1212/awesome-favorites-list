@@ -65,6 +65,7 @@
   - [CodeMirror](https://codemirror.net/)
 
 - 编程技巧（Programming skills）
+  - [Code Cheatsheets](https://devhints.io/) - 脚本片段。
   - [Semantic Versioning](https://semver.org/) - 语义化版本控制。
   - [Bash Pitfalls](http://mywiki.wooledge.org/BashPitfalls) - 此页面汇总了 Bash 用户常犯的编程错误。
   - [COMMANDLINEFU.COM](https://www.commandlinefu.com/commands/browse) - 汇集了很多优秀的、充满智慧的、简洁的命令行命令。
@@ -85,7 +86,7 @@
 - [ProductHunt](https://www.producthunt.com/) - 产品发布分享。
 - [Slant](https://www.slant.co/) - 搜索最佳实践。
 
-[Go Top ↑](#awesome-favorites-list)
+[`Go Top ↑`](#awesome-favorites-list)
 
 ## 更多
 
@@ -94,7 +95,7 @@
 - [Awesome](https://github.com/sindresorhus/awesome)
 - [Awesome Awesomeness](https://github.com/bayandin/awesome-awesomeness)
 
-[Go Top ↑](#awesome-favorites-list)
+[`Go Top ↑`](#awesome-favorites-list)
 
 ## 贡献
 
