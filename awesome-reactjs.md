@@ -30,26 +30,30 @@
 
 *Application building tools, including JSX code compilation, code file merging and packaging, syntax rule checking, etc.*
 
-- [Create React App](https://create-react-app.dev/) - 零配置的 React App 构建工具，**React 官方发布**。
-- [react-devtools](https://github.com/facebook/react-devtools) - React 应用的调试工具，Chrome 插件，**React 官方发布**。
+- Debug
+  - [React DevTools](https://github.com/facebook/react/blob/master/packages/react-devtools) - React 应用的调试工具，可以作为 Chrome 扩展使用，**React 官方发布**。
+  - [React Sight](https://www.reactsight.com/) - 调试工具，可视化组件树，Chrome 扩展。
 
-- [webpack](https://webpack.js.org/) - 打包工具。
+- Build
+  - [Create React App](https://create-react-app.dev/) - 零配置的 React App 构建工具，**React 官方发布**。
+  - [webpack](https://webpack.js.org/) - 打包工具。
+  - [Babel](https://babeljs.io/) - TypeScript/ES Next 编译工具。
+    - [babel-preset-react](https://github.com/babel/babel/tree/master/packages/babel-preset-react) - Babel 的 React.js 预设插件，**Babel 官方发布**。
+    - [babel-preset-flow](https://github.com/babel/babel/tree/master/packages/babel-preset-flow) - Babel 的 Flow 预设插件，**Babel 官方发布**。
+    - [babel-preset-typescript](https://github.com/babel/babel/tree/master/packages/babel-preset-typescript) - Babel 的 TypeScript 预设插件，**Babel 官方发布**。[（react-typescript-cheatsheets）](https://github.com/typescript-cheatsheets/react-typescript-cheatsheet)
+    - [babel-jest](https://github.com/facebook/jest/tree/master/packages/babel-jest) - Babel 的 Jest 插件，**FaceBook 发布**。
 
-- [Babel](https://babeljs.io/) - TypeScript/ES Next 编译工具。
-  - [babel-preset-react](https://github.com/babel/babel/tree/master/packages/babel-preset-react) - Babel 的 React.js 预设插件，**Babel 官方发布**。
-  - [babel-preset-flow](https://github.com/babel/babel/tree/master/packages/babel-preset-flow) - Babel 的 Flow 预设插件，**Babel 官方发布**。
-  - [babel-preset-typescript](https://github.com/babel/babel/tree/master/packages/babel-preset-typescript) - Babel 的 TypeScript 预设插件，**Babel 官方发布**。[（react-typescript-cheatsheets）](https://github.com/typescript-cheatsheets/react-typescript-cheatsheet)
-  - [babel-jest](https://github.com/facebook/jest/tree/master/packages/babel-jest) - Babel 的 Jest 插件，**FaceBook 发布**。
-  
-- [ESLint](https://eslint.org/) - 语法规则检查工具。
-  - [eslint-plugin-react](https://github.com/yannickcr/eslint-plugin-react) - ESLint 的 React.js 语法规则插件。
-  - [eslint-plugin-react-hooks](https://github.com/facebook/react/tree/master/packages/eslint-plugin-react-hooks) - ESLint 的 React Hooks 语法规则检查插件，**React 官方发布**。
-  
-- [Flow](https://flow.org/) - JavaScript 静态类型检查工具，**FaceBook 官方发布**。
-- [Prettier](https://prettier.io/) - 代码格式化工具。
-- [Jest](https://jestjs.io/) - 单元测试工具，**FaceBook 发布**。
+- Lint
+  - [ESLint](https://eslint.org/) - 语法规则检查工具。
+    - [eslint-plugin-react](https://github.com/yannickcr/eslint-plugin-react) - ESLint 的 React.js 语法规则插件。
+    - [eslint-plugin-react-hooks](https://github.com/facebook/react/tree/master/packages/eslint-plugin-react-hooks) - ESLint 的 React Hooks 语法规则检查插件，**React 官方发布**。
+  - [Prettier](https://prettier.io/) - 代码格式化工具。
+  - [Flow](https://flow.org/) - JavaScript 静态类型检查工具，**FaceBook 官方发布**。
 
-[Go Top ↑](#awesome-reactjs-list)
+- Test
+  - [Jest](https://jestjs.io/) - 单元测试工具，**FaceBook 发布**。
+
+[`Go Top ↑`](#awesome-reactjs-list)
 
 ## Hook
 
@@ -61,7 +65,7 @@
 - [SWR](https://swr.now.sh/) - 用于远程数据获取的 Hook。
 - [React Query](https://github.com/tannerlinsley/react-query) - 服务器端数据获取、缓存、异步更新。
 
-[Go Top ↑](#awesome-reactjs-list)
+[`Go Top ↑`](#awesome-reactjs-list)
 
 ## 状态管理
 
@@ -83,12 +87,16 @@
 - [Immutable.js](https://immutable-js.github.io/immutable-js/) - 不可变数据。（:warning: 不再更新）
 - [Immer](https://immerjs.github.io/immer/) - 不可变数据。
 
+[`Go Top ↑`](#awesome-reactjs-list)
+
 ## 路由管理
 
 *Route management for SPA applications built with React.js.*
 
 - [React-Router](https://reacttraining.com/react-router/)
 - [Reach Router](https://reach.tech/router)
+
+[`Go Top ↑`](#awesome-reactjs-list)
 
 ## UI 组件库
 
@@ -149,7 +157,7 @@
 - Others
   - [qrcode.react](https://github.com/zpao/qrcode.react) - 二维码组件。
 
-[Go Top ↑](#awesome-reactjs-list)
+[`Go Top ↑`](#awesome-reactjs-list)
 
 ## 数据可视化
 
@@ -158,7 +166,7 @@
 - [React-Vis](https://uber.github.io/react-vis/) - 图表可视化库，**Uber 团队开发**。
 - [vx](https://vx-demo.now.sh/) - 基于 React 和 D3.js 的可视化库。
 
-[Go Top ↑](#awesome-reactjs-list)
+[`Go Top ↑`](#awesome-reactjs-list)
 
 ## 优化方案
 
@@ -181,4 +189,4 @@
 - [React-JSS](https://cssinjs.org/react-jss) - JSS 是 CSS-in-JS 的一种解决方案，这个是与 React 的集成方案。
 - [React Open Source Awards](https://osawards.com/react/) - React 开源项目奖，**非官方**。
 
-[Go Top ↑](#awesome-reactjs-list)
+[`Go Top ↑`](#awesome-reactjs-list)
