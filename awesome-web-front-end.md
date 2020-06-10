@@ -50,6 +50,8 @@
 - [JSON5 Specification](https://spec.json5.org/) - JSON5 数据格式规范，是对 JSON 格式的扩展，支持注释等特性。
 - [NDJSON Specification](http://ndjson.org/) - Newline Delimited JSON 数据格式规范。
 
+[`Go Top ↑`](#awesome-web-front-end-list)
+
 ## 技术参考文档
 
 *Official and unofficial technical reference documents.*
@@ -69,9 +71,11 @@
 - [CSS Triggers](https://csstriggers.com/) - 一些改变会导致重绘、重布局的 CSS 属性。
 - [JavaScript Algorithms and Data Structures](https://github.com/trekhleb/javascript-algorithms) - 算法和数据结构。
 
+[`Go Top ↑`](#awesome-web-front-end-list)
+
 ## HTML
 
-- [W3C HTML 官方规范标准](https://www.w3.org/html/)
+> [W3C HTML 官方规范标准（W3C HTML Official Specification Standard）](https://www.w3.org/html/)
 
 ### HTML 构建工具
 
@@ -87,11 +91,11 @@
 
 - [html5shiv](https://github.com/aFarkas/html5shiv) - 在旧浏览器（IE9 以下）上提供对 HTML5 新标签（例如 footer、nav）的支持。
 
-[Go Top ↑](#awesome-web-front-end-list)
+[`Go Top ↑`](#awesome-web-front-end-list)
 
 ## CSS
 
-- [W3C CSS 官方规范标准](https://www.w3.org/Style/CSS/)
+> [W3C CSS 官方规范标准（W3C CSS Official Specification Standard）](https://www.w3.org/Style/CSS/)
 
 ### CSS 构建工具
 
@@ -126,14 +130,15 @@
 
 *Font icon, vector icon.*
 
-- 字体
+- 字体（Font）
   - [Source Code Pro](https://github.com/adobe-fonts/source-code-pro) - Adobe 出品的开源等宽字体，适合编程使用。
   - [JetBrains Mono](https://www.jetbrains.com/lp/mono/) - JetBrains 出品的开源编程字体。
   
-- WebFont 图标
+- 图标（Icon）
+  - [Bootstrap Icons](https://icons.getbootstrap.com/) - SVG 图标库，**Bootstrap 官方发布**。
   - [Font Awesome](https://fontawesome.com/) - 提供了非常多的免费图标的库，使用率非常高。
-  - [Material Icons](https://material.io/tools/icons/) - Google 官方提供的 Material Design 风格的图标库，**Google 官方发布**。
-  - [Material Design Icons](http://materialdesignicons.com/) - 遵循 Google Material Design 的图标库，**非官方实现**。
+  - [Material Icons](https://material.io/tools/icons/) - Material Design 风格的图标库，**Google 官方发布**。
+  - [Material Design Icons](http://materialdesignicons.com/) - 遵循 Google Material Design 的图标库，**非官方**。
   - [material design palette](https://www.materialpalette.com/) - Google Material Design 设计工具，提供官方图标（Material Icons）下载，**非官方**。
   - [Fabric Icons](https://developer.microsoft.com/en-us/fabric#/styles/web/icons) - 微软官方提供的一套图标库，**Microsoft 官方发布**。
   - [IonIcons](https://ionicons.com) - ionic 框架团队制作的图标库。
@@ -142,13 +147,14 @@
   - [Flat Icon](https://www.flaticon.com/)
   - [Icons8](https://icons8.com/) - 提供免费的图标设计工具。
 
-[Go Top ↑](#awesome-web-front-end-list)
+[`Go Top ↑`](#awesome-web-front-end-list)
 
 ## JavaScript
 
 *（Recommend）推荐一个其它的收藏库，:point_right: https://github.com/sorrycc/awesome-javascript*
 
-- [ECMAScript 官方规范标准](https://www.ecma-international.org/publications/standards/Ecma-262.htm)
+> [ECMAScript 官方规范标准（ECMAScript Official Specification Standard）](https://www.ecma-international.org/publications/standards/Ecma-262.htm)
+
 - [TC39 ECMAScript proposals](https://github.com/tc39/proposals) - TC39 对 ECMAScript 标准制定提案的记录。
 - [OpenJS Foundation](https://openjsf.org/) - 开源 JS 基金会，由 Node 基金会和 JS 基金会合并而成。
 
@@ -218,7 +224,6 @@
   - [TinyColor](https://github.com/bgrins/TinyColor) - 颜色字符串解析、计算工具，更轻量一些。（:warning: 不再更新）
   - [one.color](https://github.com/One-com/one-color) - 颜色字符串解析、计算工具，支持 RGB, HSV, HSL, CMYK 等。
   - [Fuse.js](https://fusejs.io/) - 模糊搜索工具。
-  - [ms](https://github.com/vercel/ms) - 毫秒格式化工具。
  
 - DOM
   - [jQuery](https://jquery.com/) - 前几年非常流行的 DOM 操作工具库，处理了兼容性的细节问题。
@@ -247,6 +252,7 @@
   - [Luxon](https://moment.github.io/luxon/) - 现代化、api 友好的日期、时间处理库，Moment.js 团队开发。
   - [date-fns](https://date-fns.org/)
   - [Day.js](https://github.com/iamkun/dayjs) - 现代化、轻量级日期、时间处理库。
+  - [ms](https://github.com/vercel/ms) - 毫秒格式化工具。
 
 - Data & Cache
   - [crypto-js](https://github.com/brix/crypto-js) - JavaScript 加密库。
@@ -314,7 +320,7 @@
   - markdown
     - [Marked](https://marked.js.org/) - markdown 文件解析，转换成 HTML 文件。
 
-[Go Top ↑](#awesome-web-front-end-list)
+[`Go Top ↑`](#awesome-web-front-end-list)
 
 ## UI 组件
 
@@ -324,12 +330,21 @@
 
 *UI component library, providing a set of components with consistent design style.*
 
+#### Bootstrap
+
 - [Bootstrap](https://getbootstrap.com/) - 最流行的 CSS UI 框架。
-- [Materialize](https://materializecss.com/) - 最流行的实现了 Google Material Design 的 CSS UI 框架。
-- [Office UI Fabric Core](https://developer.microsoft.com/en-us/fabric) - Office 风格的 UI 库，**Microsoft 官方发布**。
-- [Material Design Lite](https://getmdl.io/) - Google 官方实现的基于 Material Design 的轻量级 CSS UI 框架，**Google 官方发布**。
-- [Semantic UI](https://semantic-ui.com)
+- [Bootswatch](https://bootswatch.com/) - 开源免费的 Bootstrap 主题集合，**非官方**。
+
+#### Google Material Design
+
+- [Material Design Lite](https://getmdl.io/) - 基于 Material Design 的轻量级 CSS UI 框架，**Google 官方发布**。（:warning: 不再更新）
 - [Material Components Web](https://material.io/develop/) - 基于 Material Design 的 Web 组件库，**Google 官方实现**。
+- [Materialize](https://materializecss.com/) - 最流行的实现了 Google Material Design 的 CSS UI 框架。
+
+#### 其它（Others）
+
+- [Office UI Fabric Core](https://developer.microsoft.com/en-us/fabric) - Office 风格的 UI 库，**Microsoft 官方发布**。
+- [Semantic UI](https://semantic-ui.com)
 - [UIkit](https://getuikit.com/) - 轻量级的现代化前端 CSS 框架。
 - [Pure.CSS](https://purecss.io/) - 一组小的，响应式的 CSS 模块。
 - [Skeleton](http://getskeleton.com/)
@@ -367,7 +382,7 @@
   - [slick](https://kenwheeler.github.io/slick/) - 轮播组件。
   - [TOAST UI Editor](https://ui.toast.com/tui-editor/) - 所见即所得编辑器。
 
-[Go Top ↑](#awesome-web-front-end-list)
+[`Go Top ↑`](#awesome-web-front-end-list)
 
 ## 数据可视化
 
@@ -383,7 +398,8 @@
 - [C3](https://c3js.org/) - 基于 D3 的可重用图表库。
 - [GSAP](https://greensock.com/) - 现代化的高性能动画工具库。
 - [Shifty](https://jeremyckahn.github.io/shifty/doc/index.html) - 轻量级、高性能的低级动画工具库。
-[Go Top ↑](#awesome-web-front-end-list)
+
+[`Go Top ↑`](#awesome-web-front-end-list)
 
 ## 开发框架
 
@@ -399,7 +415,7 @@
 - [Svelte](https://svelte.dev/) - 更轻量的前端 UI 库。
   - [Sapper](https://sapper.svelte.dev/) - 基于 Svelte 的 Web App 开发框架。
 
-[Go Top ↑](#awesome-web-front-end-list)
+[`Go Top ↑`](#awesome-web-front-end-list)
 
 ## 资源
 
@@ -478,4 +494,4 @@
 
 - [JavaScript Open Source Award](https://osawards.com/javascript/) - JavaScript 开源项目奖，**非官方**。
 
-[Go Top ↑](#awesome-web-front-end-list)
+[`Go Top ↑`](#awesome-web-front-end-list)
