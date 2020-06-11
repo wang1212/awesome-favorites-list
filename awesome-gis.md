@@ -22,7 +22,7 @@
 - [地图引擎（Map Engine）](#地图引擎)
   - [WebGIS](#webgis)
   - [移动 GIS（Mobile GIS）](#移动-gis)
-- [其它（Others）](#其它)
+- [更多（More）](#更多)
   - [平台（Platform）](#平台)
 
 ## 技术规范标准
@@ -33,7 +33,6 @@
 - [OSGeo](https://www.osgeo.org/) - 开源空间信息基金会，一个全球性非营利性组织，目标是支持全球性的合作，建立和推广高品质的空间信息开源软件。
   - [OSGeo 中国中心](https://www.osgeo.cn/)
 - [EPSG](http://www.epsg.org/) - EPSG 的维护组织 IOGP 官网。
-- [Spatial Reference](https://spatialreference.org/) - 空间参考定义查询。
 - [GeoJSON Specification](https://geojson.org/) - GeoJSON 规范。:point_right: [简体中文翻译](https://www.oschina.net/translate/geojson-spec?cmp)
 - [TopoJSON Specification](https://github.com/topojson/topojson-specification) - TopoJSON 规范，是 GeoJSON 的扩展，优化了数据结构和效率。
 - [Mapbox Vector Tile Specification](https://github.com/mapbox/vector-tile-spec) - Mapbox 矢量瓦片规范，（MVT）。
@@ -43,17 +42,20 @@
 - [ESRI Shapefile Technical Description](https://www.esri.com/library/whitepapers/pdfs/shapefile.pdf) - ESRI Shapefile 白皮书，Shapefile 技术描述。
   - [ESRI Shapefile Info](https://www.loc.gov/preservation/digital/formats/fdd/fdd000280.shtml)
   - [Data File Header Structure for the dBASE Version 7 Table File](http://www.dbase.com/Knowledgebase/INT/db7_file_fmt.htm)
+- [glTF](https://github.com/KhronosGroup/glTF) - GL Transmission Format 规范，用于大型 3D 模型网络传输。
+- [3D Tiles](https://www.ogc.org/standards/3dtiles) - 3D Tiles 规范，用来流式传输大规模 3D 场景数据。
 
-[Go Top ↑](#awesome-gis-list)
+[`Go Top ↑`](#awesome-gis-list)
 
 ## 技术参考文档
 
 *Official and unofficial technical reference documents.*
 
-- [EPSG.io](http://epsg.io/) - 全球坐标系统 EPSG 在线查询，同时提供 API 支持。
+- [EPSG.io](http://epsg.io/) - 全球坐标系统 EPSG 在线查询，同时提供 API 支持，MapTiler 提供支持。
+- [Spatial Reference](https://spatialreference.org/) - 空间参考定义查询。
 - [Format Descriptions for Geospatial Data](https://www.loc.gov/preservation/digital/formats/fdd/gis_fdd.shtml) - 地理数据格式描述参考。
 
-[Go Top ↑](#awesome-gis-list)
+[`Go Top ↑`](#awesome-gis-list)
 
 ## 地理空间库
 
@@ -64,6 +66,7 @@
 - [GDAL](https://gdal.org/) - 通用的栅格和矢量数据转换工具，OSGeo 开源项目。
 - [PROJ](https://proj.org/) - 通用的坐标转换工具，OSGeo 开源项目。
 - [Mapnik](https://mapnik.org/) - 空间数据可视化（支持 Node.js、Python），开源。
+- [3dtiles](https://github.com/fanvanzh/3dtiles) - 可将 OSGB 转换为 3D Tiles 数据。
 
 ### JavaScript
 
@@ -82,7 +85,7 @@ _Available in browser（JavaScript）. **Tips:** Most of what is available in th
   - [TopoJSON Simplify](https://github.com/topojson/topojson-simplify) - TopoJSON 简化和过滤。
   - [TopoJSON Client](https://github.com/topojson/topojson-client) - TopoJSON 数据操作，例如合并、获取边界坐标等。
 
-[Go Top ↑](#awesome-gis-list)
+[`Go Top ↑`](#awesome-gis-list)
 
 ## 空间数据库
 
@@ -91,7 +94,7 @@ _Available in browser（JavaScript）. **Tips:** Most of what is available in th
 - [PostGIS](https://postgis.net/) - 基于 [PostgreSQL](https://www.postgresql.org/) 数据库的空间扩展，提供了高级、复杂、强大的空间分析功能。
 - [SpatiaLite](https://www.gaia-gis.it/fossil/libspatialite/home) - 基于 [SQLite](https://www.sqlite.org/index.html) 数据库的空间扩展，轻量级完整的空间数据库。
 
-[Go Top ↑](#awesome-gis-list)
+[`Go Top ↑`](#awesome-gis-list)
 
 ## 地图服务器
 
@@ -109,7 +112,7 @@ _Available in browser（JavaScript）. **Tips:** Most of what is available in th
 - Others
   - [ArcGIS Server](https://enterprise.arcgis.com/) - 性能很好，**ESRI 公司开发的商业软件**。
 
-[Go Top ↑](#awesome-gis-list)
+[`Go Top ↑`](#awesome-gis-list)
 
 ## 地图引擎
 
@@ -149,11 +152,11 @@ _Available in browser（JavaScript）. **Tips:** Most of what is available in th
 - [Tangram ES](https://github.com/tangrams/tangram-es) - C++ 库，使用 OpenGL ES 从矢量数据渲染 2D 和 3D 地图。
 - [Mapbox GL Native](https://www.mapbox.com/mobile/) - C++ 库，使用 OpenGL ES（或 Metal） 渲染引擎和 MVT 矢量数据渲染地图，支持完全的自定义样式。
 
-[Go Top ↑](#awesome-gis-list)
+[`Go Top ↑`](#awesome-gis-list)
 
-## 其它
+## 更多
 
-*Other unclassified resources.*
+*More other unclassified resources.*
 
 ### 平台
 
@@ -178,4 +181,4 @@ _Available in browser（JavaScript）. **Tips:** Most of what is available in th
 - [Skia](https://skia.org/) - 2D 绘图库。
 - [Geospatial Data Cloud](http://www.gscloud.cn/)
 
-[Go Top ↑](#awesome-gis-list)
+[`Go Top ↑`](#awesome-gis-list)
