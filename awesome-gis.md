@@ -64,6 +64,7 @@
 ### C++
 
 - [GDAL](https://gdal.org/) - 通用的栅格和矢量数据转换工具，OSGeo 开源项目。
+- [PDAL](https://pdal.io/) - 点云数据处理。
 - [PROJ](https://proj.org/) - 通用的坐标转换工具，OSGeo 开源项目。
 - [Mapnik](https://mapnik.org/) - 空间数据可视化（支持 Node.js、Python），开源。
 - [3dtiles](https://github.com/fanvanzh/3dtiles) - 可将 OSGB 转换为 3D Tiles 数据。
