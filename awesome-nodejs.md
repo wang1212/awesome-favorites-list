@@ -22,7 +22,7 @@
 - [工具库（Tool Library）](#工具库)
 - [数据库（Database）](#数据库)
 - [Web 框架（Web Framework）](#web-框架)
-- [其它（Others）](#其它)
+- [更多（More）](#更多)
 
 ## 技术规范标准
 
@@ -40,9 +40,7 @@
 *Official and unofficial technical reference documents.*
 
 - [Node.js 中文网](http://nodejs.cn/) - 唯一与官方同步更新的 Node.js 中文文档。
-- [Introduction to Node.js](https://nodejs.dev/) - Node.js 技术介绍。
 - [JavaScript Algorithms and Data Structures](https://github.com/trekhleb/javascript-algorithms) - 算法和数据结构。
-- [Setting up multi-platform npm packages](https://2ality.com/2017/04/setting-up-multi-platform-packages.html) - 多平台支持的 npm 包配置。
 
 [`Go Top ↑`](#awesome-nodejs-list)
 
@@ -65,6 +63,8 @@
   - [Npm Trends](https://www.npmtrends.com/) - 可以查询对比多个 Npm 包的下载流量数据、star 数目等，**非官方网站**。
   - [Npm Charts](https://npmcharts.com/) - 可以查询对比多个 Npm 包的下载流量数据、star 数目等，**非官方网站**。
   - [BUNDLEPHOBIA](https://bundlephobia.com/) - 分析 npm 包大小和依赖关系，**非官方网站**。
+  - [njt](https://njt.now.sh/) -  npm jump to，npm 包搜索并跳转到相应 npm 站点，**非官方网站**。
+  - [npkill](https://npkill.js.org/) - 搜索系统中的 *node_modules* 文件夹并清理，**非官方**。
 
 [`Go Top ↑`](#awesome-nodejs-list)
 
@@ -84,6 +84,7 @@
   - [esm](https://github.com/standard-things/esm) - 能够为 `.js` 文件提供 [ECMAScript Modules](https://tc39.es/ecma262/#sec-modules) 支持。
   - [nodemon](https://nodemon.io) - 提供 Node.js 开发时热重载机制。
   - [TS Node](https://github.com/TypeStrong/ts-node) - Node.js 的 TypeScript 语言运行器和交互式解释器。
+  - [playwright](https://playwright.dev/) - 跨浏览器 Web 自动化工具，**Microsoft 发布**。
 
 - Doc
   - [JSDoc](https://jsdoc.app/) - JavaScript 的 API 文档生成工具。
@@ -113,22 +114,9 @@
   - [envinfo](https://github.com/tabrindle/envinfo) - 生成开发环境信息报告。
   - [web-worker](https://github.com/developit/web-worker) - 在浏览器和 Node.js 环境中实现一致的 Web Worker API。
   - [tslog](https://tslog.js.org/) - 日志格式化。
-  - [ms](https://github.com/vercel/ms) - 毫秒格式化工具。
-
-- HTTP Server
-  - [http-server](https://github.com/http-party/http-server) - 可快速启动一个轻量的 http 服务器。
-  - [log4js](https://github.com/log4js-node/log4js-node) - 日志记录。
-
-- HTTP Request
-  - [axios](https://github.com/axios/axios) - 处理 HTTP 请求的工具库，非常方便。
-  - [form-data](https://github.com/form-data/form-data) - 创建 `multipart/form-data` 数据，并提供正确的 Headers。
-  - [formidable ](https://github.com/node-formidable/formidable) - 解析请求中的 `multipart/form-data` 数据。
-  - [Busboy](https://github.com/mscdex/busboy) -  解析请求中的 `multipart/form-data` 数据，支持流。
   
-- HTML Template Engines
-  - [EJS](https://ejs.co)
-  - [Handlebars.js](http://handlebarsjs.com/)
-  - [Jade](http://jade-lang.com/)
+- Date / Time
+  - [ms](https://github.com/vercel/ms) - 毫秒格式化工具。
   
 - QR Code
   - [node-qrcode](https://github.com/soldair/node-qrcode) - 二维码生成。
@@ -166,6 +154,32 @@
     - [sharp](https://sharp.pixelplumbing.com/) - 图像处理，拉伸、缩放、色彩提取等等，底层使用 [libvips](https://libvips.github.io/libvips/)，无需安装其它依赖，开箱即用，效率更高。
     - [gm](http://aheckmann.github.io/gm/) - 图像处理，需先安装 [GraphicsMagick](http://www.graphicsmagick.org/) 或 [ImageMagick](https://imagemagick.org/index.php)。
 
+- Compute - Math & High precision & Scientific Computing
+  - [math.js](https://mathjs.org/) - 数学计算。
+  - [stdlib](https://stdlib.io/)
+
+- HTTP Server
+  - [http-server](https://github.com/http-party/http-server) - 可快速启动一个轻量的 http 服务器。
+  - [log4js](https://github.com/log4js-node/log4js-node) - 日志记录。
+
+- HTTP Request
+  - [axios](https://github.com/axios/axios) - 处理 HTTP 请求的工具库，非常方便。
+  - [form-data](https://github.com/form-data/form-data) - 创建 `multipart/form-data` 数据，并提供正确的 Headers。
+  - [formidable ](https://github.com/node-formidable/formidable) - 解析请求中的 `multipart/form-data` 数据。
+  - [Busboy](https://github.com/mscdex/busboy) -  解析请求中的 `multipart/form-data` 数据，支持流。
+  
+- HTML Template Engines
+  - [EJS](https://ejs.co)
+  - [Handlebars.js](http://handlebarsjs.com/)
+  - [Jade](http://jade-lang.com/)
+  
+- RPC
+  - [Lounge](https://thelounge.chat/) - 现代的 Web RPC 客户端。
+  
+- Socket
+  - [Socket.IO](http://socket.io/) - 基于事件的实时通信框架，提供客户端和服务器实现。
+  - [ws](https://github.com/websockets/ws) - Node.js WebSocket 客户端和服务器。
+
 [`Go Top ↑`](#awesome-nodejs-list)
 
 ## 数据库
@@ -178,6 +192,9 @@
 - [mysql](https://github.com/mysqljs/mysql) - [MySQL](https://www.mysql.com/) 的 Node.js 驱动，**非官方发布**。
 
 - [sqlite3](https://github.com/mapbox/node-sqlite3) - [SQLite](https://sqlite.org/) 的 Node.js 驱动，异步、非阻塞，**非官方发布**。
+  - [better-sqlite3](https://github.com/JoshuaWise/better-sqlite3) - 比 node-sqlite3 更快更简单的 API。
+  
+- [Prisma](https://github.com/prisma/prisma) - 数据库工具套件。
 
 - ORM
   - [TypeORM](https://typeorm.io/) - 可以运行在所有 JS 技术栈中的 ORM 库，支持主流数据库。
@@ -204,9 +221,9 @@
 
 [`Go Top ↑`](#awesome-nodejs-list)
 
-## 其它
+## 更多
 
-*Other unclassified resources.*
+*More other unclassified resources.*
 
 ### 桌面端开发
 
@@ -219,5 +236,12 @@
 - [JavaScript Open Source Award](https://osawards.com/javascript/) - JavaScript 开源项目奖，**非官方**。
 
 - [Testing Library](https://testing-library.com/) - 包含了众多测试工具项目。
+
+### 文章
+
+*Article.*
+
+- [Introduction to Node.js](https://nodejs.dev/) - Node.js 技术介绍。
+- [Setting up multi-platform npm packages](https://2ality.com/2017/04/setting-up-multi-platform-packages.html) - 多平台支持的 npm 包配置。
 
 [`Go Top ↑`](#awesome-nodejs-list)
