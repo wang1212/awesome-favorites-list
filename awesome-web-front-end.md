@@ -378,6 +378,7 @@
   - [Cleave.js](https://nosir.github.io/cleave.js/) - 格式化输入框内容。
   - [slick](https://kenwheeler.github.io/slick/) - 轮播组件。
   - [TOAST UI Editor](https://ui.toast.com/tui-editor/) - 所见即所得编辑器。
+  - [SweetAlert](https://sweetalert.js.org/) - 浏览器 Alert 弹框的替代，更漂亮美观。
 
 [`Go Top ↑`](#awesome-web-front-end-list)
 
@@ -469,6 +470,7 @@
   - [Prettier Playground](https://prettier.io/playground/) - Prettier 代码格式化工具的在线版本。
   - [Color Hunt](https://colorhunt.co/) - 配色方案。
   - [Open Color](https://yeun.github.io/open-color/) - 配色方案。
+  - [Sorted CSS Colors](https://enes.in/sorted-colors/)  
   - [Doka](https://doka.photo/) - 图片编辑工具。
   - [easings.co](https://easings.co/) - 测试动画函数效果。
 
