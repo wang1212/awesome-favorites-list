@@ -29,7 +29,7 @@
   - [独立组件（Independent Components）](#独立组件)
 - [数据可视化（Data Visualization）](#数据可视化)
 - [开发框架（Framework）](#开发框架)
-- [资源（Resources）](#资源)
+- [更多（More）](#更多)
   - [CDN](#cdn)
   - [在线工具（Online Tools）](#在线工具) 
   - [文章（Article）](#文章)
@@ -162,9 +162,6 @@
 
 *JavaScript building tools, such as TypeScript parsing, syntax rules parsing, code formatting, etc.*
 
-- Dependency management
-  - [npm-check-updates](https://www.npmjs.com/package/npm-check-updates) - 可以更新项目 npm 依赖包的辅助命令工具。
-  
 - Build tools
   - [Webpack](https://webpack.js.org/) - 目前最流行的 Web 前端项目自动化构建工具。
     - [awesome-webpack](https://github.com/webpack-contrib/awesome-webpack) - Webpack 相关资源，**官方认证**。
@@ -417,9 +414,9 @@
 
 [`Go Top ↑`](#awesome-web-front-end-list)
 
-## 资源
+## 更多
 
-*Some useful related resources.*
+*More useful related resources.*
 
 ### CDN
 
