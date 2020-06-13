@@ -13,7 +13,7 @@
 - [技术规范标准（Technical Specifications）](#技术规范标准)
 - [技术参考文档（Technical Reference Document）](#技术参考文档)
 - [服务器（Server）](#服务器)
-- [其它（Others）](#其它)
+- [更多（More）](#更多)
   - [文章（Article）](#文章)
 
 ## 技术规范标准
@@ -28,7 +28,7 @@
 - [YAML Specification](https://yaml.org/) - yaml 数据格式规范。
 - [CommonMark](https://commonmark.org/) - 一个高度兼容，定义严格的 Markdown 规范。
 
-[Go Top ↑](#awesome-web-back-end-list)
+[`Go Top ↑`](#awesome-web-back-end-list)
 
 ## 技术参考文档
 
@@ -36,7 +36,7 @@
 
 - [Learn REST](http://rest.elkstein.org/) - RESTful 学习参考。
 
-[Go Top ↑](#awesome-web-back-end-list)
+[`Go Top ↑`](#awesome-web-back-end-list)
 
 ## 服务器
 
@@ -48,16 +48,17 @@
 - [Nginx](http://nginx.org/en/) - 轻量级、高性能、高并发的 Web 服务器，主要作为负载均衡、反向代理、静态资源服务的前端服务器。
   - [OpenResty](http://openresty.org/) - 算是 Nginx + Lua 的开发平台，提供了很多优质的 Nginx 插件。
   - [Kong](https://konghq.com/) - 现代 API 服务平台，提供诸如 API 网关等功能，其本身也利用了 OpenResty，是一个 Lua 模块 Nginx 插件。
+  - [ngxtop](https://github.com/lebinh/ngxtop) - Python 编写的工具，实时分析 nginx 的运行指标。
 
 - [Apache](http://httpd.apache.org/) - 世界上最著名的 Web 静态服务器。
 
 - [Tomcat](http://tomcat.apache.org/) - Java Web 开发中的 Servlet 容器。	
 
-[Go Top ↑](#awesome-web-back-end-list)
+[`Go Top ↑`](#awesome-web-back-end-list)
 
-## 其它
+## 更多
 
-*Other unclassified resources.*
+*More other unclassified resources.*
 
 - [NGINX Config](https://www.digitalocean.com/community/tools/nginx) - Nginx 配置在线生成工具。
 
@@ -67,4 +68,4 @@
 
 - [How To Safely Store A Password](https://codahale.com/how-to-safely-store-a-password/)
 
-[Go Top ↑](#awesome-web-back-end-list)
+[`Go Top ↑`](#awesome-web-back-end-list)
