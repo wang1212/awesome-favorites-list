@@ -238,12 +238,6 @@
   - [Hotkey](https://github.com/github/hotkey) - 处理键盘事件。
   - [Selecto.js](https://github.com/daybrush/selecto) - 拖动选择元素，支持鼠标和触摸事件。
 
-- HTTP - Ajax / Promise / fetch
-  - [axios](https://github.com/axios/axios) - 基于 Promise 的 HTTP 客户端工具库。
-
-- Socket / TCP
-  - [socket.io](https://socket.io/) - 优秀的实时通信客户端框架。
-
 - Date & Time
   - [Moment.js](https://momentjs.com/) - 功能强大的日期、时间处理库。
   - [Luxon](https://moment.github.io/luxon/) - 现代化、api 友好的日期、时间处理库，Moment.js 团队开发。
@@ -316,6 +310,12 @@
     - [howler.js](https://howlerjs.com/) - 强大的音频处理工具库，支持所有的编解码器，跨浏览器支持。
   - markdown
     - [Marked](https://marked.js.org/) - markdown 文件解析，转换成 HTML 文件。
+
+- HTTP - Ajax / Promise / fetch
+  - [axios](https://github.com/axios/axios) - 基于 Promise 的 HTTP 客户端工具库。
+
+- Socket / TCP
+  - [socket.io-client](https://socket.io/) - 优秀的实时通信客户端框架。
 
 [`Go Top ↑`](#awesome-web-front-end-list)
 
