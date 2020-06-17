@@ -378,7 +378,8 @@
   - [Cleave.js](https://nosir.github.io/cleave.js/) - 格式化输入框内容。
   - [slick](https://kenwheeler.github.io/slick/) - 轮播组件。
   - [TOAST UI Editor](https://ui.toast.com/tui-editor/) - 所见即所得编辑器。
-  - [SweetAlert](https://sweetalert.js.org/) - 浏览器 Alert 弹框的替代，更漂亮美观。
+  - [SweetAlert](https://sweetalert.js.org/) - 浏览器 Alert 弹框的替代，更漂亮美观。（:warning: 不再更新）
+  - [SweetAlert2](https://sweetalert2.github.io/) - SweetAlert 的继承者。
 
 [`Go Top ↑`](#awesome-web-front-end-list)
 
