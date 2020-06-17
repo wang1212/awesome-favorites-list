@@ -352,6 +352,16 @@
 
 *Independent UI components, only providing component modules that implement an interactive function.*
 
+- Carousel
+  - [Swiper](https://swiperjs.com/)
+  - [slick](https://kenwheeler.github.io/slick/)
+  - [Glider.js](https://nickpiscitelli.github.io/Glider.js/)
+  - [Flickity](https://flickity.metafizzy.co/)
+  
+- Modal box
+  - [SweetAlert](https://sweetalert.js.org/) - 浏览器 Alert 弹框的替代，更漂亮美观。（:warning: 不再更新）
+  - [SweetAlert2](https://sweetalert2.github.io/) - SweetAlert 的继承者。
+  
 - Image
   - [Viewer.js](https://fengyuanchen.github.io/viewerjs/) - 图片列表预览。
   - [Image Compare Viewer](https://image-compare-viewer.netlify.app/) - 图片对比预览。
@@ -376,10 +386,7 @@
   - [TOAST UI Calendar](https://github.com/nhn/tui.calendar) - 强大的日历日程组件。
   - [reveal.js](https://revealjs.com/) - 创建漂亮的演示文稿（幻灯片）。
   - [Cleave.js](https://nosir.github.io/cleave.js/) - 格式化输入框内容。
-  - [slick](https://kenwheeler.github.io/slick/) - 轮播组件。
   - [TOAST UI Editor](https://ui.toast.com/tui-editor/) - 所见即所得编辑器。
-  - [SweetAlert](https://sweetalert.js.org/) - 浏览器 Alert 弹框的替代，更漂亮美观。（:warning: 不再更新）
-  - [SweetAlert2](https://sweetalert2.github.io/) - SweetAlert 的继承者。
 
 [`Go Top ↑`](#awesome-web-front-end-list)
 
