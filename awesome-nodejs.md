@@ -114,6 +114,7 @@
   - [envinfo](https://github.com/tabrindle/envinfo) - 生成开发环境信息报告。
   - [web-worker](https://github.com/developit/web-worker) - 在浏览器和 Node.js 环境中实现一致的 Web Worker API。
   - [tslog](https://tslog.js.org/) - 日志格式化。
+  - [uuid](https://github.com/uuidjs/uuid) - 生成随机 id。
   
 - Date / Time
   - [ms](https://github.com/vercel/ms) - 毫秒格式化工具。
