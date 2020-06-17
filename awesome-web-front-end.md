@@ -354,9 +354,10 @@
 
 - Carousel
   - [Swiper](https://swiperjs.com/)
-  - [slick](https://kenwheeler.github.io/slick/)
+  - [slick-carousel](https://kenwheeler.github.io/slick/)
   - [Glider.js](https://nickpiscitelli.github.io/Glider.js/)
   - [Flickity](https://flickity.metafizzy.co/)
+  - [lory.js](http://loryjs.github.io/lory/)
   
 - Modal box
   - [SweetAlert](https://sweetalert.js.org/) - 浏览器 Alert 弹框的替代，更漂亮美观。（:warning: 不再更新）
@@ -367,6 +368,10 @@
   - [Image Compare Viewer](https://image-compare-viewer.netlify.app/) - 图片对比预览。
   - [Cropper.js](https://fengyuanchen.github.io/cropperjs/) - 图片裁剪。
 
+- Table
+  - [Grid.js](https://gridjs.io/) - 高级表格插件。
+  - [Frappe Datatable](https://frappe.io/datatable)
+
 - H5 Media - Audio & Video
   - [video.js](https://videojs.com/) - 兼容大部分视频格式的视频播放器。
   - [MediaElement.js](http://www.mediaelementjs.com/) - 非常漂亮的视、音频播放器。
@@ -376,10 +381,10 @@
   - [DPlayer](http://dplayer.js.org/) - 视频播放器。
   - [Vime](https://vime-js.com/) - 视频播放器。
 
-- Table
-  - [Grid.js](https://gridjs.io/) - 高级表格插件。
-  - [Frappe Datatable](https://frappe.io/datatable)
-
+- Drag Layout
+  - [Packery](https://packery.metafizzy.co/) - 拖动网格布局。
+  - [gridstack.js](https://gridstackjs.com/)
+  
 - Others
   - [Flip](https://github.com/pqina/flip/) - 时间、翻转、倒计时、计数器。
   - [FilePond ](https://pqina.nl/filepond/) - 文件上传。
@@ -387,6 +392,7 @@
   - [reveal.js](https://revealjs.com/) - 创建漂亮的演示文稿（幻灯片）。
   - [Cleave.js](https://nosir.github.io/cleave.js/) - 格式化输入框内容。
   - [TOAST UI Editor](https://ui.toast.com/tui-editor/) - 所见即所得编辑器。
+  - [fullPage](https://alvarotrigo.com/fullPage/) - 全屏滚动页面。
 
 [`Go Top ↑`](#awesome-web-front-end-list)
 
