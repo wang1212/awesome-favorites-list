@@ -76,6 +76,7 @@
   - [Shields.IO](https://shields.io/)
   - [NodeICO](https://nodei.co/)
   - [Badgen](https://badgen.net/)
+  - [Version Badge](https://badge.fury.io/)
 
 ### 其它
 
