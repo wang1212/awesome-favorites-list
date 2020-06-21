@@ -72,12 +72,12 @@
 
 *Tool Library, some unofficial high-quality Node.js packages (or libraries).*
 
-- Node Version Manage
+- Node 版本管理（Node Version Manage）
   - [n](https://github.com/tj/n) - npm 包，Node 版本管理工具，**不支持 Windows 系统**。
   - [nvm](https://github.com/nvm-sh/nvm) - Node 版本管理，**不支持 Windows 系统**。
   - [nvm-windows](https://github.com/coreybutler/nvm-windows) - Windows 系统下的 Node 版本管理工具。
 
-- Build
+- 构建（Build）
   - [webpack](https://webpack.js.org/) - 打包工具，适合开发 Web 应用。
   - [Rollup](http://rollupjs.org/) - 打包工具，适合开发库、框架。
   - [SystemJS](https://github.com/systemjs/systemjs) - 动态 ES Module 加载器。
@@ -86,10 +86,10 @@
   - [TS Node](https://github.com/TypeStrong/ts-node) - Node.js 的 TypeScript 语言运行器和交互式解释器。
   - [playwright](https://playwright.dev/) - 跨浏览器 Web 自动化工具，**Microsoft 发布**。
 
-- Doc
+- 文档（Doc）
   - [JSDoc](https://jsdoc.app/) - JavaScript 的 API 文档生成工具。
 
-- Test
+- 测试（Test）
   - [Mocha](https://mochajs.org/) - 测试框架。
   - [JEST](https://jestjs.io/) - Facebook 出品的 JavaScript 单元测试工具。
   - [JSON Server](https://github.com/typicode/json-serve) - 可快速启动一个提供 REST API 的服务器，并返回指定测试数据。  
@@ -98,16 +98,16 @@
   - [faker.js](https://github.com/marak/faker.js) - 生成大量随机测试数据，可用来开发过程中进行 API 调试。
   - [Chance](https://chancejs.com/) - 生成随机的测试数据。  
 
-- Code version management 
+- 代码版本管理（Code version management ）
   - [husky](https://github.com/typicode/husky) - 更容易的使用 [Git Hooks](https://git-scm.com/book/it/v2/Customizing-Git-Git-Hooks)。
   - [lint-staged](https://www.npmjs.com/package/lint-staged) - 搭配 husky 使用，提交代码前进行 lint。
 
-- Process Manage
+- 进程管理（Process Manage）
   - [Forever](https://github.com/foreversd/forever) - Node 应用生产环境进程管理工具，使用简单方便。
   - [PM2](https://pm2.keymetrics.io/) - Node 应用生产环境进程管理工具，支持集群、负载、远程部署，提供收费服务的实时监控平台。
   - [StrongLoop-PM](http://strong-pm.io/) - Node 应用生产环境进程管理工具，支持集群、负载、远程部署，提供收费服务的实时监控平台。
 
-- Utils
+- 工具（Utils）
   - [chalk](https://github.com/chalk/chalk) - 终端输出字符串样式工具，支持全部的颜色。
   - [commander](https://github.com/tj/commander.js) - 简单的命令行接口。
   - [inquirer](https://github.com/SBoudrias/Inquirer.js) - 交互式命令行。
@@ -116,19 +116,26 @@
   - [tslog](https://tslog.js.org/) - 日志格式化。
   - [uuid](https://github.com/uuidjs/uuid) - 生成随机 id。
   
-- Date / Time
+- 时间日期（Date & Time）
   - [ms](https://github.com/vercel/ms) - 毫秒格式化工具。
   
-- QR Code
+- 二维码（QR Code）
   - [node-qrcode](https://github.com/soldair/node-qrcode) - 二维码生成。
   - [Awesome-qr.js](https://www.bitcat.cc/webapp/awesome-qr/index.html) - 个性化二维码生成。（:warning: 不再维护）
   
-- File
+- 文件（File）
   - utils tool
     - [fs-extra](https://github.com/jprichardson/node-fs-extra) - 作为官方原生 [fs](https://nodejs.org/api/fs.html) 模块的补充和优化。
     - [rimraf](https://github.com/isaacs/rimraf) - 为 Node 提供类似 `rm -rf` 删除文件操作。
     - [memfs](https://github.com/streamich/memfs) - 内存文件系统。
     - [rotating-file-stream](https://github.com/iccicci/rotating-file-stream) - 文件流自动轮转，可用于日志文件分割，类似 UNIX `logrotate`。
+  - html/xml
+    - [jsdom](https://github.com/jsdom/jsdom) - Web 标准的纯 JavaScript 实现。
+    - [cheerio](https://cheerio.js.org/) - 包装了[parse5](https://github.com/inikulin/parse5) 和 [htmlparser2](https://github.com/fb55/htmlparser2/) 的轻量级 HTML 文档解析库，具有类 jQuery 的 api。    
+  - markdown
+    - [Marked](https://marked.js.org/) - markdown 文件解析，转换成 HTML 文件。
+    - [gray-matter](https://github.com/jonschlinkert/gray-matter) - 解析 [Front Matter](https://jekyllrb.com/docs/front-matter/)。
+    - [front-matter](https://github.com/jxson/front-matter) - 解析 Front Matter。    
   - json5
     - [JSON5](https://json5.org/) - JSON5 格式数据解析、序列化。
   - zip
@@ -136,50 +143,50 @@
     - [ADM-ZIP](https://github.com/cthackers/adm-zip)
     - [Archiver](https://www.archiverjs.com/) - 生成存档文件的流式接口。
     - [node-stream-zip](https://github.com/antelle/node-stream-zip) - 支持大的 zip 文件。    
-  - xlsx
-    - [exceljs](https://github.com/exceljs/exceljs) - 读、写 xlsx、csv 文件。
-    - [xlsx](https://sheetjs.com/) - 读、写 xlsx、csv 文件（写功能部分特性不免费）。
   - csv
     - [CSV](https://csv.js.org/) - 功能全面的 csv 文件生成、解析、转换、序列化工具。
     - [Papa Parse](https://www.papaparse.com/)    
   - pdf
     - [PDF-LIB](https://pdf-lib.js.org/) - 解析和操作 PDF 文件。
-  - html/xml
-    - [cheerio](https://cheerio.js.org/) - 包装了[parse5](https://github.com/inikulin/parse5) 和 [htmlparser2](https://github.com/fb55/htmlparser2/) 的轻量级 HTML 文档解析库，具有类 jQuery 的 api。
-    - [puppeteer](https://github.com/puppeteer/puppeteer)    
-  - markdown
-    - [Marked](https://marked.js.org/) - markdown 文件解析，转换成 HTML 文件。
-    - [gray-matter](https://github.com/jonschlinkert/gray-matter) - 解析 [Front Matter](https://jekyllrb.com/docs/front-matter/)。
-    - [front-matter](https://github.com/jxson/front-matter) - 解析 Front Matter。
+  - xlsx
+    - [exceljs](https://github.com/exceljs/exceljs) - 读、写 xlsx、csv 文件。
+    - [xlsx](https://sheetjs.com/) - 读、写 xlsx、csv 文件（写功能部分特性不免费）。    
+  - docx
+    - [officegen](https://github.com/Ziv-Barber/officegen) - 生成 Office 文档。 
+    - [docx](https://github.com/dolanmiu/docx) - 生成 docx 文档。
   - image
     - [sharp](https://sharp.pixelplumbing.com/) - 图像处理，拉伸、缩放、色彩提取等等，底层使用 [libvips](https://libvips.github.io/libvips/)，无需安装其它依赖，开箱即用，效率更高。
     - [gm](http://aheckmann.github.io/gm/) - 图像处理，需先安装 [GraphicsMagick](http://www.graphicsmagick.org/) 或 [ImageMagick](https://imagemagick.org/index.php)。
 
-- Compute - Math & High precision & Scientific Computing
+- 数学计算（Compute - Math & High precision & Scientific Computing）
   - [math.js](https://mathjs.org/) - 数学计算。
   - [stdlib](https://stdlib.io/)
 
-- HTTP Server
+- HTTP 服务器（HTTP Server）
   - [http-server](https://github.com/http-party/http-server) - 可快速启动一个轻量的 http 服务器。
   - [log4js](https://github.com/log4js-node/log4js-node) - 日志记录。
 
-- HTTP Request
+- HTTP 请求（HTTP Request）
   - [axios](https://github.com/axios/axios) - 处理 HTTP 请求的工具库，非常方便。
   - [form-data](https://github.com/form-data/form-data) - 创建 `multipart/form-data` 数据，并提供正确的 Headers。
   - [formidable ](https://github.com/node-formidable/formidable) - 解析请求中的 `multipart/form-data` 数据。
   - [Busboy](https://github.com/mscdex/busboy) -  解析请求中的 `multipart/form-data` 数据，支持流。
   
-- HTML Template Engines
+- HTML 模板引擎（HTML Template Engines）
   - [EJS](https://ejs.co)
   - [Handlebars.js](http://handlebarsjs.com/)
   - [Jade](http://jade-lang.com/)
   
-- RPC
+- 远程过程调用（RPC）
   - [Lounge](https://thelounge.chat/) - 现代的 Web RPC 客户端。
   
-- Socket
+- 套接字（Socket）
   - [Socket.IO](http://socket.io/) - 基于事件的实时通信框架，提供客户端和服务器实现。
   - [ws](https://github.com/websockets/ws) - Node.js WebSocket 客户端和服务器。
+
+- 无头浏览器（Headless Browser）
+  - [puppeteer](https://github.com/puppeteer/puppeteer)
+  - [Nightmare](http://www.nightmarejs.org/)
 
 [`Go Top ↑`](#awesome-nodejs-list)
 
@@ -188,7 +195,7 @@
 *Database.*
 
 - [mongodb](http://mongodb.github.io/node-mongodb-native/) - [MongoDB](https://www.mongodb.com/) 的 Node.js 驱动，**MongoDB 官方发布**。
-  - [mongoose](https://mongoosejs.com/) - 对 mongodb 的封装，提供模型 Schema，API 更简洁、易用。
+  - [mongoose](https://mongoosejs.com/) - 对象文档映射（ODM），对 mongodb 的封装，提供模型 Schema，API 更简洁、易用。
   
 - [mysql](https://github.com/mysqljs/mysql) - [MySQL](https://www.mysql.com/) 的 Node.js 驱动，**非官方发布**。
 
@@ -197,7 +204,7 @@
   
 - [Prisma](https://github.com/prisma/prisma) - 数据库工具套件。
 
-- ORM
+- 对象关系映射（ORM）
   - [TypeORM](https://typeorm.io/) - 可以运行在所有 JS 技术栈中的 ORM 库，支持主流数据库。
   - [Sequelize](https://sequelize.org/) - 基于 Promise 的 Node.js ORM 库，支持 Postgres, MySQL, MariaDB, SQLite 和 Microsoft SQL Server。
 
