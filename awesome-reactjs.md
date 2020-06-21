@@ -18,10 +18,9 @@
 - [Hook](#hook)
 - [状态管理（Application State Management）](#状态管理)
 - [路由管理（Route Management）](#路由管理)
-- [UI 组件库（UI Component Library）](#ui-组件库)
-  - [Google Material Design](#google-material-design)
-  - [Bootstrap](#bootstrap)
-  - [其它（Others）](#其它)
+- [UI 组件（UI Component）](#ui-组件)
+  - [组件库（Component Library）](#组件库)
+  - [独立组件（Independent Components）](#独立组件)
 - [数据可视化（Data Visualization）](#数据可视化)
 - [优化方案（Application Optimization）](#优化方案)
 - [其它（Others）](#其它)
@@ -98,13 +97,17 @@
 
 [`Go Top ↑`](#awesome-reactjs-list)
 
-## UI 组件库
+## UI 组件
 
 *Feature-rich component library built on React.js.*
 
 *（Recommend）推荐一个其它的收藏列表，:point_right: https://github.com/brillout/awesome-react-components*
 
-### Google Material Design
+### 组件库
+
+*UI component library, providing a set of components with consistent design style.*
+
+#### Google Material Design
 
 *Component library that implements [Google Material Design](https://www.material.io/).*
 
@@ -113,48 +116,49 @@
 - [Framework7-React](https://framework7.io/react/) - 跨平台 UI 组件库，支持 Android/ios/Desktop，且自适应相应平台设计风格。  
 - [React Toolbox](http://react-toolbox.io/) - 实现了 Google Material Design。
   
-### Bootstrap
+#### Bootstrap
   
 *Based on [Bootstrap](https://getbootstrap.com/)*.
 
 - [reactstrap](https://reactstrap.github.io/) - 基于 Bootstrap 4，**非 Bootstrap 官方实现**。
 - [react-bootstrap](https://github.com/react-bootstrap/react-bootstrap) - 基于 Bootstrap 4，**非 Bootstrap 官方实现**。
 
-### Animation
+#### 其它
 
-*Some useful animation libraries.*
+- [Office UI Fabric React](https://developer.microsoft.com/en-us/fabric) - Office UI 风格，**Microsoft 官方发布**。
+- [Semantic UI](https://react.semantic-ui.com/)
+- [Grommet](https://v2.grommet.io/)
 
-- [React Transition Group](https://reactcommunity.org/react-transition-group/) - 过渡动画。
-- [React-Motion](https://github.com/chenglou/react-motion) - 提供更简单的动画 API。
-- [Framer-Motion](https://framer.com/api/motion) - 手势动画。
-- [React Awesome Reveal](https://react-awesome-reveal.morello.dev/) - 基于 [Intersection Observer API](https://developer.mozilla.org/en-US/docs/Web/API/Intersection_Observer_API) 和 [Animate.css](https://animate.style/) 的动画库。
+### 独立组件
 
-### 其它
+*Independent UI components, only providing component modules that implement an interactive function.*
 
-*Single component or other design style component library.*
+- 动画（Animation）
+  - [React Transition Group](https://reactcommunity.org/react-transition-group/) - 过渡动画。
+  - [React-Motion](https://github.com/chenglou/react-motion) - 提供更简单的动画 API。
+  - [Framer-Motion](https://framer.com/api/motion) - 手势动画。
+  - [React Awesome Reveal](https://react-awesome-reveal.morello.dev/) - 基于 [Intersection Observer API](https://developer.mozilla.org/en-US/docs/Web/API/Intersection_Observer_API) 和 [Animate.css](https://animate.style/) 的动画库。
 
-- Library
-  - [Office UI Fabric React](https://developer.microsoft.com/en-us/fabric) - Office UI 风格，**Microsoft 官方发布**。
-  - [Semantic UI](https://react.semantic-ui.com/)
-  - [Grommet](https://v2.grommet.io/)
+- 时间日期选择器（DatePicker & TimePicker）
+  - [react-dates](https://github.com/airbnb/react-dates) - 国际化、移动端友好，**Airbnb 公司发布**。
 
-- File Upload
+- 文件上传（File Upload）
   - [react-dropzone](https://react-dropzone.js.org/) - 文件上传组件，支持 Hook API。
 
-- Image
+- 图片（Image）
   - [React Carousel Image Gallery](https://github.com/xiaolin/react-image-gallery) - 图片轮播组件。
   - [React Images](https://jossmac.github.io/react-images) - 图片点击原图查看、列表。
   - [React Image Lightbox](https://frontend-collective.github.io/react-image-lightbox/) - 图片点击原图查看、列表、缩放。
   - [React lightbox component](https://github.com/jfcaiceo/react-lightbox-component) - 图片点击原图查看、列表、缩放、旋转。（:warning: 不再更新）
   - [react-zmage](https://zmage.caldis.me/) - 图片点击原图查看、列表、旋转。
 
-- Color Picker
+- 颜色选择器（Color Picker）
   - [React Color](http://casesandberg.github.io/react-color/) - 颜色拾取器，支持十多种样式。
 
-- Draggable
+- 拖拽（Draggable）
   - [React-Draggable](https://github.com/STRML/react-draggable) - 让组件位置可以被拖动调整。
 
-- Others
+- 其它（Others）
   - [qrcode.react](https://github.com/zpao/qrcode.react) - 二维码组件。
 
 [`Go Top ↑`](#awesome-reactjs-list)
@@ -172,7 +176,7 @@
 
 *React web application optimization solution.*
 
-- Lazy Load && Code Split
+- Lazy Load & Code Split
   - [loadable-components](https://www.smooth-code.com/open-source/loadable-components/) - 实现组件懒加载功能，支持服务器端渲染（SSR）。
   - [React-Loadable](https://github.com/jamiebuilds/react-loadable) - 基于 React 高阶组件，实现组件懒加载功能。（:warning: 不再更新）
 
