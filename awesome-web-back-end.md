@@ -62,6 +62,13 @@
 
 - [NGINX Config](https://www.digitalocean.com/community/tools/nginx) - Nginx 配置在线生成工具。
 
+### 命令行工具
+
+*Useful command line tools.*
+
+- [curl](https://curl.haxx.se/) - 发 HTTP 请求。
+- [wget](https://www.gnu.org/software/wget/) - 文件下载。
+
 ### 文章
 
 *Some articles related to server-side problem solutions.*
