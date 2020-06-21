@@ -352,27 +352,31 @@
 
 *Independent UI components, only providing component modules that implement an interactive function.*
 
-- Carousel
+- 时间日期选择器（DatePicker & TimePicker）
+  - [flatpickr](https://flatpickr.js.org/)
+  - [layDate](https://www.layui.com/laydate/)
+
+- 轮播（Carousel）
   - [Swiper](https://swiperjs.com/)
   - [slick-carousel](https://kenwheeler.github.io/slick/)
   - [Glider.js](https://nickpiscitelli.github.io/Glider.js/)
   - [Flickity](https://flickity.metafizzy.co/)
   - [lory.js](http://loryjs.github.io/lory/)
   
-- Modal box
+- 模态框（Modal box）
   - [SweetAlert](https://sweetalert.js.org/) - 浏览器 Alert 弹框的替代，更漂亮美观。（:warning: 不再更新）
   - [SweetAlert2](https://sweetalert2.github.io/) - SweetAlert 的继承者。
   
-- Image
+- 图片浏览（Image Browse）
   - [Viewer.js](https://fengyuanchen.github.io/viewerjs/) - 图片列表预览。
   - [Image Compare Viewer](https://image-compare-viewer.netlify.app/) - 图片对比预览。
   - [Cropper.js](https://fengyuanchen.github.io/cropperjs/) - 图片裁剪。
 
-- Table
+- 表格（Table）
   - [Grid.js](https://gridjs.io/) - 高级表格插件。
   - [Frappe Datatable](https://frappe.io/datatable)
 
-- H5 Media - Audio & Video
+- H5 媒体（Audio & Video）
   - [video.js](https://videojs.com/) - 兼容大部分视频格式的视频播放器。
   - [MediaElement.js](http://www.mediaelementjs.com/) - 非常漂亮的视、音频播放器。
   - [Plyr](https://plyr.io/) - 很棒的视、音频播放器。
@@ -381,11 +385,11 @@
   - [DPlayer](http://dplayer.js.org/) - 视频播放器。
   - [Vime](https://vime-js.com/) - 视频播放器。
 
-- Drag Layout
+- 拖拽布局（Drag Layout）
   - [Packery](https://packery.metafizzy.co/) - 拖动网格布局。
   - [gridstack.js](https://gridstackjs.com/)
   
-- Others
+- 其它（Others）
   - [Flip](https://github.com/pqina/flip/) - 时间、翻转、倒计时、计数器。
   - [FilePond ](https://pqina.nl/filepond/) - 文件上传。
   - [TOAST UI Calendar](https://github.com/nhn/tui.calendar) - 强大的日历日程组件。
