@@ -114,7 +114,7 @@
 - [MDC React](https://github.com/material-components/material-components-web-react) - 实现了 Google Material Design，**Google 官方实现**。
 - [Material UI](https://material-ui.com/) - 实现了 Google Material Design，组件非常丰富。
 - [Framework7-React](https://framework7.io/react/) - 跨平台 UI 组件库，支持 Android/ios/Desktop，且自适应相应平台设计风格。  
-- [React Toolbox](http://react-toolbox.io/) - 实现了 Google Material Design。
+- [React Toolbox](http://react-toolbox.io/) - 实现了 Google Material Design。（:warning: 不再更新）
   
 #### Bootstrap
   
@@ -126,7 +126,7 @@
 #### 其它
 
 - [Office UI Fabric React](https://developer.microsoft.com/en-us/fabric) - Office UI 风格，**Microsoft 官方发布**。
-- [Semantic UI](https://react.semantic-ui.com/)
+- [Semantic UI](https://react.semantic-ui.com/) - 非常受欢迎的组件库。（:warning: 不再更新）
 - [Grommet](https://v2.grommet.io/)
 
 ### 独立组件
