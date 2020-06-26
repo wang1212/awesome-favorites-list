@@ -113,18 +113,21 @@
 
 *CSS tool library, dealing with compatibility issues, etc.*
 
-- Polyfill
+- 兼容性（Polyfill）
   - [Respond](https://github.com/scottjehl/Respond) - 在旧浏览器（IE 6-8）上提供对 CSS3 Media Queries（媒体查询）的支持。
   - [selectivizr](http://selectivizr.com/) - 在旧浏览器（IE 6-8）上提供对 CSS3 新选择器的支持，注意 `style` 标签内样式不解析，动态生成的 DOM 也不解析。
 
-- CSS Reset
+- CSS 重置（CSS Reset）
   - [Normalize.css](http://necolas.github.io/normalize.css/) - 现代化的 Reset CSS 工具库，统一浏览器默认样式。
   - [sanitize.css](https://csstools.github.io/sanitize.css/)
 
-- Animate
+- 动画（Animate）
   - [Animate.css](https://daneden.github.io/animate.css/) - 丰富的 CSS 动画工具库。
   - [Hover.css](http://ianlunn.github.io/Hover/) - 添加鼠标悬停动画效果。
   - [Imagehover.css](http://imagehover.io/) - 添加鼠标悬停动画效果。
+  
+- 实用工具（Utils）
+  - [Tailwind CSS](https://tailwindcss.com/) - 可定制设计的低级 CSS 框架，不提供组件样式，仅提供预设的工具类，来进行组合创建样式。
 
 ### 字体图标
 
