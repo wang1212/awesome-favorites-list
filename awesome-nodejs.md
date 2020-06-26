@@ -85,6 +85,7 @@
   - [nodemon](https://nodemon.io) - 提供 Node.js 开发时热重载机制。
   - [TS Node](https://github.com/TypeStrong/ts-node) - Node.js 的 TypeScript 语言运行器和交互式解释器。
   - [playwright](https://playwright.dev/) - 跨浏览器 Web 自动化工具，**Microsoft 发布**。
+  - [Madge](https://github.com/pahen/madge) - 生成可视化的模块依赖图。
 
 - 文档（Doc）
   - [JSDoc](https://jsdoc.app/) - JavaScript 的 API 文档生成工具。
@@ -201,8 +202,10 @@
 
 - [sqlite3](https://github.com/mapbox/node-sqlite3) - [SQLite](https://sqlite.org/) 的 Node.js 驱动，异步、非阻塞，**非官方发布**。
   - [better-sqlite3](https://github.com/JoshuaWise/better-sqlite3) - 比 node-sqlite3 更快更简单的 API。
-  
+
+- [GraphQL](https://graphql.org/) - 开源的数据库查询语言。
 - [Prisma](https://github.com/prisma/prisma) - 数据库工具套件。
+- [PostGraphile](https://www.graphile.org/postgraphile/) - 为已有的 PostgreSQL 数据库提供 GraphQL API 支持。
 
 - 对象关系映射（ORM）
   - [TypeORM](https://typeorm.io/) - 可以运行在所有 JS 技术栈中的 ORM 库，支持主流数据库。
