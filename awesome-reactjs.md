@@ -23,17 +23,17 @@
   - [独立组件（Independent Components）](#独立组件)
 - [数据可视化（Data Visualization）](#数据可视化)
 - [优化方案（Application Optimization）](#优化方案)
-- [其它（Others）](#其它)
+- [更多（More）](#更多)
 
 ## 构建工具
 
 *Application building tools, including JSX code compilation, code file merging and packaging, syntax rule checking, etc.*
 
-- Debug
+- 调试（Debug）
   - [React DevTools](https://github.com/facebook/react/blob/master/packages/react-devtools) - React 应用的调试工具，可以作为 Chrome 扩展使用，**React 官方发布**。
   - [React Sight](https://www.reactsight.com/) - 调试工具，可视化组件树，Chrome 扩展。
 
-- Build
+- 构建（Build）
   - [Create React App](https://create-react-app.dev/) - 零配置的 React App 构建工具，**React 官方发布**。
   - [webpack](https://webpack.js.org/) - 打包工具。
   - [Babel](https://babeljs.io/) - TypeScript/ES Next 编译工具。
@@ -42,14 +42,14 @@
     - [babel-preset-typescript](https://github.com/babel/babel/tree/master/packages/babel-preset-typescript) - Babel 的 TypeScript 预设插件，**Babel 官方发布**。[（react-typescript-cheatsheets）](https://github.com/typescript-cheatsheets/react-typescript-cheatsheet)
     - [babel-jest](https://github.com/facebook/jest/tree/master/packages/babel-jest) - Babel 的 Jest 插件，**FaceBook 发布**。
 
-- Lint
+- 代码质量分析（Lint）
   - [ESLint](https://eslint.org/) - 语法规则检查工具。
     - [eslint-plugin-react](https://github.com/yannickcr/eslint-plugin-react) - ESLint 的 React.js 语法规则插件。
     - [eslint-plugin-react-hooks](https://github.com/facebook/react/tree/master/packages/eslint-plugin-react-hooks) - ESLint 的 React Hooks 语法规则检查插件，**React 官方发布**。
   - [Prettier](https://prettier.io/) - 代码格式化工具。
   - [Flow](https://flow.org/) - JavaScript 静态类型检查工具，**FaceBook 官方发布**。
 
-- Test
+- 测试（Test）
   - [Jest](https://jestjs.io/) - 单元测试工具，**FaceBook 发布**。
 
 [`Go Top ↑`](#awesome-reactjs-list)
@@ -133,6 +133,10 @@
 
 *Independent UI components, only providing component modules that implement an interactive function.*
 
+- 表单（Form）
+  - [Formik](https://jaredpalmer.com/formik/)
+  - [React Hook Form](https://react-hook-form.com/)
+
 - 动画（Animation）
   - [React Transition Group](https://reactcommunity.org/react-transition-group/) - 过渡动画。
   - [React-Motion](https://github.com/chenglou/react-motion) - 提供更简单的动画 API。
@@ -176,19 +180,19 @@
 
 *React web application optimization solution.*
 
-- Lazy Load & Code Split
+- 懒加载、代码分割（Lazy Load && Code Split）
   - [loadable-components](https://www.smooth-code.com/open-source/loadable-components/) - 实现组件懒加载功能，支持服务器端渲染（SSR）。
   - [React-Loadable](https://github.com/jamiebuilds/react-loadable) - 基于 React 高阶组件，实现组件懒加载功能。（:warning: 不再更新）
 
-- SSR - Server-side rendering
+- 服务器端渲染（SSR，server side rendering）
   - [Next.js](https://nextjs.org) - React.js 服务器端渲染框架。
   
-- Other
+- 其它（Others）
   - [React Content Loader](https://github.com/danilowoz/react-content-loader) - 提供了组件加载占位效果（Skeleton Screen），优化交互体验。
 
-## 其它
+## 更多
 
-*Other unclassified resources.*
+*More other unclassified resources.*
 
 - [React-JSS](https://cssinjs.org/react-jss) - JSS 是 CSS-in-JS 的一种解决方案，这个是与 React 的集成方案。
 - [React Open Source Awards](https://osawards.com/react/) - React 开源项目奖，**非官方**。
