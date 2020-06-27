@@ -82,6 +82,7 @@
 
 - [Rematch](https://rematch.github.io/rematch/) - 对 Redux 进行了封装，提供更简单方便的 API。
 - [Mirror](https://github.com/mirrorjs/mirror) - 简单的状态管理库。
+- [MobX](https://mobx.js.org/)
 
 - [Immutable.js](https://immutable-js.github.io/immutable-js/) - 不可变数据。（:warning: 不再更新）
 - [Immer](https://immerjs.github.io/immer/) - 不可变数据。
