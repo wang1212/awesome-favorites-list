@@ -57,6 +57,16 @@
   - [DocTranslator](https://www.onlinedoctranslator.com/zh-CN/) - 在线文档翻译工具，以及 PDF 转 Word 无水印等。
   - [HiPDF](https://www.hipdf.com/) - PDF 在线处理工具。
 
+### 代码编辑器
+
+*Online code editor.*
+
+- [CodeTable](https://code.hackerearth.com/)
+- [JDoodle](https://www.jdoodle.com/)
+- [IdeOne](https://ideone.com/)
+- [OnlineGDB](https://www.onlinegdb.com/)
+- [CodeMirror](https://codemirror.net/)
+
 [`Go Top ↑`](#awesome-software)
 
 ## 安卓端
@@ -79,10 +89,11 @@
 
 *Multimedia.*
 
-- [PotPlayer](https://daumpotplayer.com/) - 视频播放器，解码能力很强大。
+- [PotPlayer](https://daumpotplayer.com/) - 视频播放器，解码能力很强大，**免费软件**。
 - [VLC media player](http://www.videolan.org/vlc/) - 跨平台多媒体播放器及框架，可播放大多数多媒体文件，**开源软件**。
 - [MPC-HC](https://mpc-hc.org/) - Windows 平台轻量的媒体播放器，**开源软件**。（:warning: 不再更新）
 - [Open Broadcaster Software](https://obsproject.com/) - 具有强大的录屏、截屏、流媒体传输等功能，**开源软件**。
+- [Captura](https://mathewsachin.github.io/Captura/) - 轻量级、功能齐全的录屏、截屏软件，需安装 FFmpeg 依赖，**开源软件**。
 
 ### 下载
 
@@ -122,23 +133,15 @@
 
 *Software tools related to software development.*
 
-#### IDE 编辑器
+#### 代码编辑器/IDE 
 
-*Open source free IDE editor, online code editor and some commercial paid IDE.*
+*Open source free IDE editor, and some commercial paid IDE.*
 
-- 在线（Online）
-  - [CodeTable](https://code.hackerearth.com/)
-  - [JDoodle](https://www.jdoodle.com/)
-  - [IdeOne](https://ideone.com/)
-  - [OnlineGDB](https://www.onlinegdb.com/)
-  - [CodeMirror](https://codemirror.net/)
-
-- 本地（Local）
-  - [VS Code](https://code.visualstudio.com/) - 微软开源的一款轻量级开发工具，功能很强大，深受开发者的青睐，是 Web 前端开发者的工作利器。
-  - [Sublime Text](http://www.sublimetext.com/) - 一款开源的轻量级编辑器，功能很强大，是在 VS Code、Atom 出现之前最受开发者欢迎的编辑器。
-  - [Eclipse](https://www.eclipse.org/) - 开源的重量级编辑器，功能非常强大，是 Java 开发者中使用最多的 IDE。
-  - [UltraEdit](https://www.ultraedit.com/) - 文本编辑器，功能强大，性能较好，**商业软件**。
-  - [EmEditor](https://www.emeditor.com/) - 文本编辑器，功能强大，浏览大文件性能很好，**商业软件**。
+- [VS Code](https://code.visualstudio.com/) - 一款轻量级开发工具，功能很强大，深受开发者的青睐，是 Web 前端开发者的工作利器，**开源软件**。
+- [Sublime Text](http://www.sublimetext.com/) - 一款开源的轻量级编辑器，功能很强大，是在 VS Code、Atom 出现之前最受开发者欢迎的编辑器。
+- [Eclipse](https://www.eclipse.org/) - 开源的重量级编辑器，功能非常强大，是 Java 开发者中使用最多的 IDE，**开源软件**。
+- [UltraEdit](https://www.ultraedit.com/) - 文本编辑器，功能强大，性能较好，**商业软件**。
+- [EmEditor](https://www.emeditor.com/) - 文本编辑器，功能强大，浏览大文件性能很好，**商业软件**。
 
 #### 源代码管理
 
@@ -207,7 +210,7 @@
 - [Cleaver](http://jdan.github.io/cleaver/) - Markdown 文件生成幻灯片。
 - [mermaid](https://github.com/mermaid-js/mermaid) - txt 文件生成流程图。
 - [nodeppt](https://github.com/ksky521/nodeppt)
-- [Captura](https://mathewsachin.github.io/Captura/) - 轻量级、功能齐全的录屏、截屏软件，需安装 FFmpeg 依赖，**开源软件**。
+- [Ditto](https://ditto-cp.sourceforge.io/) - 粘贴板管理工具，**开源软件**。
 
 [`Go Top ↑`](#awesome-software)
 
@@ -217,6 +220,7 @@
 
 - [FFmpeg](http://ffmpeg.org/) - 命令行工具，完整的、跨平台的解决方案，用于记录、转换和流传输音频和视频，**开源软件**。
 - [aria2](https://aria2.github.io/) - 支持多协议、高速文件下载工具，**开源软件**。
+- [PhotoRec](https://www.cgsecurity.org/wiki/PhotoRec) - 文件数据恢复软件，**开源软件**。
 
 [`Go Top ↑`](#awesome-software)
 
