@@ -167,6 +167,7 @@
   - [React-Draggable](https://github.com/STRML/react-draggable) - 让组件位置可以被拖动调整。
 
 - 其它（Others）
+  - [React-Toastify](https://fkhadra.github.io/react-toastify/) - 消息弹窗组件。
   - [qrcode.react](https://github.com/zpao/qrcode.react) - 二维码组件。
 
 [`Go Top ↑`](#awesome-reactjs-list)
