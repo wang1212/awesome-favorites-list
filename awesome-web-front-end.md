@@ -15,10 +15,8 @@
 - [技术规范标准（Technical Specifications）](#技术规范标准)
 - [技术参考文档（Technical Reference Document）](#技术参考文档)
 - [HTML](#html)
-  - [构建工具（Build Tools）](#html-构建工具)
   - [工具库（Library）](#html-工具库)
 - [CSS](#css)
-  - [构建工具（Build Tools）](#css-构建工具)
   - [工具库（Library）](#css-工具库)
   - [字体图标（Font Icon）](#字体图标)
 - [JavaScript](#javascript)
@@ -41,6 +39,8 @@
 
 - [W3C](https://www.w3.org/) - 万维网联盟创建于 1994 年，是 Web 技术领域最具权威和影响力的国际中立性技术标准机构。
 - [ECMA International](http://www.ecma-international.org/) - ECMA 国际是一家国际性会员制度的信息和电信标准组织，负责行业标准的制定，例如 ECMA Script。
+- [ECMAScript Official Specification Standard](https://www.ecma-international.org/publications/standards/Ecma-262.htm) - ECMAScript 官方规范标准。
+- [TC39 ECMAScript proposals](https://github.com/tc39/proposals) - TC39 对 ECMAScript 标准制定提案的记录。
 - [WebAssembly](https://webassembly.org/) - WebAssembly 官方网站，可在浏览器中运行 C/C++ 代码。
 - [Chrome Blink status](https://www.chromestatus.com/) - Google Chrome 的 Blink 引擎功能特性的官方实现和标准化的开发状态查询列表。
 - [Firefox status](https://platform-status.mozilla.org/) - Firefox 的 Web 平台功能的官方实现和标准化路线图查询列表。
@@ -49,6 +49,7 @@
 - [JSON Schema](http://json-schema.org/) - JSON 数据校验。
 - [JSON5 Specification](https://spec.json5.org/) - JSON5 数据格式规范，是对 JSON 格式的扩展，支持注释等特性。
 - [NDJSON Specification](http://ndjson.org/) - Newline Delimited JSON 数据格式规范。
+- [TypeScript](http://www.typescriptlang.org/) - JavaScript 的超集，强类型语言。
 
 [`Go Top ↑`](#awesome-web-front-end-list)
 
@@ -77,14 +78,6 @@
 
 > [W3C HTML 官方规范标准（W3C HTML Official Specification Standard）](https://www.w3.org/html/)
 
-### HTML 构建工具
-
-*HTML build tools, such as a template engine.*
-
-- [EJS](https://ejs.co) - html 模版引擎。
-- [Handlebars.js](http://handlebarsjs.com/) - html 模版引擎。
-- [Jade](http://jade-lang.com/) - html 模版引擎。
-
 ### HTML 工具库
 
 *HTML tool library, dealing with compatibility issues, etc.*
@@ -96,18 +89,6 @@
 ## CSS
 
 > [W3C CSS 官方规范标准（W3C CSS Official Specification Standard）](https://www.w3.org/Style/CSS/)
-
-### CSS 构建工具
-
-*CSS build tools, such as introducing module variables and other useful features.*
-
-- [Sass](https://sass-lang.com/) - CSS 预处理器，可提供类似编程语言的能力（变量、方法、作用域、嵌套）来编写 CSS。
-
-- [PostCSS](https://postcss.org/) - CSS 后处理器，提供众多插件来实现还未被广泛实现和标准化的 CSS 功能特性，最终将其编译为目标平台支持的 CSS 代码。
-  - [postcss-normalize](https://github.com/csstools/postcss-normalize)
-  
-- [JSS](https://cssinjs.org) - 一种 CSS-in-JS 的解决方案。
-- [styled components](https://www.styled-components.com) - 一种 CSS-in-JS 的解决方案。
 
 ### CSS 工具库
 
@@ -126,10 +107,14 @@
   - [Hover.css](http://ianlunn.github.io/Hover/) - 添加鼠标悬停动画效果。
   - [Imagehover.css](http://imagehover.io/) - 添加鼠标悬停动画效果。
   
+- CSS In JS
+  - [JSS](https://cssinjs.org) - 一种 CSS-in-JS 的解决方案。
+  - [styled components](https://www.styled-components.com) - 一种 CSS-in-JS 的解决方案。
+
 - 实用工具（Utils）
   - [Tailwind CSS](https://tailwindcss.com/) - 可定制设计的低级 CSS 框架，不提供组件样式，仅提供预设的工具类，来进行组合创建样式。
     - [Tailwind CSS Cheat Sheet](https://nerdcave.com/tailwind-cheat-sheet)
-
+    
 ### 字体图标
 
 *Font icon, vector icon.*
@@ -166,31 +151,7 @@
 
 *JavaScript building tools, such as TypeScript parsing, syntax rules parsing, code formatting, etc.*
 
-- Build tools
-  - [Webpack](https://webpack.js.org/) - 目前最流行的 Web 前端项目自动化构建工具。
-    - [awesome-webpack](https://github.com/webpack-contrib/awesome-webpack) - Webpack 相关资源，**官方认证**。
-  - [Gulp](https://gulpjs.com/)
-  - [Grunt](https://gruntjs.com/)
-  
-- Language && Compiler
-  - [TypeScript](http://www.typescriptlang.org/) - JavaScript 的超集，强类型语言。
-  - [Babel](https://babeljs.io/) - 编译工具，可将 TypeScript、ES6/7/8 代码编译为 JavaScript（ES5） 代码。
-
-- Type check && Format
-  - [Flow](https://flow.org/) - Facebook 出品的 JavaScript 静态类型检查工具。
-  - [ESLint](https://eslint.org/) - JavaScript 语法规则检查工具。
-  - [Prettier](https://prettier.io/) - 代码格式化工具。
-
-- PWA && Offline cache
-  - [WorkBox](https://developers.google.com/web/tools/workbox/) - Google 专门为构建 PWA （Progressive Web App，渐进式 Web 应用）提供的一套开发工具，支持多个平台，并提供了方便的 webpack 插件。
-
-- Server
-  - [Browsersync](https://www.browsersync.io/) - 浏览器同步调式工具，功能非常强大。
-  - [JSON Server](https://github.com/typicode/json-serve) - 可快速启动一个提供 REST API 的服务器，并返回指定测试数据。
-  - [Nock](https://github.com/nock/nock) - 模拟 API 服务，响应指定测试数据。
-  - [Mock.js](http://mockjs.com/) - 模拟 API 服务，响应随机测试数据。
-
-- Mobile debugging
+- 移动端调试（Mobile debugging）
   - [Eruda](https://eruda.liriliri.io/) - 移动端 Web 调试工具。
   - [vConsole](https://github.com/Tencent/vConsole) - 移动端 Web 调试工具，腾讯（Tencent）出品。
 
@@ -198,22 +159,22 @@
 
 *JavaScript tool libraries (browser-side), such as file manipulation, Canvas drawing, HTTP requests, etc.*
 
-- Polyfill
+- 兼容性（Polyfill）
   - [Promise Polyfill](https://github.com/taylorhakes/promise-polyfill) - 可以在不支持 Promise API 的浏览器上提供对其的支持。
   - [core-js](https://github.com/zloirock/core-js) - 现代 JavaScript 标准库。
 
-- Doc
+- 文档（Doc）
   - [JSDoc](https://jsdoc.app/) - JavaScript 的 API 文档生成工具。
   - [highlight.js](https://highlightjs.org/) - 页面代码高亮。
   
-- Test
+- 测试（Test）
   - [Mocha](https://mochajs.org/)
   - [JEST](https://jestjs.io/) - Facebook 出品的 JavaScript 单元测试工具。
   - [faker.js](https://github.com/marak/faker.js) - 生成大量随机测试数据，可用来开发过程中进行 API 调试。
   - [Chance](https://chancejs.com/) - 生成随机的测试数据。
   - [Perfume.js](https://zizzamia.github.io/perfume/) - 性能监控工具。
  
-- Utils
+- 实用工具（Utils）
   - [Underscore](https://underscorejs.org/) - JavaScript 的工具函数库，提供了大量非常有用的工具函数。
   - [Lodash](https://lodash.com/) - JavaScript 的工具函数库，参考自 Underscore，功能更丰富。
   - [Ramda](https://ramdajs.com/) - JavaScript 的工具函数库，适用于函数式编程。
@@ -226,13 +187,13 @@
   - [one.color](https://github.com/One-com/one-color) - 颜色字符串解析、计算工具，支持 RGB, HSV, HSL, CMYK 等。
   - [Fuse.js](https://fusejs.io/) - 模糊搜索工具。
  
-- DOM
+- 文档对象模型（DOM）
   - [jQuery](https://jquery.com/) - 前几年非常流行的 DOM 操作工具库，处理了兼容性的细节问题。
   - [Zepto.js](https://zeptojs.com/) - 兼容 jQuery API 的轻量级工具库，适合移动端使用。
   - [Lozad.js](https://github.com/ApoorvSaxena/lozad.js) - 轻量、高性能图片懒加载工具，使用了 [Intersection Observer API](https://developer.mozilla.org/en-US/docs/Web/API/Intersection_Observer_API)。
   - [clipboard.js](https://clipboardjs.com/) - 现代的粘贴板工具库。
   
-- Event
+- 事件（Event）
   - [Hammer.js](http://hammerjs.github.io/) - 支持移动端触摸事件，以及手势操作、多点触控。
   - [interact.js](https://interactjs.io/) - 同上。
   - [Dragula](https://bevacqua.github.io/dragula/) - 拖放事件处理，可用于列表项的拖放、顺序调整等。
@@ -242,23 +203,23 @@
   - [Hotkey](https://github.com/github/hotkey) - 处理键盘事件。
   - [Selecto.js](https://github.com/daybrush/selecto) - 拖动选择元素，支持鼠标和触摸事件。
 
-- Date & Time
+- 日期时间（Date && Time）
   - [Moment.js](https://momentjs.com/) - 功能强大的日期、时间处理库。
   - [Luxon](https://moment.github.io/luxon/) - 现代化、api 友好的日期、时间处理库，Moment.js 团队开发。
   - [date-fns](https://date-fns.org/)
   - [Day.js](https://github.com/iamkun/dayjs) - 现代化、轻量级日期、时间处理库。
   - [ms](https://github.com/vercel/ms) - 毫秒格式化工具。
 
-- Data & Cache
+- 数据与缓存（Data && Cache）
   - [crypto-js](https://github.com/brix/crypto-js) - JavaScript 加密库。
   - [SJCL](http://bitwiseshiftleft.github.io/sjcl/) - JavaScript 加密库。
   - [localForage](https://github.com/localForage/localForage) - 离线存储，对 IndexedDB、WebSQL、localStorage 的封装。
 
-- Compute - Math & High precision & Scientific Computing
+- 科学计算（Compute - Math && High precision && Scientific Computing）
   - [math.js](https://mathjs.org/)
   - [stdlib](https://stdlib.io/)
 
-- Canvas & Draw
+- 绘图（Canvas && Draw）
   - [DOM to Image](https://github.com/tsayen/dom-to-image/) - 利用 HTML5 Canvas 生成 DOM 节点的快照图片。
   - [html2canvas](https://html2canvas.hertzen.com) - 截屏，利用 HTML5 Canvas 生成 DOM 节点的快照图片。
   - [Create.js](https://createjs.com) - 工具套件，包含 Canvas、Web Audio 等工具库。
@@ -268,7 +229,7 @@
   - [Fabric.js](http://fabricjs.com/) - 矢量绘图工具。
   - [Pencil.js](https://pencil.js.org/) - 2D 绘图库。
 
-- Animate
+- 动画（Animate）
   - [Anime.js](https://animejs.com/) - 动画引擎，轻量的 JavaScript 动画工具库。
   - [Velocity.js](http://velocityjs.org/) - 动画引擎，为元素提供动画效果。
   - [mo.js](https://mojs.github.io/) - 丰富，强大的运动图形动画工具库。
@@ -282,11 +243,11 @@
   - [Typed.js](https://github.com/mattboldt/typed.js) - 为输入框输入提供动画效果。
   - [Rough Notation](https://roughnotation.com/) - 为元素提供注释效果和动画。
 
-- QR Code
+- 二维码（QR Code）
   - [node-qrcode](https://github.com/soldair/node-qrcode) - 二维码生成。
   - [Awesome-qr.js](https://www.bitcat.cc/webapp/awesome-qr/index.html) - 个性化二维码生成。（:warning: 不再更新）
 
-- File
+- 文件（File）
   - utils
     - [FileSaver.js](https://github.com/eligrey/FileSaver.js/) - Web 浏览器客户端文件保存 api 实现。
     - [StreamSaver.js](https://github.com/jimmywarting/StreamSaver.js) - Web 浏览器客户端异步保存文件 api 实现，解决了 FileSaver 的大小限制问题。
@@ -313,10 +274,10 @@
   - markdown
     - [Marked](https://marked.js.org/) - markdown 文件解析，转换成 HTML 文件。
 
-- HTTP - Ajax / Promise / fetch
+- HTTP 请求（HTTP - Ajax / Promise / fetch）
   - [axios](https://github.com/axios/axios) - 基于 Promise 的 HTTP 客户端工具库。
 
-- Socket / TCP
+- 套接字（Socket / TCP）
   - [socket.io-client](https://socket.io/) - 优秀的实时通信客户端框架。
 
 [`Go Top ↑`](#awesome-web-front-end-list)
