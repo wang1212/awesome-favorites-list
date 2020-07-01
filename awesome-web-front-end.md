@@ -290,8 +290,6 @@
   - utils
     - [FileSaver.js](https://github.com/eligrey/FileSaver.js/) - Web 浏览器客户端文件保存 api 实现。
     - [StreamSaver.js](https://github.com/jimmywarting/StreamSaver.js) - Web 浏览器客户端异步保存文件 api 实现，解决了 FileSaver 的大小限制问题。
-    - [DropzoneJS](https://www.dropzonejs.com/) - 文件上传组件，支持拖放文件、图片预览功能。
-    - [filepond](https://pqina.nl/filepond/) - 文件上传组件，功能比较丰富。
   - json5
     - [JSON5](https://json5.org/) - JSON5 格式数据解析、序列化。
   - zip
@@ -391,13 +389,15 @@
   - [DPlayer](http://dplayer.js.org/) - 视频播放器。
   - [Vime](https://vime-js.com/) - 视频播放器。
 
+- 文件上传（File Upload）
+  - [FilePond ](https://pqina.nl/filepond/) - 文件上传。
+  - [DropzoneJS](https://www.dropzonejs.com/) - 文件上传组件，支持拖放文件、图片预览功能。
+
 - 拖拽布局（Drag Layout）
   - [Packery](https://packery.metafizzy.co/) - 拖动网格布局。
   - [gridstack.js](https://gridstackjs.com/)
   
 - 其它（Others）
-  - [Flip](https://github.com/pqina/flip/) - 时间、翻转、倒计时、计数器。
-  - [FilePond ](https://pqina.nl/filepond/) - 文件上传。
   - [TOAST UI Calendar](https://github.com/nhn/tui.calendar) - 强大的日历日程组件。
   - [reveal.js](https://revealjs.com/) - 创建漂亮的演示文稿（幻灯片）。
   - [Cleave.js](https://nosir.github.io/cleave.js/) - 格式化输入框内容。
