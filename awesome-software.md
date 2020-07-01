@@ -10,7 +10,7 @@
 
 - [应用程序商店（Application store）](#应用程序商店)
 - [软件包管理器（Software Package Manager）](#软件包管理器)
-- [Chrome 扩展程序（Chrome Extension）](awesome-chrome-extension.md)
+- [Chrome 扩展程序（Chrome Extension）](#chrome-扩展程序)
 - [浏览器端（Web && PWA）](#浏览器端)
 - [安卓端（Android）](#安卓端)
 - [桌面端（Desktop）](#桌面端)
@@ -45,9 +45,67 @@
 
 [`Go Top ↑`](#awesome-software)
 
+## Chrome 扩展程序
+
+*[Chrome](https://www.google.com/chrome/) browser extension.*
+
+> 访问 Chrome 扩展商店：:point_right: https://chrome.google.com/webstore/category/extensions
+
+*（Recommend）国内可访问的**非官方**扩展商店，:point_right: [Extfans](https://www.extfans.com/)*
+
+### 日常工具
+
+*Daily tools, such as language translation, note application, etc.*
+
+- `Google 翻译` - 可在页面上进行实时翻译，**官方扩展**。
+- `Google Keep` - 类似便签的简单应用，**官方扩展**。
+- `Full Page Screen Capture` - 完整且可靠地捕获当前页面的屏幕截图，而无需请求任何额外权限！
+- `网页截图:注释&录屏` - 截屏工具。
+- `Infinity 新标签页(Pro)` - 让浏览器的新标签页可定制化。
+- ~~`Video Downloader professional` - 下载网站中的视频。~~
+- `LINE` - 日本即时通讯软件。
+- `skyZIP™ Proxy` - 网络代理。
+
+- 用户脚本管理器（userscript manager）
+  - [Tampermonkey](https://www.tampermonkey.net/) - 免费，基本支持所有浏览器。
+  - [Violentmonkey](https://violentmonkey.github.io/) - 开源的，基本支持所有浏览器。
+  - [Greasemonkey](https://addons.mozilla.org/en-US/firefox/addon/greasemonkey/) - 仅支持 FireFox。
+  
+- 用户脚本（userscript）
+  - [Greasy Fork](https://greasyfork.org/)
+  - [OpenUserJS](https://openuserjs.org/)
+
+### 开发工具
+
+*Development tools, very useful tools for developers.*
+
+- `Lighthouse` - 站点性能监测工具，可提供优化建议和报告，**官方扩展**。
+- `Wappalyzer` - 检测当前站点所使用到的 Web 开发技术，包括框架、库、服务器、编程语言等。
+- `WhatRuns` - 同上。
+- `WhatFont` - 检测网站中所使用到的字体。
+- `iFormatTool` - 用于查看 js、json、css 等源码时对其进行高亮、格式化、美化、压缩等操作。
+- `JSON-handle` - JSON 文档的浏览器和编辑器。
+
+- GitHub - *Enhance the function of github.*
+  - `ZenHub for GitHub` - GitHub 项目管理工具。
+  - `Octotree` - 生成代码文件树，方便浏览仓库文件。
+  - `Refined GitHub` - 增强 GitHub 网站，在许多细节方面做了改进。
+  - `Enhanced Github` - 增强 GitHub 网站，显示仓库大小、每个文件的大小、下载链接和复制文件内容的按钮等。
+  - `Sourcegraph` - 提供智能代码提示，代码审查等功能。
+  - `File Icon for GitHub, GitLab and Bitbucket` - 为 GitHub、Gitlab、Bitbucket、gitea 和 gogs 网站提供不同类型文件的图标。
+  - `Awesome Autocomplete for GitHub` - 将即时搜索功能添加到 GitHub 网站的搜索栏。
+
+- Web for React.js
+  - `React Developer Tools` - React 应用官方调试工具,可在 Chrome 和 Firefox 中使用。
+  - `Redux DevTools` - Redux 官方提供的调试工具。
+
+[`Go Top ↑`](#awesome-software)
+
 ## 浏览器端
 
 *Software that can be used in a web browser. (Progressive web application)*
+
+- [Speedtest](https://www.speedtest.net/) - 专业测速。
 
 ### 文件处理
 
