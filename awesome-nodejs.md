@@ -18,7 +18,8 @@
 
 - [技术规范标准（Technical Specifications）](#技术规范标准)
 - [技术参考文档（Technical Reference Document）](#技术参考文档)
-- [包管理器（Package Manager）](#包管理器)
+- [Node 版本管理（Node Version Management）](#node-版本管理)
+- [Node 包管理器（Node Package Manager）](#node-包管理器)
 - [工具库（Tool Library）](#工具库)
 - [数据库（Database）](#数据库)
 - [Web 框架（Web Framework）](#web-框架)
@@ -28,11 +29,19 @@
 
 *Official technical specifications.*
 
+- [ECMA International](http://www.ecma-international.org/) - ECMA 国际是一家国际性会员制度的信息和电信标准组织，负责行业标准的制定，例如 ECMA Script。
+- [ECMAScript Official Specification Standard](https://www.ecma-international.org/publications/standards/Ecma-262.htm) - ECMAScript 官方规范标准。
+- [TC39 ECMAScript proposals](https://github.com/tc39/proposals) - TC39 对 ECMAScript 标准制定提案的记录。
 - [Node.js](https://nodejs.org/) - Node.js 官方网站。
 - [V8](https://v8.dev/) - Node.js 的运行时，也是 Chrome 浏览器的 JS 运行时。
-- [ECMA International](http://www.ecma-international.org/) - ECMA 国际是一家国际性会员制度的信息和电信标准组织，负责行业标准的制定，例如 ECMA Script。
-- [Universal Module Definition](https://github.com/umdjs/umd) - 通用模块定义。
-
+- [CommonJS](http://www.commonjs.org/) - Node.js 默认采用的模块加载方式。
+- [AMD](https://github.com/amdjs/amdjs-api/blob/master/AMD.md) - 异步模块定义，适合浏览器端。
+- [Universal Module Definition](https://github.com/umdjs/umd) - 通用模块定义，兼容 AMD、CommonJS 以及全局变量方式。
+- [JSON Schema](http://json-schema.org/) - JSON 数据校验。
+- [JSON5 Specification](https://spec.json5.org/) - JSON5 数据格式规范，是对 JSON 格式的扩展，支持注释等特性。
+- [NDJSON Specification](http://ndjson.org/) - Newline Delimited JSON 数据格式规范。
+- [TypeScript](http://www.typescriptlang.org/) - JavaScript 的超集，强类型语言。
+  
 [`Go Top ↑`](#awesome-nodejs-list)
 
 ## 技术参考文档
@@ -44,7 +53,17 @@
 
 [`Go Top ↑`](#awesome-nodejs-list)
 
-## 包管理器
+## Node 版本管理
+
+*Node version management, can install multiple versions at the same time, and switch at any time.*
+
+- [n](https://github.com/tj/n) - npm 包，Node 版本管理工具，**不支持 Windows 系统**。
+- [nvm](https://github.com/nvm-sh/nvm) - Node 版本管理，**不支持 Windows 系统**。
+- [nvm-windows](https://github.com/coreybutler/nvm-windows) - Node 版本管理工具，**仅支持 Windows 系统**。
+
+[`Go Top ↑`](#awesome-nodejs-list)
+
+## Node 包管理器
 
 *Node.js package (or library) manager.*
 
@@ -73,20 +92,24 @@
 
 *Tool Library, some unofficial high-quality Node.js packages (or libraries).*
 
-- Node 版本管理（Node Version Manage）
-  - [n](https://github.com/tj/n) - npm 包，Node 版本管理工具，**不支持 Windows 系统**。
-  - [nvm](https://github.com/nvm-sh/nvm) - Node 版本管理，**不支持 Windows 系统**。
-  - [nvm-windows](https://github.com/coreybutler/nvm-windows) - Windows 系统下的 Node 版本管理工具。
-
-- 构建（Build）
-  - [webpack](https://webpack.js.org/) - 打包工具，适合开发 Web 应用。
-  - [Rollup](http://rollupjs.org/) - 打包工具，适合开发库、框架。
-  - [SystemJS](https://github.com/systemjs/systemjs) - 动态 ES Module 加载器。
-  - [esm](https://github.com/standard-things/esm) - 能够为 `.js` 文件提供 [ECMAScript Modules](https://tc39.es/ecma262/#sec-modules) 支持。
-  - [nodemon](https://nodemon.io) - 提供 Node.js 开发时热重载机制。
-  - [TS Node](https://github.com/TypeStrong/ts-node) - Node.js 的 TypeScript 语言运行器和交互式解释器。
-  - [playwright](https://playwright.dev/) - 跨浏览器 Web 自动化工具，**Microsoft 发布**。
-  - [Madge](https://github.com/pahen/madge) - 生成可视化的模块依赖图。
+- 构建工具（Build Tools）
+  - 编译器（Compiler）
+    - [Babel](https://babeljs.io/) - 编译工具，可将 TypeScript、ES6/7/8 代码编译为 JavaScript（ES5） 代码。
+    - [TS Node](https://github.com/TypeStrong/ts-node) - Node.js 的 TypeScript 语言运行器和交互式解释器。
+  - Web 应用（Web App）
+    - [webpack](https://webpack.js.org/) - 打包工具，适合开发 Web 应用。
+      - [awesome-webpack](https://github.com/webpack-contrib/awesome-webpack) - Webpack 相关资源，**官方认证**。
+    - [Gulp](https://gulpjs.com/)
+    - [Grunt](https://gruntjs.com/)
+    - [Sass](https://sass-lang.com/) - CSS 预处理器，可提供类似编程语言的能力（变量、方法、作用域、嵌套）来编写 CSS。
+    - [PostCSS](https://postcss.org/) - CSS 后处理器，提供众多插件来实现还未被广泛实现和标准化的 CSS 功能特性，最终将其编译为目标平台支持的 CSS 代码。
+      - [postcss-normalize](https://github.com/csstools/postcss-normalize)    
+    - [WorkBox](https://developers.google.com/web/tools/workbox/) - Google 专门为构建 PWA （Progressive Web App，渐进式 Web 应用）提供的一套开发工具，支持多个平台，并提供了方便的 webpack 插件。
+    - [SystemJS](https://github.com/systemjs/systemjs) - 动态 ES Module 加载器。
+  - Npm 模块（Npm Module && npm Package）
+    - [Rollup](http://rollupjs.org/) - 打包工具，适合开发库、框架。
+  - Node 应用（Node App）
+    - [nodemon](https://nodemon.io) - 提供 Node.js 开发时热重载机制。
 
 - 文档（Doc）
   - [JSDoc](https://jsdoc.app/) - JavaScript 的 API 文档生成工具。
@@ -98,7 +121,14 @@
   - [Nock](https://github.com/nock/nock) - 模拟 API 服务，响应指定测试数据。
   - [Mock.js](http://mockjs.com/) - 模拟 API 服务，响应随机测试数据。
   - [faker.js](https://github.com/marak/faker.js) - 生成大量随机测试数据，可用来开发过程中进行 API 调试。
-  - [Chance](https://chancejs.com/) - 生成随机的测试数据。  
+  - [Chance](https://chancejs.com/) - 生成随机的测试数据。
+  - [playwright](https://playwright.dev/) - 跨浏览器 Web 自动化工具，**Microsoft 发布**。
+  - [Browsersync](https://www.browsersync.io/) - 浏览器同步调式工具，功能非常强大。
+
+- 代码质量分析（Code Lint）
+  - [ESLint](https://eslint.org/) - JavaScript 语法规则检查工具。
+  - [Prettier](https://prettier.io/) - 代码格式化工具。
+  - [Flow](https://flow.org/) - Facebook 出品的 JavaScript 静态类型检查工具。
 
 - 代码版本管理（Code version management ）
   - [husky](https://github.com/typicode/husky) - 更容易的使用 [Git Hooks](https://git-scm.com/book/it/v2/Customizing-Git-Git-Hooks)。
@@ -109,7 +139,9 @@
   - [PM2](https://pm2.keymetrics.io/) - Node 应用生产环境进程管理工具，支持集群、负载、远程部署，提供收费服务的实时监控平台。
   - [StrongLoop-PM](http://strong-pm.io/) - Node 应用生产环境进程管理工具，支持集群、负载、远程部署，提供收费服务的实时监控平台。
 
-- 工具（Utils）
+- 实用工具（Utils）
+  - [Madge](https://github.com/pahen/madge) - 生成可视化的模块依赖图。
+  - [esm](https://github.com/standard-things/esm) - 能够为 `.js` 文件提供 [ECMAScript Modules](https://tc39.es/ecma262/#sec-modules) 支持。
   - [chalk](https://github.com/chalk/chalk) - 终端输出字符串样式工具，支持全部的颜色。
   - [commander](https://github.com/tj/commander.js) - 简单的命令行接口。
   - [inquirer](https://github.com/SBoudrias/Inquirer.js) - 交互式命令行。
@@ -118,7 +150,7 @@
   - [tslog](https://tslog.js.org/) - 日志格式化。
   - [uuid](https://github.com/uuidjs/uuid) - 生成随机 id。
   
-- 时间日期（Date & Time）
+- 时间日期（Date && Time）
   - [ms](https://github.com/vercel/ms) - 毫秒格式化工具。
   
 - 二维码（QR Code）
@@ -126,7 +158,7 @@
   - [Awesome-qr.js](https://www.bitcat.cc/webapp/awesome-qr/index.html) - 个性化二维码生成。（:warning: 不再维护）
   
 - 文件（File）
-  - utils tool
+  - utils tools
     - [fs-extra](https://github.com/jprichardson/node-fs-extra) - 作为官方原生 [fs](https://nodejs.org/api/fs.html) 模块的补充和优化。
     - [rimraf](https://github.com/isaacs/rimraf) - 为 Node 提供类似 `rm -rf` 删除文件操作。
     - [memfs](https://github.com/streamich/memfs) - 内存文件系统。
