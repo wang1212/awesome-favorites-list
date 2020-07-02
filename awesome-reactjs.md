@@ -164,6 +164,8 @@
   - [React Color](http://casesandberg.github.io/react-color/) - 颜色拾取器，支持十多种样式。
 
 - 拖拽（Draggable）
+  - [react-beautiful-dnd](https://react-beautiful-dnd.netlify.app/)
+  - [React DnD](https://react-dnd.github.io/react-dnd/)
   - [React-Draggable](https://github.com/STRML/react-draggable) - 让组件位置可以被拖动调整。
 
 - 其它（Others）
