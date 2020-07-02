@@ -20,7 +20,6 @@
   - [工具库（Library）](#css-工具库)
   - [字体图标（Font Icon）](#字体图标)
 - [JavaScript](#javascript)
-  - [构建工具（Build Tools）](#js-构建工具)
   - [工具库（Library）](#js-工具库)
 - [UI 组件（UI Component）](#ui-组件)
   - [组件库（Component Library）](#组件库)
@@ -147,21 +146,14 @@
 - [TC39 ECMAScript proposals](https://github.com/tc39/proposals) - TC39 对 ECMAScript 标准制定提案的记录。
 - [OpenJS Foundation](https://openjsf.org/) - 开源 JS 基金会，由 Node 基金会和 JS 基金会合并而成。
 
-### JS 构建工具
-
-*JavaScript building tools, such as TypeScript parsing, syntax rules parsing, code formatting, etc.*
-
-- 移动端调试（Mobile debugging）
-  - [Eruda](https://eruda.liriliri.io/) - 移动端 Web 调试工具。
-  - [vConsole](https://github.com/Tencent/vConsole) - 移动端 Web 调试工具，腾讯（Tencent）出品。
-
 ### JS 工具库
 
 *JavaScript tool libraries (browser-side), such as file manipulation, Canvas drawing, HTTP requests, etc.*
 
 - 兼容性（Polyfill）
-  - [Promise Polyfill](https://github.com/taylorhakes/promise-polyfill) - 可以在不支持 Promise API 的浏览器上提供对其的支持。
   - [core-js](https://github.com/zloirock/core-js) - 现代 JavaScript 标准库。
+  - [Promise Polyfill](https://github.com/taylorhakes/promise-polyfill) - 为浏览器提供 Promise API 支持。
+  - [webp-hero](https://github.com/chase-moskal/webp-hero) - 为浏览器提供 WebP 格式图片支持。
 
 - 文档（Doc）
   - [JSDoc](https://jsdoc.app/) - JavaScript 的 API 文档生成工具。
@@ -173,6 +165,10 @@
   - [faker.js](https://github.com/marak/faker.js) - 生成大量随机测试数据，可用来开发过程中进行 API 调试。
   - [Chance](https://chancejs.com/) - 生成随机的测试数据。
   - [Perfume.js](https://zizzamia.github.io/perfume/) - 性能监控工具。
+ 
+- 移动端调试（Mobile debugging）
+  - [Eruda](https://eruda.liriliri.io/) - 移动端 Web 调试工具。
+  - [vConsole](https://github.com/Tencent/vConsole) - 移动端 Web 调试工具，腾讯（Tencent）出品。
  
 - 实用工具（Utils）
   - [Underscore](https://underscorejs.org/) - JavaScript 的工具函数库，提供了大量非常有用的工具函数。
