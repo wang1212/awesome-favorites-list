@@ -22,6 +22,7 @@
 - [地图引擎（Map Engine）](#地图引擎)
   - [WebGIS](#webgis)
   - [移动 GIS（Mobile GIS）](#移动-gis)
+- [GIS 系统平台（GIS System Platform）](gis-系统平台)
 - [更多（More）](#更多)
   - [平台（Platform）](#平台)
 
@@ -68,6 +69,10 @@
 - [PROJ](https://proj.org/) - 通用的坐标转换工具，OSGeo 开源项目。
 - [Mapnik](https://mapnik.org/) - 空间数据可视化（支持 Node.js、Python），开源。
 - [3dtiles](https://github.com/fanvanzh/3dtiles) - 可将 OSGB 转换为 3D Tiles 数据。
+
+### Python
+
+- [OpenSfM](https://github.com/mapillary/OpenSfM) - Python 编写的 SFM，利用二维图像进行三维重建。
 
 ### JavaScript
 
@@ -159,20 +164,22 @@ _Available in browser（JavaScript）. **Tips:** Most of what is available in th
 
 *More other unclassified resources.*
 
+## GIS 系统平台
+
+*GIS System Platform.*
+
+- [OpenStreetMap](https://www.openstreetmap.org/) - 一个**开放**的全球地图数据平台。
+- [QGIS](https://www.qgis.org/) - 开源数据可视化，编辑，分析工具平台，**OSGeo 项目**。
+- [OpenDroneMap](https://www.opendronemap.org/) - 无人机航片拼图工具平台，**开源。**
+- [MapTiler](https://www.maptiler.com/) - 一个提供地图设计，地图托管工具，地图服务等资源的平台，**开源。**
+- [OpenMapTiler](https://openmaptiles.org/) - 基于 OSM 数据，提供**全套开源**工具以进行全球地图样式设计和自托管地图服务。
+- [ArcGIS](https://www.arcgis.com/) - GIS 行业商业巨头，其商业软件几乎为行业标准，**商业软件**。
+
 ### 平台
 
 *Some platforms that provide complete solutions, data etc.*
 
 - [ESRI](https://www.esri.com/) - GIS 行业商业巨头，ArcGIS 发布者的官网。
-- [ArcGIS](https://www.arcgis.com/) - GIS 行业商业巨头，其商业软件几乎为行业标准。
-
-- [OpenStreetMap](https://www.openstreetmap.org/) - 一个**开放**的全球地图数据平台。
-- [MapTiler](https://www.maptiler.com/) - 一个提供地图设计，地图托管工具，地图服务等资源的平台，**开源。**
-- [OpenMapTiler](https://openmaptiles.org/) - 基于 OSM 数据，提供**全套开源**工具以进行全球地图样式设计和自托管地图服务。
-
-- [OpenDroneMap](https://www.opendronemap.org/) - 无人机航片拼图工具平台，**开源。**
-- [OpenSfM](https://github.com/mapillary/OpenSfM) - Python 编写的 SFM，利用二维图像进行三维重建。
-
 - [Mapillary](https://www.mapillary.com/) - 街景地图平台。
 - [Mapzen](https://www.mapzen.com/)
 - [mygeodata](https://mygeodata.cloud/converter/) - 在线地理数据转换工具。
