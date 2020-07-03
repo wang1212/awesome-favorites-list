@@ -182,6 +182,7 @@
   - [TinyColor](https://github.com/bgrins/TinyColor) - 颜色字符串解析、计算工具，更轻量一些。（:warning: 不再更新）
   - [one.color](https://github.com/One-com/one-color) - 颜色字符串解析、计算工具，支持 RGB, HSV, HSL, CMYK 等。
   - [Fuse.js](https://fusejs.io/) - 模糊搜索工具。
+  - [uuid](https://github.com/uuidjs/uuid) - 生成随机唯一 id。
  
 - 文档对象模型（DOM）
   - [jQuery](https://jquery.com/) - 前几年非常流行的 DOM 操作工具库，处理了兼容性的细节问题。
