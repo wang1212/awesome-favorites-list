@@ -24,7 +24,6 @@
   - [移动 GIS（Mobile GIS）](#移动-gis)
 - [GIS 系统平台（GIS System Platform）](#gis-系统平台)
 - [更多（More）](#更多)
-  - [平台（Platform）](#平台)
 
 ## 技术规范标准
 
