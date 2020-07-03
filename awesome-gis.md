@@ -22,7 +22,7 @@
 - [地图引擎（Map Engine）](#地图引擎)
   - [WebGIS](#webgis)
   - [移动 GIS（Mobile GIS）](#移动-gis)
-- [GIS 系统平台（GIS System Platform）](gis-系统平台)
+- [GIS 系统平台（GIS System Platform）](#gis-系统平台)
 - [更多（More）](#更多)
   - [平台（Platform）](#平台)
 
@@ -160,10 +160,6 @@ _Available in browser（JavaScript）. **Tips:** Most of what is available in th
 
 [`Go Top ↑`](#awesome-gis-list)
 
-## 更多
-
-*More other unclassified resources.*
-
 ## GIS 系统平台
 
 *GIS System Platform.*
@@ -175,9 +171,11 @@ _Available in browser（JavaScript）. **Tips:** Most of what is available in th
 - [OpenMapTiler](https://openmaptiles.org/) - 基于 OSM 数据，提供**全套开源**工具以进行全球地图样式设计和自托管地图服务。
 - [ArcGIS](https://www.arcgis.com/) - GIS 行业商业巨头，其商业软件几乎为行业标准，**商业软件**。
 
-### 平台
+[`Go Top ↑`](#awesome-gis-list)
 
-*Some platforms that provide complete solutions, data etc.*
+## 更多
+
+*More other unclassified resources.*
 
 - [ESRI](https://www.esri.com/) - GIS 行业商业巨头，ArcGIS 发布者的官网。
 - [Mapillary](https://www.mapillary.com/) - 街景地图平台。
