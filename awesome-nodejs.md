@@ -23,6 +23,8 @@
 - [工具库（Tool Library）](#工具库)
 - [数据库（Database）](#数据库)
 - [Web 框架（Web Framework）](#web-框架)
+- [桌面端开发（Desktop Development）](#桌面端开发)
+- [文章（Article）](#文章)
 - [更多（More）](#更多)
 
 ## 技术规范标准
@@ -110,6 +112,7 @@
     - [Rollup](http://rollupjs.org/) - 打包工具，适合开发库、框架。
   - Node 应用（Node App）
     - [nodemon](https://nodemon.io) - 提供 Node.js 开发时热重载机制。
+    - [node-dev](https://github.com/fgnass/node-dev) - 热重载。
 
 - 文档（Doc）
   - [JSDoc](https://jsdoc.app/) - JavaScript 的 API 文档生成工具。
@@ -142,9 +145,6 @@
 - 实用工具（Utils）
   - [Madge](https://github.com/pahen/madge) - 生成可视化的模块依赖图。
   - [esm](https://github.com/standard-things/esm) - 能够为 `.js` 文件提供 [ECMAScript Modules](https://tc39.es/ecma262/#sec-modules) 支持。
-  - [chalk](https://github.com/chalk/chalk) - 终端输出字符串样式工具，支持全部的颜色。
-  - [commander](https://github.com/tj/commander.js) - 简单的命令行接口。
-  - [inquirer](https://github.com/SBoudrias/Inquirer.js) - 交互式命令行。
   - [envinfo](https://github.com/tabrindle/envinfo) - 生成开发环境信息报告。
   - [web-worker](https://github.com/developit/web-worker) - 在浏览器和 Node.js 环境中实现一致的 Web Worker API。
   - [tslog](https://tslog.js.org/) - 日志格式化。
@@ -222,6 +222,15 @@
   - [puppeteer](https://github.com/puppeteer/puppeteer)
   - [Nightmare](http://www.nightmarejs.org/)
 
+- 系统组件（System Components）
+  - [node-notifier](https://github.com/mikaelbr/node-notifier) - 跨平台原生通知功能。
+
+- 命令行工具（Command line tool）
+  - [Caporal](https://github.com/mattallty/Caporal.js) - 全功能命令行应用开发框架。
+  - [commander](https://github.com/tj/commander.js) - 简单的命令行接口。
+  - [inquirer](https://github.com/SBoudrias/Inquirer.js) - 交互式命令行。
+  - [chalk](https://github.com/chalk/chalk) - 终端输出字符串样式工具，支持全部的颜色。
+
 [`Go Top ↑`](#awesome-nodejs-list)
 
 ## 数据库
@@ -265,11 +274,7 @@
 
 [`Go Top ↑`](#awesome-nodejs-list)
 
-## 更多
-
-*More other unclassified resources.*
-
-### 桌面端开发
+## 桌面端开发
 
 *Desktop-side application development framework.*
 
@@ -277,15 +282,24 @@
 - [NW.js](https://nwjs.io/) - 基于 Node.js 与 Chromium 技术的开源跨平台桌面端应用开发解决方案。
 - [Neutralino](https://neutralino.js.org/) - 轻量级跨平台桌面端应用开发框架。
 
-- [JavaScript Open Source Award](https://osawards.com/javascript/) - JavaScript 开源项目奖，**非官方**。
+[`Go Top ↑`](#awesome-nodejs-list)
 
-- [Testing Library](https://testing-library.com/) - 包含了众多测试工具项目。
-
-### 文章
+## 文章
 
 *Article.*
 
 - [Introduction to Node.js](https://nodejs.dev/) - Node.js 技术介绍。
 - [Setting up multi-platform npm packages](https://2ality.com/2017/04/setting-up-multi-platform-packages.html) - 多平台支持的 npm 包配置。
+
+[`Go Top ↑`](#awesome-nodejs-list)
+
+## 更多
+
+*More other unclassified resources.*
+
+- [JavaScript Open Source Award](https://osawards.com/javascript/) - JavaScript 开源项目奖，**非官方**。
+- [Testing Library](https://testing-library.com/) - 包含了众多测试工具项目。
+- [awesome-nodejs-security](https://github.com/lirantal/awesome-nodejs-security) - Node.js 安全相关工具。
+- [NodeBB](https://github.com/NodeBB/NodeBB) - 开源论坛软件。
 
 [`Go Top ↑`](#awesome-nodejs-list)
