@@ -143,6 +143,17 @@
 
 - [Chromium](https://chromium.woolyss.com/download/) - [Chromium](https://www.chromium.org/) 浏览器安装包下载，[**非官方网站**](https://chromium.woolyss.com/#notes)。
 
+### 下载
+
+*File download tool.*
+
+- [Free Download Manager](https://www.freedownloadmanager.org/) - 加速下载器，全平台支持，**开源软件**。
+- [BitComet](http://www.bitcomet.com/) - BitTorrent 下载客户端，**免费软件**。
+- [WebTorrent](https://webtorrent.io/) - Web 端和桌面端跨平台的流式 torrent 客户端，**开源软件**。
+- [Persepolis Download Manager](https://persepolisdm.github.io/) - 一个 [aria2](https://aria2.github.io/) 的图形化界面软件，**开源软件**。
+- [Xtreme Download Manager](https://subhra74.github.io/xdm/) - 提供了很多浏览器插件支持，支持视频格式转换，**开源软件**。
+- [qBittorrent](https://www.qbittorrent.org/) - BitTorrent 下载工具，**开源软件**。
+
 ### 多媒体
 
 *Multimedia.*
@@ -153,21 +164,17 @@
 - [Open Broadcaster Software](https://obsproject.com/) - 具有强大的录屏、截屏、流媒体传输等功能，**开源软件**。
 - [Captura](https://mathewsachin.github.io/Captura/) - 轻量级、功能齐全的录屏、截屏软件，需安装 FFmpeg 依赖，**开源软件**。
 
-### 下载
-
-*File download tool.*
-
-- [Free Download Manager](https://www.freedownloadmanager.org/) - 加速下载器，全平台支持，**开源软件**。
-- [BitComet](http://www.bitcomet.com/) - BitTorrent 下载客户端，**免费软件**。
-- [WebTorrent](https://webtorrent.io/) - Web 端和桌面端跨平台的流式 torrent 客户端，**开源软件**。
-- [Persepolis Download Manager](https://persepolisdm.github.io/) - 一个 [aria2](https://aria2.github.io/) 的图形化界面软件，**开源软件**。
-- [Xtreme Download Manager](https://subhra74.github.io/xdm/) - 提供了很多浏览器插件支持，支持视频格式转换，**开源软件**。
-
 ### 文件处理
 
 *File processing tools.*
 
-- Image
+- 文件管理工具（File Management Tools）
+  - [Listary](https://www.listary.com/) - 可快速搜索文件，打开应用软件，**个人用户免费**。
+  - [Everything](https://www.voidtools.com/zh-cn/) - 文件快速搜索工具，**免费软件**。
+  - [SpaceSniffer](http://www.uderzo.it/main_products/space_sniffer/index.html) - 磁盘扫描工具，可视化文件占比分析，**免费软件**。
+  - [QuickLook](https://pooi.moe/QuickLook/) - 文件内容预览工具，**开源软件**。
+
+- 图片（Image）
   - [ImageGlass](https://imageglass.org/) - 非常轻量的图片浏览器，**开源软件**。
   - [qimgv](https://github.com/easymodo/qimgv) - 图片浏览器，支持视频预览，**开源软件**。
   - [Picasa](https://picasa.google.com/) - 图片浏览器，Google 公司开发。（:warning: 停止支持）
@@ -175,9 +182,12 @@
 - PDF
   - [Sumatra PDF](https://www.sumatrapdfreader.org/) - windows 平台 PDF、CHM 等文件浏览器，**开源软件**。
 
-- ZIP/RAR
+- 压缩文件（ZIP/RAR）
   - [7-Zip](https://www.7-zip.org/) - 解压缩软件，兼容主流格式，轻量，无广告，**开源软件**。
-  - [Bandizip](http://www.bandisoft.com/) - 解压缩软件，兼容主流格式，UI 比较精美，轻量，标准版免费，但有广告。
+  - [Bandizip](http://www.bandisoft.com/) - 解压缩软件，兼容主流格式，UI 比较精美，轻量，**标准版免费，但有非推送广告**。
+
+- 电子书（e-bbok）
+  - [Calibre](https://calibre-ebook.com/) - 电子书管理阅读工具，**开源软件**。
 
 ### 设计
 
@@ -222,7 +232,7 @@
 
 *Developer assistance tools, including API management, remote login, and more.*
 
-- API Manage && Test
+- API 管理与测试（API Manage && Test）
   - [Postman](https://www.getpostman.com/) - 一个非常棒的 API 管理工具。
   - [Insomnia](https://insomnia.rest/) - API 接口测试工具。
   
@@ -263,7 +273,6 @@
 
 - [Syncthing](https://syncthing.net/) - 跨平台、跨设备文件同步软件，**开源软件**。
 - [ShareX](https://getsharex.com/) - 截屏、录屏、文本转换、DNS 更换等等，生产力工具，**开源软件**。
-- [Everything](https://www.voidtools.com/zh-cn/) - 文件快速搜索工具，**免费软件**。
 - [Typora](https://www.typora.io/) - Markdown 文本编辑器，很漂亮，功能很强大，**测试版免费**。
 - [Cleaver](http://jdan.github.io/cleaver/) - Markdown 文件生成幻灯片。
 - [mermaid](https://github.com/mermaid-js/mermaid) - txt 文件生成流程图。
