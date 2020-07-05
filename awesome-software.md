@@ -287,6 +287,7 @@
 
 *Some command line tools without GUI.*
 
+- [Certbot](https://certbot.eff.org/) - 管理 [Let's Encrypt](https://letsencrypt.org/) 证书工具，为网站启用 HTTPS，**开源软件**。
 - [FFmpeg](http://ffmpeg.org/) - 命令行工具，完整的、跨平台的解决方案，用于记录、转换和流传输音频和视频，**开源软件**。
 - [aria2](https://aria2.github.io/) - 支持多协议、高速文件下载工具，**开源软件**。
 - [PhotoRec](https://www.cgsecurity.org/wiki/PhotoRec) - 文件数据恢复软件，**开源软件**。
