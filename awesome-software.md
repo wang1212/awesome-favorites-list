@@ -273,11 +273,13 @@
 
 - [Syncthing](https://syncthing.net/) - 跨平台、跨设备文件同步软件，**开源软件**。
 - [ShareX](https://getsharex.com/) - 截屏、录屏、文本转换、DNS 更换等等，生产力工具，**开源软件**。
+- [uTools](http://www.u.tools/) - 生产力工具，包含许多小工具，**免费软件**。
 - [Typora](https://www.typora.io/) - Markdown 文本编辑器，很漂亮，功能很强大，**测试版免费**。
 - [Cleaver](http://jdan.github.io/cleaver/) - Markdown 文件生成幻灯片。
 - [mermaid](https://github.com/mermaid-js/mermaid) - txt 文件生成流程图。
 - [nodeppt](https://github.com/ksky521/nodeppt)
 - [Ditto](https://ditto-cp.sourceforge.io/) - 粘贴板管理工具，**开源软件**。
+- [Snipaste](https://www.snipaste.com/) - 截图小工具，**免费软件**。
 
 [`Go Top ↑`](#awesome-software)
 
