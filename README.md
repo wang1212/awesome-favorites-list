@@ -37,6 +37,7 @@
 - [IPFS](https://ipfs.io/) - 全球分布式文件系统。
   - [i-Book.in](https://book.tstrs.me/) - 针对 IPFS 链接的搜索引擎。
 
+- [FreeSSL](https://freessl.org/) - 免费 SSL 证书在线申请。
 - [IPAddress](https://www.ipaddress.com/) - 在线查询某个站点的 IP 地址。
 - [IKnowWhatYouDownload](https://iknowwhatyoudownload.com/) - 查看 IP 下载过的 BT 资源。
 - [MSDN, I tell you](https://msdn.itellyou.cn/) - 可下载系统镜像文件。
