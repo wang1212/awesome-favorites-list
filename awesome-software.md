@@ -298,8 +298,9 @@
 
 *More.*
 
-- [MSDN, I tell you](https://msdn.itellyou.cn/) - 可下载系统镜像文件。
 - [Slant](https://www.slant.co/) - 搜索最佳实践。
 - [小众软件](https://www.appinn.com/) - 小众软件推荐网站。
+- [MSDN, I tell you](https://msdn.itellyou.cn/) - 可下载系统镜像文件。
+- [Free All We Need](https://free.appnee.com/) - 软件注册工具下载。
 
 [`Go Top ↑`](#awesome-software)
