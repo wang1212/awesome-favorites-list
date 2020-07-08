@@ -152,7 +152,7 @@
 *Code Style Specifications.*
 
 - [JavaScript Standard Style](https://standardjs.com/) - 支持 JSX 等语法，社区维护。
-- [Airbnb JavaScript Style Guide](https://github.com/airbnb/javascript) - 支持 React 技术栈，**Airbnb 公司发布**。
+- [Airbnb JavaScript Style Guide](https://airbnb.io/javascript/) - 支持 React 技术栈，**Airbnb 公司发布**。
 - [Google JavaScript Style Guide](https://google.github.io/styleguide/jsguide.html) - 仅支持原生 JavaScript，**Google 公司发布**。
 
 ### JS 工具库
