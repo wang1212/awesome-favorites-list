@@ -20,6 +20,7 @@
   - [工具库（Library）](#css-工具库)
   - [字体图标（Font Icon）](#字体图标)
 - [JavaScript](#javascript)
+  - [代码风格规范（Code Style Specifications）](#代码风格规范)
   - [工具库（Library）](#js-工具库)
 - [UI 组件（UI Component）](#ui-组件)
   - [组件库（Component Library）](#组件库)
@@ -145,6 +146,14 @@
 
 - [TC39 ECMAScript proposals](https://github.com/tc39/proposals) - TC39 对 ECMAScript 标准制定提案的记录。
 - [OpenJS Foundation](https://openjsf.org/) - 开源 JS 基金会，由 Node 基金会和 JS 基金会合并而成。
+
+### 代码风格规范
+
+*Code Style Specifications.*
+
+- [JavaScript Standard Style](https://standardjs.com/) - 支持 JSX 等语法，社区维护。
+- [Airbnb JavaScript Style Guide](https://github.com/airbnb/javascript) - 支持 React 技术栈，**Airbnb 公司发布**。
+- [Google JavaScript Style Guide](https://google.github.io/styleguide/jsguide.html) - 仅支持原生 JavaScript，**Google 公司发布**。
 
 ### JS 工具库
 
