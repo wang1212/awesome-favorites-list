@@ -250,8 +250,9 @@
     - [Etcher](https://www.balena.io/etcher) - 制作 Linux Live USB。
     - [LF](https://github.com/gokcehan/lf) - 终端文件管理工具命令包。
     
-- Code formatting
+- 代码格式化（Code formatting）
   - [Prettier](https://prettier.io/)
+  - [EditorConfig](https://editorconfig.org/)
 
 - Linux CLI Tools
   - [Z-Shell](https://www.zsh.org/)
