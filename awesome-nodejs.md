@@ -86,7 +86,7 @@
   - [Npm Charts](https://npmcharts.com/) - 可以查询对比多个 Npm 包的下载流量数据、star 数目等，**非官方网站**。
   - [BUNDLEPHOBIA](https://bundlephobia.com/) - 分析 npm 包大小和依赖关系，**非官方网站**。
   - [Package Phobia](https://packagephobia.com/) - 分析 npm 包大小，**非官方网站**。
-  - [njt](https://njt.now.sh/) -  npm jump to，npm 包搜索并跳转到相应 npm 站点，**非官方网站**。
+  - [njt](https://njt.now.sh/) -  npm jump to，npm 包搜索并跳转到相应 npm 站点，**非官方**。
   - [npkill](https://npkill.js.org/) - 搜索系统中的 *node_modules* 文件夹并清理，**非官方**。
 
 [`Go Top ↑`](#awesome-nodejs-list)
