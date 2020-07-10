@@ -72,6 +72,7 @@
 - Packages Manageer
   - [npm](https://www.npmjs.com/) - Node.js 的官方包管理器。
   - [Yarn](https://www.yarnpkg.com/)
+  - [pnpm](https://pnpm.js.org/)
   - [Bower](https://bower.io/)
   - [jspm](https://jspm.org/)
 
