@@ -15,7 +15,7 @@
 - [论坛（Forum）](#论坛)
 - [书籍（Book）](#书籍)
 - [文章(Article)](#文章)
-- [其它（Others）](#其它)
+- [更多（More）](#更多)
 
 ## 数据
 
@@ -229,12 +229,13 @@
 - [Superhero.js](http://superherojs.com/) - 构建大型项目的一些技巧。
 - [Write an Open Source JavaScript Library](https://github.com/sarbbottam/write-an-open-source-js-lib) - 如何编写开源 JavaScript 库，并且发布到 npm。
 - [A successful Git branching model](https://nvie.com/posts/a-successful-git-branching-model/) - 一个成功的 Git 分支模型。
+- [The Art of Command Line](https://github.com/jlevy/the-art-of-command-line) - 命令行的艺术，技巧。
 
 [`Go Top ↑`](#awesome-reading-list)
 
-## 其它
+## 更多
 
-*Other unclassified resources.*
+*More other unclassified resources.*
 
 - [掘金翻译计划](https://github.com/xitu/gold-miner) - 掘金翻译计划，可能是世界最大最好的英译中技术社区，最懂读者和译者的翻译平台。
 - [Library of Congress](https://www.loc.gov/) - 美国国会图书馆。
