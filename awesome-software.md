@@ -198,6 +198,13 @@
 - [Sketch](https://www.sketch.com/) - 产品原型图设计，**商业软件**。
 - [PxCook](https://www.fancynode.com.cn/pxcook) - 图片标注工具。
 
+### 系统管理
+
+*System management and maintenance tools.*
+
+- [CPU-Z](https://www.cpuid.com/softwares/cpu-z.html) - CPU 检测工具。
+- [GPU-Z](https://www.techpowerup.com/gpuz/) - GPU 检测工具。
+
 ### 软件开发
 
 *Software tools related to software development.*
