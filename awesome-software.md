@@ -289,6 +289,7 @@
 - [nodeppt](https://github.com/ksky521/nodeppt)
 - [Ditto](https://ditto-cp.sourceforge.io/) - 粘贴板管理工具，**开源软件**。
 - [Snipaste](https://www.snipaste.com/) - 截图小工具，**免费软件**。
+- [Rainmeter](https://www.rainmeter.net/) - Windows 桌面自定义小工具，**开源软件**。
 
 [`Go Top ↑`](#awesome-software)
 
