@@ -162,6 +162,7 @@
 - [VLC media player](http://www.videolan.org/vlc/) - 跨平台多媒体播放器及框架，可播放大多数多媒体文件，**开源软件**。
 - [MPC-HC](https://mpc-hc.org/) - Windows 平台轻量的媒体播放器，**开源软件**。（:warning: 不再更新）
 - [Open Broadcaster Software](https://obsproject.com/) - 具有强大的录屏、截屏、流媒体传输等功能，**开源软件**。
+- [AIMP](http://www.aimp.ru/) - 专业级音频播放器，**免费软件**。
 - [Captura](https://mathewsachin.github.io/Captura/) - 轻量级、功能齐全的录屏、截屏软件，需安装 FFmpeg 依赖，**开源软件**。
 
 ### 文件处理
