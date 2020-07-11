@@ -20,7 +20,7 @@
 - [工具库（Tool Library）](#工具库)
 - [数据库（Database）](#数据库)
 - [Web 框架（Web Framework）](#web-框架)
-- [其它（Others）](#其它)
+- [更多（More）](#更多)
 
 ## 技术规范标准
 
@@ -28,13 +28,13 @@
 
 - [Python](https://www.python.org/) - 官方网站。
 
-[Go Top ↑](#awesome-python-list)
+[`Go Top ↑`](#awesome-python-list)
 
 ## 技术参考文档
 
 *Official and unofficial technical reference documents.*
 
-[Go Top ↑](#awesome-python-list)
+[`Go Top ↑`](#awesome-python-list)
 
 ## 包管理器
 
@@ -44,28 +44,30 @@
 - [Anaconda](https://www.anaconda.com/) - 包含 [Conda](https://docs.conda.io/) 包管理器和 Python 发行版，包含上百个科学计算和机器学习库，开箱即用。
 - [Miniconda](https://docs.conda.io/en/latest/miniconda.html) - Anaconda 微型版本，仅包含 Conda 和 Python 发行版和必要的依赖库。
 
-[Go Top ↑](#awesome-python-list)
+[`Go Top ↑`](#awesome-python-list)
 
 ## 工具库
 
 *Tool Library, some unofficial high-quality Python packages (or libraries).*
 
-- Test
+- 实用工具（Utils）
+  - [The Fuck](https://github.com/nvbn/thefuck) - 命令行错误命令纠正工具。
+
+- 测试（Test）
   - [pytest](https://docs.pytest.org/) - 单元测试框架。
 
-- Compute - Math & Scientific Computing & Analysis
+- 科学计算（Compute - Math & Scientific Computing & Analysis）
   - [NumPy](https://numpy.org/) - 最受欢迎的、强大的科学计算工具包。
   - [pandas](https://pandas.pydata.org/) - 强大的 Python 数据分析工具包。
 
 - HTTP
   - [Requests](https://requests.readthedocs.io/)
 
-- File
-  - Image
+- 文件操作（File）
+  - 图片（Image）
     - [Pillow](https://python-pillow.org/) - 图像处理工具，Fork 自 [PIL](http://www.pythonware.com/products/pil/)。
 
-
-[Go Top ↑](#awesome-python-list)
+[`Go Top ↑`](#awesome-python-list)
 
 ## 数据库
 
@@ -73,7 +75,7 @@
 
 - [SQLAlchemy](https://www.sqlalchemy.org/) - Python SQL 工具包和 ORM 库。
 
-[Go Top ↑](#awesome-python-list)
+[`Go Top ↑`](#awesome-python-list)
 
 ## Web 框架
 
@@ -82,10 +84,10 @@
 - [Django](https://www.djangoproject.com/)
 - [Flask](https://flask.palletsprojects.com/)
 
-[Go Top ↑](#awesome-python-list)
+[`Go Top ↑`](#awesome-python-list)
 
-## 其它
+## 更多
 
-*Other unclassified resources.*
+*More other unclassified resources.*
 
-[Go Top ↑](#awesome-python-list)
+[`Go Top ↑`](#awesome-python-list)
