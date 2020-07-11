@@ -55,12 +55,12 @@
 
 *Computer technology and software development.*
 
-- Every day
+- 每日（Every day）
   - [Webdesigner News](https://www.webdesignernews.com/) - 日报，针对 Web 设计师的新闻。
   - [Echo JS](https://www.echojs.com/) - 日报，Web 前端新闻。
   - [CSS-Tricks](https://css-tricks.com/) - 日报，CSS 技术文章。
   
-- Weekly
+- 每周（Weekly）
   - [StatusCode Weekly](https://weekly.statuscode.com/) - 周刊，软件开发、Web 技术、软件架构等。
   - [Mobile Dev Weekly](https://mobiledevweekly.com/) - 周刊，移动应用（Web 和 Native）开发技术。
   - [Frontend Focus](https://frontendfoc.us/) - 周刊，Web 前端技术资讯。
@@ -78,16 +78,12 @@
   - [Postgres Weekly](https://postgresweekly.com/) - 周刊，PostgreSQL 技术。
   - [DB Weekly](https://dbweekly.com/) - 周刊，数据库技术。
 
-- Others
+- 半年（Half a year）
   - [Technology Radar](https://www.thoughtworks.com/radar) - 六个月一期，[ThoughtWorks](https://www.thoughtworks.com/) 出品的技术雷达。
 
 ### 其它
 
-- Weekly
-  - [科技爱好者周刊](https://github.com/ruanyf/weekly)
-
-### 更多
-
+- [科技爱好者周刊](https://github.com/ruanyf/weekly)
 - [Awesome Weekly](https://github.com/jondot/awesome-weekly)
 
 [`Go Top ↑`](#awesome-reading-list)
@@ -145,7 +141,7 @@
 
 *Computer Technology Related Books.*
 
-- Programming language
+- 编程语言（Programming language）
   - 《C 程序设计语言》[美] Dennis M. Ritchie, Brian W. Kernighan
   - [《你不知道的 JavaScript》](https://github.com/getify/You-Dont-Know-JS)[美] Kyle Simpson - 系列书籍，讲解 JavaScript 核心概念，**开源书籍**。
   - [Eloquent JavaScript](https://eloquentjavascript.net/)[美] Marijn Haverbeke - JavaScript、Node.js 技术，**开源书籍**。
@@ -156,21 +152,21 @@
   - [《The Book Of Ruby》](http://www.sapphiresteel.com/ruby-programming/The-Book-Of-Ruby.html)[英] Huw Collingbourne - 关于 Ruby 编程的开源书籍，涉及知识概念很全面，**开源书籍**。:point_right: [简体中文翻译](https://wang1212.github.io/the-book-of-ruby/#/0-homepage.html)	
   - [《Advanced Bash-Scripting Guide》](http://tldp.org/LDP/abs/html/) - 高级 Bash 脚本编程指南，**开源书籍**。
  
-- Data algorithm
+- 数据算法（Data algorithm）
   - 《数据结构与算法分析：C语言描述》[美] Mark Allen Weiss
   - 《算法图解》[美] Aditya Bhargava
   
-- Web development 
+- Web 开发（Web development）
   - 《了不起的 Node.js：将 JavaScript 进行到底》[美] Guillermo Rauch
   - 《图解 HTTP》[日] 上野 · 宣
   - 《图解 TCP/IP》[日] 竹下隆史 村山公保 荒井透 苅田幸雄  
   - 《前端架构设计》[美] Micah Godbolt - 很好的 Web 前端工程化实践参考。
   - [CSS Animation 101](https://github.com/cssanimation/css-animation-101) - 学习 CSS 动画，**开源书籍**。
   
-- Android development
+- 安卓开发（Android development）
   - 《Android 4 高级编程》[美] Reto Meier
 
-- Others
+- 其它（Others）
   - 《计算机科学精粹》[巴西] Wladston Ferreira Filho - 讲述了常见的计算机概念，非常值得一读，拓宽自己的视野。
   - 《C++ API 设计》[美] Martin Redd
   - 《编程珠玑》[美] Jon Bentley
