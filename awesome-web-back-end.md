@@ -14,6 +14,7 @@
 - [技术参考文档（Technical Reference Document）](#技术参考文档)
 - [服务器（Server）](#服务器)
 - [更多（More）](#更多)
+  - [命令行工具（CLI Tools）](#命令行工具)
   - [文章（Article）](#文章)
 
 ## 技术规范标准
@@ -34,8 +35,6 @@
 
 *Official and unofficial technical reference documents.*
 
-- [Learn REST](http://rest.elkstein.org/) - RESTful 学习参考。
-
 [`Go Top ↑`](#awesome-web-back-end-list)
 
 ## 服务器
@@ -49,6 +48,7 @@
   - [OpenResty](http://openresty.org/) - 算是 Nginx + Lua 的开发平台，提供了很多优质的 Nginx 插件。
   - [Kong](https://konghq.com/) - 现代 API 服务平台，提供诸如 API 网关等功能，其本身也利用了 OpenResty，是一个 Lua 模块 Nginx 插件。
   - [ngxtop](https://github.com/lebinh/ngxtop) - Python 编写的工具，实时分析 nginx 的运行指标。
+  - [NGINX Config](https://www.digitalocean.com/community/tools/nginx) - Nginx 配置在线生成工具，**非官方**。
 
 - [Apache](http://httpd.apache.org/) - 世界上最著名的 Web 静态服务器。
 
@@ -59,8 +59,6 @@
 ## 更多
 
 *More other unclassified resources.*
-
-- [NGINX Config](https://www.digitalocean.com/community/tools/nginx) - Nginx 配置在线生成工具。
 
 ### 命令行工具
 
@@ -73,6 +71,7 @@
 
 *Some articles related to server-side problem solutions.*
 
+- [Learn REST](http://rest.elkstein.org/) - RESTful 学习参考。
 - [How To Safely Store A Password](https://codahale.com/how-to-safely-store-a-password/)
 
 [`Go Top ↑`](#awesome-web-back-end-list)
