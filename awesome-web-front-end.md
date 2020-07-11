@@ -120,8 +120,6 @@
 *Font icon, vector icon.*
 
 - 字体（Font）
-  - [Source Code Pro](https://github.com/adobe-fonts/source-code-pro) - Adobe 出品的开源等宽字体，适合编程使用。
-  - [JetBrains Mono](https://www.jetbrains.com/lp/mono/) - JetBrains 出品的开源编程字体。
   
 - 图标（Icon）
   - [Bootstrap Icons](https://icons.getbootstrap.com/) - SVG 图标库，**Bootstrap 官方发布**。
