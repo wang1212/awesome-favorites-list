@@ -58,6 +58,10 @@
 - [DevDocs](https://devdocs.io/) - 在线技术文档查询。
 - [DB-Engines](https://db-engines.com/) - 数据库排名信息。
 
+- 等宽字体（Monospaced Font）
+  - [Source Code Pro](https://github.com/adobe-fonts/source-code-pro) - 等宽字体，适合编程使用，**Adobe 出品，开源**。
+  - [JetBrains Mono](https://www.jetbrains.com/lp/mono/) - 等宽字体，适合编程使用，**JetBrains 出品，开源**。
+
 - 在线编辑器（Online Editor）
   - [CodeTable](https://code.hackerearth.com/)
   - [JDoodle](https://www.jdoodle.com/)
