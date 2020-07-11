@@ -116,6 +116,7 @@
     - [node-dev](https://github.com/fgnass/node-dev) - 热重载。
 
 - 文档（Doc）
+  - [tldr](https://github.com/tldr-pages/tldr) - Unix 系统的 man pages 文档简化版本，更清晰易懂。
   - [JSDoc](https://jsdoc.app/) - JavaScript 的 API 文档生成工具。
 
 - 测试（Test）
