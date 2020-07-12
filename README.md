@@ -35,7 +35,7 @@
 *Things you need for daily use, work or internet.*
 
 - [IPFS](https://ipfs.io/) - 全球分布式文件系统。
-  - [i-Book.in](https://book.tstrs.me/) - 针对 IPFS 链接的搜索引擎。
+  - ~~[i-Book.in](https://book.tstrs.me/) - 针对 IPFS 链接的搜索引擎。~~
 
 - [FreeSSL](https://freessl.org/) - 免费 SSL 证书在线申请。
 - [IPAddress](https://www.ipaddress.com/) - 在线查询某个站点的 IP 地址。
