@@ -15,6 +15,7 @@
 - [软件（Software）](awesome-software.md)
 - 软件开发（Software Development）
   - [开发团队（Development Team）](awesome-dev-team.md)
+  - [开发工具（Development Tools）](awesome-dev-tools.md)
   - [Web 前端（Web Front-end）](awesome-web-front-end.md)
     - [React.js](awesome-reactjs.md)
   - [Web 后端（Web Backend）](awesome-web-back-end.md)
