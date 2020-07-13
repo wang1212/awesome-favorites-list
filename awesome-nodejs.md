@@ -130,9 +130,10 @@
   - [playwright](https://playwright.dev/) - 跨浏览器 Web 自动化工具，**Microsoft 发布**。
   - [Browsersync](https://www.browsersync.io/) - 浏览器同步调式工具，功能非常强大。
 
-- 代码质量分析（Code Lint）
+- 代码静态分析（Code Lint）
   - [ESLint](https://eslint.org/) - JavaScript 语法规则检查工具。
-  - [Prettier](https://prettier.io/) - 代码格式化工具。
+  - [Prettier](https://prettier.io/) - 代码格式化工具，支持多种语言。
+  - [stylelint](https://stylelint.io/) - CSS 语法规则检查工具，支持 CSS/Sass/CSS-in-JS 等。
   - [Flow](https://flow.org/) - Facebook 出品的 JavaScript 静态类型检查工具。
 
 - 代码版本管理（Code version management ）
