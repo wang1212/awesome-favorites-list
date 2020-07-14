@@ -385,6 +385,7 @@
 - [C3](https://c3js.org/) - 基于 D3 的可重用图表库。
 - [GSAP](https://greensock.com/) - 现代化的高性能动画工具库。
 - [Shifty](https://jeremyckahn.github.io/shifty/doc/index.html) - 轻量级、高性能的低级动画工具库。
+- [Textures.js](https://riccardoscalco.it/textures/) - 创建 SVG 模式。
 
 [`Go Top ↑`](#awesome-web-front-end-list)
 
