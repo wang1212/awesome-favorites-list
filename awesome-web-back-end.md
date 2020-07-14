@@ -64,8 +64,9 @@
 
 *Useful command line tools.*
 
-- [curl](https://curl.haxx.se/) - 发 HTTP 请求。
+- [curl](https://curl.haxx.se/) - 发送 HTTP 请求。
 - [wget](https://www.gnu.org/software/wget/) - 文件下载。
+- [HTTPie](https://httpie.org/) - HTTP 客户端，类似 curl，人类可读。
 
 ### 文章
 
