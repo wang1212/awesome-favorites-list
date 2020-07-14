@@ -403,6 +403,8 @@
 - [Svelte](https://svelte.dev/) - 更轻量的前端 UI 库。
   - [Sapper](https://sapper.svelte.dev/) - 基于 Svelte 的 Web App 开发框架。
 
+- [Hyperapp](https://hyperapp.dev/) - 轻量的，纯函数式，声明式开发框架。
+
 [`Go Top ↑`](#awesome-web-front-end-list)
 
 ## 更多
@@ -429,17 +431,17 @@
 
 *Some online resources, such as CDN, image compression tools, online IDE, etc.*
 
-- Web Security
+- Web 安全（Web Security）
   - [SRI Hash Generator](https://www.srihash.org/) - [SRI](https://www.w3.org/TR/SRI/) 的 hash 生成。
 
-- Web Optimization
+- Web 优化（Web Optimization）
   - [web.dev](https://web.dev/)
   - [Varvy SEO tool](https://varvy.com/) - 一个在线网站 SEO、性能检测工具，提供优化建议和技巧。
   - [PageSpeed Insights](https://developers.google.com/speed/pagespeed/insights/) - Google 提供的在线网站性能检测工具，提供优化建议和技巧，**Google 官方提供**。
   - [Lighthouse](https://developers.google.com/web/tools/lighthouse/) - Google 提供的一个网站优化检测分析工具，已被集成在 Chrome 开发工具中，也可以作为 Chrome 扩展或者命令行工具使用，**Google 官方提供**。
   - [What Web Can Do](https://whatwebcando.today/) - 可以检测当前设备所支持的 Web API，主要检测硬件设备传感器等，**非官方网站**。
     
-- Image Compression
+- 图片压缩（Image Compression）
   - [Compress PNG](https://compresspng.com/)
   - [Picdiet](https://www.picdiet.com/)
   - [TinyPNG](https://tinypng.com/)
@@ -447,14 +449,14 @@
   - [压缩图](https://www.yasuotu.com/)
   - [色彩笔](http://www.secaibi.com/tools/)
   
-- IDE / Editor
+- 在线 IDE、编辑器（IDE / Editor）
   - [StackBlitz](https://stackblitz.com/)
   - [JSFiddle](https://jsfiddle.net/)
   - [CodeSandbox](https://codesandbox.io/)
   - [CodePen](https://codepen.io/)
   - [WebAssembly Studio](https://webassembly.studio/) - 在线的 WebAssembly 编辑器，**Mozilla 发布**。
   
-- Others
+- 其它（Others）
   - [enjoyCSS](https://enjoycss.com/) - 便捷的组件样式设计输出在线工具。
   - [bit](https://bit.dev/) - 构建可重用组件的协作平台。
   - [Prettier Playground](https://prettier.io/playground/) - Prettier 代码格式化工具的在线版本。
@@ -463,6 +465,7 @@
   - [Sorted CSS Colors](https://enes.in/sorted-colors/)  
   - [Doka](https://doka.photo/) - 图片编辑工具。
   - [easings.co](https://easings.co/) - 测试动画函数效果。
+  - [Keyframes](https://keyframes.app/) - CSS 预览小工具。
 
 ### 文章
 
