@@ -50,14 +50,16 @@
 
 *Software Development, technical information, documentation, etc.*
 
-- [SOCODE.PRO](https://socode.pro/) - 快速搜索一些开发资源。
-- [StackShare](https://stackshare.io/) - 技术趋势分享。
-- [Open Source Awards](https://osawards.com/) - 开源项目奖。
-- [LibHunt](https://www.libhunt.com/) - 收集了各种库的网站。
-- [lib4dev](http://www.lib4dev.in/) - 开源库分类查询。
-- [tool.lu](https://tool.lu/) - 开发者小工具集合。
-- [DevDocs](https://devdocs.io/) - 在线技术文档查询。
-- [DB-Engines](https://db-engines.com/) - 数据库排名信息。
+- 文档与工具（Docs && Tools）
+  - [SOCODE.PRO](https://socode.pro/) - 快速搜索一些开发资源。
+  - [StackShare](https://stackshare.io/) - 技术趋势分享。
+  - [Open Source Awards](https://osawards.com/) - 开源项目奖。
+  - [LibHunt](https://www.libhunt.com/) - 收集了各种库的网站。
+  - [lib4dev](http://www.lib4dev.in/) - 开源库分类查询。
+  - [tool.lu](https://tool.lu/) - 开发者小工具集合。
+  - [DevDocs](https://devdocs.io/) - 在线技术文档查询。
+  - [TIOBE Index](https://www.tiobe.com/tiobe-index/) - 编程语言全球排名。
+  - [DB-Engines](https://db-engines.com/) - 数据库排名信息。
 
 - 等宽字体（Monospaced Font）
   - [Source Code Pro](https://github.com/adobe-fonts/source-code-pro) - 等宽字体，适合编程使用，**Adobe 出品，开源**。
