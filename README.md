@@ -45,21 +45,23 @@
 - [DocTranslator](https://www.onlinedoctranslator.com/zh-CN/) - 在线文档翻译工具，以及 PDF 转 Word 无水印等。
 - [HiPDF](https://www.hipdf.com/) - PDF 在线处理工具。
 - [AudioMass](https://audiomass.co/) - 音频文件在线编辑软件。
+- [Image Extractor](https://extract.pics/) - 导出公共网站的图片。
 
 ### 软件开发
 
 *Software Development, technical information, documentation, etc.*
 
 - 文档与工具（Docs && Tools）
+  - [TIOBE Index](https://www.tiobe.com/tiobe-index/) - 编程语言全球排名。
+  - [DB-Engines](https://db-engines.com/) - 数据库排名信息。
+  - [StackShare](https://stackshare.io/) - 技术趋势分享。  
   - [SOCODE.PRO](https://socode.pro/) - 快速搜索一些开发资源。
-  - [StackShare](https://stackshare.io/) - 技术趋势分享。
   - [Open Source Awards](https://osawards.com/) - 开源项目奖。
   - [LibHunt](https://www.libhunt.com/) - 收集了各种库的网站。
   - [lib4dev](http://www.lib4dev.in/) - 开源库分类查询。
   - [tool.lu](https://tool.lu/) - 开发者小工具集合。
   - [DevDocs](https://devdocs.io/) - 在线技术文档查询。
-  - [TIOBE Index](https://www.tiobe.com/tiobe-index/) - 编程语言全球排名。
-  - [DB-Engines](https://db-engines.com/) - 数据库排名信息。
+  - [FastIcon](https://fasticon.sawirstudio.com/) - 在线快速生成 Android 与 IOS 应用图标。
 
 - 等宽字体（Monospaced Font）
   - [Source Code Pro](https://github.com/adobe-fonts/source-code-pro) - 等宽字体，适合编程使用，**Adobe 出品，开源**。
