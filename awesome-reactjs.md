@@ -126,9 +126,13 @@
 
 #### 其它
 
-- [Office UI Fabric React](https://developer.microsoft.com/en-us/fabric) - Office UI 风格，**Microsoft 官方发布**。
+- [Carbon Design System React](https://www.carbondesignsystem.com/tutorial/react/overview) - 遵循 Carbon 设计风格，**IBM 公司发布**。
+- [Office UI Fabric React](https://developer.microsoft.com/en-us/fabric) - Office UI 风格，**Microsoft 公司发布**。
 - [Semantic UI](https://react.semantic-ui.com/) - 非常受欢迎的组件库。（:warning: 不再更新）
 - [Grommet](https://v2.grommet.io/)
+- [Rebass](https://rebassjs.org/) - 构建 React UI 组件的工具库。
+- [Blueprint](https://blueprintjs.com/) - 提供复杂的数据分析展示、表格等组件。
+- [React Rainbow](https://react-rainbow.io/)
 
 ### 独立组件
 
@@ -146,9 +150,12 @@
   - [React-Motion](https://github.com/chenglou/react-motion) - 提供更简单的动画 API。
   - [Framer-Motion](https://framer.com/api/motion) - 手势动画。
   - [React Awesome Reveal](https://react-awesome-reveal.morello.dev/) - 基于 [Intersection Observer API](https://developer.mozilla.org/en-US/docs/Web/API/Intersection_Observer_API) 和 [Animate.css](https://animate.style/) 的动画库。
+  - [React Spinners](https://www.davidhu.io/react-spinners/) - 丰富的 Loading 动画。
 
 - 时间日期选择器（DatePicker & TimePicker）
   - [react-dates](https://github.com/airbnb/react-dates) - 国际化、移动端友好，**Airbnb 公司发布**。
+  - [react-day-picker](http://react-day-picker.js.org/)
+  - [React Datepicker](https://reactdatepicker.com/)
 
 - 文件上传（File Upload）
   - [react-dropzone](https://react-dropzone.js.org/) - 文件上传组件，支持 Hook API。
@@ -175,6 +182,7 @@
 - 其它（Others）
   - [React-Toastify](https://fkhadra.github.io/react-toastify/) - 消息弹窗组件。
   - [qrcode.react](https://github.com/zpao/qrcode.react) - 二维码组件。
+  - [react-big-calendar](http://jquense.github.io/react-big-calendar/) - 事件日历，日程表组件。
 
 [`Go Top ↑`](#awesome-reactjs-list)
 
