@@ -264,6 +264,8 @@
     - [xlsx](https://sheetjs.com/) - 读、写 xlsx、csv 文件（写功能部分特性不免费）。
   - csv
     - [Papa Parse](https://www.papaparse.com/)
+  - docx
+    - [docx](https://github.com/dolanmiu/docx) - 生成 docx 文档。
   - pdf
     - [PDF-LIB](https://pdf-lib.js.org/) - 解析和操作 PDF 文件。
     - [jsPDF](https://github.com/MrRio/jsPDF) - Web 客户端生成 PDF 文件。
