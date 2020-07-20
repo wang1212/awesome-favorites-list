@@ -199,6 +199,7 @@
   - [core-js](https://github.com/zloirock/core-js) - 现代 JavaScript 标准库。
   - [Promise Polyfill](https://github.com/taylorhakes/promise-polyfill) - 为浏览器提供 Promise API 支持。
   - [webp-hero](https://github.com/chase-moskal/webp-hero) - 为浏览器提供 WebP 格式图片支持。
+  - [unfetch](https://github.com/developit/unfetch) - 提供简单的 Fetch API 支持。
 
 - 文档（Doc）
   - [JSDoc](https://jsdoc.app/) - JavaScript 的 API 文档生成工具。
