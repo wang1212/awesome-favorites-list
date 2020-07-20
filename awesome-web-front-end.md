@@ -14,6 +14,7 @@
 
 - [技术规范标准（Technical Specifications）](#技术规范标准)
 - [技术参考文档（Technical Reference Document）](#技术参考文档)
+- [构建工具（Build Tools）](#构建工具)
 - [HTML](#html)
   - [工具库（Library）](#html-工具库)
 - [CSS](#css)
@@ -71,6 +72,43 @@
 - [favorite JavaScript utilities](https://1loc.dev/) - JavaScript 编程技巧，一行代码。
 - [CSS Triggers](https://csstriggers.com/) - 一些改变会导致重绘、重布局的 CSS 属性。
 - [JavaScript Algorithms and Data Structures](https://github.com/trekhleb/javascript-algorithms) - 算法和数据结构。
+
+[`Go Top ↑`](#awesome-web-front-end-list)
+
+## 构建工具
+
+*Build tool, packaging tool used to develop web app, realize web engineering.*
+
+### 打包工具/任务管理
+
+*Packaging tools && Task management.*
+
+- [webpack](https://webpack.js.org/) - 打包工具，适合开发 Web 应用。
+  - [awesome-webpack](https://github.com/webpack-contrib/awesome-webpack) - Webpack 相关资源，**官方认证**。
+  
+- [Gulp](https://gulpjs.com/)
+- [Grunt](https://gruntjs.com/)  
+  
+### 编译器
+
+*Code compilation conversion.*
+
+- [Babel](https://babeljs.io/) - 编译工具，可将 TypeScript、ES6/7/8 代码编译为 JavaScript（ES5） 代码。
+- [Sass](https://sass-lang.com/) - CSS 预处理器，可提供类似编程语言的能力（变量、方法、作用域、嵌套）来编写 CSS。
+- [PostCSS](https://postcss.org/) - CSS 后处理器，提供众多插件来实现还未被广泛实现和标准化的 CSS 功能特性，最终将其编译为目标平台支持的 CSS 代码。
+  - [postcss-normalize](https://github.com/csstools/postcss-normalize)    
+
+### PWA
+
+*[Progressive web apps](https://developer.mozilla.org/en-US/docs/Web/Progressive_web_apps).*
+
+- [WorkBox](https://developers.google.com/web/tools/workbox/) - Google 专门为构建 PWA （Progressive Web App，渐进式 Web 应用）提供的一套开发工具，支持多个平台，并提供了方便的 webpack 插件。
+
+### 其它
+
+*Others.*
+
+- [SystemJS](https://github.com/systemjs/systemjs) - 动态 ES Module 加载器。
 
 [`Go Top ↑`](#awesome-web-front-end-list)
 
