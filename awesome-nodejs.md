@@ -19,7 +19,7 @@
 - [技术规范标准（Technical Specifications）](#技术规范标准)
 - [技术参考文档（Technical Reference Document）](#技术参考文档)
 - [Node 版本管理（Node Version Management）](#node-版本管理)
-- [Node 包管理器（Node Package Manager）](#node-包管理器)
+- [Node 包管理（Node Package Manage）](#node-包管理)
 - [工具库（Tool Library）](#工具库)
 - [数据库（Database）](#数据库)
 - [Web 框架（Web Framework）](#web-框架)
@@ -65,23 +65,26 @@
 
 [`Go Top ↑`](#awesome-nodejs-list)
 
-## Node 包管理器
+## Node 包管理
 
-*Node.js package (or library) manager.*
+*Node.js package (or library) manage.*
 
-- Packages Manageer
+- 包管理器（Packages Manageer）
   - [npm](https://www.npmjs.com/) - Node.js 的官方包管理器。
   - [Yarn](https://www.yarnpkg.com/)
   - [pnpm](https://pnpm.js.org/)
   - [Bower](https://bower.io/)
   - [jspm](https://jspm.org/)
 
-- Tool
+- 包开发（Package Development）
+  - [Rollup](http://rollupjs.org/) - 打包工具，适合开发库、框架。
+  - [np](https://github.com/sindresorhus/np) - `npm publish` 的替代工具库，让发布更优雅、安全，**非官方**。
+
+- 工具（Tools）
   - [nrm](https://github.com/Pana/nrm) - npm 换源，**非官方**。
   - [Lerna](https://lerna.js.org/) - 管理 Monorepo 架构的 Node 模块代码库工具，**非官方**。
   - [Nx](https://nx.dev/) - 管理 Monorepo 架构的 Node 模块代码库工具，**非官方**。
   - [npm-check-updates](https://github.com/tjunnone/npm-check-updates) - 项目依赖 npm 包批量更新工具，**非官方**。
-  - [np](https://github.com/sindresorhus/np) - `npm publish` 的替代工具库，让发布更优雅、安全，**非官方**。
   - [Npm Trends](https://www.npmtrends.com/) - 可以查询对比多个 Npm 包的下载流量数据、star 数目等，**非官方网站**。
   - [Npm Charts](https://npmcharts.com/) - 可以查询对比多个 Npm 包的下载流量数据、star 数目等，**非官方网站**。
   - [BUNDLEPHOBIA](https://bundlephobia.com/) - 分析 npm 包大小和依赖关系，**非官方网站**。
@@ -99,8 +102,6 @@
   - 编译器（Compiler）
     - [Babel](https://babeljs.io/) - 编译工具，可将 TypeScript、ES6/7/8 代码编译为 JavaScript（ES5） 代码。
     - [TS Node](https://github.com/TypeStrong/ts-node) - Node.js 的 TypeScript 语言运行器和交互式解释器。
-  - Npm 模块（Npm Module && npm Package）
-    - [Rollup](http://rollupjs.org/) - 打包工具，适合开发库、框架。
   - Node 应用（Node App）
     - [nodemon](https://nodemon.io) - 提供 Node.js 开发时热重载机制。
     - [node-dev](https://github.com/fgnass/node-dev) - 热重载。
