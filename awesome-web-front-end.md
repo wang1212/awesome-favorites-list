@@ -18,8 +18,9 @@
 - [HTML](#html)
   - [工具库（Library）](#html-工具库)
 - [CSS](#css)
-  - [工具库（Library）](#css-工具库)
   - [字体图标（Font Icon）](#字体图标)
+  - [工具库（Library）](#css-工具库)
+  - [在线资源（Online Resources）](#css-在线资源)
 - [JavaScript](#javascript)
   - [代码风格规范（Code Style Specifications）](#代码风格规范)
   - [工具库（Library）](#js-工具库)
@@ -137,31 +138,6 @@
 
 > [W3C CSS 官方规范标准（W3C CSS Official Specification Standard）](https://www.w3.org/Style/CSS/)
 
-### CSS 工具库
-
-*CSS tool library, dealing with compatibility issues, etc.*
-
-- 兼容性（Polyfill）
-  - [Respond](https://github.com/scottjehl/Respond) - 在旧浏览器（IE 6-8）上提供对 CSS3 Media Queries（媒体查询）的支持。
-  - [selectivizr](http://selectivizr.com/) - 在旧浏览器（IE 6-8）上提供对 CSS3 新选择器的支持，注意 `style` 标签内样式不解析，动态生成的 DOM 也不解析。
-
-- CSS 重置（CSS Reset）
-  - [Normalize.css](http://necolas.github.io/normalize.css/) - 现代化的 Reset CSS 工具库，统一浏览器默认样式。
-  - [sanitize.css](https://csstools.github.io/sanitize.css/)
-
-- 动画（Animate）
-  - [Animate.css](https://daneden.github.io/animate.css/) - 丰富的 CSS 动画工具库。
-  - [Hover.css](http://ianlunn.github.io/Hover/) - 添加鼠标悬停动画效果。
-  - [Imagehover.css](http://imagehover.io/) - 添加鼠标悬停动画效果。
-  
-- CSS In JS
-  - [JSS](https://cssinjs.org) - 一种 CSS-in-JS 的解决方案。
-  - [styled components](https://www.styled-components.com) - 一种 CSS-in-JS 的解决方案。
-
-- 实用工具（Utils）
-  - [Tailwind CSS](https://tailwindcss.com/) - 可定制设计的低级 CSS 框架，不提供组件样式，仅提供预设的工具类，来进行组合创建样式。
-    - [Tailwind CSS Cheat Sheet](https://nerdcave.com/tailwind-cheat-sheet)
-    
 ### 字体图标
 
 *Font icon, vector icon.*
@@ -180,6 +156,45 @@
   - [Feather](https://feathericons.com/)
   - [Flat Icon](https://www.flaticon.com/)
   - [Icons8](https://icons8.com/) - 提供免费的图标设计工具。
+
+### CSS 工具库
+
+*CSS tool library, dealing with compatibility issues, etc.*
+
+- 兼容性（Polyfill）
+  - [Respond](https://github.com/scottjehl/Respond) - 在旧浏览器（IE 6-8）上提供对 CSS3 Media Queries（媒体查询）的支持。
+  - [selectivizr](http://selectivizr.com/) - 在旧浏览器（IE 6-8）上提供对 CSS3 新选择器的支持，注意 `style` 标签内样式不解析，动态生成的 DOM 也不解析。
+
+- CSS 重置（CSS Reset）
+  - [Normalize.css](http://necolas.github.io/normalize.css/) - 现代化的 Reset CSS 工具库，统一浏览器默认样式。
+  - [sanitize.css](https://csstools.github.io/sanitize.css/)
+
+- 动画（Animate）
+  - [Animate.css](https://daneden.github.io/animate.css/) - 丰富的 CSS 动画工具库。
+  - [magic.css](https://www.minimamente.com/project/magic/)  - CSS3 动画。
+  - [Hover.css](http://ianlunn.github.io/Hover/) - 添加鼠标悬停动画效果。（:warning: 不再更新）
+  - [CSShake](https://elrumordelaluz.github.io/csshake/) - 抖动效果。
+  - [Imagehover.css](http://imagehover.io/) - 添加鼠标悬停，图片动画效果。（:warning: 不再更新）
+  
+- CSS In JS
+  - [JSS](https://cssinjs.org) - 一种 CSS-in-JS 的解决方案。
+  - [styled components](https://www.styled-components.com) - 一种 CSS-in-JS 的解决方案。
+
+- 实用工具（Utils）
+  - [Tailwind CSS](https://tailwindcss.com/) - 可定制设计的低级 CSS 框架，不提供组件样式，仅提供预设的工具类，来进行组合创建样式。
+    - [Tailwind CSS Cheat Sheet](https://nerdcave.com/tailwind-cheat-sheet)
+
+### CSS 在线资源
+
+*CSS related online tools.*
+
+- [Open Color](https://yeun.github.io/open-color/) - 配色方案。
+- [Color Hunt](https://colorhunt.co/) - 配色方案。
+- [Sorted CSS Colors](https://enes.in/sorted-colors/)  
+- [Keyframes](https://keyframes.app/) - CSS 效果预览小工具集合。
+- [Animista](https://animista.net/) - 在线生成 CSS 动画样式代码。
+- [easings.co](https://easings.co/) - 测试 CSS 动画函数效果。
+- [enjoyCSS](https://enjoycss.com/) - 便捷的组件样式设计输出在线工具。
 
 [`Go Top ↑`](#awesome-web-front-end-list)
 
@@ -508,15 +523,9 @@
   - [WebAssembly Studio](https://webassembly.studio/) - 在线的 WebAssembly 编辑器，**Mozilla 发布**。
   
 - 其它（Others）
-  - [enjoyCSS](https://enjoycss.com/) - 便捷的组件样式设计输出在线工具。
   - [bit](https://bit.dev/) - 构建可重用组件的协作平台。
   - [Prettier Playground](https://prettier.io/playground/) - Prettier 代码格式化工具的在线版本。
-  - [Color Hunt](https://colorhunt.co/) - 配色方案。
-  - [Open Color](https://yeun.github.io/open-color/) - 配色方案。
-  - [Sorted CSS Colors](https://enes.in/sorted-colors/)  
   - [Doka](https://doka.photo/) - 图片编辑工具。
-  - [easings.co](https://easings.co/) - 测试动画函数效果。
-  - [Keyframes](https://keyframes.app/) - CSS 预览小工具。
 
 ### 文章
 
@@ -524,7 +533,6 @@
 
 - [What forces layout / reflow](https://gist.github.com/paulirish/5d52fb081b3570c81e3a) - 一些会导致重绘、重布局的 DOM 操作。
 - [You might not need jQuery](http://youmightnotneedjquery.com/)
-- [CSS Tricks](https://css-tricks.com/) - CSS 技术文章。
 - [The complete guide to CSS media queries](https://polypane.app/blog/the-complete-guide-to-css-media-queries/)
 
 ### 其它
