@@ -79,7 +79,7 @@
 
 *Build tool, packaging tool used to develop web app, realize web engineering.*
 
-### 打包工具/任务管理
+### 打包工具
 
 *Packaging tools && Task management.*
 
@@ -103,6 +103,15 @@
 *[Progressive web apps](https://developer.mozilla.org/en-US/docs/Web/Progressive_web_apps).*
 
 - [WorkBox](https://developers.google.com/web/tools/workbox/) - Google 专门为构建 PWA （Progressive Web App，渐进式 Web 应用）提供的一套开发工具，支持多个平台，并提供了方便的 webpack 插件。
+
+### 代码静态分析
+
+*Code lint.*
+
+- [ESLint](https://eslint.org/) - JavaScript 语法规则检查工具。
+- [Prettier](https://prettier.io/) - 代码格式化工具，支持多种语言。
+- [stylelint](https://stylelint.io/) - CSS 语法规则检查工具，支持 CSS/Sass/CSS-in-JS 等。
+- [Flow](https://flow.org/) - Facebook 出品的 JavaScript 静态类型检查工具。
 
 ### 其它
 
