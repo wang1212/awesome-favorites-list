@@ -296,4 +296,9 @@
 - [awesome-nodejs-security](https://github.com/lirantal/awesome-nodejs-security) - Node.js 安全相关工具。
 - [NodeBB](https://github.com/NodeBB/NodeBB) - 开源论坛软件。
 
+- JS 引擎/运行时（Javascript Engine/Runtime）
+  - [SpiderMonkey](https://developer.mozilla.org/en-US/docs/Mozilla/Projects/SpiderMonkey) - Firefox 浏览器 JS 引擎，**Mozilla 开发。**。
+  - [QuickJS](https://bellard.org/quickjs/)
+  - [JavaScriptCore](http://trac.webkit.org/wiki/JavaScriptCore)
+
 [`Go Top ↑`](#awesome-nodejs-list)
