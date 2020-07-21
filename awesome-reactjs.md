@@ -192,6 +192,7 @@
 
 - [React-Vis](https://uber.github.io/react-vis/) - 图表可视化库，**Uber 团队开发**。
 - [vx](https://vx-demo.now.sh/) - 基于 React 和 D3.js 的可视化库。
+- [React Charts](https://react-charts.js.org/)
 
 [`Go Top ↑`](#awesome-reactjs-list)
 
