@@ -24,7 +24,7 @@
 - [JavaScript](#javascript)
   - [代码风格规范（Code Style Specifications）](#代码风格规范)
   - [工具库（Library）](#js-工具库)
-- [UI 设计（UI Design）](#ui-设计)
+- [UI 设计系统（UI Design System）](#ui-设计系统)
 - [UI 组件（UI Component）](#ui-组件)
   - [组件库（Component Library）](#组件库)
   - [独立组件（Independent Components）](#独立组件)
@@ -353,7 +353,7 @@
 
 [`Go Top ↑`](#awesome-web-front-end-list)
 
-## UI 设计
+## UI 设计系统
 
 *Some open source, shared UI design kits.*
 
@@ -362,6 +362,8 @@
 - [Fluent UI](https://developer.microsoft.com/en-us/fluentui) - Fluent UI，包含组件库、图标等资源，**Microsoft 公司发布**。
 - [Carbon](https://www.carbondesignsystem.com/) - Carbon 设计，包含组件库，图标、数据可视化工具等资源，**IBM 公司发布**。
 - [Ant Design](https://ant.design/) - Ant 设计，包含组件库，图标、数据可视化工具等资源，**阿里巴巴公司发布**。
+
+[`Go Top ↑`](#awesome-web-front-end-list)
 
 ## UI 组件
 
@@ -376,7 +378,7 @@
 - [Bootstrap](https://getbootstrap.com/) - 最流行的 CSS UI 框架，**Twitter 公司发布**。
 - [Bootswatch](https://bootswatch.com/) - 开源免费的 Bootstrap 主题集合，**非官方**。
 
-#### Google Material Design
+#### Material Design
 
 - [Material Design Lite](https://getmdl.io/) - 基于 Material Design 的轻量级 CSS UI 框架，**Google 官方发布**。（:warning: 不再更新）
 - [Material Components Web](https://material.io/develop/) - 基于 Material Design 的 Web 组件库，**Google 官方实现**。
