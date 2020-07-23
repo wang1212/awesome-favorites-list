@@ -108,7 +108,7 @@
 
 *UI component library, providing a set of components with consistent design style.*
 
-#### Google Material Design
+#### Material Design
 
 *Component library that implements [Google Material Design](https://www.material.io/).*
 
@@ -126,13 +126,14 @@
 
 #### 其它
 
-- [Carbon Design System React](https://www.carbondesignsystem.com/tutorial/react/overview) - 遵循 Carbon 设计风格，**IBM 公司发布**。
 - [Office UI Fabric React](https://developer.microsoft.com/en-us/fabric) - Office UI 风格，**Microsoft 公司发布**。
-- [Semantic UI](https://react.semantic-ui.com/) - 非常受欢迎的组件库。（:warning: 不再更新）
+- [Carbon Design System React](https://www.carbondesignsystem.com/tutorial/react/overview) - 遵循 Carbon 设计风格，**IBM 公司发布**。
 - [Grommet](https://v2.grommet.io/)
 - [Rebass](https://rebassjs.org/) - 构建 React UI 组件的工具库。
 - [Blueprint](https://blueprintjs.com/) - 提供复杂的数据分析展示、表格等组件。
 - [React Rainbow](https://react-rainbow.io/)
+- [Ant Design of React](https://ant.design/docs/spec/introduce-cn)
+- [Semantic UI](https://react.semantic-ui.com/) - 非常受欢迎的组件库。（:warning: 不再更新）
 
 ### 独立组件
 
