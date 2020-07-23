@@ -146,12 +146,8 @@
 - 表格（Table）
   - [React Table](https://github.com/tannerlinsley/react-table)
 
-- 动画（Animation）
-  - [React Transition Group](https://reactcommunity.org/react-transition-group/) - 过渡动画。
-  - [React-Motion](https://github.com/chenglou/react-motion) - 提供更简单的动画 API。
-  - [Framer-Motion](https://framer.com/api/motion) - 手势动画。
-  - [React Awesome Reveal](https://react-awesome-reveal.morello.dev/) - 基于 [Intersection Observer API](https://developer.mozilla.org/en-US/docs/Web/API/Intersection_Observer_API) 和 [Animate.css](https://animate.style/) 的动画库。
-  - [React Spinners](https://www.davidhu.io/react-spinners/) - 丰富的 Loading 动画。
+- 下拉列表（Select List）
+  - [React Select](https://react-select.com/) - 支持多选、自动完成、异步等。
 
 - 时间日期选择器（DatePicker & TimePicker）
   - [react-dates](https://github.com/airbnb/react-dates) - 国际化、移动端友好，**Airbnb 公司发布**。
@@ -179,6 +175,13 @@
 - 大量数据渲染（Large amount of data rendering）
   - [react-virtualized](https://bvaughn.github.io/react-virtualized/)
   - [react-window](https://github.com/bvaughn/react-window)
+
+- 动画（Animation）
+  - [React Transition Group](https://reactcommunity.org/react-transition-group/) - 过渡动画。
+  - [React-Motion](https://github.com/chenglou/react-motion) - 提供更简单的动画 API。
+  - [Framer-Motion](https://framer.com/api/motion) - 手势动画。
+  - [React Awesome Reveal](https://react-awesome-reveal.morello.dev/) - 基于 [Intersection Observer API](https://developer.mozilla.org/en-US/docs/Web/API/Intersection_Observer_API) 和 [Animate.css](https://animate.style/) 的动画库。
+  - [React Spinners](https://www.davidhu.io/react-spinners/) - 丰富的 Loading 动画。
 
 - 其它（Others）
   - [React-Toastify](https://fkhadra.github.io/react-toastify/) - 消息弹窗组件。
