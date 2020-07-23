@@ -386,14 +386,15 @@
 
 #### 其它（Others）
 
-- [Office UI Fabric Core](https://developer.microsoft.com/en-us/fabric) - Office 风格的 UI 库，**Microsoft 官方发布**。
-- [Semantic UI](https://semantic-ui.com) - 很受欢迎的组件库。（:warning: 不再更新）
-- [UIkit](https://getuikit.com/) - 轻量级的现代化前端 CSS 框架。
-- [Pure.CSS](https://purecss.io/) - 一组小的，响应式的 CSS 模块。
-- [Skeleton](http://getskeleton.com/)
+- [UIkit](https://getuikit.com/) - 轻量级的现代化前端模块化 CSS 框架。
 - [Framework7](https://framework7.io/) - 跨平台 UI 库，支持 Android/ios/Desktop 平台，且主题样式设计适配相应平台。
 - [Metro 4](https://metroui.org.ua/)
+- [Office UI Fabric Core](https://developer.microsoft.com/en-us/fabric) - Office 风格的 UI 库，**Microsoft 公司发布**。
+- [carbon-components](https://www.carbondesignsystem.com/get-started/develop/vanilla) - Carbon 设计风格，**IBM 公司发布**。
+- [Pure.CSS](https://purecss.io/) - 一组小的，响应式的 CSS 模块。
 - [Layui](https://www.layui.com/) - 适合后端开发使用。
+- [Semantic UI](https://semantic-ui.com) - 很受欢迎的组件库。（:warning: 不再更新）
+- [Skeleton](http://getskeleton.com/) - 简单的响应式 CSS 框架。（:warning: 不再更新）
 
 ### 独立组件
 
