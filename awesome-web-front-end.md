@@ -30,6 +30,7 @@
   - [独立组件（Independent Components）](#独立组件)
 - [数据可视化（Data Visualization）](#数据可视化)
 - [开发框架（Framework）](#开发框架)
+- [应用状态管理（Application State Management）](#应用状态管理)
 - [更多（More）](#更多)
   - [CDN](#cdn)
   - [在线工具（Online Tools）](#在线工具) 
@@ -487,8 +488,21 @@
 
 - [Hyperapp](https://hyperapp.dev/) - 轻量的，纯函数式，声明式开发框架。
 - [Marko](https://markojs.com/) - 声明式、响应式开发框架。
+- [Snabbdom](https://github.com/snabbdom/snabbdom) - 基于虚拟 DOM 机制，模块化、高性能开发框架。
 
 [`Go Top ↑`](#awesome-web-front-end-list)
+
+## 应用状态管理
+
+*Application state management tool for modern web application development.*
+
+- [Redux](https://redux.js.org/)
+  - [Redux Thunk](https://github.com/reduxjs/redux-thunk) - 中间件，提供异步支持，**官方发布**。
+  - [Redux-Saga](https://redux-saga.js.org/) - 提供异步支持，比 Redux Thunk 功能更丰富，易于测试。
+  - [Reselect](https://github.com/reduxjs/reselect) - 状态缓存，提高性能，**官方发布**。
+  - [Redux Logger](https://github.com/LogRocket/redux-logger) - 中间件，调试工具，追踪状态变更日志。
+  - [Redux DevTools](https://github.com/reduxjs/redux-devtools) - Chrome 插件，调试工具，追踪状态变更日志，重放、快照等功能。
+  - [Rematch](https://rematch.github.io/rematch/) - 对 Redux 进行了封装，提供更简单、更易理解、更容易使用的 API。
 
 ## 更多
 
