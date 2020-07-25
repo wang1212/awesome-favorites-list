@@ -12,6 +12,7 @@
 
 - [在线工具（Online Tools）](#在线工具)
 - [命令行工具（CLI Tools）](#命令行工具)
+- [工具套件（Tool kit）](#工具套件)
 - [更多（More）](#更多)
 
 ## 在线工具
@@ -25,6 +26,12 @@
 *Command line tools.*
 
 [`Go Top ↑`](#awesome-development-tools)
+
+## 工具套件
+
+*Tool kit.*
+
+- [Cube.js](https://cube.dev/) - 开源的 Web 应用分析解决方案。
 
 ## 更多
 
