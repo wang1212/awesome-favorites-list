@@ -174,6 +174,7 @@
   - [Framer-Motion](https://framer.com/api/motion) - 手势动画。
   - [React Awesome Reveal](https://react-awesome-reveal.morello.dev/) - 基于 [Intersection Observer API](https://developer.mozilla.org/en-US/docs/Web/API/Intersection_Observer_API) 和 [Animate.css](https://animate.style/) 的动画库。
   - [React Spinners](https://www.davidhu.io/react-spinners/) - 丰富的 Loading 动画。
+  - [React Move](https://react-move-docs.netlify.app/)
 
 - 其它（Others）
   - [React-Toastify](https://fkhadra.github.io/react-toastify/) - 消息弹窗组件。
