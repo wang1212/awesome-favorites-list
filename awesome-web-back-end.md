@@ -13,9 +13,11 @@
 - [技术规范标准（Technical Specifications）](#技术规范标准)
 - [技术参考文档（Technical Reference Document）](#技术参考文档)
 - [服务器（Server）](#服务器)
-- [更多（More）](#更多)
+- [实用工具（Tools）](#实用工具)
+  - [文档（Docs）](#文档)
   - [命令行工具（CLI Tools）](#命令行工具)
-  - [文章（Article）](#文章)
+- [文章（Article）](#文章)
+- [更多（More）](#更多)
 
 ## 技术规范标准
 
@@ -56,9 +58,13 @@
 
 [`Go Top ↑`](#awesome-web-back-end-list)
 
-## 更多
+## 实用工具
 
-*More other unclassified resources.*
+*Utils tools.*
+
+### 文档
+
+- [apiDoc](https://apidocjs.com/) - 生成 RESTful web APIs 文档，支持多种后端语言。
 
 ### 命令行工具
 
@@ -68,11 +74,19 @@
 - [wget](https://www.gnu.org/software/wget/) - 文件下载。
 - [HTTPie](https://httpie.org/) - HTTP 客户端，类似 curl，人类可读。
 
-### 文章
+[`Go Top ↑`](#awesome-web-back-end-list)
+
+## 文章
 
 *Some articles related to server-side problem solutions.*
 
 - [Learn REST](http://rest.elkstein.org/) - RESTful 学习参考。
 - [How To Safely Store A Password](https://codahale.com/how-to-safely-store-a-password/)
+
+[`Go Top ↑`](#awesome-web-back-end-list)
+
+## 更多
+
+*More other unclassified resources.*
 
 [`Go Top ↑`](#awesome-web-back-end-list)
