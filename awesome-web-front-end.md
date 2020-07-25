@@ -256,12 +256,15 @@
   - [one.color](https://github.com/One-com/one-color) - 颜色字符串解析、计算工具，支持 RGB, HSV, HSL, CMYK 等。
   - [Fuse.js](https://fusejs.io/) - 模糊搜索工具。
   - [uuid](https://github.com/uuidjs/uuid) - 生成随机唯一 id。
+  - [normalizr](https://github.com/paularmstrong/normalizr) - 根据 Schema 将嵌套的 JSON 数据归一化。
+  - [Quicklink](https://getquick.link/) - 预请求视区内的资源，加快页面加载速度。
  
 - 文档对象模型（DOM）
   - [jQuery](https://jquery.com/) - 前几年非常流行的 DOM 操作工具库，处理了兼容性的细节问题。
   - [Zepto.js](https://zeptojs.com/) - 兼容 jQuery API 的轻量级工具库，适合移动端使用。
   - [Lozad.js](https://github.com/ApoorvSaxena/lozad.js) - 轻量、高性能图片懒加载工具，使用了 [Intersection Observer API](https://developer.mozilla.org/en-US/docs/Web/API/Intersection_Observer_API)。
   - [clipboard.js](https://clipboardjs.com/) - 现代的粘贴板工具库。
+  - [Tether](http://tether.io/) - 元素跟踪定位工具。
   
 - 事件（Event）
   - [Hammer.js](http://hammerjs.github.io/) - 支持移动端触摸事件，以及手势操作、多点触控。
@@ -279,15 +282,6 @@
   - [date-fns](https://date-fns.org/)
   - [Day.js](https://github.com/iamkun/dayjs) - 现代化、轻量级日期、时间处理库。
   - [ms](https://github.com/vercel/ms) - 毫秒格式化工具。
-
-- 数据与缓存（Data && Cache）
-  - [crypto-js](https://github.com/brix/crypto-js) - JavaScript 加密库。
-  - [SJCL](http://bitwiseshiftleft.github.io/sjcl/) - JavaScript 加密库。
-  - [localForage](https://github.com/localForage/localForage) - 离线存储，对 IndexedDB、WebSQL、localStorage 的封装。
-
-- 科学计算（Compute - Math && High precision && Scientific Computing）
-  - [math.js](https://mathjs.org/)
-  - [stdlib](https://stdlib.io/)
 
 - 绘图（Canvas && Draw）
   - [DOM to Image](https://github.com/tsayen/dom-to-image/) - 利用 HTML5 Canvas 生成 DOM 节点的快照图片。
@@ -351,6 +345,25 @@
 
 - 套接字（Socket / TCP）
   - [socket.io-client](https://socket.io/) - 优秀的实时通信客户端框架。
+
+- 科学计算（Compute - Math && High precision && Scientific Computing）
+  - [math.js](https://mathjs.org/)
+  - [stdlib](https://stdlib.io/)
+
+- 数据与缓存（Data && Cache）
+  - [crypto-js](https://github.com/brix/crypto-js) - JavaScript 加密库。
+  - [SJCL](http://bitwiseshiftleft.github.io/sjcl/) - JavaScript 加密库。
+
+- 客户端数据库（Client Database）
+  - [localForage](https://github.com/localForage/localForage) - 离线存储，对 IndexedDB、WebSQL、localStorage 的封装。
+  - [SQLite.js](https://github.com/sql-js/sql.js)
+  - [LokiJS](https://github.com/techfort/LokiJS) - 文档型内存数据库。
+
+- OCR
+  - ['tesseract.js](https://github.com/naptha/tesseract.js) - 支持 100 种语言的图像文本识别。
+
+- 自然语言处理（NLP）
+  - [compromise](http://compromise.cool/)
 
 [`Go Top ↑`](#awesome-web-front-end-list)
 
@@ -491,7 +504,9 @@
 - [Marko](https://markojs.com/) - 声明式、响应式开发框架。
 - [Snabbdom](https://github.com/snabbdom/snabbdom) - 基于虚拟 DOM 机制，模块化、高性能开发框架。
 - [mithril.js](https://mithril.js.org/)
+- [Ember.js](https://emberjs.com/)
 
+- [Riot.js](https://riot.js.org/) - 基于组件的 UI 库。
 - [LitElement](https://lit-element.polymer-project.org/) - 用于创建 [Web 组件](https://developer.mozilla.org/en-US/docs/Web/Web_Components) 的基类工具库。
 
 [`Go Top ↑`](#awesome-web-front-end-list)
@@ -593,5 +608,7 @@
   - [Perspective](https://github.com/finos/perspective) - 基于 C++ 的 wasm 数据可视化组件。
 
 - [JavaScript Open Source Award](https://osawards.com/javascript/) - JavaScript 开源项目奖，**非官方**。
+
+- [Javascript.FUN](https://www.javascript.fun/) - 在线网站，JS 开发资源集合。
 
 [`Go Top ↑`](#awesome-web-front-end-list)
