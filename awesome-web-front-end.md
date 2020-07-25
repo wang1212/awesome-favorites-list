@@ -496,6 +496,8 @@
 
 *Application state management tool for modern web application development.*
 
+（Recommend）Redux 生态技术，:point_right: https://github.com/markerikson/redux-ecosystem-links
+
 - [Redux](https://redux.js.org/)
   - [Redux Thunk](https://github.com/reduxjs/redux-thunk) - 中间件，提供异步支持，**官方发布**。
   - [Redux-Saga](https://redux-saga.js.org/) - 提供异步支持，比 Redux Thunk 功能更丰富，易于测试。
@@ -503,6 +505,13 @@
   - [Redux Logger](https://github.com/LogRocket/redux-logger) - 中间件，调试工具，追踪状态变更日志。
   - [Redux DevTools](https://github.com/reduxjs/redux-devtools) - Chrome 插件，调试工具，追踪状态变更日志，重放、快照等功能。
   - [Rematch](https://rematch.github.io/rematch/) - 对 Redux 进行了封装，提供更简单、更易理解、更容易使用的 API。
+
+- [MobX](https://mobx.js.org/)
+
+- [Immutable.js](https://immutable-js.github.io/immutable-js/) - 不可变数据。（:warning: 不再更新）
+- [Immer](https://immerjs.github.io/immer/) - 不可变数据。
+
+[`Go Top ↑`](#awesome-web-front-end-list)
 
 ## 更多
 
