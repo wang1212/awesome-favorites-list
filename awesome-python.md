@@ -51,7 +51,6 @@
 *Tool Library, some unofficial high-quality Python packages (or libraries).*
 
 - 实用工具（Utils）
-  - [The Fuck](https://github.com/nvbn/thefuck) - 命令行错误命令纠正工具。
 
 - 测试（Test）
   - [pytest](https://docs.pytest.org/) - 单元测试框架。
