@@ -13,6 +13,7 @@
 - [技术规范标准（Technical Specifications）](#技术规范标准)
 - [技术参考文档（Technical Reference Document）](#技术参考文档)
 - [服务器（Server）](#服务器)
+- [数据库（Database）](#数据库)
 - [实用工具（Tools）](#实用工具)
   - [文档（Docs）](#文档)
   - [命令行工具（CLI Tools）](#命令行工具)
@@ -57,6 +58,12 @@
 - [Tomcat](http://tomcat.apache.org/) - Java Web 开发中的 Servlet 容器。	
 
 [`Go Top ↑`](#awesome-web-back-end-list)
+
+## 数据库
+
+[`Go Top ↑`](#awesome-web-back-end-list)
+
+- [RethinkDB](https://rethinkdb.com/) - 开源的构建实时 Web 应用的数据库。
 
 ## 实用工具
 
