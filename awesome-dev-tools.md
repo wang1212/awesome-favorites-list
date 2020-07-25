@@ -25,6 +25,8 @@
 
 *Command line tools.*
 
+- [The Fuck](https://github.com/nvbn/thefuck) - 命令行错误命令纠正工具。
+
 [`Go Top ↑`](#awesome-development-tools)
 
 ## 工具套件
