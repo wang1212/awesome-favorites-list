@@ -486,9 +486,13 @@
 - [Svelte](https://svelte.dev/) - 更轻量的前端 UI 库。
   - [Sapper](https://sapper.svelte.dev/) - 基于 Svelte 的 Web App 开发框架。
 
+- [Inferno](https://infernojs.org/) - 类 React API 的 UI 库。
 - [Hyperapp](https://hyperapp.dev/) - 轻量的，纯函数式，声明式开发框架。
 - [Marko](https://markojs.com/) - 声明式、响应式开发框架。
 - [Snabbdom](https://github.com/snabbdom/snabbdom) - 基于虚拟 DOM 机制，模块化、高性能开发框架。
+- [mithril.js](https://mithril.js.org/)
+
+- [LitElement](https://lit-element.polymer-project.org/) - 用于创建 [Web 组件](https://developer.mozilla.org/en-US/docs/Web/Web_Components) 的基类工具库。
 
 [`Go Top ↑`](#awesome-web-front-end-list)
 
@@ -502,11 +506,15 @@
   - [Redux Thunk](https://github.com/reduxjs/redux-thunk) - 中间件，提供异步支持，**官方发布**。
   - [Redux-Saga](https://redux-saga.js.org/) - 提供异步支持，比 Redux Thunk 功能更丰富，易于测试。
   - [Reselect](https://github.com/reduxjs/reselect) - 状态缓存，提高性能，**官方发布**。
+  - [Redux-Persist](https://github.com/rt2zz/redux-persist) - 状态持久化。
   - [Redux Logger](https://github.com/LogRocket/redux-logger) - 中间件，调试工具，追踪状态变更日志。
   - [Redux DevTools](https://github.com/reduxjs/redux-devtools) - Chrome 插件，调试工具，追踪状态变更日志，重放、快照等功能。
+  - [Redux Toolkit](https://redux-toolkit.js.org/) - 集成大部分第三方库、预配置的工具套件，使 Redux 更易于使用，**官方发布**。
   - [Rematch](https://rematch.github.io/rematch/) - 对 Redux 进行了封装，提供更简单、更易理解、更容易使用的 API。
 
 - [MobX](https://mobx.js.org/)
+
+- [Flux](https://facebook.github.io/flux/) - 应用状态管理，**Facebook 公司发布**。
 
 - [Immutable.js](https://immutable-js.github.io/immutable-js/) - 不可变数据。（:warning: 不再更新）
 - [Immer](https://immerjs.github.io/immer/) - 不可变数据。
