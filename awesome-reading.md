@@ -219,16 +219,6 @@
 
 *Some very useful articles.*
 
-### 软件开发
-
-*Software development.*
-
-- [GitHub Guides](https://guides.github.com/) - Github 的官方指南页面，可以帮助开发者系统迅速的了解 Github 及其简单的用法。	
-- [Superhero.js](http://superherojs.com/) - 构建大型项目的一些技巧。
-- [Write an Open Source JavaScript Library](https://github.com/sarbbottam/write-an-open-source-js-lib) - 如何编写开源 JavaScript 库，并且发布到 npm。
-- [A successful Git branching model](https://nvie.com/posts/a-successful-git-branching-model/) - 一个成功的 Git 分支模型。
-- [The Art of Command Line](https://github.com/jlevy/the-art-of-command-line) - 命令行的艺术，技巧。
-
 [`Go Top ↑`](#awesome-reading-list)
 
 ## 更多
