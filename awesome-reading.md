@@ -51,6 +51,8 @@
 
 *Some classic and well-known journals, newspapers and magazines.*
 
+- [IEEE Spectrum](https://spectrum.ieee.org/) - IEEE 旗舰杂志和网站。
+
 ### 计算机技术
 
 *Computer technology and software development.*
