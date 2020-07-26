@@ -100,6 +100,10 @@
 - [Sass](https://sass-lang.com/) - CSS 预处理器，可提供类似编程语言的能力（变量、方法、作用域、嵌套）来编写 CSS。
 - [PostCSS](https://postcss.org/) - CSS 后处理器，提供众多插件来实现还未被广泛实现和标准化的 CSS 功能特性，最终将其编译为目标平台支持的 CSS 代码。
   - [postcss-normalize](https://github.com/csstools/postcss-normalize)    
+  
+- CSS In JS
+  - [JSS](https://cssinjs.org) - 一种 CSS-in-JS 的解决方案。
+  - [styled components](https://www.styled-components.com) - 一种 CSS-in-JS 的解决方案。
 
 ### PWA
 
@@ -141,6 +145,18 @@
 
 > [W3C CSS 官方规范标准（W3C CSS Official Specification Standard）](https://www.w3.org/Style/CSS/)
 
+### CSS 在线资源
+
+*CSS related online tools.*
+
+- [Open Color](https://yeun.github.io/open-color/) - 配色方案。
+- [Color Hunt](https://colorhunt.co/) - 配色方案。
+- [Sorted CSS Colors](https://enes.in/sorted-colors/)  
+- [Keyframes](https://keyframes.app/) - CSS 效果预览小工具集合。
+- [Animista](https://animista.net/) - 在线生成 CSS 动画样式代码。
+- [easings.co](https://easings.co/) - 测试 CSS 动画函数效果。
+- [enjoyCSS](https://enjoycss.com/) - 便捷的组件样式设计输出在线工具。
+
 ### 字体图标
 
 *Font icon, vector icon.*
@@ -178,26 +194,10 @@
   - [Hover.css](http://ianlunn.github.io/Hover/) - 添加鼠标悬停动画效果。（:warning: 不再更新）
   - [CSShake](https://elrumordelaluz.github.io/csshake/) - 抖动效果。
   - [Imagehover.css](http://imagehover.io/) - 添加鼠标悬停，图片动画效果。（:warning: 不再更新）
-  
-- CSS In JS
-  - [JSS](https://cssinjs.org) - 一种 CSS-in-JS 的解决方案。
-  - [styled components](https://www.styled-components.com) - 一种 CSS-in-JS 的解决方案。
 
 - 实用工具（Utils）
   - [Tailwind CSS](https://tailwindcss.com/) - 可定制设计的低级 CSS 框架，不提供组件样式，仅提供预设的工具类，来进行组合创建样式。
     - [Tailwind CSS Cheat Sheet](https://nerdcave.com/tailwind-cheat-sheet)
-
-### CSS 在线资源
-
-*CSS related online tools.*
-
-- [Open Color](https://yeun.github.io/open-color/) - 配色方案。
-- [Color Hunt](https://colorhunt.co/) - 配色方案。
-- [Sorted CSS Colors](https://enes.in/sorted-colors/)  
-- [Keyframes](https://keyframes.app/) - CSS 效果预览小工具集合。
-- [Animista](https://animista.net/) - 在线生成 CSS 动画样式代码。
-- [easings.co](https://easings.co/) - 测试 CSS 动画函数效果。
-- [enjoyCSS](https://enjoycss.com/) - 便捷的组件样式设计输出在线工具。
 
 [`Go Top ↑`](#awesome-web-front-end-list)
 
@@ -463,6 +463,7 @@
   - [Cleave.js](https://nosir.github.io/cleave.js/) - 格式化输入框内容。
   - [TOAST UI Editor](https://ui.toast.com/tui-editor/) - 所见即所得编辑器。
   - [fullPage](https://alvarotrigo.com/fullPage/) - 全屏滚动页面。
+  - [mailgo](https://mailgo.dev/) - 邮件和电话系统行为。
 
 [`Go Top ↑`](#awesome-web-front-end-list)
 
