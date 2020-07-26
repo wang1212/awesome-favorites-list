@@ -91,6 +91,7 @@
   - [Package Phobia](https://packagephobia.com/) - 分析 npm 包大小，**非官方网站**。
   - [njt](https://njt.now.sh/) -  npm jump to，npm 包搜索并跳转到相应 npm 站点，**非官方**。
   - [npkill](https://npkill.js.org/) - 搜索系统中的 *node_modules* 文件夹并清理，**非官方**。
+  - [Verdaccio](https://verdaccio.org/) - 开源的轻量级私有 npm 代理仓库。
 
 [`Go Top ↑`](#awesome-nodejs-list)
 
