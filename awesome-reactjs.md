@@ -29,6 +29,9 @@
 
 *Application building tools, including JSX code compilation, code file merging and packaging, syntax rule checking, etc.*
 
+- 集成开发环境（IDE）
+  - [React IDE](http://reactide.io/)
+
 - 调试（Debug）
   - [React DevTools](https://github.com/facebook/react/blob/master/packages/react-devtools) - React 应用的调试工具，可以作为 Chrome 扩展使用，**React 官方发布**。
   - [React Sight](https://www.reactsight.com/) - 调试工具，可视化组件树，Chrome 扩展。
@@ -51,6 +54,9 @@
 
 - 测试（Test）
   - [Jest](https://jestjs.io/) - 单元测试工具，**FaceBook 发布**。
+  
+- 组件原型开发（UI Components Dev）
+  - [React Cosmos](https://reactcosmos.org/)
 
 [`Go Top ↑`](#awesome-reactjs-list)
 
