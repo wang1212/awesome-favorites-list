@@ -349,6 +349,7 @@
 - 科学计算（Compute - Math && High precision && Scientific Computing）
   - [math.js](https://mathjs.org/)
   - [stdlib](https://stdlib.io/)
+  - [glMatrix](http://glmatrix.net/) - 矩阵和矢量运算。
 
 - 数据与缓存（Data && Cache）
   - [crypto-js](https://github.com/brix/crypto-js) - JavaScript 加密库。
@@ -473,6 +474,7 @@
 
 - [D3](https://d3js.org/) - 数据驱动的可视化库，非常著名，许多图表库基于此开发。
 - [three.js](https://threejs.org/) - 强大的 JavaScript 3D 动画库。
+- [stackgl](http://stack.gl/) - WebGL 引擎。
 - [PixiJS](https://www.pixijs.com/) - 高性能 2D WebGL 渲染引擎。
 - [Chart.js](https://www.chartjs.org/) - 最流行的轻量级图表库。
 - [Frappe Charts](https://frappe.io/charts) - 高性能 SVG 图标库。
@@ -483,6 +485,7 @@
 - [Shifty](https://jeremyckahn.github.io/shifty/doc/index.html) - 轻量级、高性能的低级动画工具库。
 - [Textures.js](https://riccardoscalco.it/textures/) - 创建 SVG 模式。
 - [carbon-charts](https://carbon-design-system.github.io/carbon-charts/) - 遵循 Carbon 风格图表库，**IBM 公司发布**。
+- [Plotly](https://plotly.com/javascript/) - 丰富的图表库，支持金融、科学相关图表。
 
 [`Go Top ↑`](#awesome-web-front-end-list)
 
