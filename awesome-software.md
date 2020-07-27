@@ -106,6 +106,7 @@
 *Software that can be used in a web browser. (Progressive web application)*
 
 - [Speedtest](https://www.speedtest.net/) - 专业测速。
+- [excalidraw](https://excalidraw.com/) - 在线绘图板。
 
 ### 文件处理
 
