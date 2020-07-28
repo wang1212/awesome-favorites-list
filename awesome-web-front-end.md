@@ -82,6 +82,24 @@
 
 *Build tool, packaging tool used to develop web app, realize web engineering.*
 
+### API 兼容性支持
+
+*API Polyfill.*
+
+- HTML
+  - [html5shiv](https://github.com/aFarkas/html5shiv) - 在旧浏览器（IE9 以下）上提供对 HTML5 新标签（例如 footer、nav）的支持。
+  
+- CSS
+  - [Respond](https://github.com/scottjehl/Respond) - 在旧浏览器（IE 6-8）上提供对 CSS3 Media Queries（媒体查询）的支持。
+  - [selectivizr](http://selectivizr.com/) - 在旧浏览器（IE 6-8）上提供对 CSS3 新选择器的支持，注意 `style` 标签内样式不解析，动态生成的 DOM 也不解析。
+
+- JavaScript
+  - [core-js](https://github.com/zloirock/core-js) - 现代 JavaScript 标准库。
+  - [Promise Polyfill](https://github.com/taylorhakes/promise-polyfill) - 为浏览器提供 Promise API 支持。
+  - [webp-hero](https://github.com/chase-moskal/webp-hero) - 为浏览器提供 WebP 格式图片支持。
+  - [fetch](https://github.github.io/fetch/) - 提供 `window.fetch` API 的兼容性支持。
+  - [unfetch](https://github.com/developit/unfetch) - 提供简单的 Fetch API 支持。
+
 ### 打包工具
 
 *Packaging tools && Task management.*
@@ -137,8 +155,6 @@
 
 *HTML tool library, dealing with compatibility issues, etc.*
 
-- [html5shiv](https://github.com/aFarkas/html5shiv) - 在旧浏览器（IE9 以下）上提供对 HTML5 新标签（例如 footer、nav）的支持。
-
 [`Go Top ↑`](#awesome-web-front-end-list)
 
 ## CSS
@@ -180,10 +196,6 @@
 
 *CSS tool library, dealing with compatibility issues, etc.*
 
-- 兼容性（Polyfill）
-  - [Respond](https://github.com/scottjehl/Respond) - 在旧浏览器（IE 6-8）上提供对 CSS3 Media Queries（媒体查询）的支持。
-  - [selectivizr](http://selectivizr.com/) - 在旧浏览器（IE 6-8）上提供对 CSS3 新选择器的支持，注意 `style` 标签内样式不解析，动态生成的 DOM 也不解析。
-
 - CSS 重置（CSS Reset）
   - [Normalize.css](http://necolas.github.io/normalize.css/) - 现代化的 Reset CSS 工具库，统一浏览器默认样式。
   - [sanitize.css](https://csstools.github.io/sanitize.css/)
@@ -221,12 +233,6 @@
 ### JS 工具库
 
 *JavaScript tool libraries (browser-side), such as file manipulation, Canvas drawing, HTTP requests, etc.*
-
-- 兼容性（Polyfill）
-  - [core-js](https://github.com/zloirock/core-js) - 现代 JavaScript 标准库。
-  - [Promise Polyfill](https://github.com/taylorhakes/promise-polyfill) - 为浏览器提供 Promise API 支持。
-  - [webp-hero](https://github.com/chase-moskal/webp-hero) - 为浏览器提供 WebP 格式图片支持。
-  - [unfetch](https://github.com/developit/unfetch) - 提供简单的 Fetch API 支持。
 
 - 文档（Doc）
   - [JSDoc](https://jsdoc.app/) - JavaScript 的 API 文档生成工具。
@@ -354,6 +360,9 @@
 - 数据与缓存（Data && Cache）
   - [crypto-js](https://github.com/brix/crypto-js) - JavaScript 加密库。
   - [SJCL](http://bitwiseshiftleft.github.io/sjcl/) - JavaScript 加密库。
+
+- 多线程（Web Worker）
+  - [Comlink](https://github.com/GoogleChromeLabs/comlink) - 使 `Web Worker` 的使用更加简单、方便，**Chrome 实验室发布**。
 
 - 客户端数据库（Client Database）
   - [localForage](https://github.com/localForage/localForage) - 离线存储，对 IndexedDB、WebSQL、localStorage 的封装。
