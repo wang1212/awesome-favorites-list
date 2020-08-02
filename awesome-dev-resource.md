@@ -37,6 +37,7 @@
 *Command line tools.*
 
 - [The Fuck](https://github.com/nvbn/thefuck) - 命令行错误命令纠正工具。
+- [Ink](https://github.com/vadimdemedes/ink) - 用 React 开发命令行应用。
 
 [`Go Top ↑`](#awesome-development-tools)
 
