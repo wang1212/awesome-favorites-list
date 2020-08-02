@@ -210,6 +210,7 @@
 - 实用工具（Utils）
   - [Tailwind CSS](https://tailwindcss.com/) - 可定制设计的低级 CSS 框架，不提供组件样式，仅提供预设的工具类，来进行组合创建样式。
     - [Tailwind CSS Cheat Sheet](https://nerdcave.com/tailwind-cheat-sheet)
+  - [Masonry](https://masonry.desandro.com/) - `grid` 布局工具。
 
 [`Go Top ↑`](#awesome-web-front-end-list)
 
@@ -271,6 +272,8 @@
   - [Lozad.js](https://github.com/ApoorvSaxena/lozad.js) - 轻量、高性能图片懒加载工具，使用了 [Intersection Observer API](https://developer.mozilla.org/en-US/docs/Web/API/Intersection_Observer_API)。
   - [clipboard.js](https://clipboardjs.com/) - 现代的粘贴板工具库。
   - [Tether](http://tether.io/) - 元素跟踪定位工具。
+  - [popper.js](https://popper.js.org/) - 元素定位工具。
+  - [screenfull.js](https://sindresorhus.com/screenfull.js/) - 跨浏览器的 `Fullscreen API`。
   
 - 事件（Event）
   - [Hammer.js](http://hammerjs.github.io/) - 支持移动端触摸事件，以及手势操作、多点触控。
