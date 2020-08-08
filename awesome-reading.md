@@ -21,30 +21,60 @@
 
 *More reliable consulting, data statistics, industry analysis and reporting platform.*
 
-- [199IT](http://www.199it.com/)
-- [IDC](https://www.idc.com/) - 国际数据公司（IDC）是面向信息技术，电信和消费者技术市场的市场情报，咨询服务和活动的全球领先提供商。
-- [statcounter GlobalStats](http://gsa.statcounter.com/) - 全球浏览器、屏幕分辨率等市场份额统计。
-- [艾瑞数据](https://data.iresearch.com.cn/) - 艾瑞汇集多家大型互联网企业数据，共同打造的互联网行业信息情报分析系统。
-- [BCG](https://www.bcg.com/)
-- [麦肯锡](https://www.mckinsey.com.cn/)
-- [贝恩](https://www.bain.com/)
-- [移动观象台](http://mi.talkingdata.com/) - 全球领先免费公开数据实时查询平台。
+### 综合
+
+*Comprehensive Industry.*
+
 - [艾媒网](https://www.iimedia.cn/)
-- [DataEye](https://www.dataeye.com/report)
-- [CBNData](http://www.cbndata.com/)
+- [移动观象台](http://mi.talkingdata.com/) - 全球领先免费公开数据实时查询平台。
 - [百度指数](http://index.baidu.com/)
 - [360 趋势](https://trends.so.com/)
 - [搜狗指数](http://index.sogou.com/)
 - [阿里指数](https://index.1688.com/)
-- [高德地图](https://report.amap.com/)
-- [百度地图慧眼](https://huiyan.baidu.com/)
-- [CBO 实时票房榜](http://www.endata.com.cn/BoxOffice/)
+- [国家数据](http://data.stats.gov.cn/)
+
+### IT 行业
+
+*Information Technology Industry.*
+
+- [199IT](http://www.199it.com/)
+- [IDC](https://www.idc.com/) - 国际数据公司（IDC）是面向信息技术，电信和消费者技术市场的市场情报，咨询服务和活动的全球领先提供商。
+- [艾瑞数据](https://data.iresearch.com.cn/) - 艾瑞汇集多家大型互联网企业数据，共同打造的互联网行业信息情报分析系统。
+- [App Annie](https://www.appannie.com/)
+- [statcounter GlobalStats](http://gsa.statcounter.com/) - 全球浏览器、屏幕分辨率等市场份额统计。
+
+### 经济金融
+
+*Economic and financial related.*
+
+- [皮书数据库](https://www.pishu.com.cn/) - 国内经济相关蓝皮书。
+
+### 媒体行业
+
+*Media industry.*
+
+- [CBO 实时票房榜](http://www.endata.com.cn/BoxOffice/) - 电影票房实时排行。
+- [新榜](https://www.newrank.cn/public/info/list.html) - 新媒体内容排行榜。
+
+### 商业咨询
+
+*Business Consulting.*
+
+- [BCG](https://www.bcg.com/)
+- [麦肯锡](https://www.mckinsey.com.cn/)
+- [贝恩](https://www.bain.com/)
+
+### 其它
+
+*Others.*
+
+- [Worldometers](https://www.worldometers.info/) - 全球实时数据统计。
+- [CBNData](http://www.cbndata.com/) - 消费行业风向标。
+- [DataEye](https://www.dataeye.com/report) - 游戏行业白皮书。
 - [易车指数](http://index.bitauto.com/)
 - [房天下指数](https://fdc.fang.com/index/)
-- [App Annie](https://www.appannie.com/)
-- [新榜](https://www.newrank.cn/public/info/list.html)
-- [微小宝](https://data.wxb.com/rank)
-- [国家数据](http://data.stats.gov.cn/)
+- [高德地图](https://report.amap.com/) - 中国主要城市交通健康榜。
+- [百度地图慧眼](https://huiyan.baidu.com/)
 
 [`Go Top ↑`](#awesome-reading-list)
 
