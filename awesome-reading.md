@@ -23,6 +23,7 @@
 
 - [199IT](http://www.199it.com/)
 - [IDC](https://www.idc.com/) - 国际数据公司（IDC）是面向信息技术，电信和消费者技术市场的市场情报，咨询服务和活动的全球领先提供商。
+- [statcounter GlobalStats](http://gsa.statcounter.com/) - 全球浏览器、屏幕分辨率等市场份额统计。
 - [艾瑞数据](https://data.iresearch.com.cn/) - 艾瑞汇集多家大型互联网企业数据，共同打造的互联网行业信息情报分析系统。
 - [BCG](https://www.bcg.com/)
 - [麦肯锡](https://www.mckinsey.com.cn/)
