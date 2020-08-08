@@ -42,12 +42,21 @@
 - [艾瑞数据](https://data.iresearch.com.cn/) - 艾瑞汇集多家大型互联网企业数据，共同打造的互联网行业信息情报分析系统。
 - [App Annie](https://www.appannie.com/)
 - [statcounter GlobalStats](http://gsa.statcounter.com/) - 全球浏览器、屏幕分辨率等市场份额统计。
+- [IT 桔子](https://www.itjuzi.com/) - 一级市场泛互联网行业投融资信息资源聚合平台。
 
 ### 经济金融
 
 *Economic and financial related.*
 
+- [世界银行公开数据](https://data.worldbank.org.cn/)
+- [中国国际经济交流中心](http://www.cciee.org.cn/ktcg.aspx?clmId=2) - 研究报告。
 - [皮书数据库](https://www.pishu.com.cn/) - 国内经济相关蓝皮书。
+- [发现报告](https://www.fxbaogao.com/)
+- [CBNData](http://www.cbndata.com/) - 第一财经。
+- [巨潮资讯](http://www.cninfo.com.cn/) - A 股上市企业信息披露平台。
+- [披露易](https://www.hkexnews.hk/) - 港交所上市企业信息披露平台。
+- [资本邦](http://www.chinaipo.com/listed/) - 新三板挂牌企业信息查询。
+- [烯牛数据](http://www.xiniudata.com/)
 
 ### 媒体行业
 
@@ -69,12 +78,12 @@
 *Others.*
 
 - [Worldometers](https://www.worldometers.info/) - 全球实时数据统计。
-- [CBNData](http://www.cbndata.com/) - 消费行业风向标。
 - [DataEye](https://www.dataeye.com/report) - 游戏行业白皮书。
 - [易车指数](http://index.bitauto.com/)
 - [房天下指数](https://fdc.fang.com/index/)
 - [高德地图](https://report.amap.com/) - 中国主要城市交通健康榜。
 - [百度地图慧眼](https://huiyan.baidu.com/)
+- [奥维云网](http://www.avc-mr.com/html/sjbg/) - 智慧家庭领域数据报告。
 
 [`Go Top ↑`](#awesome-reading-list)
 
