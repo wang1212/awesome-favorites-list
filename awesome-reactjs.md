@@ -218,6 +218,7 @@
 *More other unclassified resources.*
 
 - [React-JSS](https://cssinjs.org/react-jss) - JSS 是 CSS-in-JS 的一种解决方案，这个是与 React 的集成方案。
+- [React Developer Roadmap](https://github.com/adam-golab/react-developer-roadmap) - React 开发者路线图参考。
 - [React Open Source Awards](https://osawards.com/react/) - React 开源项目奖，**非官方**。
 
 [`Go Top ↑`](#awesome-reactjs-list)
