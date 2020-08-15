@@ -29,6 +29,7 @@
 - [The Art of Command Line](https://github.com/jlevy/the-art-of-command-line) - 命令行的艺术，技巧。
 - [A successful Git branching model](https://nvie.com/posts/a-successful-git-branching-model/) - 一个成功的 Git 分支模型。
 - [Superhero.js](http://superherojs.com/) - 构建大型项目的一些技巧。
+- [SQL Style Guide](https://www.sqlstyle.guide/) - SQL 语句规范指南参考。
 
 [`Go Top ↑`](#awesome-development-tools)
 
@@ -51,6 +52,6 @@
 
 *More uncategorized resources.*
 
-- [Developer Roadmaps](https://roadmap.sh/) - 开发者路线图。
+- [Developer Roadmaps](https://roadmap.sh/) - Web 开发者路线图。
 
 [`Go Top ↑`](#awesome-development-tools)
