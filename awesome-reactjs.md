@@ -66,9 +66,11 @@
 
 （Recommend）推荐一个其它的很棒的收藏列表，:point_right: https://github.com/rehooks/awesome-react-hooks
 
-- [useWorker](https://useworker.js.org/) - 使用 Web Worker 运行复杂任务，创建非阻塞 UI。
-- [SWR](https://swr.now.sh/) - 用于远程数据获取的 Hook。
 - [React Query](https://github.com/tannerlinsley/react-query) - 服务器端数据获取、缓存、异步更新。
+- [SWR](https://swr.now.sh/) - 用于远程数据获取的 Hook。
+- [React Hook Form](https://react-hook-form.com/) - 表单处理。
+- [useWorker](https://useworker.js.org/) - 使用 Web Worker 运行复杂任务，创建非阻塞 UI。
+- [React Adaptive Loading Hooks & Utilities](https://github.com/GoogleChromeLabs/react-adaptive-hooks) - 检测客户端的状态，例如网络状态、媒体支持等。
 
 [`Go Top ↑`](#awesome-reactjs-list)
 
@@ -129,6 +131,7 @@
 - [Rebass](https://rebassjs.org/) - 构建 React UI 组件的工具库。
 - [Blueprint](https://blueprintjs.com/) - 提供复杂的数据分析展示、表格等组件。
 - [React Rainbow](https://react-rainbow.io/)
+- [Chakra UI](https://chakra-ui.com/)
 - [Evergreen](https://evergreen.segment.com/)
 - [Ant Design of React](https://ant.design/docs/spec/introduce-cn)
 - [Semantic UI](https://react.semantic-ui.com/) - 非常受欢迎的组件库。（:warning: 不再更新）
@@ -139,7 +142,6 @@
 
 - 表单（Form）
   - [Formik](https://jaredpalmer.com/formik/)
-  - [React Hook Form](https://react-hook-form.com/)
 
 - 表格（Table）
   - [React Table](https://github.com/tannerlinsley/react-table)
@@ -193,9 +195,10 @@
 
 *Data visualization chart library, framework.*
 
-- [React-Vis](https://uber.github.io/react-vis/) - 图表可视化库，**Uber 团队开发**。
-- [vx](https://vx-demo.now.sh/) - 基于 React 和 D3.js 的可视化库。
-- [React Charts](https://react-charts.js.org/)
+- [React-Vis](https://uber.github.io/react-vis/) - 图表库，**Uber 团队开发**。
+- [vx](https://vx-demo.now.sh/) - 图表库，基于 React 和 D3.js 的可视化库。
+- [React Charts](https://react-charts.js.org/) - 图表库。
+- [react-three-fiber](https://github.com/react-spring/react-three-fiber) - 可视化库，React.js 的 Threejs 渲染器。
 
 [`Go Top ↑`](#awesome-reactjs-list)
 
@@ -220,5 +223,6 @@
 - [React-JSS](https://cssinjs.org/react-jss) - JSS 是 CSS-in-JS 的一种解决方案，这个是与 React 的集成方案。
 - [React Developer Roadmap](https://github.com/adam-golab/react-developer-roadmap) - React 开发者路线图参考。
 - [React Open Source Awards](https://osawards.com/react/) - React 开源项目奖，**非官方**。
+- [Proton Native](https://proton-native.js.org/#/) - 跨平台桌面端应用的 React.js 环境。
 
 [`Go Top ↑`](#awesome-reactjs-list)
