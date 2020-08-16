@@ -185,6 +185,7 @@
   - [React Move](https://react-move-docs.netlify.app/)
 
 - 其它（Others）
+  - [React PDF](https://projects.wojtekmaj.pl/react-pdf/) - pdf 文件预览组件。
   - [React-Toastify](https://fkhadra.github.io/react-toastify/) - 消息弹窗组件。
   - [qrcode.react](https://github.com/zpao/qrcode.react) - 二维码组件。
   - [react-big-calendar](http://jquense.github.io/react-big-calendar/) - 事件日历，日程表组件。
