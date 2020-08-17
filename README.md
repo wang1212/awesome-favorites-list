@@ -88,6 +88,7 @@
   - [NodeICO](https://nodei.co/)
   - [Badgen](https://badgen.net/)
   - [Version Badge](https://badge.fury.io/)
+  - [Badges](https://formidable.com/open-source/badges/)
 
 ### 其它
 
