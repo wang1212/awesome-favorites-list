@@ -188,6 +188,7 @@
   - [Fabric Icons](https://developer.microsoft.com/en-us/fabric#/styles/web/icons) - 微软官方提供的一套图标库，**Microsoft 官方发布**。
   - [IonIcons](https://ionicons.com) - ionic 框架团队制作的图标库。
   - [Octicons](https://octicons.github.com/) - GitHub 官方制作的图标库，**GitHub 官方发布**。
+  - [Spectrum Icons](https://spectrum.adobe.com/page/icons/) - Adobe Spectrum 设计系统图标，**Adobe 官方发布**。
   - [Feather](https://feathericons.com/)
   - [Flat Icon](https://www.flaticon.com/)
   - [Icons8](https://icons8.com/) - 提供免费的图标设计工具。
@@ -387,8 +388,9 @@
 - [Primer](https://primer.style/) - GitHub 设计，包含组件库、图标等资源，**GitHub 官方发布**。
 - [Material Design](https://material.io/) - Material 设计，包含组件库、图标等资源，**Google 公司发布**。
 - [Fluent UI](https://developer.microsoft.com/en-us/fluentui) - Fluent UI，包含组件库、图标等资源，**Microsoft 公司发布**。
-- [Carbon](https://www.carbondesignsystem.com/) - Carbon 设计，包含组件库，图标、数据可视化工具等资源，**IBM 公司发布**。
-- [Ant Design](https://ant.design/) - Ant 设计，包含组件库，图标、数据可视化工具等资源，**阿里巴巴公司发布**。
+- [Carbon](https://www.carbondesignsystem.com/) - Carbon 设计，包含组件库、图标、数据可视化工具等资源，**IBM 公司发布**。
+- [Spectrum](https://spectrum.adobe.com/) - Spectrum 设计，包含组件库、图标、字体等资源，**Adobe 公司发布**。
+- [Ant Design](https://ant.design/) - Ant 设计，包含组件库、图标、数据可视化工具等资源，**阿里巴巴公司发布**。
 
 [`Go Top ↑`](#awesome-web-front-end-list)
 
@@ -419,6 +421,7 @@
 - [Bulma](https://bulma.io/)
 - [Office UI Fabric Core](https://developer.microsoft.com/en-us/fabric) - Office 风格的 UI 库，**Microsoft 公司发布**。
 - [carbon-components](https://www.carbondesignsystem.com/get-started/develop/vanilla) - Carbon 设计风格，**IBM 公司发布**。
+- [Spectrum CSS](https://opensource.adobe.com/spectrum-css/) - Spectrum 设计，**Adobe 公司发布**。
 - [Pure.CSS](https://purecss.io/) - 一组小的，响应式的 CSS 模块。
 - [Layui](https://www.layui.com/) - 适合后端开发使用。
 - [Semantic UI](https://semantic-ui.com) - 很受欢迎的组件库。（:warning: 不再更新）
@@ -471,6 +474,10 @@
   - [Packery](https://packery.metafizzy.co/) 
   - [gridstack.js](https://gridstackjs.com/)
   
+- 用户引导（User guided tours）
+  - [intro.js](https://introjs.com/)
+  - [Driver.js](https://kamranahmed.info/driver.js/)
+   
 - 其它（Others）
   - [TOAST UI Calendar](https://github.com/nhn/tui.calendar) - 强大的日历日程组件。
   - [reveal.js](https://revealjs.com/) - 创建漂亮的演示文稿（幻灯片）。
