@@ -183,6 +183,7 @@
   - [React Awesome Reveal](https://react-awesome-reveal.morello.dev/) - 基于 [Intersection Observer API](https://developer.mozilla.org/en-US/docs/Web/API/Intersection_Observer_API) 和 [Animate.css](https://animate.style/) 的动画库。
   - [React Spinners](https://www.davidhu.io/react-spinners/) - 丰富的 Loading 动画。
   - [React Move](https://react-move-docs.netlify.app/)
+  - [Renature](https://formidable.com/open-source/renature/) - 物理动画库。
 
 - 其它（Others）
   - [React PDF](https://projects.wojtekmaj.pl/react-pdf/) - pdf 文件预览组件。
@@ -213,19 +214,23 @@
   - [loadable-components](https://www.smooth-code.com/open-source/loadable-components/) - 实现组件懒加载功能，支持服务器端渲染（SSR）。
   - [React-Loadable](https://github.com/jamiebuilds/react-loadable) - 基于 React 高阶组件，实现组件懒加载功能。（:warning: 不再更新）
 
+- CSS In JS
+  - [React-JSS](https://cssinjs.org/react-jss) - JSS 是 CSS-in-JS 的一种解决方案，这个是与 React 的集成方案。  
+
 - 服务器端渲染（SSR，server side rendering）
   - [Next.js](https://nextjs.org) - React.js 服务器端渲染框架。
   
 - 其它（Others）
   - [React Content Loader](https://github.com/danilowoz/react-content-loader) - 提供了组件加载占位效果（Skeleton Screen），优化交互体验。
+  - [react-fast-compare](https://formidable.com/open-source/react-fast-compare/) - React 组件的高性能深度比较，可替代 `lodash.isEqual`。
 
 ## 更多
 
 *More other unclassified resources.*
 
-- [React-JSS](https://cssinjs.org/react-jss) - JSS 是 CSS-in-JS 的一种解决方案，这个是与 React 的集成方案。
 - [React Developer Roadmap](https://github.com/adam-golab/react-developer-roadmap) - React 开发者路线图参考。
 - [React Open Source Awards](https://osawards.com/react/) - React 开源项目奖，**非官方**。
 - [Proton Native](https://proton-native.js.org/#/) - 跨平台桌面端应用的 React.js 环境。
+- [Spectacle](https://formidable.com/open-source/spectacle/) - 基于 React.js 的演示文稿工具库。
 
 [`Go Top ↑`](#awesome-reactjs-list)
