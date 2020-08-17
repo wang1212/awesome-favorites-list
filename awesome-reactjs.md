@@ -122,11 +122,13 @@
 
 - [reactstrap](https://reactstrap.github.io/) - 基于 Bootstrap 4，**非 Bootstrap 官方实现**。
 - [react-bootstrap](https://github.com/react-bootstrap/react-bootstrap) - 基于 Bootstrap 4，**非 Bootstrap 官方实现**。
+- [React Bootstrap Typeahead](http://ericgio.github.io/react-bootstrap-typeahead/) - 输入框自动完成组件，**非 Bootstrap 官方实现**。
 
 #### 其它
 
 - [Office UI Fabric React](https://developer.microsoft.com/en-us/fabric) - Office UI 风格，**Microsoft 公司发布**。
 - [Carbon Design System React](https://www.carbondesignsystem.com/tutorial/react/overview) - 遵循 Carbon 设计风格，**IBM 公司发布**。
+- [React Spectrum](https://react-spectrum.adobe.com/react-spectrum/) - Spectrum 设计，**Adobe 公司发布**。
 - [Grommet](https://v2.grommet.io/)
 - [Rebass](https://rebassjs.org/) - 构建 React UI 组件的工具库。
 - [Blueprint](https://blueprintjs.com/) - 提供复杂的数据分析展示、表格等组件。
@@ -142,13 +144,11 @@
 
 - 表单（Form）
   - [Formik](https://jaredpalmer.com/formik/)
+  - [React Select](https://react-select.com/) - 支持多选、自动完成、异步等。
 
 - 表格（Table）
   - [React Table](https://github.com/tannerlinsley/react-table)
-
-- 下拉列表（Select List）
-  - [React Select](https://react-select.com/) - 支持多选、自动完成、异步等。
-
+  
 - 时间日期选择器（DatePicker & TimePicker）
   - [react-dates](https://github.com/airbnb/react-dates) - 国际化、移动端友好，**Airbnb 公司发布**。
   - [react-day-picker](http://react-day-picker.js.org/)
@@ -185,11 +185,17 @@
   - [React Move](https://react-move-docs.netlify.app/)
   - [Renature](https://formidable.com/open-source/renature/) - 物理动画库。
 
+- 用户指引（User guided tours）
+  - [React Joyride](https://react-joyride.com/)
+  - [Reactour](https://reactour.js.org/)
+
 - 其它（Others）
   - [React PDF](https://projects.wojtekmaj.pl/react-pdf/) - pdf 文件预览组件。
   - [React-Toastify](https://fkhadra.github.io/react-toastify/) - 消息弹窗组件。
   - [qrcode.react](https://github.com/zpao/qrcode.react) - 二维码组件。
   - [react-big-calendar](http://jquense.github.io/react-big-calendar/) - 事件日历，日程表组件。
+  - [React Diagrams](https://projectstorm.gitbook.io/react-diagrams/) - 流程图组件。
+  - [React Sortable Tree](https://github.com/frontend-collective/react-sortable-tree) - 树形列表，支持拖拽。
 
 [`Go Top ↑`](#awesome-reactjs-list)
 
@@ -203,6 +209,7 @@
 - [React Charts](https://react-charts.js.org/) - 图表库。
 - [Victory](https://formidable.com/open-source/victory/) - 图表库。
 - [react-three-fiber](https://github.com/react-spring/react-three-fiber) - 可视化库，React.js 的 Threejs 渲染器。
+- [React Financial Charts](https://github.com/reactivemarkets/react-financial-charts) - 图标库，股票蜡烛图。
 
 [`Go Top ↑`](#awesome-reactjs-list)
 
