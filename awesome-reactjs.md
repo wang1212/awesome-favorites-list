@@ -185,7 +185,7 @@
   - [React Move](https://react-move-docs.netlify.app/)
   - [Renature](https://formidable.com/open-source/renature/) - 物理动画库。
 
-- 用户指引（User guided tours）
+- 用户引导（User guided tours）
   - [React Joyride](https://react-joyride.com/)
   - [Reactour](https://reactour.js.org/)
 
