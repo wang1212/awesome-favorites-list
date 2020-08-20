@@ -510,6 +510,7 @@
 - [Textures.js](https://riccardoscalco.it/textures/) - 创建 SVG 模式。
 - [carbon-charts](https://carbon-design-system.github.io/carbon-charts/) - 遵循 Carbon 风格图表库，**IBM 公司发布**。
 - [Plotly](https://plotly.com/javascript/) - 丰富的图表库，支持金融、科学相关图表。
+- [Apexcharts](https://apexcharts.com/) - 图表库。
 
 [`Go Top ↑`](#awesome-web-front-end-list)
 
