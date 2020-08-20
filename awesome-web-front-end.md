@@ -167,7 +167,8 @@
 
 - [Open Color](https://yeun.github.io/open-color/) - 配色方案。
 - [Color Hunt](https://colorhunt.co/) - 配色方案。
-- [Sorted CSS Colors](https://enes.in/sorted-colors/)  
+- [coolors](https://coolors.co/palettes/) - 配色方案。
+- [Sorted CSS Colors](https://enes.in/sorted-colors/) - 配色方案。
 - [Keyframes](https://keyframes.app/) - CSS 效果预览小工具集合。
 - [Animista](https://animista.net/) - 在线生成 CSS 动画样式代码。
 - [easings.co](https://easings.co/) - 测试 CSS 动画函数效果。
@@ -189,6 +190,8 @@
   - [IonIcons](https://ionicons.com) - ionic 框架团队制作的图标库。
   - [Octicons](https://octicons.github.com/) - GitHub 官方制作的图标库，**GitHub 官方发布**。
   - [Spectrum Icons](https://spectrum.adobe.com/page/icons/) - Adobe Spectrum 设计系统图标，**Adobe 官方发布**。
+  - [Forge Icons](https://icons.theforgesmith.com/) - SVG 图标库。
+  - [Teenyicons](https://teenyicons.com/) - SVG 图标库。
   - [Feather](https://feathericons.com/)
   - [Flat Icon](https://www.flaticon.com/)
   - [Icons8](https://icons8.com/) - 提供免费的图标设计工具。
@@ -622,6 +625,7 @@
 - [What forces layout / reflow](https://gist.github.com/paulirish/5d52fb081b3570c81e3a) - 一些会导致重绘、重布局的 DOM 操作。
 - [You might not need jQuery](http://youmightnotneedjquery.com/)
 - [The complete guide to CSS media queries](https://polypane.app/blog/the-complete-guide-to-css-media-queries/)
+- [What does 100% mean in CSS](https://wattenberger.com/blog/css-percents) - CSS 中 `100%` 的含义。
 
 ### 其它
 
