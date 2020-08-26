@@ -16,13 +16,15 @@
 - [技术参考文档（Technical Reference Document）](#技术参考文档)
 - [构建工具（Build Tools）](#构建工具)
 - [HTML](#html)
+  - [代码风格规范（Code Style Specifications）](#html-代码风格规范)
   - [工具库（Library）](#html-工具库)
 - [CSS](#css)
+  - [代码风格规范（Code Style Specifications）](#css-代码风格规范)
   - [在线资源（Online Resources）](#css-在线资源)
   - [字体图标（Font Icon）](#字体图标)
   - [工具库（Library）](#css-工具库)
 - [JavaScript](#javascript)
-  - [代码风格规范（Code Style Specifications）](#代码风格规范)
+  - [代码风格规范（Code Style Specifications）](#js-代码风格规范)
   - [工具库（Library）](#js-工具库)
 - [UI 设计系统（UI Design System）](#ui-设计系统)
 - [UI 组件（UI Component）](#ui-组件)
@@ -153,6 +155,13 @@
 
 > [W3C HTML 官方规范标准（W3C HTML Official Specification Standard）](https://www.w3.org/html/)
 
+### HTML 代码风格规范
+
+*Code Style Specifications.*
+
+- [Google HTML Style Guide](https://google.github.io/styleguide/htmlcssguide.html#HTML)
+- [@mdo's Code Guide HTML](https://codeguide.co/#html)
+
 ### HTML 工具库
 
 *HTML tool library, dealing with compatibility issues, etc.*
@@ -162,6 +171,14 @@
 ## CSS
 
 > [W3C CSS 官方规范标准（W3C CSS Official Specification Standard）](https://www.w3.org/Style/CSS/)
+
+### CSS 代码风格规范
+
+*Code Style Specifications.*
+
+- [Google CSS Style Guide](https://google.github.io/styleguide/htmlcssguide.html#CSS)
+- [Airbnb CSS / Sass Styleguide](https://github.com/airbnb/css)
+- [@mdo's Code Guide CSS](https://codeguide.co/#css)
 
 ### CSS 在线资源
 
@@ -229,7 +246,7 @@
 - [TC39 ECMAScript proposals](https://github.com/tc39/proposals) - TC39 对 ECMAScript 标准制定提案的记录。
 - [OpenJS Foundation](https://openjsf.org/) - 开源 JS 基金会，由 Node 基金会和 JS 基金会合并而成。
 
-### 代码风格规范
+### JS 代码风格规范
 
 *Code Style Specifications.*
 
