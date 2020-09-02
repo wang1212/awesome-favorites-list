@@ -63,7 +63,7 @@
 - [SQL Style Guide](https://www.sqlstyle.guide/) - SQL 语句规范指南参考。
 - [Google Style Guides](https://google.github.io/styleguide/) - Google 代码风格指南。
 
-[`Go Top ↑`](#awesome-development-tools)
+[`Go Top ↑`](#awesome-development-resources)
 
 ## 在线工具
 
@@ -71,7 +71,7 @@
 
 - [JSON Editor Online](http://jsoneditoronline.org/) - 在线 JSON 编辑器。
 
-[`Go Top ↑`](#awesome-development-tools)
+[`Go Top ↑`](#awesome-development-resources)
 
 ## 命令行工具
 
@@ -80,7 +80,7 @@
 - [The Fuck](https://github.com/nvbn/thefuck) - 命令行错误命令纠正工具。
 - [Ink](https://github.com/vadimdemedes/ink) - 用 React 开发命令行应用。
 
-[`Go Top ↑`](#awesome-development-tools)
+[`Go Top ↑`](#awesome-development-resources)
 
 ## 工具套件
 
@@ -88,7 +88,7 @@
 
 - [Cube.js](https://cube.dev/) - 开源的 Web 应用分析解决方案。
 
-[`Go Top ↑`](#awesome-development-tools)
+[`Go Top ↑`](#awesome-development-resources)
 
 ## 更多
 
@@ -96,4 +96,4 @@
 
 - [Developer Roadmaps](https://roadmap.sh/) - Web 开发者路线图。
 
-[`Go Top ↑`](#awesome-development-tools)
+[`Go Top ↑`](#awesome-development-resources)
