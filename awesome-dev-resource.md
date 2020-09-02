@@ -10,19 +10,50 @@
 
 *Resource navigation list.*
 
+- [阅读（Reading）](#阅读)
 - [在线工具（Online Tools）](#在线工具)
-- [文章（Articles）](#文章)
 - [命令行工具（CLI Tools）](#命令行工具)
 - [工具套件（Tool kit）](#工具套件)
 - [更多（More）](#更多)
 
-## 在线工具
+## 阅读
 
-*Online tools.*
+*Developer-related journals, articles, news, etc.*
 
-- [JSON Editor Online](http://jsoneditoronline.org/) - 在线 JSON 编辑器。
+### 期刊
 
-## 文章
+*Some developer news journals related to industry technology trends.*
+
+- 每日（Every day）
+  - [Webdesigner News](https://www.webdesignernews.com/) - 日报，针对 Web 设计师的新闻。
+  - [Echo JS](https://www.echojs.com/) - 日报，Web 前端新闻。
+  - [CSS-Tricks](https://css-tricks.com/) - 日报，CSS 技术文章。
+  
+- 每周（Weekly）
+  - [StatusCode Weekly](https://weekly.statuscode.com/) - 周刊，软件开发、Web 技术、软件架构等。
+  - [Mobile Dev Weekly](https://mobiledevweekly.com/) - 周刊，移动应用（Web 和 Native）开发技术。
+  - [Android Weekly](https://androidweekly.net/) - 周刊，Android 技术。
+  - [Frontend Focus](https://frontendfoc.us/) - 周刊，Web 前端技术资讯。
+  - [Frontend Weekly](https://frontendweekly.co/) - 周刊，Web 前端技术资讯。
+  - [JavaScript Weekly](https://javascriptweekly.com/) - 周刊，JavaScript 技术。
+  - [JSK Weekly](https://javascriptkicks.com/) - 周刊，JavaScript 技术。
+  - [CSS Weekly](https://css-weekly.com/) - 周刊，CSS 技术。
+  - [CSS Animation Weekly](https://cssanimation.rocks/weekly/) - 周刊，CSS 动画。
+  - [Node Weekly](https://nodeweekly.com/) - 周刊，Node.js 技术。
+  - [npm Weekly](https://www.npmjs.com/npm-weekly) - 周刊，npm 新闻。
+  - [Deno Weekly](https://denoweekly.com/) - 周刊，Deno 技术。
+  - [Ruby Weekly](https://rubyweekly.com/) - 周刊，Ruby 技术。
+  - [PyCoder’s Weekly](https://pycoders.com/) - 周刊，Python 技术。
+  - [Golang Weekly](https://golangweekly.com/) - 周刊，Go 技术。
+  - [Postgres Weekly](https://postgresweekly.com/) - 周刊，PostgreSQL 技术。
+  - [DB Weekly](https://dbweekly.com/) - 周刊，数据库技术。
+  - [科技爱好者周刊](https://github.com/ruanyf/weekly)
+  - [Awesome Weekly](https://github.com/jondot/awesome-weekly) - 更多周刊。
+
+- 半年（Half a year）
+  - [Technology Radar](https://www.thoughtworks.com/radar) - 六个月一期，[ThoughtWorks](https://www.thoughtworks.com/) 出品的技术雷达。
+
+### 文章
 
 *Some guiding articles related to software development.*
 
@@ -31,6 +62,14 @@
 - [Superhero.js](http://superherojs.com/) - 构建大型项目的一些技巧。
 - [SQL Style Guide](https://www.sqlstyle.guide/) - SQL 语句规范指南参考。
 - [Google Style Guides](https://google.github.io/styleguide/) - Google 代码风格指南。
+
+[`Go Top ↑`](#awesome-development-tools)
+
+## 在线工具
+
+*Online tools.*
+
+- [JSON Editor Online](http://jsoneditoronline.org/) - 在线 JSON 编辑器。
 
 [`Go Top ↑`](#awesome-development-tools)
 
@@ -48,6 +87,8 @@
 *Tool kit.*
 
 - [Cube.js](https://cube.dev/) - 开源的 Web 应用分析解决方案。
+
+[`Go Top ↑`](#awesome-development-tools)
 
 ## 更多
 
