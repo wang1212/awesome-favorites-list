@@ -227,6 +227,10 @@
 - 服务器端渲染（SSR，server side rendering）
   - [Next.js](https://nextjs.org) - React.js 服务器端渲染框架。
   
+- 国际化（i18n）
+  - [react-i18next](https://react.i18next.com/)
+  - [react-intl](https://formatjs.io/docs/react-intl)
+  
 - 其它（Others）
   - [React Content Loader](https://github.com/danilowoz/react-content-loader) - 提供了组件加载占位效果（Skeleton Screen），优化交互体验。
   - [react-fast-compare](https://formidable.com/open-source/react-fast-compare/) - React 组件的高性能深度比较，可替代 `lodash.isEqual`。
