@@ -520,20 +520,20 @@
 
 *Data visualization libraries, such as chart libraries, 3D engines, etc.*
 
-- [D3](https://d3js.org/) - 数据驱动的可视化库，非常著名，许多图表库基于此开发。
-- [three.js](https://threejs.org/) - 强大的 JavaScript 3D 动画库。
+- [D3](https://d3js.org/) - 可视化库，数据驱动的，非常著名，许多图表库基于此开发。
+- [three.js](https://threejs.org/) - 3D 动画库，强大的 JavaScript 3D 动画库。
 - [stackgl](http://stack.gl/) - WebGL 引擎。
-- [PixiJS](https://www.pixijs.com/) - 高性能 2D WebGL 渲染引擎。
-- [Chart.js](https://www.chartjs.org/) - 最流行的轻量级图表库。
-- [Frappe Charts](https://frappe.io/charts) - 高性能 SVG 图标库。
-- [Frappe Gantt](https://frappe.io/gantt) - 甘特图。
-- [Echarts](http://echarts.apache.org/) - 国内百度团队开发的图表库，功能丰富。
-- [C3](https://c3js.org/) - 基于 D3 的可重用图表库。
-- [GSAP](https://greensock.com/) - 现代化的高性能动画工具库。
-- [Shifty](https://jeremyckahn.github.io/shifty/doc/index.html) - 轻量级、高性能的低级动画工具库。
+- [PixiJS](https://www.pixijs.com/) - 2D WebGL 渲染引擎，高性能。
+- [Chart.js](https://www.chartjs.org/) - 图表库，最流行的轻量级库。
+- [Frappe Charts](https://frappe.io/charts) - 图表库，基于 SVG 的高性能库。
+- [Frappe Gantt](https://frappe.io/gantt) - 图表库，甘特图。
+- [Echarts](http://echarts.apache.org/) - 图表库，国内百度团队开发，功能丰富。
+- [C3](https://c3js.org/) - 图表库，基于 D3.js 的可重用图表库。
+- [GSAP](https://greensock.com/) - 动画库，现代化的高性能动画工具库。
+- [Shifty](https://jeremyckahn.github.io/shifty/doc/index.html) - 动画库，轻量级、高性能的低级动画工具库。
 - [Textures.js](https://riccardoscalco.it/textures/) - 创建 SVG 模式。
-- [carbon-charts](https://carbon-design-system.github.io/carbon-charts/) - 遵循 Carbon 风格图表库，**IBM 公司发布**。
-- [Plotly](https://plotly.com/javascript/) - 丰富的图表库，支持金融、科学相关图表。
+- [carbon-charts](https://carbon-design-system.github.io/carbon-charts/) - 图表库，遵循 Carbon 风格，**IBM 公司发布**。
+- [Plotly](https://plotly.com/javascript/) - 图表库，丰富的图表，支持金融、科学相关图表。
 - [Apexcharts](https://apexcharts.com/) - 图表库。
 
 [`Go Top ↑`](#awesome-web-front-end-list)
