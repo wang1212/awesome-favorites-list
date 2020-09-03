@@ -505,12 +505,14 @@
    
 - 其它（Others）
   - [TOAST UI Calendar](https://github.com/nhn/tui.calendar) - 强大的日历日程组件。
+  - [FullCalendar](https://fullcalendar.io/) - 日历日程组件。
   - [reveal.js](https://revealjs.com/) - 创建漂亮的演示文稿（幻灯片）。
   - [Cleave.js](https://nosir.github.io/cleave.js/) - 格式化输入框内容。
   - [TOAST UI Editor](https://ui.toast.com/tui-editor/) - 所见即所得编辑器。
   - [fullPage](https://alvarotrigo.com/fullPage/) - 全屏滚动页面。
   - [mailgo](https://mailgo.dev/) - 邮件和电话系统行为。
   - [PulltoRefresh](https://www.boxfactura.com/pulltorefresh.js/) - 下拉刷新。
+  - [ztext.js](https://bennettfeely.com/ztext/) - 实现文字 3D 效果。
 
 [`Go Top ↑`](#awesome-web-front-end-list)
 
