@@ -140,6 +140,10 @@
   - [StrongLoop-PM](http://strong-pm.io/) - Node 应用生产环境进程管理工具，支持集群、负载、远程部署，提供收费服务的实时监控平台。
 
 - 实用工具（Utils）
+  - [Underscore](https://underscorejs.org/) - JavaScript 的工具函数库，提供了大量非常有用的工具函数。
+  - [Lodash](https://lodash.com/) - JavaScript 的工具函数库，参考自 Underscore，功能更丰富。
+  - [Ramda](https://ramdajs.com/) - JavaScript 的工具函数库，适用于函数式编程。
+  - [RxJS](https://rxjs.dev/) - 响应式编程（Reactive Extensions）的 JavaScript 实现，对异步数据集合处理很方便。
   - [Madge](https://github.com/pahen/madge) - 生成可视化的模块依赖图。
   - [esm](https://github.com/standard-things/esm) - 能够为 `.js` 文件提供 [ECMAScript Modules](https://tc39.es/ecma262/#sec-modules) 支持。
   - [envinfo](https://github.com/tabrindle/envinfo) - 生成开发环境信息报告。
@@ -147,7 +151,11 @@
   - [tslog](https://tslog.js.org/) - 日志格式化。
   - [uuid](https://github.com/uuidjs/uuid) - 生成随机 id。
   
+- 数据操作（Data Manipulation）
+  - [Danfo.js](https://danfo.jsdata.org/) - 处理结构化数据的工具库，类似 Python 的 [Pandas](https://pandas.pydata.org/pandas-docs/stable/index.html)。
+  
 - 时间日期（Date && Time）
+  - [Day.js](https://day.js.org/) - 轻量级时间日期工具库。
   - [ms](https://github.com/vercel/ms) - 毫秒格式化工具。
   
 - 二维码（QR Code）
@@ -160,6 +168,7 @@
     - [rimraf](https://github.com/isaacs/rimraf) - 为 Node 提供类似 `rm -rf` 删除文件操作。
     - [memfs](https://github.com/streamich/memfs) - 内存文件系统。
     - [rotating-file-stream](https://github.com/iccicci/rotating-file-stream) - 文件流自动轮转，可用于日志文件分割，类似 UNIX `logrotate`。
+    - [file-type](https://github.com/sindresorhus/file-type) - 探测文件类型。
   - html/xml
     - [jsdom](https://github.com/jsdom/jsdom) - Web 标准的纯 JavaScript 实现。
     - [cheerio](https://cheerio.js.org/) - 包装了[parse5](https://github.com/inikulin/parse5) 和 [htmlparser2](https://github.com/fb55/htmlparser2/) 的轻量级 HTML 文档解析库，具有类 jQuery 的 api。    
