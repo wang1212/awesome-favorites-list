@@ -95,5 +95,6 @@
 *More uncategorized resources.*
 
 - [Developer Roadmaps](https://roadmap.sh/) - Web 开发者路线图。
+- [Linux Mint](https://www.linuxmint.com/) - 很 Cool 的 Linux 发行版。
 
 [`Go Top ↑`](#awesome-development-resources)
