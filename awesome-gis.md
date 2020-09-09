@@ -69,6 +69,11 @@
 - [Mapnik](https://mapnik.org/) - 空间数据可视化（支持 Node.js、Python），开源。
 - [3dtiles](https://github.com/fanvanzh/3dtiles) - 可将 OSGB 转换为 3D Tiles 数据。
 
+### Java
+
+- [GeoTools](https://geotools.org/)
+- [JTS](https://github.com/locationtech/jts)
+
 ### Python
 
 - [OpenSfM](https://github.com/mapillary/OpenSfM) - Python 编写的 SFM，利用二维图像进行三维重建。
