@@ -72,6 +72,7 @@
 ### Python
 
 - [OpenSfM](https://github.com/mapillary/OpenSfM) - Python 编写的 SFM，利用二维图像进行三维重建。
+- [Raster Vision](https://docs.rastervision.io/) - 开源 Python 框架，用来构建卫星图、无人机摄影等栅格数据的视觉分析模型。
 
 ### JavaScript
 
