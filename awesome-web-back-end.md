@@ -38,6 +38,8 @@
 
 *Official and unofficial technical reference documents.*
 
+- [AsyncAPI](https://www.asyncapi.com/) - 事件驱动的 APIs 规范，改编自 OpenAPI。
+
 [`Go Top ↑`](#awesome-web-back-end-list)
 
 ## 服务器
