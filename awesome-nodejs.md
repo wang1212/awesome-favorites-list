@@ -150,6 +150,7 @@
   - [web-worker](https://github.com/developit/web-worker) - 在浏览器和 Node.js 环境中实现一致的 Web Worker API。
   - [tslog](https://tslog.js.org/) - 日志格式化。
   - [uuid](https://github.com/uuidjs/uuid) - 生成随机 id。
+  - [Neon](https://neon-bindings.com/) - Rust 的 Node.js 绑定，可用来编写快速、安全的原生模块。
   
 - 数据操作（Data Manipulation）
   - [Danfo.js](https://danfo.jsdata.org/) - 处理结构化数据的工具库，类似 Python 的 [Pandas](https://pandas.pydata.org/pandas-docs/stable/index.html)。
@@ -258,6 +259,7 @@
 - 对象关系映射（ORM）
   - [TypeORM](https://typeorm.io/) - 可以运行在所有 JS 技术栈中的 ORM 库，支持主流数据库。
   - [Sequelize](https://sequelize.org/) - 基于 Promise 的 Node.js ORM 库，支持 Postgres, MySQL, MariaDB, SQLite 和 Microsoft SQL Server。
+  - [mikro-orm](https://github.com/mikro-orm/mikro-orm) - TypeScript ORM 库，支持 MongoDB, MySQL, MariaDB, PostgreSQL 和 SQLite。
 
 [`Go Top ↑`](#awesome-nodejs-list)
 
@@ -309,6 +311,7 @@
 - [Testing Library](https://testing-library.com/) - 包含了众多测试工具项目。
 - [awesome-nodejs-security](https://github.com/lirantal/awesome-nodejs-security) - Node.js 安全相关工具。
 - [NodeBB](https://github.com/NodeBB/NodeBB) - 开源论坛软件。
+- [AdminBro](https://adminbro.com/) - Node.js 应用管理面板系统。
 
 - JS 引擎/运行时（Javascript Engine/Runtime）
   - [SpiderMonkey](https://developer.mozilla.org/en-US/docs/Mozilla/Projects/SpiderMonkey) - Firefox 浏览器 JS 引擎，**Mozilla 开发**。
