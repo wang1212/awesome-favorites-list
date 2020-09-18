@@ -520,6 +520,7 @@
   - [mailgo](https://mailgo.dev/) - 邮件和电话系统行为。
   - [PulltoRefresh](https://www.boxfactura.com/pulltorefresh.js/) - 下拉刷新。
   - [ztext.js](https://bennettfeely.com/ztext/) - 实现文字 3D 效果。
+  - [Tweakpane](https://cocopon.github.io/tweakpane/) - 可快速创建跟踪值变化和调节的控制面板。
 
 [`Go Top ↑`](#awesome-web-front-end-list)
 
