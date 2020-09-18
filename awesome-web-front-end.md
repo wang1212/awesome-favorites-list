@@ -77,6 +77,7 @@
 - [favorite JavaScript utilities](https://1loc.dev/) - JavaScript 编程技巧，一行代码。
 - [CSS Triggers](https://csstriggers.com/) - 一些改变会导致重绘、重布局的 CSS 属性。
 - [JavaScript Algorithms and Data Structures](https://github.com/trekhleb/javascript-algorithms) - 算法和数据结构。
+- [Javascript.FUN](https://www.javascript.fun/) - 在线网站，JS 开发资源集合。
 
 [`Go Top ↑`](#awesome-web-front-end-list)
 
@@ -659,6 +660,7 @@
 - [You might not need jQuery](http://youmightnotneedjquery.com/)
 - [The complete guide to CSS media queries](https://polypane.app/blog/the-complete-guide-to-css-media-queries/)
 - [What does 100% mean in CSS](https://wattenberger.com/blog/css-percents) - CSS 中 `100%` 的含义。
+- [JavaScript for Data Science](https://js4ds.org/)
 
 ### 其它
 
@@ -670,7 +672,5 @@
   - [Perspective](https://github.com/finos/perspective) - 基于 C++ 的 wasm 数据可视化组件。
 
 - [JavaScript Open Source Award](https://osawards.com/javascript/) - JavaScript 开源项目奖，**非官方**。
-
-- [Javascript.FUN](https://www.javascript.fun/) - 在线网站，JS 开发资源集合。
 
 [`Go Top ↑`](#awesome-web-front-end-list)
