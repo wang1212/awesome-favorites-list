@@ -25,6 +25,7 @@
   - [工具库（Library）](#css-工具库)
 - [JavaScript](#javascript)
   - [代码风格规范（Code Style Specifications）](#js-代码风格规范)
+  - [在线资源（Online Resources）](#js-在线资源)
   - [工具库（Library）](#js-工具库)
 - [UI 设计系统（UI Design System）](#ui-设计系统)
 - [UI 组件（UI Component）](#ui-组件)
@@ -65,19 +66,13 @@
 
 - [MDN Developer Document](https://developer.mozilla.org/en-US/) - MDN Web Docs 网站提供开放网络（Open Web）技术有关的信息，包括用于网站和渐进式网络应用的 HTML、CSS 和 API，是提供给 Web 开发者最好的学习资料和技术文档，**可作为官方标准参阅学习**。
 - [Can I use](https://caniuse.com/) - 可以查询特定 Web API（H5、CSS3）在各个浏览器平台的实现和标准化状态，**非官方网站**。
+- [印记中文](https://docschina.org/) - 包含了许多前端技术库的中文翻译文档。
 - [cssdb](https://cssdb.org/) - CSS 新特性列表。
+- [CSS Triggers](https://csstriggers.com/) - 一些改变会导致重绘、重布局的 CSS 属性。
 - [CSS BEM](https://en.bem.info/) - CSS 类名的 BEM 命名风格和规则。
   - [BEM Cheat Sheet](https://9elements.com/bem-cheat-sheet/)
-- [30 seconds](https://github.com/30-seconds) - 30 seconds 是一个系列，包含 JS、React.js、CSS 相关的编程技巧。
-- [JS The Right Way](http://jstherightway.org/) - 一些 JavaScript 最佳实践。
-- [SJSJ](https://github.com/HugoGiraudel/SJSJ) - JavaScript 术语介绍。
-- [33 js concepts](https://github.com/leonardomso/33-js-concepts) - 包含了丰富的 JavaScript 相关的知识概念，学习资源。
-- [印记中文](https://docschina.org/) - 包含了许多前端技术库的中文翻译文档。
-- [jQuery API 中文文档](http://jquery.cuishifeng.cn/) - 一个国内开发者维护的 jQuery API 中文文档，非常实用。
-- [favorite JavaScript utilities](https://1loc.dev/) - JavaScript 编程技巧，一行代码。
-- [CSS Triggers](https://csstriggers.com/) - 一些改变会导致重绘、重布局的 CSS 属性。
 - [JavaScript Algorithms and Data Structures](https://github.com/trekhleb/javascript-algorithms) - 算法和数据结构。
-- [Javascript.FUN](https://www.javascript.fun/) - 在线网站，JS 开发资源集合。
+- [30 seconds](https://github.com/30-seconds) - 30 seconds 是一个系列，包含 JS、React.js、CSS 相关的编程技巧。
 
 [`Go Top ↑`](#awesome-web-front-end-list)
 
@@ -262,6 +257,17 @@
 - [JavaScript Standard Style](https://standardjs.com/) - 支持 JSX 等语法，社区维护。
 - [Airbnb JavaScript Style Guide](https://airbnb.io/javascript/) - 支持 React 技术栈，**Airbnb 公司发布**。
 - [Google JavaScript Style Guide](https://google.github.io/styleguide/jsguide.html) - 仅支持原生 JavaScript，**Google 公司发布**。
+
+### JS 在线资源
+
+*JavaScript related online tools.*
+
+- [JSchallenger](https://www.jschallenger.com/) - 在线 JavaScript 编程训练。
+- [SJSJ](https://github.com/HugoGiraudel/SJSJ) - JavaScript 术语介绍。
+- [favorite JavaScript utilities](https://1loc.dev/) - JavaScript 编程技巧，一行代码。
+- [JS The Right Way](http://jstherightway.org/) - 一些 JavaScript 最佳实践。
+- [33 js concepts](https://github.com/leonardomso/33-js-concepts) - 包含了丰富的 JavaScript 相关的知识概念，学习资源。
+- [Javascript.FUN](https://www.javascript.fun/) - 在线网站，JS 开发资源集合。
 
 ### JS 工具库
 
@@ -651,6 +657,7 @@
   - [bit](https://bit.dev/) - 构建可重用组件的协作平台。
   - [Prettier Playground](https://prettier.io/playground/) - Prettier 代码格式化工具的在线版本。
   - [Doka](https://doka.photo/) - 图片编辑工具。
+  - [PWA Inside](https://pwainside.com/) - PWA 应用资源和商店。
 
 ### 文章
 
