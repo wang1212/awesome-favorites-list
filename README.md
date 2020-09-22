@@ -36,6 +36,7 @@
 - [AudioMass](https://audiomass.co/) - 音频文件在线编辑软件。
 - [Pexels](https://www.pexels.com/zh-cn/) - 免费的摄影素材分享。
 - [Unsplash](https://unsplash.com/) - 免费的图片素材。
+- [Zoomstock](https://zoomstock.com/) - 搜索引擎，可索引来自免费顶级图片网站的数百万张照片和插图。
 - [ProductHunt](https://www.producthunt.com/) - 产品发布分享。
 - [Slant](https://www.slant.co/) - 搜索最佳实践。
 
