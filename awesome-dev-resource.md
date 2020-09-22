@@ -90,12 +90,20 @@
   - [IKnowWhatYouDownload](https://iknowwhatyoudownload.com/) - 查看 IP 下载过的 BT 资源。
   - [FastIcon](https://fasticon.sawirstudio.com/) - 在线快速生成 Android 与 IOS 应用图标。
   - [Image Extractor](https://extract.pics/) - 导出公共网站的图片。
-  - [BGJar](https://bgjar.com/) - 在线 SVG 背景图生成。
   - [IPFS](https://ipfs.io/) - 全球分布式文件系统。
     - ~~[i-Book.in](https://book.tstrs.me/) - 针对 IPFS 链接的搜索引擎。~~
   - [Web-Scale UUID as a Service](https://uuid.rocks/) - 在线生成 uuid。
   - [345Tool](https://www.345tool.com/) - 开发者工具集。
   - [tool.lu](https://tool.lu/) - 开发者工具集。
+
+- 设计工具（Design Tools）
+  - [Boss 设计](https://www.bossdesign.cn/) - 收集国内外设计素材资源的网站。
+  - [Code My UI](https://codemyui.com/) - Web UI 设计相关的代码片段。
+  - [BGJar](https://bgjar.com/) - 在线 SVG 背景图生成。
+  - [Trianglify.io](https://trianglify.io/) - 生成三角网 SVG 背景图。
+  - [Hero Patterns](http://www.heropatterns.com/) - 一些 SVG 背景图。
+  - [Get Waves](https://getwaves.io/) - 生成波浪 SVG 背景图。
+  - [Cool Backgrounds](https://coolbackgrounds.io/) - 利用渐变，生成 PNG 背景图。
 
 - 文档（Docs）
   - [TIOBE Index](https://www.tiobe.com/tiobe-index/) - 编程语言全球排名。
