@@ -76,16 +76,6 @@
 
 *Online tools.*
 
-- 日常使用（Daily use）
-  - [IPAddress](https://www.ipaddress.com/) - 在线查询某个站点的 IP 地址。
-  - [FastIcon](https://fasticon.sawirstudio.com/) - 在线快速生成 Android 与 IOS 应用图标。
-  - [Image Extractor](https://extract.pics/) - 导出公共网站的图片。
-  - [FreeSSL](https://freessl.org/) - 免费 SSL 证书在线申请。
-  - [IKnowWhatYouDownload](https://iknowwhatyoudownload.com/) - 查看 IP 下载过的 BT 资源。
-  - [IPFS](https://ipfs.io/) - 全球分布式文件系统。
-    - ~~[i-Book.in](https://book.tstrs.me/) - 针对 IPFS 链接的搜索引擎。~~
-  - [Web-Scale UUID as a Service](https://uuid.rocks/) - 在线生成 uuid。
-
 - 在线编辑器（Online Editor）
   - [JSON Editor Online](http://jsoneditoronline.org/) - 在线 JSON 编辑器。
   - [CodeTable](https://code.hackerearth.com/)
@@ -94,14 +84,26 @@
   - [OnlineGDB](https://www.onlinegdb.com/)
   - [CodeMirror](https://codemirror.net/)
 
-- 文档与工具（Docs && Tools）
+- 工具（Tools）
+  - [IPAddress](https://www.ipaddress.com/) - 在线查询某个站点的 IP 地址。
+  - [FreeSSL](https://freessl.org/) - 免费 SSL 证书在线申请。
+  - [IKnowWhatYouDownload](https://iknowwhatyoudownload.com/) - 查看 IP 下载过的 BT 资源。
+  - [FastIcon](https://fasticon.sawirstudio.com/) - 在线快速生成 Android 与 IOS 应用图标。
+  - [Image Extractor](https://extract.pics/) - 导出公共网站的图片。
+  - [BGJar](https://bgjar.com/) - 在线 SVG 背景图生成。
+  - [IPFS](https://ipfs.io/) - 全球分布式文件系统。
+    - ~~[i-Book.in](https://book.tstrs.me/) - 针对 IPFS 链接的搜索引擎。~~
+  - [Web-Scale UUID as a Service](https://uuid.rocks/) - 在线生成 uuid。
+  - [345Tool](https://www.345tool.com/) - 开发者工具集。
+  - [tool.lu](https://tool.lu/) - 开发者工具集。
+
+- 文档（Docs）
   - [TIOBE Index](https://www.tiobe.com/tiobe-index/) - 编程语言全球排名。
   - [DB-Engines](https://db-engines.com/) - 数据库排名信息。
   - [Database of Database](https://dbdb.io/) - 聚合全球数据库信息。
   - [StackShare](https://stackshare.io/) - 技术趋势分享。  
   - [SOCODE.PRO](https://socode.pro/) - 快速搜索一些开发资源。
   - [lib4dev](http://www.lib4dev.in/) - 开源库分类查询。
-  - [tool.lu](https://tool.lu/) - 开发者小工具集合。
   - [DevDocs](https://devdocs.io/) - 在线技术文档查询。
 
 - 编程技巧（Programming skills）
