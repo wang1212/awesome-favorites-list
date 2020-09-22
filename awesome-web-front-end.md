@@ -196,6 +196,7 @@
 - [Animista](https://animista.net/) - 在线生成 CSS 动画样式代码。
 - [easings.co](https://easings.co/) - 测试 CSS 动画函数效果。
 - [enjoyCSS](https://enjoycss.com/) - 便捷的组件样式设计输出在线工具。
+- [Gradient Magic](https://www.gradientmagic.com/) - 渐变设计，CSS 渐变画廊。
 
 ### 字体图标
 
@@ -386,6 +387,8 @@
     - [howler.js](https://howlerjs.com/) - 强大的音频处理工具库，支持所有的编解码器，跨浏览器支持。
   - markdown
     - [Marked](https://marked.js.org/) - markdown 文件解析，转换成 HTML 文件。
+  - svg
+    - [Trianglify](https://github.com/qrohlf/trianglify) - 通过算法生成三角网 SCG 背景图。(:point_right: https://trianglify.io/)
 
 - HTTP 请求（HTTP - Ajax / Promise / fetch）
   - [axios](https://github.com/axios/axios) - 基于 Promise 的 HTTP 客户端工具库。
