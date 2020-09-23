@@ -154,6 +154,8 @@
 
 *Computer Technology Related Books.*
 
+*[List of Free Learning Resources](https://ebookfoundation.github.io/free-programming-books/)*
+
 - 编程语言（Programming language）
   - 《C 程序设计语言》[美] Dennis M. Ritchie, Brian W. Kernighan
   - [《你不知道的 JavaScript》](https://github.com/getify/You-Dont-Know-JS)[美] Kyle Simpson - 系列书籍，讲解 JavaScript 核心概念，**开源书籍**。
