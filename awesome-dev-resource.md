@@ -29,6 +29,8 @@
 
 *Developer-related journals, articles, news, etc.*
 
+- [List of Free Learning Resources](https://ebookfoundation.github.io/free-programming-books/)
+
 ### 期刊
 
 *Some developer news journals related to industry technology trends.*
