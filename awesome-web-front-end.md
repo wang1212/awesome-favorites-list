@@ -355,6 +355,7 @@
   - [Typed.js](https://github.com/mattboldt/typed.js) - 为输入框输入提供动画效果。
   - [Rough Notation](https://roughnotation.com/) - 为元素提供注释效果和动画。
   - [Rellax](https://dixonandmoe.com/rellax/) - 元素滚动视差效果工具库。
+  - [Framer Motion](https://www.framer.com/motion/) - 动画工具库。
 
 - 二维码（QR Code）
   - [node-qrcode](https://github.com/soldair/node-qrcode) - 二维码生成。
