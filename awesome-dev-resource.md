@@ -63,6 +63,7 @@
   - [DB Weekly](https://dbweekly.com/) - 周刊，数据库技术。（Cooperpress 出版）
   - [Postgres Weekly](https://postgresweekly.com/) - 周刊，PostgreSQL 技术。（Cooperpress 出版）
   - [Serverless Status](https://serverless.email/) - 周刊，Serverless 和 FaaS 相关技术。（Cooperpress 出版）
+  - [iOS Dev Weekly](https://iosdevweekly.com/) - 周刊，iOS 开发者相关。
   - [科技爱好者周刊](https://github.com/ruanyf/weekly)
   - [Awesome Weekly](https://github.com/jondot/awesome-weekly) - 更多周刊。
 
