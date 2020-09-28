@@ -679,6 +679,8 @@
 
 *Other unclassified resources.*
 
+- [TodoMVC](http://todomvc.com/) - 构建 MV* 应用的技术选型推荐。
+
 - WebAssembly(wasm)
   - [Emscripten](https://emscripten.org/) - 用于编译为使用 LLVM 构建的 asm.js 和 WebAssembly 的工具链，可在 Web 浏览器中运行 C/C++ 代码。
   - [Cheerp](https://www.leaningtech.com/cheerp/) - 与 Emscripten 类似。
