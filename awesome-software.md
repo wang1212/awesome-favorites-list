@@ -87,17 +87,14 @@
 - `JSON-handle` - JSON 文档的浏览器和编辑器。
 
 - GitHub - *Enhance the function of github.*
-  - `ZenHub for GitHub` - GitHub 项目管理工具。
-  - `Octotree` - 生成代码文件树，方便浏览仓库文件。
-  - `Refined GitHub` - 增强 GitHub 网站，在许多细节方面做了改进。
-  - `Enhanced Github` - 增强 GitHub 网站，显示仓库大小、每个文件的大小、下载链接和复制文件内容的按钮等。
-  - `Sourcegraph` - 提供智能代码提示，代码审查等功能。
-  - `File Icon for GitHub, GitLab and Bitbucket` - 为 GitHub、Gitlab、Bitbucket、gitea 和 gogs 网站提供不同类型文件的图标。
-  - `Awesome Autocomplete for GitHub` - 将即时搜索功能添加到 GitHub 网站的搜索栏。
-
-- Web for React.js
-  - `React Developer Tools` - React 应用官方调试工具,可在 Chrome 和 Firefox 中使用。
-  - `Redux DevTools` - Redux 官方提供的调试工具。
+  - [Sourcegraph](https://about.sourcegraph.com/) - 代码搜索工具，提供源代码快速搜索，智能代码提示，代码审查等功能。
+  - [Refined GitHub](https://github.com/sindresorhus/refined-github) - 增强 GitHub 网站界面功能，在许多细节方面做了改进。
+  - [Octotree](https://www.octotree.io/) - 生成代码文件树，方便浏览仓库文件。
+  - [OctoLinker](https://octolinker.now.sh/) - 源代码中引用的依赖包信息预览，例如 `import`, `require` 语句。
+  - [File Icons for GitHub and GitLab](https://github.com/homerchen19/github-file-icons) - 为 GitHub、Gitlab、Bitbucket、gitea 和 gogs 网站提供不同类型文件的图标。
+  - [Enhanced Github](https://github.com/softvar/enhanced-github) - 增强 GitHub 网站界面功能，显示仓库大小、每个文件的大小、下载链接和复制文件内容的按钮等。
+  - [ZenHub for GitHub](https://github.com/marketplace/zenhub) - GitHub 项目管理工具。
+  - [GitHub Dark](https://github.com/StylishThemes/GitHub-Dark) - GitHub 网站界面黑夜模式。
 
 [`Go Top ↑`](#awesome-software)
 
