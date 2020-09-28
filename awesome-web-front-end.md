@@ -147,9 +147,9 @@
 - [Responsively](https://responsively.app/) - **开源免费**。
 - [Polypane](https://polypane.app/) - 提供免费版本。
 
-### 其它
+### 其它工具
 
-*Others.*
+*Others tools.*
 
 - [SystemJS](https://github.com/systemjs/systemjs) - 动态 ES Module 加载器。
 
