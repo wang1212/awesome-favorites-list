@@ -162,6 +162,7 @@
 
 *Tool kit.*
 
+- [DBeaver Community](https://dbeaver.io/) - 图形化数据库管理工具软件，**多平台支持，开源免费**。
 - [Cube.js](https://cube.dev/) - 开源的 Web 应用分析解决方案。
 
 [`Go Top ↑`](#awesome-development-resources)
