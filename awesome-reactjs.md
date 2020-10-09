@@ -205,12 +205,12 @@
 *Data visualization chart library, framework.*
 
 - [React-Vis](https://uber.github.io/react-vis/) - 图表库，**Uber 团队开发**。
-- [vx](https://vx-demo.now.sh/) - 图表库，基于 React 和 D3.js。
+- [visx](https://airbnb.io/visx) - 图表库，基于 React 和 D3.js,**Airbnb 团队开发**。
 - [Recharts](http://recharts.org/) - 图表库。
 - [React Charts](https://react-charts.js.org/) - 图表库。
 - [Victory](https://formidable.com/open-source/victory/) - 图表库。
 - [react-three-fiber](https://github.com/react-spring/react-three-fiber) - 可视化库，React.js 的 Threejs 渲染器。
-- [React Financial Charts](https://github.com/reactivemarkets/react-financial-charts) - 图标库，股票蜡烛图。
+- [React Financial Charts](https://github.com/reactivemarkets/react-financial-charts) - 图表库，股票蜡烛图。
 
 [`Go Top ↑`](#awesome-reactjs-list)
 
