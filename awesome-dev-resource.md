@@ -11,8 +11,11 @@
 *Resource navigation list.*
 
 - [规范参考（Specification Reference）](#规范参考)
-- [阅读（Reading）](#阅读)
 - [在线工具（Online Tools）](#在线工具)
+- [阅读（Reading）](#阅读)
+  - [论坛（Forum）](#论坛)
+  - [期刊（Journal）](#期刊)
+  - [文章（Article）](#文章)
 - [命令行工具（CLI Tools）](#命令行工具)
 - [工具套件（Tool kit）](#工具套件)
 - [更多（More）](#更多)
@@ -25,6 +28,72 @@
 - [SQL Style Guide](https://www.sqlstyle.guide/) - SQL 语句规范指南参考。
 - [Google Style Guides](https://google.github.io/styleguide/) - Google 代码风格指南。
 
+[`Go Top ↑`](#awesome-development-resources)
+
+## 在线工具
+
+*Online tools.*
+
+- 在线编辑器（Online Editor）
+  - [JSON Editor Online](http://jsoneditoronline.org/) - 在线 JSON 编辑器。
+  - [CodeTable](https://code.hackerearth.com/)
+  - [JDoodle](https://www.jdoodle.com/)
+  - [IdeOne](https://ideone.com/)
+  - [OnlineGDB](https://www.onlinegdb.com/)
+  - [CodeMirror](https://codemirror.net/)
+
+- 工具（Tools）
+  - [IPAddress](https://www.ipaddress.com/) - 在线查询某个站点的 IP 地址。
+  - [FreeSSL](https://freessl.org/) - 免费 SSL 证书在线申请。
+  - [IKnowWhatYouDownload](https://iknowwhatyoudownload.com/) - 查看 IP 下载过的 BT 资源。
+  - [FastIcon](https://fasticon.sawirstudio.com/) - 在线快速生成 Android 与 IOS 应用图标。
+  - [Image Extractor](https://extract.pics/) - 导出公共网站的图片。
+  - [IPFS](https://ipfs.io/) - 全球分布式文件系统。
+    - ~~[i-Book.in](https://book.tstrs.me/) - 针对 IPFS 链接的搜索引擎。~~
+  - [Web-Scale UUID as a Service](https://uuid.rocks/) - 在线生成 uuid。
+  - [345Tool](https://www.345tool.com/) - 开发者工具集。
+  - [tool.lu](https://tool.lu/) - 开发者工具集。
+
+- 设计工具（Design Tools）
+  - [Boss 设计](https://www.bossdesign.cn/) - 收集国内外设计素材资源的网站。
+  - [Code My UI](https://codemyui.com/) - Web UI 设计相关的代码片段。
+  - [BGJar](https://bgjar.com/) - 在线 SVG 背景图生成。
+  - [Trianglify.io](https://trianglify.io/) - 生成三角网 SVG 背景图。
+  - [Hero Patterns](http://www.heropatterns.com/) - 一些 SVG 背景图。
+  - [Get Waves](https://getwaves.io/) - 生成波浪 SVG 背景图。
+  - [Cool Backgrounds](https://coolbackgrounds.io/) - 利用渐变，生成 PNG 背景图。
+  - [Gradient Magic](https://www.gradientmagic.com/) - CSS 渐变色背景。
+  - [hatchful](https://hatchful.shopify.com/) - logo 设计。
+  - [logofury](https://www.logofury.com/) - logo 设计。
+
+- 文档（Docs）
+  - [TIOBE Index](https://www.tiobe.com/tiobe-index/) - 编程语言全球排名。
+  - [DB-Engines](https://db-engines.com/) - 数据库排名信息。
+  - [Database of Database](https://dbdb.io/) - 聚合全球数据库信息。  
+  - [SOCODE.PRO](https://socode.pro/) - 快速搜索一些开发资源。
+  - [lib4dev](http://www.lib4dev.in/) - 开源库分类查询。
+  - [DevDocs](https://devdocs.io/) - 在线技术文档查询。
+
+- 编程技巧（Programming skills）
+  - [Code Cheatsheets](https://devhints.io/) - 脚本片段。
+  - [Bash Pitfalls](http://mywiki.wooledge.org/BashPitfalls) - 此页面汇总了 Bash 用户常犯的编程错误。
+  - [COMMANDLINEFU.COM](https://www.commandlinefu.com/commands/browse) - 汇集了很多优秀的、充满智慧的、简洁的命令行命令。
+  - [Perfection Kills](http://perfectionkills.com/)	
+  - [Hackr.io](https://hackr.io/) - 在线教程。				
+
+- 等宽字体（Monospaced Font）
+  - [Source Code Pro](https://github.com/adobe-fonts/source-code-pro) - 等宽字体，适合编程使用，**Adobe 出品，开源**。
+  - [JetBrains Mono](https://www.jetbrains.com/lp/mono/) - 等宽字体，适合编程使用，**JetBrains 出品，开源**。
+
+- 徽章图标服务（Badge Service）
+  - [Shields.IO](https://shields.io/)
+  - [NodeICO](https://nodei.co/)
+  - [Badgen](https://badgen.net/)
+  - [Version Badge](https://badge.fury.io/)
+  - [Badges](https://formidable.com/open-source/badges/)
+
+[`Go Top ↑`](#awesome-development-resources)
+
 ## 阅读
 
 *Developer-related journals, articles, news, etc.*
@@ -33,6 +102,29 @@
 
 - 出版商（Publisher）
   - [Cooperpress](https://cooperpress.com/) - 计算机技术相关杂志、网站。
+
+### 论坛
+
+*Some valuable developer forum websites, Q&A communities, etc.*
+
+- [Stack Overflow](https://stackoverflow.com/) - 全球程序员学习、分享，技术问答社区网站，**包含在 StackExchange 中**。
+- [StackShare](https://stackshare.io/) - 全球技术趋势分享讨论。
+- [DEV](https://dev.to/) - 开发者社区。
+- [Front-End Front](https://frontendfront.com/) - 前端开发人员社区。
+- [CNode 社区](https://cnodejs.org/) - CNode 社区由一批热爱 Node.js 技术的工程师发起，致力于 Node.js 的技术研究。
+- [Ruby China](https://ruby-china.org/) - 由众多爱好者共同维护的 Ruby 中文社区。
+- [V2EX](https://v2ex.com/) - 一个汇集各类奇妙好玩的话题和流行动向的网站。
+- [SegmentFault](https://segmentfault.com/) - 国内一个类似 Stack Overflow 的程序员技术学习，问答社区网站。
+- [w3schools](https://www.w3schools.com/) - 国外一个非常棒的 Web 技术学习资源网站。（须翻墙）
+- [w3school](http://www.w3school.com.cn/) - 国内一个仿国外 w3schools 的 Web 技术学习资源网站。
+- [菜鸟教程](http://www.runoob.com/) - 国内另一个仿国外 w3schools 的 Web 技术学习资源网站。
+- [掘金社区](https://juejin.im/) - 国内一个帮助开发者成长的社区，有很多优质的技术文章。
+- [掘金翻译计划](https://github.com/xitu/gold-miner) - 掘金翻译计划，可能是世界最大最好的英译中技术社区，最懂读者和译者的翻译平台。
+- [图灵社区](http://www.ituring.com.cn/) - 国内一个出版计算机类相关书籍的社区，外文书翻译质量非常高，拥有很好的用户口碑。
+- [慕课网](https://www.imooc.com/) - 国内一个提供计算机开发技术学习课程收费服务的网站，有大量免费优质学习资源。
+- [Linux 公社](https://www.linuxidc.com/) - 国内一个论坛，内有大量 Linux 相关资源。
+- [PaperWeekly](http://www.paperweekly.site/) - 一个推荐、解读、讨论和报道人工智能前沿论文成果的学术平台。
+- [前端资源网](http://www.fly63.com/) - Web 前端开发技术资源论坛。
 
 ### 期刊
 
@@ -80,71 +172,6 @@
 - [The Art of Command Line](https://github.com/jlevy/the-art-of-command-line) - 命令行的艺术，技巧。
 - [A successful Git branching model](https://nvie.com/posts/a-successful-git-branching-model/) - 一个成功的 Git 分支模型。
 - [Superhero.js](http://superherojs.com/) - 构建大型项目的一些技巧。
-
-[`Go Top ↑`](#awesome-development-resources)
-
-## 在线工具
-
-*Online tools.*
-
-- 在线编辑器（Online Editor）
-  - [JSON Editor Online](http://jsoneditoronline.org/) - 在线 JSON 编辑器。
-  - [CodeTable](https://code.hackerearth.com/)
-  - [JDoodle](https://www.jdoodle.com/)
-  - [IdeOne](https://ideone.com/)
-  - [OnlineGDB](https://www.onlinegdb.com/)
-  - [CodeMirror](https://codemirror.net/)
-
-- 工具（Tools）
-  - [IPAddress](https://www.ipaddress.com/) - 在线查询某个站点的 IP 地址。
-  - [FreeSSL](https://freessl.org/) - 免费 SSL 证书在线申请。
-  - [IKnowWhatYouDownload](https://iknowwhatyoudownload.com/) - 查看 IP 下载过的 BT 资源。
-  - [FastIcon](https://fasticon.sawirstudio.com/) - 在线快速生成 Android 与 IOS 应用图标。
-  - [Image Extractor](https://extract.pics/) - 导出公共网站的图片。
-  - [IPFS](https://ipfs.io/) - 全球分布式文件系统。
-    - ~~[i-Book.in](https://book.tstrs.me/) - 针对 IPFS 链接的搜索引擎。~~
-  - [Web-Scale UUID as a Service](https://uuid.rocks/) - 在线生成 uuid。
-  - [345Tool](https://www.345tool.com/) - 开发者工具集。
-  - [tool.lu](https://tool.lu/) - 开发者工具集。
-
-- 设计工具（Design Tools）
-  - [Boss 设计](https://www.bossdesign.cn/) - 收集国内外设计素材资源的网站。
-  - [Code My UI](https://codemyui.com/) - Web UI 设计相关的代码片段。
-  - [BGJar](https://bgjar.com/) - 在线 SVG 背景图生成。
-  - [Trianglify.io](https://trianglify.io/) - 生成三角网 SVG 背景图。
-  - [Hero Patterns](http://www.heropatterns.com/) - 一些 SVG 背景图。
-  - [Get Waves](https://getwaves.io/) - 生成波浪 SVG 背景图。
-  - [Cool Backgrounds](https://coolbackgrounds.io/) - 利用渐变，生成 PNG 背景图。
-  - [Gradient Magic](https://www.gradientmagic.com/) - CSS 渐变色背景。
-  - [hatchful](https://hatchful.shopify.com/) - logo 设计。
-  - [logofury](https://www.logofury.com/) - logo 设计。
-
-- 文档（Docs）
-  - [TIOBE Index](https://www.tiobe.com/tiobe-index/) - 编程语言全球排名。
-  - [DB-Engines](https://db-engines.com/) - 数据库排名信息。
-  - [Database of Database](https://dbdb.io/) - 聚合全球数据库信息。
-  - [StackShare](https://stackshare.io/) - 技术趋势分享。  
-  - [SOCODE.PRO](https://socode.pro/) - 快速搜索一些开发资源。
-  - [lib4dev](http://www.lib4dev.in/) - 开源库分类查询。
-  - [DevDocs](https://devdocs.io/) - 在线技术文档查询。
-
-- 编程技巧（Programming skills）
-  - [Code Cheatsheets](https://devhints.io/) - 脚本片段。
-  - [Bash Pitfalls](http://mywiki.wooledge.org/BashPitfalls) - 此页面汇总了 Bash 用户常犯的编程错误。
-  - [COMMANDLINEFU.COM](https://www.commandlinefu.com/commands/browse) - 汇集了很多优秀的、充满智慧的、简洁的命令行命令。
-  - [Perfection Kills](http://perfectionkills.com/)	
-  - [Hackr.io](https://hackr.io/) - 在线教程。				
-
-- 等宽字体（Monospaced Font）
-  - [Source Code Pro](https://github.com/adobe-fonts/source-code-pro) - 等宽字体，适合编程使用，**Adobe 出品，开源**。
-  - [JetBrains Mono](https://www.jetbrains.com/lp/mono/) - 等宽字体，适合编程使用，**JetBrains 出品，开源**。
-
-- 徽章图标服务（Badge Service）
-  - [Shields.IO](https://shields.io/)
-  - [NodeICO](https://nodei.co/)
-  - [Badgen](https://badgen.net/)
-  - [Version Badge](https://badge.fury.io/)
-  - [Badges](https://formidable.com/open-source/badges/)
 
 [`Go Top ↑`](#awesome-development-resources)
 
