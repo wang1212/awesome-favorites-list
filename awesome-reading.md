@@ -112,23 +112,6 @@
 
 *Computer technology and software development.*
 
-- [Stack Overflow](https://stackoverflow.com/) - 全球程序员学习、分享，技术问答社区网站，**包含在 StackExchange 中**。
-- [Front-End Front](https://frontendfront.com/) - 前端开发人员社区。
-- [CNode 社区](https://cnodejs.org/) - CNode 社区由一批热爱 Node.js 技术的工程师发起，致力于 Node.js 的技术研究。
-- [Ruby China](https://ruby-china.org/) - 由众多爱好者共同维护的 Ruby 中文社区。
-- [V2EX](https://v2ex.com/) - 一个汇集各类奇妙好玩的话题和流行动向的网站。
-- [SegmentFault](https://segmentfault.com/) - 国内一个类似 Stack Overflow 的程序员技术学习，问答社区网站。
-- [w3schools](https://www.w3schools.com/) - 国外一个非常棒的 Web 技术学习资源网站。（须翻墙）
-- [w3school](http://www.w3school.com.cn/) - 国内一个仿国外 w3schools 的 Web 技术学习资源网站。
-- [菜鸟教程](http://www.runoob.com/) - 国内另一个仿国外 w3schools 的 Web 技术学习资源网站。
-- [掘金社区](https://juejin.im/) - 国内一个帮助开发者成长的社区，有很多优质的技术文章。
-- [掘金翻译计划](https://github.com/xitu/gold-miner) - 掘金翻译计划，可能是世界最大最好的英译中技术社区，最懂读者和译者的翻译平台。
-- [图灵社区](http://www.ituring.com.cn/) - 国内一个出版计算机类相关书籍的社区，外文书翻译质量非常高，拥有很好的用户口碑。
-- [慕课网](https://www.imooc.com/) - 国内一个提供计算机开发技术学习课程收费服务的网站，有大量免费优质学习资源。
-- [Linux 公社](https://www.linuxidc.com/) - 国内一个论坛，内有大量 Linux 相关资源。
-- [PaperWeekly](http://www.paperweekly.site/) - 一个推荐、解读、讨论和报道人工智能前沿论文成果的学术平台。
-- [前端资源网](http://www.fly63.com/) - Web 前端开发技术资源论坛。
-
 ### 文学
 
 *Literature related forum sites.*
