@@ -25,7 +25,7 @@
   - [Node.js](awesome-nodejs.md)
   - [Python](awesome-python.md)
 - [更多（More）](#更多)
-- [贡献（Contribution）](#贡献)
+- [收藏原则（Collection Principle）](#收藏原则)
 
 ## 在线工具
 
@@ -52,15 +52,9 @@
 
 [`Go Top ↑`](#awesome-favorites-list)
 
-## 贡献
+## 收藏原则
 
-Welcome to contribute your favorite resources.
-
-这些资源大部分都是经过我自己实践过的，感觉不错，才收藏起来的！
-
-也欢迎大家贡献，提交 PR！
-
-遵循以下原则（Follow the following principles）：
+*所有收藏的资源都遵循以下原则（All collected resources follow the following principles）：*
 
 - （Quality resources）属于比较优质的资源；
 - （Practiced）尽可能是经过实践的；
