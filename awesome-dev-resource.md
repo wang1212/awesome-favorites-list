@@ -179,9 +179,10 @@
 
 *Command line tools.*
 
-- [The Fuck](https://github.com/nvbn/thefuck) - 命令行错误命令纠正工具。
-- [Ink](https://github.com/vadimdemedes/ink) - 用 React 开发命令行应用。
-- [sslh](https://github.com/yrutschle/sslh) - 实现端口复用。
+- [tldr](https://tldr.sh/) - 简化版的命令手册文档（Linux）。
+- [The Fuck](https://github.com/nvbn/thefuck) - 命令行错误命令纠正工具（Linux，及其它平台）。
+- [sslh](https://github.com/yrutschle/sslh) - 实现端口复用（Linux）。
+- [Ink](https://github.com/vadimdemedes/ink) - 用 React.js 开发命令行应用。
 
 [`Go Top ↑`](#awesome-development-resources)
 
