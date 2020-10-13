@@ -66,8 +66,9 @@
 
 （Recommend）推荐一个其它的很棒的收藏列表，:point_right: https://github.com/rehooks/awesome-react-hooks
 
+- [react-use](https://github.com/streamich/react-use) - 一套 hook 工具包。
 - [React Query](https://github.com/tannerlinsley/react-query) - 服务器端数据获取、缓存、异步更新。
-- [SWR](https://swr.now.sh/) - 用于远程数据获取的 Hook。
+- [SWR](https://swr.now.sh/) - 用于远程数据获取。
 - [React Hook Form](https://react-hook-form.com/) - 表单处理。
 - [useWorker](https://useworker.js.org/) - 使用 Web Worker 运行复杂任务，创建非阻塞 UI。
 - [React Adaptive Loading Hooks & Utilities](https://github.com/GoogleChromeLabs/react-adaptive-hooks) - 检测客户端的状态，例如网络状态、媒体支持等。
