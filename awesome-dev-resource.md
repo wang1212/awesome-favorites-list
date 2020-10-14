@@ -181,6 +181,7 @@
 
 - [tldr](https://tldr.sh/) - 简化版的命令手册文档（Linux）。
 - [The Fuck](https://github.com/nvbn/thefuck) - 命令行错误命令纠正工具（Linux，及其它平台）。
+- [ncdu](https://dev.yorhel.nl/ncdu) - 磁盘使用情况统计（Linux）。
 - [sslh](https://github.com/yrutschle/sslh) - 实现端口复用（Linux）。
 - [Ink](https://github.com/vadimdemedes/ink) - 用 React.js 开发命令行应用。
 
@@ -192,6 +193,7 @@
 
 - [DBeaver Community](https://dbeaver.io/) - 图形化数据库管理工具软件，**多平台支持，开源免费**。
 - [Cube.js](https://cube.dev/) - 开源的 Web 应用分析解决方案。
+- [screego](https://screego.net/#/) - 屏幕共享服务器。
 
 [`Go Top ↑`](#awesome-development-resources)
 
