@@ -237,6 +237,8 @@
   - [commander](https://github.com/tj/commander.js) - 简单的命令行接口。
   - [inquirer](https://github.com/SBoudrias/Inquirer.js) - 交互式命令行。
   - [chalk](https://github.com/chalk/chalk) - 终端输出字符串样式工具，支持全部的颜色。
+  - [blessed](https://github.com/chjj/blessed) - 高级终端接口库。
+    - [blessed-contrib](https://github.com/yaronn/blessed-contrib) - 仪表面板工具库。
 
 [`Go Top ↑`](#awesome-nodejs-list)
 
