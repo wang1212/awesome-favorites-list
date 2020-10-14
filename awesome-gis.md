@@ -151,6 +151,7 @@ _Available in browser（JavaScript）. **Tips:** Most of what is available in th
 
 - [Mapbox GL](https://docs.mapbox.com/mapbox-gl-js/overview/) - 基于 WebGL 技术的现代化地图引擎，**Mapbox 公司开发**。
   - [React Mapbox GL](https://uber.github.io/react-map-gl/) - 基于 React.js 集成了 MapBox GL 的实现，**Uber 公司维护**。
+  - [Open Font Glyphs for GL Styles](https://github.com/openmaptiles/fonts) - 开放的标记字体和图标源，无需 token 与 key。
 
 - [DECK.GL](https://deck.gl/) - 由 WebGL 驱动的大数据可视化框架，**Uber 公司开发**。
 
