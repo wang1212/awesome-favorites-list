@@ -173,6 +173,7 @@
 - [A successful Git branching model](https://nvie.com/posts/a-successful-git-branching-model/) - 一个成功的 Git 分支模型。
 - [Superhero.js](http://superherojs.com/) - 构建大型项目的一些技巧。
 - [Conflict-free Replicated Data Type](https://crdt.tech/) - 一种数据结构，可简化分布式数据存储系统和多用户应用程序。
+- [WebGL Guide](https://xem.github.io/articles/webgl-guide.html) - WebGL 技术指南。
 
 [`Go Top ↑`](#awesome-development-resources)
 
