@@ -172,8 +172,8 @@
   - [Listary](https://www.listary.com/) - 可快速搜索文件，打开应用软件，**个人用户免费**。
   - [Everything](https://www.voidtools.com/zh-cn/) - 文件快速搜索工具，**免费软件**。
   - [SpaceSniffer](http://www.uderzo.it/main_products/space_sniffer/index.html) - 磁盘扫描工具，可视化文件占比分析，**免费软件**。
-  - [QuickLook](https://pooi.moe/QuickLook/) - 文件内容预览工具，**开源软件**。
-  - [Clover](http://cn.ejie.me/) - 文件管理器类似浏览器的 Tab 功能，**免费软件，有广告**。
+  - [QuickLook](https://pooi.moe/QuickLook/) - 文件内容预览工具，界面美观，**开源软件**。
+  - [Seer](http://1218.io/) - 文件内容预览工具，界面较为简陋，**提供免费版本**。
 
 - 图片（Image）
   - [ImageGlass](https://imageglass.org/) - 非常轻量的图片浏览器，**开源软件**。
