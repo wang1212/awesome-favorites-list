@@ -74,6 +74,7 @@
   - [BEM Cheat Sheet](https://9elements.com/bem-cheat-sheet/)
 - [JavaScript Algorithms and Data Structures](https://github.com/trekhleb/javascript-algorithms) - 算法和数据结构。
 - [30 seconds](https://github.com/30-seconds) - 30 seconds 是一个系列，包含 JS、React.js、CSS 相关的编程技巧。
+- [typescript-cheatsheet](https://rmolinamir.github.io/typescript-cheatsheet/) - TypeScript 备忘单。
 
 [`Go Top ↑`](#awesome-web-front-end-list)
 
