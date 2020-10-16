@@ -573,6 +573,7 @@
 - [Framer Motion](https://www.framer.com/motion/) - 动画工具库。
 - [GSAP](https://greensock.com/) - 现代化的高性能动画工具库。
 - [Shifty](https://jeremyckahn.github.io/shifty/doc/index.html) - 轻量级、高性能的低级动画工具库。
+- [ts Particles](https://particles.matteobruni.it/) - 简单的粒子动画。
 
 [`Go Top ↑`](#awesome-web-front-end-list)
 
