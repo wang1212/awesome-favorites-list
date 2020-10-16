@@ -189,6 +189,7 @@
     - [Papa Parse](https://www.papaparse.com/)    
   - pdf
     - [PDF-LIB](https://pdf-lib.js.org/) - 解析和操作 PDF 文件。
+    - [PDFKit](http://pdfkit.org/) - 生成 PDF 文件。
   - xlsx
     - [exceljs](https://github.com/exceljs/exceljs) - 读、写 xlsx、csv 文件。
     - [xlsx](https://sheetjs.com/) - 读、写 xlsx、csv 文件（写功能部分特性不免费）。    
