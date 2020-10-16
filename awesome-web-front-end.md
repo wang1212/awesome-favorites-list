@@ -32,6 +32,9 @@
   - [组件库（Component Library）](#组件库)
   - [独立组件（Independent Components）](#独立组件)
 - [数据可视化（Data Visualization）](#数据可视化)
+  - [可视化工具（Visualization Tools）](#可视化工具)
+  - [图表（Chart）](#图表)
+  - [动画（Animation）](#动画)
 - [开发框架（Framework）](#开发框架)
 - [应用状态管理（Application State Management）](#应用状态管理)
 - [更多（More）](#更多)
@@ -343,22 +346,6 @@
   - [Fabric.js](http://fabricjs.com/) - 矢量绘图工具。
   - [Pencil.js](https://pencil.js.org/) - 2D 绘图库。
 
-- 动画（Animate）
-  - [Anime.js](https://animejs.com/) - 动画引擎，轻量的 JavaScript 动画工具库。
-  - [Velocity.js](http://velocityjs.org/) - 动画引擎，为元素提供动画效果。
-  - [mo.js](https://mojs.github.io/) - 丰富，强大的运动图形动画工具库。
-  - [KUTE.js](https://thednp.github.io/kute.js/) - 高性能动画引擎。
-  - [Popmotion](https://popmotion.io/) - 实用、灵活的 JavaScript 动画工具套件。
-  - [tween.js](https://createjs.com/tweenjs) - 动画工具库。
-  - [ScrollReveal](https://scrollrevealjs.org/) - 为滚动进入视区的元素提供动画效果。
-  - [lax.js](https://github.com/alexfoxy/laxxx) - 简单、轻量的工具库，创建平滑的滚动动画。
-  - [vivus.js](https://github.com/maxwellito/vivus) - 为 SVG 提供动画效果。
-  - [SVG.js](https://svgjs.com/) - 轻量级 SVG 动画库。
-  - [Typed.js](https://github.com/mattboldt/typed.js) - 为输入框输入提供动画效果。
-  - [Rough Notation](https://roughnotation.com/) - 为元素提供注释效果和动画。
-  - [Rellax](https://dixonandmoe.com/rellax/) - 元素滚动视差效果工具库。
-  - [Framer Motion](https://www.framer.com/motion/) - 动画工具库。
-
 - 二维码（QR Code）
   - [node-qrcode](https://github.com/soldair/node-qrcode) - 二维码生成。
   - [Awesome-qr.js](https://www.bitcat.cc/webapp/awesome-qr/index.html) - 个性化二维码生成。（:warning: 不再更新）
@@ -543,21 +530,49 @@
 
 *Data visualization libraries, such as chart libraries, 3D engines, etc.*
 
+### 可视化工具
+
+*Data visualization tool library.*
+
 - [D3](https://d3js.org/) - 可视化库，数据驱动的，非常著名，许多图表库基于此开发。
 - [three.js](https://threejs.org/) - 3D 动画库，强大的 JavaScript 3D 动画库。
 - [stackgl](http://stack.gl/) - WebGL 引擎。
 - [PixiJS](https://www.pixijs.com/) - 2D WebGL 渲染引擎，高性能。
-- [Chart.js](https://www.chartjs.org/) - 图表库，最流行的轻量级库。
-- [Frappe Charts](https://frappe.io/charts) - 图表库，基于 SVG 的高性能库。
-- [Frappe Gantt](https://frappe.io/gantt) - 图表库，甘特图。
-- [Echarts](http://echarts.apache.org/) - 图表库，国内百度团队开发，功能丰富。
-- [C3](https://c3js.org/) - 图表库，基于 D3.js 的可重用图表库。
-- [GSAP](https://greensock.com/) - 动画库，现代化的高性能动画工具库。
-- [Shifty](https://jeremyckahn.github.io/shifty/doc/index.html) - 动画库，轻量级、高性能的低级动画工具库。
 - [Textures.js](https://riccardoscalco.it/textures/) - 创建 SVG 模式。
-- [carbon-charts](https://carbon-design-system.github.io/carbon-charts/) - 图表库，遵循 Carbon 风格，**IBM 公司发布**。
-- [Plotly](https://plotly.com/javascript/) - 图表库，丰富的图表，支持金融、科学相关图表。
+
+### 图表
+
+*Chart library, such as line chart, column chart, etc.*
+
+- [Chart.js](https://www.chartjs.org/) - 最流行的轻量级库。
+- [Frappe Charts](https://frappe.io/charts) - 基于 SVG 的高性能库。
+- [Frappe Gantt](https://frappe.io/gantt) - 甘特图。
+- [Echarts](http://echarts.apache.org/) - 国内百度团队开发，功能丰富。
+- [C3](https://c3js.org/) - 基于 D3.js 的可重用图表库。
+- [carbon-charts](https://carbon-design-system.github.io/carbon-charts/) - 遵循 Carbon 风格，**IBM 公司发布**。
+- [Plotly](https://plotly.com/javascript/) - 丰富的图表，支持金融、科学相关图表。
 - [Apexcharts](https://apexcharts.com/) - 图表库。
+
+### 动画
+
+*Animation library, such as linear animation, inertial animation, etc.*
+
+- [Anime.js](https://animejs.com/) - 动画引擎，轻量的 JavaScript 动画工具库。
+- [Velocity.js](http://velocityjs.org/) - 动画引擎，为元素提供动画效果。
+- [mo.js](https://mojs.github.io/) - 丰富，强大的运动图形动画工具库。
+- [KUTE.js](https://thednp.github.io/kute.js/) - 高性能动画引擎。
+- [Popmotion](https://popmotion.io/) - 实用、灵活的 JavaScript 动画工具套件。
+- [tween.js](https://createjs.com/tweenjs) - 动画工具库。
+- [ScrollReveal](https://scrollrevealjs.org/) - 为滚动进入视区的元素提供动画效果。
+- [lax.js](https://github.com/alexfoxy/laxxx) - 简单、轻量的工具库，创建平滑的滚动动画。
+- [vivus.js](https://github.com/maxwellito/vivus) - 为 SVG 提供动画效果。
+- [SVG.js](https://svgjs.com/) - 轻量级 SVG 动画库。
+- [Typed.js](https://github.com/mattboldt/typed.js) - 为输入框输入提供动画效果。
+- [Rough Notation](https://roughnotation.com/) - 为元素提供注释效果和动画。
+- [Rellax](https://dixonandmoe.com/rellax/) - 元素滚动视差效果工具库。
+- [Framer Motion](https://www.framer.com/motion/) - 动画工具库。
+- [GSAP](https://greensock.com/) - 现代化的高性能动画工具库。
+- [Shifty](https://jeremyckahn.github.io/shifty/doc/index.html) - 轻量级、高性能的低级动画工具库。
 
 [`Go Top ↑`](#awesome-web-front-end-list)
 
