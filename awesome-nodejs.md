@@ -247,6 +247,8 @@
 
 *Database.*
 
+- [Knex.js](http://knexjs.org/) - SQL 生成器，支持 Node.js 与浏览器环境。
+
 - [mongodb](http://mongodb.github.io/node-mongodb-native/) - [MongoDB](https://www.mongodb.com/) 的 Node.js 驱动，**MongoDB 官方发布**。
   - [mongoose](https://mongoosejs.com/) - 对象文档映射（ODM），对 mongodb 的封装，提供模型 Schema，API 更简洁、易用。
   
@@ -260,9 +262,11 @@
 - [PostGraphile](https://www.graphile.org/postgraphile/) - 为已有的 PostgreSQL 数据库提供 GraphQL API 支持。
 
 - 对象关系映射（ORM）
-  - [TypeORM](https://typeorm.io/) - 可以运行在所有 JS 技术栈中的 ORM 库，支持主流数据库。
   - [Sequelize](https://sequelize.org/) - 基于 Promise 的 Node.js ORM 库，支持 Postgres, MySQL, MariaDB, SQLite 和 Microsoft SQL Server。
-  - [mikro-orm](https://github.com/mikro-orm/mikro-orm) - TypeScript ORM 库，支持 MongoDB, MySQL, MariaDB, PostgreSQL 和 SQLite。
+  - [TypeORM](https://typeorm.io/) - 可以运行在所有 JS 技术栈中的 ORM 库，支持主流数据库。
+  - [Objection.js](https://vincit.github.io/objection.js/) - 基于 `Knex.js` 构建。
+  - [Bookshelf](https://bookshelfjs.org/) - 基于 `Knex.js` 构建。
+  - [mikro-orm](https://mikro-orm.io/) - TypeScript ORM 库，支持 MongoDB, MySQL, MariaDB, PostgreSQL 和 SQLite。
 
 [`Go Top ↑`](#awesome-nodejs-list)
 
