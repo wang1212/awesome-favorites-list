@@ -476,7 +476,10 @@
   - [Flickity](https://flickity.metafizzy.co/)
   - [lory.js](http://loryjs.github.io/lory/)
   - [keen-slider](https://keen-slider.io/)
-  
+ 
+- Lightbox
+  - [GLightbox](https://github.com/biati-digital/glightbox)
+ 
 - 模态框（Modal box）
   - [SweetAlert](https://sweetalert.js.org/) - 浏览器 Alert 弹框的替代，更漂亮美观。（:warning: 不再更新）
   - [SweetAlert2](https://sweetalert2.github.io/) - SweetAlert 的继承者。
