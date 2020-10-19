@@ -187,6 +187,10 @@
   - [React Move](https://react-move-docs.netlify.app/)
   - [Renature](https://formidable.com/open-source/renature/) - 物理动画库。
 
+- 二维码（QR Code）
+  - [qrcode.react](https://github.com/zpao/qrcode.react)
+  - [react-qr-code](https://github.com/rosskhanas/react-qr-code)
+
 - 用户引导（User guided tours）
   - [React Joyride](https://react-joyride.com/)
   - [Reactour](https://reactour.js.org/)
@@ -194,10 +198,10 @@
 - 其它（Others）
   - [React PDF](https://projects.wojtekmaj.pl/react-pdf/) - pdf 文件预览组件。
   - [React-Toastify](https://fkhadra.github.io/react-toastify/) - 消息弹窗组件。
-  - [qrcode.react](https://github.com/zpao/qrcode.react) - 二维码组件。
   - [react-big-calendar](http://jquense.github.io/react-big-calendar/) - 事件日历，日程表组件。
   - [React Diagrams](https://projectstorm.gitbook.io/react-diagrams/) - 流程图组件。
   - [React Sortable Tree](https://github.com/frontend-collective/react-sortable-tree) - 树形列表，支持拖拽。
+  - [React Measure](https://github.com/souporserious/react-measure) - 组件尺寸测量。
 
 [`Go Top ↑`](#awesome-reactjs-list)
 
