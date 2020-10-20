@@ -109,10 +109,16 @@
 
 *File processing tools.*
 
+- 图片（Image）
+  - [iLoveIMG](https://www.iloveimg.com/zh-cn)
+  - [Img2Go](https://www.img2go.com/zh) - 图片处理，还包含 PDF、音频、视频、电子书、OCR 处理等工具。
+
 - PDF
+  - [iLovePDF](https://www.ilovepdf.com/zh-cn)
+  - [HiPDF](https://www.hipdf.cn/)
+  - [Smallpdf](https://smallpdf.com/cn)
+  - [PDF2Go](https://www.pdf2go.com/zh) - PDF 文件处理，还包含图片、音频、视频、电子书、OCR 处理等工具。
   - [DocTranslator](https://www.onlinedoctranslator.com/zh-CN/) - 在线文档翻译工具，以及 PDF 转 Word 无水印等。
-  - [HiPDF](https://www.hipdf.com/) - PDF 在线处理工具。
-  - [Smallpdf](https://smallpdf.com/cn) - PDF 在线处理工具，**提供 Chrome 扩展**。
 
 ### 代码编辑器
 
