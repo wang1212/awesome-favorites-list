@@ -36,6 +36,7 @@
 *Some official or unofficial technical reference documents.*
 
 - [Developer Roadmaps](https://roadmap.sh/) - 开发者路线图。
+- [Resources to learn Git](http://try.github.io/) - 学习 Git 的文档。
 
 [`Go Top ↑`](#awesome-development-resources)
 
