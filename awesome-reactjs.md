@@ -14,6 +14,7 @@
 
 *Resource navigation list.*
 
+- [技术参考文档（Technical Reference Document）](#技术参考文档)
 - [构建工具（Build Tools）](#构建工具)
 - [Hook](#hook)
 - [状态管理（Application State Management）](#状态管理)
@@ -24,6 +25,15 @@
 - [数据可视化（Data Visualization）](#数据可视化)
 - [优化方案（Application Optimization）](#优化方案)
 - [更多（More）](#更多)
+
+## 技术参考文档
+
+*Official and unofficial technical reference documents.*
+
+- [React Developer Roadmap](https://roadmap.sh/react) - React 开发者路线图参考。
+- [React Developer Roadmap](https://github.com/adam-golab/react-developer-roadmap) - React 开发者路线图参考。（:warning: 自 2019 年不再更新）
+
+[`Go Top ↑`](#awesome-reactjs-list)
 
 ## 构建工具
 
@@ -245,7 +255,6 @@
 
 *More other unclassified resources.*
 
-- [React Developer Roadmap](https://github.com/adam-golab/react-developer-roadmap) - React 开发者路线图参考。
 - [React Open Source Awards](https://osawards.com/react/) - React 开源项目奖，**非官方**。
 - [Proton Native](https://proton-native.js.org/#/) - 跨平台桌面端应用的 React.js 环境。
 - [Spectacle](https://formidable.com/open-source/spectacle/) - 基于 React.js 的演示文稿工具库。
