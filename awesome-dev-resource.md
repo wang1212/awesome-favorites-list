@@ -186,6 +186,7 @@
 - [ncdu](https://dev.yorhel.nl/ncdu) - 磁盘使用情况统计（Linux）。
 - [sslh](https://github.com/yrutschle/sslh) - 实现端口复用（Linux）。
 - [Ink](https://github.com/vadimdemedes/ink) - 用 React.js 开发命令行应用。
+- [glow](https://github.com/charmbracelet/glow) - 在命令行渲染 Markdown 文档。
 
 [`Go Top ↑`](#awesome-development-resources)
 
