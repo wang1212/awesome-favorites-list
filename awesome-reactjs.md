@@ -155,8 +155,9 @@
 *Independent UI components, only providing component modules that implement an interactive function.*
 
 - 表单（Form）
-  - [Formik](https://jaredpalmer.com/formik/)
-  - [React Select](https://react-select.com/) - 支持多选、自动完成、异步等。
+  - [Formik](https://jaredpalmer.com/formik/) - 表单自动验证，异步提交，提供 Hook API。
+  - [React Select](https://react-select.com/) - 支持多选、自动完成、异步搜索选项等。
+  - [React Autosuggest](http://react-autosuggest.js.org/) - 输入建议，自动完成功能。
 
 - 表格（Table）
   - [React Table](https://github.com/tannerlinsley/react-table)
