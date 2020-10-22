@@ -82,7 +82,7 @@
   - [SMACSS](http://smacss.com/)
 
 - 备忘单（Cheatsheet）
-  - [SJSJ](https://github.com/HugoGiraudel/SJSJ) - JavaScript 术语介绍。
+  - [SJSJ](http://jargon.js.org/) - JavaScript 术语介绍。
   - [Modern JS Cheatsheet](https://mbeaudru.github.io/modern-js-cheatsheet/) - 现代 JavaScript 概念要点。
   - [ECMAScript 6 — New Features: Overview & Comparison](http://es6-features.org/) - ES6 新特性与旧代码差异对比。
   - [typescript-cheatsheet](https://rmolinamir.github.io/typescript-cheatsheet/) - TypeScript 备忘单。
