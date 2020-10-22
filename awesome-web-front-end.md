@@ -83,7 +83,10 @@
 
 - [JavaScript Algorithms and Data Structures](https://github.com/trekhleb/javascript-algorithms) - 算法和数据结构。
 - [30 seconds](https://github.com/30-seconds) - 30 seconds 是一个系列，包含 JS、React.js、CSS 相关的编程技巧。
-- [typescript-cheatsheet](https://rmolinamir.github.io/typescript-cheatsheet/) - TypeScript 备忘单。
+
+- 备忘单（Cheatsheet）
+  - [Modern JS Cheatsheet](https://mbeaudru.github.io/modern-js-cheatsheet/) - 现代 JavaScript 概念要点。
+  - [typescript-cheatsheet](https://rmolinamir.github.io/typescript-cheatsheet/) - TypeScript 备忘单。
 
 [`Go Top ↑`](#awesome-web-front-end-list)
 
