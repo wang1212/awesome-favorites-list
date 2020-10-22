@@ -38,6 +38,7 @@
 - [The Book Of Secret Knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) - 开发资源工具清单。
 - [Developer Roadmaps](https://roadmap.sh/) - 开发者路线图。
 - [Resources to learn Git](http://try.github.io/) - 学习 Git 的文档。
+- [Google Engineering Practices Documentation](https://google.github.io/eng-practices/) - Google 工程实践文档。
 
 [`Go Top ↑`](#awesome-development-resources)
 
