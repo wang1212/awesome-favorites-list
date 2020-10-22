@@ -81,12 +81,17 @@
   - [OOCSS](https://github.com/stubbornella/oocss/wiki)
   - [SMACSS](http://smacss.com/)
 
+- 备忘单（Cheatsheet）
+  - [SJSJ](https://github.com/HugoGiraudel/SJSJ) - JavaScript 术语介绍。
+  - [Modern JS Cheatsheet](https://mbeaudru.github.io/modern-js-cheatsheet/) - 现代 JavaScript 概念要点。
+  - [ECMAScript 6 — New Features: Overview & Comparison](http://es6-features.org/) - ES6 新特性与旧代码差异对比。
+  - [typescript-cheatsheet](https://rmolinamir.github.io/typescript-cheatsheet/) - TypeScript 备忘单。
+
 - [JavaScript Algorithms and Data Structures](https://github.com/trekhleb/javascript-algorithms) - 算法和数据结构。
 - [30 seconds](https://github.com/30-seconds) - 30 seconds 是一个系列，包含 JS、React.js、CSS 相关的编程技巧。
-
-- 备忘单（Cheatsheet）
-  - [Modern JS Cheatsheet](https://mbeaudru.github.io/modern-js-cheatsheet/) - 现代 JavaScript 概念要点。
-  - [typescript-cheatsheet](https://rmolinamir.github.io/typescript-cheatsheet/) - TypeScript 备忘单。
+- [favorite JavaScript utilities](https://1loc.dev/) - JavaScript 编程技巧，一行代码。
+- [JS The Right Way](http://jstherightway.org/) - 一些 JavaScript 最佳实践。
+- [33 js concepts](https://github.com/leonardomso/33-js-concepts) - 包含了丰富的 JavaScript 相关的知识概念，学习资源。
 
 [`Go Top ↑`](#awesome-web-front-end-list)
 
@@ -278,10 +283,6 @@
 *JavaScript related online tools.*
 
 - [JSchallenger](https://www.jschallenger.com/) - 在线 JavaScript 编程训练。
-- [SJSJ](https://github.com/HugoGiraudel/SJSJ) - JavaScript 术语介绍。
-- [favorite JavaScript utilities](https://1loc.dev/) - JavaScript 编程技巧，一行代码。
-- [JS The Right Way](http://jstherightway.org/) - 一些 JavaScript 最佳实践。
-- [33 js concepts](https://github.com/leonardomso/33-js-concepts) - 包含了丰富的 JavaScript 相关的知识概念，学习资源。
 - [Javascript.FUN](https://www.javascript.fun/) - 在线网站，JS 开发资源集合。
 
 ### JS 工具库
