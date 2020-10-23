@@ -43,6 +43,7 @@
 - [JSON5 Specification](https://spec.json5.org/) - JSON5 数据格式规范，是对 JSON 格式的扩展，支持注释等特性。
 - [NDJSON Specification](http://ndjson.org/) - Newline Delimited JSON 数据格式规范。
 - [TypeScript](http://www.typescriptlang.org/) - JavaScript 的超集，强类型语言。
+  - [tsdoc](https://github.com/microsoft/tsdoc) - TypeScript 语言注释规范，**Microsoft 官方发布**。
   
 [`Go Top ↑`](#awesome-nodejs-list)
 
