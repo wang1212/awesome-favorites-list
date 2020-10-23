@@ -228,6 +228,9 @@
 
 - 无头浏览器（Headless Browser）
   - [puppeteer](https://github.com/puppeteer/puppeteer)
+  - [cypress](https://www.cypress.io/)
+  - [testcafe](https://devexpress.github.io/testcafe/)
+  - [Nightwatch.js](https://nightwatchjs.org/)
   - [Nightmare](http://www.nightmarejs.org/)
 
 - 系统组件（System Components）
