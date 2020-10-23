@@ -225,17 +225,17 @@
   
 - 图标（Icon）
   - [Bootstrap Icons](https://icons.getbootstrap.com/) - SVG 图标库，**Twitter 公司发布**。
+  - [Feather](https://feathericons.com/) - 简单漂亮的**开源图标**。
   - [Font Awesome](https://fontawesome.com/) - 提供了非常多的免费图标的库，使用率非常高。
+  - [IonIcons](https://ionicons.com) - ionic 框架团队制作的图标库。
   - [Material Icons](https://material.io/tools/icons/) - Material Design 风格的图标库，**Google 官方发布**。
   - [Material Design Icons](http://materialdesignicons.com/) - 遵循 Google Material Design 的图标库，**非官方**。
   - [material design palette](https://www.materialpalette.com/) - Google Material Design 设计工具，提供官方图标（Material Icons）下载，**非官方**。
   - [Fabric Icons](https://developer.microsoft.com/en-us/fabric#/styles/web/icons) - 微软官方提供的一套图标库，**Microsoft 官方发布**。
-  - [IonIcons](https://ionicons.com) - ionic 框架团队制作的图标库。
   - [Octicons](https://octicons.github.com/) - GitHub 官方制作的图标库，**GitHub 官方发布**。
   - [Spectrum Icons](https://spectrum.adobe.com/page/icons/) - Adobe Spectrum 设计系统图标，**Adobe 官方发布**。
   - [Forge Icons](https://icons.theforgesmith.com/) - SVG 图标库。
   - [Teenyicons](https://teenyicons.com/) - SVG 图标库。
-  - [Feather](https://feathericons.com/)
   - [Flat Icon](https://www.flaticon.com/)
   - [Icons8](https://icons8.com/) - 提供免费的图标设计工具。
 
