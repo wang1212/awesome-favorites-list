@@ -565,6 +565,8 @@
 - [carbon-charts](https://carbon-design-system.github.io/carbon-charts/) - 遵循 Carbon 风格，**IBM 公司发布**。
 - [Plotly](https://plotly.com/javascript/) - 丰富的图表，支持金融、科学相关图表。
 - [Apexcharts](https://apexcharts.com/) - 图表库。
+- [sigma.js](http://sigmajs.org/) - 图形网络库。
+- [Cytoscape.js](https://js.cytoscape.org/) - 用于可视化和分析的图论（网络）库。
 
 ### 动画
 
