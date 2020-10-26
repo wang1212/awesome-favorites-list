@@ -110,7 +110,9 @@
 
 *Developer-related journals, articles, news, etc.*
 
-- [List of Free Learning Resources](https://ebookfoundation.github.io/free-programming-books/)
+- 免费电子书（Free Books）
+  - [List of Free Learning Resources](https://ebookfoundation.github.io/free-programming-books/)
+  - [Programming Notes for Professionals books](https://goalkicker.com/)
 
 - 出版商（Publisher）
   - [Cooperpress](https://cooperpress.com/) - 计算机技术相关杂志、网站。
