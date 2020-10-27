@@ -283,7 +283,8 @@
 *JavaScript related online tools.*
 
 - [JSchallenger](https://www.jschallenger.com/) - 在线 JavaScript 编程训练。
-- [Javascript.FUN](https://www.javascript.fun/) - 在线网站，JS 开发资源集合。
+- [Javascript.FUN](https://www.javascript.fun/) - 在线网站，JavaScript 开发资源集合。
+- [JavaScripting](https://www.javascripting.com/) - JavaScript 库、插件、框架资源。
 
 ### JS 工具库
 
