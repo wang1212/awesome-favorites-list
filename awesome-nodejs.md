@@ -154,12 +154,21 @@
   - [uuid](https://github.com/uuidjs/uuid) - 生成随机 id。
   - [Neon](https://neon-bindings.com/) - Rust 的 Node.js 绑定，可用来编写快速、安全的原生模块。
   
+- 数据校验（Data Validation）
+  - [ajv](https://github.com/ajv-validator/ajv) - JSON Schema validator。
+  - [joi](https://joi.dev/)
+  - [yup](https://github.com/jquense/yup)
+  
 - 数据操作（Data Manipulation）
   - [Danfo.js](https://danfo.jsdata.org/) - 处理结构化数据的工具库，类似 Python 的 [Pandas](https://pandas.pydata.org/pandas-docs/stable/index.html)。
   
 - 时间日期（Date && Time）
   - [Day.js](https://day.js.org/) - 轻量级时间日期工具库。
   - [ms](https://github.com/vercel/ms) - 毫秒格式化工具。
+  
+- 数学计算（Compute - Math & High precision & Scientific Computing）
+  - [math.js](https://mathjs.org/) - 数学计算。
+  - [stdlib](https://stdlib.io/)
   
 - 二维码（QR Code）
   - [node-qrcode](https://github.com/soldair/node-qrcode) - 二维码生成。
@@ -201,10 +210,6 @@
   - image
     - [sharp](https://sharp.pixelplumbing.com/) - 图像处理，拉伸、缩放、色彩提取等等，底层使用 [libvips](https://libvips.github.io/libvips/)，无需安装其它依赖，开箱即用，效率更高。
     - [gm](http://aheckmann.github.io/gm/) - 图像处理，需先安装 [GraphicsMagick](http://www.graphicsmagick.org/) 或 [ImageMagick](https://imagemagick.org/index.php)。
-
-- 数学计算（Compute - Math & High precision & Scientific Computing）
-  - [math.js](https://mathjs.org/) - 数学计算。
-  - [stdlib](https://stdlib.io/)
 
 - HTTP 服务器（HTTP Server）
   - [http-server](https://github.com/http-party/http-server) - 可快速启动一个轻量的 http 服务器。
