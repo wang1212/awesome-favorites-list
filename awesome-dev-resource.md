@@ -28,6 +28,7 @@
 - [Semantic Versioning](https://semver.org/) - 语义化版本控制。
 - [SQL Style Guide](https://www.sqlstyle.guide/) - SQL 语句规范指南参考。
 - [Google Style Guides](https://google.github.io/styleguide/) - Google 代码风格指南。
+- [Google Engineering Practices Documentation](https://google.github.io/eng-practices/) - Google 工程实践文档。
 
 [`Go Top ↑`](#awesome-development-resources)
 
@@ -37,8 +38,12 @@
 
 - [The Book Of Secret Knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) - 开发资源工具清单。
 - [Developer Roadmaps](https://roadmap.sh/) - 开发者路线图。
+- [4Dev.tools](https://4dev.tools/) - Web 开发人员开发资源。
 - [Resources to learn Git](http://try.github.io/) - 学习 Git 的文档。
-- [Google Engineering Practices Documentation](https://google.github.io/eng-practices/) - Google 工程实践文档。
+- [lib4dev](http://www.lib4dev.in/) - 开源库分类查询。
+- [DevDocs](https://devdocs.io/) - 在线技术文档查询。
+- [SOCODE.PRO](https://socode.pro/) - 快速搜索一些开发资源。
+- [Database of Database](https://dbdb.io/) - 聚合全球数据库信息。
 
 [`Go Top ↑`](#awesome-development-resources)
 
@@ -84,14 +89,6 @@
   - [Gradient Magic](https://www.gradientmagic.com/) - CSS 渐变色背景。
   - [hatchful](https://hatchful.shopify.com/) - logo 设计。
   - [logofury](https://www.logofury.com/) - logo 设计。
-
-- 文档（Docs）
-  - [TIOBE Index](https://www.tiobe.com/tiobe-index/) - 编程语言全球排名。
-  - [DB-Engines](https://db-engines.com/) - 数据库排名信息。
-  - [Database of Database](https://dbdb.io/) - 聚合全球数据库信息。  
-  - [SOCODE.PRO](https://socode.pro/) - 快速搜索一些开发资源。
-  - [lib4dev](http://www.lib4dev.in/) - 开源库分类查询。
-  - [DevDocs](https://devdocs.io/) - 在线技术文档查询。
 
 - 编程技巧（Programming skills）
   - [Code Cheatsheets](https://devhints.io/) - 脚本片段。
@@ -231,5 +228,7 @@
 - [LibHunt](https://www.libhunt.com/) - 收集了各种库的网站。
 - [Linux Mint](https://www.linuxmint.com/) - 很 Cool 的 Linux 发行版。
 - [MSDN, I tell you](https://msdn.itellyou.cn/) - 微软 Windows 系统、Office 镜像文件下载。
+- [TIOBE Index](https://www.tiobe.com/tiobe-index/) - 编程语言全球排名。
+- [DB-Engines](https://db-engines.com/) - 数据库排名信息。
 
 [`Go Top ↑`](#awesome-development-resources)
