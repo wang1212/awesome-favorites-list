@@ -57,34 +57,25 @@
 
 *Daily tools, such as language translation, note application, etc.*
 
-- `Google 翻译` - 可在页面上进行实时翻译，**官方扩展**。
-- `Google Keep` - 类似便签的简单应用，**官方扩展**。
-- `Full Page Screen Capture` - 完整且可靠地捕获当前页面的屏幕截图，而无需请求任何额外权限！
-- `网页截图:注释&录屏` - 截屏工具。
-- `Infinity 新标签页(Pro)` - 让浏览器的新标签页可定制化。
-- ~~`Video Downloader professional` - 下载网站中的视频。~~
-- `LINE` - 日本即时通讯软件。
-- `skyZIP™ Proxy` - 网络代理。
-
-- 用户脚本管理器（userscript manager）
-  - [Tampermonkey](https://www.tampermonkey.net/) - 免费，基本支持所有浏览器。
-  - [Violentmonkey](https://violentmonkey.github.io/) - 开源的，基本支持所有浏览器。
-  - [Greasemonkey](https://addons.mozilla.org/en-US/firefox/addon/greasemonkey/) - 仅支持 FireFox。
-  
-- 用户脚本（userscript）
-  - [Greasy Fork](https://greasyfork.org/)
-  - [OpenUserJS](https://openuserjs.org/)
+- [Google 翻译](https://chrome.google.com/webstore/detail/google-translate/aapbdbdomjkkjkaonfhkkikfgjllcleb) - 可在页面上进行实时翻译，**官方扩展**。
+- [GoFullPage](https://chrome.google.com/webstore/detail/gofullpage-full-page-scre/fdpohaocaechififmbbbbbknoalclacl) - 截屏工具。
+- [Awesome Screenshot](https://chrome.google.com/webstore/detail/awesome-screenshot-screen/nlipoenfbbikpbjkfpfillcgkoblgpmj) - 截屏工具。
+- [FireShot](https://chrome.google.com/webstore/detail/take-webpage-screenshots/mcbpblocgmgfnpjjppndjkmgjaogfceg) - 截屏工具。
+- [Infinity 新标签页 (Pro)](https://chrome.google.com/webstore/detail/infinity-new-tab-pro/nnnkddnnlpamobajfibfdgfnbcnkgngh) - 让浏览器的新标签页可定制化。
+- [skyZIP™ Proxy](https://chrome.google.com/webstore/detail/skyzip-proxy/hbgknjagaclofapkgkeapamhmglnbphi) - 网络代理。
+- [Image Downloader](https://chrome.google.com/webstore/detail/image-downloader/cnpniohnfphhjihaiiggeabnkjhpaldj) - 网站图片批量下载。
 
 ### 开发工具
 
 *Development tools, very useful tools for developers.*
 
 - `Lighthouse` - 站点性能监测工具，可提供优化建议和报告，**官方扩展**。
-- `Wappalyzer` - 检测当前站点所使用到的 Web 开发技术，包括框架、库、服务器、编程语言等。
-- `WhatRuns` - 同上。
-- `WhatFont` - 检测网站中所使用到的字体。
-- `iFormatTool` - 用于查看 js、json、css 等源码时对其进行高亮、格式化、美化、压缩等操作。
-- `JSON-handle` - JSON 文档的浏览器和编辑器。
+- [Wappalyzer](https://chrome.google.com/webstore/detail/wappalyzer/gppongmhjkpfnbhagpmjfkannfbllamg) - 检测当前站点所使用到的 Web 开发技术，包括框架、库、服务器、编程语言等。
+- [WhatRuns](https://chrome.google.com/webstore/detail/whatruns/cmkdbmfndkfgebldhnkbfhlneefdaaip) - 同上。
+- [WhatFont](https://chrome.google.com/webstore/detail/whatfont/jabopobgcpjmedljpbcaablpmlmfcogm) - 检测网站中所使用到的字体。
+- [JSON-handle](https://chrome.google.com/webstore/detail/json-handle/iahnhfdhidomcpggpaimmmahffihkfnj) - JSON 文档的浏览器和编辑器。
+- [CSS Peeper](https://chrome.google.com/webstore/detail/css-peeper/mbnbehikldjhnfehhnaidhjhoofhpehk) - 页面 CSS 调试工具。
+- [Headless Recorder](https://chrome.google.com/webstore/detail/headless-recorder/djeegiggegleadkkbgopoonhjimgehda) - 录制页面交互，生成 JS 无头脚本代码。
 
 - GitHub - *Enhance the function of github.*
   - [Sourcegraph](https://about.sourcegraph.com/) - 代码搜索工具，提供源代码快速搜索，智能代码提示，代码审查等功能。
@@ -95,6 +86,23 @@
   - [Enhanced Github](https://github.com/softvar/enhanced-github) - 增强 GitHub 网站界面功能，显示仓库大小、每个文件的大小、下载链接和复制文件内容的按钮等。
   - [ZenHub for GitHub](https://github.com/marketplace/zenhub) - GitHub 项目管理工具。
   - [GitHub Dark](https://github.com/StylishThemes/GitHub-Dark) - GitHub 网站界面黑夜模式。
+
+### 用户脚本
+
+*userscript.*
+
+- 脚本管理器（userscript manager）
+  - [Tampermonkey](https://www.tampermonkey.net/) - 免费，基本支持所有浏览器。
+  - [Violentmonkey](https://violentmonkey.github.io/) - 开源的，基本支持所有浏览器。
+  - [Greasemonkey](https://addons.mozilla.org/en-US/firefox/addon/greasemonkey/) - 仅支持 FireFox。
+  
+- 脚本资源（userscript resources）
+  - [Greasy Fork](https://greasyfork.org/)
+  - [OpenUserJS](https://openuserjs.org/)
+
+- 脚本（userscript）
+  - [AC-baidu:重定向优化百度搜狗谷歌必应搜索_favicon_双列](https://greasyfork.org/zh-TW/scripts/14178-ac-baidu-%E9%87%8D%E5%AE%9A%E5%90%91%E4%BC%98%E5%8C%96%E7%99%BE%E5%BA%A6%E6%90%9C%E7%8B%97%E8%B0%B7%E6%AD%8C%E5%BF%85%E5%BA%94%E6%90%9C%E7%B4%A2-favicon-%E5%8F%8C%E5%88%97)
+  - [Github 增强 - 高速下载](https://greasyfork.org/zh-CN/scripts/412245-github-%E5%A2%9E%E5%BC%BA-%E9%AB%98%E9%80%9F%E4%B8%8B%E8%BD%BD)
 
 [`Go Top ↑`](#awesome-software)
 
