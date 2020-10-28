@@ -89,6 +89,7 @@
   - [Gradient Magic](https://www.gradientmagic.com/) - CSS 渐变色背景。
   - [hatchful](https://hatchful.shopify.com/) - logo 设计。
   - [logofury](https://www.logofury.com/) - logo 设计。
+  - [Free Favicon Maker](https://formito.com/tools/favicon) - SVG 图标制作。
 
 - 编程技巧（Programming skills）
   - [Code Cheatsheets](https://devhints.io/) - 脚本片段。
