@@ -42,7 +42,6 @@
 - [Resources to learn Git](http://try.github.io/) - 学习 Git 的文档。
 - [lib4dev](http://www.lib4dev.in/) - 开源库分类查询。
 - [DevDocs](https://devdocs.io/) - 在线技术文档查询。
-- [SOCODE.PRO](https://socode.pro/) - 快速搜索一些开发资源。
 - [Database of Database](https://dbdb.io/) - 聚合全球数据库信息。
 
 [`Go Top ↑`](#awesome-development-resources)
@@ -50,6 +49,21 @@
 ## 在线工具
 
 *Online tools.*
+
+- 实用工具（Tools）
+  - [SOCODE.PRO](https://socode.pro/) - 快速搜索开发文档，小工具等，**提供浏览器插件**。
+  - [IPAddress](https://www.ipaddress.com/) - 在线查询某个站点的 IP 地址。
+  - [FreeSSL](https://freessl.org/) - 免费 SSL 证书在线申请。
+  - [IKnowWhatYouDownload](https://iknowwhatyoudownload.com/) - 查看 IP 下载过的 BT 资源。
+  - [FastIcon](https://fasticon.sawirstudio.com/) - 在线快速生成 Android 与 IOS 应用图标。
+  - [Image Extractor](https://extract.pics/) - 导出公共网站的图片。
+  - [IPFS](https://ipfs.io/) - 全球分布式文件系统。
+    - ~~[i-Book.in](https://book.tstrs.me/) - 针对 IPFS 链接的搜索引擎。~~
+  - [Web-Scale UUID as a Service](https://uuid.rocks/) - 在线生成 uuid。  
+  - [345Tool](https://www.345tool.com/) - 开发者工具集。
+  - [tool.lu](https://tool.lu/) - 开发者工具集。
+  - [LibHunt](https://www.libhunt.com/) - 收集了各种库的网站。  
+  - [MSDN, I tell you](https://msdn.itellyou.cn/) - 微软 Windows 系统、Office 镜像文件下载。 
 
 - GitHub
   - [https://github.com.cnpmjs.org/](https://github.com.cnpmjs.org/) - GitHub 镜像网站。
@@ -65,18 +79,6 @@
   - [IdeOne](https://ideone.com/)
   - [OnlineGDB](https://www.onlinegdb.com/)
   - [CodeMirror](https://codemirror.net/)
-
-- 工具（Tools）
-  - [IPAddress](https://www.ipaddress.com/) - 在线查询某个站点的 IP 地址。
-  - [FreeSSL](https://freessl.org/) - 免费 SSL 证书在线申请。
-  - [IKnowWhatYouDownload](https://iknowwhatyoudownload.com/) - 查看 IP 下载过的 BT 资源。
-  - [FastIcon](https://fasticon.sawirstudio.com/) - 在线快速生成 Android 与 IOS 应用图标。
-  - [Image Extractor](https://extract.pics/) - 导出公共网站的图片。
-  - [IPFS](https://ipfs.io/) - 全球分布式文件系统。
-    - ~~[i-Book.in](https://book.tstrs.me/) - 针对 IPFS 链接的搜索引擎。~~
-  - [Web-Scale UUID as a Service](https://uuid.rocks/) - 在线生成 uuid。
-  - [345Tool](https://www.345tool.com/) - 开发者工具集。
-  - [tool.lu](https://tool.lu/) - 开发者工具集。
 
 - 设计工具（Design Tools）
   - [Boss 设计](https://www.bossdesign.cn/) - 收集国内外设计素材资源的网站。
@@ -226,9 +228,7 @@
 *More uncategorized resources.*
 
 - [Open Source Awards](https://osawards.com/) - 开源项目奖。
-- [LibHunt](https://www.libhunt.com/) - 收集了各种库的网站。
 - [Linux Mint](https://www.linuxmint.com/) - 很 Cool 的 Linux 发行版。
-- [MSDN, I tell you](https://msdn.itellyou.cn/) - 微软 Windows 系统、Office 镜像文件下载。
 - [TIOBE Index](https://www.tiobe.com/tiobe-index/) - 编程语言全球排名。
 - [DB-Engines](https://db-engines.com/) - 数据库排名信息。
 
