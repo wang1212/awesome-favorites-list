@@ -51,7 +51,7 @@
 
 > 访问 Chrome 扩展商店：:point_right: https://chrome.google.com/webstore/category/extensions
 
-*（Recommend）国内可访问的**非官方**扩展商店，:point_right: [Extfans](https://www.extfans.com/)*
+*（Recommend）国内可访问的**非官方**扩展商店，:point_right: [Extfans](https://www.extfans.com/) 或 [极简插件](https://chrome.zzzmh.cn/)*
 
 ### 日常工具
 
