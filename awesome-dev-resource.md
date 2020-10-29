@@ -42,7 +42,10 @@
 - [Resources to learn Git](http://try.github.io/) - 学习 Git 的文档。
 - [lib4dev](http://www.lib4dev.in/) - 开源库分类查询。
 - [DevDocs](https://devdocs.io/) - 在线技术文档查询。
+- [Code Cheatsheets](https://devhints.io/) - 备忘清单，脚本片段。
 - [Database of Database](https://dbdb.io/) - 聚合全球数据库信息。
+- [Bash Pitfalls](http://mywiki.wooledge.org/BashPitfalls) - 此页面汇总了 Bash 用户常犯的编程错误。
+- [COMMANDLINEFU.COM](https://www.commandlinefu.com/commands/browse) - 汇集了很多优秀的、充满智慧的、简洁的命令行命令。
 
 [`Go Top ↑`](#awesome-development-resources)
 
@@ -94,10 +97,6 @@
   - [Free Favicon Maker](https://formito.com/tools/favicon) - SVG 图标制作。
 
 - 编程技巧（Programming skills）
-  - [Code Cheatsheets](https://devhints.io/) - 脚本片段。
-  - [Bash Pitfalls](http://mywiki.wooledge.org/BashPitfalls) - 此页面汇总了 Bash 用户常犯的编程错误。
-  - [COMMANDLINEFU.COM](https://www.commandlinefu.com/commands/browse) - 汇集了很多优秀的、充满智慧的、简洁的命令行命令。
-  - [Perfection Kills](http://perfectionkills.com/)	
   - [Hackr.io](https://hackr.io/) - 在线教程。				
 
 - 等宽字体（Monospaced Font）
@@ -195,6 +194,7 @@
 - [Superhero.js](http://superherojs.com/) - 构建大型项目的一些技巧。
 - [Conflict-free Replicated Data Type](https://crdt.tech/) - 一种数据结构，可简化分布式数据存储系统和多用户应用程序。
 - [WebGL Guide](https://xem.github.io/articles/webgl-guide.html) - WebGL 技术指南。
+- [Perfection Kills](http://perfectionkills.com/)	
 
 [`Go Top ↑`](#awesome-development-resources)
 
