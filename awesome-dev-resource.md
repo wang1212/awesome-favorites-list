@@ -56,6 +56,7 @@
 - 实用工具（Tools）
   - [SOCODE.PRO](https://socode.pro/) - 快速搜索开发文档，小工具等，**提供浏览器插件**。
   - [IPAddress](https://www.ipaddress.com/) - 在线查询某个站点的 IP 地址。
+  - [Resolve.rs](https://resolve.rs/tools.html) - 查询本机 IP、DNS 服务器等。
   - [FreeSSL](https://freessl.org/) - 免费 SSL 证书在线申请。
   - [IKnowWhatYouDownload](https://iknowwhatyoudownload.com/) - 查看 IP 下载过的 BT 资源。
   - [FastIcon](https://fasticon.sawirstudio.com/) - 在线快速生成 Android 与 IOS 应用图标。
