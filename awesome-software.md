@@ -14,7 +14,6 @@
 - [浏览器端（Web && PWA）](#浏览器端)
 - [安卓端（Android）](#安卓端)
 - [桌面端（Desktop）](#桌面端)
-- [命令行工具（CLI Tools）](#命令行工具)
 - [更多（More）](#更多)
 
 ## 应用程序商店
@@ -135,16 +134,6 @@
   - [PDF2Go](https://www.pdf2go.com/zh) - PDF 文件处理，还包含图片、音频、视频、电子书、OCR 处理等工具。
   - [DocTranslator](https://www.onlinedoctranslator.com/zh-CN/) - 在线文档翻译工具，以及 PDF 转 Word 无水印等。
 
-### 代码编辑器
-
-*Online code editor.*
-
-- [CodeTable](https://code.hackerearth.com/)
-- [JDoodle](https://www.jdoodle.com/)
-- [IdeOne](https://ideone.com/)
-- [OnlineGDB](https://www.onlinegdb.com/)
-- [CodeMirror](https://codemirror.net/)
-
 [`Go Top ↑`](#awesome-software)
 
 ## 安卓端
@@ -236,77 +225,6 @@
 - [CPU-Z](https://www.cpuid.com/softwares/cpu-z.html) - CPU 检测工具。
 - [GPU-Z](https://www.techpowerup.com/gpuz/) - GPU 检测工具。
 
-### 软件开发
-
-*Software tools related to software development.*
-
-#### 代码编辑器/IDE 
-
-*Open source free IDE editor, and some commercial paid IDE.*
-
-- [VS Code](https://code.visualstudio.com/) - 一款轻量级开发工具，功能很强大，深受开发者的青睐，是 Web 前端开发者的工作利器，**开源软件**。
-- [Sublime Text](http://www.sublimetext.com/) - 一款开源的轻量级编辑器，功能很强大，是在 VS Code、Atom 出现之前最受开发者欢迎的编辑器。
-- [Eclipse](https://www.eclipse.org/) - 开源的重量级编辑器，功能非常强大，是 Java 开发者中使用最多的 IDE，**开源软件**。
-- [UltraEdit](https://www.ultraedit.com/) - 文本编辑器，功能强大，性能较好，**商业软件**。
-- [EmEditor](https://www.emeditor.com/) - 文本编辑器，功能强大，浏览大文件性能很好，**商业软件**。
-
-#### 源代码管理
-
-*Source code version management system and building tools.*
-
-- [Git](https://git-scm.com/) - 目前最受欢迎的，使用最广泛的分布式源代码版本控制工具。
-  - [GitHub](https://github.com/)
-  - [GitLab](https://about.gitlab.com/)
-  - [Bitbucket](https://bitbucket.org/)
-  - [Gitee](https://gitee.com/) - 码云，国内[开源中国](https://www.oschina.net/)推出。
-  - [Coding](https://coding.net/) - 目前由腾讯入股，体验相比刚开始变差，不建议使用。
-  - [Gitea](https://gitea.io/) - 提供跨平台的 Git 仓库托管平台搭建，开源。
-  - [Gogs](https://gogs.io/)
-  - [Sourcetree](https://www.sourcetreeapp.com/) - 免费的 Git 客户端，支持 Windows 和 Mac。
-  - [git-open](https://github.com/paulirish/git-open) - git 命令行工具，可直接在浏览器中打开仓库页面。
-
-- [Tortoise SVN](https://tortoisesvn.net/) - SVN 是一种传统的中心化管理的源代码版本控制工具，Tortoise SVN 提供了 GUI 来使用 SVN。
-
-#### 开发辅助工具
-
-*Developer assistance tools, including API management, remote login, and more.*
-
-- API 管理与测试（API Manage && Test）
-  - [Postman](https://www.getpostman.com/) - 一个非常棒的 API 管理工具。
-  - [Insomnia](https://insomnia.rest/) - API 接口测试工具。
-  
-- [WinSCP](https://winscp.net/) - 一个 Windows 环境下使用 SSH 的开源图形化 SFTP 客户端，同时支持 SCP 协议。
-- [PuTTY](https://www.putty.org/) - 一个集 Telnet、SSH、rlogin、纯 TCP 以及串行接口连接软件，配合 WinSCP 可以很好的远程管理 Linux 服务器。
-
-- USB Boot
-  - [Rufus](https://rufus.ie/)
-  - [WePE](http://www.wepe.com.cn/) - Windows PE 系统。
-  - Linux
-    - [Universal USB Installer](https://www.pendrivelinux.com/universal-usb-installer-easy-as-1-2-3/) - 可在 U 盘中安装 Linux 操作系统。
-    - [Multiboot USB Creator](https://www.pendrivelinux.com/yumi-multiboot-usb-creator/) - 可在 U 盘中**同时安装多个** Linux 发行版本。
-    - [UNetbootin](http://unetbootin.github.io/) - 制作 Linux Live USB。
-    - [Etcher](https://www.balena.io/etcher) - 制作 Linux Live USB。
-    - [LF](https://github.com/gokcehan/lf) - 终端文件管理工具命令包。
-    
-- 代码格式化（Code formatting）
-  - [Prettier](https://prettier.io/)
-  - [EditorConfig](https://editorconfig.org/)
-
-- Linux CLI Tools
-  - [Z-Shell](https://www.zsh.org/)
-    - [Oh My Zsh](https://ohmyz.sh/) - 管理 Z-Shell 配置的框架。
-
-- Windows CLI Tools
-  - [Git Bash](https://gitforwindows.org/)
-  - [MSYS2](https://www.msys2.org/) - 基于 Cygwin 和 MinGW-w64 对 MSYS 的重写，支持 Bash、Git 等更多特性。
-  - [MinGW](http://www.mingw.org/) - Minimalist GNU for Windows，不支持 POSIX。
-  - [Cygwin](http://www.cygwin.com/) - GNU 和开源工具的集合，支持 POSIX。
-  - [ConEmu](https://conemu.github.io/)
-  - [Clink](https://mridgers.github.io/clink/)
-  - [hyper](https://hyper.is/)
-  - [Cmder](https://cmder.net/) - 基于 ConEmu 和 Clink 特性，采用 Monokai 颜色主题，支持 Git 等。
-  - [Far Manager](https://www.farmanager.com/) - Windows 系统纯文本的文件管理器。
-
 ### 其它
 
 *Others.*
@@ -317,17 +235,6 @@
 - [Cleaver](http://jdan.github.io/cleaver/) - Markdown 文件生成幻灯片。
 - [mermaid](https://github.com/mermaid-js/mermaid) - txt 文件生成流程图。
 - [nodeppt](https://github.com/ksky521/nodeppt)
-
-[`Go Top ↑`](#awesome-software)
-
-## 命令行工具
-
-*Some command line tools without GUI.*
-
-- [Certbot](https://certbot.eff.org/) - 管理 [Let's Encrypt](https://letsencrypt.org/) 证书工具，为网站启用 HTTPS，**开源软件**。
-- [FFmpeg](http://ffmpeg.org/) - 命令行工具，完整的、跨平台的解决方案，用于记录、转换和流传输音频和视频，**开源软件**。
-- [aria2](https://aria2.github.io/) - 支持多协议、高速文件下载工具，**开源软件**。
-- [PhotoRec](https://www.cgsecurity.org/wiki/PhotoRec) - 文件数据恢复软件，**开源软件**。
 
 [`Go Top ↑`](#awesome-software)
 
