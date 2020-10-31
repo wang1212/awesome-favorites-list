@@ -233,6 +233,9 @@
   - [Socket.IO](http://socket.io/) - 基于事件的实时通信框架，提供客户端和服务器实现。
   - [ws](https://github.com/websockets/ws) - Node.js WebSocket 客户端和服务器。
 
+- 邮件（SMTP）
+  - [Nodemailer](https://nodemailer.com/) -邮件发送。
+
 - 无头浏览器（Headless Browser）
   - [puppeteer](https://github.com/puppeteer/puppeteer)
   - [cypress](https://www.cypress.io/)
