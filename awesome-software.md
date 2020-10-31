@@ -64,6 +64,7 @@
 - [Infinity 新标签页 (Pro)](https://chrome.google.com/webstore/detail/infinity-new-tab-pro/nnnkddnnlpamobajfibfdgfnbcnkgngh) - 让浏览器的新标签页可定制化。
 - [skyZIP™ Proxy](https://chrome.google.com/webstore/detail/skyzip-proxy/hbgknjagaclofapkgkeapamhmglnbphi) - 网络代理。
 - [Image Downloader](https://chrome.google.com/webstore/detail/image-downloader/cnpniohnfphhjihaiiggeabnkjhpaldj) - 网站图片批量下载。
+- [Cubox 收藏夹](https://chrome.google.com/webstore/detail/cubox-%E6%94%B6%E8%97%8F%E5%A4%B9/bflmgpechpeohjfomgfdkkfcbhfcjohl) - 网页收藏，提供 App 与网页版。
 
 ### 开发工具
 
@@ -112,6 +113,12 @@
 
 - [Speedtest](https://www.speedtest.net/) - 专业测速。
 - [excalidraw](https://excalidraw.com/) - 在线绘图板。
+
+### 日常工具
+
+*Daily tools.*
+
+- [Cubox 收藏夹](https://cubox.pro/) - 网页收藏。
 
 ### 文件处理
 
