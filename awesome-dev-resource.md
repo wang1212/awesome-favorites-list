@@ -12,12 +12,13 @@
 
 - [规范参考（Specification Reference）](#规范参考)
 - [技术参考文档（Technical Reference Document）](#技术参考文档)
-- [在线工具（Online Tools）](#在线工具)
 - [阅读（Reading）](#阅读)
   - [论坛（Forum）](#论坛)
   - [期刊（Journal）](#期刊)
   - [文章（Article）](#文章)
-- [命令行工具（CLI Tools）](#命令行工具)
+- [在线资源（Online Resources）](#在线资源)
+- [软件工具（Software Tools）](#软件工具)
+  - [命令行工具（CLI Tools）](#命令行工具)
 - [工具套件（Tool kit）](#工具套件)
 - [更多（More）](#更多)
 
@@ -46,70 +47,6 @@
 - [Database of Database](https://dbdb.io/) - 聚合全球数据库信息。
 - [Bash Pitfalls](http://mywiki.wooledge.org/BashPitfalls) - 此页面汇总了 Bash 用户常犯的编程错误。
 - [COMMANDLINEFU.COM](https://www.commandlinefu.com/commands/browse) - 汇集了很多优秀的、充满智慧的、简洁的命令行命令。
-
-[`Go Top ↑`](#awesome-development-resources)
-
-## 在线工具
-
-*Online tools.*
-
-- 实用工具（Tools）
-  - [SOCODE.PRO](https://socode.pro/) - 快速搜索开发文档，小工具等，**提供浏览器插件**。
-  - [IPAddress](https://www.ipaddress.com/) - 在线查询某个站点的 IP 地址。
-  - [Resolve.rs](https://resolve.rs/tools.html) - 查询本机 IP、DNS 服务器等。
-  - [FreeSSL](https://freessl.org/) - 免费 SSL 证书在线申请。
-  - [IKnowWhatYouDownload](https://iknowwhatyoudownload.com/) - 查看 IP 下载过的 BT 资源。
-  - [FastIcon](https://fasticon.sawirstudio.com/) - 在线快速生成 Android 与 IOS 应用图标。
-  - [Image Extractor](https://extract.pics/) - 导出公共网站的图片。
-  - [IPFS](https://ipfs.io/) - 全球分布式文件系统。
-    - ~~[i-Book.in](https://book.tstrs.me/) - 针对 IPFS 链接的搜索引擎。~~
-  - [Web-Scale UUID as a Service](https://uuid.rocks/) - 在线生成 uuid。  
-  - [345Tool](https://www.345tool.com/) - 开发者工具集。
-  - [tool.lu](https://tool.lu/) - 开发者工具集。
-  - [LibHunt](https://www.libhunt.com/) - 收集了各种库的网站。  
-  - [MSDN, I tell you](https://msdn.itellyou.cn/) - 微软 Windows 系统、Office 镜像文件下载。 
-
-- GitHub
-  - [https://github.com.cnpmjs.org/](https://github.com.cnpmjs.org/) - GitHub 镜像网站。
-  - [https://hub.fastgit.org/](https://hub.fastgit.org/) - GitHub 镜像网站。
-  - [GitClone](https://gitclone.com/) - GitHub 仓库缓存加速。
-  - [http://gitd.cc/](http://gitd.cc/) - 文件代下服务。
-  - [https://d.serctl.com/](https://d.serctl.com/) - 文件代下服务。
-
-- 在线编辑器（Online Editor）
-  - [JSON Editor Online](http://jsoneditoronline.org/) - 在线 JSON 编辑器。
-  - [CodeTable](https://code.hackerearth.com/)
-  - [JDoodle](https://www.jdoodle.com/)
-  - [IdeOne](https://ideone.com/)
-  - [OnlineGDB](https://www.onlinegdb.com/)
-  - [CodeMirror](https://codemirror.net/)
-
-- 设计工具（Design Tools）
-  - [Boss 设计](https://www.bossdesign.cn/) - 收集国内外设计素材资源的网站。
-  - [Code My UI](https://codemyui.com/) - Web UI 设计相关的代码片段。
-  - [BGJar](https://bgjar.com/) - 在线 SVG 背景图生成。
-  - [Trianglify.io](https://trianglify.io/) - 生成三角网 SVG 背景图。
-  - [Hero Patterns](http://www.heropatterns.com/) - 一些 SVG 背景图。
-  - [Get Waves](https://getwaves.io/) - 生成波浪 SVG 背景图。
-  - [Cool Backgrounds](https://coolbackgrounds.io/) - 利用渐变，生成 PNG 背景图。
-  - [Gradient Magic](https://www.gradientmagic.com/) - CSS 渐变色背景。
-  - [hatchful](https://hatchful.shopify.com/) - logo 设计。
-  - [logofury](https://www.logofury.com/) - logo 设计。
-  - [Free Favicon Maker](https://formito.com/tools/favicon) - SVG 图标制作。
-
-- 编程技巧（Programming skills）
-  - [Hackr.io](https://hackr.io/) - 在线教程。				
-
-- 等宽字体（Monospaced Font）
-  - [Source Code Pro](https://github.com/adobe-fonts/source-code-pro) - 等宽字体，适合编程使用，**Adobe 出品，开源**。
-  - [JetBrains Mono](https://www.jetbrains.com/lp/mono/) - 等宽字体，适合编程使用，**JetBrains 出品，开源**。
-
-- 徽章图标服务（Badge Service）
-  - [Shields.IO](https://shields.io/)
-  - [NodeICO](https://nodei.co/)
-  - [Badgen](https://badgen.net/)
-  - [Version Badge](https://badge.fury.io/)
-  - [Badges](https://formidable.com/open-source/badges/)
 
 [`Go Top ↑`](#awesome-development-resources)
 
@@ -199,9 +136,162 @@
 
 [`Go Top ↑`](#awesome-development-resources)
 
-## 命令行工具
+## 在线资源
+
+*Online Resources.*
+
+- 实用工具（Tools）
+  - [SOCODE.PRO](https://socode.pro/) - 快速搜索开发文档，小工具等，**提供浏览器插件**。
+  - [IPAddress](https://www.ipaddress.com/) - 在线查询某个站点的 IP 地址。
+  - [Resolve.rs](https://resolve.rs/tools.html) - 查询本机 IP、DNS 服务器等。
+  - [FreeSSL](https://freessl.org/) - 免费 SSL 证书在线申请。
+  - [IKnowWhatYouDownload](https://iknowwhatyoudownload.com/) - 查看 IP 下载过的 BT 资源。
+  - [FastIcon](https://fasticon.sawirstudio.com/) - 在线快速生成 Android 与 IOS 应用图标。
+  - [Image Extractor](https://extract.pics/) - 导出公共网站的图片。
+  - [IPFS](https://ipfs.io/) - 全球分布式文件系统。
+    - ~~[i-Book.in](https://book.tstrs.me/) - 针对 IPFS 链接的搜索引擎。~~
+  - [Web-Scale UUID as a Service](https://uuid.rocks/) - 在线生成 uuid。  
+  - [345Tool](https://www.345tool.com/) - 开发者工具集。
+  - [tool.lu](https://tool.lu/) - 开发者工具集。
+  - [LibHunt](https://www.libhunt.com/) - 收集了各种库的网站。  
+  - [MSDN, I tell you](https://msdn.itellyou.cn/) - 微软 Windows 系统、Office 镜像文件下载。 
+
+- GitHub
+  - [https://github.com.cnpmjs.org/](https://github.com.cnpmjs.org/) - GitHub 镜像网站。
+  - [https://hub.fastgit.org/](https://hub.fastgit.org/) - GitHub 镜像网站。
+  - [GitClone](https://gitclone.com/) - GitHub 仓库缓存加速。
+  - [http://gitd.cc/](http://gitd.cc/) - 文件代下服务。
+  - [https://d.serctl.com/](https://d.serctl.com/) - 文件代下服务。
+
+- 设计工具（Design Tools）
+  - [Boss 设计](https://www.bossdesign.cn/) - 收集国内外设计素材资源的网站。
+  - [Code My UI](https://codemyui.com/) - Web UI 设计相关的代码片段。
+  - [BGJar](https://bgjar.com/) - 在线 SVG 背景图生成。
+  - [Trianglify.io](https://trianglify.io/) - 生成三角网 SVG 背景图。
+  - [Hero Patterns](http://www.heropatterns.com/) - 一些 SVG 背景图。
+  - [Get Waves](https://getwaves.io/) - 生成波浪 SVG 背景图。
+  - [Cool Backgrounds](https://coolbackgrounds.io/) - 利用渐变，生成 PNG 背景图。
+  - [Gradient Magic](https://www.gradientmagic.com/) - CSS 渐变色背景。
+  - [hatchful](https://hatchful.shopify.com/) - logo 设计。
+  - [logofury](https://www.logofury.com/) - logo 设计。
+  - [Free Favicon Maker](https://formito.com/tools/favicon) - SVG 图标制作。
+
+- 编程技巧（Programming skills）
+  - [Hackr.io](https://hackr.io/) - 在线教程。				
+
+- 等宽字体（Monospaced Font）
+  - [Source Code Pro](https://github.com/adobe-fonts/source-code-pro) - 等宽字体，适合编程使用，**Adobe 出品，开源**。
+  - [JetBrains Mono](https://www.jetbrains.com/lp/mono/) - 等宽字体，适合编程使用，**JetBrains 出品，开源**。
+
+- 徽章图标服务（Badge Service）
+  - [Shields.IO](https://shields.io/)
+  - [NodeICO](https://nodei.co/)
+  - [Badgen](https://badgen.net/)
+  - [Version Badge](https://badge.fury.io/)
+  - [Badges](https://formidable.com/open-source/badges/)
+
+[`Go Top ↑`](#awesome-development-resources)
+
+## 软件工具
+
+*Software tools.*
+
+### 代码编辑器/IDE 
+
+*Open source free IDE editor, and some commercial paid IDE.*
+
+#### 在线编辑器（Online Editor）
+
+- [JSON Editor Online](http://jsoneditoronline.org/) - 在线 JSON 编辑器。
+- [CodeTable](https://code.hackerearth.com/)
+- [JDoodle](https://www.jdoodle.com/)
+- [IdeOne](https://ideone.com/)
+- [OnlineGDB](https://www.onlinegdb.com/)
+- [CodeMirror](https://codemirror.net/)
+
+#### 桌面端（Desktop Editor）
+
+- [VS Code](https://code.visualstudio.com/) - 一款轻量级开发工具，功能很强大，深受开发者的青睐，是 Web 前端开发者的工作利器，**开源软件**。
+- [Sublime Text](http://www.sublimetext.com/) - 一款开源的轻量级编辑器，功能很强大，是在 VS Code、Atom 出现之前最受开发者欢迎的编辑器。
+- [Eclipse](https://www.eclipse.org/) - 开源的重量级编辑器，功能非常强大，是 Java 开发者中使用最多的 IDE，**开源软件**。
+- [UltraEdit](https://www.ultraedit.com/) - 文本编辑器，功能强大，性能较好，**商业软件**。
+- [EmEditor](https://www.emeditor.com/) - 文本编辑器，功能强大，浏览大文件性能很好，**商业软件**。
+
+### 源代码管理
+
+*Source code version management system and building tools.*
+
+- [Git](https://git-scm.com/) - 目前最受欢迎的，使用最广泛的分布式源代码版本控制工具。
+  - [GitHub](https://github.com/)
+  - [GitLab](https://about.gitlab.com/)
+  - [Bitbucket](https://bitbucket.org/)
+  - [Gitee](https://gitee.com/) - 码云，国内[开源中国](https://www.oschina.net/)推出。
+  - [Coding](https://coding.net/) - 目前由腾讯入股，体验相比刚开始变差，不建议使用。
+  - [Gitea](https://gitea.io/) - 提供跨平台的 Git 仓库托管平台搭建，开源。
+  - [Gogs](https://gogs.io/)
+  - [Sourcetree](https://www.sourcetreeapp.com/) - 免费的 Git 客户端，支持 Windows 和 Mac。
+  - [git-open](https://github.com/paulirish/git-open) - git 命令行工具，可直接在浏览器中打开仓库页面。
+
+- [Tortoise SVN](https://tortoisesvn.net/) - SVN 是一种传统的中心化管理的源代码版本控制工具，Tortoise SVN 提供了 GUI 来使用 SVN。
+
+### API 文档管理
+
+*API document management and testing.*
+
+- [Postman](https://www.getpostman.com/) - 一个非常棒的 API 管理工具。
+- [Insomnia](https://insomnia.rest/) - API 接口测试工具。
+
+### 开发辅助工具
+
+*Developer assistance tools, including API management, remote login, and more.*
+
+- 代码格式化（Code formatting）
+  - [Prettier](https://prettier.io/)
+  - [EditorConfig](https://editorconfig.org/)
+
+#### 服务器远程管理
+
+*Server remote management tools, such as SSH client, etc.*
+
+- [WinSCP](https://winscp.net/) - 一个 Windows 环境下使用 SSH 的开源图形化 SFTP 客户端，同时支持 SCP 协议。
+- [PuTTY](https://www.putty.org/) - 一个集 Telnet、SSH、rlogin、纯 TCP 以及串行接口连接软件，配合 WinSCP 可以很好的远程管理 Linux 服务器。
+
+#### USB Boot
+
+*Make USB boot disk, maintain PE system.*
+
+- [Rufus](https://rufus.ie/)
+- [WePE](http://www.wepe.com.cn/) - Windows PE 系统。
+- Linux
+  - [Universal USB Installer](https://www.pendrivelinux.com/universal-usb-installer-easy-as-1-2-3/) - 可在 U 盘中安装 Linux 操作系统。
+  - [Multiboot USB Creator](https://www.pendrivelinux.com/yumi-multiboot-usb-creator/) - 可在 U 盘中**同时安装多个** Linux 发行版本。
+  - [UNetbootin](http://unetbootin.github.io/) - 制作 Linux Live USB。
+  - [Etcher](https://www.balena.io/etcher) - 制作 Linux Live USB。
+  - [LF](https://github.com/gokcehan/lf) - 终端文件管理工具命令包。
+
+[`Go Top ↑`](#awesome-development-resources)
+
+### 命令行工具
 
 *Command line tools.*
+
+#### Windows Platform
+
+*Used on Windows platform.*
+
+- [Git Bash](https://gitforwindows.org/)
+- [MSYS2](https://www.msys2.org/) - 基于 Cygwin 和 MinGW-w64 对 MSYS 的重写，支持 Bash、Git 等更多特性。
+- [MinGW](http://www.mingw.org/) - Minimalist GNU for Windows，不支持 POSIX。
+- [Cygwin](http://www.cygwin.com/) - GNU 和开源工具的集合，支持 POSIX。
+- [ConEmu](https://conemu.github.io/)
+- [Clink](https://mridgers.github.io/clink/)
+- [hyper](https://hyper.is/)
+- [Cmder](https://cmder.net/) - 基于 ConEmu 和 Clink 特性，采用 Monokai 颜色主题，支持 Git 等。
+- [Far Manager](https://www.farmanager.com/) - Windows 系统纯文本的文件管理器。
+
+#### 其它
+
+*Others.*
 
 - [tldr](https://tldr.sh/) - 简化版的命令手册文档（Linux）。
 - [The Fuck](https://github.com/nvbn/thefuck) - 命令行错误命令纠正工具（Linux，及其它平台）。
@@ -209,6 +299,12 @@
 - [sslh](https://github.com/yrutschle/sslh) - 实现端口复用（Linux）。
 - [Ink](https://github.com/vadimdemedes/ink) - 用 React.js 开发命令行应用。
 - [glow](https://github.com/charmbracelet/glow) - 在命令行渲染 Markdown 文档。
+- [Certbot](https://certbot.eff.org/) - 管理 [Let's Encrypt](https://letsencrypt.org/) 证书工具，为网站启用 HTTPS，**开源软件**。
+- [FFmpeg](http://ffmpeg.org/) - 命令行工具，完整的、跨平台的解决方案，用于记录、转换和流传输音频和视频，**开源软件**。
+- [aria2](https://aria2.github.io/) - 支持多协议、高速文件下载工具，**开源软件**。
+- [PhotoRec](https://www.cgsecurity.org/wiki/PhotoRec) - 文件数据恢复软件，**开源软件**。
+- [Z-Shell](https://www.zsh.org/)
+  - [Oh My Zsh](https://ohmyz.sh/) - 管理 Z-Shell 配置的框架。
 
 [`Go Top ↑`](#awesome-development-resources)
 
