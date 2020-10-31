@@ -18,8 +18,6 @@
   - [文章（Article）](#文章)
 - [在线资源（Online Resources）](#在线资源)
 - [软件工具（Software Tools）](#软件工具)
-  - [开发辅助工具（Development Aids）](#开发辅助工具)
-  - [命令行工具（CLI Tools）](#命令行工具)
 - [工具套件（Tool kit）](#工具套件)
 - [更多（More）](#更多)
 
@@ -242,14 +240,23 @@
 - [Postman](https://www.getpostman.com/) - 一个非常棒的 API 管理工具。
 - [Insomnia](https://insomnia.rest/) - API 接口测试工具。
 
+### 服务器远程管理
+
+*Server remote management tools, such as SSH client, etc.*
+
+- [WinSCP](https://winscp.net/) - 一个 Windows 环境下使用 SSH 的开源图形化 SFTP 客户端，同时支持 SCP 协议。
+- [PuTTY](https://www.putty.org/) - 一个集 Telnet、SSH、rlogin、纯 TCP 以及串行接口连接软件，配合 WinSCP 可以很好的远程管理 Linux 服务器。
+
 ### 开发辅助工具
 
 *Developer assistance tools, including API management, remote login, and more.*
 
-- 代码格式化（Code formatting）
-  - [Prettier](https://prettier.io/)
-  - [EditorConfig](https://editorconfig.org/)
+#### 代码格式化
 
+*Code formatting.*
+
+- [Prettier](https://prettier.io/)
+- [EditorConfig](https://editorconfig.org/)
 
 #### Chrome 扩展程序
 
@@ -271,13 +278,6 @@
   - [Enhanced Github](https://github.com/softvar/enhanced-github) - 增强 GitHub 网站界面功能，显示仓库大小、每个文件的大小、下载链接和复制文件内容的按钮等。
   - [ZenHub for GitHub](https://github.com/marketplace/zenhub) - GitHub 项目管理工具。
   - [GitHub Dark](https://github.com/StylishThemes/GitHub-Dark) - GitHub 网站界面黑夜模式。
-
-#### 服务器远程管理
-
-*Server remote management tools, such as SSH client, etc.*
-
-- [WinSCP](https://winscp.net/) - 一个 Windows 环境下使用 SSH 的开源图形化 SFTP 客户端，同时支持 SCP 协议。
-- [PuTTY](https://www.putty.org/) - 一个集 Telnet、SSH、rlogin、纯 TCP 以及串行接口连接软件，配合 WinSCP 可以很好的远程管理 Linux 服务器。
 
 #### USB Boot
 
