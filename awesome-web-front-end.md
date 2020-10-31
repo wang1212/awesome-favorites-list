@@ -238,6 +238,7 @@
   - [Teenyicons](https://teenyicons.com/) - SVG 图标库。
   - [Flat Icon](https://www.flaticon.com/)
   - [Icons8](https://icons8.com/) - 提供免费的图标设计工具。
+  - [Simple Icons](https://simpleicons.org/) - 免费的 SVG 品牌 logo 图标。
 
 ### CSS 工具库
 
@@ -329,6 +330,7 @@
   - [Tether](http://tether.io/) - 元素跟踪定位工具。
   - [popper.js](https://popper.js.org/) - 元素定位工具。
   - [screenfull.js](https://sindresorhus.com/screenfull.js/) - 跨浏览器的 `Fullscreen API`。
+  - [print.js](https://printjs.crabbly.com/) - 网页打印工具。
   
 - 事件（Event）
   - [Hammer.js](http://hammerjs.github.io/) - 支持移动端触摸事件，以及手势操作、多点触控。
@@ -494,11 +496,13 @@
 - 模态框（Modal box）
   - [SweetAlert](https://sweetalert.js.org/) - 浏览器 Alert 弹框的替代，更漂亮美观。（:warning: 不再更新）
   - [SweetAlert2](https://sweetalert2.github.io/) - SweetAlert 的继承者。
+  - [Noty](https://ned.im/noty/) - 浏览器 Alert 弹框的替代，提供动画效果。（:warning: 不再更新）
   
 - 图片浏览（Image Browse）
   - [Viewer.js](https://fengyuanchen.github.io/viewerjs/) - 图片列表预览。
   - [Image Compare Viewer](https://image-compare-viewer.netlify.app/) - 图片对比预览。
   - [Cropper.js](https://fengyuanchen.github.io/cropperjs/) - 图片裁剪。
+  - [Medium Zoom](https://medium-zoom.francoischalifour.com/) - 图片缩放预览。
 
 - 表格（Table）
   - [Grid.js](https://gridjs.io/) - 高级表格插件。
@@ -537,6 +541,7 @@
   - [PulltoRefresh](https://www.boxfactura.com/pulltorefresh.js/) - 下拉刷新。
   - [ztext.js](https://bennettfeely.com/ztext/) - 实现文字 3D 效果。
   - [Tweakpane](https://cocopon.github.io/tweakpane/) - 可快速创建跟踪值变化和调节的控制面板。
+  - [Holder.js](http://holderjs.com/) - 图像占位符。
 
 [`Go Top ↑`](#awesome-web-front-end-list)
 
@@ -553,6 +558,7 @@
 - [stackgl](http://stack.gl/) - WebGL 引擎。
 - [PixiJS](https://www.pixijs.com/) - 2D WebGL 渲染引擎，高性能。
 - [Textures.js](https://riccardoscalco.it/textures/) - 创建 SVG 模式。
+- [granim.js](https://sarcadass.github.io/granim.js/index.html) - 创建交互式渐变动画。
 
 ### 图表
 
