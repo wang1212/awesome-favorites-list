@@ -18,6 +18,7 @@
   - [文章（Article）](#文章)
 - [在线资源（Online Resources）](#在线资源)
 - [软件工具（Software Tools）](#软件工具)
+  - [开发辅助工具（Development Aids）](#开发辅助工具)
   - [命令行工具（CLI Tools）](#命令行工具)
 - [工具套件（Tool kit）](#工具套件)
 - [更多（More）](#更多)
@@ -248,6 +249,28 @@
 - 代码格式化（Code formatting）
   - [Prettier](https://prettier.io/)
   - [EditorConfig](https://editorconfig.org/)
+
+
+#### Chrome 扩展程序
+
+*Chrome extension.*
+
+- `Lighthouse` - 站点性能监测工具，可提供优化建议和报告，**官方扩展**。
+- [Wappalyzer](https://chrome.google.com/webstore/detail/wappalyzer/gppongmhjkpfnbhagpmjfkannfbllamg) - 检测当前站点所使用到的 Web 开发技术，包括框架、库、服务器、编程语言等。
+- [WhatRuns](https://chrome.google.com/webstore/detail/whatruns/cmkdbmfndkfgebldhnkbfhlneefdaaip) - 同上。
+- [WhatFont](https://chrome.google.com/webstore/detail/whatfont/jabopobgcpjmedljpbcaablpmlmfcogm) - 检测网站中所使用到的字体。
+- [JSON-handle](https://chrome.google.com/webstore/detail/json-handle/iahnhfdhidomcpggpaimmmahffihkfnj) - JSON 文档的浏览器和编辑器。
+- [CSS Peeper](https://chrome.google.com/webstore/detail/css-peeper/mbnbehikldjhnfehhnaidhjhoofhpehk) - 页面 CSS 调试工具。
+- [Headless Recorder](https://chrome.google.com/webstore/detail/headless-recorder/djeegiggegleadkkbgopoonhjimgehda) - 录制页面交互，生成 JS 无头脚本代码。
+- GitHub - *Enhance the function of github.*
+  - [Sourcegraph](https://about.sourcegraph.com/) - 代码搜索工具，提供源代码快速搜索，智能代码提示，代码审查等功能。
+  - [Refined GitHub](https://github.com/sindresorhus/refined-github) - 增强 GitHub 网站界面功能，在许多细节方面做了改进。
+  - [Octotree](https://www.octotree.io/) - 生成代码文件树，方便浏览仓库文件。
+  - [OctoLinker](https://octolinker.now.sh/) - 源代码中引用的依赖包信息预览，例如 `import`, `require` 语句。
+  - [File Icons for GitHub and GitLab](https://github.com/homerchen19/github-file-icons) - 为 GitHub、Gitlab、Bitbucket、gitea 和 gogs 网站提供不同类型文件的图标。
+  - [Enhanced Github](https://github.com/softvar/enhanced-github) - 增强 GitHub 网站界面功能，显示仓库大小、每个文件的大小、下载链接和复制文件内容的按钮等。
+  - [ZenHub for GitHub](https://github.com/marketplace/zenhub) - GitHub 项目管理工具。
+  - [GitHub Dark](https://github.com/StylishThemes/GitHub-Dark) - GitHub 网站界面黑夜模式。
 
 #### 服务器远程管理
 
