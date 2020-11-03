@@ -139,6 +139,9 @@
 
 *Online Resources.*
 
+- 公共 API
+  - [OpenWeather](https://openweathermap.org/) - 全球城市天气预报。
+  
 - 实用工具（Tools）
   - [SOCODE.PRO](https://socode.pro/) - 快速搜索开发文档，小工具等，**提供浏览器插件**。
   - [IPAddress](https://www.ipaddress.com/) - 在线查询某个站点的 IP 地址。
@@ -174,6 +177,8 @@
   - [hatchful](https://hatchful.shopify.com/) - logo 设计。
   - [logofury](https://www.logofury.com/) - logo 设计。
   - [Free Favicon Maker](https://formito.com/tools/favicon) - SVG 图标制作。
+  - [unDraw](https://undraw.co/) - 免费插画。
+  - [Awesome illustrations](https://stories.freepik.com/) - 免费插画。
 
 - 编程技巧（Programming skills）
   - [Hackr.io](https://hackr.io/) - 在线教程。				
