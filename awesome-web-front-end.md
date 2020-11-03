@@ -331,6 +331,7 @@
   - [popper.js](https://popper.js.org/) - 元素定位工具。
   - [screenfull.js](https://sindresorhus.com/screenfull.js/) - 跨浏览器的 `Fullscreen API`。
   - [print.js](https://printjs.crabbly.com/) - 网页打印工具。
+  - [Smooth Scrollbar](https://idiotwu.github.io/smooth-scrollbar/) - 为元素添加平滑的惯性滚动效果。  
   
 - 事件（Event）
   - [Hammer.js](http://hammerjs.github.io/) - 支持移动端触摸事件，以及手势操作、多点触控。
@@ -478,9 +479,10 @@
 
 *Independent UI components, only providing component modules that implement an interactive function.*
 
-- 时间日期选择器（DatePicker & TimePicker）
-  - [flatpickr](https://flatpickr.js.org/)
-  - [layDate](https://www.layui.com/laydate/)
+- 表单组件（Form）
+  - [Cleave.js](https://nosir.github.io/cleave.js/) - 格式化输入框。
+  - [flatpickr](https://flatpickr.js.org/) - 时间日期选择器。
+  - [layDate](https://www.layui.com/laydate/) - 时间日期选择器。
 
 - 轮播（Carousel）
   - [Swiper](https://swiperjs.com/)
@@ -534,12 +536,10 @@
   - [TOAST UI Calendar](https://github.com/nhn/tui.calendar) - 强大的日历日程组件。
   - [FullCalendar](https://fullcalendar.io/) - 日历日程组件。
   - [reveal.js](https://revealjs.com/) - 创建漂亮的演示文稿（幻灯片）。
-  - [Cleave.js](https://nosir.github.io/cleave.js/) - 格式化输入框内容。
   - [TOAST UI Editor](https://ui.toast.com/tui-editor/) - 所见即所得编辑器。
   - [fullPage](https://alvarotrigo.com/fullPage/) - 全屏滚动页面。
   - [mailgo](https://mailgo.dev/) - 邮件和电话系统行为。
   - [PulltoRefresh](https://www.boxfactura.com/pulltorefresh.js/) - 下拉刷新。
-  - [ztext.js](https://bennettfeely.com/ztext/) - 实现文字 3D 效果。
   - [Tweakpane](https://cocopon.github.io/tweakpane/) - 可快速创建跟踪值变化和调节的控制面板。
   - [Holder.js](http://holderjs.com/) - 图像占位符。
 
@@ -558,7 +558,8 @@
 - [stackgl](http://stack.gl/) - WebGL 引擎。
 - [PixiJS](https://www.pixijs.com/) - 2D WebGL 渲染引擎，高性能。
 - [Textures.js](https://riccardoscalco.it/textures/) - 创建 SVG 模式。
-- [granim.js](https://sarcadass.github.io/granim.js/index.html) - 创建交互式渐变动画。
+- [ztext.js](https://bennettfeely.com/ztext/) - 实现文字 3D 效果。
+- [FilterizR](https://yiotis.net/filterizr/) - 过滤搜索动画。
 
 ### 图表
 
@@ -596,6 +597,9 @@
 - [GSAP](https://greensock.com/) - 现代化的高性能动画工具库。
 - [Shifty](https://jeremyckahn.github.io/shifty/doc/index.html) - 轻量级、高性能的低级动画工具库。
 - [ts Particles](https://particles.matteobruni.it/) - 简单的粒子动画。
+- [particles.js](https://vincentgarreau.com/particles.js/) - 轻量的粒子动画库。
+- [CountUp.js](https://inorganik.github.io/countUp.js/) - 数字文本动画。
+- [granim.js](https://sarcadass.github.io/granim.js/index.html) - 创建交互式渐变动画。
 
 [`Go Top ↑`](#awesome-web-front-end-list)
 
