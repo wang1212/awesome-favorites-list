@@ -167,6 +167,7 @@
 
 - 设计工具（Design Tools）
   - [Boss 设计](https://www.bossdesign.cn/) - 收集国内外设计素材资源的网站。
+  - [设计导航](http://hao.shejidaren.com/index.html) - 设计资源网站导航。
   - [Code My UI](https://codemyui.com/) - Web UI 设计相关的代码片段。
   - [BGJar](https://bgjar.com/) - 在线 SVG 背景图生成。
   - [Trianglify.io](https://trianglify.io/) - 生成三角网 SVG 背景图。
@@ -177,8 +178,8 @@
   - [hatchful](https://hatchful.shopify.com/) - logo 设计。
   - [logofury](https://www.logofury.com/) - logo 设计。
   - [Free Favicon Maker](https://formito.com/tools/favicon) - SVG 图标制作。
-  - [unDraw](https://undraw.co/) - 免费插画。
-  - [Awesome illustrations](https://stories.freepik.com/) - 免费插画。
+  - [unDraw](https://undraw.co/) - 插画素材，**免费下载**。
+  - [Awesome illustrations](https://stories.freepik.com/) - 插画素材，**免费下载**。
 
 - 编程技巧（Programming skills）
   - [Hackr.io](https://hackr.io/) - 在线教程。				
