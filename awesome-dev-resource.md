@@ -178,8 +178,17 @@
   - [hatchful](https://hatchful.shopify.com/) - logo 设计。
   - [logofury](https://www.logofury.com/) - logo 设计。
   - [Free Favicon Maker](https://formito.com/tools/favicon) - SVG 图标制作。
-  - [unDraw](https://undraw.co/) - 插画素材，**免费下载**。
+  - [unDraw](https://undraw.co/) - 插画素材，扁平风格，**免费下载、开源**。
+  - [Open Doodles](https://www.opendoodles.com/) - 插画素材，**免费下载、开源**。
+  - [Open source illustrations kit](https://illlustrations.co/) - 插画素材，**免费下载、开源**。
+  - [Lukasz Adam Free Illustrations](https://lukaszadam.com/illustrations) - 插画素材，**免费下载、开源**。
+  - [Ouch](https://icons8.com/ouch) - 插画素材，**免费下载，Icons8 提供**。
+  - [DrawKit](https://www.drawkit.io/)- 插画素材，矢量图标，**免费下载**。
   - [Awesome illustrations](https://stories.freepik.com/) - 插画素材，**免费下载**。
+  - [Delesign](https://delesign.com/free-designs/graphics)- 插画素材，矢量图标，**免费下载**。
+  - [Gallery.Manypixels](https://www.manypixels.co/gallery/) - 插画素材，**免费下载**。
+  - [Vecteezy](https://www.vecteezy.com/) - 图片素材。
+  - [MixKit ](https://mixkit.co/free-stock-art/) - 图片素材。
 
 - 编程技巧（Programming skills）
   - [Hackr.io](https://hackr.io/) - 在线教程。				
