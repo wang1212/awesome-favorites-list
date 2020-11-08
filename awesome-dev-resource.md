@@ -203,6 +203,7 @@
   - [Badgen](https://badgen.net/)
   - [Version Badge](https://badge.fury.io/)
   - [Badges](https://formidable.com/open-source/badges/)
+  - [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats) - 显示 GitHub 仓库统计信息。
 
 [`Go Top ↑`](#awesome-development-resources)
 
