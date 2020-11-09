@@ -44,6 +44,7 @@
 
 - 调试（Debug）
   - [React DevTools](https://github.com/facebook/react/blob/master/packages/react-devtools) - React 应用的调试工具，可以作为 Chrome 扩展使用，**React 官方发布**。
+  - [Reactime](https://reactime.io/) - 调试工具，组件快照记录，Chrome 扩展。
   - [React Sight](https://www.reactsight.com/) - 调试工具，可视化组件树，Chrome 扩展。
 
 - 构建（Build）
