@@ -86,6 +86,7 @@
   - [Modern JS Cheatsheet](https://mbeaudru.github.io/modern-js-cheatsheet/) - 现代 JavaScript 概念要点。
   - [ECMAScript 6 — New Features: Overview & Comparison](http://es6-features.org/) - ES6 新特性与旧代码差异对比。
   - [typescript-cheatsheet](https://rmolinamir.github.io/typescript-cheatsheet/) - TypeScript 备忘单。
+  - [What the f\*ck JavaScript?](https://github.com/denysdovhan/wtfjs) - JavaScript 中有趣且易错的要点。
 
 - [JavaScript Algorithms and Data Structures](https://github.com/trekhleb/javascript-algorithms) - 算法和数据结构。
 - [30 seconds](https://github.com/30-seconds) - 30 seconds 是一个系列，包含 JS、React.js、CSS 相关的编程技巧。
