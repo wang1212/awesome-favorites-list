@@ -345,6 +345,7 @@
 - [PhotoRec](https://www.cgsecurity.org/wiki/PhotoRec) - 文件数据恢复软件，**开源软件**。
 - [Z-Shell](https://www.zsh.org/)
   - [Oh My Zsh](https://ohmyz.sh/) - 管理 Z-Shell 配置的框架。
+- [gron](https://github.com/tomnomnom/gron) - 使 JSON 数据更易读。
 
 [`Go Top ↑`](#awesome-development-resources)
 
