@@ -575,6 +575,7 @@
 - [Apexcharts](https://apexcharts.com/) - 图表库。
 - [sigma.js](http://sigmajs.org/) - 图形网络库。
 - [Cytoscape.js](https://js.cytoscape.org/) - 用于可视化和分析的图论（网络）库。
+- [uPlot](https://github.com/leeoniya/uPlot) - 快速、轻量级的图标库。
 
 ### 动画
 
