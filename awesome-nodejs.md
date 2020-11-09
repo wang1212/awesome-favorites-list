@@ -80,6 +80,7 @@
 - 包开发（Package Development）
   - [Rollup](http://rollupjs.org/) - 打包工具，适合开发库、框架。
   - [np](https://github.com/sindresorhus/np) - `npm publish` 的替代工具库，让发布更优雅、安全，**非官方**。
+  - [Denoify](https://github.com/garronej/denoify) - 为 npm 模块作者提供 Deno 支持。
 
 - 工具（Tools）
   - [nrm](https://github.com/Pana/nrm) - npm 换源，**非官方**。
