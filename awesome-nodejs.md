@@ -235,7 +235,8 @@
   - [ws](https://github.com/websockets/ws) - Node.js WebSocket 客户端和服务器。
 
 - 邮件（SMTP）
-  - [Nodemailer](https://nodemailer.com/) -邮件发送。
+  - [Nodemailer](https://nodemailer.com/) - 邮件发送。
+  - [mailgen](https://github.com/eladnava/mailgen) - 生成响应式 HTML 电子邮件模版。
 
 - 无头浏览器（Headless Browser）
   - [puppeteer](https://github.com/puppeteer/puppeteer)
