@@ -106,9 +106,15 @@
   - 编译器（Compiler）
     - [Babel](https://babeljs.io/) - 编译工具，可将 TypeScript、ES6/7/8 代码编译为 JavaScript（ES5） 代码。
     - [TS Node](https://github.com/TypeStrong/ts-node) - Node.js 的 TypeScript 语言运行器和交互式解释器。
+    - [Neon](https://neon-bindings.com/) - Rust 的 Node.js 绑定，可用来编写快速、安全的原生模块。
   - Node 应用（Node App）
     - [nodemon](https://nodemon.io) - 提供 Node.js 开发时热重载机制。
     - [node-dev](https://github.com/fgnass/node-dev) - 热重载。
+  - 其它（Others）
+    - [esm](https://github.com/standard-things/esm) - 能够为 `.js` 文件提供 [ECMAScript Modules](https://tc39.es/ecma262/#sec-modules) 支持。
+    - [envinfo](https://github.com/tabrindle/envinfo) - 生成开发环境信息报告。
+    - [Madge](https://github.com/pahen/madge) - 生成可视化的模块依赖图。
+    - [web-worker](https://github.com/developit/web-worker) - 在浏览器和 Node.js 环境中实现一致的 Web Worker API。
 
 - 文档（Doc）
   - [tldr](https://github.com/tldr-pages/tldr) - Unix 系统的 man pages 文档简化版本，更清晰易懂。
@@ -147,13 +153,12 @@
   - [Lodash](https://lodash.com/) - JavaScript 的工具函数库，参考自 Underscore，功能更丰富。
   - [Ramda](https://ramdajs.com/) - JavaScript 的工具函数库，适用于函数式编程。
   - [RxJS](https://rxjs.dev/) - 响应式编程（Reactive Extensions）的 JavaScript 实现，对异步数据集合处理很方便。
-  - [Madge](https://github.com/pahen/madge) - 生成可视化的模块依赖图。
-  - [esm](https://github.com/standard-things/esm) - 能够为 `.js` 文件提供 [ECMAScript Modules](https://tc39.es/ecma262/#sec-modules) 支持。
-  - [envinfo](https://github.com/tabrindle/envinfo) - 生成开发环境信息报告。
-  - [web-worker](https://github.com/developit/web-worker) - 在浏览器和 Node.js 环境中实现一致的 Web Worker API。
   - [tslog](https://tslog.js.org/) - 日志格式化。
   - [uuid](https://github.com/uuidjs/uuid) - 生成随机 id。
-  - [Neon](https://neon-bindings.com/) - Rust 的 Node.js 绑定，可用来编写快速、安全的原生模块。
+  
+- 时间日期（Date && Time）
+  - [Day.js](https://day.js.org/) - 轻量级时间日期工具库。
+  - [ms](https://github.com/vercel/ms) - 毫秒格式化工具。
   
 - 数据校验（Data Validation）
   - [ajv](https://github.com/ajv-validator/ajv) - JSON Schema validator。
@@ -163,9 +168,8 @@
 - 数据操作（Data Manipulation）
   - [Danfo.js](https://danfo.jsdata.org/) - 处理结构化数据的工具库，类似 Python 的 [Pandas](https://pandas.pydata.org/pandas-docs/stable/index.html)。
   
-- 时间日期（Date && Time）
-  - [Day.js](https://day.js.org/) - 轻量级时间日期工具库。
-  - [ms](https://github.com/vercel/ms) - 毫秒格式化工具。
+- 数据加密、解密（Data encryption and decryption）
+  - [bcrypt](https://github.com/kelektiv/node.bcrypt.js) - 生成密码哈希值。
   
 - 数学计算（Compute - Math & High precision & Scientific Computing）
   - [math.js](https://mathjs.org/) - 数学计算。
