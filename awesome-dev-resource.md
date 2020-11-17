@@ -346,6 +346,7 @@
 - [Z-Shell](https://www.zsh.org/)
   - [Oh My Zsh](https://ohmyz.sh/) - 管理 Z-Shell 配置的框架。
 - [gron](https://github.com/tomnomnom/gron) - 使 JSON 数据更易读。
+- [gping](https://github.com/orf/gping) - 图形化 `ping` 命令结果。
 
 [`Go Top ↑`](#awesome-development-resources)
 
