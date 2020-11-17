@@ -261,6 +261,13 @@
   - [blessed](https://github.com/chjj/blessed) - 高级终端接口库。
     - [blessed-contrib](https://github.com/yaronn/blessed-contrib) - 仪表面板工具库。
 
+- 可执行程序（Executable）
+  - [pkg](https://github.com/vercel/pkg) - 将 Node.js 脚本打包成单个可执行文件。
+  - [nexe](https://github.com/nexe/nexe)
+
+- 本地化（Native）
+  - [node-windows](https://github.com/coreybutler/node-windows) - Windows 平台对 Node.js 脚本（守护程序，事件日志，UAC 等）的支持。
+
 [`Go Top ↑`](#awesome-nodejs-list)
 
 ## 数据库
