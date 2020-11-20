@@ -54,6 +54,7 @@
 
 - 测试（Test）
   - [pytest](https://docs.pytest.org/) - 单元测试框架。
+  - [Faker](https://github.com/joke2k/faker) - 生成随机数据。
 
 - 科学计算（Compute - Math & Scientific Computing & Analysis）
   - [NumPy](https://numpy.org/) - 最受欢迎的、强大的科学计算工具包。
