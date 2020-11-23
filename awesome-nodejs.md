@@ -171,6 +171,12 @@
   
 - 数据加密、解密（Data encryption and decryption）
   - [bcrypt](https://github.com/kelektiv/node.bcrypt.js) - 生成密码哈希值。
+  - [crypto-js](https://github.com/brix/crypto-js) - JavaScript 加密库。
+  - [https://github.com/digitalbazaar/forge](https://www.npmjs.com/package/node-forge) - JavaScript 加密库。
+  - [md5.js](https://github.com/crypto-browserify/md5.js) - md5 哈希库。（:warning: 不再更新）
+  - [md5](https://github.com/pvorb/node-md5) - md5 哈希库。
+  - [object-hash](https://github.com/puleos/object-hash) - 对 JavaScript 对象进行 hash 处理。
+  - [SJCL](http://bitwiseshiftleft.github.io/sjcl/) - JavaScript 加密库。（:warning: 不再更新）
   
 - 数学计算（Compute - Math & High precision & Scientific Computing）
   - [math.js](https://mathjs.org/) - 数学计算。
