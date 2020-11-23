@@ -410,7 +410,11 @@
 
 - 数据与缓存（Data && Cache）
   - [crypto-js](https://github.com/brix/crypto-js) - JavaScript 加密库。
-  - [SJCL](http://bitwiseshiftleft.github.io/sjcl/) - JavaScript 加密库。
+  - [https://github.com/digitalbazaar/forge](https://www.npmjs.com/package/node-forge) - JavaScript 加密库。
+  - [md5.js](https://github.com/crypto-browserify/md5.js) - md5 哈希库。（:warning: 不再更新）
+  - [md5](https://github.com/pvorb/node-md5) - md5 哈希库。
+  - [crypto-browserify](https://github.com/crypto-browserify/crypto-browserify) - Node 中 `crypto` 模块在浏览器中的实现。（:warning: 不再更新）
+  - [SJCL](http://bitwiseshiftleft.github.io/sjcl/) - JavaScript 加密库。（:warning: 不再更新）
 
 - 多线程（Web Worker）
   - [Comlink](https://github.com/GoogleChromeLabs/comlink) - 使 `Web Worker` 的使用更加简单、方便，**Chrome 实验室发布**。
