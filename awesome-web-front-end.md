@@ -320,6 +320,7 @@
   - [one.color](https://github.com/One-com/one-color) - 颜色字符串解析、计算工具，支持 RGB, HSV, HSL, CMYK 等。
   - [Fuse.js](https://fusejs.io/) - 模糊搜索工具。
   - [uuid](https://github.com/uuidjs/uuid) - 生成随机唯一 id。
+  - [Nano ID](https://zelark.github.io/nano-id-cc/) - 生成唯一、URL 友好、安全的随机字符串。
   - [normalizr](https://github.com/paularmstrong/normalizr) - 根据 Schema 将嵌套的 JSON 数据归一化。
   - [Quicklink](https://getquick.link/) - 预请求视区内的资源，加快页面加载速度。
  
