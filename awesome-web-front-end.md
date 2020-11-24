@@ -607,6 +607,8 @@
 - [particles.js](https://vincentgarreau.com/particles.js/) - 轻量的粒子动画库。
 - [CountUp.js](https://inorganik.github.io/countUp.js/) - 数字文本动画。
 - [granim.js](https://sarcadass.github.io/granim.js/index.html) - 创建交互式渐变动画。
+- [dom-confetti](https://github.com/daniel-lundin/dom-confetti) - 五彩纸屑动画。
+- [Canvas Confetti](https://www.kirilv.com/canvas-confetti/) - 五彩纸屑动画。
 
 [`Go Top ↑`](#awesome-web-front-end-list)
 
