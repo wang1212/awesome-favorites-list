@@ -199,6 +199,8 @@
   - [React Spinners](https://www.davidhu.io/react-spinners/) - 丰富的 Loading 动画。
   - [React Move](https://react-move-docs.netlify.app/)
   - [Renature](https://formidable.com/open-source/renature/) - 物理动画库。
+  - [react-confetti](https://github.com/alampros/react-confetti) - 五彩纸屑动画。
+  - [React DOM Confetti](https://daniel-lundin.github.io/react-dom-confetti/) - 五彩纸屑动画。
 
 - 二维码（QR Code）
   - [qrcode.react](https://github.com/zpao/qrcode.react)
