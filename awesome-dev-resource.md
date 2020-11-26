@@ -196,6 +196,7 @@
 - 等宽字体（Monospaced Font）
   - [Source Code Pro](https://github.com/adobe-fonts/source-code-pro) - 等宽字体，适合编程使用，**Adobe 出品，开源**。
   - [JetBrains Mono](https://www.jetbrains.com/lp/mono/) - 等宽字体，适合编程使用，**JetBrains 出品，开源**。
+  - [Dev Fonts](https://devfonts.gafi.dev/) - 开发字体对比。
 
 - 徽章图标服务（Badge Service）
   - [Shields.IO](https://shields.io/)
