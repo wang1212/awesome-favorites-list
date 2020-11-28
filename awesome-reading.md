@@ -149,6 +149,7 @@
   - 《Ruby 基础教程》[日] 高桥征义 后藤裕藏  
   - [《The Book Of Ruby》](http://www.sapphiresteel.com/ruby-programming/The-Book-Of-Ruby.html)[英] Huw Collingbourne - 关于 Ruby 编程的开源书籍，涉及知识概念很全面，**开源书籍**。:point_right: [简体中文翻译](https://wang1212.github.io/the-book-of-ruby/#/0-homepage.html)	
   - [《Advanced Bash-Scripting Guide》](http://tldp.org/LDP/abs/html/) - 高级 Bash 脚本编程指南，**开源书籍**。
+  - [《Introduction to Bash Scripting》](https://github.com/bobbyiliev/introduction-to-bash-scripting) - Bash 脚本介绍，**开源书籍**。
  
 - 数据算法（Data algorithm）
   - 《数据结构与算法分析：C语言描述》[美] Mark Allen Weiss
