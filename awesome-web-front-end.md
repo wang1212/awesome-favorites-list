@@ -303,6 +303,7 @@
   - [faker.js](https://github.com/marak/faker.js) - 生成大量随机测试数据，可用来开发过程中进行 API 调试。
   - [Chance](https://chancejs.com/) - 生成随机的测试数据。
   - [Perfume.js](https://zizzamia.github.io/perfume/) - 性能监控工具。
+  - [Mirage JS](https://miragejs.com/) - Mock API。
  
 - 移动端调试（Mobile debugging）
   - [Eruda](https://eruda.liriliri.io/) - 移动端 Web 调试工具。
