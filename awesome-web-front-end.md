@@ -87,6 +87,7 @@
   - [ECMAScript 6 — New Features: Overview & Comparison](http://es6-features.org/) - ES6 新特性与旧代码差异对比。
   - [typescript-cheatsheet](https://rmolinamir.github.io/typescript-cheatsheet/) - TypeScript 备忘单。
   - [What the f\*ck JavaScript?](https://github.com/denysdovhan/wtfjs) - JavaScript 中有趣且易错的要点。
+  - [The Modern JavaScript Tutorial](https://javascript.info/) - 现代 JavaScript 教程。
 
 - [JavaScript Algorithms and Data Structures](https://github.com/trekhleb/javascript-algorithms) - 算法和数据结构。
 - [30 seconds](https://github.com/30-seconds) - 30 seconds 是一个系列，包含 JS、React.js、CSS 相关的编程技巧。
@@ -400,6 +401,7 @@
 
 - HTTP 请求（HTTP - Ajax / Promise / fetch）
   - [axios](https://github.com/axios/axios) - 基于 Promise 的 HTTP 客户端工具库。
+    - [axios-mock-adapter](https://github.com/ctimmerm/axios-mock-adapter) - Mock API。
 
 - 套接字（Socket / TCP）
   - [socket.io-client](https://socket.io/) - 优秀的实时通信客户端框架。
