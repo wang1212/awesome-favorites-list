@@ -142,7 +142,9 @@
 - 编程语言（Programming language）
   - 《C 程序设计语言》[美] Dennis M. Ritchie, Brian W. Kernighan
   - [《你不知道的 JavaScript》](https://github.com/getify/You-Dont-Know-JS)[美] Kyle Simpson - 系列书籍，讲解 JavaScript 核心概念，**开源书籍**。
-  - [Eloquent JavaScript](https://eloquentjavascript.net/)[美] Marijn Haverbeke - JavaScript、Node.js 技术，**开源书籍**。
+  - [《Eloquent JavaScript》](https://eloquentjavascript.net/)[美] Marijn Haverbeke - JavaScript、Node.js 技术，**开源书籍**。
+  - [《JavaScript (ES2015+) Enlightenment》](https://frontendmasters.com/books/javascript-enlightenment/) Cody Linley - JavaScript 语言更新介绍，**开源书籍**。
+  - [《Learning JavaScript Design Patterns》](https://addyosmani.com/resources/essentialjsdesignpatterns/book/) Addy Osmani - JavaScript 设计模式，**开源书籍**。
   - [《Python 101》](http://python101.pythonlibrary.org)[美] Mike Driscoll - 讲述 Python 3 初级编程的书籍。	
   - 《Python 201》[美] Mike Driscoll - 讲述 Python 3 中级编程的书籍。
   - 《Ruby 元编程》[意] Paolo Perrotta
@@ -160,7 +162,7 @@
   - 《图解 HTTP》[日] 上野 · 宣
   - 《图解 TCP/IP》[日] 竹下隆史 村山公保 荒井透 苅田幸雄  
   - 《前端架构设计》[美] Micah Godbolt - 很好的 Web 前端工程化实践参考。
-  - [CSS Animation 101](https://github.com/cssanimation/css-animation-101) - 学习 CSS 动画，**开源书籍**。
+  - [《CSS Animation 101》](https://github.com/cssanimation/css-animation-101) - 学习 CSS 动画，**开源书籍**。
   
 - 安卓开发（Android development）
   - 《Android 4 高级编程》[美] Reto Meier
