@@ -134,6 +134,7 @@
 - [CopyTranslator](https://github.com/CopyTranslator/CopyTranslator) - 桌面划词翻译，**免费开源软件**。
 - [Ditto](https://ditto-cp.sourceforge.io/) - 粘贴板管理工具，**开源软件**。
 - [Rainmeter](https://www.rainmeter.net/) - Windows 桌面自定义小工具，**开源软件**。
+- [uTools](http://www.u.tools/) - 生产力工具，包含许多小工具，**免费软件**。
 
 ### 浏览器
 
@@ -189,6 +190,13 @@
 - 电子书（e-bbok）
   - [Calibre](https://calibre-ebook.com/) - 电子书管理阅读工具，**开源软件**。
 
+### 编辑器
+
+*Editor.*
+
+- [Typora](https://www.typora.io/) - Markdown 文本编辑器，很漂亮，功能很强大，**测试版免费**。
+- [Zettlr](https://www.zettlr.com/) - Markdown 文本编辑器，很漂亮，功能很强大，**开源软件**。
+
 ### 设计
 
 *Software interface design, prototype drawing design, etc.*
@@ -209,8 +217,6 @@
 *Others.*
 
 - [Syncthing](https://syncthing.net/) - 跨平台、跨设备文件同步软件，**开源软件**。
-- [uTools](http://www.u.tools/) - 生产力工具，包含许多小工具，**免费软件**。
-- [Typora](https://www.typora.io/) - Markdown 文本编辑器，很漂亮，功能很强大，**测试版免费**。
 - [Cleaver](http://jdan.github.io/cleaver/) - Markdown 文件生成幻灯片。
 - [mermaid](https://github.com/mermaid-js/mermaid) - txt 文件生成流程图。
 - [nodeppt](https://github.com/ksky521/nodeppt)
