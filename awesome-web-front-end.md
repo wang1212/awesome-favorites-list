@@ -27,6 +27,7 @@
   - [代码风格规范（Code Style Specifications）](#js-代码风格规范)
   - [在线资源（Online Resources）](#js-在线资源)
   - [工具库（Library）](#js-工具库)
+- [TypeScript](#typescript)
 - [UI 设计系统（UI Design System）](#ui-设计系统)
 - [UI 组件（UI Component）](#ui-组件)
   - [组件库（Component Library）](#组件库)
@@ -59,8 +60,6 @@
 - [JSON Schema](http://json-schema.org/) - JSON 数据校验。
 - [JSON5 Specification](https://spec.json5.org/) - JSON5 数据格式规范，是对 JSON 格式的扩展，支持注释等特性。
 - [NDJSON Specification](http://ndjson.org/) - Newline Delimited JSON 数据格式规范。
-- [TypeScript](http://www.typescriptlang.org/) - JavaScript 的超集，强类型语言。
-- [TypeScript Performance](https://github.com/microsoft/TypeScript/wiki/Performance) - TypeScript 性能优化。
 
 [`Go Top ↑`](#awesome-web-front-end-list)
 
@@ -86,7 +85,6 @@
   - [SJSJ](http://jargon.js.org/) - JavaScript 术语介绍。
   - [Modern JS Cheatsheet](https://mbeaudru.github.io/modern-js-cheatsheet/) - 现代 JavaScript 概念要点。
   - [ECMAScript 6 — New Features: Overview & Comparison](http://es6-features.org/) - ES6 新特性与旧代码差异对比。
-  - [typescript-cheatsheet](https://rmolinamir.github.io/typescript-cheatsheet/) - TypeScript 备忘单。
   - [What the f\*ck JavaScript?](https://github.com/denysdovhan/wtfjs) - JavaScript 中有趣且易错的要点。
   - [The Modern JavaScript Tutorial](https://javascript.info/) - 现代 JavaScript 教程。
 
@@ -435,6 +433,16 @@
 
 - 自然语言处理（NLP）
   - [compromise](http://compromise.cool/)
+
+[`Go Top ↑`](#awesome-web-front-end-list)
+
+## TypeScript
+
+> [TypeScript 官网](https://www.typescriptlang.org/) - JavaScript 超集，强类型语言。
+
+- [TypeScript Performance Tips](https://github.com/microsoft/TypeScript/wiki/Performance) - TypeScript 性能优化，**官方**。
+- [typescript-cheatsheet](https://rmolinamir.github.io/typescript-cheatsheet/) - TypeScript 备忘单。
+- [TypeScriptToLua](https://typescripttolua.github.io/) - 用 TypeScript 编写 Lua。
 
 [`Go Top ↑`](#awesome-web-front-end-list)
 
