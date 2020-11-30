@@ -60,6 +60,7 @@
 - [JSON5 Specification](https://spec.json5.org/) - JSON5 数据格式规范，是对 JSON 格式的扩展，支持注释等特性。
 - [NDJSON Specification](http://ndjson.org/) - Newline Delimited JSON 数据格式规范。
 - [TypeScript](http://www.typescriptlang.org/) - JavaScript 的超集，强类型语言。
+- [TypeScript Performance](https://github.com/microsoft/TypeScript/wiki/Performance) - TypeScript 性能优化。
 
 [`Go Top ↑`](#awesome-web-front-end-list)
 
