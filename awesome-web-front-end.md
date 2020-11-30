@@ -553,6 +553,7 @@
   - [PulltoRefresh](https://www.boxfactura.com/pulltorefresh.js/) - 下拉刷新。
   - [Tweakpane](https://cocopon.github.io/tweakpane/) - 可快速创建跟踪值变化和调节的控制面板。
   - [Holder.js](http://holderjs.com/) - 图像占位符。
+  - [List.js](https://listjs.com/) - 为列表提供过滤、排序等功能。
 
 [`Go Top ↑`](#awesome-web-front-end-list)
 
