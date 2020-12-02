@@ -112,6 +112,7 @@
     - [nodemon](https://nodemon.io) - 提供 Node.js 开发时热重载机制。
     - [node-dev](https://github.com/fgnass/node-dev) - 热重载。
   - 其它（Others）
+    - [dotenv](https://github.com/motdotla/dotenv) - 从 **.env** 文件为 Node.js 项目加载环境变量。
     - [esm](https://github.com/standard-things/esm) - 能够为 `.js` 文件提供 [ECMAScript Modules](https://tc39.es/ecma262/#sec-modules) 支持。
     - [envinfo](https://github.com/tabrindle/envinfo) - 生成开发环境信息报告。
     - [Madge](https://github.com/pahen/madge) - 生成可视化的模块依赖图。
