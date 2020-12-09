@@ -216,10 +216,9 @@
 
 *Others.*
 
-- [Syncthing](https://syncthing.net/) - 跨平台、跨设备文件同步软件，**开源软件**。
-- [Cleaver](http://jdan.github.io/cleaver/) - Markdown 文件生成幻灯片。
-- [mermaid](https://github.com/mermaid-js/mermaid) - txt 文件生成流程图。
-- [nodeppt](https://github.com/ksky521/nodeppt)
+- [Syncthing](https://syncthing.net/) - 跨平台、跨设备文件同步工具，**开源软件**。
+- [FreeFileSync](https://freefilesync.org/) - 跨平台文件同步工具，**开源软件**。
+- [Dism++](https://www.chuyu.me/) - 实用的系统优化维护工具。
 
 [`Go Top ↑`](#awesome-software)
 
