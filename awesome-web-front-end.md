@@ -580,6 +580,7 @@
 - [Textures.js](https://riccardoscalco.it/textures/) - 创建 SVG 模式。
 - [ztext.js](https://bennettfeely.com/ztext/) - 实现文字 3D 效果。
 - [FilterizR](https://yiotis.net/filterizr/) - 过滤搜索动画。
+- [mermaid](https://github.com/mermaid-js/mermaid) - txt 文本生成流程图。
 
 ### 图表
 
