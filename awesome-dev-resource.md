@@ -351,6 +351,13 @@
 - [gping](https://github.com/orf/gping) - 图形化 `ping` 命令结果。
 - [tcping](https://elifulkerson.com/projects/tcping.php) - 类似 `ping` 命令，使用 TCP 端口。
 
+### 实用工具
+
+*Utils tools.*
+
+- [Cleaver](http://jdan.github.io/cleaver/) - Markdown 文件生成幻灯片。
+- [nodeppt](https://github.com/ksky521/nodeppt) - Markdown 文件生成幻灯片。
+
 [`Go Top ↑`](#awesome-development-resources)
 
 ## 工具套件
