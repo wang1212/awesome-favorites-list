@@ -13,9 +13,10 @@
 - [规范参考（Specification Reference）](#规范参考)
 - [技术参考文档（Technical Reference Document）](#技术参考文档)
 - [阅读（Reading）](#阅读)
+  - [文章（Article）](#文章)
+  - [学习（Learn）](#学习)
   - [论坛（Forum）](#论坛)
   - [期刊（Journal）](#期刊)
-  - [文章（Article）](#文章)
 - [在线资源（Online Resources）](#在线资源)
 - [软件工具（Software Tools）](#软件工具)
 - [工具套件（Tool kit）](#工具套件)
@@ -59,6 +60,23 @@
 
 - 出版商（Publisher）
   - [Cooperpress](https://cooperpress.com/) - 计算机技术相关杂志、网站。
+
+### 文章
+
+*Some guiding articles related to software development.*
+
+- [The Art of Command Line](https://github.com/jlevy/the-art-of-command-line) - 命令行的艺术，技巧。
+- [A successful Git branching model](https://nvie.com/posts/a-successful-git-branching-model/) - 一个成功的 Git 分支模型。
+- [Superhero.js](http://superherojs.com/) - 构建大型项目的一些技巧。
+- [Conflict-free Replicated Data Type](https://crdt.tech/) - 一种数据结构，可简化分布式数据存储系统和多用户应用程序。
+- [WebGL Guide](https://xem.github.io/articles/webgl-guide.html) - WebGL 技术指南。
+- [Perfection Kills](http://perfectionkills.com/)	
+
+### 学习
+
+*Resource websites such as learning tutorials and courses.*
+
+- [Hackr.io](https://hackr.io/) - 在线教程。
 
 ### 论坛
 
@@ -122,89 +140,91 @@
 - 其它（Others）
   - [MongoDB Memo](https://mongodb.email/) - MongoDB 新闻。（Cooperpress 出版）
 
-### 文章
-
-*Some guiding articles related to software development.*
-
-- [The Art of Command Line](https://github.com/jlevy/the-art-of-command-line) - 命令行的艺术，技巧。
-- [A successful Git branching model](https://nvie.com/posts/a-successful-git-branching-model/) - 一个成功的 Git 分支模型。
-- [Superhero.js](http://superherojs.com/) - 构建大型项目的一些技巧。
-- [Conflict-free Replicated Data Type](https://crdt.tech/) - 一种数据结构，可简化分布式数据存储系统和多用户应用程序。
-- [WebGL Guide](https://xem.github.io/articles/webgl-guide.html) - WebGL 技术指南。
-- [Perfection Kills](http://perfectionkills.com/)	
-
 [`Go Top ↑`](#awesome-development-resources)
 
 ## 在线资源
 
 *Online Resources.*
 
-- 公共 API
-  - [OpenWeather](https://openweathermap.org/) - 全球城市天气预报。
-  
-- 实用工具（Tools）
-  - [SOCODE.PRO](https://socode.pro/) - 快速搜索开发文档，小工具等，**提供浏览器插件**。
-  - [IPAddress](https://www.ipaddress.com/) - 在线查询某个站点的 IP 地址。
-  - [Resolve.rs](https://resolve.rs/tools.html) - 查询本机 IP、DNS 服务器等。
-  - [FreeSSL](https://freessl.org/) - 免费 SSL 证书在线申请。
-  - [IKnowWhatYouDownload](https://iknowwhatyoudownload.com/) - 查看 IP 下载过的 BT 资源。
-  - [FastIcon](https://fasticon.sawirstudio.com/) - 在线快速生成 Android 与 IOS 应用图标。
-  - [Image Extractor](https://extract.pics/) - 导出公共网站的图片。
-  - [IPFS](https://ipfs.io/) - 全球分布式文件系统。
-    - ~~[i-Book.in](https://book.tstrs.me/) - 针对 IPFS 链接的搜索引擎。~~
-  - [Web-Scale UUID as a Service](https://uuid.rocks/) - 在线生成 uuid。  
-  - [345Tool](https://www.345tool.com/) - 开发者工具集。
-  - [tool.lu](https://tool.lu/) - 开发者工具集。
-  - [LibHunt](https://www.libhunt.com/) - 收集了各种库的网站。  
-  - [MSDN, I tell you](https://msdn.itellyou.cn/) - 微软 Windows 系统、Office 镜像文件下载。 
+### 实用工具
 
-- GitHub
-  - [https://github.com.cnpmjs.org/](https://github.com.cnpmjs.org/) - GitHub 镜像网站。
-  - [https://hub.fastgit.org/](https://hub.fastgit.org/) - GitHub 镜像网站。
-  - [GitClone](https://gitclone.com/) - GitHub 仓库缓存加速。
-  - [http://gitd.cc/](http://gitd.cc/) - 文件代下服务。
-  - [https://d.serctl.com/](https://d.serctl.com/) - 文件代下服务。
+*Utils tools.*
 
-- 设计工具（Design Tools）
-  - [Boss 设计](https://www.bossdesign.cn/) - 收集国内外设计素材资源的网站。
-  - [设计导航](http://hao.shejidaren.com/index.html) - 设计资源网站导航。
-  - [Code My UI](https://codemyui.com/) - Web UI 设计相关的代码片段。
-  - [BGJar](https://bgjar.com/) - 在线 SVG 背景图生成。
-  - [Trianglify.io](https://trianglify.io/) - 生成三角网 SVG 背景图。
-  - [Hero Patterns](http://www.heropatterns.com/) - 一些 SVG 背景图。
-  - [Get Waves](https://getwaves.io/) - 生成波浪 SVG 背景图。
-  - [Cool Backgrounds](https://coolbackgrounds.io/) - 利用渐变，生成 PNG 背景图。
-  - [Gradient Magic](https://www.gradientmagic.com/) - CSS 渐变色背景。
-  - [hatchful](https://hatchful.shopify.com/) - logo 设计。
-  - [logofury](https://www.logofury.com/) - logo 设计。
-  - [Free Favicon Maker](https://formito.com/tools/favicon) - SVG 图标制作。
-  - [unDraw](https://undraw.co/) - 插画素材，扁平风格，**免费下载、开源**。
-  - [Open Doodles](https://www.opendoodles.com/) - 插画素材，**免费下载、开源**。
-  - [Open source illustrations kit](https://illlustrations.co/) - 插画素材，**免费下载、开源**。
-  - [Lukasz Adam Free Illustrations](https://lukaszadam.com/illustrations) - 插画素材，**免费下载、开源**。
-  - [Ouch](https://icons8.com/ouch) - 插画素材，**免费下载，Icons8 提供**。
-  - [DrawKit](https://www.drawkit.io/)- 插画素材，矢量图标，**免费下载**。
-  - [Awesome illustrations](https://stories.freepik.com/) - 插画素材，**免费下载**。
-  - [Delesign](https://delesign.com/free-designs/graphics)- 插画素材，矢量图标，**免费下载**。
-  - [Gallery.Manypixels](https://www.manypixels.co/gallery/) - 插画素材，**免费下载**。
-  - [Vecteezy](https://www.vecteezy.com/) - 图片素材。
-  - [MixKit ](https://mixkit.co/free-stock-art/) - 图片素材。
+- [SOCODE.PRO](https://socode.pro/) - 快速搜索开发文档，小工具等，**提供浏览器插件**。
+- [IPAddress](https://www.ipaddress.com/) - 在线查询某个站点的 IP 地址。
+- [Resolve.rs](https://resolve.rs/tools.html) - 查询本机 IP、DNS 服务器等。
+- [FreeSSL](https://freessl.org/) - 免费 SSL 证书在线申请。
+- [IKnowWhatYouDownload](https://iknowwhatyoudownload.com/) - 查看 IP 下载过的 BT 资源。
+- [FastIcon](https://fasticon.sawirstudio.com/) - 在线快速生成 Android 与 IOS 应用图标。
+- [Image Extractor](https://extract.pics/) - 导出公共网站的图片。
+- [IPFS](https://ipfs.io/) - 全球分布式文件系统。
+  - ~~[i-Book.in](https://book.tstrs.me/) - 针对 IPFS 链接的搜索引擎。~~
+- [Web-Scale UUID as a Service](https://uuid.rocks/) - 在线生成 uuid。  
+- [345Tool](https://www.345tool.com/) - 开发者工具集。
+- [tool.lu](https://tool.lu/) - 开发者工具集。
+- [LibHunt](https://www.libhunt.com/) - 收集了各种库的网站。  
+- [MSDN, I tell you](https://msdn.itellyou.cn/) - 微软 Windows 系统、Office 镜像文件下载。 
 
-- 编程技巧（Programming skills）
-  - [Hackr.io](https://hackr.io/) - 在线教程。				
+### 公共 API
 
-- 等宽字体（Monospaced Font）
-  - [Source Code Pro](https://github.com/adobe-fonts/source-code-pro) - 等宽字体，适合编程使用，**Adobe 出品，开源**。
-  - [JetBrains Mono](https://www.jetbrains.com/lp/mono/) - 等宽字体，适合编程使用，**JetBrains 出品，开源**。
-  - [Dev Fonts](https://devfonts.gafi.dev/) - 开发字体对比。
+*Public api.*
 
-- 徽章图标服务（Badge Service）
-  - [Shields.IO](https://shields.io/)
-  - [NodeICO](https://nodei.co/)
-  - [Badgen](https://badgen.net/)
-  - [Version Badge](https://badge.fury.io/)
-  - [Badges](https://formidable.com/open-source/badges/)
-  - [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats) - 显示 GitHub 仓库统计信息。
+- [OpenWeather](https://openweathermap.org/) - 全球城市天气预报。
+
+### GitHub
+
+- [https://github.com.cnpmjs.org/](https://github.com.cnpmjs.org/) - GitHub 镜像网站。
+- [https://hub.fastgit.org/](https://hub.fastgit.org/) - GitHub 镜像网站。
+- [GitClone](https://gitclone.com/) - GitHub 仓库缓存加速。
+- [http://gitd.cc/](http://gitd.cc/) - 文件代下服务。
+- [https://d.serctl.com/](https://d.serctl.com/) - 文件代下服务。
+
+### 设计工具
+
+*Design Tools.*
+
+- [Boss 设计](https://www.bossdesign.cn/) - 收集国内外设计素材资源的网站。
+- [设计导航](http://hao.shejidaren.com/index.html) - 设计资源网站导航。
+- [Code My UI](https://codemyui.com/) - Web UI 设计相关的代码片段。
+- [BGJar](https://bgjar.com/) - 在线 SVG 背景图生成。
+- [Trianglify.io](https://trianglify.io/) - 生成三角网 SVG 背景图。
+- [Hero Patterns](http://www.heropatterns.com/) - 一些 SVG 背景图。
+- [Get Waves](https://getwaves.io/) - 生成波浪 SVG 背景图。
+- [Cool Backgrounds](https://coolbackgrounds.io/) - 利用渐变，生成 PNG 背景图。
+- [Gradient Magic](https://www.gradientmagic.com/) - CSS 渐变色背景。
+- [hatchful](https://hatchful.shopify.com/) - logo 设计。
+- [logofury](https://www.logofury.com/) - logo 设计。
+- [Free Favicon Maker](https://formito.com/tools/favicon) - SVG 图标制作。
+- [unDraw](https://undraw.co/) - 插画素材，扁平风格，**免费下载、开源**。
+- [Open Doodles](https://www.opendoodles.com/) - 插画素材，**免费下载、开源**。
+- [Open source illustrations kit](https://illlustrations.co/) - 插画素材，**免费下载、开源**。
+- [Lukasz Adam Free Illustrations](https://lukaszadam.com/illustrations) - 插画素材，**免费下载、开源**。
+- [Ouch](https://icons8.com/ouch) - 插画素材，**免费下载，Icons8 提供**。
+- [DrawKit](https://www.drawkit.io/)- 插画素材，矢量图标，**免费下载**。
+- [Awesome illustrations](https://stories.freepik.com/) - 插画素材，**免费下载**。
+- [Delesign](https://delesign.com/free-designs/graphics)- 插画素材，矢量图标，**免费下载**。
+- [Gallery.Manypixels](https://www.manypixels.co/gallery/) - 插画素材，**免费下载**。
+- [Vecteezy](https://www.vecteezy.com/) - 图片素材。
+- [MixKit ](https://mixkit.co/free-stock-art/) - 图片素材。
+
+### 编程字体
+
+*Monospaced Font.*
+
+- [Source Code Pro](https://github.com/adobe-fonts/source-code-pro) - 等宽字体，适合编程使用，**Adobe 出品，开源**。
+- [JetBrains Mono](https://www.jetbrains.com/lp/mono/) - 等宽字体，适合编程使用，**JetBrains 出品，开源**。
+- [Dev Fonts](https://devfonts.gafi.dev/) - 开发字体对比。
+
+### 徽章图标服务
+
+*Badge Service.*
+
+- [Shields.IO](https://shields.io/)
+- [NodeICO](https://nodei.co/)
+- [Badgen](https://badgen.net/)
+- [Version Badge](https://badge.fury.io/)
+- [Badges](https://formidable.com/open-source/badges/)
+- [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats) - 显示 GitHub 仓库统计信息。
 
 [`Go Top ↑`](#awesome-development-resources)
 
