@@ -226,6 +226,17 @@
 - [Badges](https://formidable.com/open-source/badges/)
 - [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats) - 显示 GitHub 仓库统计信息。
 
+### 占位图像服务
+
+*Placeholder image service.*
+
+- [Placeholder.com](https://placeholder.com/) - 图片、灰度图、文本。
+- [Fake images please?](https://fakeimg.pl/) - 灰度图、文本，**免费开源**。
+- [Dynamic Dummy Image Generator](https://dummyimage.com/) - 灰度图、文本。
+- [Lorem Picsum](https://picsum.photos/) - 图片。
+- [PlaceIMG](https://placeimg.com/) - 图片。
+- [Ipsum Image](https://ipsumimage.appspot.com/) - 灰度图、文本。
+
 [`Go Top ↑`](#awesome-development-resources)
 
 ## 软件工具
