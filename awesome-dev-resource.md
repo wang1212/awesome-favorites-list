@@ -225,6 +225,7 @@
 - [Version Badge](https://badge.fury.io/)
 - [Badges](https://formidable.com/open-source/badges/)
 - [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats) - 显示 GitHub 仓库统计信息。
+- [Star Charts](https://starchart.cc/) - GitHub 星数量趋势图。
 
 ### 占位图像服务
 
