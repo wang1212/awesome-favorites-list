@@ -77,6 +77,7 @@
 *Resource websites such as learning tutorials and courses.*
 
 - [Hackr.io](https://hackr.io/) - 在线教程。
+- [RealWorld example apps](https://github.com/gothinkster/realworld) - 不同技术栈实现相同的前后端应用示例代码。
 
 ### 论坛
 
@@ -400,7 +401,9 @@
 - [Cube.js](https://cube.dev/) - 开源的 Web 应用分析解决方案。
 - [screego](https://screego.net/#/) - 屏幕共享服务器。
 - [WireShark](https://www.wireshark.org/) - 协议分析工具，**开源免费**。
-- [Fiddler Everywhere](https://www.telerik.com/fiddler) - 抓包工具。
+- [Fiddler Everywhere](https://www.telerik.com/fiddler) - 抓包工具，**提供免费版本**。
+- [mitmproxy](https://www.mitmproxy.org/) - Python 开发的 HTTPS 代理，**开源免费**。
+- [Docusaurus](https://v2.docusaurus.io/) - 快速构建优化、快速的网站，**Facebook 发布**。
 
 [`Go Top ↑`](#awesome-development-resources)
 
