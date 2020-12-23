@@ -230,5 +230,6 @@
 - [小众软件](https://www.appinn.com/) - 小众软件推荐网站。
 - [MSDN, I tell you](https://msdn.itellyou.cn/) - 可下载系统镜像文件。
 - [Free All We Need](https://free.appnee.com/) - 软件注册工具下载。
+- [冰点软件](http://www.bingdian001.com/) - 很多实用小工具，尤其冰点文库相当好用。
 
 [`Go Top ↑`](#awesome-software)
