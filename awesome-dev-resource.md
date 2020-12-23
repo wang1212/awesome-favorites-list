@@ -171,6 +171,7 @@
 *Public api.*
 
 - [OpenWeather](https://openweathermap.org/) - 全球城市天气预报。
+- [Public APIs](https://github.com/public-apis/public-apis) - 免费的公共 API 集合。
 
 ### GitHub
 
