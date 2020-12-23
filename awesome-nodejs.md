@@ -112,6 +112,9 @@
   - Node 应用（Node App）
     - [nodemon](https://nodemon.io) - 提供 Node.js 开发时热重载机制。
     - [node-dev](https://github.com/fgnass/node-dev) - 热重载。
+  - 日志（Log）
+    - [log4js](https://github.com/log4js-node/log4js-node) - 日志记录。
+    - [winston](https://github.com/winstonjs/winston) - 简单通用的日志库。
   - 其它（Others）
     - [dotenv](https://github.com/motdotla/dotenv) - 从 **.env** 文件为 Node.js 项目加载环境变量。
     - [esm](https://github.com/standard-things/esm) - 能够为 `.js` 文件提供 [ECMAScript Modules](https://tc39.es/ecma262/#sec-modules) 支持。
@@ -228,7 +231,6 @@
 
 - HTTP 服务器（HTTP Server）
   - [http-server](https://github.com/http-party/http-server) - 可快速启动一个轻量的 http 服务器。
-  - [log4js](https://github.com/log4js-node/log4js-node) - 日志记录。
 
 - HTTP 请求（HTTP Request）
   - [axios](https://github.com/axios/axios) - 处理 HTTP 请求的工具库，非常方便。
