@@ -47,6 +47,7 @@
 - [Database of Database](https://dbdb.io/) - 聚合全球数据库信息。
 - [Bash Pitfalls](http://mywiki.wooledge.org/BashPitfalls) - 此页面汇总了 Bash 用户常犯的编程错误。
 - [COMMANDLINEFU.COM](https://www.commandlinefu.com/commands/browse) - 汇集了很多优秀的、充满智慧的、简洁的命令行命令。
+- [A collection of .gitignore templates](https://github.com/github/gitignore) - 不同类型项目的 `.gitignore` 文件模板。
 
 [`Go Top ↑`](#awesome-development-resources)
 
@@ -78,6 +79,8 @@
 
 - [Hackr.io](https://hackr.io/) - 在线教程。
 - [RealWorld example apps](https://github.com/gothinkster/realworld) - 不同技术栈实现相同的前后端应用示例代码。
+- [build-your-own-x](https://github.com/danistefanovic/build-your-own-x) - 自己构建某种技术的教程。
+- [The System Design Primer](https://github.com/donnemartin/system-design-primer) - 学习构建大型系统。
 
 ### 论坛
 
