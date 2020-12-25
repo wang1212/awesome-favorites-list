@@ -168,6 +168,7 @@
 - [tool.lu](https://tool.lu/) - 开发者工具集。
 - [LibHunt](https://www.libhunt.com/) - 收集了各种库的网站。  
 - [MSDN, I tell you](https://msdn.itellyou.cn/) - 微软 Windows 系统、Office 镜像文件下载。 
+- [Diffchecker](https://www.diffchecker.com/) - 在线文本、图片差异比较工具。
 
 ### 公共 API
 
