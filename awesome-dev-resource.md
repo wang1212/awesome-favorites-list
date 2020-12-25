@@ -30,6 +30,7 @@
 - [SQL Style Guide](https://www.sqlstyle.guide/) - SQL 语句规范指南参考。
 - [Google Style Guides](https://google.github.io/styleguide/) - Google 代码风格指南。
 - [Google Engineering Practices Documentation](https://google.github.io/eng-practices/) - Google 工程实践文档。
+- [HTTP Status Codes](https://httpstatuses.com/) - HTTP 协议状态码列表。
 
 [`Go Top ↑`](#awesome-development-resources)
 
@@ -162,7 +163,6 @@
 - [FreeSSL](https://freessl.org/) - 免费 SSL 证书在线申请。
 - [IKnowWhatYouDownload](https://iknowwhatyoudownload.com/) - 查看 IP 下载过的 BT 资源。
 - [FastIcon](https://fasticon.sawirstudio.com/) - 在线快速生成 Android 与 IOS 应用图标。
-- [Image Extractor](https://extract.pics/) - 导出公共网站的图片。
 - [IPFS](https://ipfs.io/) - 全球分布式文件系统。
   - ~~[i-Book.in](https://book.tstrs.me/) - 针对 IPFS 链接的搜索引擎。~~
 - [Web-Scale UUID as a Service](https://uuid.rocks/) - 在线生成 uuid。  
@@ -172,6 +172,8 @@
 - [MSDN, I tell you](https://msdn.itellyou.cn/) - 微软 Windows 系统、Office 镜像文件下载。 
 - [Diffchecker](https://www.diffchecker.com/) - 在线文本、图片差异比较工具。
 - [regex101](https://regex101.com/) - 在线正则调试工具。
+- [RegEx Pal Tester](https://www.regexpal.com/) - 在线正则调试工具。
+- [Carbon](https://carbon.now.sh/) - 生成漂亮的源代码图片。
 
 ### 公共 API
 
@@ -215,6 +217,15 @@
 - [Gallery.Manypixels](https://www.manypixels.co/gallery/) - 插画素材，**免费下载**。
 - [Vecteezy](https://www.vecteezy.com/) - 图片素材。
 - [MixKit ](https://mixkit.co/free-stock-art/) - 图片素材。
+- [Colormind ](http://colormind.io/) - 利用深度学习生成配色方案。
+- [Font Pair](https://fontpair.co/) - 排版工具。
+
+### 图像处理
+
+*Image Processing.*
+
+- [Image Extractor](https://extract.pics/) - 导出公共网站的图片。
+- [Squoosh](https://squoosh.app/) - 图片压缩。
 
 ### 编程字体
 
@@ -423,5 +434,6 @@
 - [Linux Mint](https://www.linuxmint.com/) - 很 Cool 的 Linux 发行版。
 - [TIOBE Index](https://www.tiobe.com/tiobe-index/) - 编程语言全球排名。
 - [DB-Engines](https://db-engines.com/) - 数据库排名信息。
+- [Learn Anything](https://learn-anything.xyz/) - 知识路径图谱。
 
 [`Go Top ↑`](#awesome-development-resources)
