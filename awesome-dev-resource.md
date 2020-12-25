@@ -135,6 +135,7 @@
   - [Postgres Weekly](https://postgresweekly.com/) - 周刊，PostgreSQL 技术。（Cooperpress 出版）
   - [Serverless Status](https://serverless.email/) - 周刊，Serverless 和 FaaS 相关技术。（Cooperpress 出版）
   - [iOS Dev Weekly](https://iosdevweekly.com/) - 周刊，iOS 开发者相关。
+  - [Smashing Magazine](https://www.smashingmagazine.com/) - 周刊，Web 前端与 UX 资讯。
   - [科技爱好者周刊](https://github.com/ruanyf/weekly)
   - [Awesome Weekly](https://github.com/jondot/awesome-weekly) - 更多周刊。
 
@@ -154,6 +155,7 @@
 
 *Utils tools.*
 
+- [free-for.dev](https://free-for.dev/) - 软件开发人员可用的免费 SaaS、PaaS、IaaS 等服务。
 - [SOCODE.PRO](https://socode.pro/) - 快速搜索开发文档，小工具等，**提供浏览器插件**。
 - [IPAddress](https://www.ipaddress.com/) - 在线查询某个站点的 IP 地址。
 - [Resolve.rs](https://resolve.rs/tools.html) - 查询本机 IP、DNS 服务器等。
@@ -169,6 +171,7 @@
 - [LibHunt](https://www.libhunt.com/) - 收集了各种库的网站。  
 - [MSDN, I tell you](https://msdn.itellyou.cn/) - 微软 Windows 系统、Office 镜像文件下载。 
 - [Diffchecker](https://www.diffchecker.com/) - 在线文本、图片差异比较工具。
+- [regex101](https://regex101.com/) - 在线正则调试工具。
 
 ### 公共 API
 
