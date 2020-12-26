@@ -82,6 +82,7 @@
 - [RealWorld example apps](https://github.com/gothinkster/realworld) - 不同技术栈实现相同的前后端应用示例代码。
 - [build-your-own-x](https://github.com/danistefanovic/build-your-own-x) - 自己构建某种技术的教程。
 - [The System Design Primer](https://github.com/donnemartin/system-design-primer) - 学习构建大型系统。
+- [TodoMVC](http://todomvc.com/) - 构建 MV* 应用的技术选型推荐。
 
 ### 论坛
 
@@ -206,6 +207,28 @@
 - [hatchful](https://hatchful.shopify.com/) - logo 设计。
 - [logofury](https://www.logofury.com/) - logo 设计。
 - [Free Favicon Maker](https://formito.com/tools/favicon) - SVG 图标制作。
+- [Flat Icon](https://www.flaticon.com/) - 图标市场。
+- [Icons8](https://icons8.com/) - 免费图标，设计工具。
+- [Font Pair](https://fontpair.co/) - 排版工具。
+- [Vecteezy](https://www.vecteezy.com/) - 图片素材。
+- [MixKit ](https://mixkit.co/free-stock-art/) - 图片素材。
+
+#### 配色方案
+
+*Coloring scheme.*
+
+- [Colormind ](http://colormind.io/) - 利用深度学习生成配色方案。
+- [Open Color](https://yeun.github.io/open-color/)
+- [Color Hunt](https://colorhunt.co/)
+- [coolors](https://coolors.co/palettes/)
+- [Sorted CSS Colors](https://enes.in/sorted-colors/)
+- [Grabient](https://www.grabient.com/) - 渐变色。
+- [material design palette](https://www.materialpalette.com/) - Google Material Design 设计工具，提供官方图标（Material Icons）下载，**非官方**。
+
+#### 插画素材
+
+*Illustration material.*
+
 - [unDraw](https://undraw.co/) - 插画素材，扁平风格，**免费下载、开源**。
 - [Open Doodles](https://www.opendoodles.com/) - 插画素材，**免费下载、开源**。
 - [Open source illustrations kit](https://illlustrations.co/) - 插画素材，**免费下载、开源**。
@@ -215,17 +238,35 @@
 - [Awesome illustrations](https://stories.freepik.com/) - 插画素材，**免费下载**。
 - [Delesign](https://delesign.com/free-designs/graphics)- 插画素材，矢量图标，**免费下载**。
 - [Gallery.Manypixels](https://www.manypixels.co/gallery/) - 插画素材，**免费下载**。
-- [Vecteezy](https://www.vecteezy.com/) - 图片素材。
-- [MixKit ](https://mixkit.co/free-stock-art/) - 图片素材。
-- [Colormind ](http://colormind.io/) - 利用深度学习生成配色方案。
-- [Font Pair](https://fontpair.co/) - 排版工具。
 
-### 图像处理
+### 图像工具
 
-*Image Processing.*
+*Image tool.*
 
 - [Image Extractor](https://extract.pics/) - 导出公共网站的图片。
-- [Squoosh](https://squoosh.app/) - 图片压缩。
+
+#### 图片压缩
+
+*Image Compression.*
+
+- [Squoosh](https://squoosh.app/)
+- [Compress PNG](https://compresspng.com/)
+- [Picdiet](https://www.picdiet.com/)
+- [TinyPNG](https://tinypng.com/)
+- [Optimizilla](https://imagecompressor.com/)
+- [压缩图](https://www.yasuotu.com/)
+- [色彩笔](http://www.secaibi.com/tools/)
+
+#### 占位图像服务
+
+*Placeholder image service.*
+
+- [Placeholder.com](https://placeholder.com/) - 图片、灰度图、文本。
+- [Fake images please?](https://fakeimg.pl/) - 灰度图、文本，**免费开源**。
+- [Dynamic Dummy Image Generator](https://dummyimage.com/) - 灰度图、文本。
+- [Lorem Picsum](https://picsum.photos/) - 图片。
+- [PlaceIMG](https://placeimg.com/) - 图片。
+- [Ipsum Image](https://ipsumimage.appspot.com/) - 灰度图、文本。
 
 ### 编程字体
 
@@ -246,17 +287,6 @@
 - [Badges](https://formidable.com/open-source/badges/)
 - [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats) - 显示 GitHub 仓库统计信息。
 - [Star Charts](https://starchart.cc/) - GitHub 星数量趋势图。
-
-### 占位图像服务
-
-*Placeholder image service.*
-
-- [Placeholder.com](https://placeholder.com/) - 图片、灰度图、文本。
-- [Fake images please?](https://fakeimg.pl/) - 灰度图、文本，**免费开源**。
-- [Dynamic Dummy Image Generator](https://dummyimage.com/) - 灰度图、文本。
-- [Lorem Picsum](https://picsum.photos/) - 图片。
-- [PlaceIMG](https://placeimg.com/) - 图片。
-- [Ipsum Image](https://ipsumimage.appspot.com/) - 灰度图、文本。
 
 [`Go Top ↑`](#awesome-development-resources)
 
