@@ -230,6 +230,8 @@
 
 *Some very useful articles.*
 
+- [Tools for better thinking](https://untools.co/) - 思维决策工具。
+
 [`Go Top ↑`](#awesome-reading-list)
 
 ## 更多
