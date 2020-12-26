@@ -105,6 +105,7 @@
 - 图片（Image）
   - [iLoveIMG](https://www.iloveimg.com/zh-cn)
   - [Img2Go](https://www.img2go.com/zh) - 图片处理，还包含 PDF、音频、视频、电子书、OCR 处理等工具。
+  - [Doka.Photo](https://doka.photo/) - 免费在线图片编辑工具。
 
 - PDF
   - [iLovePDF](https://www.ilovepdf.com/zh-cn)
