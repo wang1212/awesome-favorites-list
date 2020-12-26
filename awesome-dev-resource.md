@@ -191,6 +191,12 @@
 - [http://gitd.cc/](http://gitd.cc/) - 文件代下服务。
 - [https://d.serctl.com/](https://d.serctl.com/) - 文件代下服务。
 
+### 编程训练
+
+*Programming training.*
+
+- [Codewars](https://www.codewars.com/) - 通过挑战解决代码问题提高编码水平。
+
 ### 设计工具
 
 *Design Tools.*
