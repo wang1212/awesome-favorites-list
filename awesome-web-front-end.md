@@ -21,13 +21,13 @@
 - [CSS](#css)
   - [代码风格规范（Code Style Specifications）](#css-代码风格规范)
   - [在线资源（Online Resources）](#css-在线资源)
-  - [字体图标（Font Icon）](#字体图标)
   - [工具库（Library）](#css-工具库)
 - [JavaScript](#javascript)
   - [代码风格规范（Code Style Specifications）](#js-代码风格规范)
   - [在线资源（Online Resources）](#js-在线资源)
   - [工具库（Library）](#js-工具库)
 - [TypeScript](#typescript)
+- [字体图标（Font Icon）](#字体图标)
 - [UI 设计系统（UI Design System）](#ui-设计系统)
 - [UI 组件（UI Component）](#ui-组件)
   - [组件库（Component Library）](#组件库)
@@ -207,39 +207,11 @@
 
 *CSS related online tools.*
 
-- [Open Color](https://yeun.github.io/open-color/) - 配色方案。
-- [Color Hunt](https://colorhunt.co/) - 配色方案。
-- [coolors](https://coolors.co/palettes/) - 配色方案。
-- [Sorted CSS Colors](https://enes.in/sorted-colors/) - 配色方案。
-- [Grabient](https://www.grabient.com/) - 配色方案，渐变色。
 - [Keyframes](https://keyframes.app/) - CSS 效果预览小工具集合。
 - [Animista](https://animista.net/) - 在线生成 CSS 动画样式代码。
 - [easings.co](https://easings.co/) - 测试 CSS 动画函数效果。
 - [enjoyCSS](https://enjoycss.com/) - 便捷的组件样式设计输出在线工具。
 - [Gradient Magic](https://www.gradientmagic.com/) - 渐变设计，CSS 渐变画廊。
-
-### 字体图标
-
-*Font icon, vector icon.*
-
-- 字体（Font）
-  
-- 图标（Icon）
-  - [Bootstrap Icons](https://icons.getbootstrap.com/) - SVG 图标库，**Twitter 公司发布**。
-  - [Feather](https://feathericons.com/) - 简单漂亮的**开源图标**。
-  - [Font Awesome](https://fontawesome.com/) - 提供了非常多的免费图标的库，使用率非常高。
-  - [IonIcons](https://ionicons.com) - ionic 框架团队制作的图标库。
-  - [Material Icons](https://material.io/tools/icons/) - Material Design 风格的图标库，**Google 官方发布**。
-  - [Material Design Icons](http://materialdesignicons.com/) - 遵循 Google Material Design 的图标库，**非官方**。
-  - [material design palette](https://www.materialpalette.com/) - Google Material Design 设计工具，提供官方图标（Material Icons）下载，**非官方**。
-  - [Fabric Icons](https://developer.microsoft.com/en-us/fabric#/styles/web/icons) - 微软官方提供的一套图标库，**Microsoft 官方发布**。
-  - [Octicons](https://octicons.github.com/) - GitHub 官方制作的图标库，**GitHub 官方发布**。
-  - [Spectrum Icons](https://spectrum.adobe.com/page/icons/) - Adobe Spectrum 设计系统图标，**Adobe 官方发布**。
-  - [Forge Icons](https://icons.theforgesmith.com/) - SVG 图标库。
-  - [Teenyicons](https://teenyicons.com/) - SVG 图标库。
-  - [Flat Icon](https://www.flaticon.com/)
-  - [Icons8](https://icons8.com/) - 提供免费的图标设计工具。
-  - [Simple Icons](https://simpleicons.org/) - 免费的 SVG 品牌 logo 图标。
 
 ### CSS 工具库
 
@@ -443,6 +415,34 @@
 - [TypeScript Performance Tips](https://github.com/microsoft/TypeScript/wiki/Performance) - TypeScript 性能优化，**官方**。
 - [typescript-cheatsheet](https://rmolinamir.github.io/typescript-cheatsheet/) - TypeScript 备忘单。
 - [TypeScriptToLua](https://typescripttolua.github.io/) - 用 TypeScript 编写 Lua。
+
+[`Go Top ↑`](#awesome-web-front-end-list)
+
+## 字体图标
+
+*Font icon, vector icon.*
+
+### 字体
+
+*Font.*
+  
+### 图标
+
+*Icon.*
+
+- [Bootstrap Icons](https://icons.getbootstrap.com/) - **开源**图标库，仅支持 SVG，**Twitter 公司发布**。
+- [Feather](https://feathericons.com/) - 简单漂亮的**开源**图标库，仅支持 SVG。
+- [Remix Icon](https://remixicon.com/) - 中性风格的**开源**图标库，支持 SVG 与 Web font。
+- [IonIcons](https://ionicons.com) - 精美的**开源**图标库，支持 SVG 与 Web font，**ionic 团队制作**。
+- [Material Icons](https://material.io/tools/icons/) - Material Design 风格的**开源**图标库，支持 SVG 与 Web font，**Google 官方发布**。
+- [Material Design Icons](http://materialdesignicons.com/) - Material Design 风格的**开源**图标库，支持 SVG 与 Web font**非官方，社区支持**。
+- [Octicons](https://octicons.github.com/) - GitHub **开源**图标库，**GitHub 官方发布**。
+- [Teenyicons](https://teenyicons.com/) - **开源**图标库，仅支持 SVG。
+- [Forge Icons](https://icons.theforgesmith.com/) - **免费**图标库，仅支持 SVG。
+- [Simple Icons](https://simpleicons.org/) - **免费**的品牌 logo 图标，仅支持 SVG。
+- [Fabric Icons](https://developer.microsoft.com/en-us/fabric#/styles/web/icons) - 图标库，仅支持 Web font，**Microsoft 官方发布**。
+- [Spectrum Icons](https://spectrum.adobe.com/page/icons/) - Adobe Spectrum 设计系统图标，**Adobe 官方发布**。
+- [Font Awesome](https://fontawesome.com/) - 丰富的图标库，提供**免费版**。
 
 [`Go Top ↑`](#awesome-web-front-end-list)
 
@@ -711,14 +711,6 @@
   - [PageSpeed Insights](https://developers.google.com/speed/pagespeed/insights/) - Google 提供的在线网站性能检测工具，提供优化建议和技巧，**Google 官方提供**。
   - [Lighthouse](https://developers.google.com/web/tools/lighthouse/) - Google 提供的一个网站优化检测分析工具，已被集成在 Chrome 开发工具中，也可以作为 Chrome 扩展或者命令行工具使用，**Google 官方提供**。
   - [What Web Can Do](https://whatwebcando.today/) - 可以检测当前设备所支持的 Web API，主要检测硬件设备传感器等，**非官方网站**。
-    
-- 图片压缩（Image Compression）
-  - [Compress PNG](https://compresspng.com/)
-  - [Picdiet](https://www.picdiet.com/)
-  - [TinyPNG](https://tinypng.com/)
-  - [Optimizilla](https://imagecompressor.com/)
-  - [压缩图](https://www.yasuotu.com/)
-  - [色彩笔](http://www.secaibi.com/tools/)
   
 - 在线 IDE、编辑器（IDE / Editor）
   - [StackBlitz](https://stackblitz.com/)
@@ -730,7 +722,6 @@
 - 其它（Others）
   - [bit](https://bit.dev/) - 构建可重用组件的协作平台。
   - [Prettier Playground](https://prettier.io/playground/) - Prettier 代码格式化工具的在线版本。
-  - [Doka](https://doka.photo/) - 图片编辑工具。
   - [PWA Inside](https://pwainside.com/) - PWA 应用资源和商店。
 
 ### 文章
@@ -747,8 +738,6 @@
 ### 其它
 
 *Other unclassified resources.*
-
-- [TodoMVC](http://todomvc.com/) - 构建 MV* 应用的技术选型推荐。
 
 - WebAssembly(wasm)
   - [Emscripten](https://emscripten.org/) - 用于编译为使用 LLVM 构建的 asm.js 和 WebAssembly 的工具链，可在 Web 浏览器中运行 C/C++ 代码。
