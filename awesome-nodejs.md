@@ -161,6 +161,7 @@
   - [tslog](https://tslog.js.org/) - 日志格式化。
   - [uuid](https://github.com/uuidjs/uuid) - 生成随机 id。
   - [Nano ID](https://zelark.github.io/nano-id-cc/) - 生成唯一、URL 友好、安全的随机字符串。
+  - [cuid](https://github.com/ericelliott/cuid) - 生成防碰撞的随机 id。
   
 - 时间日期（Date && Time）
   - [Day.js](https://day.js.org/) - 轻量级时间日期工具库。
