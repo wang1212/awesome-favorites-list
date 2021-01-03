@@ -136,7 +136,6 @@
   - [MSW](https://mswjs.io/) - 模拟 API 服务。
   - [faker.js](https://github.com/marak/faker.js) - 生成大量随机测试数据，可用来开发过程中进行 API 调试。
   - [Chance](https://chancejs.com/) - 生成随机的测试数据。
-  - [playwright](https://playwright.dev/) - 跨浏览器 Web 自动化工具，**Microsoft 发布**。
   - [Browsersync](https://www.browsersync.io/) - 浏览器同步调式工具，功能非常强大。
 
 - 代码静态分析（Code Lint）
@@ -255,6 +254,7 @@
   - [mailgen](https://github.com/eladnava/mailgen) - 生成响应式 HTML 电子邮件模版。
 
 - 无头浏览器（Headless Browser）
+  - [playwright](https://playwright.dev/) - 跨浏览器 Web 自动化工具，**Microsoft 发布**。
   - [puppeteer](https://github.com/puppeteer/puppeteer)
   - [cypress](https://www.cypress.io/)
   - [testcafe](https://devexpress.github.io/testcafe/)
