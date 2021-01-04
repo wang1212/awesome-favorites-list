@@ -459,6 +459,7 @@
 - [Fiddler Everywhere](https://www.telerik.com/fiddler) - 抓包工具，**提供免费版本**。
 - [mitmproxy](https://www.mitmproxy.org/) - Python 开发的 HTTPS 代理，**开源免费**。
 - [Docusaurus](https://v2.docusaurus.io/) - 快速构建优化、快速的网站，**Facebook 发布**。
+- [hoppscotch](https://hoppscotch.io/) - 在线的 http 客户端工具。
 
 [`Go Top ↑`](#awesome-development-resources)
 
