@@ -177,8 +177,9 @@
   - [Seer](http://1218.io/) - 文件内容预览工具，界面较为简陋，**提供免费版本**。
 
 - 图片（Image）
-  - [ImageGlass](https://imageglass.org/) - 非常轻量的图片浏览器，**开源软件**。
+  - [ImageGlass](https://imageglass.org/) - 非常轻量的图片浏览器，支持中文，**开源软件**。
   - [qimgv](https://github.com/easymodo/qimgv) - 图片浏览器，支持视频预览，**开源软件**。
+  - [qView](https://interversehq.com/qview/) - 图片浏览器，轻量、简单，**开源软件**。
   - [Picasa](https://picasa.google.com/) - 图片浏览器，Google 公司开发。（:warning: 停止支持）
 
 - PDF
