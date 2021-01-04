@@ -512,6 +512,7 @@
   - [Flickity](https://flickity.metafizzy.co/)
   - [lory.js](http://loryjs.github.io/lory/)
   - [keen-slider](https://keen-slider.io/)
+  - [Siema](https://pawelgrzybek.github.io/siema/) - 无任何依赖的轻量轮播组件。
  
 - Lightbox
   - [GLightbox](https://github.com/biati-digital/glightbox)
