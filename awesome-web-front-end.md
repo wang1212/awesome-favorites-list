@@ -74,6 +74,7 @@
 - [印记中文](https://docschina.org/) - 包含了许多前端技术库的中文翻译文档。
 - [cssdb](https://cssdb.org/) - CSS 新特性列表。
 - [CSS Triggers](https://csstriggers.com/) - 一些改变会导致重绘、重布局的 CSS 属性。
+- [CSS Reference](https://cssreference.io/) - CSS 视觉指南。
 
 - CSS 类命名规则（CSS class naming rules）
   - [CSS BEM](https://en.bem.info/)
