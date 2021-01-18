@@ -60,6 +60,8 @@
 
 - [Tomcat](http://tomcat.apache.org/) - Java Web 开发中的 Servlet 容器。	
 
+- [PostgREST](https://postgrest.org/) - 可利用 PostgreSQL 构建 RESTful API 的 web 服务器。
+
 [`Go Top ↑`](#awesome-web-back-end-list)
 
 ## 数据库
