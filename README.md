@@ -40,6 +40,7 @@
 - [Zoomstock](https://zoomstock.com/) - 搜索引擎，可索引来自免费顶级图片网站的数百万张照片和插图。
 - [ProductHunt](https://www.producthunt.com/) - 产品发布分享。
 - [Slant](https://www.slant.co/) - 搜索最佳实践。
+- [Ptable](https://ptable.com/?lang=zh) - 化学元素周期表。
 
 [`Go Top ↑`](#awesome-favorites-list)
 
