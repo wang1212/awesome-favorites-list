@@ -57,6 +57,7 @@
 - [披露易](https://www.hkexnews.hk/) - 港交所上市企业信息披露平台。
 - [资本邦](http://www.chinaipo.com/listed/) - 新三板挂牌企业信息查询。
 - [烯牛数据](http://www.xiniudata.com/)
+- [金融界大盘云图](http://summary.jrj.com.cn/dpyt/)
 
 ### 媒体行业
 
