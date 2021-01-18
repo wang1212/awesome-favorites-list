@@ -748,6 +748,7 @@
   - [Cheerp](https://www.leaningtech.com/cheerp/) - 与 Emscripten 类似。
   - [Perspective](https://github.com/finos/perspective) - 基于 C++ 的 wasm 数据可视化组件。
   - [AssemblyScript](https://www.assemblyscript.org/) - 类似 TypeScript 的可编译为 WASM 的语言。
+  - [Wasmer](https://wasmer.io/) - 轻量的 WebAssembly 运行时。
 
 - [JavaScript Open Source Award](https://osawards.com/javascript/) - JavaScript 开源项目奖，**非官方**。
 
