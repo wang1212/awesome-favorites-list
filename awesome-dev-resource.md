@@ -406,7 +406,7 @@
 
 *Command line tools.*
 
-#### Windows Platform
+#### Windows
 
 *Used on Windows platform.*
 
@@ -426,10 +426,15 @@
 
 - [tldr](https://tldr.sh/) - 类似于 `man` 命令，简化版的命令手册文档。
 - [The Fuck](https://github.com/nvbn/thefuck) - 命令行错误命令纠正工具（多平台支持）。
-- [ncdu](https://dev.yorhel.nl/ncdu) - 磁盘使用情况统计。
-- [sslh](https://github.com/yrutschle/sslh) - 实现端口复用。
+= [Glances](https://nicolargo.github.io/glances/) - 系统性能指标监控工具（多平台支持）。
 - [htop](https://htop.dev/) - 类似于 `top` 命令，交互式进程浏览器。
+- [ncdu](https://dev.yorhel.nl/ncdu) - 磁盘使用情况统计。
 - [exa](https://the.exa.website/) - 类似于 `ls` 命令。
+- [ctop](https://ctop.sh/) - 容器性能指标监控工具。
+- [lazydocker](https://github.com/jesseduffield/lazydocker) - Docker 终端 UI 管理工具。
+- [fd](https://github.com/sharkdp/fd) -  类似于 `find` 命令，更简单好用。
+- [fzf](https://github.com/junegunn/fzf) - 模糊查找器。
+- [sslh](https://github.com/yrutschle/sslh) - 实现端口复用。
 
 #### 其它
 
