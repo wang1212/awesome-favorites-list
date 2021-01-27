@@ -420,14 +420,21 @@
 - [Cmder](https://cmder.net/) - 基于 ConEmu 和 Clink 特性，采用 Monokai 颜色主题，支持 Git 等。
 - [Far Manager](https://www.farmanager.com/) - Windows 系统纯文本的文件管理器。
 
+#### Linux
+
+*Used on Linux platform.*
+
+- [tldr](https://tldr.sh/) - 类似于 `man` 命令，简化版的命令手册文档。
+- [The Fuck](https://github.com/nvbn/thefuck) - 命令行错误命令纠正工具（多平台支持）。
+- [ncdu](https://dev.yorhel.nl/ncdu) - 磁盘使用情况统计。
+- [sslh](https://github.com/yrutschle/sslh) - 实现端口复用。
+- [htop](https://htop.dev/) - 类似于 `top` 命令，交互式进程浏览器。
+- [exa](https://the.exa.website/) - 类似于 `ls` 命令。
+
 #### 其它
 
 *Others.*
 
-- [tldr](https://tldr.sh/) - 简化版的命令手册文档（Linux）。
-- [The Fuck](https://github.com/nvbn/thefuck) - 命令行错误命令纠正工具（Linux，及其它平台）。
-- [ncdu](https://dev.yorhel.nl/ncdu) - 磁盘使用情况统计（Linux）。
-- [sslh](https://github.com/yrutschle/sslh) - 实现端口复用（Linux）。
 - [Ink](https://github.com/vadimdemedes/ink) - 用 React.js 开发命令行应用。
 - [glow](https://github.com/charmbracelet/glow) - 在命令行渲染 Markdown 文档。
 - [Certbot](https://certbot.eff.org/) - 管理 [Let's Encrypt](https://letsencrypt.org/) 证书工具，为网站启用 HTTPS，**开源软件**。
