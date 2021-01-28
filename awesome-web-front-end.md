@@ -540,7 +540,7 @@
   - [clappr](http://clappr.io/) - 视频播放器。
   - [APlayer](https://aplayer.js.org/) - 非常漂亮的音乐播放器。
   - [DPlayer](http://dplayer.js.org/) - 视频播放器。
-  - [Vime](https://vime-js.com/) - 视频播放器。
+  - [Vime](https://vimejs.com/) - 视频播放器。
 
 - 文件上传（File Upload）
   - [FilePond ](https://pqina.nl/filepond/) - 文件上传。
