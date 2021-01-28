@@ -430,6 +430,7 @@
 
 - [tldr](https://tldr.sh/) - 类似于 `man` 命令，简化版的命令手册文档。
 - [The Fuck](https://github.com/nvbn/thefuck) - 命令行错误命令纠正工具（多平台支持）。
+- [screenFetch](https://github.com/KittyKatt/screenFetch) - 显示系统详细信息。
 = [Glances](https://nicolargo.github.io/glances/) - 系统性能指标监控工具（多平台支持）。
 - [htop](https://htop.dev/) - 类似于 `top` 命令，交互式进程浏览器。
 - [ncdu](https://dev.yorhel.nl/ncdu) - 磁盘使用情况统计。
