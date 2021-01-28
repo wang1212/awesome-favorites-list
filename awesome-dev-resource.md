@@ -439,7 +439,7 @@
 - [lazydocker](https://github.com/jesseduffield/lazydocker) - Docker 终端 UI 管理工具。
 - [fd](https://github.com/sharkdp/fd) -  类似于 `find` 命令，更简单好用。
 - [fzf](https://github.com/junegunn/fzf) - 模糊查找器。
-- [bat](https://github.com/sharkdp/bat) - 类似于 `cat` 命令，支持语法高亮登特性。
+- [bat](https://github.com/sharkdp/bat) - 类似于 `cat` 命令，支持语法高亮等特性。
 - [ripgrep ](https://github.com/BurntSushi/ripgrep) - 类似于 `grep` 命令。
 - [sslh](https://github.com/yrutschle/sslh) - 实现端口复用。
 
