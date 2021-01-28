@@ -175,6 +175,7 @@
 - [Diffchecker](https://www.diffchecker.com/) - 在线文本、图片差异比较工具。
 - [regex101](https://regex101.com/) - 在线正则调试工具。
 - [RegEx Pal Tester](https://www.regexpal.com/) - 在线正则调试工具。
+- [iHateRegex](https://ihateregex.io/) - 在线正则调试工具。
 - [Carbon](https://carbon.now.sh/) - 生成漂亮的源代码图片。
 
 ### 公共 API
@@ -282,6 +283,7 @@
 - [Dev Fonts](https://devfonts.gafi.dev/) - 编程字体对比。
 - [Programming Fonts](https://www.programmingfonts.org/) - 编程字体对比。
 - [Nerd Fonts](https://www.nerdfonts.com/) - 开发人员使用的标志性图标和字体集合。
+- [Powerline fonts](https://github.com/powerline/fonts)
 - [Source Code Pro](https://github.com/adobe-fonts/source-code-pro) - 等宽字体，适合编程使用，**Adobe 出品，开源**。
 - [JetBrains Mono](https://www.jetbrains.com/lp/mono/) - 等宽字体，适合编程使用，**JetBrains 出品，开源**。
 
