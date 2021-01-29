@@ -203,8 +203,12 @@
 
 *Design Tools.*
 
+- [设计师网址导航](https://hao.uisdc.com/)
+- [设计导航](http://hao.shejidaren.com/index.html)
 - [Boss 设计](https://www.bossdesign.cn/) - 收集国内外设计素材资源的网站。
-- [设计导航](http://hao.shejidaren.com/index.html) - 设计资源网站导航。
+- [Dribbble](https://dribbble.com/)
+- [UI 中国用户体验设计平台](https://www.ui.cn/)
+- [花瓣网](https://huaban.com/) - 设计素材网站。
 - [Code My UI](https://codemyui.com/) - Web UI 设计相关的代码片段。
 - [BGJar](https://bgjar.com/) - 在线 SVG 背景图生成。
 - [Trianglify.io](https://trianglify.io/) - 生成三角网 SVG 背景图。
