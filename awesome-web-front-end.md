@@ -567,6 +567,7 @@
   - [Tweakpane](https://cocopon.github.io/tweakpane/) - 可快速创建跟踪值变化和调节的控制面板。
   - [Holder.js](http://holderjs.com/) - 图像占位符。
   - [List.js](https://listjs.com/) - 为列表提供过滤、排序等功能。
+  - [simple-drawing-board.js](https://github.com/leader22/simple-drawing-board.js) - 简单画板。
 
 [`Go Top ↑`](#awesome-web-front-end-list)
 
