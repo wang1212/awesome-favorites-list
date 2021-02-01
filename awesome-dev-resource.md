@@ -394,6 +394,7 @@
   - [Enhanced Github](https://github.com/softvar/enhanced-github) - 增强 GitHub 网站界面功能，显示仓库大小、每个文件的大小、下载链接和复制文件内容的按钮等。
   - [ZenHub for GitHub](https://github.com/marketplace/zenhub) - GitHub 项目管理工具。
   - [GitHub Dark](https://github.com/StylishThemes/GitHub-Dark) - GitHub 网站界面黑夜模式。
+- [CodeCopy](https://github.com/zenorocha/codecopy) - 为网站上的代码块提供复制到粘贴板按钮。
 
 #### USB Boot
 
