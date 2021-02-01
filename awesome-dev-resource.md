@@ -119,6 +119,7 @@
   
 - 每周（Weekly）
   - [StatusCode Weekly](https://weekly.statuscode.com/) - 周刊，软件开发、Web 技术、软件架构等。（Cooperpress 出版）
+  - [Web Tools Weekly](https://webtoolsweekly.com/) - 周刊，Web 开发工具资讯。
   - [Mobile Dev Weekly](https://mobiledevweekly.com/) - 周刊，移动应用（Web 和 Native）开发技术。（Cooperpress 出版）
   - [Android Weekly](https://androidweekly.net/) - 周刊，Android 技术。
   - [Frontend Focus](https://frontendfoc.us/) - 周刊，Web 前端技术资讯。（Cooperpress 出版）
