@@ -101,6 +101,8 @@
 
 *Build tool, packaging tool used to develop web app, realize web engineering.*
 
+- [Create App](https://createapp.dev/) - 前端项目构建工具配置。
+
 ### API 兼容性支持
 
 *API Polyfill.*
@@ -558,6 +560,7 @@
   - [Driver.js](https://kamranahmed.info/driver.js/)
    
 - 其它（Others）
+  - [PACE](https://codebyzach.github.io/pace/) - 页面加载指示器。
   - [TOAST UI Calendar](https://github.com/nhn/tui.calendar) - 强大的日历日程组件。
   - [FullCalendar](https://fullcalendar.io/) - 日历日程组件。
   - [reveal.js](https://revealjs.com/) - 创建漂亮的演示文稿（幻灯片）。
