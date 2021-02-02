@@ -225,10 +225,11 @@
 - [logofury](https://www.logofury.com/) - logo 设计。
 - [Free Favicon Maker](https://formito.com/tools/favicon) - SVG 图标制作。
 - [Flat Icon](https://www.flaticon.com/) - 图标市场。
+- [Inspyr Icon](https://inspyr.io/) - SVG 图标。
 - [Icons8](https://icons8.com/) - 免费图标，设计工具。
 - [Font Pair](https://fontpair.co/) - 排版工具。
 - [Vecteezy](https://www.vecteezy.com/) - 图片素材。
-- [MixKit ](https://mixkit.co/free-stock-art/) - 图片素材。
+- [MixKit](https://mixkit.co/free-stock-art/) - 图片素材。
 
 #### 配色方案
 
