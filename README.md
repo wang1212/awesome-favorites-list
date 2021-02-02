@@ -39,9 +39,6 @@
 - [HiPDF](https://www.hipdf.com/) - PDF 在线处理工具。
 - [Smallpdf](https://smallpdf.com/cn) - PDF 在线处理工具，**提供 Chrome 扩展**。
 - [AudioMass](https://audiomass.co/) - 音频文件在线编辑软件。
-- [Pexels](https://www.pexels.com/zh-cn/) - 免费的摄影素材分享。
-- [Unsplash](https://unsplash.com/) - 免费的图片素材。
-- [Zoomstock](https://zoomstock.com/) - 搜索引擎，可索引来自免费顶级图片网站的数百万张照片和插图。
 - [ProductHunt](https://www.producthunt.com/) - 产品发布分享。
 - [Slant](https://www.slant.co/) - 搜索最佳实践。
 - [Ptable](https://ptable.com/?lang=zh) - 化学元素周期表。
