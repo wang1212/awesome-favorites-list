@@ -210,6 +210,10 @@
 - [Dribbble](https://dribbble.com/)
 - [UI 中国用户体验设计平台](https://www.ui.cn/)
 - [花瓣网](https://huaban.com/) - 设计素材网站。
+- [Pexels](https://www.pexels.com/zh-cn/) - 免费的摄影素材分享。
+- [Unsplash](https://unsplash.com/) - **免费**的图片素材。
+- [Pikwizard](https://pikwizard.com/) - **免版税**的图片、视频素材。
+- [Zoomstock](https://zoomstock.com/) - 搜索引擎，可索引来自免费顶级图片网站的数百万张照片和插图。
 - [Code My UI](https://codemyui.com/) - Web UI 设计相关的代码片段。
 - [BGJar](https://bgjar.com/) - 在线 SVG 背景图生成。
 - [Trianglify.io](https://trianglify.io/) - 生成三角网 SVG 背景图。
