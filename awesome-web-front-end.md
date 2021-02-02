@@ -436,6 +436,7 @@
 
 *Icon.*
 
+- [Glyphs](https://glyphs.fyi/) - **开源**图标库。
 - [Bootstrap Icons](https://icons.getbootstrap.com/) - **开源**图标库，仅支持 SVG，**Twitter 公司发布**。
 - [Feather](https://feathericons.com/) - 简单漂亮的**开源**图标库，仅支持 SVG。
 - [Remix Icon](https://remixicon.com/) - 中性风格的**开源**图标库，支持 SVG 与 Web font。
