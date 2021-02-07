@@ -31,6 +31,8 @@
 - [Google Style Guides](https://google.github.io/styleguide/) - Google 代码风格指南。
 - [Google Engineering Practices Documentation](https://google.github.io/eng-practices/) - Google 工程实践文档。
 - [HTTP Status Codes](https://httpstatuses.com/) - HTTP 协议状态码列表。
+- [AOMedia](https://aomedia.org/) - 下一代开源数字媒体技术标准。
+- [ONVIF](https://www.onvif.org/) - 安防行业开放组织，推出了标准化的开放接口协议 onvif。
 
 [`Go Top ↑`](#awesome-development-resources)
 
