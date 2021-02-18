@@ -346,6 +346,7 @@
 
 - [Git](https://git-scm.com/) - 目前最受欢迎的，使用最广泛的分布式源代码版本控制工具。
   - [GitHub](https://github.com/)
+    - [github1s](https://github.com/conwnet/github1s) - 在浏览器 VS Code 中打开 GitHub 仓库代码。
   - [GitLab](https://about.gitlab.com/)
   - [Bitbucket](https://bitbucket.org/)
   - [Gitee](https://gitee.com/) - 码云，国内[开源中国](https://www.oschina.net/)推出。
