@@ -232,6 +232,7 @@
 - [Font Pair](https://fontpair.co/) - 排版工具。
 - [Vecteezy](https://www.vecteezy.com/) - 图片素材。
 - [MixKit](https://mixkit.co/free-stock-art/) - 图片素材。
+- [Iconduck](https://iconduck.com/) - **免费开源**的图标与插画素材。
 
 #### 配色方案
 
