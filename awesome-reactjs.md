@@ -81,9 +81,11 @@
 - [React Query](https://github.com/tannerlinsley/react-query) - 服务器端数据获取、缓存、异步更新。
 - [SWR](https://swr.now.sh/) - 用于远程数据获取。
 - [React Hook Form](https://react-hook-form.com/) - 表单处理。
+- [Unform](https://unform.dev/) - 注重性能的表单处理工具。
 - [useWorker](https://useworker.js.org/) - 使用 Web Worker 运行复杂任务，创建非阻塞 UI。
 - [React Adaptive Loading Hooks & Utilities](https://github.com/GoogleChromeLabs/react-adaptive-hooks) - 检测客户端的状态，例如网络状态、媒体支持等。
 - [use-deep-compare-effect](https://github.com/kentcdodds/use-deep-compare-effect) - `useEffect` 的深比较模式。
+- [react-laag](https://www.react-laag.com/) - 创建工具提示或者弹出框。
 
 [`Go Top ↑`](#awesome-reactjs-list)
 
@@ -186,6 +188,7 @@
   - [react-beautiful-dnd](https://react-beautiful-dnd.netlify.app/)
   - [React DnD](https://react-dnd.github.io/react-dnd/)
   - [React-Draggable](https://github.com/STRML/react-draggable) - 让组件位置可以被拖动调整。
+  - [dnd kit](https://dndkit.com/) - 轻量、高性能的拖放组件。
 
 - 大量数据渲染（Large amount of data rendering）
   - [react-virtualized](https://bvaughn.github.io/react-virtualized/)
@@ -201,6 +204,7 @@
   - [Renature](https://formidable.com/open-source/renature/) - 物理动画库。
   - [react-confetti](https://github.com/alampros/react-confetti) - 五彩纸屑动画。
   - [React DOM Confetti](https://daniel-lundin.github.io/react-dom-confetti/) - 五彩纸屑动画。
+  - [react-number-easing](https://javier.xyz/react-number-easing/) - 数字滚动动画。
 
 - 二维码（QR Code）
   - [qrcode.react](https://github.com/zpao/qrcode.react)
@@ -218,6 +222,7 @@
   - [React Diagrams](https://projectstorm.gitbook.io/react-diagrams/) - 流程图组件。
   - [React Sortable Tree](https://github.com/frontend-collective/react-sortable-tree) - 树形列表，支持拖拽。
   - [React Measure](https://github.com/souporserious/react-measure) - 组件尺寸测量。
+  - [React-Menu](https://szhsin.github.io/react-menu/) - 菜单组件，支持多级菜单、滚动菜单等。
 
 [`Go Top ↑`](#awesome-reactjs-list)
 
