@@ -115,6 +115,7 @@
   - 日志（Log）
     - [log4js](https://github.com/log4js-node/log4js-node) - 日志记录。
     - [winston](https://github.com/winstonjs/winston) - 简单通用的日志库。
+    - [pino](https://getpino.io/) - 简单的 JSON 日志记录器。
   - 其它（Others）
     - [dotenv](https://github.com/motdotla/dotenv) - 从 **.env** 文件为 Node.js 项目加载环境变量。
     - [esm](https://github.com/standard-things/esm) - 能够为 `.js` 文件提供 [ECMAScript Modules](https://tc39.es/ecma262/#sec-modules) 支持。
