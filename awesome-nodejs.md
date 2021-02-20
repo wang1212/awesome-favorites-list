@@ -118,6 +118,7 @@
     - [pino](https://getpino.io/) - 简单的 JSON 日志记录器。
   - 其它（Others）
     - [dotenv](https://github.com/motdotla/dotenv) - 从 **.env** 文件为 Node.js 项目加载环境变量。
+    - [Envalid](https://github.com/af/envalid) - 环境变量校验。
     - [esm](https://github.com/standard-things/esm) - 能够为 `.js` 文件提供 [ECMAScript Modules](https://tc39.es/ecma262/#sec-modules) 支持。
     - [envinfo](https://github.com/tabrindle/envinfo) - 生成开发环境信息报告。
     - [Madge](https://github.com/pahen/madge) - 生成可视化的模块依赖图。
@@ -202,7 +203,8 @@
     - [file-type](https://github.com/sindresorhus/file-type) - 探测文件类型。
   - html/xml
     - [jsdom](https://github.com/jsdom/jsdom) - Web 标准的纯 JavaScript 实现。
-    - [cheerio](https://cheerio.js.org/) - 包装了[parse5](https://github.com/inikulin/parse5) 和 [htmlparser2](https://github.com/fb55/htmlparser2/) 的轻量级 HTML 文档解析库，具有类 jQuery 的 api。    
+    - [cheerio](https://cheerio.js.org/) - 包装了[parse5](https://github.com/inikulin/parse5) 和 [htmlparser2](https://github.com/fb55/htmlparser2/) 的轻量级 HTML 文档解析库，具有类 jQuery 的 api。
+    - [parse-xml](https://github.com/rgrove/parse-xml) - XML 解析器。
   - markdown
     - [Marked](https://marked.js.org/) - markdown 文件解析，转换成 HTML 文件。
     - [gray-matter](https://github.com/jonschlinkert/gray-matter) - 解析 [Front Matter](https://jekyllrb.com/docs/front-matter/)。
@@ -229,6 +231,8 @@
   - image
     - [sharp](https://sharp.pixelplumbing.com/) - 图像处理，拉伸、缩放、色彩提取等等，底层使用 [libvips](https://libvips.github.io/libvips/)，无需安装其它依赖，开箱即用，效率更高。
     - [gm](http://aheckmann.github.io/gm/) - 图像处理，需先安装 [GraphicsMagick](http://www.graphicsmagick.org/) 或 [ImageMagick](https://imagemagick.org/index.php)。
+  - svg
+    - [SVGO](https://github.com/svg/svgo) - SVG 文件优化工具。
 
 - HTTP 服务器（HTTP Server）
   - [http-server](https://github.com/http-party/http-server) - 可快速启动一个轻量的 http 服务器。
@@ -280,6 +284,7 @@
 
 - 本地化（Native）
   - [node-windows](https://github.com/coreybutler/node-windows) - Windows 平台对 Node.js 脚本（守护程序，事件日志，UAC 等）的支持。
+  - [systeminformation](https://github.com/sebhildebrandt/systeminformation) - 获取系统信息。
 
 [`Go Top ↑`](#awesome-nodejs-list)
 
