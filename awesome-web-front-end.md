@@ -349,6 +349,8 @@
   - utils
     - [FileSaver.js](https://github.com/eligrey/FileSaver.js/) - Web 浏览器客户端文件保存 api 实现。
     - [StreamSaver.js](https://github.com/jimmywarting/StreamSaver.js) - Web 浏览器客户端异步保存文件 api 实现，解决了 FileSaver 的大小限制问题。
+  - html/xml
+    - [parse-xml](https://github.com/rgrove/parse-xml) - XML 解析器。
   - json5
     - [JSON5](https://json5.org/) - JSON5 格式数据解析、序列化。
   - zip
