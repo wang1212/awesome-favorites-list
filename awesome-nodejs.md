@@ -277,6 +277,8 @@
   - [chalk](https://github.com/chalk/chalk) - 终端输出字符串样式工具，支持全部的颜色。
   - [blessed](https://github.com/chjj/blessed) - 高级终端接口库。
     - [blessed-contrib](https://github.com/yaronn/blessed-contrib) - 仪表面板工具库。
+  - [meow](https://github.com/sindresorhus/meow) - 命令行应用开发工具包。
+  - [Gluegun](https://github.com/infinitered/gluegun) - 命令行应用开发工具包。
 
 - 可执行程序（Executable）
   - [pkg](https://github.com/vercel/pkg) - 将 Node.js 脚本打包成单个可执行文件。
