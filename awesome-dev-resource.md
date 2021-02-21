@@ -51,6 +51,7 @@
 - [Bash Pitfalls](http://mywiki.wooledge.org/BashPitfalls) - 此页面汇总了 Bash 用户常犯的编程错误。
 - [COMMANDLINEFU.COM](https://www.commandlinefu.com/commands/browse) - 汇集了很多优秀的、充满智慧的、简洁的命令行命令。
 - [A collection of .gitignore templates](https://github.com/github/gitignore) - 不同类型项目的 `.gitignore` 文件模板。
+  - [gitignore.io](https://www.toptal.com/developers/gitignore) - 根据关键词生成 `.gitignore` 文件模板。
 
 [`Go Top ↑`](#awesome-development-resources)
 
