@@ -52,6 +52,7 @@
 - [COMMANDLINEFU.COM](https://www.commandlinefu.com/commands/browse) - 汇集了很多优秀的、充满智慧的、简洁的命令行命令。
 - [A collection of .gitignore templates](https://github.com/github/gitignore) - 不同类型项目的 `.gitignore` 文件模板。
   - [gitignore.io](https://www.toptal.com/developers/gitignore) - 根据关键词生成 `.gitignore` 文件模板。
+- [CODELF](https://unbug.github.io/codelf/) - 根据关键词查找开源项目中变量命名。
 
 [`Go Top ↑`](#awesome-development-resources)
 
