@@ -558,6 +558,7 @@
   - [Muuri](https://muuri.dev/)
   - [Packery](https://packery.metafizzy.co/) 
   - [gridstack.js](https://gridstackjs.com/)
+  - [DragSelect](https://dragselect.com/) - 拖拽选择。
   
 - 用户引导（User guided tours）
   - [intro.js](https://introjs.com/)
