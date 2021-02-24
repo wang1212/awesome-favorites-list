@@ -223,6 +223,7 @@
   - [React Sortable Tree](https://github.com/frontend-collective/react-sortable-tree) - 树形列表，支持拖拽。
   - [React Measure](https://github.com/souporserious/react-measure) - 组件尺寸测量。
   - [React-Menu](https://szhsin.github.io/react-menu/) - 菜单组件，支持多级菜单、滚动菜单等。
+  - [Emoji Mart](https://missive.github.io/emoji-mart/) - emoji 表情选择组件。
 
 [`Go Top ↑`](#awesome-reactjs-list)
 
