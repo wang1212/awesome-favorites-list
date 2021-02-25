@@ -44,6 +44,7 @@
 - [Developer Roadmaps](https://roadmap.sh/) - 开发者路线图。
 - [4Dev.tools](https://4dev.tools/) - Web 开发人员开发资源。
 - [Resources to learn Git](http://try.github.io/) - 学习 Git 的文档。
+- [Git Explorer](https://gitexplorer.com/) - Git 命令参考。
 - [lib4dev](http://www.lib4dev.in/) - 开源库分类查询。
 - [DevDocs](https://devdocs.io/) - 在线技术文档查询。
 - [Code Cheatsheets](https://devhints.io/) - 备忘清单，脚本片段。
