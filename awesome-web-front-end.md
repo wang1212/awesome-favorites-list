@@ -32,6 +32,7 @@
 - [UI 组件（UI Component）](#ui-组件)
   - [组件库（Component Library）](#组件库)
   - [独立组件（Independent Components）](#独立组件)
+- [UI 模板（UI Template）](#ui-模板)
 - [数据可视化（Data Visualization）](#数据可视化)
   - [可视化工具（Visualization Tools）](#可视化工具)
   - [图表（Chart）](#图表)
@@ -577,6 +578,14 @@
   - [Holder.js](http://holderjs.com/) - 图像占位符。
   - [List.js](https://listjs.com/) - 为列表提供过滤、排序等功能。
   - [simple-drawing-board.js](https://github.com/leader22/simple-drawing-board.js) - 简单画板。
+
+[`Go Top ↑`](#awesome-web-front-end-list)
+
+## UI 模板
+
+*UI template.*
+
+- [tabler](https://tabler.io/) - **开源免费**的可视化管理页面模板。
 
 [`Go Top ↑`](#awesome-web-front-end-list)
 
