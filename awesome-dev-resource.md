@@ -185,6 +185,7 @@
   - [iHateRegex](https://ihateregex.io/)
   - [regexr](https://regexr.com/)
 - [Carbon](https://carbon.now.sh/) - 生成漂亮的源代码图片。
+- [Learn Git Branching](https://learngitbranching.js.org/) - 在线 Git 命令互动式学习。
 
 ### 公共 API
 
