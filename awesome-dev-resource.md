@@ -495,6 +495,7 @@
 
 *Tool kit.*
 
+- [free-for.dev](https://free-for.dev/) - **免费**的开发资源服务列表。
 - [DBeaver Community](https://dbeaver.io/) - 图形化数据库管理工具软件，**多平台支持，开源免费**。
 - [Cube.js](https://cube.dev/) - 开源的 Web 应用分析解决方案。
 - [screego](https://screego.net/#/) - 屏幕共享服务器。
