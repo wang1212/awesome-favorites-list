@@ -578,6 +578,8 @@
   - [Holder.js](http://holderjs.com/) - 图像占位符。
   - [List.js](https://listjs.com/) - 为列表提供过滤、排序等功能。
   - [simple-drawing-board.js](https://github.com/leader22/simple-drawing-board.js) - 简单画板。
+  - [simple-keyboard](https://virtual-keyboard.js.org/) - 虚拟键盘。
+  - [Tippy.js](https://atomiks.github.io/tippyjs/) - 工具提示组件。
 
 [`Go Top ↑`](#awesome-web-front-end-list)
 
