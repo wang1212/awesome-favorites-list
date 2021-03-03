@@ -83,6 +83,7 @@
 
 *Resource websites such as learning tutorials and courses.*
 
+- [Awesome CTO](https://github.com/kuchin/awesome-cto) - 为首席技术官（CTO）准备的资源清单。
 - [Hackr.io](https://hackr.io/) - 在线教程。
 - [RealWorld example apps](https://github.com/gothinkster/realworld) - 不同技术栈实现相同的前后端应用示例代码。
 - [build-your-own-x](https://github.com/danistefanovic/build-your-own-x) - 自己构建某种技术的教程。
