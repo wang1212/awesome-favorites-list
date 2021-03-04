@@ -223,8 +223,9 @@
 *CSS tool library, dealing with compatibility issues, etc.*
 
 - CSS 重置（CSS Reset）
-  - [Normalize.css](http://necolas.github.io/normalize.css/) - 现代化的 Reset CSS 工具库，统一浏览器默认样式。
+  - [Normalize.css](http://necolas.github.io/normalize.css/) - 现代化的 Reset CSS 工具库，统一浏览器默认样式。（:warning: 不再更新）
   - [sanitize.css](https://csstools.github.io/sanitize.css/)
+  - [ress](https://ress-css.surge.sh/)
 
 - 动画（Animate）
   - [Animate.css](https://daneden.github.io/animate.css/) - 丰富的 CSS 动画工具库。
