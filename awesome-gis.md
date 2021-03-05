@@ -153,8 +153,9 @@ _Available in browser（JavaScript）. **Tips:** Most of what is available in th
 - [Cesium.js](https://cesiumjs.org/) - 目前最具优势的、功能丰富的开源三维地图引擎。
 
 - [Mapbox GL](https://docs.mapbox.com/mapbox-gl-js/overview/) - 基于 WebGL 技术的现代化地图引擎，**Mapbox 公司开发**。
-  - [React Mapbox GL](https://uber.github.io/react-map-gl/) - 基于 React.js 集成了 MapBox GL 的实现，**Uber 公司维护**。
+  - [React Mapbox GL](https://uber.github.io/react-map-gl/) - 基于 React.js 集成了 Mapbox GL 的实现，**Uber 公司维护**。
   - [Open Font Glyphs for GL Styles](https://github.com/openmaptiles/fonts) - 开放的标记字体和图标源，无需 token 与 key。
+  - [Maputnik](https://maputnik.github.io/) - [Mapbox 样式规范](https://docs.mapbox.com/mapbox-gl-js/style-spec/)**开源**的可视化编辑器，**非 Mapbox 官方发布**。
 
 - [DECK.GL](https://deck.gl/) - 由 WebGL 驱动的大数据可视化框架，**Uber 公司开发**。
 
