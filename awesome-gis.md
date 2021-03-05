@@ -158,6 +158,7 @@ _Available in browser（JavaScript）. **Tips:** Most of what is available in th
   - [Maputnik](https://maputnik.github.io/) - [Mapbox 样式规范](https://docs.mapbox.com/mapbox-gl-js/style-spec/)**开源**的可视化编辑器，**非 Mapbox 官方发布**。
 
 - [DECK.GL](https://deck.gl/) - 由 WebGL 驱动的大数据可视化框架，**Uber 公司开发**。
+  - [kepler.gl](https://kepler.gl/) - 大型数据集的功能强大的开源地理空间分析工具。
 
 - [MapillaryJS](https://mapillary.github.io/mapillary-js/) - 街景地图引擎，可与众多地图引擎（Leaflet/Openlayers/Mapbox GL 等）搭配使用。
 
