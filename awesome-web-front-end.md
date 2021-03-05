@@ -654,6 +654,7 @@
 - [dom-confetti](https://github.com/daniel-lundin/dom-confetti) - 五彩纸屑动画。
 - [Canvas Confetti](https://www.kirilv.com/canvas-confetti/) - 五彩纸屑动画。
 - [Whirl](https://whirl.netlify.app/) - CSS Loading 动画。
+- [Vanta.js](https://www.vantajs.com/) - 数款页面 WebGL 背景动画。
 
 [`Go Top ↑`](#awesome-web-front-end-list)
 
