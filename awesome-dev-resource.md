@@ -54,6 +54,7 @@
 - [A collection of .gitignore templates](https://github.com/github/gitignore) - 不同类型项目的 `.gitignore` 文件模板。
   - [gitignore.io](https://www.toptal.com/developers/gitignore) - 根据关键词生成 `.gitignore` 文件模板。
 - [CODELF](https://unbug.github.io/codelf/) - 根据关键词查找开源项目中变量命名。
+- [Naming cheatsheet](https://github.com/kettanaito/naming-cheatsheet) - 变量命名指南。
 
 [`Go Top ↑`](#awesome-development-resources)
 
