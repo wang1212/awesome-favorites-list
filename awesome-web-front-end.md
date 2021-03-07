@@ -567,6 +567,7 @@
 - 用户引导（User guided tours）
   - [intro.js](https://introjs.com/)
   - [Driver.js](https://kamranahmed.info/driver.js/)
+  - [Shepherd](https://shepherdjs.dev/)
    
 - 其它（Others）
   - [PACE](https://codebyzach.github.io/pace/) - 页面加载指示器。
