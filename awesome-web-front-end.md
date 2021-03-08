@@ -455,6 +455,7 @@
 - [Fabric Icons](https://developer.microsoft.com/en-us/fabric#/styles/web/icons) - 图标库，仅支持 Web font，**Microsoft 官方发布**。
 - [Spectrum Icons](https://spectrum.adobe.com/page/icons/) - Adobe Spectrum 设计系统图标，**Adobe 官方发布**。
 - [Font Awesome](https://fontawesome.com/) - 丰富的图标库，提供**免费版**。
+- [IconPark](https://iconpark.bytedance.com/official) - **开源免费**的图标库，**字节跳动公司发布**。
 
 [`Go Top ↑`](#awesome-web-front-end-list)
 
