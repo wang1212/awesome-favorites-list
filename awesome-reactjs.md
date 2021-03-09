@@ -219,10 +219,13 @@
   - [React Joyride](https://react-joyride.com/)
   - [Reactour](https://reactour.js.org/)
 
-- 其它（Others）
-  - [React PDF](https://projects.wojtekmaj.pl/react-pdf/) - pdf 文件预览组件。
+- 消息通知（Notification）
   - [React-Toastify](https://fkhadra.github.io/react-toastify/) - 消息弹窗组件。
   - [React Toast Notifications](https://jossmac.github.io/react-toast-notifications/) - 消息通知弹窗组件。
+  - [react-hot-toast](https://react-hot-toast.com/)
+
+- 其它（Others）
+  - [React PDF](https://projects.wojtekmaj.pl/react-pdf/) - pdf 文件预览组件。
   - [react-big-calendar](http://jquense.github.io/react-big-calendar/) - 事件日历，日程表组件。
   - [React Diagrams](https://projectstorm.gitbook.io/react-diagrams/) - 流程图组件。
   - [React Sortable Tree](https://github.com/frontend-collective/react-sortable-tree) - 树形列表，支持拖拽。
