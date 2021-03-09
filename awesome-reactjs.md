@@ -193,6 +193,7 @@
   - [React DnD](https://react-dnd.github.io/react-dnd/)
   - [React-Draggable](https://github.com/STRML/react-draggable) - 让组件位置可以被拖动调整。
   - [dnd kit](https://dndkit.com/) - 轻量、高性能的拖放组件。
+  - [react-rnd](https://github.com/bokuweb/react-rnd)
 
 - 大量数据渲染（Large amount of data rendering）
   - [react-virtualized](https://bvaughn.github.io/react-virtualized/)
