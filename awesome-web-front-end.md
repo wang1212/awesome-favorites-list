@@ -105,7 +105,7 @@
 
 *Build tool, packaging tool used to develop web app, realize web engineering.*
 
-- [Create App](https://createapp.dev/) - 前端项目构建工具配置。
+- [Create App](https://createapp.dev/) - 前端项目构建工具启动配置。
 
 ### API 兼容性支持
 
@@ -195,6 +195,8 @@
 ### HTML 工具库
 
 *HTML tool library, dealing with compatibility issues, etc.*
+
+- [HTML Boilerplates](https://htmlboilerplates.com/) - HTML 文件模板。
 
 [`Go Top ↑`](#awesome-web-front-end-list)
 
