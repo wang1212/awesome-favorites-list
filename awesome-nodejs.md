@@ -347,6 +347,7 @@
 - [Electron](https://electronjs.org/) - 基于 Node.js 与 Chromium 技术的开源跨平台桌面端应用开发解决方案。
 - [NW.js](https://nwjs.io/) - 基于 Node.js 与 Chromium 技术的开源跨平台桌面端应用开发解决方案。
 - [Neutralino](https://neutralino.js.org/) - 轻量级跨平台桌面端应用开发框架。
+- [NodeGui](https://docs.nodegui.org/)
 
 [`Go Top ↑`](#awesome-nodejs-list)
 
