@@ -274,6 +274,7 @@
   - [node-notifier](https://github.com/mikaelbr/node-notifier) - 跨平台原生通知功能。
 
 - 命令行工具（Command line tool）
+  - [minimist](https://github.com/substack/minimist) - 命令行参数解析器。
   - [Caporal](https://github.com/mattallty/Caporal.js) - 全功能命令行应用开发框架。
   - [commander](https://github.com/tj/commander.js) - 简单的命令行接口。
   - [inquirer](https://github.com/SBoudrias/Inquirer.js) - 交互式命令行。
