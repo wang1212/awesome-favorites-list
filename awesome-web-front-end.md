@@ -689,6 +689,7 @@
 
 - [Riot.js](https://riot.js.org/) - 基于组件的 UI 库。
 - [LitElement](https://lit-element.polymer-project.org/) - 用于创建 [Web 组件](https://developer.mozilla.org/en-US/docs/Web/Web_Components) 的基类工具库。
+- [Hybrids](https://hybrids.js.org/) - 用于创建 Web 组件的 UI 库。
 
 [`Go Top ↑`](#awesome-web-front-end-list)
 
