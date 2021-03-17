@@ -138,6 +138,7 @@
 - [Rainmeter](https://www.rainmeter.net/) - Windows 桌面自定义小工具，**开源软件**。
 - [uTools](http://www.u.tools/) - 生产力工具，包含许多小工具，**免费软件**。
 - [Module Art](https://moduleart.github.io/) - 软件集合，包含图片浏览器、录屏软件等，**开源软件**。
+- [WhatPulse](https://whatpulse.org/) - 记录 PC 活动情况，例如统计键盘热力图、带宽情况等等，**提供免费版本**。
 
 ### 浏览器
 
