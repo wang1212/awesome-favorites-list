@@ -39,6 +39,7 @@
   - [动画（Animation）](#动画)
 - [开发框架（Framework）](#开发框架)
 - [应用状态管理（Application State Management）](#应用状态管理)
+- [WebAssembly](#webAssembly)
 - [更多（More）](#更多)
   - [CDN](#cdn)
   - [在线工具（Online Tools）](#在线工具) 
@@ -53,7 +54,6 @@
 - [ECMA International](http://www.ecma-international.org/) - ECMA 国际是一家国际性会员制度的信息和电信标准组织，负责行业标准的制定，例如 ECMA Script。
 - [ECMAScript Official Specification Standard](https://www.ecma-international.org/publications/standards/Ecma-262.htm) - ECMAScript 官方规范标准。
 - [TC39 ECMAScript proposals](https://github.com/tc39/proposals) - TC39 对 ECMAScript 标准制定提案的记录。
-- [WebAssembly](https://webassembly.org/) - WebAssembly 官方网站，可在浏览器中运行 C/C++ 代码。
 - [JSON Specification](http://www.json.org/) - JSON 数据格式规范。
 - [JSON Schema](http://json-schema.org/) - JSON 数据校验。
 - [JSON5 Specification](https://spec.json5.org/) - JSON5 数据格式规范，是对 JSON 格式的扩展，支持注释等特性。
@@ -717,6 +717,24 @@
 
 [`Go Top ↑`](#awesome-web-front-end-list)
 
+## WebAssembly
+
+- [WebAssembly](https://webassembly.org/) - 新型字节码格式，可将其它语言编译后在 Web 浏览器中运行，**官方网站**。
+- [WASI](https://wasi.dev/) - WebAssembly 系统接口标准，致力于在浏览器之外的环境中运行 WebAssembly。
+
+- 工具链（Tools）
+  - [Emscripten](https://emscripten.org/) - 用于编译为使用 LLVM 构建的 asm.js 和 WebAssembly 的工具链，可在 Web 浏览器中运行 C/C++ 代码。
+  - [Cheerp](https://www.leaningtech.com/cheerp/) - 与 Emscripten 类似。
+  - [AssemblyScript](https://www.assemblyscript.org/) - 类似 TypeScript 的可编译为 WASM 的语言。
+  - [Perspective](https://github.com/finos/perspective) - 基于 C++ 的 wasm 数据可视化组件。
+
+- 运行时（Runtime）
+  - [Wasmer](https://wasmer.io/) - 轻量的 WebAssembly 运行时，支持 WASI 和 Emscripten。
+  - [Wasmtime](https://wasmtime.dev/) - WebAssembly 与 WASI 运行时。
+  - [Lucet](https://github.com/bytecodealliance/lucet) - 本机 WebAssembly 编译器和运行时。
+
+[`Go Top ↑`](#awesome-web-front-end-list)
+
 ## 更多
 
 *More useful related resources.*
@@ -778,13 +796,6 @@
 ### 其它
 
 *Other unclassified resources.*
-
-- WebAssembly(wasm)
-  - [Emscripten](https://emscripten.org/) - 用于编译为使用 LLVM 构建的 asm.js 和 WebAssembly 的工具链，可在 Web 浏览器中运行 C/C++ 代码。
-  - [Cheerp](https://www.leaningtech.com/cheerp/) - 与 Emscripten 类似。
-  - [Perspective](https://github.com/finos/perspective) - 基于 C++ 的 wasm 数据可视化组件。
-  - [AssemblyScript](https://www.assemblyscript.org/) - 类似 TypeScript 的可编译为 WASM 的语言。
-  - [Wasmer](https://wasmer.io/) - 轻量的 WebAssembly 运行时。
 
 - [JavaScript Open Source Award](https://osawards.com/javascript/) - JavaScript 开源项目奖，**非官方**。
 
