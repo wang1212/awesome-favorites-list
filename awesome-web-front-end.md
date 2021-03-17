@@ -732,6 +732,7 @@
   - [Wasmer](https://wasmer.io/) - 轻量的 WebAssembly 运行时，支持 WASI 和 Emscripten。
   - [Wasmtime](https://wasmtime.dev/) - WebAssembly 与 WASI 运行时。
   - [Lucet](https://github.com/bytecodealliance/lucet) - 本机 WebAssembly 编译器和运行时。
+  - [Lunatic](https://lunatic.solutions/) - WebAssembly 运行时。
 
 [`Go Top ↑`](#awesome-web-front-end-list)
 
