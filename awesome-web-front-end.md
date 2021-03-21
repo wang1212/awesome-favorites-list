@@ -413,7 +413,7 @@
 
 - 客户端数据库（Client Database）
   - [localForage](https://github.com/localForage/localForage) - 离线存储，对 IndexedDB、WebSQL、localStorage 的封装。
-  - [SQLite.js](https://github.com/sql-js/sql.js)
+  - [SQL.js](https://sql.js.org/)
   - [LokiJS](https://github.com/techfort/LokiJS) - 文档型内存数据库。
 
 - OCR
