@@ -272,6 +272,7 @@
 - 其它（Others）
   - [React Content Loader](https://github.com/danilowoz/react-content-loader) - 提供了组件加载占位效果（Skeleton Screen），优化交互体验。
   - [react-fast-compare](https://formidable.com/open-source/react-fast-compare/) - React 组件的高性能深度比较，可替代 `lodash.isEqual`。
+  - [Gatsby](https://www.gatsbyjs.org/) - 静态站点生成器，基于 React.js 的开源框架，可快速开发 Web 网站和应用。
 
 ## 更多
 
