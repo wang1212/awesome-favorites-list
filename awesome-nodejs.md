@@ -338,8 +338,6 @@
 - [Koa](https://koajs.com/) - 轻量级、高性能的 Web 框架，Express 团队开发。
   - [AdminBro](https://adminbro.com/) - 应用管理面板，**Koa 官方提供插件支持**。
 
-- [Gatsby](https://www.gatsbyjs.org/) - 基于 React.js 的开源框架，可快速开发 Web 网站和应用，多用于制作静态资源站点。
-
 [`Go Top ↑`](#awesome-nodejs-list)
 
 ## 内容管理系统
