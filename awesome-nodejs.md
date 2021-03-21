@@ -338,6 +338,12 @@
 - [Koa](https://koajs.com/) - 轻量级、高性能的 Web 框架，Express 团队开发。
   - [AdminBro](https://adminbro.com/) - 应用管理面板，**Koa 官方提供插件支持**。
 
+- [Restify](http://restify.com/) - 可快速构建 RESTful API 的框架。
+- [Fastify](https://www.fastify.io/) - 高性能、低消耗的 Web 框架。
+- [Sails.js](https://sailsjs.com/) - 实时的 MVC 框架。
+- [Adonis.js](https://adonisjs.com/)
+- [NestJs](https://nestjs.com/) - 渐进式 Web 框架。
+
 [`Go Top ↑`](#awesome-nodejs-list)
 
 ## 内容管理系统
