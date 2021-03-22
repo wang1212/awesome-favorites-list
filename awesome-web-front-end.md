@@ -232,19 +232,21 @@
   - [sanitize.css](https://csstools.github.io/sanitize.css/)
   - [ress](https://ress-css.surge.sh/)
 
-- 动画（Animate）
-  - [Animate.css](https://daneden.github.io/animate.css/) - 丰富的 CSS 动画工具库。
-  - [magic.css](https://www.minimamente.com/project/magic/)  - CSS3 动画。
-  - [Hover.css](http://ianlunn.github.io/Hover/) - 添加鼠标悬停动画效果。（:warning: 不再更新）
-  - [CSShake](https://elrumordelaluz.github.io/csshake/) - 抖动效果。
-  - [Imagehover.css](http://imagehover.io/) - 添加鼠标悬停，图片动画效果。（:warning: 不再更新）
-
 - 实用工具（Utils）
   - [Tailwind CSS](https://tailwindcss.com/) - 可定制设计的低级 CSS 框架，不提供组件样式，仅提供预设的工具类，来进行组合创建样式。
     - [Tailwind CSS Cheat Sheet](https://nerdcave.com/tailwind-cheat-sheet)
     - [Tailwind Components](https://tailwindcomponents.com/) - 使用 TailwindCSS 构建的组件，社区支持。
     - [Hypercolor](https://hypercolor.dev/) - 渐变色集合。
   - [Masonry](https://masonry.desandro.com/) - `grid` 布局工具。
+
+- 动画（Animate）
+  - [Animate.css](https://daneden.github.io/animate.css/) - 丰富的 CSS 动画工具库。
+  - [magic.css](https://www.minimamente.com/project/magic/)  - CSS3 动画。
+  - [Hover.css](http://ianlunn.github.io/Hover/) - 添加鼠标悬停动画效果。（:warning: 不再更新）
+  - [CSShake](https://elrumordelaluz.github.io/csshake/) - 抖动效果。
+  - [Imagehover.css](http://imagehover.io/) - 添加鼠标悬停，图片动画效果。（:warning: 不再更新）
+  - [Whirl](https://whirl.netlify.app/) - CSS Loading 动画。
+  - [Transition.css](https://transition.style/) - CSS 过渡动画。
 
 [`Go Top ↑`](#awesome-web-front-end-list)
 
@@ -634,6 +636,7 @@
 - [sigma.js](http://sigmajs.org/) - 图形网络库。
 - [Cytoscape.js](https://js.cytoscape.org/) - 用于可视化和分析的图论（网络）库。
 - [uPlot](https://github.com/leeoniya/uPlot) - 快速、轻量级的图标库。
+- [Charts.css](https://chartscss.org/) - CSS 图表库。
 
 ### 动画
 
@@ -661,7 +664,6 @@
 - [granim.js](https://sarcadass.github.io/granim.js/index.html) - 创建交互式渐变动画。
 - [dom-confetti](https://github.com/daniel-lundin/dom-confetti) - 五彩纸屑动画。
 - [Canvas Confetti](https://www.kirilv.com/canvas-confetti/) - 五彩纸屑动画。
-- [Whirl](https://whirl.netlify.app/) - CSS Loading 动画。
 - [Vanta.js](https://www.vantajs.com/) - 数款页面 WebGL 背景动画。
 
 [`Go Top ↑`](#awesome-web-front-end-list)
