@@ -78,6 +78,7 @@
 - [印记中文](https://docschina.org/) - 包含了许多前端技术库的中文翻译文档。
 - [cssdb](https://cssdb.org/) - CSS 新特性列表。
 - [CSS Triggers](https://csstriggers.com/) - 一些改变会导致重绘、重布局的 CSS 属性。
+  - [What forces layout / reflow](https://gist.github.com/paulirish/5d52fb081b3570c81e3a) - 一些会导致重绘、重布局的 DOM 操作。
 - [CSS Reference](https://cssreference.io/) - CSS 视觉指南。
 
 - CSS 类命名规则（CSS class naming rules）
@@ -790,7 +791,6 @@
 
 *Some technical discussion articles.*
 
-- [What forces layout / reflow](https://gist.github.com/paulirish/5d52fb081b3570c81e3a) - 一些会导致重绘、重布局的 DOM 操作。
 - [You might not need jQuery](http://youmightnotneedjquery.com/)
 - [The complete guide to CSS media queries](https://polypane.app/blog/the-complete-guide-to-css-media-queries/)
 - [What does 100% mean in CSS](https://wattenberger.com/blog/css-percents) - CSS 中 `100%` 的含义。
