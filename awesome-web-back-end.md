@@ -54,6 +54,7 @@
   - [OpenResty](http://openresty.org/) - 算是 Nginx + Lua 的开发平台，提供了很多优质的 Nginx 插件。
   - [Kong](https://konghq.com/) - 现代 API 服务平台，提供诸如 API 网关等功能，其本身也利用了 OpenResty，是一个 Lua 模块 Nginx 插件。
   - [ngxtop](https://github.com/lebinh/ngxtop) - Python 编写的工具，实时分析 nginx 的运行指标。
+  - [rhit](https://github.com/Canop/rhit) - nginx 日志浏览器，指标分析工具。
   - [NGINX Config](https://www.digitalocean.com/community/tools/nginx) - Nginx 配置在线生成工具，**非官方**。
 
 - [Apache](http://httpd.apache.org/) - 世界上最著名的 Web 静态服务器。
