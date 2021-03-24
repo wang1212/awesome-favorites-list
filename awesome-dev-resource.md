@@ -510,7 +510,8 @@
 
 - [free-for.dev](https://free-for.dev/) - **免费**的开发资源服务列表。
 - [DBeaver Community](https://dbeaver.io/) - 图形化数据库管理工具软件，**多平台支持，开源免费**。
-- [Cube.js](https://cube.dev/) - 开源的 Web 应用分析解决方案。
+- [Cube.js](https://cube.dev/) - **开源**的 Web 应用分析解决方案。
+- [Counter](https://counter.dev/) - **开源免费**的 Web 站点统计分析平台。
 - [screego](https://screego.net/#/) - 屏幕共享服务器。
 - [WireShark](https://www.wireshark.org/) - 协议分析工具，**开源免费**。
 - [Fiddler Everywhere](https://www.telerik.com/fiddler) - 抓包工具，**提供免费版本**。
