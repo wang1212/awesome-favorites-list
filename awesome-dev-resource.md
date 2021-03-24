@@ -12,7 +12,8 @@
 
 - [规范参考（Specification Reference）](#规范参考)
 - [技术参考文档（Technical Reference Document）](#技术参考文档)
-- [阅读（Reading）](#阅读)
+- [技术学习（Technical Learning）](#技术学习)
+  - [面试（Interview）](#面试)
   - [文章（Article）](#文章)
   - [学习（Learn）](#学习)
   - [论坛（Forum）](#论坛)
@@ -58,7 +59,7 @@
 
 [`Go Top ↑`](#awesome-development-resources)
 
-## 阅读
+## 技术学习
 
 *Developer-related journals, articles, news, etc.*
 
@@ -68,6 +69,13 @@
 
 - 出版商（Publisher）
   - [Cooperpress](https://cooperpress.com/) - 计算机技术相关杂志、网站。
+
+## 面试
+
+*Interview.*
+
+- [LeetCode](https://leetcode-cn.com/) - 在线笔试算法题练习。
+- [牛客网](https://www.nowcoder.com/) - 在线刷题。
 
 ### 文章
 
