@@ -222,6 +222,7 @@
 - [easings.co](https://easings.co/) - 测试 CSS 动画函数效果。
 - [enjoyCSS](https://enjoycss.com/) - 便捷的组件样式设计输出在线工具。
 - [Gradient Magic](https://www.gradientmagic.com/) - 渐变设计，CSS 渐变画廊。
+- [Conic.css](https://conic.style/) - CSS 渐变。
 - [Glassmorphism CSS Generator](https://glassmorphism.com/) - 毛玻璃效果。
 
 ### CSS 工具库
