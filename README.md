@@ -33,6 +33,7 @@
 
 - [Google Fonts](https://fonts.google.com/) - 免费开源的字体集合。
 - [Google Noto Fonts](https://www.google.com/get/noto/) - 免费可供所有人使用的，支持全球大部分语言的字体，**Google 发布**。
+- [Fontshare](https://www.fontshare.com/) - 可免费商用的字体集合。
 - [OfficePlus](http://www.officeplus.cn/) - Excel/Word/PPT 模板免费下载，**需登录微软帐号**。
 - [51ppt](http://www.51pptmoban.com/) - PPT 模板免费下载。
 - [DocTranslator](https://www.onlinedoctranslator.com/zh-CN/) - 在线文档翻译工具，以及 PDF 转 Word 无水印等。
