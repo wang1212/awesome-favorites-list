@@ -639,6 +639,7 @@
 - [Cytoscape.js](https://js.cytoscape.org/) - 用于可视化和分析的图论（网络）库。
 - [uPlot](https://github.com/leeoniya/uPlot) - 快速、轻量级的图标库。
 - [Charts.css](https://chartscss.org/) - CSS 图表库。
+- [billboard.js](https://naver.github.io/billboard.js/) - 基于 D3.js 的图表库。
 
 ### 动画
 
