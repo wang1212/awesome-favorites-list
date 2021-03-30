@@ -16,6 +16,7 @@
 
 - [技术规范标准（Technical Specifications）](#技术规范标准)
 - [技术参考文档（Technical Reference Document）](#技术参考文档)
+- [论坛社区（Forum Community）](#论坛社区)
 - [地理空间库（Geospatial Library）](#地理空间库)
 - [空间数据库（Spatial Database）](#空间数据库)
 - [地图服务器（Map Server）](#地图服务器)
@@ -55,6 +56,15 @@
 - [EPSG.io](http://epsg.io/) - 全球坐标系统 EPSG 在线查询，同时提供 API 支持，MapTiler 提供支持。
 - [Spatial Reference](https://spatialreference.org/) - 空间参考定义查询。
 - [Format Descriptions for Geospatial Data](https://www.loc.gov/preservation/digital/formats/fdd/gis_fdd.shtml) - 地理数据格式描述参考。
+
+[`Go Top ↑`](#awesome-gis-list)
+
+## 论坛社区
+
+*Forum communities related to GIS topics.*
+
+- [GIS Stack Exchange](https://gis.stackexchange.com/) - 问答社区，**StackExchange** 的 GIS 话题组。
+- [ArcGIS 知乎](http://zhihu.geoscene.cn/) - 由 Esri 中国创办。
 
 [`Go Top ↑`](#awesome-gis-list)
 
