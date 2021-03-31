@@ -96,7 +96,7 @@
 
 *Daily tools.*
 
-- [Cubox 收藏夹](https://cubox.pro/) - 网页收藏。
+- [diagrams.net](https://www.diagrams.net/) - 流程图、UML 图绘制工具，**开源软件**。（提供安装包版本）
 
 ### 文件处理
 
