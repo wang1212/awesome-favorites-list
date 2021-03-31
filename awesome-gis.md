@@ -65,6 +65,7 @@
 
 - [GIS Stack Exchange](https://gis.stackexchange.com/) - 问答社区，**StackExchange** 的 GIS 话题组。
 - [ArcGIS 知乎](http://zhihu.geoscene.cn/) - 由 Esri 中国创办。
+- [GeospatialOnline](https://www.geospatialonline.com/)
 
 [`Go Top ↑`](#awesome-gis-list)
 
