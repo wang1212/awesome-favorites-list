@@ -675,6 +675,8 @@
 
 *Web front-end development framework (library).*
 
+- [Backbone.js](https://backbonejs.org/) - 为 Web 应用开发引入 MVC 模型概念。
+
 - [React.js](https://reactjs.org/) -  前端响应式 UI 库，其技术生态圈非常繁荣，Facebook 公司发布。
   - [Awesome-React.js](./awesome-reactjs.md) - React.js 生态技术汇总。
   
