@@ -89,14 +89,13 @@
 
 *Software that can be used in a web browser. (Progressive web application)*
 
-- [Speedtest](https://www.speedtest.net/) - 专业测速。
-- [excalidraw](https://excalidraw.com/) - 在线绘图板。
-
 ### 日常工具
 
 *Daily tools.*
 
+- [Speedtest](https://www.speedtest.net/) - 专业测速。
 - [diagrams.net](https://www.diagrams.net/) - 流程图、UML 图绘制工具，**开源软件**。（提供安装包版本）
+- [excalidraw](https://excalidraw.com/) - 在线绘图板。
 
 ### 文件处理
 
