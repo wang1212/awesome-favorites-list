@@ -94,8 +94,6 @@
 *Daily tools.*
 
 - [Speedtest](https://www.speedtest.net/) - 专业测速。
-- [diagrams.net](https://www.diagrams.net/) - 流程图、UML 图绘制工具，**开源软件**。（提供安装包版本）
-- [excalidraw](https://excalidraw.com/) - 在线绘图板。
 
 ### 文件处理
 
@@ -113,6 +111,15 @@
   - [Smallpdf](https://smallpdf.com/cn)
   - [PDF2Go](https://www.pdf2go.com/zh) - PDF 文件处理，还包含图片、音频、视频、电子书、OCR 处理等工具。
   - [DocTranslator](https://www.onlinedoctranslator.com/zh-CN/) - 在线文档翻译工具，以及 PDF 转 Word 无水印等。
+
+### 设计工具
+
+*Software interface design, prototype drawing design, etc.*
+
+- [diagrams.net](https://www.diagrams.net/) - 流程图、UML 图绘制工具，**开源软件**。（提供安装包版本）
+- [Quant UX](https://www.quant-ux.com/) - 原型图工具，**开源软件**。
+- [Penpot](https://penpot.app/) - 原型图工具，**开源软件**。
+- [excalidraw](https://excalidraw.com/) - 在线绘图板。
 
 [`Go Top ↑`](#awesome-software)
 
@@ -201,10 +208,12 @@
 - [Typora](https://www.typora.io/) - Markdown 文本编辑器，很漂亮，功能很强大，**测试版免费**。
 - [Zettlr](https://www.zettlr.com/) - Markdown 文本编辑器，很漂亮，功能很强大，**开源软件**。
 
-### 设计
+### 设计工具
 
 *Software interface design, prototype drawing design, etc.*
 
+- [Pencil](http://pencil.evolus.vn/) - 原型图工具，**开源软件**。
+- [Alva](https://meetalva.io/) - 原型图工具，**开源软件**。
 - [axure](https://www.axure.com/) - 产品原型图设计，**商业软件**。
 - [Sketch](https://www.sketch.com/) - 产品原型图设计，**商业软件**。
 - [PxCook](https://www.fancynode.com.cn/pxcook) - 图片标注工具。
