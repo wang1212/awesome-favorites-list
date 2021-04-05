@@ -292,6 +292,7 @@
   - [Chance](https://chancejs.com/) - 生成随机的测试数据。
   - [Perfume.js](https://zizzamia.github.io/perfume/) - 性能监控工具。
   - [Mirage JS](https://miragejs.com/) - Mock API。
+  - [Sinon.JS](https://sinonjs.org/)
  
 - 移动端调试（Mobile debugging）
   - [Eruda](https://eruda.liriliri.io/) - 移动端 Web 调试工具。
