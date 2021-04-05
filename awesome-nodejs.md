@@ -127,6 +127,7 @@
     - [envinfo](https://github.com/tabrindle/envinfo) - 生成开发环境信息报告。
     - [Madge](https://github.com/pahen/madge) - 生成可视化的模块依赖图。
     - [web-worker](https://github.com/developit/web-worker) - 在浏览器和 Node.js 环境中实现一致的 Web Worker API。
+    - [piscina](https://github.com/piscinajs/piscina) - 线程池工具。
 
 - 文档（Doc）
   - [tldr](https://github.com/tldr-pages/tldr) - Unix 系统的 man pages 文档简化版本，更清晰易懂。
