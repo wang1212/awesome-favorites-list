@@ -94,6 +94,7 @@
 *Daily tools.*
 
 - [Speedtest](https://www.speedtest.net/) - 专业测速。
+- [SimilarSites](https://www.similarsites.com/) - 查询相似站点。（提供 Chrome 扩展）
 
 ### 文件处理
 
