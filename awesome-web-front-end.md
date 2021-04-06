@@ -584,7 +584,7 @@
   - [Driver.js](https://kamranahmed.info/driver.js/)
   - [Shepherd](https://shepherdjs.dev/)
    
-- [编辑器](Editor)   
+- 编辑器（Editor）
   - [TOAST UI Editor](https://ui.toast.com/tui-editor/) - 所见即所得编辑器。
   - [slate](https://www.slatejs.org/)
   - [Quill](https://quilljs.com/)
