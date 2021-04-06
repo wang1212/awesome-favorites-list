@@ -584,12 +584,17 @@
   - [Driver.js](https://kamranahmed.info/driver.js/)
   - [Shepherd](https://shepherdjs.dev/)
    
+- [编辑器](Editor)   
+  - [TOAST UI Editor](https://ui.toast.com/tui-editor/) - 所见即所得编辑器。
+  - [slate](https://www.slatejs.org/)
+  - [Quill](https://quilljs.com/)
+  - [Editor.js](https://editorjs.io/)
+   
 - 其它（Others）
   - [PACE](https://codebyzach.github.io/pace/) - 页面加载指示器。
   - [TOAST UI Calendar](https://github.com/nhn/tui.calendar) - 强大的日历日程组件。
   - [FullCalendar](https://fullcalendar.io/) - 日历日程组件。
   - [reveal.js](https://revealjs.com/) - 创建漂亮的演示文稿（幻灯片）。
-  - [TOAST UI Editor](https://ui.toast.com/tui-editor/) - 所见即所得编辑器。
   - [fullPage](https://alvarotrigo.com/fullPage/) - 全屏滚动页面。
   - [mailgo](https://mailgo.dev/) - 邮件和电话系统行为。
   - [PulltoRefresh](https://www.boxfactura.com/pulltorefresh.js/) - 下拉刷新。
