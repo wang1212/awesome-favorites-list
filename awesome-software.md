@@ -128,6 +128,8 @@
 
 *Android*
 
+- [VirtualXposed](https://vxposed.com/) - 虚拟化，**开源软件**。
+
 [`Go Top ↑`](#awesome-software)
 
 ## 桌面端
