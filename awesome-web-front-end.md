@@ -399,6 +399,9 @@
 - 套接字（Socket / TCP）
   - [socket.io-client](https://socket.io/) - 优秀的实时通信客户端框架。
 
+- WebRTC
+  - [PeerJS](https://peerjs.com/) - 对 `WebRTC` API 的简单抽象。
+
 - 科学计算（Compute - Math && High precision && Scientific Computing）
   - [math.js](https://mathjs.org/)
   - [stdlib](https://stdlib.io/)
