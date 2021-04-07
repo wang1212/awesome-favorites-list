@@ -32,8 +32,6 @@
 
 - [React Developer Roadmap](https://roadmap.sh/react) - React 开发者路线图参考。
 - [React Developer Roadmap](https://github.com/adam-golab/react-developer-roadmap) - React 开发者路线图参考。（:warning: 自 2019 年不再更新）
-- [React Fiber Architecture](https://github.com/acdlite/react-fiber-architecture) - React Fiber 架构简介，**非官方**。
-- [React inDepth Dev](https://indepth.dev/react) - 一些讲解 React 高级概念的文章，**非官方**。
 
 [`Go Top ↑`](#awesome-reactjs-list)
 
@@ -275,6 +273,14 @@
   - [React Content Loader](https://github.com/danilowoz/react-content-loader) - 提供了组件加载占位效果（Skeleton Screen），优化交互体验。
   - [react-fast-compare](https://formidable.com/open-source/react-fast-compare/) - React 组件的高性能深度比较，可替代 `lodash.isEqual`。
   - [Gatsby](https://www.gatsbyjs.org/) - 静态站点生成器，基于 React.js 的开源框架，可快速开发 Web 网站和应用。
+
+## 文章
+
+*Some articles explaining the core technology of React.*
+
+- [React inDepth Dev](https://indepth.dev/react) - 一些讲解 React 高级概念的文章。
+- [React Fiber Architecture](https://github.com/acdlite/react-fiber-architecture) - React Fiber 架构简介，**非官方**。
+- [Why Do React Elements Have a $$typeof Property?](https://overreacted.io/why-do-react-elements-have-typeof-property/) - React 中 `$$typeof` 属性的意义。
 
 ## 更多
 
