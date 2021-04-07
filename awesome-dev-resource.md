@@ -108,6 +108,7 @@
 - [Stack Overflow](https://stackoverflow.com/) - 全球程序员学习、分享，技术问答社区网站，**包含在 StackExchange 中**。
 - [StackShare](https://stackshare.io/) - 全球技术趋势分享讨论。
 - [DEV](https://dev.to/) - 开发者社区。
+- [in Depth Dev](https://indepth.dev/) - 高级 Web 开发技术新闻。
 - [Front-End Front](https://frontendfront.com/) - 前端开发人员社区。
 - [CNode 社区](https://cnodejs.org/) - CNode 社区由一批热爱 Node.js 技术的工程师发起，致力于 Node.js 的技术研究。
 - [Ruby China](https://ruby-china.org/) - 由众多爱好者共同维护的 Ruby 中文社区。
@@ -159,6 +160,9 @@
   - [Smashing Magazine](https://www.smashingmagazine.com/) - 周刊，Web 前端与 UX 资讯。
   - [科技爱好者周刊](https://github.com/ruanyf/weekly)
   - [Awesome Weekly](https://github.com/jondot/awesome-weekly) - 更多周刊。
+
+- 每月（Monthly）
+  - [The Deep Dive](https://indepth.dev/newsletter) - 月刊，一月两次，高级 Web 开发技术。
 
 - 半年（Half a year）
   - [Technology Radar](https://www.thoughtworks.com/radar) - 六个月一期，[ThoughtWorks](https://www.thoughtworks.com/) 出品的技术雷达。
