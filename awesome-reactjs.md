@@ -32,7 +32,8 @@
 
 - [React Developer Roadmap](https://roadmap.sh/react) - React 开发者路线图参考。
 - [React Developer Roadmap](https://github.com/adam-golab/react-developer-roadmap) - React 开发者路线图参考。（:warning: 自 2019 年不再更新）
-- [React Fiber Architecture](https://github.com/acdlite/react-fiber-architecture) - React Fiber 算法记录，**非官方**。
+- [React Fiber Architecture](https://github.com/acdlite/react-fiber-architecture) - React Fiber 架构简介，**非官方**。
+- [React inDepth](https://indepth.dev/react) - 一些讲解 React 高级概念的文章，**非官方**。
 
 [`Go Top ↑`](#awesome-reactjs-list)
 
