@@ -279,8 +279,10 @@
 
 *Some articles explaining the core technology of React.*
 
-- [React inDepth Dev](https://indepth.dev/react) - 一些讲解 React 高级概念的文章。
-- [React Fiber Architecture](https://github.com/acdlite/react-fiber-architecture) - React Fiber 架构简介，**非官方**。
+- [React in Depth Dev](https://indepth.dev/react) - 一些讲解 React 高级概念的文章。
+  - [Inside Fiber: in-depth overview of the new reconciliation algorithm in React](https://medium.com/react-in-depth/inside-fiber-in-depth-overview-of-the-new-reconciliation-algorithm-in-react-e1c04700ef6e)
+  - [The how and why on React’s usage of linked list in Fiber to walk the component’s tree](https://medium.com/react-in-depth/the-how-and-why-on-reacts-usage-of-linked-list-in-fiber-67f1014d0eb7)
+- [React Fiber Architecture](https://github.com/acdlite/react-fiber-architecture) - React Fiber 架构简介。
 - [Why Do React Elements Have a $$typeof Property?](https://overreacted.io/why-do-react-elements-have-typeof-property/) - React 中 `$$typeof` 属性的意义。
 
 ## 更多
