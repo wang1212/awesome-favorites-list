@@ -129,6 +129,7 @@
 *Android*
 
 - [VirtualXposed](https://vxposed.com/) - 虚拟化，**开源软件**。
+- [李跳跳](https://www.coolapk.com/apk/com.whatsbug.litiaotiao) - 屏蔽 App 启动广告，**免费软件**。
 
 [`Go Top ↑`](#awesome-software)
 
