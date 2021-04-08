@@ -241,6 +241,7 @@
 
 - HTTP 服务器（HTTP Server）
   - [http-server](https://github.com/http-party/http-server) - 可快速启动一个轻量的 http 服务器。
+  - [CORS Anywhere](https://github.com/Rob--W/cors-anywhere) - 反向代理服务器。
 
 - HTTP 请求（HTTP Request）
   - [axios](https://github.com/axios/axios) - 处理 HTTP 请求的工具库，非常方便。
