@@ -93,6 +93,7 @@
   - [ECMAScript 6 — New Features: Overview & Comparison](http://es6-features.org/) - ES6 新特性与旧代码差异对比。
   - [What the f\*ck JavaScript?](https://github.com/denysdovhan/wtfjs) - JavaScript 中有趣且易错的要点。
   - [The Modern JavaScript Tutorial](https://javascript.info/) - 现代 JavaScript 教程。
+  - [this vs that](https://thisthat.dev/) - 类似概念区分理解。
 
 - 代码片段（Code Snippets）
   - [30 seconds](https://www.30secondsofcode.org/) - 30 seconds 是一个系列，包含 JS、React.js、CSS 相关的编程技巧和代码片段。
