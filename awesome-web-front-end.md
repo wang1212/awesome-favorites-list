@@ -94,11 +94,17 @@
   - [What the f\*ck JavaScript?](https://github.com/denysdovhan/wtfjs) - JavaScript 中有趣且易错的要点。
   - [The Modern JavaScript Tutorial](https://javascript.info/) - 现代 JavaScript 教程。
 
+- 代码片段（Code Snippets）
+  - [30 seconds](https://www.30secondsofcode.org/) - 30 seconds 是一个系列，包含 JS、React.js、CSS 相关的编程技巧和代码片段。
+  - [favorite JavaScript utilities](https://1loc.dev/) - JavaScript 编程技巧，一行代码。
+  - [HTML DOM](https://htmldom.dev/) - 有用的 HTML 代码片段。
+  - [Vanilla JavaScript Toolkit](https://vanillajstoolkit.com/) - 原生 JS 代码片段集合。
+  - [Line Of Code](https://1loc.dev/)
+
 - [JavaScript Algorithms and Data Structures](https://github.com/trekhleb/javascript-algorithms) - 算法和数据结构。
-- [30 seconds](https://www.30secondsofcode.org/) - 30 seconds 是一个系列，包含 JS、React.js、CSS 相关的编程技巧和代码片段。
-- [favorite JavaScript utilities](https://1loc.dev/) - JavaScript 编程技巧，一行代码。
 - [JS The Right Way](http://jstherightway.org/) - 一些 JavaScript 最佳实践。
 - [33 js concepts](https://github.com/leonardomso/33-js-concepts) - 包含了丰富的 JavaScript 相关的知识概念，学习资源。
+- [Learn Vanilla JavaScript](https://github.com/snipcart/learn-vanilla-js) - 原生 JS 学习资源。
 
 [`Go Top ↑`](#awesome-web-front-end-list)
 
