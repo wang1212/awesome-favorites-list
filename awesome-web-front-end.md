@@ -100,7 +100,7 @@
   - [favorite JavaScript utilities](https://1loc.dev/) - JavaScript 编程技巧，一行代码。
   - [HTML DOM](https://htmldom.dev/) - 有用的 HTML 代码片段。
   - [Vanilla JavaScript Toolkit](https://vanillajstoolkit.com/) - 原生 JS 代码片段集合。
-  - [Line Of Code](https://1loc.dev/)
+  - [Single Line Of Code](https://1loc.dev/)
 
 - [JavaScript Algorithms and Data Structures](https://github.com/trekhleb/javascript-algorithms) - 算法和数据结构。
 - [JS The Right Way](http://jstherightway.org/) - 一些 JavaScript 最佳实践。
