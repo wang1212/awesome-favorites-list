@@ -95,7 +95,7 @@
   - [The Modern JavaScript Tutorial](https://javascript.info/) - 现代 JavaScript 教程。
 
 - [JavaScript Algorithms and Data Structures](https://github.com/trekhleb/javascript-algorithms) - 算法和数据结构。
-- [30 seconds](https://github.com/30-seconds) - 30 seconds 是一个系列，包含 JS、React.js、CSS 相关的编程技巧。
+- [30 seconds](https://www.30secondsofcode.org/) - 30 seconds 是一个系列，包含 JS、React.js、CSS 相关的编程技巧和代码片段。
 - [favorite JavaScript utilities](https://1loc.dev/) - JavaScript 编程技巧，一行代码。
 - [JS The Right Way](http://jstherightway.org/) - 一些 JavaScript 最佳实践。
 - [33 js concepts](https://github.com/leonardomso/33-js-concepts) - 包含了丰富的 JavaScript 相关的知识概念，学习资源。
