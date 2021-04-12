@@ -533,6 +533,7 @@
 *More uncategorized resources.*
 
 - [Open Source Awards](https://osawards.com/) - 开源项目奖。
+- [Openbase](https://openbase.com/) - 开源项目讨论及评奖。
 - [Linux Mint](https://www.linuxmint.com/) - 很 Cool 的 Linux 发行版。
 - [TIOBE Index](https://www.tiobe.com/tiobe-index/) - 编程语言全球排名。
 - [DB-Engines](https://db-engines.com/) - 数据库排名信息。
