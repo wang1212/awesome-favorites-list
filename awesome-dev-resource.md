@@ -41,6 +41,7 @@
 
 *Some official or unofficial technical reference documents.*
 
+- [Choose an open source license](https://choosealicense.com/) - 如何选择合适的开源许可。
 - [The Book Of Secret Knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) - 开发资源工具清单。
 - [Developer Roadmaps](https://roadmap.sh/) - 开发者路线图。
 - [4Dev.tools](https://4dev.tools/) - Web 开发人员开发资源。
