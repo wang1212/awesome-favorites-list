@@ -205,6 +205,7 @@
 *HTML tool library, dealing with compatibility issues, etc.*
 
 - [HTML Boilerplates](https://htmlboilerplates.com/) - HTML 文件模板。
+- [HTML5 Boilerplate](https://html5boilerplate.com/) - HTML5 文件模板。
 
 [`Go Top ↑`](#awesome-web-front-end-list)
 
