@@ -529,6 +529,7 @@
 - [Layui](https://www.layui.com/) - 适合后端开发使用。
 - [Semantic UI](https://semantic-ui.com) - 很受欢迎的组件库。（:warning: 不再更新）
 - [Skeleton](http://getskeleton.com/) - 简单的响应式 CSS 框架。（:warning: 不再更新）
+- [egjs](https://naver.github.io/egjs/) - 提供多个可用的独立组件。
 
 ### 独立组件
 
