@@ -216,6 +216,8 @@
     - [front-matter](https://github.com/jxson/front-matter) - 解析 Front Matter。    
   - json5
     - [JSON5](https://json5.org/) - JSON5 格式数据解析、序列化。
+  - yaml
+    - [js-yaml](https://github.com/nodeca/js-yaml) - yaml 文件解析和生成。
   - zip
     - [JSZip](https://stuk.github.io/jszip/) - 解析、生成 zip 文件，具有简单的 API。 
     - [ADM-ZIP](https://github.com/cthackers/adm-zip)
