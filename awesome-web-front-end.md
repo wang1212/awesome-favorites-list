@@ -603,6 +603,7 @@
   - [Editor.js](https://editorjs.io/)
    
 - 其它（Others）
+  - [NProgress](https://ricostacruz.com/nprogress/) - 页面顶部进度条，加载指示器。
   - [PACE](https://codebyzach.github.io/pace/) - 页面加载指示器。
   - [TOAST UI Calendar](https://github.com/nhn/tui.calendar) - 强大的日历日程组件。
   - [FullCalendar](https://fullcalendar.io/) - 日历日程组件。
