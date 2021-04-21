@@ -176,6 +176,7 @@
   - 《编码：隐匿在计算机软硬件背后的语言》[美] Charles Petzold
   - 《架构之美：行业思想领袖揭秘软件设计之美》[美] Diomidis Spinellis, Georgios Gousios
   - 《代码整洁之道》[美] 马丁（Robert C.Martin）
+  - [《Kubernetes Handbook——Kubernetes 中文指南/云原生应用架构实践手册》](https://jimmysong.io/kubernetes-handbook/) - 云原生实践，**开源书籍**。
 
 ### 文学
 
