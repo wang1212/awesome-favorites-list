@@ -99,6 +99,8 @@
 
 *Computer technology and software development.*
 
+[:point_right: 去看](awesome-dev-resource.md#期刊)
+
 ### 其它
 
 [`Go Top ↑`](#awesome-reading-list)
@@ -113,6 +115,8 @@
 ### 计算机技术
 
 *Computer technology and software development.*
+
+[:point_right: 去看](awesome-dev-resource.md#论坛)
 
 ### 文学
 
