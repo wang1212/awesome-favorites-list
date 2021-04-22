@@ -527,6 +527,7 @@
 - [Docusaurus](https://v2.docusaurus.io/) - 快速构建优化、快速的网站，**Facebook 发布**。
 - [hoppscotch](https://hoppscotch.io/) - 在线的 http 客户端工具。
 - [Opal](https://opalrb.com/) - 将 `Ruby` 代码编译为 `JavaScript` 代码的编译器。
+- [netdata](https://www.netdata.cloud/) - 系统指标监控 Web 平台，**开源免费**。
 
 [`Go Top ↑`](#awesome-development-resources)
 
