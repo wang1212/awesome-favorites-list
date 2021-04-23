@@ -188,6 +188,7 @@
   - [SpaceSniffer](http://www.uderzo.it/main_products/space_sniffer/index.html) - 磁盘扫描工具，可视化文件占比分析，**免费软件**。
   - [QuickLook](https://pooi.moe/QuickLook/) - 文件内容预览工具，界面美观，**开源软件**。
   - [Seer](http://1218.io/) - 文件内容预览工具，界面较为简陋，**提供免费版本**。
+  - [WizTree](https://wiztreefree.com/) - 磁盘空间分析工具，统计文件夹大小，**免费软件**。
 
 - 图片（Image）
   - [ImageGlass](https://imageglass.org/) - 非常轻量的图片浏览器，支持中文，**开源软件**。
