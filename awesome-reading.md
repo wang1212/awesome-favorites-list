@@ -245,6 +245,7 @@
 
 *More other unclassified resources.*
 
+- [xkcd](https://xkcd.com/) - 极客漫画。（:point_right: [中文站](https://xkcd.in/)）
 - [掘金翻译计划](https://github.com/xitu/gold-miner) - 掘金翻译计划，可能是世界最大最好的英译中技术社区，最懂读者和译者的翻译平台。
 - [Library of Congress](https://www.loc.gov/) - 美国国会图书馆。
   
