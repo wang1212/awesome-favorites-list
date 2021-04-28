@@ -638,6 +638,7 @@
 
 - [D3](https://d3js.org/) - 可视化库，数据驱动的，非常著名，许多图表库基于此开发。
 - [three.js](https://threejs.org/) - 3D 动画库，强大的 JavaScript 3D 动画库。
+- [Babylon.js](https://www.babylonjs.com/) - 游戏渲染引擎。
 - [stackgl](http://stack.gl/) - WebGL 引擎。
 - [PixiJS](https://www.pixijs.com/) - 2D WebGL 渲染引擎，高性能。
 - [Textures.js](https://riccardoscalco.it/textures/) - 创建 SVG 模式。
