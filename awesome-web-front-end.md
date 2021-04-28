@@ -591,6 +591,13 @@
   - [gridstack.js](https://gridstackjs.com/)
   - [DragSelect](https://dragselect.com/) - 拖拽选择。
   
+- 列表（List）
+  - [List.js](https://listjs.com/) - 为列表提供过滤、排序等功能。
+  
+- 过滤器（Filter）
+  - [Isotope](https://isotope.metafizzy.co/) - 列表过滤动画。
+  - [FilterizR](https://yiotis.net/filterizr/) - 过滤搜索动画。
+  
 - 用户引导（User guided tours）
   - [intro.js](https://introjs.com/)
   - [Driver.js](https://kamranahmed.info/driver.js/)
@@ -613,7 +620,6 @@
   - [PulltoRefresh](https://www.boxfactura.com/pulltorefresh.js/) - 下拉刷新。
   - [Tweakpane](https://cocopon.github.io/tweakpane/) - 可快速创建跟踪值变化和调节的控制面板。
   - [Holder.js](http://holderjs.com/) - 图像占位符。
-  - [List.js](https://listjs.com/) - 为列表提供过滤、排序等功能。
   - [simple-drawing-board.js](https://github.com/leader22/simple-drawing-board.js) - 简单画板。
   - [simple-keyboard](https://virtual-keyboard.js.org/) - 虚拟键盘。
   - [Tippy.js](https://atomiks.github.io/tippyjs/) - 工具提示组件。
@@ -643,7 +649,6 @@
 - [PixiJS](https://www.pixijs.com/) - 2D WebGL 渲染引擎，高性能。
 - [Textures.js](https://riccardoscalco.it/textures/) - 创建 SVG 模式。
 - [ztext.js](https://bennettfeely.com/ztext/) - 实现文字 3D 效果。
-- [FilterizR](https://yiotis.net/filterizr/) - 过滤搜索动画。
 - [mermaid](https://github.com/mermaid-js/mermaid) - txt 文本生成流程图。
 
 ### 图表
