@@ -288,6 +288,7 @@
     - [blessed-contrib](https://github.com/yaronn/blessed-contrib) - 仪表面板工具库。
   - [meow](https://github.com/sindresorhus/meow) - 命令行应用开发工具包。
   - [Gluegun](https://github.com/infinitered/gluegun) - 命令行应用开发工具包。
+  - [zx](https://github.com/google/zx) - 编写 JavaScript 脚本，而非 Bash 脚本。
 
 - 可执行程序（Executable）
   - [pkg](https://github.com/vercel/pkg) - 将 Node.js 脚本打包成单个可执行文件。
