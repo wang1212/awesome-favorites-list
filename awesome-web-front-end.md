@@ -81,12 +81,6 @@
   - [What forces layout / reflow](https://gist.github.com/paulirish/5d52fb081b3570c81e3a) - 一些会导致重绘、重布局的 DOM 操作。
 - [CSS Reference](https://cssreference.io/) - CSS 视觉指南。
 
-- CSS 类命名规则（CSS class naming rules）
-  - [CSS BEM](https://en.bem.info/)
-    - [BEM Cheat Sheet](https://9elements.com/bem-cheat-sheet/)
-  - [OOCSS](https://github.com/stubbornella/oocss/wiki)
-  - [SMACSS](http://smacss.com/)
-
 - 备忘单（Cheatsheet）
   - [SJSJ](http://jargon.js.org/) - JavaScript 术语介绍。
   - [Modern JS Cheatsheet](https://mbeaudru.github.io/modern-js-cheatsheet/) - 现代 JavaScript 概念要点。
@@ -217,9 +211,18 @@
 
 *Code Style Specifications.*
 
-- [Google CSS Style Guide](https://google.github.io/styleguide/htmlcssguide.html#CSS)
-- [Airbnb CSS / Sass Styleguide](https://github.com/airbnb/css)
-- [@mdo's Code Guide CSS](https://codeguide.co/#css)
+- CSS 代码风格（CSS Code Style）
+  - [Google CSS Style Guide](https://google.github.io/styleguide/htmlcssguide.html#CSS)
+  - [Airbnb CSS / Sass Styleguide](https://github.com/airbnb/css)
+  - [@mdo's Code Guide CSS](https://codeguide.co/#css)
+
+- CSS 类命名规则（CSS class naming rules）
+  - [CSS BEM](https://en.bem.info/)
+    - [BEM Cheat Sheet](https://9elements.com/bem-cheat-sheet/)
+  - [OOCSS](https://github.com/stubbornella/oocss/wiki)
+  - [SMACSS](http://smacss.com/)
+  - [Atomic CSS](https://acss.io/)
+  - [SUIT CSS](https://suitcss.github.io/)
 
 ### CSS 在线资源
 
