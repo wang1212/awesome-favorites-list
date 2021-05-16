@@ -212,6 +212,7 @@
 
 - [Typora](https://www.typora.io/) - Markdown 文本编辑器，很漂亮，功能很强大，**测试版免费**。
 - [Zettlr](https://www.zettlr.com/) - Markdown 文本编辑器，很漂亮，功能很强大，**开源软件**。
+- [Mark Text](https://marktext.app/) - Markdown 文本编辑器，轻量、简单，**开源软件**。
 
 ### 设计工具
 
