@@ -207,6 +207,11 @@
 - [Carbon](https://carbon.now.sh/) - 生成漂亮的源代码图片。
 - [Learn Git Branching](https://learngitbranching.js.org/) - 在线 Git 命令互动式学习。
 
+- emoji :smile:
+  - [emoji-cheat-sheet](https://www.webfx.com/tools/emoji-cheat-sheet/) - emoji 表情代码备忘录。
+  - [Emoji Searcher](https://emoji.muan.co/) - emoji 表情列表。
+  - [github emoji markup](https://gist.github.com/rxaviers/7360908) - GitHub markdown emoji 标记列表。
+
 ### 公共 API
 
 *Public api.*
