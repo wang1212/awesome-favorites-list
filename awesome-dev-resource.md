@@ -529,6 +529,7 @@
 - [Opal](https://opalrb.com/) - 将 `Ruby` 代码编译为 `JavaScript` 代码的编译器。
 - [netdata](https://www.netdata.cloud/) - 系统指标监控 Web 平台，**开源免费**。
 - [Docusaurus](https://docusaurus.io/) - 快速建立优化的文档网站。
+- [Skia](https://skia.org/) - 2D 渲染引擎，在 Chrome、Chrome OS、Android、Flutter、Mozilla Firefox 等产品中使用。
 
 [`Go Top ↑`](#awesome-development-resources)
 
