@@ -209,7 +209,6 @@ _Available in browser（JavaScript）. **Tips:** Most of what is available in th
 - [GeoConverter](https://geoconverter.hsr.ch/) - 通过 Web 在线地图服务导出 GeoTiff 数据。
 - [TileJSON.io](https://tilejson.io/)
 - [GeoJSON.io](http://geojson.io/)
-- [Skia](https://skia.org/) - 2D 绘图库。
 - [Geospatial Data Cloud](http://www.gscloud.cn/)
 
 [`Go Top ↑`](#awesome-gis-list)
