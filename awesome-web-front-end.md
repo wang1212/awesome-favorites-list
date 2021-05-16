@@ -17,6 +17,7 @@
 - [构建工具（Build Tools）](#构建工具)
 - [HTML](#html)
   - [代码风格规范（Code Style Specifications）](#html-代码风格规范)
+  - [在线资源（Online Resources）](#html-在线资源)
   - [工具库（Library）](#html-工具库)
 - [CSS](#css)
   - [代码风格规范（Code Style Specifications）](#css-代码风格规范)
@@ -190,6 +191,12 @@
 
 - [Google HTML Style Guide](https://google.github.io/styleguide/htmlcssguide.html#HTML)
 - [@mdo's Code Guide HTML](https://codeguide.co/#html)
+
+### HTML 在线资源
+
+*HTML related online tools and documents, etc.*
+
+- [HTML Reference](https://htmlreference.io/) - HTML 指南。
 
 ### HTML 工具库
 
