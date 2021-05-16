@@ -57,6 +57,7 @@
   - [gitignore.io](https://www.toptal.com/developers/gitignore) - 根据关键词生成 `.gitignore` 文件模板。
 - [CODELF](https://unbug.github.io/codelf/) - 根据关键词查找开源项目中变量命名。
 - [Naming cheatsheet](https://github.com/kettanaito/naming-cheatsheet) - 变量命名指南。
+- [c4model](https://c4model.com/) - 用于软件架构的 C4 模型。
 
 [`Go Top ↑`](#awesome-development-resources)
 
