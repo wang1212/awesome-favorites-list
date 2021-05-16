@@ -77,10 +77,6 @@
 - [The Front-End Checklist](https://frontendchecklist.io/) - 前端清单，前端知识点及其最佳实践。
 - [印记中文](https://docschina.org/) - 包含了许多前端技术库的中文翻译文档。
 - [Progressive Web Apps](https://web.dev/progressive-web-apps/) - PWA 应用相关文章。
-- [cssdb](https://cssdb.org/) - CSS 新特性列表。
-- [CSS Triggers](https://csstriggers.com/) - 一些改变会导致重绘、重布局的 CSS 属性。
-  - [What forces layout / reflow](https://gist.github.com/paulirish/5d52fb081b3570c81e3a) - 一些会导致重绘、重布局的 DOM 操作。
-- [CSS Reference](https://cssreference.io/) - CSS 视觉指南。
 
 - 备忘单（Cheatsheet）
   - [SJSJ](http://jargon.js.org/) - JavaScript 术语介绍。
@@ -227,15 +223,22 @@
 
 ### CSS 在线资源
 
-*CSS related online tools.*
+*CSS related online tools and documents, etc.*
 
-- [Keyframes](https://keyframes.app/) - CSS 效果预览小工具集合。
-- [Animista](https://animista.net/) - 在线生成 CSS 动画样式代码。
-- [easings.co](https://easings.co/) - 测试 CSS 动画函数效果。
-- [enjoyCSS](https://enjoycss.com/) - 便捷的组件样式设计输出在线工具。
-- [Gradient Magic](https://www.gradientmagic.com/) - 渐变设计，CSS 渐变画廊。
-- [Conic.css](https://conic.style/) - CSS 渐变。
-- [Glassmorphism CSS Generator](https://glassmorphism.com/) - 毛玻璃效果。
+- 文档（Documentation）
+  - [cssdb](https://cssdb.org/) - CSS 新特性列表。
+  - [CSS Triggers](https://csstriggers.com/) - 一些改变会导致重绘、重布局的 CSS 属性。
+    - [What forces layout / reflow](https://gist.github.com/paulirish/5d52fb081b3570c81e3a) - 一些会导致重绘、重布局的 DOM 操作。
+  - [CSS Reference](https://cssreference.io/) - CSS 视觉指南。
+
+- 工具（Tools）
+  - [Keyframes](https://keyframes.app/) - CSS 效果预览小工具集合。
+  - [Animista](https://animista.net/) - 在线生成 CSS 动画样式代码。
+  - [easings.co](https://easings.co/) - 测试 CSS 动画函数效果。
+  - [enjoyCSS](https://enjoycss.com/) - 便捷的组件样式设计输出在线工具。
+  - [Gradient Magic](https://www.gradientmagic.com/) - 渐变设计，CSS 渐变画廊。
+  - [Conic.css](https://conic.style/) - CSS 渐变。
+  - [Glassmorphism CSS Generator](https://glassmorphism.com/) - 毛玻璃效果。
 
 ### CSS 工具库
 
