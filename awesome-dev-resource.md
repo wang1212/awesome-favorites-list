@@ -528,6 +528,7 @@
 - [hoppscotch](https://hoppscotch.io/) - 在线的 http 客户端工具。
 - [Opal](https://opalrb.com/) - 将 `Ruby` 代码编译为 `JavaScript` 代码的编译器。
 - [netdata](https://www.netdata.cloud/) - 系统指标监控 Web 平台，**开源免费**。
+- [Docusaurus](https://docusaurus.io/) - 快速建立优化的文档网站。
 
 [`Go Top ↑`](#awesome-development-resources)
 
