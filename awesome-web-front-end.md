@@ -71,6 +71,7 @@
   - [Firefox status](https://platform-status.mozilla.org/) - Firefox 的 Web 平台功能的官方实现和标准化路线图查询列表，**官方网站**。
   - [Webkit](https://webkit.org/) - Webkit 浏览器引擎的官方网站，可查询其功能特性的实现和标准化状态，**官方网站**。
   - [Can I use](https://caniuse.com/) - 可以查询特定 Web API（H5、CSS3）在各个浏览器平台的实现和标准化状态，**非官方网站**。
+  - [Can I email](https://www.caniemail.com/) - 可以查询特定 Web API（H5、CSS3）在各个邮件客户端平台的实现和标准化状态，**非官方网站**。
   - [compatibility table](https://kangax.github.io/compat-table/) - 可以查询 ECMAScript API 在各平台实现的状态，**非官方网站**。
 
 - [MDN Developer Document](https://developer.mozilla.org/en-US/) - MDN Web Docs 网站提供开放网络（Open Web）技术有关的信息，包括用于网站和渐进式网络应用的 HTML、CSS 和 API，是提供给 Web 开发者最好的学习资料和技术文档，**可作为官方标准参阅学习**。
