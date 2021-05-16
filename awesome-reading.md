@@ -86,6 +86,7 @@
 - [高德地图](https://report.amap.com/) - 中国主要城市交通健康榜。
 - [百度地图慧眼](https://huiyan.baidu.com/)
 - [奥维云网](http://www.avc-mr.com/html/sjbg/) - 智慧家庭领域数据报告。
+- [全历史](https://www.allhistory.com/) - 全球各个国家历史资料记录。
 
 [`Go Top ↑`](#awesome-reading-list)
 
