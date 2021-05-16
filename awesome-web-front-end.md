@@ -788,6 +788,10 @@
   - [Lucet](https://github.com/bytecodealliance/lucet) - 本机 WebAssembly 编译器和运行时。
   - [Lunatic](https://lunatic.solutions/) - WebAssembly 运行时。
 
+- 编辑器（Online Editor）
+  - [WebAssembly Studio](https://webassembly.studio/) - 在线的 WebAssembly 编辑器，**Mozilla 发布**。
+  - [WebAssembly Cloud](https://webassembly.cloud/)
+
 [`Go Top ↑`](#awesome-web-front-end-list)
 
 ## 更多
@@ -831,7 +835,6 @@
   - [CodeSandbox](https://codesandbox.io/)
   - [CodePen](https://codepen.io/)
   - [JSitor](https://jsitor.com/)
-  - [WebAssembly Studio](https://webassembly.studio/) - 在线的 WebAssembly 编辑器，**Mozilla 发布**。
   
 - 其它（Others）
   - [bit](https://bit.dev/) - 构建可重用组件的协作平台。
