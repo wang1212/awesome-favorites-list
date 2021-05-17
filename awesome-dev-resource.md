@@ -508,6 +508,7 @@
 - [gron](https://github.com/tomnomnom/gron) - 使 JSON 数据更易读。
 - [gping](https://github.com/orf/gping) - 图形化 `ping` 命令结果。
 - [tcping](https://elifulkerson.com/projects/tcping.php) - 类似 `ping` 命令，使用 TCP 端口。
+- [fx](https://github.com/antonmedv/fx) - 命令行 JSON 处理工具，**开源软件**。
 
 ### 实用工具
 
