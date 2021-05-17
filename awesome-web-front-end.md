@@ -643,6 +643,7 @@
   - [simple-drawing-board.js](https://github.com/leader22/simple-drawing-board.js) - 简单画板。
   - [simple-keyboard](https://virtual-keyboard.js.org/) - 虚拟键盘。
   - [Tippy.js](https://atomiks.github.io/tippyjs/) - 工具提示组件。
+  - [WinBox](https://nextapps-de.github.io/winbox/) - 窗口组件。
 
 [`Go Top ↑`](#awesome-web-front-end-list)
 
