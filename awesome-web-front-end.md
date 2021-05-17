@@ -75,6 +75,7 @@
   - [compatibility table](https://kangax.github.io/compat-table/) - 可以查询 ECMAScript API 在各平台实现的状态，**非官方网站**。
 
 - [MDN Developer Document](https://developer.mozilla.org/en-US/) - MDN Web Docs 网站提供开放网络（Open Web）技术有关的信息，包括用于网站和渐进式网络应用的 HTML、CSS 和 API，是提供给 Web 开发者最好的学习资料和技术文档，**可作为官方标准参阅学习**。
+- [web.dev](https://web.dev/) - Web 关键概念学习，**Google 发布**。
 - [Frontend Developer Roadmap](https://roadmap.sh/frontend) - 前端开发技术路线图。
 - [The Front-End Checklist](https://frontendchecklist.io/) - 前端清单，前端知识点及其最佳实践。
 - [印记中文](https://docschina.org/) - 包含了许多前端技术库的中文翻译文档。
@@ -826,7 +827,6 @@
   - [SRI Hash Generator](https://www.srihash.org/) - [SRI](https://www.w3.org/TR/SRI/) 的 hash 生成。
 
 - Web 优化（Web Optimization）
-  - [web.dev](https://web.dev/)
   - [Varvy SEO tool](https://varvy.com/) - 一个在线网站 SEO、性能检测工具，提供优化建议和技巧。
   - [PageSpeed Insights](https://developers.google.com/speed/pagespeed/insights/) - Google 提供的在线网站性能检测工具，提供优化建议和技巧，**Google 官方提供**。
   - [Lighthouse](https://developers.google.com/web/tools/lighthouse/) - Google 提供的一个网站优化检测分析工具，已被集成在 Chrome 开发工具中，也可以作为 Chrome 扩展或者命令行工具使用，**Google 官方提供**。
