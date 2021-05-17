@@ -567,6 +567,7 @@
  
 - Lightbox
   - [GLightbox](https://github.com/biati-digital/glightbox)
+  - [spotlight](https://nextapps-de.github.io/spotlight/)
  
 - 模态框（Modal box）
   - [SweetAlert](https://sweetalert.js.org/) - 浏览器 Alert 弹框的替代，更漂亮美观。（:warning: 不再更新）
