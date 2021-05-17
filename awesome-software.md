@@ -130,6 +130,7 @@
 
 - [VirtualXposed](https://vxposed.com/) - 虚拟化，**开源软件**。
 - [李跳跳](https://www.coolapk.com/apk/com.whatsbug.litiaotiao) - 屏蔽 App 启动广告，**免费软件**。
+- [SilentNotes](https://www.martinstoeckli.ch/silentnotes/) - 笔记便签软件，支持同步、加密，提供 Windows 平台支持，**开源软件**。
 
 [`Go Top ↑`](#awesome-software)
 
@@ -145,6 +146,7 @@
 - [Snipaste](https://www.snipaste.com/) - 截图小工具，**免费软件**。
 - [CopyTranslator](https://github.com/CopyTranslator/CopyTranslator) - 桌面划词翻译，**免费开源软件**。
 - [Ditto](https://ditto-cp.sourceforge.io/) - 粘贴板管理工具，**开源软件**。
+- [PasteEx](https://github.com/huiyadanli/PasteEx) - 将粘贴板内容保存成文件，**开源软件**。
 - [Rainmeter](https://www.rainmeter.net/) - Windows 桌面自定义小工具，**开源软件**。
 - [uTools](http://www.u.tools/) - 生产力工具，包含许多小工具，**免费软件**。
 - [Module Art](https://moduleart.github.io/) - 软件集合，包含图片浏览器、录屏软件等，**开源软件**。
