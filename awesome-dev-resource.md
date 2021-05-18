@@ -400,6 +400,7 @@
 
 - [Postman](https://www.getpostman.com/) - 一个非常棒的 API 管理工具。
 - [Insomnia](https://insomnia.rest/) - API 接口测试工具。
+- [hoppscotch](https://hoppscotch.io/) - API 接口测试、管理，**开源软件**。
 
 ### 服务器远程管理
 
