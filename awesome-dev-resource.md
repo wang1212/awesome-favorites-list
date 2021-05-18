@@ -45,16 +45,12 @@
 - [The Book Of Secret Knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) - 开发资源工具清单。
 - [Developer Roadmaps](https://roadmap.sh/) - 开发者路线图。
 - [4Dev.tools](https://4dev.tools/) - Web 开发人员开发资源。
-- [Resources to learn Git](http://try.github.io/) - 学习 Git 的文档。
-- [Git Explorer](https://gitexplorer.com/) - Git 命令参考。
 - [lib4dev](http://www.lib4dev.in/) - 开源库分类查询。
 - [DevDocs](https://devdocs.io/) - 在线技术文档查询。
 - [Code Cheatsheets](https://devhints.io/) - 备忘清单，脚本片段。
 - [Database of Database](https://dbdb.io/) - 聚合全球数据库信息。
 - [Bash Pitfalls](http://mywiki.wooledge.org/BashPitfalls) - 此页面汇总了 Bash 用户常犯的编程错误。
 - [COMMANDLINEFU.COM](https://www.commandlinefu.com/commands/browse) - 汇集了很多优秀的、充满智慧的、简洁的命令行命令。
-- [A collection of .gitignore templates](https://github.com/github/gitignore) - 不同类型项目的 `.gitignore` 文件模板。
-  - [gitignore.io](https://www.toptal.com/developers/gitignore) - 根据关键词生成 `.gitignore` 文件模板。
 - [CODELF](https://unbug.github.io/codelf/) - 根据关键词查找开源项目中变量命名。
 - [Naming cheatsheet](https://github.com/kettanaito/naming-cheatsheet) - 变量命名指南。
 - [c4model](https://c4model.com/) - 用于软件架构的 C4 模型。
@@ -380,19 +376,27 @@
 *Source code version management system and building tools.*
 
 - [Git](https://git-scm.com/) - 目前最受欢迎的，使用最广泛的分布式源代码版本控制工具。
-  - [GitHub](https://github.com/)
-    - [github1s](https://github.com/conwnet/github1s) - 在浏览器 VS Code 中打开 GitHub 仓库代码。
-  - [GitLab](https://about.gitlab.com/)
-  - [Bitbucket](https://bitbucket.org/)
-  - [Gitee](https://gitee.com/) - 码云，国内[开源中国](https://www.oschina.net/)推出。
-  - [Coding](https://coding.net/) - 目前由腾讯入股，体验相比刚开始变差，不建议使用。
-  - [Gitea](https://gitea.io/) - 提供跨平台的 Git 仓库托管平台搭建，开源。
-  - [Gogs](https://gogs.io/)
+  - [Resources to learn Git](http://try.github.io/) - 学习 Git 的文档。
+  - [Git Explorer](https://gitexplorer.com/) - Git 命令参考。
+  - [A collection of .gitignore templates](https://github.com/github/gitignore) - 不同类型项目的 `.gitignore` 文件模板。
+    - [gitignore.io](https://www.toptal.com/developers/gitignore) - 根据关键词生成 `.gitignore` 文件模板。
   - [Sourcetree](https://www.sourcetreeapp.com/) - 免费的 Git 客户端，支持 Windows 和 Mac。
   - [git-open](https://github.com/paulirish/git-open) - git 命令行工具，可直接在浏览器中打开仓库页面。
   - [gitmoji](https://gitmoji.dev/) - Git 提交信息中的 emoji 表情。
 
 - [Tortoise SVN](https://tortoisesvn.net/) - SVN 是一种传统的中心化管理的源代码版本控制工具，Tortoise SVN 提供了 GUI 来使用 SVN。
+
+- 公共代码托管平台（Public code hosting platform）
+  - [GitHub](https://github.com/)
+    - [github1s](https://github.com/conwnet/github1s) - 可直接在浏览器的 VS Code 中打开 GitHub 仓库代码。
+  - [GitLab](https://about.gitlab.com/) - 支持本地部署。
+  - [Bitbucket](https://bitbucket.org/)
+  - [Gitee](https://gitee.com/) - 码云，国内[开源中国](https://www.oschina.net/)推出。
+  - [Coding](https://coding.net/) - 目前由腾讯入股，体验相比刚开始变差，不建议使用。
+
+- 自托管 Git 服务（Self-hosted Git service）
+  - [Gitea](https://gitea.io/) - 本地部署，**开源项目**。
+  - [Gogs](https://gogs.io/) - 本地部署，**开源项目**。
 
 ### API 文档管理
 
