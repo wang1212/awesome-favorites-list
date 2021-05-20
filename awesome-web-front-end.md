@@ -55,6 +55,7 @@
 - [ECMA International](http://www.ecma-international.org/) - ECMA 国际是一家国际性会员制度的信息和电信标准组织，负责行业标准的制定，例如 ECMA Script。
 - [ECMAScript Official Specification Standard](https://www.ecma-international.org/publications/standards/Ecma-262.htm) - ECMAScript 官方规范标准。
 - [TC39 ECMAScript proposals](https://github.com/tc39/proposals) - TC39 对 ECMAScript 标准制定提案的记录。
+- [WHATWG community](https://whatwg.org/) - 网络超文本应用技术工作组（WHATWG）维护的一些规范性文档。
 - [JSON Specification](http://www.json.org/) - JSON 数据格式规范。
 - [JSON Schema](http://json-schema.org/) - JSON 数据校验。
 - [JSON5 Specification](https://spec.json5.org/) - JSON5 数据格式规范，是对 JSON 格式的扩展，支持注释等特性。
@@ -74,32 +75,21 @@
   - [Can I email](https://www.caniemail.com/) - 可以查询特定 Web API（H5、CSS3）在各个邮件客户端平台的实现和标准化状态，**非官方网站**。
   - [compatibility table](https://kangax.github.io/compat-table/) - 可以查询 ECMAScript API 在各平台实现的状态，**非官方网站**。
 
-- [MDN Developer Document](https://developer.mozilla.org/en-US/) - MDN Web Docs 网站提供开放网络（Open Web）技术有关的信息，包括用于网站和渐进式网络应用的 HTML、CSS 和 API，是提供给 Web 开发者最好的学习资料和技术文档，**可作为官方标准参阅学习**。
-- [web.dev](https://web.dev/) - Web 关键概念学习，**Google 发布**。
-- [Frontend Developer Roadmap](https://roadmap.sh/frontend) - 前端开发技术路线图。
-- [The Front-End Checklist](https://frontendchecklist.io/) - 前端清单，前端知识点及其最佳实践。
-- [印记中文](https://docschina.org/) - 包含了许多前端技术库的中文翻译文档。
-- [Progressive Web Apps](https://web.dev/progressive-web-apps/) - PWA 应用相关文章。
+- 开发文档（Dev docs）
+  - [MDN Developer Document](https://developer.mozilla.org/en-US/) - MDN Web Docs 网站提供开放网络（Open Web）技术有关的信息，包括用于网站和渐进式网络应用的 HTML、CSS 和 API，是提供给 Web 开发者最好的学习资料和技术文档，**可作为官方标准参阅学习**。
+  - [web.dev](https://web.dev/) - Web 关键概念学习，**Google 发布**。
+  - [Frontend Developer Roadmap](https://roadmap.sh/frontend) - 前端开发技术路线图。
+  - [The Front-End Checklist](https://frontendchecklist.io/) - 前端清单，前端知识点及其最佳实践。
+  - [印记中文](https://docschina.org/) - 包含了许多前端技术库的中文翻译文档。
+  - [Progressive Web Apps](https://web.dev/progressive-web-apps/) - PWA 应用相关文章。
 
 - 备忘单（Cheatsheet）
-  - [SJSJ](http://jargon.js.org/) - JavaScript 术语介绍。
-  - [Modern JS Cheatsheet](https://mbeaudru.github.io/modern-js-cheatsheet/) - 现代 JavaScript 概念要点。
-  - [ECMAScript 6 — New Features: Overview & Comparison](http://es6-features.org/) - ES6 新特性与旧代码差异对比。
-  - [What the f\*ck JavaScript?](https://github.com/denysdovhan/wtfjs) - JavaScript 中有趣且易错的要点。
-  - [The Modern JavaScript Tutorial](https://javascript.info/) - 现代 JavaScript 教程。
   - [this vs that](https://thisthat.dev/) - 类似概念区分理解。
 
 - 代码片段（Code Snippets）
   - [30 seconds](https://www.30secondsofcode.org/) - 30 seconds 是一个系列，包含 JS、React.js、CSS 相关的编程技巧和代码片段。
-  - [favorite JavaScript utilities](https://1loc.dev/) - JavaScript 编程技巧，一行代码。
-  - [HTML DOM](https://htmldom.dev/) - 有用的 HTML 代码片段。
-  - [Vanilla JavaScript Toolkit](https://vanillajstoolkit.com/) - 原生 JS 代码片段集合。
-  - [Single Line Of Code](https://1loc.dev/)
 
-- [JavaScript Algorithms and Data Structures](https://github.com/trekhleb/javascript-algorithms) - 算法和数据结构。
-- [JS The Right Way](http://jstherightway.org/) - 一些 JavaScript 最佳实践。
-- [33 js concepts](https://github.com/leonardomso/33-js-concepts) - 包含了丰富的 JavaScript 相关的知识概念，学习资源。
-- [Learn Vanilla JavaScript](https://github.com/snipcart/learn-vanilla-js) - 原生 JS 学习资源。
+- [DOM Events](https://domevents.dev/) - DOM 事件运行机制的可视化。
 
 [`Go Top ↑`](#awesome-web-front-end-list)
 
@@ -199,6 +189,7 @@
 *HTML related online tools and documents, etc.*
 
 - [HTML Reference](https://htmlreference.io/) - HTML 指南。
+- [HTML DOM](https://htmldom.dev/) - 有用的 HTML 代码片段。
 
 ### HTML 工具库
 
@@ -239,6 +230,7 @@
   - [CSS Triggers](https://csstriggers.com/) - 一些改变会导致重绘、重布局的 CSS 属性。
     - [What forces layout / reflow](https://gist.github.com/paulirish/5d52fb081b3570c81e3a) - 一些会导致重绘、重布局的 DOM 操作。
   - [CSS Reference](https://cssreference.io/) - CSS 视觉指南。
+  - [CSS Layout](https://csslayout.io/) - 流行的 CSS 布局方案参考。
 
 - 工具（Tools）
   - [Keyframes](https://keyframes.app/) - CSS 效果预览小工具集合。
@@ -298,9 +290,26 @@
 
 *JavaScript related online tools.*
 
-- [JSchallenger](https://www.jschallenger.com/) - 在线 JavaScript 编程训练。
-- [Javascript.FUN](https://www.javascript.fun/) - 在线网站，JavaScript 开发资源集合。
-- [JavaScripting](https://www.javascripting.com/) - JavaScript 库、插件、框架资源。
+- 关键概念（Key concepts）
+  - [SJSJ](http://jargon.js.org/) - JavaScript 术语介绍。
+  - [Modern JS Cheatsheet](https://mbeaudru.github.io/modern-js-cheatsheet/) - 现代 JavaScript 概念要点。
+  - [What the f\*ck JavaScript?](https://github.com/denysdovhan/wtfjs) - JavaScript 中有趣且易错的要点。
+  - [33 js concepts](https://github.com/leonardomso/33-js-concepts) - 包含了丰富的 JavaScript 相关的知识概念，学习资源。
+  - [JavaScript Algorithms and Data Structures](https://github.com/trekhleb/javascript-algorithms) - 算法和数据结构。
+
+- 技巧（Skills）
+  - [favorite JavaScript utilities](https://1loc.dev/) - JavaScript 编程技巧，一行代码。
+  - [Vanilla JavaScript Toolkit](https://vanillajstoolkit.com/) - 原生 JS 代码片段集合。
+  - [Single Line Of Code](https://1loc.dev/)
+  - [JS The Right Way](http://jstherightway.org/) - 一些 JavaScript 最佳实践。
+
+- 其它（Other）
+  - [ECMAScript 6 — New Features: Overview & Comparison](http://es6-features.org/) - ES6 新特性与旧代码差异对比。
+  - [JavaScripting](https://www.javascripting.com/) - JavaScript 库、插件、框架资源。
+  - [Javascript.FUN](https://www.javascript.fun/) - 在线网站，JavaScript 开发资源集合。
+  - [The Modern JavaScript Tutorial](https://javascript.info/) - 现代 JavaScript 教程。
+  - [Learn Vanilla JavaScript](https://github.com/snipcart/learn-vanilla-js) - 原生 JS 学习资源。
+  - [JSchallenger](https://www.jschallenger.com/) - 在线 JavaScript 编程训练。
 
 ### JS 工具库
 
