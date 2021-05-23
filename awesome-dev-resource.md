@@ -102,6 +102,7 @@
 - [build-your-own-x](https://github.com/danistefanovic/build-your-own-x) - 自己构建某种技术的教程。
 - [The System Design Primer](https://github.com/donnemartin/system-design-primer) - 学习构建大型系统。
 - [TodoMVC](http://todomvc.com/) - 构建 MV* 应用的技术选型推荐。
+- [Awesome Software Architecture](https://mehdihadeli.github.io/awesome-software-architecture/) - 软件架构参考。
 
 ### 论坛
 
