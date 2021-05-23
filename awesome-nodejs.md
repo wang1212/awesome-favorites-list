@@ -101,6 +101,7 @@
   - [npkill](https://npkill.js.org/) - 搜索系统中的 *node_modules* 文件夹并清理，**非官方**。
   - [Verdaccio](https://verdaccio.org/) - 开源的轻量级私有 npm 代理仓库，**非官方**。
   - [runpkg](https://www.runpkg.com/) - 在线浏览 npm 包内的文件内容，**非官方**。
+  - [depcheck](https://github.com/depcheck/depcheck) - 项目依赖检查，**非官方**。
 
 [`Go Top ↑`](#awesome-nodejs-list)
 
