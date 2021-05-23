@@ -289,6 +289,7 @@
   - [meow](https://github.com/sindresorhus/meow) - 命令行应用开发工具包。
   - [Gluegun](https://github.com/infinitered/gluegun) - 命令行应用开发工具包。
   - [zx](https://github.com/google/zx) - 编写 JavaScript 脚本，而非 Bash 脚本。
+  - [shell.js](https://documentup.com/shelljs/shelljs) - 基于 NOde.js 的 Unix Shell 命令的可移植实现。
 
 - 可执行程序（Executable）
   - [pkg](https://github.com/vercel/pkg) - 将 Node.js 脚本打包成单个可执行文件。
