@@ -56,6 +56,7 @@
 - [CODELF](https://unbug.github.io/codelf/) - 根据关键词查找开源项目中变量命名。
 - [Naming cheatsheet](https://github.com/kettanaito/naming-cheatsheet) - 变量命名指南。
 - [c4model](https://c4model.com/) - 用于软件架构的 C4 模型。
+- [OWASP Cheat Sheet Series](https://cheatsheetseries.owasp.org/) - 技术安全相关备忘单，由 OWASP 基金会维护。
 
 [`Go Top ↑`](#awesome-development-resources)
 
