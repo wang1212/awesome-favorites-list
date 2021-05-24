@@ -83,25 +83,27 @@
 
 - 包开发（Package Development）
   - [Rollup](http://rollupjs.org/) - 打包工具，适合开发库、框架。
-  - [np](https://github.com/sindresorhus/np) - `npm publish` 的替代工具库，让发布更优雅、安全，**非官方**。
+  - [np](https://github.com/sindresorhus/np) - `npm publish` 的替代工具库，让发布更优雅、安全。
   - [Denoify](https://github.com/garronej/denoify) - 为 npm 模块作者提供 Deno 支持。
   - [cross-env](https://github.com/kentcdodds/cross-env) - 为 npm 脚本配置和使用环境变量提供跨平台支持。
 
+- [Monorepo](https://en.wikipedia.org/wiki/Monorepo) 工具（Monorepo Tools）
+  - [Lerna](https://lerna.js.org/) - 管理 Monorepo 架构的 Node 模块代码库工具。
+  - [Nx](https://nx.dev/) - 管理 Monorepo 架构的 Node 模块代码库工具。
+
 - 工具（Tools）
-  - [nrm](https://github.com/Pana/nrm) - npm 换源，**非官方**。
-  - [Lerna](https://lerna.js.org/) - 管理 Monorepo 架构的 Node 模块代码库工具，**非官方**。
-  - [Nx](https://nx.dev/) - 管理 Monorepo 架构的 Node 模块代码库工具，**非官方**。
-  - [npm-check-updates](https://github.com/tjunnone/npm-check-updates) - 项目依赖 npm 包批量更新工具，**非官方**。
-  - [Npm Trends](https://www.npmtrends.com/) - 可以查询对比多个 Npm 包的下载流量数据、star 数目等，**非官方网站**。
-  - [Npm Charts](https://npmcharts.com/) - 可以查询对比多个 Npm 包的下载流量数据、star 数目等，**非官方网站**。
-  - [BUNDLEPHOBIA](https://bundlephobia.com/) - 分析 npm 包大小和依赖关系，**非官方网站**。
-  - [JsDiff](https://jsdiff.dev/) - 比较 npm 包下载趋势，关注度等等，**非官方网站**。
-  - [Package Phobia](https://packagephobia.com/) - 分析 npm 包大小，**非官方网站**。
-  - [njt](https://njt.now.sh/) -  npm jump to，npm 包搜索并跳转到相应 npm 站点，**非官方**。
-  - [npkill](https://npkill.js.org/) - 搜索系统中的 *node_modules* 文件夹并清理，**非官方**。
-  - [Verdaccio](https://verdaccio.org/) - 开源的轻量级私有 npm 代理仓库，**非官方**。
-  - [runpkg](https://www.runpkg.com/) - 在线浏览 npm 包内的文件内容，**非官方**。
-  - [depcheck](https://github.com/depcheck/depcheck) - 项目依赖检查，**非官方**。
+  - [Verdaccio](https://verdaccio.org/) - 开源的轻量级私有 npm 代理仓库。
+  - [nrm](https://github.com/Pana/nrm) - npm 换源。
+  - [npm-check-updates](https://github.com/tjunnone/npm-check-updates) - 项目依赖 npm 包批量更新工具。
+  - [Npm Trends](https://www.npmtrends.com/) - 可以查询对比多个 Npm 包的下载流量数据、star 数目等。
+  - [Moiva](https://moiva.io/) - 比较 Github 和 npm 包下载趋势，关注度等等。
+  - [Npm Charts](https://npmcharts.com/) - 可以查询对比多个 Npm 包的下载流量数据、star 数目等。
+  - [BUNDLEPHOBIA](https://bundlephobia.com/) - 分析 npm 包大小和依赖关系。
+  - [Package Phobia](https://packagephobia.com/) - 分析 npm 包大小。
+  - [runpkg](https://www.runpkg.com/) - 在线浏览 npm 包内的文件内容。
+  - [depcheck](https://github.com/depcheck/depcheck) - 项目依赖检查。
+  - [npkill](https://npkill.js.org/) - 搜索系统中的 *node_modules* 文件夹并清理。
+  - [njt](https://njt.now.sh/) -  npm jump to，npm 包搜索并跳转到相应 npm 站点。
 
 [`Go Top ↑`](#awesome-nodejs-list)
 
