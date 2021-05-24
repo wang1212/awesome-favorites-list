@@ -171,6 +171,9 @@
   - [Nano ID](https://zelark.github.io/nano-id-cc/) - 生成唯一、URL 友好、安全的随机字符串。
   - [cuid](https://github.com/ericelliott/cuid) - 生成防碰撞的随机 id。
   
+- 异步操作（Asynchronous operation）
+  - [promise-fun](https://github.com/sindresorhus/promise-fun) - `Promise` 工具库集合。
+  
 - 时间日期（Date && Time）
   - [Day.js](https://day.js.org/) - 轻量级时间日期工具库。
   - [ms](https://github.com/vercel/ms) - 毫秒格式化工具。
