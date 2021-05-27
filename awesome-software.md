@@ -131,6 +131,7 @@
 - [VirtualXposed](https://vxposed.com/) - 虚拟化，**开源软件**。
 - [李跳跳](https://www.coolapk.com/apk/com.whatsbug.litiaotiao) - 屏蔽 App 启动广告，**免费软件**。
 - [SilentNotes](https://www.martinstoeckli.ch/silentnotes/) - 笔记便签软件，支持同步、加密，提供 Windows 平台支持，**开源软件**。
+- [JuiceSSH](https://www.juicessh.com/) - SSH 客户端，**提供免费版**。
 
 [`Go Top ↑`](#awesome-software)
 
