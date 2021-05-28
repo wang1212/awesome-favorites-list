@@ -194,17 +194,24 @@
 - [FastIcon](https://fasticon.sawirstudio.com/) - 在线快速生成 Android 与 IOS 应用图标。
 - [IPFS](https://ipfs.io/) - 全球分布式文件系统。
   - ~~[i-Book.in](https://book.tstrs.me/) - 针对 IPFS 链接的搜索引擎。~~
-- [Web-Scale UUID as a Service](https://uuid.rocks/) - 在线生成 uuid。  
 - [345Tool](https://www.345tool.com/) - 开发者工具集。
 - [tool.lu](https://tool.lu/) - 开发者工具集。
 - [LibHunt](https://www.libhunt.com/) - 收集了各种库的网站。  
 - [MSDN, I tell you](https://msdn.itellyou.cn/) - 微软 Windows 系统、Office 镜像文件下载。 
-- [Diffchecker](https://www.diffchecker.com/) - 在线文本、图片差异比较工具。
+
+- Service
+  - [Web-Scale UUID as a Service](https://uuid.rocks/) - 在线生成 uuid。  
+
+- Checker
+  - [ShellCheck](https://www.shellcheck.net/) - shell 脚本 bug 检查工具。（支持本地安装）
+  - [Diffchecker](https://www.diffchecker.com/) - 在线文本、图片差异比较工具。
+
 - Regular Expression
   - [regex101](https://regex101.com/) - 在线正则调试工具。
   - [RegEx Pal Tester](https://www.regexpal.com/)
   - [iHateRegex](https://ihateregex.io/)
   - [regexr](https://regexr.com/)
+
 - [Carbon](https://carbon.now.sh/) - 生成漂亮的源代码图片。
 - [Learn Git Branching](https://learngitbranching.js.org/) - 在线 Git 命令互动式学习。
 
