@@ -619,6 +619,7 @@
   - [Packery](https://packery.metafizzy.co/) 
   - [gridstack.js](https://gridstackjs.com/)
   - [DragSelect](https://dragselect.com/) - 拖拽选择。
+  - [plain-draggable](https://anseki.github.io/plain-draggable/)
   
 - 列表（List）
   - [List.js](https://listjs.com/) - 为列表提供过滤、排序等功能。
