@@ -129,6 +129,7 @@
     - [esm](https://github.com/standard-things/esm) - 能够为 `.js` 文件提供 [ECMAScript Modules](https://tc39.es/ecma262/#sec-modules) 支持。
     - [envinfo](https://github.com/tabrindle/envinfo) - 生成开发环境信息报告。
     - [Madge](https://github.com/pahen/madge) - 生成可视化的模块依赖图。
+    - [threads.js](https://threads.js.org/) - 在浏览器和 Node.js 环境中实现一致的 Web Worker API。
     - [web-worker](https://github.com/developit/web-worker) - 在浏览器和 Node.js 环境中实现一致的 Web Worker API。
     - [piscina](https://github.com/piscinajs/piscina) - 线程池工具。
 
