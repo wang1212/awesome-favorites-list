@@ -36,7 +36,7 @@
 - [ECMAScript Official Specification Standard](https://www.ecma-international.org/publications/standards/Ecma-262.htm) - ECMAScript 官方规范标准。
 - [TC39 ECMAScript proposals](https://github.com/tc39/proposals) - TC39 对 ECMAScript 标准制定提案的记录。
 - [Node.js](https://nodejs.org/) - Node.js 官方网站。
-- [V8](https://v8.dev/) - Node.js 的运行时，也是 Chrome 浏览器的 JS 运行时。（:point_right: [中文文档](https://v8.js.cn/)）
+- [V8](https://v8.dev/) - Node.js 的运行时，也是 Chrome 浏览器的 JS 运行时。:point_right: [中文翻译](https://v8.js.cn/)
 - [CommonJS](http://www.commonjs.org/) - Node.js 默认采用的模块加载方式。
 - [AMD](https://github.com/amdjs/amdjs-api/blob/master/AMD.md) - 异步模块定义，适合浏览器端。
 - [Universal Module Definition](https://github.com/umdjs/umd) - 通用模块定义，兼容 AMD、CommonJS 以及全局变量方式。
