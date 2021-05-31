@@ -432,6 +432,7 @@
 
 - 套接字（Socket / TCP）
   - [socket.io-client](https://socket.io/) - 优秀的实时通信客户端框架。
+  - [sockjs-client](https://github.com/sockjs/sockjs-client) - 实时工具库，支持多种语言实现的后端。
 
 - WebRTC
   - [PeerJS](https://peerjs.com/) - 对 `WebRTC` API 的简单抽象。
