@@ -26,6 +26,7 @@
 
 - [OpenAPI](https://www.openapis.org/) - 定义了一种 REST APIs 标准。
   - [OpenAPI.Tools](https://openapi.tools/)
+- [AsyncAPI](https://www.asyncapi.com/) - 事件驱动的 APIs 规范，改编自 OpenAPI。
 - [JSON Specification](http://www.json.org/) - JSON 数据格式规范。
 - [JSON5 Specification](https://spec.json5.org/) - JSON5 数据格式规范，是对 JSON 格式的扩展，支持注释等特性。
 - [NDJSON Specification](http://ndjson.org/) - Newline Delimited JSON 数据格式规范。
@@ -39,7 +40,9 @@
 
 *Official and unofficial technical reference documents.*
 
-- [AsyncAPI](https://www.asyncapi.com/) - 事件驱动的 APIs 规范，改编自 OpenAPI。
+- 微服务（Microservices）
+  - [microservices.io](https://microservices.io/) - 微服务相关概念文章。
+  - [Microservices](https://martinfowler.com/articles/microservices.html) - 微服务定义，Thoughtworks 博文。
 
 [`Go Top ↑`](#awesome-web-back-end-list)
 
