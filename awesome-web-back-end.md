@@ -41,8 +41,8 @@
 *Official and unofficial technical reference documents.*
 
 - 微服务（Microservices）
+  - [Microservices Guide](https://martinfowler.com/microservices/) - 微服务指南。
   - [microservices.io](https://microservices.io/) - 微服务相关概念文章。
-  - [Microservices](https://martinfowler.com/articles/microservices.html) - 微服务定义，Thoughtworks 博文。
 
 [`Go Top ↑`](#awesome-web-back-end-list)
 
