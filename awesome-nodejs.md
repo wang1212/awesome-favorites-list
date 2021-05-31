@@ -358,10 +358,11 @@
 
 - [Restify](http://restify.com/) - 可快速构建 RESTful API 的框架。
 - [Fastify](https://www.fastify.io/) - 高性能、低消耗的 Web 框架。
-- [NestJs](https://nestjs.com/) - 基于 Express/fastify 的渐进式 Web 框架。
+- [NestJs](https://nestjs.com/) - 基于 Express / fastify 的渐进式 Web 框架。
 - [hapi](https://hapi.dev/) - 注重安全、简洁的 Web 框架。
+- [Feathers](https://feathersjs.com/) - 轻量的、面向服务的构建实时 Web 应用和 REST APIs 的框架。
 - [Sails.js](https://sailsjs.com/) - 实时的 MVC 框架。
-- [Adonis.js](https://adonisjs.com/)
+- [Adonis.js](https://adonisjs.com/) - 全栈 MVC 框架。
 
 [`Go Top ↑`](#awesome-nodejs-list)
 
