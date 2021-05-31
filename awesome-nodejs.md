@@ -336,6 +336,8 @@
   - [Bookshelf](https://bookshelfjs.org/) - 基于 `Knex.js` 构建。
   - [mikro-orm](https://mikro-orm.io/) - TypeScript ORM 库，支持 MongoDB, MySQL, MariaDB, PostgreSQL 和 SQLite。
 
+- [ioredis](https://github.com/luin/ioredis) - 高性能、全功能的 Redis 客户端。
+
 [`Go Top ↑`](#awesome-nodejs-list)
 
 ## Web 框架
