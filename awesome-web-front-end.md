@@ -804,6 +804,7 @@
   - [Wasmtime](https://wasmtime.dev/) - WebAssembly 与 WASI 运行时。
   - [Lucet](https://github.com/bytecodealliance/lucet) - 本机 WebAssembly 编译器和运行时。
   - [Lunatic](https://lunatic.solutions/) - WebAssembly 运行时。
+  - [wasm3](https://github.com/wasm3/wasm3)
 
 - 编辑器（Online Editor）
   - [WebAssembly Studio](https://webassembly.studio/) - 在线的 WebAssembly 编辑器，**Mozilla 发布**。
