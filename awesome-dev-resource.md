@@ -556,6 +556,7 @@
 - [Docusaurus](https://docusaurus.io/) - 快速建立优化的文档网站。
 - [Skia](https://skia.org/) - 2D 渲染引擎，在 Chrome、Chrome OS、Android、Flutter、Mozilla Firefox 等产品中使用。
 - [nocodb](https://www.nocodb.com/) - NoCode 平台，将任何数据库转换为电子表格，**开源软件**。
+- [Talk](https://github.com/vasanthv/talk) - 点对点的 Web 视频会议和屏幕共享应用，**开源软件**。
 
 [`Go Top ↑`](#awesome-development-resources)
 
