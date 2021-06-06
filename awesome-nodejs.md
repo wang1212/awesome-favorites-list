@@ -117,9 +117,6 @@
     - [Babel](https://babeljs.io/) - 编译工具，可将 TypeScript、ES6/7/8 代码编译为 JavaScript（ES5） 代码。
     - [TS Node](https://github.com/TypeStrong/ts-node) - Node.js 的 TypeScript 语言运行器和交互式解释器。
     - [Neon](https://neon-bindings.com/) - Rust 的 Node.js 绑定，可用来编写快速、安全的原生模块。
-  - Node 应用（Node App）
-    - [nodemon](https://nodemon.io) - 提供 Node.js 开发时热重载机制。
-    - [node-dev](https://github.com/fgnass/node-dev) - 热重载。
   - 日志（Log）
     - [log4js](https://github.com/log4js-node/log4js-node) - 日志记录。
     - [winston](https://github.com/winstonjs/winston) - 简单通用的日志库。
@@ -161,6 +158,8 @@
   - [lint-staged](https://www.npmjs.com/package/lint-staged) - 搭配 husky 使用，提交代码前进行 lint。
 
 - 进程管理（Process Manage）
+  - [nodemon](https://nodemon.io) - 提供 Node.js 开发时热重载机制。
+  - [node-dev](https://github.com/fgnass/node-dev) - 热重载。
   - [Forever](https://github.com/foreversd/forever) - Node 应用生产环境进程管理工具，使用简单方便。
   - [PM2](https://pm2.keymetrics.io/) - Node 应用生产环境进程管理工具，支持集群、负载、远程部署，提供收费服务的实时监控平台。
   - [StrongLoop-PM](http://strong-pm.io/) - Node 应用生产环境进程管理工具，支持集群、负载、远程部署，提供收费服务的实时监控平台。
@@ -174,6 +173,7 @@
   - [uuid](https://github.com/uuidjs/uuid) - 生成随机 id。
   - [Nano ID](https://zelark.github.io/nano-id-cc/) - 生成唯一、URL 友好、安全的随机字符串。
   - [cuid](https://github.com/ericelliott/cuid) - 生成防碰撞的随机 id。
+  - [execa](https://github.com/sindresorhus/execa) - 对官方 [`child_process`](https://nodejs.org/api/child_process.html) 模块的改进。
   
 - 异步操作（Asynchronous operation）
   - [promise-fun](https://github.com/sindresorhus/promise-fun) - `Promise` 工具库集合。
@@ -209,7 +209,7 @@
   
 - 文件（File）
   - utils tools
-    - [fs-extra](https://github.com/jprichardson/node-fs-extra) - 作为官方原生 [fs](https://nodejs.org/api/fs.html) 模块的补充和优化。
+    - [fs-extra](https://github.com/jprichardson/node-fs-extra) - 作为官方原生 [`fs`](https://nodejs.org/api/fs.html) 模块的补充和优化。
     - [rimraf](https://github.com/isaacs/rimraf) - 为 Node 提供类似 `rm -rf` 删除文件操作。
     - [memfs](https://github.com/streamich/memfs) - 内存文件系统。
     - [rotating-file-stream](https://github.com/iccicci/rotating-file-stream) - 文件流自动轮转，可用于日志文件分割，类似 UNIX `logrotate`。
@@ -290,6 +290,9 @@
 - 本地化（Native）
   - [node-windows](https://github.com/coreybutler/node-windows) - Windows 平台对 Node.js 脚本（守护程序，事件日志，UAC 等）的支持。
   - [systeminformation](https://github.com/sebhildebrandt/systeminformation) - 获取系统信息。
+
+- 其它（Others）
+  - [ssh2](https://github.com/mscdex/ssh2) - SSH 客户端和服务器。
 
 [`Go Top ↑`](#awesome-nodejs-list)
 
