@@ -410,6 +410,7 @@
     - [Papa Parse](https://www.papaparse.com/)
   - docx
     - [docx](https://github.com/dolanmiu/docx) - 生成 docx 文档。
+    - [mammoth](https://github.com/mwilliamson/mammoth.js) - docx 转换成 HTML。
   - pdf
     - [PDF-LIB](https://pdf-lib.js.org/) - 解析和操作 PDF 文件。
     - [jsPDF](https://github.com/MrRio/jsPDF) - Web 客户端生成 PDF 文件。
