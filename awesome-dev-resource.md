@@ -186,18 +186,22 @@
 *Utils tools.*
 
 - [free-for.dev](https://free-for.dev/) - 软件开发人员可用的免费 SaaS、PaaS、IaaS 等服务。
-- [SOCODE.PRO](https://socode.pro/) - 快速搜索开发文档，小工具等，**提供浏览器插件**。
-- [IPAddress](https://www.ipaddress.com/) - 在线查询某个站点的 IP 地址。
-- [Resolve.rs](https://resolve.rs/tools.html) - 查询本机 IP、DNS 服务器等。
-- [FreeSSL](https://freessl.org/) - 免费 SSL 证书在线申请。
-- [IKnowWhatYouDownload](https://iknowwhatyoudownload.com/) - 查看 IP 下载过的 BT 资源。
-- [FastIcon](https://fasticon.sawirstudio.com/) - 在线快速生成 Android 与 IOS 应用图标。
 - [IPFS](https://ipfs.io/) - 全球分布式文件系统。
   - ~~[i-Book.in](https://book.tstrs.me/) - 针对 IPFS 链接的搜索引擎。~~
-- [345Tool](https://www.345tool.com/) - 开发者工具集。
-- [tool.lu](https://tool.lu/) - 开发者工具集。
-- [LibHunt](https://www.libhunt.com/) - 收集了各种库的网站。  
 - [MSDN, I tell you](https://msdn.itellyou.cn/) - 微软 Windows 系统、Office 镜像文件下载。 
+
+- Toolset
+  - [SOCODE.PRO](https://socode.pro/) - 快速搜索开发文档，小工具等，**提供浏览器插件**。
+  - [345Tool](https://www.345tool.com/) - 开发者工具集。
+  - [tool.lu](https://tool.lu/) - 开发者工具集。  
+  - [Carbon](https://carbon.now.sh/) - 生成漂亮的源代码图片。
+  - [FastIcon](https://fasticon.sawirstudio.com/) - 在线快速生成 Android 与 IOS 应用图标。
+
+- HTTP/IP/DNS
+  - [IPAddress](https://www.ipaddress.com/) - 在线查询某个站点的 IP 地址。
+  - [Resolve.rs](https://resolve.rs/tools.html) - 查询本机 IP、DNS 服务器等。
+  - [FreeSSL](https://freessl.org/) - 免费 SSL 证书在线申请。
+  - [IKnowWhatYouDownload](https://iknowwhatyoudownload.com/) - 查看 IP 下载过的 BT 资源。
 
 - Service
   - [Web-Scale UUID as a Service](https://uuid.rocks/) - 在线生成 uuid。  
@@ -211,9 +215,6 @@
   - [RegEx Pal Tester](https://www.regexpal.com/)
   - [iHateRegex](https://ihateregex.io/)
   - [regexr](https://regexr.com/)
-
-- [Carbon](https://carbon.now.sh/) - 生成漂亮的源代码图片。
-- [Learn Git Branching](https://learngitbranching.js.org/) - 在线 Git 命令互动式学习。
 
 - emoji :smile:
   - [emoji-cheat-sheet](https://www.webfx.com/tools/emoji-cheat-sheet/) - emoji 表情代码备忘录。
@@ -392,6 +393,7 @@
 - [Git](https://git-scm.com/) - 目前最受欢迎的，使用最广泛的分布式源代码版本控制工具。
   - [Resources to learn Git](http://try.github.io/) - 学习 Git 的文档。
   - [Git Explorer](https://gitexplorer.com/) - Git 命令参考。
+  - [Learn Git Branching](https://learngitbranching.js.org/) - 在线 Git 命令互动式学习。
   - [A collection of .gitignore templates](https://github.com/github/gitignore) - 不同类型项目的 `.gitignore` 文件模板。
     - [gitignore.io](https://www.toptal.com/developers/gitignore) - 根据关键词生成 `.gitignore` 文件模板。
   - [Sourcetree](https://www.sourcetreeapp.com/) - 免费的 Git 客户端，支持 Windows 和 Mac。
@@ -528,6 +530,7 @@
 - [fx](https://github.com/antonmedv/fx) - 命令行 JSON 处理工具，**开源软件**。
 - [gping](https://github.com/orf/gping) - 图形化 `ping` 命令结果。
 - [tcping](https://elifulkerson.com/projects/tcping.php) - 类似 `ping` 命令，使用 TCP 端口。
+- [subfinder](https://github.com/projectdiscovery/subfinder) - 查找子域名。
 
 ### 实用工具
 
@@ -567,6 +570,7 @@
 
 - [Open Source Awards](https://osawards.com/) - 开源项目奖。
 - [Openbase](https://openbase.com/) - 开源项目讨论及评奖。
+- [LibHunt](https://www.libhunt.com/) - 收集了各种库的网站。
 - [Linux Mint](https://www.linuxmint.com/) - 很 Cool 的 Linux 发行版。
 - [TIOBE Index](https://www.tiobe.com/tiobe-index/) - 编程语言全球排名。
 - [DB-Engines](https://db-engines.com/) - 数据库排名信息。
