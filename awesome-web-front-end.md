@@ -77,7 +77,8 @@
 
 - 开发文档（Dev docs）
   - [MDN Developer Document](https://developer.mozilla.org/en-US/) - MDN Web Docs 网站提供开放网络（Open Web）技术有关的信息，包括用于网站和渐进式网络应用的 HTML、CSS 和 API，是提供给 Web 开发者最好的学习资料和技术文档，**可作为官方标准参阅学习**。
-  - [web.dev](https://web.dev/) - Web 关键概念学习，**Google 发布**。
+  - [Google Developers for Web](https://developers.google.com/web) - 谷歌开发者中心，Web 站点，众多工具和资源。
+    - [web.dev](https://web.dev/) - Web 关键概念学习、实践。
   - [Frontend Developer Roadmap](https://roadmap.sh/frontend) - 前端开发技术路线图。
   - [The Front-End Checklist](https://frontendchecklist.io/) - 前端清单，前端知识点及其最佳实践。
   - [印记中文](https://docschina.org/) - 包含了许多前端技术库的中文翻译文档。
