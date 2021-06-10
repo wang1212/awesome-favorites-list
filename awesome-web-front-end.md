@@ -688,6 +688,7 @@
 - [Textures.js](https://riccardoscalco.it/textures/) - 创建 SVG 模式。
 - [ztext.js](https://bennettfeely.com/ztext/) - 实现文字 3D 效果。
 - [mermaid](https://github.com/mermaid-js/mermaid) - txt 文本生成流程图。
+- [wordcloud2.js](https://github.com/timdream/wordcloud2.js) - 词云。
 
 ### 图表
 
