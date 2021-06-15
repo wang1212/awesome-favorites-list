@@ -93,6 +93,7 @@
 
 *Daily tools.*
 
+- [DuckDuckgo](https://duckduckgo.com/) - 安全、隐私友好的搜索引擎。
 - [Speedtest](https://www.speedtest.net/) - 专业测速。
 - [SimilarSites](https://www.similarsites.com/) - 查询相似站点。（提供 Chrome 扩展）
 
@@ -157,7 +158,9 @@
 
 *Browser.*
 
-- [Chromium](https://chromium.woolyss.com/download/) - [Chromium](https://www.chromium.org/) 浏览器安装包下载，[**非官方网站**](https://chromium.woolyss.com/#notes)。
+- [Chromium](https://chromium.woolyss.com/download/) - **开源** [Chromium](https://www.chromium.org/) 浏览器安装包下载，[**非官方网站**](https://chromium.woolyss.com/#notes)。
+- [Brave](https://brave.com/) - 安全为核心的浏览器。
+- [Vivaldi](https://vivaldi.com/) - 安全、隐私友好的浏览器。
 
 ### 下载
 
