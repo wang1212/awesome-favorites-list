@@ -14,7 +14,6 @@
 
 - [技术规范标准（Technical Specifications）](#技术规范标准)
 - [技术参考文档（Technical Reference Document）](#技术参考文档)
-- [构建工具（Build Tools）](#构建工具)
 - [HTML](#html)
   - [代码风格规范（Code Style Specifications）](#html-代码风格规范)
   - [在线资源（Online Resources）](#html-在线资源)
@@ -28,12 +27,14 @@
   - [在线资源（Online Resources）](#js-在线资源)
   - [工具库（Library）](#js-工具库)
 - [TypeScript](#typescript)
-- [字体图标（Font Icon）](#字体图标)
-- [UI 设计系统（UI Design System）](#ui-设计系统)
-- [UI 组件（UI Component）](#ui-组件)
-  - [组件库（Component Library）](#组件库)
-  - [独立组件（Independent Components）](#独立组件)
-- [UI 模板（UI Template）](#ui-模板)
+- [构建工具（Build Tools）](#构建工具)
+- [UI 资源（UI Resources）](#ui-资源)
+  - [字体图标（Font Icon）](#字体图标)
+  - [UI 设计系统（UI Design System）](#ui-设计系统)
+  - [UI 组件（UI Component）](#ui-组件)
+    - [组件库（Component Library）](#组件库)
+    - [独立组件（Independent Components）](#独立组件)
+  - [UI 模板（UI Template）](#ui-模板)
 - [数据可视化（Data Visualization）](#数据可视化)
   - [可视化工具（Visualization Tools）](#可视化工具)
   - [图表（Chart）](#图表)
@@ -91,87 +92,6 @@
   - [30 seconds](https://www.30secondsofcode.org/) - 30 seconds 是一个系列，包含 JS、React.js、CSS 相关的编程技巧和代码片段。
 
 - [DOM Events](https://domevents.dev/) - DOM 事件运行机制的可视化。
-
-[`Go Top ↑`](#awesome-web-front-end-list)
-
-## 构建工具
-
-*Build tool, packaging tool used to develop web app, realize web engineering.*
-
-- [Create App](https://createapp.dev/) - 前端项目构建工具启动配置。
-
-### API 兼容性支持
-
-*API Polyfill.*
-
-- HTML
-  - [html5shiv](https://github.com/aFarkas/html5shiv) - 在旧浏览器（IE9 以下）上提供对 HTML5 新标签（例如 footer、nav）的支持。
-  
-- CSS
-  - [Respond](https://github.com/scottjehl/Respond) - 在旧浏览器（IE 6-8）上提供对 CSS3 Media Queries（媒体查询）的支持。
-  - [selectivizr](http://selectivizr.com/) - 在旧浏览器（IE 6-8）上提供对 CSS3 新选择器的支持，注意 `style` 标签内样式不解析，动态生成的 DOM 也不解析。
-
-- JavaScript
-  - [Polyfill.io](https://cdn.polyfill.io/) - Polyfills 服务。
-  - [core-js](https://github.com/zloirock/core-js) - 现代 JavaScript 标准库。
-  - [Promise Polyfill](https://github.com/taylorhakes/promise-polyfill) - 为浏览器提供 Promise API 支持。
-  - [webp-hero](https://github.com/chase-moskal/webp-hero) - 为浏览器提供 WebP 格式图片支持。
-  - [fetch](https://github.github.io/fetch/) - 提供 `window.fetch` API 的兼容性支持。
-  - [unfetch](https://github.com/developit/unfetch) - 提供简单的 Fetch API 支持。
-
-### 打包工具
-
-*Packaging tools && Task management.*
-
-- [webpack](https://webpack.js.org/) - 打包工具，适合开发 Web 应用。
-  - [awesome-webpack](https://github.com/webpack-contrib/awesome-webpack) - Webpack 相关资源，**官方认证**。
-  
-- [Gulp](https://gulpjs.com/)
-- [Grunt](https://gruntjs.com/)  
-  
-### 编译器
-
-*Code compilation conversion.*
-
-- [Babel](https://babeljs.io/) - 编译工具，可将 TypeScript、ES6/7/8 代码编译为 JavaScript（ES5） 代码。
-- [Sass](https://sass-lang.com/) - CSS 预处理器，可提供类似编程语言的能力（变量、方法、作用域、嵌套）来编写 CSS。
-  - [Sass Guidelines](https://sass-guidelin.es/) - Sass 语法风格指南，**非官方**。
-
-- [PostCSS](https://postcss.org/) - CSS 后处理器，提供众多插件来实现还未被广泛实现和标准化的 CSS 功能特性，最终将其编译为目标平台支持的 CSS 代码。
-  - [postcss-normalize](https://github.com/csstools/postcss-normalize)    
-  
-- CSS In JS
-  - [JSS](https://cssinjs.org) - 一种 CSS-in-JS 的解决方案。
-  - [styled components](https://www.styled-components.com) - 一种 CSS-in-JS 的解决方案。
-
-### PWA
-
-*[Progressive web apps](https://developer.mozilla.org/en-US/docs/Web/Progressive_web_apps).*
-
-- [WorkBox](https://developers.google.com/web/tools/workbox/) - Google 专门为构建 PWA （Progressive Web App，渐进式 Web 应用）提供的一套开发工具，支持多个平台，并提供了方便的 webpack 插件。
-- [What PWA Can Do Today](https://whatpwacando.today/) - 在线测试 PWA 应用可以调用的 Web API。
-
-### 代码静态分析
-
-*Code lint.*
-
-- [ESLint](https://eslint.org/) - JavaScript 语法规则检查工具。
-- [Prettier](https://prettier.io/) - 代码格式化工具，支持多种语言。
-- [stylelint](https://stylelint.io/) - CSS 语法规则检查工具，支持 CSS/Sass/CSS-in-JS 等。
-- [Flow](https://flow.org/) - Facebook 出品的 JavaScript 静态类型检查工具。
-
-### 响应式设计
-
-*Responsive Design.*
-
-- [Responsively](https://responsively.app/) - **开源免费**。
-- [Polypane](https://polypane.app/) - 提供免费版本。
-
-### 其它工具
-
-*Others tools.*
-
-- [SystemJS](https://github.com/systemjs/systemjs) - 动态 ES Module 加载器。
 
 [`Go Top ↑`](#awesome-web-front-end-list)
 
@@ -482,15 +402,100 @@
 
 [`Go Top ↑`](#awesome-web-front-end-list)
 
-## 字体图标
+## 构建工具
+
+*Build tool, packaging tool used to develop web app, realize web engineering.*
+
+- [Create App](https://createapp.dev/) - 前端项目构建工具启动配置。
+
+### API 兼容性支持
+
+*API Polyfill.*
+
+- HTML
+  - [html5shiv](https://github.com/aFarkas/html5shiv) - 在旧浏览器（IE9 以下）上提供对 HTML5 新标签（例如 footer、nav）的支持。
+  
+- CSS
+  - [Respond](https://github.com/scottjehl/Respond) - 在旧浏览器（IE 6-8）上提供对 CSS3 Media Queries（媒体查询）的支持。
+  - [selectivizr](http://selectivizr.com/) - 在旧浏览器（IE 6-8）上提供对 CSS3 新选择器的支持，注意 `style` 标签内样式不解析，动态生成的 DOM 也不解析。
+
+- JavaScript
+  - [Polyfill.io](https://cdn.polyfill.io/) - Polyfills 服务。
+  - [core-js](https://github.com/zloirock/core-js) - 现代 JavaScript 标准库。
+  - [Promise Polyfill](https://github.com/taylorhakes/promise-polyfill) - 为浏览器提供 Promise API 支持。
+  - [webp-hero](https://github.com/chase-moskal/webp-hero) - 为浏览器提供 WebP 格式图片支持。
+  - [fetch](https://github.github.io/fetch/) - 提供 `window.fetch` API 的兼容性支持。
+  - [unfetch](https://github.com/developit/unfetch) - 提供简单的 Fetch API 支持。
+
+### 打包工具
+
+*Packaging tools && Task management.*
+
+- [webpack](https://webpack.js.org/) - 打包工具，适合开发 Web 应用。
+  - [awesome-webpack](https://github.com/webpack-contrib/awesome-webpack) - Webpack 相关资源，**官方认证**。
+  
+- [Gulp](https://gulpjs.com/)
+- [Grunt](https://gruntjs.com/)  
+  
+### 编译器
+
+*Code compilation conversion.*
+
+- [Babel](https://babeljs.io/) - 编译工具，可将 TypeScript、ES6/7/8 代码编译为 JavaScript（ES5） 代码。
+- [Sass](https://sass-lang.com/) - CSS 预处理器，可提供类似编程语言的能力（变量、方法、作用域、嵌套）来编写 CSS。
+  - [Sass Guidelines](https://sass-guidelin.es/) - Sass 语法风格指南，**非官方**。
+
+- [PostCSS](https://postcss.org/) - CSS 后处理器，提供众多插件来实现还未被广泛实现和标准化的 CSS 功能特性，最终将其编译为目标平台支持的 CSS 代码。
+  - [postcss-normalize](https://github.com/csstools/postcss-normalize)    
+  
+- CSS In JS
+  - [JSS](https://cssinjs.org) - 一种 CSS-in-JS 的解决方案。
+  - [styled components](https://www.styled-components.com) - 一种 CSS-in-JS 的解决方案。
+
+### PWA
+
+*[Progressive web apps](https://developer.mozilla.org/en-US/docs/Web/Progressive_web_apps).*
+
+- [WorkBox](https://developers.google.com/web/tools/workbox/) - Google 专门为构建 PWA （Progressive Web App，渐进式 Web 应用）提供的一套开发工具，支持多个平台，并提供了方便的 webpack 插件。
+- [What PWA Can Do Today](https://whatpwacando.today/) - 在线测试 PWA 应用可以调用的 Web API。
+
+### 代码静态分析
+
+*Code lint.*
+
+- [ESLint](https://eslint.org/) - JavaScript 语法规则检查工具。
+- [Prettier](https://prettier.io/) - 代码格式化工具，支持多种语言。
+- [stylelint](https://stylelint.io/) - CSS 语法规则检查工具，支持 CSS/Sass/CSS-in-JS 等。
+- [Flow](https://flow.org/) - Facebook 出品的 JavaScript 静态类型检查工具。
+
+### 响应式设计
+
+*Responsive Design.*
+
+- [Responsively](https://responsively.app/) - **开源免费**。
+- [Polypane](https://polypane.app/) - 提供免费版本。
+
+### 其它工具
+
+*Others tools.*
+
+- [SystemJS](https://github.com/systemjs/systemjs) - 动态 ES Module 加载器。
+
+[`Go Top ↑`](#awesome-web-front-end-list)
+
+## UI 资源
+
+*UI resources.*
+
+### 字体图标
 
 *Font icon, vector icon.*
 
-### 字体
+#### 字体
 
 *Font.*
   
-### 图标
+#### 图标
 
 *Icon.*
 
@@ -510,9 +515,7 @@
 - [Font Awesome](https://fontawesome.com/) - 丰富的图标库，提供**免费版**。
 - [IconPark](https://iconpark.bytedance.com/official) - **开源免费**的图标库，**字节跳动公司发布**。
 
-[`Go Top ↑`](#awesome-web-front-end-list)
-
-## UI 设计系统
+### UI 设计系统
 
 *Some open source, shared UI design kits.*
 
@@ -524,31 +527,29 @@
 - [Ant Design](https://ant.design/) - Ant 设计，包含组件库、图标、数据可视化工具等资源，**阿里巴巴公司发布**。
 - [TOAST UI](https://ui.toast.com/) - 包含日历、编辑器、网格组件，以及图表库，**NHN 公司发布**。
 
-[`Go Top ↑`](#awesome-web-front-end-list)
-
-## UI 组件
+### UI 组件
 
 *UI Component*
 
 [Bit](https://bit.dev/)，共享组件发布平台。
 
-### 组件库
+#### 组件库
 
 *UI component library, providing a set of components with consistent design style.*
 
-#### Bootstrap
+##### Bootstrap
 
 - [Bootstrap](https://getbootstrap.com/) - 最流行的 CSS UI 框架，**Twitter 公司发布**。
 - [Bootswatch](https://bootswatch.com/) - 开源免费的 Bootstrap 主题集合，**非官方**。
 - [MDB](https://mdbootstrap.com/) - 基于 Bootstrap 实现 Material Design 的 UI 组件库，**非官方**。
 
-#### Material Design
+##### Material Design
 
 - [Material Design Lite](https://getmdl.io/) - 基于 Material Design 的轻量级 CSS UI 框架，**Google 官方发布**。（:warning: 不再更新）
 - [Material Components Web](https://material.io/develop/) - 基于 Material Design 的 Web 组件库，**Google 官方实现**。
 - [Materialize](https://materializecss.com/) - 最流行的实现了 Google Material Design 的 CSS UI 框架。
 
-#### 其它（Others）
+##### 其它（Others）
 
 - [UIkit](https://getuikit.com/) - 轻量级的现代化前端模块化 CSS 框架。
 - [Framework7](https://framework7.io/) - 跨平台 UI 库，支持 Android/ios/Desktop 平台，且主题样式设计适配相应平台。
@@ -564,7 +565,7 @@
 - [Skeleton](http://getskeleton.com/) - 简单的响应式 CSS 框架。（:warning: 不再更新）
 - [egjs](https://naver.github.io/egjs/) - 提供多个可用的独立组件。
 
-### 独立组件
+#### 独立组件
 
 *Independent UI components, only providing component modules that implement an interactive function.*
 
@@ -665,9 +666,7 @@
   - [Tippy.js](https://atomiks.github.io/tippyjs/) - 工具提示组件。
   - [WinBox](https://nextapps-de.github.io/winbox/) - 窗口组件。
 
-[`Go Top ↑`](#awesome-web-front-end-list)
-
-## UI 模板
+### UI 模板
 
 *UI template.*
 
