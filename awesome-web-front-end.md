@@ -763,6 +763,7 @@
 - [Snabbdom](https://github.com/snabbdom/snabbdom) - 基于虚拟 DOM 机制，模块化、高性能开发框架。
 - [mithril.js](https://mithril.js.org/)
 - [Ember.js](https://emberjs.com/)
+- [Alpine.js](https://alpinejs.dev/) - 轻量的 JavaScript 框架。
 
 - [Riot.js](https://riot.js.org/) - 基于组件的 UI 库。
 - [LitElement](https://lit-element.polymer-project.org/) - 用于创建 [Web 组件](https://developer.mozilla.org/en-US/docs/Web/Web_Components) 的基类工具库。
