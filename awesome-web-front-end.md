@@ -258,6 +258,7 @@
     - [Hypercolor](https://hypercolor.dev/) - 渐变色集合。
     - [Tailwind Components](https://tailwindcomponents.com/) - 使用 TailwindCSS 构建的组件，社区支持。
     - [daisyUI](https://daisyui.com/) - 使用 TailwindCSS 构建的组件，支持多种主题配色。
+    - [headlessUI](https://headlessui.dev/) - 一组完全无样式、可访问的组件，与 TailwindCSS 集成使用，**TailwindCSS 官方发布**。
   - [Masonry](https://masonry.desandro.com/) - `grid` 布局工具。
 
 - 动画（Animate）
