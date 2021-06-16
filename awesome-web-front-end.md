@@ -42,6 +42,7 @@
 - [开发框架（Framework）](#开发框架)
 - [应用状态管理（Application State Management）](#应用状态管理)
 - [WebAssembly](#webAssembly)
+- [深入探索（Explore In Depth）](#深入探索)
 - [更多（More）](#更多)
   - [CDN](#cdn)
   - [在线工具（Online Tools）](#在线工具) 
@@ -816,6 +817,17 @@
 - 编辑器（Online Editor）
   - [WebAssembly Studio](https://webassembly.studio/) - 在线的 WebAssembly 编辑器，**Mozilla 发布**。
   - [WebAssembly Cloud](https://webassembly.cloud/)
+
+[`Go Top ↑`](#awesome-web-front-end-list)
+
+## 深入探索
+
+*Explore the principles behind the technology, the underlying architecture, etc.*
+
+### 抽象语法树（Abstract syntax tree）
+
+- [Read JavaScript Source Code, Using an AST](https://www.digitalocean.com/community/tutorials/js-traversing-ast) - 文章，通过 AST 了解 JavaScript 源码。
+- [AST Explorer](https://astexplorer.net/) - 在线预览 JavaScript 代码片段的 AST。
 
 [`Go Top ↑`](#awesome-web-front-end-list)
 
