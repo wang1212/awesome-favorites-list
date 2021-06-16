@@ -255,8 +255,9 @@
 - 实用工具（Utils）
   - [Tailwind CSS](https://tailwindcss.com/) - 可定制设计的低级 CSS 框架，不提供组件样式，仅提供预设的工具类，来进行组合创建样式。
     - [Tailwind CSS Cheat Sheet](https://nerdcave.com/tailwind-cheat-sheet)
-    - [Tailwind Components](https://tailwindcomponents.com/) - 使用 TailwindCSS 构建的组件，社区支持。
     - [Hypercolor](https://hypercolor.dev/) - 渐变色集合。
+    - [Tailwind Components](https://tailwindcomponents.com/) - 使用 TailwindCSS 构建的组件，社区支持。
+    - [daisyUI](https://daisyui.com/) - 使用 TailwindCSS 构建的组件，支持多种主题配色。
   - [Masonry](https://masonry.desandro.com/) - `grid` 布局工具。
 
 - 动画（Animate）
