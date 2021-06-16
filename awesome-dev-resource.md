@@ -312,6 +312,7 @@
 
 *Image Compression.*
 
+- [Compress Image Online](https://compressimage.io/)
 - [Squoosh](https://squoosh.app/)
 - [Compress PNG](https://compresspng.com/)
 - [Picdiet](https://www.picdiet.com/)
