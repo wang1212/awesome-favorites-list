@@ -21,6 +21,7 @@
 - [在线资源（Online Resources）](#在线资源)
 - [软件工具（Software Tools）](#软件工具)
 - [工具套件（Tool kit）](#工具套件)
+- [文档站点生成器（Documentation Site Generator）](#文档站点生成器)
 - [更多（More）](#更多)
 
 ## 规范参考
@@ -554,7 +555,6 @@
 - [WireShark](https://www.wireshark.org/) - 协议分析工具，**开源免费**。
 - [Fiddler Everywhere](https://www.telerik.com/fiddler) - 抓包工具，**提供免费版本**。
 - [mitmproxy](https://www.mitmproxy.org/) - Python 开发的 HTTPS 代理，**开源免费**。
-- [Docusaurus](https://v2.docusaurus.io/) - 快速构建优化、快速的网站，**Facebook 发布**。
 - [hoppscotch](https://hoppscotch.io/) - 在线的 http 客户端工具。
 - [Opal](https://opalrb.com/) - 将 `Ruby` 代码编译为 `JavaScript` 代码的编译器。
 - [netdata](https://www.netdata.cloud/) - 系统指标监控 Web 平台，**开源免费**。
@@ -562,6 +562,15 @@
 - [Skia](https://skia.org/) - 2D 渲染引擎，在 Chrome、Chrome OS、Android、Flutter、Mozilla Firefox 等产品中使用。
 - [nocodb](https://www.nocodb.com/) - NoCode 平台，将任何数据库转换为电子表格，**开源软件**。
 - [Talk](https://github.com/vasanthv/talk) - 点对点的 Web 视频会议和屏幕共享应用，**开源软件**。
+
+[`Go Top ↑`](#awesome-development-resources)
+
+## 文档站点生成器
+
+*Documentation Site Generator.*
+
+- [Docusaurus](https://v2.docusaurus.io/) - 快速构建优化、快速的网站，**Facebook 发布**。
+- [docsify](https://docsify.js.org/) - 一个神奇的文档站点生成器。
 
 [`Go Top ↑`](#awesome-development-resources)
 
