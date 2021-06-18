@@ -800,6 +800,7 @@
 
 - [WebAssembly](https://webassembly.org/) - 新型字节码格式，可将其它语言编译后在 Web 浏览器中运行，**官方网站**。
 - [WASI](https://wasi.dev/) - WebAssembly 系统接口标准，致力于在浏览器之外的环境中运行 WebAssembly。
+- [Bytecode Alliance](https://bytecodealliance.org/) - 字节码联盟。
 
 - 工具链（Tools）
   - [Emscripten](https://emscripten.org/) - 用于编译为使用 LLVM 构建的 asm.js 和 WebAssembly 的工具链，可在 Web 浏览器中运行 C/C++ 代码。
