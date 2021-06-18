@@ -892,6 +892,7 @@
 - [JavaScript for Data Science](https://js4ds.org/)
 - [Add a web app manifest](https://web.dev/add-manifest/) - PWA 应用 `manifest.webmanifest` 文件中建议的字段。
 - [Tasks, microtasks, queues and schedules](https://jakearchibald.com/2015/tasks-microtasks-queues-and-schedules/) - JS 中的任务、微任务、队列和调度过程。
+- [Front-End Performance Checklist 2021](https://www.smashingmagazine.com/2021/01/front-end-performance-2021-free-pdf-checklist/) - 前端性能检查清单。
 
 ### 其它
 
