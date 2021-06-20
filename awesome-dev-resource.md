@@ -2,6 +2,7 @@
   <h1>Awesome-Development-Resources</h1>
 
   <p>:heart: 收藏列表 - :+1: 很棒的软件开发资源，包括软件、命令行工具等资源。</p>
+  <p><i>Favorites list - great software development resources, including software, command line tools and other resources.</i></p>
 </div>
 
 <br />
@@ -58,7 +59,6 @@
 - [Naming cheatsheet](https://github.com/kettanaito/naming-cheatsheet) - 变量命名指南。
 - [c4model](https://c4model.com/) - 用于软件架构的 C4 模型。
 - [OWASP Cheat Sheet Series](https://cheatsheetseries.owasp.org/) - 技术安全相关备忘单，由 OWASP 基金会维护。
-- [VisuAlgo](https://visualgo.net/zh) - 可视化算法过程。
 
 [`Go Top ↑`](#awesome-development-resources)
 
@@ -106,6 +106,20 @@
 - [The System Design Primer](https://github.com/donnemartin/system-design-primer) - 学习构建大型系统。
 - [TodoMVC](http://todomvc.com/) - 构建 MV* 应用的技术选型推荐。
 - [Awesome Software Architecture](https://mehdihadeli.github.io/awesome-software-architecture/) - 软件架构参考。
+
+#### 算法与数据结构
+
+*Algorithm and data structure.*
+
+- [The Algorithms](https://the-algorithms.com/) - 学习算法和数据结构及其在多个语言中的实现。
+- [VisuAlgo](https://visualgo.net/zh) - 可视化算法过程。
+- [Pathfinding Visualizer](https://josephprichard.github.io/Pathfinder/) - 寻路算法可视化工具。
+
+#### 软件架构设计
+
+*Software architecture design.*
+
+- [c4model](https://c4model.com/) - 用于软件架构的 C4 模型。
 
 ### 论坛
 
