@@ -420,6 +420,7 @@
 - CSS
   - [Respond](https://github.com/scottjehl/Respond) - 在旧浏览器（IE 6-8）上提供对 CSS3 Media Queries（媒体查询）的支持。
   - [selectivizr](http://selectivizr.com/) - 在旧浏览器（IE 6-8）上提供对 CSS3 新选择器的支持，注意 `style` 标签内样式不解析，动态生成的 DOM 也不解析。
+  - [css-paint-polyfill](https://github.com/GoogleChromeLabs/css-paint-polyfill) - [`CSS Paint API`](https://developers.google.com/web/updates/2018/01/paintapi) 。
 
 - JavaScript
   - [Polyfill.io](https://cdn.polyfill.io/) - Polyfills 服务。
