@@ -368,6 +368,7 @@
 - [Version Badge](https://badge.fury.io/)
 - [Badges](https://formidable.com/open-source/badges/)
 - [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats) - 显示 GitHub 仓库统计信息。
+- [GitHub Stats Visualization](https://github.com/jstrieb/github-stats)
 - [Star Charts](https://starchart.cc/) - GitHub 星数量趋势图。
 - [Git Awards](http://git-awards.com/) - Git 用户仓库统计排名信息。
 
