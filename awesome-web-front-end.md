@@ -251,7 +251,6 @@
   - [JEST](https://jestjs.io/) - Facebook 出品的 JavaScript 单元测试工具。
   - [faker.js](https://github.com/marak/faker.js) - 生成大量随机测试数据，可用来开发过程中进行 API 调试。
   - [Chance](https://chancejs.com/) - 生成随机的测试数据。
-  - [Perfume.js](https://zizzamia.github.io/perfume/) - 性能监控工具。
   - [Mirage JS](https://miragejs.com/) - Mock API。
   - [Sinon.JS](https://sinonjs.org/)
  
@@ -833,6 +832,11 @@
 
 - [Read JavaScript Source Code, Using an AST](https://www.digitalocean.com/community/tutorials/js-traversing-ast) - 文章，通过 AST 了解 JavaScript 源码。
 - [AST Explorer](https://astexplorer.net/) - 在线预览 JavaScript 代码片段的 AST。
+
+### 性能分析（Performance analysis）
+
+- [Web Vitals](https://web.dev/vitals/) - Web 性能指标，Google 提出，并提供 npm 工具包。
+- [Perfume.js](https://zizzamia.github.io/perfume/) - 性能监控工具。
 
 [`Go Top ↑`](#awesome-web-front-end-list)
 
