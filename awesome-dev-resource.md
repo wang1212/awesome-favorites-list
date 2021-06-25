@@ -30,6 +30,7 @@
 *Specification Reference.*
 
 - [Semantic Versioning](https://semver.org/) - 语义化版本控制。
+  - [Software release life cycle](https://en.wikipedia.org/wiki/Software_release_life_cycle) - 软件发布的生命周期。
 - [Conventional Commits](https://www.conventionalcommits.org/) - 代码提交信息格式约定推荐规范。
   - [AngularJS Commit Message Format](https://github.com/angular/angular/blob/master/CONTRIBUTING.md#-commit-message-format) - AngularJS 提交信息格式约定，可作为参考。
 - [SQL Style Guide](https://www.sqlstyle.guide/) - SQL 语句规范指南参考。
