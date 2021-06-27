@@ -518,19 +518,20 @@
 *Used on Linux platform.*
 
 - [Modern Unix](https://github.com/ibraheemdev/modern-unix) - 常见 Unix 命令更好的替代品。
-- [tldr](https://tldr.sh/) - 类似于 `man` 命令，简化版的命令手册文档。
+  - [tldr](https://tldr.sh/) - 类似于 `man` 命令，简化版的命令手册文档。
+  - [htop](https://htop.dev/) - 类似于 `top` 命令，交互式进程浏览器。
+  - [exa](https://the.exa.website/) - 类似于 `ls` 命令。
+  - [fd](https://github.com/sharkdp/fd) -  类似于 `find` 命令，更简单好用。
+  - [bat](https://github.com/sharkdp/bat) - 类似于 `cat` 命令，支持语法高亮等特性。
+  - [ripgrep ](https://github.com/BurntSushi/ripgrep) - 类似于 `grep` 命令。
+
 - [The Fuck](https://github.com/nvbn/thefuck) - 命令行错误命令纠正工具（多平台支持）。
 - [screenFetch](https://github.com/KittyKatt/screenFetch) - 显示系统详细信息。
 - [Glances](https://nicolargo.github.io/glances/) - 系统性能指标监控工具（多平台支持）。
-- [htop](https://htop.dev/) - 类似于 `top` 命令，交互式进程浏览器。
 - [ncdu](https://dev.yorhel.nl/ncdu) - 磁盘使用情况统计。
-- [exa](https://the.exa.website/) - 类似于 `ls` 命令。
 - [ctop](https://ctop.sh/) - 容器性能指标监控工具。
 - [lazydocker](https://github.com/jesseduffield/lazydocker) - Docker 终端 UI 管理工具。
-- [fd](https://github.com/sharkdp/fd) -  类似于 `find` 命令，更简单好用。
 - [fzf](https://github.com/junegunn/fzf) - 模糊查找器。
-- [bat](https://github.com/sharkdp/bat) - 类似于 `cat` 命令，支持语法高亮等特性。
-- [ripgrep ](https://github.com/BurntSushi/ripgrep) - 类似于 `grep` 命令。
 - [sslh](https://github.com/yrutschle/sslh) - 实现端口复用。
 
 #### 其它
@@ -550,6 +551,8 @@
 - [gping](https://github.com/orf/gping) - 图形化 `ping` 命令结果。
 - [tcping](https://elifulkerson.com/projects/tcping.php) - 类似 `ping` 命令，使用 TCP 端口。
 - [subfinder](https://github.com/projectdiscovery/subfinder) - 查找子域名。
+- [dog](https://dns.lookup.dog/) - 命令行 DNS 客户端。
+- [duf](https://github.com/muesli/duf) - 查看硬盘使用情况的工具。
 
 ### 实用工具
 
@@ -565,7 +568,6 @@
 *Tool kit.*
 
 - [free-for.dev](https://free-for.dev/) - **免费**的开发资源服务列表。
-- [DBeaver Community](https://dbeaver.io/) - 图形化数据库管理工具软件，**多平台支持，开源免费**。
 - [Cube.js](https://cube.dev/) - **开源**的 Web 应用分析解决方案。
 - [Counter](https://counter.dev/) - **开源免费**的 Web 站点统计分析平台。
 - [screego](https://screego.net/#/) - 屏幕共享服务器。
@@ -579,6 +581,7 @@
 - [Skia](https://skia.org/) - 2D 渲染引擎，在 Chrome、Chrome OS、Android、Flutter、Mozilla Firefox 等产品中使用。
 - [nocodb](https://www.nocodb.com/) - NoCode 平台，将任何数据库转换为电子表格，**开源软件**。
 - [Talk](https://github.com/vasanthv/talk) - 点对点的 Web 视频会议和屏幕共享应用，**开源软件**。
+- [nb](https://xwmx.github.io/nb/) - 命令行和本地 Web 笔记、文档管理、检索应用程序。
 
 [`Go Top ↑`](#awesome-development-resources)
 
