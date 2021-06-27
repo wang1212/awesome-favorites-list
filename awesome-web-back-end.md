@@ -28,6 +28,7 @@
   - [OpenAPI.Tools](https://openapi.tools/)
 - [AsyncAPI](https://www.asyncapi.com/) - 事件驱动的 APIs 规范，改编自 OpenAPI。
 - [JSON Specification](http://www.json.org/) - JSON 数据格式规范。
+- [JSON Schema](http://json-schema.org/) - JSON 数据校验。
 - [JSON5 Specification](https://spec.json5.org/) - JSON5 数据格式规范，是对 JSON 格式的扩展，支持注释等特性。
 - [NDJSON Specification](http://ndjson.org/) - Newline Delimited JSON 数据格式规范。
 - [BSON Specification](http://bsonspec.org/) - Binary JSON 数据格式规范。
