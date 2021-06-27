@@ -2,6 +2,7 @@
   <h1>Awesome-Web-Front-End-List</h1>
 
   <p>:heart: 收藏列表 - :+1: 很棒的 Web 前端基本技术 JavaScript、CSS、HTML 相关框架、库、工具等。</p>
+  <p><i>Favorites list - Great basic web front-end technologies JavaScript, CSS, HTML related frameworks, libraries, tools, etc.</i></p>
 </div>
 
 <br />
