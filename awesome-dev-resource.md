@@ -517,6 +517,7 @@
 
 *Used on Linux platform.*
 
+- [Modern Unix](https://github.com/ibraheemdev/modern-unix) - 常见 Unix 命令更好的替代品。
 - [tldr](https://tldr.sh/) - 类似于 `man` 命令，简化版的命令手册文档。
 - [The Fuck](https://github.com/nvbn/thefuck) - 命令行错误命令纠正工具（多平台支持）。
 - [screenFetch](https://github.com/KittyKatt/screenFetch) - 显示系统详细信息。
