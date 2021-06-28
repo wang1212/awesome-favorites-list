@@ -107,6 +107,7 @@
 - [The System Design Primer](https://github.com/donnemartin/system-design-primer) - 学习构建大型系统。
 - [TodoMVC](http://todomvc.com/) - 构建 MV* 应用的技术选型推荐。
 - [Awesome Software Architecture](https://mehdihadeli.github.io/awesome-software-architecture/) - 软件架构参考。
+- [https://12factor.net/](https://12factor.net/) - 开发应用的十二要素。
 
 #### 算法与数据结构
 
