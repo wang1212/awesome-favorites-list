@@ -118,6 +118,7 @@
     - [TS Node](https://github.com/TypeStrong/ts-node) - Node.js 的 TypeScript 语言运行器和交互式解释器。
     - [Neon](https://neon-bindings.com/) - Rust 的 Node.js 绑定，可用来编写快速、安全的原生模块。
   - 调试（Debug）
+    - [debug](https://github.com/visionmedia/debug) - 打印 debug 日志。
   - 日志（Log）
     - [log4js](https://github.com/log4js-node/log4js-node) - 日志记录。
     - [winston](https://github.com/winstonjs/winston) - 简单通用的日志库。
