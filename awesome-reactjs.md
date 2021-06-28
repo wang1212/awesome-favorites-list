@@ -2,6 +2,7 @@
   <h1>Awesome-React.JS-List</h1>
 
   <p>:heart: 收藏列表 - :+1: 很棒的 React.js 开发工具和生态技术。</p>
+  <p><i>Favorites list - great React.js development tools and ecological technology.</i></p>
 </div>
 
 <br />
@@ -295,5 +296,6 @@
 - [React Open Source Awards](https://osawards.com/react/) - React 开源项目奖，**非官方**。
 - [Proton Native](https://proton-native.js.org/#/) - 跨平台桌面端应用的 React.js 环境。
 - [Spectacle](https://formidable.com/open-source/spectacle/) - 基于 React.js 的演示文稿工具库。
+- [React Interview Questions & Answers](https://github.com/sudheerj/reactjs-interview-questions) - React.js 面试 Q/A。
 
 [`Go Top ↑`](#awesome-reactjs-list)
