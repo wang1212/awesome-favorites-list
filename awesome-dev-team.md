@@ -14,3 +14,4 @@
 - [Algolia Team](https://community.algolia.com/) - 构建搜索服务平台。
 - [Formidable](https://formidable.com/open-source/)
 - [Instacart](https://www.instacart.com/opensource)
+- [yahoo Open Source](https://developer.yahoo.com/opensource/) - 雅虎开源。
