@@ -15,7 +15,7 @@
 - [阅读（Reading）](awesome-reading.md)
 - [软件（Software）](awesome-software.md)
 - 软件开发（Software Development）
-  - [技术规范标准（Technical Specifications）](awesome-dev-specifications.md)
+  - [技术标准规范（Technical Standard Specification）](awesome-dev-specifications.md)
   - [开发资源（Development Resources）](awesome-dev-resource.md)
   - [开源开发团队（Development Team）](awesome-dev-team.md)
   - [Web 后端（Web Backend）](awesome-web-back-end.md)
