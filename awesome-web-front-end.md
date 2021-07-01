@@ -13,7 +13,7 @@
 
 *Resource navigation list.*
 
-- [技术规范标准（Technical Specifications）](#技术规范标准)
+- [技术标准规范（Technical Standard Specification）](#技术标准规范)
 - [技术参考文档（Technical Reference Document）](#技术参考文档)
 - [HTML](#html)
   - [代码风格规范（Code Style Specifications）](#html-代码风格规范)
@@ -50,19 +50,18 @@
   - [文章（Article）](#文章)
   - [其它（Others）](#其它)
 
-## 技术规范标准
+## 技术标准规范
 
-*Official technical specifications.*
+*Technical standard specification.*
 
 - [W3C](https://www.w3.org/) - 万维网联盟创建于 1994 年，是 Web 技术领域最具权威和影响力的国际中立性技术标准机构。
 - [ECMA International](http://www.ecma-international.org/) - ECMA 国际是一家国际性会员制度的信息和电信标准组织，负责行业标准的制定，例如 ECMA Script。
 - [ECMAScript Official Specification Standard](https://www.ecma-international.org/publications/standards/Ecma-262.htm) - ECMAScript 官方规范标准。
 - [TC39 ECMAScript proposals](https://github.com/tc39/proposals) - TC39 对 ECMAScript 标准制定提案的记录。
 - [WHATWG community](https://whatwg.org/) - 网络超文本应用技术工作组（WHATWG）维护的一些规范性文档。
-- [JSON Specification](http://www.json.org/) - JSON 数据格式规范。
-- [JSON Schema](http://json-schema.org/) - JSON 数据校验。
-- [JSON5 Specification](https://spec.json5.org/) - JSON5 数据格式规范，是对 JSON 格式的扩展，支持注释等特性。
-- [NDJSON Specification](http://ndjson.org/) - Newline Delimited JSON 数据格式规范。
+- [Promises/A+ Specification](https://promisesaplus.com/)
+
+*More others 👉 [Awesome-Development-Technical-Standard-Specifications](awesome-dev-specifications.md)*
 
 [`Go Top ↑`](#awesome-web-front-end-list)
 
