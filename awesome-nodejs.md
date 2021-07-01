@@ -16,7 +16,7 @@
 
 *Resource navigation list.*
 
-- [技术规范标准（Technical Specifications）](#技术规范标准)
+- [技术标准规范（Technical Standard Specification）](#技术标准规范)
 - [技术参考文档（Technical Reference Document）](#技术参考文档)
 - [Node 版本管理（Node Version Management）](#node-版本管理)
 - [Node 包管理（Node Package Manage）](#node-包管理)
@@ -29,9 +29,9 @@
 - [文章（Article）](#文章)
 - [更多（More）](#更多)
 
-## 技术规范标准
+## 技术标准规范
 
-*Official technical specifications.*
+*Technical standard specification.*
 
 - [ECMA International](http://www.ecma-international.org/) - ECMA 国际是一家国际性会员制度的信息和电信标准组织，负责行业标准的制定，例如 ECMA Script。
 - [ECMAScript Official Specification Standard](https://www.ecma-international.org/publications/standards/Ecma-262.htm) - ECMAScript 官方规范标准。
@@ -41,11 +41,10 @@
 - [CommonJS](http://www.commonjs.org/) - Node.js 默认采用的模块加载方式。
 - [AMD](https://github.com/amdjs/amdjs-api/blob/master/AMD.md) - 异步模块定义，适合浏览器端。
 - [Universal Module Definition](https://github.com/umdjs/umd) - 通用模块定义，兼容 AMD、CommonJS 以及全局变量方式。
-- [JSON Schema](http://json-schema.org/) - JSON 数据校验。
-- [JSON5 Specification](https://spec.json5.org/) - JSON5 数据格式规范，是对 JSON 格式的扩展，支持注释等特性。
-- [NDJSON Specification](http://ndjson.org/) - Newline Delimited JSON 数据格式规范。
 - [TypeScript](http://www.typescriptlang.org/) - JavaScript 的超集，强类型语言。
   - [tsdoc](https://github.com/microsoft/tsdoc) - TypeScript 语言注释规范，**Microsoft 官方发布**。
+  
+*More others 👉 [Awesome-Development-Technical-Standard-Specifications](awesome-dev-specifications.md)*
   
 [`Go Top ↑`](#awesome-nodejs-list)
 
