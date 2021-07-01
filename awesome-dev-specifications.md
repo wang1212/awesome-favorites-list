@@ -1,8 +1,8 @@
 <div align="center">
   <h1>Awesome-Development-Technical-Specifications</h1>
 
-  <p>:heart: 收藏列表 - :+1: 技术规范标准。</p>
-  <p><i>Favorites list - technical specifications.</i></p>
+  <p>:heart: 收藏列表 - :+1: 技术标准规范。</p>
+  <p><i>Favorites list - technical standard specification.</i></p>
 </div>
 
 <br />
