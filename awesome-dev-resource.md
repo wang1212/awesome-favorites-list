@@ -11,7 +11,8 @@
 
 *Resource navigation list.*
 
-- [规范参考（Specification Reference）](#规范参考)
+- [技术标准规范（Technical Standard Specification）](awesome-dev-specifications.md)
+- [技术实践规范（Technical Practice Specification）](#技术实践规范)
 - [技术参考文档（Technical Reference Document）](#技术参考文档)
 - [技术学习（Technical Learning）](#技术学习)
   - [面试（Interview）](#面试)
@@ -25,20 +26,34 @@
 - [文档站点生成器（Documentation Site Generator）](#文档站点生成器)
 - [更多（More）](#更多)
 
-## 规范参考
+## 技术实践规范
 
-*Specification Reference.*
+*Technical practice specification, some best engineering practices recommended by the industry.*
+
+### 项目管理
+
+*Project management, such as version control, update logs, etc.*
 
 - [Semantic Versioning](https://semver.org/) - 语义化版本控制。
-  - [Software release life cycle](https://en.wikipedia.org/wiki/Software_release_life_cycle) - 软件发布的生命周期。
+  - [Software release life cycle](https://en.wikipedia.org/wiki/Software_release_life_cycle) - 了解软件发布的生命周期。
 - [Conventional Commits](https://www.conventionalcommits.org/) - 代码提交信息格式约定推荐规范。
   - [AngularJS Commit Message Format](https://github.com/angular/angular/blob/master/CONTRIBUTING.md#-commit-message-format) - AngularJS 提交信息格式约定，可作为参考。
+- [keep a changelog](https://keepachangelog.com/) - 项目内应始终存在一个 *CHANGELOG.md* 文件，并遵循一定的规范。
+- [ARCHITECTURE.md](https://matklad.github.io/2021/02/06/ARCHITECTURE.md.html) - 建议在开源项目中加入 *ARCHITECTURE.md* 文件。
+
+### 代码风格
+
+*Code styles.*
+
 - [SQL Style Guide](https://www.sqlstyle.guide/) - SQL 语句规范指南参考。
 - [Google Style Guides](https://google.github.io/styleguide/) - Google 代码风格指南。
+
+### 其它
+
+*Others.*
+
 - [Google Engineering Practices Documentation](https://google.github.io/eng-practices/) - Google 工程实践文档。
 - [HTTP Status Codes](https://httpstatuses.com/) - HTTP 协议状态码列表。
-- [AOMedia](https://aomedia.org/) - 下一代开源数字媒体技术标准。
-- [ONVIF](https://www.onvif.org/) - 安防行业开放组织，推出了标准化的开放接口协议 onvif。
 
 [`Go Top ↑`](#awesome-development-resources)
 
@@ -93,7 +108,6 @@
 - [WebGL Guide](https://xem.github.io/articles/webgl-guide.html) - WebGL 技术指南。
 - [WebGL Fundamentals](https://webglfundamentals.org/) - WebGL 基础知识。
 - [Perfection Kills](http://perfectionkills.com/)	
-- [ARCHITECTURE.md](https://matklad.github.io/2021/02/06/ARCHITECTURE.md.html) - 建议在开源项目中加入 `ARCHITECTURE.md` 文件。
 - [Advantages of monorepos](https://danluu.com/monorepo/) - `monorepos` 模式代码仓库的优点。
 
 ### 学习
