@@ -40,6 +40,7 @@
   - [AngularJS Commit Message Format](https://github.com/angular/angular/blob/master/CONTRIBUTING.md#-commit-message-format) - AngularJS 提交信息格式约定，可作为参考。
 - [keep a changelog](https://keepachangelog.com/) - 项目内应始终存在一个 *CHANGELOG.md* 文件，并遵循一定的规范。
 - [ARCHITECTURE.md](https://matklad.github.io/2021/02/06/ARCHITECTURE.md.html) - 建议在开源项目中加入 *ARCHITECTURE.md* 文件。
+- [How to Build a CONTRIBUTING.md](https://mozillascience.github.io/working-open-workshop/contributing/) - 如何为开源项目构建 *CONTRIBUTING.md* 文件。
 
 ### 代码风格
 
