@@ -34,6 +34,7 @@
 
 *Project management, such as version control, update logs, etc.*
 
+- [Choose an open source license](https://choosealicense.com/) - 如何选择合适的开源许可。
 - [Semantic Versioning](https://semver.org/) - 语义化版本控制。
   - [Software release life cycle](https://en.wikipedia.org/wiki/Software_release_life_cycle) - 了解软件发布的生命周期。
 - [Conventional Commits](https://www.conventionalcommits.org/) - 代码提交信息格式约定推荐规范。
@@ -62,7 +63,6 @@
 
 *Some official or unofficial technical reference documents.*
 
-- [Choose an open source license](https://choosealicense.com/) - 如何选择合适的开源许可。
 - [The Book Of Secret Knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) - 开发资源工具清单。
 - [Developer Roadmaps](https://roadmap.sh/) - 开发者路线图。
 - [4Dev.tools](https://4dev.tools/) - Web 开发人员开发资源。
