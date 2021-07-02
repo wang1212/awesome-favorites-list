@@ -228,6 +228,7 @@
   - [tool.lu](https://tool.lu/) - 开发者工具集。  
   - [Carbon](https://carbon.now.sh/) - 生成漂亮的源代码图片。
   - [FastIcon](https://fasticon.sawirstudio.com/) - 在线快速生成 Android 与 IOS 应用图标。
+  - [Understand your dependencies](https://deps.dev/) - 在线分析开源模块，了解依赖代码的安全性、许可证等信息，**Google Cloud 提供**。
 
 - HTTP/IP/DNS
   - [IPAddress](https://www.ipaddress.com/) - 在线查询某个站点的 IP 地址。
