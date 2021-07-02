@@ -7,18 +7,9 @@
 
 <br />
 
-## 目录
+## 列表
 
-*Resource navigation list.*
-
-- [数据规范（Data Specification）](#数据规范)
-
-## 数据规范
-
-*Data specification.*
-
-- [AOMedia](https://aomedia.org/) - 下一代开源数字媒体技术标准。
-- [ONVIF](https://www.onvif.org/) - 安防行业开放组织，推出了标准化的开放接口协议 onvif。
+*Resource list.*
 
 * YAML
   * [YAML Specification](https://yaml.org/) - yaml 数据格式规范。
@@ -33,5 +24,11 @@
 * Markdown
   * [CommonMark](https://commonmark.org/) - 一个高度兼容，定义严格的 Markdown 规范。
   * [*Markdown Guide*](https://www.markdownguide.org/) - _Markdown 语法参考文档，**非官方**。_
+
+- *List of Uncategorized Resources.*
+  - [AOMedia](https://aomedia.org/) - 下一代开源数字媒体技术标准。
+  - [ONVIF](https://www.onvif.org/) - 安防行业开放组织，推出了标准化的开放接口协议 onvif。
+  - [RFC Editor](https://www.rfc-editor.org/) - 网络相关标准规范文件。
+    - [*rfc.fyi*](https://rfc.fyi/) - *用来搜索 RFC 文件的站点。*
 
 [`Go Top ↑`](#awesome-development-technical-standard-specifications)
