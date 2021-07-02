@@ -2,6 +2,7 @@
   <h1>Awesome-Web-Back-End-List</h1>
 
   <p>:heart: 收藏列表 - :+1: 很棒的 Web 服务器端相关技术知识，技术标准、理论、模式、架构等。</p>
+  <p><i>Favorites list - great web server-side related technical knowledge, technical standards, theories, patterns, architectures, etc.</i></p>
 </div>
 
 <br />
@@ -10,7 +11,7 @@
 
 *Resource navigation list.*
 
-- [技术规范标准（Technical Specifications）](#技术规范标准)
+- [技术标准规范（Technical Standard Specification）](#技术标准规范)
 - [技术参考文档（Technical Reference Document）](#技术参考文档)
 - [服务器（Server）](#服务器)
 - [数据库（Database）](#数据库)
@@ -20,20 +21,15 @@
 - [文章（Article）](#文章)
 - [更多（More）](#更多)
 
-## 技术规范标准
+## 技术标准规范
 
-*Official technical specifications.*
+*Technical standard specification.*
 
 - [OpenAPI](https://www.openapis.org/) - 定义了一种 REST APIs 标准。
   - [OpenAPI.Tools](https://openapi.tools/)
 - [AsyncAPI](https://www.asyncapi.com/) - 事件驱动的 APIs 规范，改编自 OpenAPI。
-- [JSON Specification](http://www.json.org/) - JSON 数据格式规范。
-- [JSON Schema](http://json-schema.org/) - JSON 数据校验。
-- [JSON5 Specification](https://spec.json5.org/) - JSON5 数据格式规范，是对 JSON 格式的扩展，支持注释等特性。
-- [NDJSON Specification](http://ndjson.org/) - Newline Delimited JSON 数据格式规范。
-- [BSON Specification](http://bsonspec.org/) - Binary JSON 数据格式规范。
-- [YAML Specification](https://yaml.org/) - yaml 数据格式规范。
-- [CommonMark](https://commonmark.org/) - 一个高度兼容，定义严格的 Markdown 规范。
+
+*More others 👉 [Awesome-Development-Technical-Standard-Specifications](awesome-dev-specifications.md)*
 
 [`Go Top ↑`](#awesome-web-back-end-list)
 
