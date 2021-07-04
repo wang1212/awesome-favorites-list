@@ -56,6 +56,7 @@
 
 - [Google Engineering Practices Documentation](https://google.github.io/eng-practices/) - Google 工程实践文档。
 - [HTTP Status Codes](https://httpstatuses.com/) - HTTP 协议状态码列表。
+- [devops-exercises](https://github.com/bregman-arie/devops-exercises)
 
 [`Go Top ↑`](#awesome-development-resources)
 
