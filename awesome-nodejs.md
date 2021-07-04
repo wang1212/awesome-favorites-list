@@ -303,10 +303,10 @@
 
 - [zx](https://github.com/google/zx) - 编写 JavaScript 脚本，而非 Bash 脚本。
 
-- CLI Tool
-  - [chalk](https://github.com/chalk/chalk) - 终端输出字符串样式工具，支持全部的颜色。
-  - [concurrently](https://github.com/kimmobrunfeldt/concurrently) - 并行执行多个命令。
-  - [shell.js](https://documentup.com/shelljs/shelljs) - 基于 NOde.js 的 Unix Shell 命令的可移植实现。
+* CLI Tool
+  * [chalk](https://github.com/chalk/chalk) - 终端输出字符串样式工具，支持全部的颜色。
+  * [concurrently](https://github.com/kimmobrunfeldt/concurrently) - 并行执行多个命令。
+  * [shell.js](https://documentup.com/shelljs/shelljs) - 基于 NOde.js 的 Unix Shell 命令的可移植实现。
 
 - 命令行应用开发（CLI App Dev）
   - [minimist](https://github.com/substack/minimist) - 命令行参数解析器。
@@ -318,10 +318,11 @@
   - [blessed](https://github.com/chjj/blessed) - 高级终端接口库。
     - [blessed-contrib](https://github.com/yaronn/blessed-contrib) - 仪表面板工具库。
   - [inquirer](https://github.com/SBoudrias/Inquirer.js) - 交互式命令行。
+  - [ora](https://github.com/sindresorhus/ora) - 终端 spinner 效果。 
 
-- 可执行程序（Executable）
-  - [pkg](https://github.com/vercel/pkg) - 将 Node.js 脚本打包成单个可执行文件。
-  - [nexe](https://github.com/nexe/nexe)
+* 可执行程序（Executable）
+  * [pkg](https://github.com/vercel/pkg) - 将 Node.js 脚本打包成单个可执行文件。
+  * [nexe](https://github.com/nexe/nexe)
 
 [`Go Top ↑`](#awesome-nodejs-list)
 
