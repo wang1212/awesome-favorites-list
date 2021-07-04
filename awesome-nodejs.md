@@ -2,6 +2,7 @@
   <h1>Awesome-Node.JS-List</h1>
 
   <p>:heart: 收藏列表 - :+1: 很棒的 Node.js 开发工具和生态技术。</p>
+  <p><i>Favorites list - great Node.js development tools and ecological technology.</i></p>
 </div>
 
 <br />
@@ -147,6 +148,12 @@
   - [faker.js](https://github.com/marak/faker.js) - 生成大量随机测试数据，可用来开发过程中进行 API 调试。
   - [Chance](https://chancejs.com/) - 生成随机的测试数据。
   - [Browsersync](https://www.browsersync.io/) - 浏览器同步调式工具，功能非常强大。
+
+* 基准测试（Benchmarks）
+  * [autocannon](https://github.com/mcollina/autocannon#limitations)
+
+- 性能分析（profiling ）
+  - [0x](https://github.com/davidmarkclements/0x)
 
 - 代码静态分析（Code Lint）
   - [ESLint](https://eslint.org/) - JavaScript 语法规则检查工具。
