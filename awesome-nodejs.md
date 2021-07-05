@@ -149,9 +149,6 @@
   - [Chance](https://chancejs.com/) - 生成随机的测试数据。
   - [Browsersync](https://www.browsersync.io/) - 浏览器同步调式工具，功能非常强大。
 
-* 基准测试（Benchmarks）
-  * [autocannon](https://github.com/mcollina/autocannon#limitations)
-
 - 性能分析（profiling ）
   - [0x](https://github.com/davidmarkclements/0x)
 
