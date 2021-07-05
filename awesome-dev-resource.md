@@ -22,6 +22,7 @@
   - [期刊（Journal）](#期刊)
 - [在线资源（Online Resources）](#在线资源)
 - [软件工具（Software Tools）](#软件工具)
+  - [测试（Test）](#测试)
 - [工具套件（Tool kit）](#工具套件)
 - [文档站点生成器（Documentation Site Generator）](#文档站点生成器)
 - [更多（More）](#更多)
@@ -397,6 +398,13 @@
 ## 软件工具
 
 *Software tools.*
+
+### 测试
+
+*Various testing tools.*
+
+- HTTP 基准测试（Benchmarks）
+  - [*HTTP(S) Benchmark Tools*](https://github.com/denji/awesome-http-benchmark#https-benchmark-tools) - *HTTP 基准测试工具集。*
 
 ### 代码编辑器/IDE 
 
