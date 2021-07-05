@@ -28,6 +28,7 @@
 - [内容管理系统（Content Management System）](#内容管理系统)
 - [桌面端开发（Desktop Development）](#桌面端开发)
 - [文章（Article）](#文章)
+- [深入探索（Explore In Depth）](#深入探索)
 - [更多（More）](#更多)
 
 ## 技术标准规范
@@ -415,6 +416,10 @@
 - [Node.js CLI Apps Best Practices](https://github.com/lirantal/nodejs-cli-apps-best-practices) - 开发 Node.js 命令行应用的最佳实践。
 
 [`Go Top ↑`](#awesome-nodejs-list)
+
+## 深入探索
+
+*Explore the principles behind the technology, the underlying architecture, etc.*
 
 ## 更多
 
