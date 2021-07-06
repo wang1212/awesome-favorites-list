@@ -324,6 +324,8 @@
     - [blessed-contrib](https://github.com/yaronn/blessed-contrib) - 仪表面板工具库。
   - [inquirer](https://github.com/SBoudrias/Inquirer.js) - 交互式命令行。
   - [ora](https://github.com/sindresorhus/ora) - 终端 spinner 效果。 
+  - [readlineSync](https://github.com/anseki/readline-sync) - 同步版本的 `readline`，命令行对话式交互。
+  - [progress](https://github.com/visionmedia/node-progress) - 进度条。
 
 * 可执行程序（Executable）
   * [pkg](https://github.com/vercel/pkg) - 将 Node.js 脚本打包成单个可执行文件。
