@@ -23,6 +23,7 @@
 - [在线资源（Online Resources）](#在线资源)
 - [软件工具（Software Tools）](#软件工具)
   - [测试（Test）](#测试)
+  - [WSL（Windows Subsystem for Linux）](#wsl)
 - [工具套件（Tool kit）](#工具套件)
 - [文档站点生成器（Documentation Site Generator）](#文档站点生成器)
 - [更多（More）](#更多)
@@ -587,6 +588,13 @@
 
 - [Cleaver](http://jdan.github.io/cleaver/) - Markdown 文件生成幻灯片。
 - [nodeppt](https://github.com/ksky521/nodeppt) - Markdown 文件生成幻灯片。
+
+### WSL
+
+*[Windows Subsystem for Linux](https://docs.microsoft.com/en-us/windows/wsl/) resources.*
+
+- [wsl2-hacks - Updated for Ubuntu 20.04 / 20.10](https://github.com/shayne/wsl2-hacks) - 一些针对 Ubuntu 20.04 / 20.10 的技巧。
+- [WSL2Proxy](https://github.com/wizcas/wsl2proxy) - 配置网络代理的脚本。
 
 [`Go Top ↑`](#awesome-development-resources)
 
