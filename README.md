@@ -23,6 +23,7 @@
     - [React.js](awesome-reactjs.md)
   - 移动应用（Mobile Application）
     - [混合应用（Hybrid App）](awesome-hybrid-app.md)
+  - [云开发（Cloud Development）](awesome-cloud-dev.md)
   - [GIS 开发（GIS Development）](awesome-gis.md)
   - [Node.js](awesome-nodejs.md)
   - [Python](awesome-python.md)
