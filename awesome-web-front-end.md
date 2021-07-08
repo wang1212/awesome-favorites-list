@@ -731,6 +731,7 @@
 - [Typed.js](https://github.com/mattboldt/typed.js) - 为输入框输入提供动画效果。
 - [Rough Notation](https://roughnotation.com/) - 为元素提供注释效果和动画。
 - [Rellax](https://dixonandmoe.com/rellax/) - 元素滚动视差效果工具库。
+- [simplePARALLAX.js](https://simpleparallax.com/)
 - [Framer Motion](https://www.framer.com/motion/) - 动画工具库。
 - [GSAP](https://greensock.com/) - 现代化的高性能动画工具库。
 - [Shifty](https://jeremyckahn.github.io/shifty/doc/index.html) - 轻量级、高性能的低级动画工具库。
