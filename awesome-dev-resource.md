@@ -21,6 +21,7 @@
   - [论坛（Forum）](#论坛)
   - [期刊（Journal）](#期刊)
 - [在线资源（Online Resources）](#在线资源)
+  - [镜像站（Mirror Site）](#镜像站) 
 - [软件工具（Software Tools）](#软件工具)
   - [测试（Test）](#测试)
   - [WSL（Windows Subsystem for Linux）](#wsl)
@@ -215,6 +216,12 @@
 ## 在线资源
 
 *Online Resources.*
+
+### 镜像站
+
+*Mirror site, unable to visit the official site due to network restrictions.*
+
+- [USTC open source software mirror](https://mirrors.ustc.edu.cn/) - 中科大开源镜像源。
 
 ### 实用工具
 
