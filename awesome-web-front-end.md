@@ -340,6 +340,7 @@
     - [PDF-LIB](https://pdf-lib.js.org/) - 解析和操作 PDF 文件。
     - [jsPDF](https://github.com/MrRio/jsPDF) - Web 客户端生成 PDF 文件。
     - [PDFKit](http://pdfkit.org/) - 生成 PDF 文件。
+    - [pdfmake](http://pdfmake.org/)
   - image
     - [Pica](http://nodeca.github.io/pica/demo/) - 图片质量调整。
     - [merge-images](https://github.com/lukechilds/merge-images) - 图片拼接合并。
