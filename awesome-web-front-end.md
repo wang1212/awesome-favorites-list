@@ -574,6 +574,7 @@
 
 - 表单组件（Form）
   - [Cleave.js](https://nosir.github.io/cleave.js/) - 格式化输入框。
+  - [imask.js](https://imask.js.org/)
   - [flatpickr](https://flatpickr.js.org/) - 时间日期选择器。
   - [layDate](https://www.layui.com/laydate/) - 时间日期选择器。
 
