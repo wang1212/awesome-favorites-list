@@ -159,6 +159,7 @@
 - [Evergreen](https://evergreen.segment.com/)
 - [Ant Design of React](https://ant.design/docs/spec/introduce-cn)
 - [Semantic UI](https://react.semantic-ui.com/) - 非常受欢迎的组件库。（:warning: 不再更新）
+- [Mantine](https://mantine.dev/) - 全功能的组件库和 Hook 库。
 
 ### 独立组件
 
