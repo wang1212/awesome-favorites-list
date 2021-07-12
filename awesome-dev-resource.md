@@ -413,6 +413,7 @@
 
 - HTTP 基准测试（Benchmarks）
   - [*HTTP(S) Benchmark Tools*](https://github.com/denji/awesome-http-benchmark#https-benchmark-tools) - *HTTP 基准测试工具集。*
+  - [*Web Frameworks Benchmark*](https://web-frameworks-benchmark.netlify.app/) - *Web 框架的公开基准测试，仅供参考。*
 
 ### 代码编辑器/IDE 
 
