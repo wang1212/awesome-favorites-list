@@ -161,31 +161,32 @@
   - [《Advanced Bash-Scripting Guide》](http://tldp.org/LDP/abs/html/) - 高级 Bash 脚本编程指南，**开源书籍**。
   - [《Introduction to Bash Scripting》](https://github.com/bobbyiliev/introduction-to-bash-scripting) - Bash 脚本介绍，**开源书籍**。
  
-* 数据算法（Data algorithm）
-  * 《数据结构与算法分析：C语言描述》[美] Mark Allen Weiss
-  * 《算法图解》[美] Aditya Bhargava
+- 数据算法（Data algorithm）
+  - 《数据结构与算法分析：C语言描述》[美] Mark Allen Weiss
+  - 《算法图解》[美] Aditya Bhargava
   
 - 软件架构（Software Architecture）
   - [*Software Architecture Books*](https://github.com/mhadidg/software-architecture-books) - *软件架构相关书籍列表。*
   - 《架构之美：行业思想领袖揭秘软件设计之美》[美] Diomidis Spinellis, Georgios Gousios
   - [《Kubernetes Handbook——Kubernetes 中文指南/云原生应用架构实践手册》](https://jimmysong.io/kubernetes-handbook/) - 云原生实践，**开源书籍**。
   
-* Web 开发（Web development）
-  * 《了不起的 Node.js：将 JavaScript 进行到底》[美] Guillermo Rauch
-  * 《图解 HTTP》[日] 上野 · 宣
-  * 《图解 TCP/IP》[日] 竹下隆史 村山公保 荒井透 苅田幸雄  
-  * 《前端架构设计》[美] Micah Godbolt - 很好的 Web 前端工程化实践参考。
-  * [《CSS Animation 101》](https://github.com/cssanimation/css-animation-101) - 学习 CSS 动画，**开源书籍**。
+- Web 开发（Web development）
+  - 《了不起的 Node.js：将 JavaScript 进行到底》[美] Guillermo Rauch
+  - 《图解 HTTP》[日] 上野 · 宣
+  - 《图解 TCP/IP》[日] 竹下隆史 村山公保 荒井透 苅田幸雄  
+  - [《High Performance Browser Networking》](https://hpbn.co/) Ilya Grigorik - 高性能网络，**免费书籍**。
+  - 《前端架构设计》[美] Micah Godbolt - 很好的 Web 前端工程化实践参考。
+  - [《CSS Animation 101》](https://github.com/cssanimation/css-animation-101) - 学习 CSS 动画，**开源书籍**。
   
 - 安卓开发（Android development）
   - 《Android 4 高级编程》[美] Reto Meier
 
-* 其它（Others）
-  * 《计算机科学精粹》[巴西] Wladston Ferreira Filho - 讲述了常见的计算机概念，非常值得一读，拓宽自己的视野。
-  * 《C++ API 设计》[美] Martin Redd
-  * 《编程珠玑》[美] Jon Bentley
-  * 《编码：隐匿在计算机软硬件背后的语言》[美] Charles Petzold
-  * 《代码整洁之道》[美] 马丁（Robert C.Martin）
+- 其它（Others）
+  - 《计算机科学精粹》[巴西] Wladston Ferreira Filho - 讲述了常见的计算机概念，非常值得一读，拓宽自己的视野。
+  - 《C++ API 设计》[美] Martin Redd
+  - 《编程珠玑》[美] Jon Bentley
+  - 《编码：隐匿在计算机软硬件背后的语言》[美] Charles Petzold
+  - 《代码整洁之道》[美] 马丁（Robert C.Martin）
 
 ### 文学
 
