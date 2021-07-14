@@ -37,6 +37,8 @@
 
 *Official and unofficial technical reference documents.*
 
+- [REST API Tutorial](https://restfulapi.net/) - REST API 教程。
+
 - 微服务（Microservices）
   - [Microservices Guide](https://martinfowler.com/microservices/) - 微服务指南。
   - [microservices.io](https://microservices.io/) - 微服务相关概念文章。
