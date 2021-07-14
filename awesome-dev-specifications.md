@@ -11,8 +11,8 @@
 
 *Resource list.*
 
-* YAML
-  * [YAML Specification](https://yaml.org/) - yaml 数据格式规范。
+- YAML
+  - [YAML Specification](https://yaml.org/) - yaml 数据格式规范。
 
 - JSON
   - [JSON Specification](http://www.json.org/) - JSON 数据格式规范。
@@ -21,9 +21,9 @@
   - [NDJSON Specification](http://ndjson.org/) - Newline Delimited JSON 数据格式规范。
   - [BSON Specification](http://bsonspec.org/) - Binary JSON 数据格式规范。
 
-* Markdown
-  * [CommonMark](https://commonmark.org/) - 一个高度兼容，定义严格的 Markdown 规范。
-  * [*Markdown Guide*](https://www.markdownguide.org/) - _Markdown 语法参考文档，**非官方**。_
+- Markdown
+  - [CommonMark](https://commonmark.org/) - 一个高度兼容，定义严格的 Markdown 规范。
+  - [*Markdown Guide*](https://www.markdownguide.org/) - _Markdown 语法参考文档，**非官方**。_
 
 - *List of Uncategorized Resources.*
   - [AOMedia](https://aomedia.org/) - 下一代开源数字媒体技术标准。
