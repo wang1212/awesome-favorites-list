@@ -114,11 +114,14 @@
 
 *Tool Library, some unofficial high-quality Node.js packages (or libraries).*
 
-- 构建工具（Build Tools）
+- 构建工具（Build Tools） 
   - 编译器（Compiler）
     - [Babel](https://babeljs.io/) - 编译工具，可将 TypeScript、ES6/7/8 代码编译为 JavaScript（ES5） 代码。
     - [TS Node](https://github.com/TypeStrong/ts-node) - Node.js 的 TypeScript 语言运行器和交互式解释器。
     - [Neon](https://neon-bindings.com/) - Rust 的 Node.js 绑定，可用来编写快速、安全的原生模块。
+  - 配置（Config）
+    - [dotenv](https://github.com/motdotla/dotenv) - 从 **.env** 文件为 Node.js 项目加载环境变量。
+    - [node-config](https://github.com/lorenwest/node-config)
   - 调试（Debug）
     - [debug](https://github.com/visionmedia/debug) - 打印 debug 日志。
   - 日志（Log）
@@ -126,7 +129,6 @@
     - [winston](https://github.com/winstonjs/winston) - 简单通用的日志库。
     - [pino](https://getpino.io/) - 简单的 JSON 日志记录器。
   - 其它（Others）
-    - [dotenv](https://github.com/motdotla/dotenv) - 从 **.env** 文件为 Node.js 项目加载环境变量。
     - [Envalid](https://github.com/af/envalid) - 环境变量校验。
     - [esm](https://github.com/standard-things/esm) - 能够为 `.js` 文件提供 [ECMAScript Modules](https://tc39.es/ecma262/#sec-modules) 支持。
     - [envinfo](https://github.com/tabrindle/envinfo) - 生成开发环境信息报告。
