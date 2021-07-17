@@ -418,6 +418,9 @@
 - [Setting up multi-platform npm packages](https://2ality.com/2017/04/setting-up-multi-platform-packages.html) - 多平台支持的 npm 包配置。
 - [Deepal's Blog Articles on NodeJS](https://blog.insiderattack.net/node/home) - Deepal 的博客文章，Node.js 相关，比较有深度。
 - [Node.js CLI Apps Best Practices](https://github.com/lirantal/nodejs-cli-apps-best-practices) - 开发 Node.js 命令行应用的最佳实践。
+- BFF（Backends For Frontends）
+  - [BFF](https://www.thoughtworks.com/insights/blog/bff-soundcloud)
+  - [Pattern: Backends For Frontends](https://samnewman.io/patterns/architectural/bff/)
 
 [`Go Top ↑`](#awesome-nodejs-list)
 
