@@ -241,22 +241,6 @@
 ### JS 工具库
 
 *JavaScript tool libraries (browser-side), such as file manipulation, Canvas drawing, HTTP requests, etc.*
-
-- 文档（Doc）
-  - [JSDoc](https://jsdoc.app/) - JavaScript 的 API 文档生成工具。
-  - [highlight.js](https://highlightjs.org/) - 页面代码高亮。
-  
-- 测试（Test）
-  - [Mocha](https://mochajs.org/)
-  - [JEST](https://jestjs.io/) - Facebook 出品的 JavaScript 单元测试工具。
-  - [faker.js](https://github.com/marak/faker.js) - 生成大量随机测试数据，可用来开发过程中进行 API 调试。
-  - [Chance](https://chancejs.com/) - 生成随机的测试数据。
-  - [Mirage JS](https://miragejs.com/) - Mock API。
-  - [Sinon.JS](https://sinonjs.org/)
- 
-- 移动端调试（Mobile debugging）
-  - [Eruda](https://eruda.liriliri.io/) - 移动端 Web 调试工具。
-  - [vConsole](https://github.com/Tencent/vConsole) - 移动端 Web 调试工具，腾讯（Tencent）出品。
  
 - 实用工具（Utils）
   - [Underscore](https://underscorejs.org/) - JavaScript 的工具函数库，提供了大量非常有用的工具函数。
@@ -484,6 +468,20 @@
 *Others tools.*
 
 - [SystemJS](https://github.com/systemjs/systemjs) - 动态 ES Module 加载器。
+
+- 文档（Doc）
+  - [JSDoc](https://jsdoc.app/) - JavaScript 的 API 文档生成工具。
+  - [highlight.js](https://highlightjs.org/) - 页面代码高亮。
+
+- 移动端调试（Mobile debugging）
+  - [Eruda](https://eruda.liriliri.io/) - 移动端 Web 调试工具。
+  - [vConsole](https://github.com/Tencent/vConsole) - 移动端 Web 调试工具，腾讯（Tencent）出品。
+  - [Browsersync](https://www.browsersync.io/) - 浏览器同步调式工具，功能非常强大。
+  
+- 测试（Test）
+  - [Mocha](https://mochajs.org/)
+  - [JEST](https://jestjs.io/) - Facebook 出品的 JavaScript 单元测试工具。
+  - [Sinon.JS](https://sinonjs.org/)
 
 [`Go Top ↑`](#awesome-web-front-end-list)
 
