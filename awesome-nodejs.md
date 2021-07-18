@@ -115,6 +115,9 @@
 *Tool Library, some unofficial high-quality Node.js packages (or libraries).*
 
 - 构建工具（Build Tools） 
+  - 文档（Doc）
+    - [JSDoc](https://jsdoc.app/) - JavaScript 的 API 文档生成工具。
+    - [typedoc](https://typedoc.org/) - 生成 TypeScript 项目文档。
   - 编译器（Compiler）
     - [Babel](https://babeljs.io/) - 编译工具，可将 TypeScript、ES6/7/8 代码编译为 JavaScript（ES5） 代码。
     - [TS Node](https://github.com/TypeStrong/ts-node) - Node.js 的 TypeScript 语言运行器和交互式解释器。
@@ -128,6 +131,28 @@
     - [log4js](https://github.com/log4js-node/log4js-node) - 日志记录。
     - [winston](https://github.com/winstonjs/winston) - 简单通用的日志库。
     - [pino](https://getpino.io/) - 简单的 JSON 日志记录器。
+  - 测试（Test）
+    - [Mocha](https://mochajs.org/) - 测试框架。
+    - [JEST](https://jestjs.io/) - Facebook 出品的 JavaScript 单元测试工具。
+    - [Sinon.JS](https://sinonjs.org/)
+  - 性能分析（profiling ）
+    - [0x](https://github.com/davidmarkclements/0x)
+  - 代码静态分析（Code Lint）
+    - [ESLint](https://eslint.org/) - JavaScript 语法规则检查工具。
+    - [Prettier](https://prettier.io/) - 代码格式化工具，支持多种语言。
+    - [stylelint](https://stylelint.io/) - CSS 语法规则检查工具，支持 CSS/Sass/CSS-in-JS 等。
+    - [Flow](https://flow.org/) - Facebook 出品的 JavaScript 静态类型检查工具。
+  - 模拟 API（Mock API）
+    - [JSON Server](https://github.com/typicode/json-serve) - 可快速启动一个提供 REST API 的服务器，并返回指定测试数据。  
+    - [Nock](https://github.com/nock/nock) - 模拟 API 服务，响应指定测试数据。
+    - [Mock.js](http://mockjs.com/) - 模拟 API 服务，响应随机测试数据。
+    - [Mock Service Worker](https://mswjs.io/) - 利用 `Service Worker` API 拦截请求并实现 Mock API。
+    - [Mirage JS](https://miragejs.com/)
+    - [faker.js](https://github.com/marak/faker.js) - 生成大量随机测试数据，可用来开发过程中进行 API 调试。
+    - [Chance](https://chancejs.com/) - 生成随机的测试数据。
+  - 代码版本管理（Code version management ）
+    - [husky](https://github.com/typicode/husky) - 更容易的使用 [Git Hooks](https://git-scm.com/book/it/v2/Customizing-Git-Git-Hooks)。
+    - [lint-staged](https://www.npmjs.com/package/lint-staged) - 搭配 husky 使用，提交代码前进行 lint。
   - 其它（Others）
     - [Envalid](https://github.com/af/envalid) - 环境变量校验。
     - [esm](https://github.com/standard-things/esm) - 能够为 `.js` 文件提供 [ECMAScript Modules](https://tc39.es/ecma262/#sec-modules) 支持。
@@ -136,37 +161,6 @@
     - [threads.js](https://threads.js.org/) - 在浏览器和 Node.js 环境中实现一致的 Web Worker API。
     - [web-worker](https://github.com/developit/web-worker) - 在浏览器和 Node.js 环境中实现一致的 Web Worker API。
     - [piscina](https://github.com/piscinajs/piscina) - 线程池工具。
-
-- 文档（Doc）
-  - [tldr](https://github.com/tldr-pages/tldr) - Unix 系统的 man pages 文档简化版本，更清晰易懂。
-  - [JSDoc](https://jsdoc.app/) - JavaScript 的 API 文档生成工具。
-  - [typedoc](https://typedoc.org/) - 生成 TypeScript 项目文档。
-
-- 测试（Test）
-  - [Mocha](https://mochajs.org/) - 测试框架。
-  - [JEST](https://jestjs.io/) - Facebook 出品的 JavaScript 单元测试工具。
-  - [Browsersync](https://www.browsersync.io/) - 浏览器同步调式工具，功能非常强大。
-
-- 模拟 API（Mock API）
-  - [JSON Server](https://github.com/typicode/json-serve) - 可快速启动一个提供 REST API 的服务器，并返回指定测试数据。  
-  - [Nock](https://github.com/nock/nock) - 模拟 API 服务，响应指定测试数据。
-  - [Mock.js](http://mockjs.com/) - 模拟 API 服务，响应随机测试数据。
-  - [Mock Service Worker](https://mswjs.io/) - 利用 `Service Worker` API 拦截请求并实现 Mock API。
-  - [faker.js](https://github.com/marak/faker.js) - 生成大量随机测试数据，可用来开发过程中进行 API 调试。
-  - [Chance](https://chancejs.com/) - 生成随机的测试数据。
-
-- 性能分析（profiling ）
-  - [0x](https://github.com/davidmarkclements/0x)
-
-- 代码静态分析（Code Lint）
-  - [ESLint](https://eslint.org/) - JavaScript 语法规则检查工具。
-  - [Prettier](https://prettier.io/) - 代码格式化工具，支持多种语言。
-  - [stylelint](https://stylelint.io/) - CSS 语法规则检查工具，支持 CSS/Sass/CSS-in-JS 等。
-  - [Flow](https://flow.org/) - Facebook 出品的 JavaScript 静态类型检查工具。
-
-- 代码版本管理（Code version management ）
-  - [husky](https://github.com/typicode/husky) - 更容易的使用 [Git Hooks](https://git-scm.com/book/it/v2/Customizing-Git-Git-Hooks)。
-  - [lint-staged](https://www.npmjs.com/package/lint-staged) - 搭配 husky 使用，提交代码前进行 lint。
 
 - 进程管理（Process Manage）
   - [nodemon](https://nodemon.io) - 提供 Node.js 开发时热重载机制。
