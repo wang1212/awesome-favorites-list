@@ -161,6 +161,7 @@
     - [threads.js](https://threads.js.org/) - 在浏览器和 Node.js 环境中实现一致的 Web Worker API。
     - [web-worker](https://github.com/developit/web-worker) - 在浏览器和 Node.js 环境中实现一致的 Web Worker API。
     - [piscina](https://github.com/piscinajs/piscina) - 线程池工具。
+    - [devcert](https://github.com/davewasmer/devcert) - 让 SSL 开发变得容易。
 
 - 进程管理（Process Manage）
   - [nodemon](https://nodemon.io) - 提供 Node.js 开发时热重载机制。
