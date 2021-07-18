@@ -362,6 +362,7 @@
   - [object-hash](https://github.com/puleos/object-hash) - 对 JavaScript 对象进行 hash 处理。
   - [crypto-browserify](https://github.com/crypto-browserify/crypto-browserify) - Node 中 `crypto` 模块在浏览器中的实现。（:warning: 不再更新）
   - [SJCL](http://bitwiseshiftleft.github.io/sjcl/) - JavaScript 加密库。（:warning: 不再更新）
+  - [mem](https://github.com/sindresorhus/mem) - 缓存函数。
 
 - 多线程（Web Worker）
   - [Comlink](https://github.com/GoogleChromeLabs/comlink) - 使 `Web Worker` 的使用更加简单、方便，**Chrome 实验室发布**。
