@@ -281,12 +281,37 @@
   - [Hotkey](https://github.com/github/hotkey) - 处理键盘事件。
   - [Selecto.js](https://github.com/daybrush/selecto) - 拖动选择元素，支持鼠标和触摸事件。
 
+- 数据与缓存（Data && Cache）
+  - [crypto-js](https://github.com/brix/crypto-js) - JavaScript 加密库。
+  - [https://github.com/digitalbazaar/forge](https://www.npmjs.com/package/node-forge) - JavaScript 加密库。
+  - [md5.js](https://github.com/crypto-browserify/md5.js) - md5 哈希库。（:warning: 不再更新）
+  - [md5](https://github.com/pvorb/node-md5) - md5 哈希库。
+  - [object-hash](https://github.com/puleos/object-hash) - 对 JavaScript 对象进行 hash 处理。
+  - [crypto-browserify](https://github.com/crypto-browserify/crypto-browserify) - Node 中 `crypto` 模块在浏览器中的实现。（:warning: 不再更新）
+  - [SJCL](http://bitwiseshiftleft.github.io/sjcl/) - JavaScript 加密库。（:warning: 不再更新）
+  - [mem](https://github.com/sindresorhus/mem) - 缓存函数。
+
 - 日期时间（Date && Time）
   - [Moment.js](https://momentjs.com/) - 功能强大的日期、时间处理库。
   - [Luxon](https://moment.github.io/luxon/) - 现代化、api 友好的日期、时间处理库，Moment.js 团队开发。
   - [date-fns](https://date-fns.org/)
   - [Day.js](https://github.com/iamkun/dayjs) - 现代化、轻量级日期、时间处理库。
   - [ms](https://github.com/vercel/ms) - 毫秒格式化工具。
+
+- 科学计算（Compute - Math && High precision && Scientific Computing）
+  - [math.js](https://mathjs.org/) - 基本数学计算。
+  - [stdlib](https://stdlib.io/)
+  - [glMatrix](http://glmatrix.net/) - 矩阵和矢量运算。
+  - [currency.js](https://currency.js.org/) - 轻量的货币计算工具库。
+  - [Dinero.js](https://github.com/dinerojs/dinero.js) - 货币计算。
+
+- 客户端数据库（Client Database）
+  - [localForage](https://github.com/localForage/localForage) - 离线存储，对 IndexedDB、WebSQL、localStorage 的封装。
+  - [SQL.js](https://sql.js.org/)
+  - [LokiJS](https://github.com/techfort/LokiJS) - 文档型内存数据库。
+
+- 多线程（Web Worker）
+  - [Comlink](https://github.com/GoogleChromeLabs/comlink) - 使 `Web Worker` 的使用更加简单、方便，**Chrome 实验室发布**。
 
 - 绘图（Canvas && Draw）
   - [DOM to Image](https://github.com/tsayen/dom-to-image/) - 利用 HTML5 Canvas 生成 DOM 节点的快照图片。
@@ -348,29 +373,6 @@
 
 - WebRTC
   - [PeerJS](https://peerjs.com/) - 对 `WebRTC` API 的简单抽象。
-
-- 科学计算（Compute - Math && High precision && Scientific Computing）
-  - [math.js](https://mathjs.org/)
-  - [stdlib](https://stdlib.io/)
-  - [glMatrix](http://glmatrix.net/) - 矩阵和矢量运算。
-
-- 数据与缓存（Data && Cache）
-  - [crypto-js](https://github.com/brix/crypto-js) - JavaScript 加密库。
-  - [https://github.com/digitalbazaar/forge](https://www.npmjs.com/package/node-forge) - JavaScript 加密库。
-  - [md5.js](https://github.com/crypto-browserify/md5.js) - md5 哈希库。（:warning: 不再更新）
-  - [md5](https://github.com/pvorb/node-md5) - md5 哈希库。
-  - [object-hash](https://github.com/puleos/object-hash) - 对 JavaScript 对象进行 hash 处理。
-  - [crypto-browserify](https://github.com/crypto-browserify/crypto-browserify) - Node 中 `crypto` 模块在浏览器中的实现。（:warning: 不再更新）
-  - [SJCL](http://bitwiseshiftleft.github.io/sjcl/) - JavaScript 加密库。（:warning: 不再更新）
-  - [mem](https://github.com/sindresorhus/mem) - 缓存函数。
-
-- 多线程（Web Worker）
-  - [Comlink](https://github.com/GoogleChromeLabs/comlink) - 使 `Web Worker` 的使用更加简单、方便，**Chrome 实验室发布**。
-
-- 客户端数据库（Client Database）
-  - [localForage](https://github.com/localForage/localForage) - 离线存储，对 IndexedDB、WebSQL、localStorage 的封装。
-  - [SQL.js](https://sql.js.org/)
-  - [LokiJS](https://github.com/techfort/LokiJS) - 文档型内存数据库。
 
 - OCR
   - ['tesseract.js](https://github.com/naptha/tesseract.js) - 支持 100 种语言的图像文本识别。
