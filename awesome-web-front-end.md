@@ -211,6 +211,7 @@
 - [JavaScript Standard Style](https://standardjs.com/) - 支持 JSX 等语法，社区维护。
 - [Airbnb JavaScript Style Guide](https://airbnb.io/javascript/) - 支持 React 技术栈，**Airbnb 公司发布**。
 - [Google JavaScript Style Guide](https://google.github.io/styleguide/jsguide.html) - 仅支持原生 JavaScript，**Google 公司发布**。
+- [Principles of Writing Consistent, Idiomatic JavaScript](https://github.com/rwaldron/idiomatic.js)
 - [clean-code-javascript](https://github.com/ryanmcdermott/clean-code-javascript) - 如何编写干净简洁的 JavaScript 代码。
 
 ### JS 在线资源
