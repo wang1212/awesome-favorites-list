@@ -114,6 +114,8 @@
 
 *Tool Library, some unofficial high-quality Node.js packages (or libraries).*
 
+_see also 👉  [JS-工具库](./awesome-web-front-end.md#js-工具库)_
+
 - 构建工具（Build Tools） 
   - 文档（Doc）
     - [JSDoc](https://jsdoc.app/) - JavaScript 的 API 文档生成工具。
