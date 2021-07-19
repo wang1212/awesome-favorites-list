@@ -3,7 +3,7 @@
   
   <p>
     <img src="https://badgen.net/github/license/wang1212/awesome-favorites-list" alt="LICENSE" />
-    <img src="https://badgen.net/github/last-commit/wang1212/awesome-favorites-list" alt="LAST COMMIT" />
+    <img src="https://badgen.net/github/last-commit/wang1212/awesome-favorites-list?label=last%20update" alt="LAST COMMIT" />
   </p>
   
   <p>:heart: 收藏列表 - :+1: 很棒的开源项目，网站，书籍，软件等资源。</p>
