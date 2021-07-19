@@ -133,6 +133,7 @@ _see also 👉  [JS-工具库](./awesome-web-front-end.md#js-工具库)_
     - [log4js](https://github.com/log4js-node/log4js-node) - 日志记录。
     - [winston](https://github.com/winstonjs/winston) - 简单通用的日志库。
     - [pino](https://getpino.io/) - 简单的 JSON 日志记录器。
+    - [tslog](https://tslog.js.org/)
   - 测试（Test）
     - [Mocha](https://mochajs.org/) - 测试框架。
     - [JEST](https://jestjs.io/) - Facebook 出品的 JavaScript 单元测试工具。
@@ -173,22 +174,10 @@ _see also 👉  [JS-工具库](./awesome-web-front-end.md#js-工具库)_
   - [StrongLoop-PM](http://strong-pm.io/) - Node 应用生产环境进程管理工具，支持集群、负载、远程部署，提供收费服务的实时监控平台。
 
 - 实用工具（Utils）
-  - [Underscore](https://underscorejs.org/) - JavaScript 的工具函数库，提供了大量非常有用的工具函数。
-  - [Lodash](https://lodash.com/) - JavaScript 的工具函数库，参考自 Underscore，功能更丰富。
-  - [Ramda](https://ramdajs.com/) - JavaScript 的工具函数库，适用于函数式编程。
-  - [RxJS](https://rxjs.dev/) - 响应式编程（Reactive Extensions）的 JavaScript 实现，对异步数据集合处理很方便。
-  - [tslog](https://tslog.js.org/) - 日志格式化。
-  - [uuid](https://github.com/uuidjs/uuid) - 生成随机 id。
-  - [Nano ID](https://zelark.github.io/nano-id-cc/) - 生成唯一、URL 友好、安全的随机字符串。
-  - [cuid](https://github.com/ericelliott/cuid) - 生成防碰撞的随机 id。
   - [execa](https://github.com/sindresorhus/execa) - 对官方 [`child_process`](https://nodejs.org/api/child_process.html) 模块的改进。
   
 - 异步操作（Asynchronous operation）
   - [promise-fun](https://github.com/sindresorhus/promise-fun) - `Promise` 工具库集合。
-  
-- 时间日期（Date && Time）
-  - [Day.js](https://day.js.org/) - 轻量级时间日期工具库。
-  - [ms](https://github.com/vercel/ms) - 毫秒格式化工具。
   
 - 数据校验（Data Validation）
   - [ajv](https://github.com/ajv-validator/ajv) - JSON Schema validator。
@@ -200,20 +189,6 @@ _see also 👉  [JS-工具库](./awesome-web-front-end.md#js-工具库)_
   
 - 数据加密、解密（Data encryption and decryption）
   - [bcrypt](https://github.com/kelektiv/node.bcrypt.js) - 生成密码哈希值。
-  - [crypto-js](https://github.com/brix/crypto-js) - JavaScript 加密库。
-  - [https://github.com/digitalbazaar/forge](https://www.npmjs.com/package/node-forge) - JavaScript 加密库。
-  - [md5.js](https://github.com/crypto-browserify/md5.js) - md5 哈希库。（:warning: 不再更新）
-  - [md5](https://github.com/pvorb/node-md5) - md5 哈希库。
-  - [object-hash](https://github.com/puleos/object-hash) - 对 JavaScript 对象进行 hash 处理。
-  - [SJCL](http://bitwiseshiftleft.github.io/sjcl/) - JavaScript 加密库。（:warning: 不再更新）
-  
-- 数学计算（Compute - Math & High precision & Scientific Computing）
-  - [math.js](https://mathjs.org/) - 数学计算。
-  - [stdlib](https://stdlib.io/)
-  
-- 二维码（QR Code）
-  - [node-qrcode](https://github.com/soldair/node-qrcode) - 二维码生成。
-  - [Awesome-qr.js](https://www.bitcat.cc/webapp/awesome-qr/index.html) - 个性化二维码生成。（:warning: 不再维护）
   
 - 文件（File）
   - utils tools
@@ -226,52 +201,38 @@ _see also 👉  [JS-工具库](./awesome-web-front-end.md#js-工具库)_
   - html/xml
     - [jsdom](https://github.com/jsdom/jsdom) - Web 标准的纯 JavaScript 实现。
     - [cheerio](https://cheerio.js.org/) - 包装了[parse5](https://github.com/inikulin/parse5) 和 [htmlparser2](https://github.com/fb55/htmlparser2/) 的轻量级 HTML 文档解析库，具有类 jQuery 的 api。
-    - [parse-xml](https://github.com/rgrove/parse-xml) - XML 解析器。
   - markdown
-    - [Marked](https://marked.js.org/) - markdown 文件解析，转换成 HTML 文件。
     - [gray-matter](https://github.com/jonschlinkert/gray-matter) - 解析 [Front Matter](https://jekyllrb.com/docs/front-matter/)。
     - [front-matter](https://github.com/jxson/front-matter) - 解析 Front Matter。    
-  - json5
-    - [JSON5](https://json5.org/) - JSON5 格式数据解析、序列化。
   - yaml
     - [js-yaml](https://github.com/nodeca/js-yaml) - yaml 文件解析和生成。
   - zip
-    - [JSZip](https://stuk.github.io/jszip/) - 解析、生成 zip 文件，具有简单的 API。 
     - [ADM-ZIP](https://github.com/cthackers/adm-zip)
     - [Archiver](https://www.archiverjs.com/) - 生成存档文件的流式接口。
     - [node-stream-zip](https://github.com/antelle/node-stream-zip) - 支持大的 zip 文件。    
   - csv
-    - [CSV](https://csv.js.org/) - 功能全面的 csv 文件生成、解析、转换、序列化工具。
-    - [Papa Parse](https://www.papaparse.com/)    
-  - pdf
-    - [PDF-LIB](https://pdf-lib.js.org/) - 解析和操作 PDF 文件。
-    - [PDFKit](http://pdfkit.org/) - 生成 PDF 文件。
-  - xlsx
-    - [exceljs](https://github.com/exceljs/exceljs) - 读、写 xlsx、csv 文件。
-    - [xlsx](https://sheetjs.com/) - 读、写 xlsx、csv 文件（写功能部分特性不免费）。    
+    - [CSV](https://csv.js.org/) - 功能全面的 csv 文件生成、解析、转换、序列化工具。     
   - docx
     - [officegen](https://github.com/Ziv-Barber/officegen) - 生成 Office 文档。 
-    - [docx](https://github.com/dolanmiu/docx) - 生成 docx 文档。
   - image
     - [sharp](https://sharp.pixelplumbing.com/) - 图像处理，拉伸、缩放、色彩提取等等，底层使用 [libvips](https://libvips.github.io/libvips/)，无需安装其它依赖，开箱即用，效率更高。
     - [gm](http://aheckmann.github.io/gm/) - 图像处理，需先安装 [GraphicsMagick](http://www.graphicsmagick.org/) 或 [ImageMagick](https://imagemagick.org/index.php)。
   - svg
     - [SVGO](https://github.com/svg/svgo) - SVG 文件优化工具。
 
+- HTML 模板引擎（HTML Template Engines）
+  - [EJS](https://ejs.co)
+  - [Handlebars.js](http://handlebarsjs.com/)
+  - [Jade](http://jade-lang.com/)
+
 - HTTP 服务器（HTTP Server）
   - [http-server](https://github.com/http-party/http-server) - 可快速启动一个轻量的 http 服务器。
   - [CORS Anywhere](https://github.com/Rob--W/cors-anywhere) - 反向代理服务器。
 
 - HTTP 请求（HTTP Request）
-  - [axios](https://github.com/axios/axios) - 处理 HTTP 请求的工具库，非常方便。
   - [form-data](https://github.com/form-data/form-data) - 创建 `multipart/form-data` 数据，并提供正确的 Headers。
   - [formidable ](https://github.com/node-formidable/formidable) - 解析请求中的 `multipart/form-data` 数据。
   - [Busboy](https://github.com/mscdex/busboy) -  解析请求中的 `multipart/form-data` 数据，支持流。
-  
-- HTML 模板引擎（HTML Template Engines）
-  - [EJS](https://ejs.co)
-  - [Handlebars.js](http://handlebarsjs.com/)
-  - [Jade](http://jade-lang.com/)
   
 - 远程过程调用（RPC）
   - [Lounge](https://thelounge.chat/) - 现代的 Web RPC 客户端。
