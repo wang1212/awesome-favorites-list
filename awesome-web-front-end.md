@@ -400,6 +400,14 @@
 
 - [Create App](https://createapp.dev/) - 前端项目构建工具启动配置。
 
+### 文档
+
+*Document.*
+
+- [JSDoc](https://jsdoc.app/) - JavaScript 的 API 文档生成工具。
+- [TSDoc](https://tsdoc.org/) - TypeScript 的注释解析工具。
+- [highlight.js](https://highlightjs.org/) - 页面代码高亮。
+
 ### API 兼容性支持
 
 *API Polyfill.*
@@ -437,20 +445,11 @@
 - [Babel](https://babeljs.io/) - 编译工具，可将 TypeScript、ES6/7/8 代码编译为 JavaScript（ES5） 代码。
 - [Sass](https://sass-lang.com/) - CSS 预处理器，可提供类似编程语言的能力（变量、方法、作用域、嵌套）来编写 CSS。
   - [Sass Guidelines](https://sass-guidelin.es/) - Sass 语法风格指南，**非官方**。
-
 - [PostCSS](https://postcss.org/) - CSS 后处理器，提供众多插件来实现还未被广泛实现和标准化的 CSS 功能特性，最终将其编译为目标平台支持的 CSS 代码。
   - [postcss-normalize](https://github.com/csstools/postcss-normalize)    
-  
 - CSS In JS
   - [JSS](https://cssinjs.org) - 一种 CSS-in-JS 的解决方案。
   - [styled components](https://www.styled-components.com) - 一种 CSS-in-JS 的解决方案。
-
-### PWA
-
-*[Progressive web apps](https://developer.mozilla.org/en-US/docs/Web/Progressive_web_apps).*
-
-- [WorkBox](https://developers.google.com/web/tools/workbox/) - Google 专门为构建 PWA （Progressive Web App，渐进式 Web 应用）提供的一套开发工具，支持多个平台，并提供了方便的 webpack 插件。
-- [What PWA Can Do Today](https://whatpwacando.today/) - 在线测试 PWA 应用可以调用的 Web API。
 
 ### 代码静态分析
 
@@ -460,6 +459,22 @@
 - [Prettier](https://prettier.io/) - 代码格式化工具，支持多种语言。
 - [stylelint](https://stylelint.io/) - CSS 语法规则检查工具，支持 CSS/Sass/CSS-in-JS 等。
 - [Flow](https://flow.org/) - Facebook 出品的 JavaScript 静态类型检查工具。
+- [sonar.js](https://github.com/SonarSource/sonarjs) - 代码质量分析。
+
+### 测试工具
+
+*Test tools.*
+
+- [Mocha](https://mochajs.org/)
+- [JEST](https://jestjs.io/) - Facebook 出品的 JavaScript 单元测试工具。
+- [Sinon.JS](https://sinonjs.org/) - 对复杂功能进行模拟，以更好的完成单元测试。
+
+### PWA
+
+*[Progressive web apps](https://developer.mozilla.org/en-US/docs/Web/Progressive_web_apps).*
+
+- [WorkBox](https://developers.google.com/web/tools/workbox/) - Google 专门为构建 PWA （Progressive Web App，渐进式 Web 应用）提供的一套开发工具，支持多个平台，并提供了方便的 webpack 插件。
+- [What PWA Can Do Today](https://whatpwacando.today/) - 在线测试 PWA 应用可以调用的 Web API。
 
 ### 响应式设计
 
@@ -474,19 +489,10 @@
 
 - [SystemJS](https://github.com/systemjs/systemjs) - 动态 ES Module 加载器。
 
-- 文档（Doc）
-  - [JSDoc](https://jsdoc.app/) - JavaScript 的 API 文档生成工具。
-  - [highlight.js](https://highlightjs.org/) - 页面代码高亮。
-
 - 移动端调试（Mobile debugging）
   - [Eruda](https://eruda.liriliri.io/) - 移动端 Web 调试工具。
   - [vConsole](https://github.com/Tencent/vConsole) - 移动端 Web 调试工具，腾讯（Tencent）出品。
   - [Browsersync](https://www.browsersync.io/) - 浏览器同步调式工具，功能非常强大。
-  
-- 测试（Test）
-  - [Mocha](https://mochajs.org/)
-  - [JEST](https://jestjs.io/) - Facebook 出品的 JavaScript 单元测试工具。
-  - [Sinon.JS](https://sinonjs.org/)
 
 [`Go Top ↑`](#awesome-web-front-end-list)
 
