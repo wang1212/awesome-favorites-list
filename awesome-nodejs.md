@@ -114,14 +114,13 @@
 
 *Tool Library, some unofficial high-quality Node.js packages (or libraries).*
 
-_see also 👉  [JS-工具库](./awesome-web-front-end.md#js-工具库)_
+_see also 👉  [JS-工具库](./awesome-web-front-end.md#js-工具库) and [JS-构建工具](./awesome-web-front-end.md#构建工具)_
 
 - 构建工具（Build Tools） 
   - 文档（Doc）
     - [JSDoc](https://jsdoc.app/) - JavaScript 的 API 文档生成工具。
     - [typedoc](https://typedoc.org/) - 生成 TypeScript 项目文档。
   - 编译器（Compiler）
-    - [Babel](https://babeljs.io/) - 编译工具，可将 TypeScript、ES6/7/8 代码编译为 JavaScript（ES5） 代码。
     - [TS Node](https://github.com/TypeStrong/ts-node) - Node.js 的 TypeScript 语言运行器和交互式解释器。
     - [Neon](https://neon-bindings.com/) - Rust 的 Node.js 绑定，可用来编写快速、安全的原生模块。
   - 配置（Config）
@@ -134,17 +133,8 @@ _see also 👉  [JS-工具库](./awesome-web-front-end.md#js-工具库)_
     - [winston](https://github.com/winstonjs/winston) - 简单通用的日志库。
     - [pino](https://getpino.io/) - 简单的 JSON 日志记录器。
     - [tslog](https://tslog.js.org/)
-  - 测试（Test）
-    - [Mocha](https://mochajs.org/) - 测试框架。
-    - [JEST](https://jestjs.io/) - Facebook 出品的 JavaScript 单元测试工具。
-    - [Sinon.JS](https://sinonjs.org/)
   - 性能分析（profiling ）
     - [0x](https://github.com/davidmarkclements/0x)
-  - 代码静态分析（Code Lint）
-    - [ESLint](https://eslint.org/) - JavaScript 语法规则检查工具。
-    - [Prettier](https://prettier.io/) - 代码格式化工具，支持多种语言。
-    - [stylelint](https://stylelint.io/) - CSS 语法规则检查工具，支持 CSS/Sass/CSS-in-JS 等。
-    - [Flow](https://flow.org/) - Facebook 出品的 JavaScript 静态类型检查工具。
   - 模拟 API（Mock API）
     - [JSON Server](https://github.com/typicode/json-serve) - 可快速启动一个提供 REST API 的服务器，并返回指定测试数据。  
     - [Nock](https://github.com/nock/nock) - 模拟 API 服务，响应指定测试数据。
