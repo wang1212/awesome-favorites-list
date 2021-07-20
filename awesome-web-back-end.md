@@ -43,6 +43,8 @@
   - [Microservices Guide](https://martinfowler.com/microservices/) - 微服务指南。
   - [microservices.io](https://microservices.io/) - 微服务相关概念文章。
 
+- [Caching Tutorial](https://www.mnot.net/cache_docs/)
+
 [`Go Top ↑`](#awesome-web-back-end-list)
 
 ## 服务器
@@ -59,6 +61,8 @@
   - [rhit](https://github.com/Canop/rhit) - nginx 日志浏览器，指标分析工具。
   - [NGINX Config](https://www.digitalocean.com/community/tools/nginx) - Nginx 配置在线生成工具，**非官方**。
 
+- [HAProxy](https://www.haproxy.org/) - 可靠、高性能的负载均衡器。
+- [Varnish HTTP Cache](https://varnish-cache.org/) - 专用 HTTP 缓存服务器。
 - [Apache](http://httpd.apache.org/) - 世界上最著名的 Web 静态服务器。
 
 - [Tomcat](http://tomcat.apache.org/) - Java Web 开发中的 Servlet 容器。	
@@ -103,6 +107,7 @@
 
 - [Learn REST](http://rest.elkstein.org/) - RESTful 学习参考。
 - [How To Safely Store A Password](https://codahale.com/how-to-safely-store-a-password/)
+- [Nginx Caching](https://serversforhackers.com/c/nginx-caching) - 利用 Nginx 进行缓存。
 
 [`Go Top ↑`](#awesome-web-back-end-list)
 
