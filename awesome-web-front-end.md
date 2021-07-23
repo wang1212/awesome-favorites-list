@@ -184,15 +184,6 @@
   - [Uniform CSS](https://uniformcss.com/) - 实用优先的 CSS 框架，用来构建原子的 CSS 样式集合。
   - [Masonry](https://masonry.desandro.com/) - `grid` 布局工具。
 
-- 动画（Animate）
-  - [Animate.css](https://daneden.github.io/animate.css/) - 丰富的 CSS 动画工具库。
-  - [magic.css](https://www.minimamente.com/project/magic/)  - CSS3 动画。
-  - [Hover.css](http://ianlunn.github.io/Hover/) - 添加鼠标悬停动画效果。（:warning: 不再更新）
-  - [CSShake](https://elrumordelaluz.github.io/csshake/) - 抖动效果。
-  - [Imagehover.css](http://imagehover.io/) - 添加鼠标悬停，图片动画效果。（:warning: 不再更新）
-  - [Whirl](https://whirl.netlify.app/) - CSS Loading 动画。
-  - [Transition.css](https://transition.style/) - CSS 过渡动画。
-
 [`Go Top ↑`](#awesome-web-front-end-list)
 
 ## JavaScript
@@ -729,30 +720,40 @@
 
 *Animation library, such as linear animation, inertial animation, etc.*
 
-- [Anime.js](https://animejs.com/) - 动画引擎，轻量的 JavaScript 动画工具库。
-- [Velocity.js](http://velocityjs.org/) - 动画引擎，为元素提供动画效果。
-- [mo.js](https://mojs.github.io/) - 丰富，强大的运动图形动画工具库。
-- [KUTE.js](https://thednp.github.io/kute.js/) - 高性能动画引擎。
-- [Popmotion](https://popmotion.io/) - 实用、灵活的 JavaScript 动画工具套件。
-- [tween.js](https://createjs.com/tweenjs) - 动画工具库。
-- [ScrollReveal](https://scrollrevealjs.org/) - 为滚动进入视区的元素提供动画效果。
-- [lax.js](https://github.com/alexfoxy/laxxx) - 简单、轻量的工具库，创建平滑的滚动动画。
-- [vivus.js](https://github.com/maxwellito/vivus) - 为 SVG 提供动画效果。
-- [SVG.js](https://svgjs.dev/) - 轻量级 SVG 动画库。
-- [Typed.js](https://github.com/mattboldt/typed.js) - 为输入框输入提供动画效果。
-- [Rough Notation](https://roughnotation.com/) - 为元素提供注释效果和动画。
-- [Rellax](https://dixonandmoe.com/rellax/) - 元素滚动视差效果工具库。
-- [simplePARALLAX.js](https://simpleparallax.com/)
-- [Framer Motion](https://www.framer.com/motion/) - 动画工具库。
-- [GSAP](https://greensock.com/) - 现代化的高性能动画工具库。
-- [Shifty](https://jeremyckahn.github.io/shifty/doc/index.html) - 轻量级、高性能的低级动画工具库。
-- [ts Particles](https://particles.matteobruni.it/) - 简单的粒子动画。
-- [particles.js](https://vincentgarreau.com/particles.js/) - 轻量的粒子动画库。
-- [CountUp.js](https://inorganik.github.io/countUp.js/) - 数字文本动画。
-- [granim.js](https://sarcadass.github.io/granim.js/index.html) - 创建交互式渐变动画。
-- [dom-confetti](https://github.com/daniel-lundin/dom-confetti) - 五彩纸屑动画。
-- [Canvas Confetti](https://www.kirilv.com/canvas-confetti/) - 五彩纸屑动画。
-- [Vanta.js](https://www.vantajs.com/) - 数款页面 WebGL 背景动画。
+- CSS
+  - [Animate.css](https://daneden.github.io/animate.css/) - 丰富的 CSS 动画工具库。
+  - [magic.css](https://www.minimamente.com/project/magic/)  - CSS3 动画。
+  - [Hover.css](http://ianlunn.github.io/Hover/) - 添加鼠标悬停动画效果。（:warning: 不再更新）
+  - [CSShake](https://elrumordelaluz.github.io/csshake/) - 抖动效果。
+  - [Imagehover.css](http://imagehover.io/) - 添加鼠标悬停，图片动画效果。（:warning: 不再更新）
+  - [Whirl](https://whirl.netlify.app/) - CSS Loading 动画。
+  - [Transition.css](https://transition.style/) - CSS 过渡动画。
+
+- JavaScript
+  - [Anime.js](https://animejs.com/) - 动画引擎，轻量的 JavaScript 动画工具库。
+  - [Velocity.js](http://velocityjs.org/) - 动画引擎，为元素提供动画效果。
+  - [mo.js](https://mojs.github.io/) - 丰富，强大的运动图形动画工具库。
+  - [KUTE.js](https://thednp.github.io/kute.js/) - 高性能动画引擎。
+  - [Popmotion](https://popmotion.io/) - 实用、灵活的 JavaScript 动画工具套件。
+  - [tween.js](https://createjs.com/tweenjs) - 动画工具库。
+  - [ScrollReveal](https://scrollrevealjs.org/) - 为滚动进入视区的元素提供动画效果。
+  - [lax.js](https://github.com/alexfoxy/laxxx) - 简单、轻量的工具库，创建平滑的滚动动画。
+  - [vivus.js](https://github.com/maxwellito/vivus) - 为 SVG 提供动画效果。
+  - [SVG.js](https://svgjs.dev/) - 轻量级 SVG 动画库。
+  - [Typed.js](https://github.com/mattboldt/typed.js) - 为输入框输入提供动画效果。
+  - [Rough Notation](https://roughnotation.com/) - 为元素提供注释效果和动画。
+  - [Rellax](https://dixonandmoe.com/rellax/) - 元素滚动视差效果工具库。
+  - [simplePARALLAX.js](https://simpleparallax.com/)
+  - [Framer Motion](https://www.framer.com/motion/) - 动画工具库。
+  - [GSAP](https://greensock.com/) - 现代化的高性能动画工具库。
+  - [Shifty](https://jeremyckahn.github.io/shifty/doc/index.html) - 轻量级、高性能的低级动画工具库。
+  - [ts Particles](https://particles.matteobruni.it/) - 简单的粒子动画。
+  - [particles.js](https://vincentgarreau.com/particles.js/) - 轻量的粒子动画库。
+  - [CountUp.js](https://inorganik.github.io/countUp.js/) - 数字文本动画。
+  - [granim.js](https://sarcadass.github.io/granim.js/index.html) - 创建交互式渐变动画。
+  - [dom-confetti](https://github.com/daniel-lundin/dom-confetti) - 五彩纸屑动画。
+  - [Canvas Confetti](https://www.kirilv.com/canvas-confetti/) - 五彩纸屑动画。
+  - [Vanta.js](https://www.vantajs.com/) - 数款页面 WebGL 背景动画。
 
 [`Go Top ↑`](#awesome-web-front-end-list)
 
