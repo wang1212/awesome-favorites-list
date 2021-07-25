@@ -28,4 +28,10 @@
 
 - [Docker](https://www.docker.com/) - 轻量的类似虚拟机的容器技术。
 
+## 其它
+
+*Others.*
+
+- [OpenTelemetry](https://opentelemetry.io/) - 由 OpenTracing 和 OpenCensus 项目合并而成，性能数据、日志数据追踪、收集。
+
 [`Go Top ↑`](#awesome-cloud-dev-list)
