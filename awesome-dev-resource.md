@@ -21,7 +21,8 @@
   - [论坛（Forum）](#论坛)
   - [期刊（Journal）](#期刊)
 - [在线资源（Online Resources）](#在线资源)
-  - [镜像站（Mirror Site）](#镜像站) 
+  - [镜像站（Mirror Site）](#镜像站)
+  - [在线实用工具（Online utility）](#在线实用工具)
   - [公共 API（Public API）](#公共-api)
   - [设计工具（Design Tools）](#设计工具)
   - [图像工具（Image Tools）](#图像工具)
@@ -230,9 +231,9 @@
 
 - [USTC open source software mirror](https://mirrors.ustc.edu.cn/) - 中科大开源镜像源。
 
-### 实用工具
+### 在线实用工具
 
-*Utils tools.*
+*Online utils tools.*
 
 - [free-for.dev](https://free-for.dev/) - 软件开发人员可用的免费 SaaS、PaaS、IaaS 等服务。
 - [IPFS](https://ipfs.io/) - 全球分布式文件系统。
@@ -243,6 +244,7 @@
   - [SOCODE.PRO](https://socode.pro/) - 快速搜索开发文档，小工具等，**提供浏览器插件**。
   - [345Tool](https://www.345tool.com/) - 开发者工具集。
   - [tool.lu](https://tool.lu/) - 开发者工具集。  
+  - [toolb.dev](https://www.toolb.dev/)
   - [Carbon](https://carbon.now.sh/) - 生成漂亮的源代码图片。
   - [FastIcon](https://fasticon.sawirstudio.com/) - 在线快速生成 Android 与 IOS 应用图标。
   - [Understand your dependencies](https://deps.dev/) - 在线分析开源模块，了解依赖代码的安全性、许可证等信息，**Google Cloud 提供**。
