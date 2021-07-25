@@ -23,12 +23,12 @@
   - [技术标准规范（Technical Standard Specification）](awesome-dev-specifications.md)
   - [开发资源（Development Resources）](awesome-dev-resource.md)
   - [开源开发团队（Development Team）](awesome-dev-team.md)
+  - [云开发（Cloud Development）](awesome-cloud-dev.md)
   - [Web 后端（Web Backend）](awesome-web-back-end.md)
   - [Web 前端（Web Front-end）](awesome-web-front-end.md)
     - [React.js](awesome-reactjs.md)
   - 移动应用（Mobile Application）
     - [混合应用（Hybrid App）](awesome-hybrid-app.md)
-  - [云开发（Cloud Development）](awesome-cloud-dev.md)
   - [GIS 开发（GIS Development）](awesome-gis.md)
   - [Node.js](awesome-nodejs.md)
   - [Python](awesome-python.md)
