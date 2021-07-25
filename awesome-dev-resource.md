@@ -22,8 +22,15 @@
   - [期刊（Journal）](#期刊)
 - [在线资源（Online Resources）](#在线资源)
   - [镜像站（Mirror Site）](#镜像站) 
+  - [公共 API（Public API）](#公共-api)
+  - [设计工具（Design Tools）](#设计工具)
+  - [图像工具（Image Tools）](#图像工具)
 - [软件工具（Software Tools）](#软件工具)
   - [测试（Test）](#测试)
+  - [源代码管理（Source Code Management）](#源代码管理)
+  - [API 文档管理（API Document Management）](#api-文档管理)
+  - [开发辅助工具（Development Utils）](#开发辅助工具)
+  - [命令行工具（Command Line Tools）](#命令行工具)
   - [WSL（Windows Subsystem for Linux）](#wsl)
 - [工具套件（Tool kit）](#工具套件)
 - [文档站点生成器（Documentation Site Generator）](#文档站点生成器)
@@ -589,6 +596,7 @@
 - [subfinder](https://github.com/projectdiscovery/subfinder) - 查找子域名。
 - [dog](https://dns.lookup.dog/) - 命令行 DNS 客户端。
 - [duf](https://github.com/muesli/duf) - 查看硬盘使用情况的工具。
+- [nativefier](https://github.com/nativefier/nativefier) - 可将 Web 网站转换成本地应用。
 
 ### 实用工具
 
