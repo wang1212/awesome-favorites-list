@@ -396,6 +396,7 @@
 *Document.*
 
 - [JSDoc](https://jsdoc.app/) - JavaScript 的 API 文档生成工具。
+- [ESDoc](https://esdoc.org/)
 - [TSDoc](https://tsdoc.org/) - TypeScript 的注释解析工具。
 - [highlight.js](https://highlightjs.org/) - 页面代码高亮。
 
