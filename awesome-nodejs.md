@@ -70,6 +70,7 @@
 - [n](https://github.com/tj/n) - npm 包，Node 版本管理工具，**不支持 Windows 系统**。
 - [nvm](https://github.com/nvm-sh/nvm) - Node 版本管理，**不支持 Windows 系统**。
 - [nvm-windows](https://github.com/coreybutler/nvm-windows) - Node 版本管理工具，**仅支持 Windows 系统**。
+- [fnm](https://github.com/Schniz/fnm) - Rust 编写的 Node 版本管理工具，支持 Windows/Linux/Mac 系统。
 
 [`Go Top ↑`](#awesome-nodejs-list)
 
