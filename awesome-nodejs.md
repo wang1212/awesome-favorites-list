@@ -379,6 +379,14 @@ _see also 👉  [JS-工具库](./awesome-web-front-end.md#js-工具库) and [JS-
 
 *Explore the principles behind the technology, the underlying architecture, etc.*
 
+### 服务器优雅关机
+
+*Graceful server shutdown.*
+
+- [healthcheck-graceful-shutdown](https://expressjs.com/en/advanced/healthcheck-graceful-shutdown.html)
+- [Graceful shutdown with Node.js and Kubernetes](https://blog.risingstack.com/graceful-shutdown-node-js-kubernetes/)
+- [Graceful server shutdown with Node.js and Express](https://glynnbird.tumblr.com/post/54739664725/graceful-server-shutdown-with-nodejs-and-express)
+
 ## 更多
 
 *More other unclassified resources.*
