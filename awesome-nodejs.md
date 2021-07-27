@@ -387,6 +387,8 @@ _see also 👉  [JS-工具库](./awesome-web-front-end.md#js-工具库) and [JS-
 - [Graceful shutdown with Node.js and Kubernetes](https://blog.risingstack.com/graceful-shutdown-node-js-kubernetes/)
 - [Graceful server shutdown with Node.js and Express](https://glynnbird.tumblr.com/post/54739664725/graceful-server-shutdown-with-nodejs-and-express)
 
+[`Go Top ↑`](#awesome-nodejs-list)
+
 ## 更多
 
 *More other unclassified resources.*
