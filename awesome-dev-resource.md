@@ -60,6 +60,8 @@
 
 - [SQL Style Guide](https://www.sqlstyle.guide/) - SQL 语句规范指南参考。
 - [Google Style Guides](https://google.github.io/styleguide/) - Google 代码风格指南。
+- [Specs vs. Tests](https://sites.google.com/site/unclebobconsultingllc/specs-vs-tests) - 如何看待测试。
+- [What is Better Specs](https://www.betterspecs.org/) - 编写更好的测试。
 
 ### 其它
 
