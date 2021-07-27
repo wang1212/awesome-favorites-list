@@ -1,6 +1,7 @@
 <div align="center">
   <h1>Awesome-Software</h1>
 
+  <p><i>Favorites list - great open source, free software and other resources.</i></p>
   <p>:heart: 收藏列表 - :+1: 很棒的开源、免费软件等资源。</p>
 </div>
 
@@ -28,6 +29,7 @@
 - [SourceForge.net](https://sourceforge.net/)
 - [OSDN](https://osdn.net/) - 开源软件下载。
 - [F-Droid.](https://f-droid.org/) - 安卓自由开源软件（FOSS）仓库。
+- [Product Hunt](https://www.producthunt.com/) - 最受欢迎的科技产品发布站点。
 
 [`Go Top ↑`](#awesome-software)
 
