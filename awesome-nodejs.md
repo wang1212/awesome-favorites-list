@@ -386,6 +386,7 @@ _see also 👉  [JS-工具库](./awesome-web-front-end.md#js-工具库) and [JS-
 - [healthcheck-graceful-shutdown](https://expressjs.com/en/advanced/healthcheck-graceful-shutdown.html)
 - [Graceful shutdown with Node.js and Kubernetes](https://blog.risingstack.com/graceful-shutdown-node-js-kubernetes/)
 - [Graceful server shutdown with Node.js and Express](https://glynnbird.tumblr.com/post/54739664725/graceful-server-shutdown-with-nodejs-and-express)
+- [Building Graceful Node Applications in Docker](https://medium.com/@becintec/building-graceful-node-applications-in-docker-4d2cd4d5d392)
 
 [`Go Top ↑`](#awesome-nodejs-list)
 
