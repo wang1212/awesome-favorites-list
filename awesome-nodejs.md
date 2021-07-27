@@ -21,6 +21,7 @@
 - [技术参考文档（Technical Reference Document）](#技术参考文档)
 - [Node 版本管理（Node Version Management）](#node-版本管理)
 - [Node 包管理（Node Package Manage）](#node-包管理)
+- [构建工具（Build Tools）](#构建工具)
 - [工具库（Tool Library）](#工具库)
 - [命令行工具（Command Line Tools）](#命令行工具)
 - [数据库（Database）](#数据库)
@@ -89,7 +90,6 @@
   - [Rollup](http://rollupjs.org/) - 打包工具，适合开发库、框架。
   - [np](https://github.com/sindresorhus/np) - `npm publish` 的替代工具库，让发布更优雅、安全。
   - [Denoify](https://github.com/garronej/denoify) - 为 npm 模块作者提供 Deno 支持。
-  - [cross-env](https://github.com/kentcdodds/cross-env) - 为 npm 脚本配置和使用环境变量提供跨平台支持。
 
 - [Monorepo](https://en.wikipedia.org/wiki/Monorepo) 工具（Monorepo Tools）
   - [Lerna](https://lerna.js.org/) - 管理 Monorepo 架构的 Node 模块代码库工具。
@@ -111,58 +111,78 @@
 
 [`Go Top ↑`](#awesome-nodejs-list)
 
+## 构建工具
+
+*Build tools.*
+
+_see also 👉  [JS-构建工具](./awesome-web-front-end.md#构建工具)_
+
+- 文档（Doc）
+  - [JSDoc](https://jsdoc.app/) - JavaScript 的 API 文档生成工具。
+  - [typedoc](https://typedoc.org/) - 生成 TypeScript 项目文档。
+
+- 编译器（Compiler）
+  - [TS Node](https://github.com/TypeStrong/ts-node) - Node.js 的 TypeScript 语言运行器和交互式解释器。
+  - [Neon](https://neon-bindings.com/) - Rust 的 Node.js 绑定，可用来编写快速、安全的原生模块。
+ 
+- 配置（Config）
+  - [dotenv](https://github.com/motdotla/dotenv) - 从 **.env** 文件为 Node.js 项目加载环境变量。
+  - [node-config](https://github.com/lorenwest/node-config)
+  
+- 环境变量（Environment variable）
+  - [cross-env](https://github.com/kentcdodds/cross-env) - 为 npm 脚本配置和使用环境变量提供跨平台支持。
+  - [Envalid](https://github.com/af/envalid) - 环境变量校验。
+  
+- 调试（Debug）
+  - [debug](https://github.com/visionmedia/debug) - 打印 debug 日志。
+  
+- 日志（Log）
+  - [log4js](https://github.com/log4js-node/log4js-node) - 日志记录。
+  - [winston](https://github.com/winstonjs/winston) - 简单通用的日志库。
+  - [pino](https://getpino.io/) - 简单的 JSON 日志记录器。
+  - [tslog](https://tslog.js.org/)
+  
+- 性能分析（profiling ）
+  - [0x](https://github.com/davidmarkclements/0x)
+
+- 测试（Test）
+  - [jest](https://jestjs.io/)
+  - [supertest](https://github.com/visionmedia/supertest) - 基于 `superagent` 模块的 HTTP 断言。
+
+- 模拟 API（Mock API）
+  - [JSON Server](https://github.com/typicode/json-serve) - 可快速启动一个提供 REST API 的服务器，并返回指定测试数据。  
+  - [Nock](https://github.com/nock/nock) - 模拟 API 服务，响应指定测试数据。
+  - [Mock.js](http://mockjs.com/) - 模拟 API 服务，响应随机测试数据。
+  - [Mock Service Worker](https://mswjs.io/) - 利用 `Service Worker` API 拦截请求并实现 Mock API。
+  - [Mirage JS](https://miragejs.com/)
+  - [faker.js](https://github.com/marak/faker.js) - 生成大量随机测试数据，可用来开发过程中进行 API 调试。
+  - [Chance](https://chancejs.com/) - 生成随机的测试数据。
+  
+- 代码版本管理（Code version management ）
+  - [husky](https://github.com/typicode/husky) - 更容易的使用 [Git Hooks](https://git-scm.com/book/it/v2/Customizing-Git-Git-Hooks)。
+  - [lint-staged](https://www.npmjs.com/package/lint-staged) - 搭配 husky 使用，提交代码前进行 lint。
+  
+- 其它（Others）
+  - [esm](https://github.com/standard-things/esm) - 能够为 `.js` 文件提供 [ECMAScript Modules](https://tc39.es/ecma262/#sec-modules) 支持。
+  - [envinfo](https://github.com/tabrindle/envinfo) - 生成开发环境信息报告。
+  - [Madge](https://github.com/pahen/madge) - 生成可视化的模块依赖图。
+  - [threads.js](https://threads.js.org/) - 在浏览器和 Node.js 环境中实现一致的 Web Worker API。
+  - [web-worker](https://github.com/developit/web-worker) - 在浏览器和 Node.js 环境中实现一致的 Web Worker API。
+  - [piscina](https://github.com/piscinajs/piscina) - 线程池工具。
+  - [devcert](https://github.com/davewasmer/devcert) - 让 SSL 开发变得容易。
+
 ## 工具库
 
 *Tool Library, some unofficial high-quality Node.js packages (or libraries).*
 
-_see also 👉  [JS-工具库](./awesome-web-front-end.md#js-工具库) and [JS-构建工具](./awesome-web-front-end.md#构建工具)_
-
-- 构建工具（Build Tools） 
-  - 文档（Doc）
-    - [JSDoc](https://jsdoc.app/) - JavaScript 的 API 文档生成工具。
-    - [typedoc](https://typedoc.org/) - 生成 TypeScript 项目文档。
-  - 编译器（Compiler）
-    - [TS Node](https://github.com/TypeStrong/ts-node) - Node.js 的 TypeScript 语言运行器和交互式解释器。
-    - [Neon](https://neon-bindings.com/) - Rust 的 Node.js 绑定，可用来编写快速、安全的原生模块。
-  - 配置（Config）
-    - [dotenv](https://github.com/motdotla/dotenv) - 从 **.env** 文件为 Node.js 项目加载环境变量。
-    - [node-config](https://github.com/lorenwest/node-config)
-  - 调试（Debug）
-    - [debug](https://github.com/visionmedia/debug) - 打印 debug 日志。
-  - 日志（Log）
-    - [log4js](https://github.com/log4js-node/log4js-node) - 日志记录。
-    - [winston](https://github.com/winstonjs/winston) - 简单通用的日志库。
-    - [pino](https://getpino.io/) - 简单的 JSON 日志记录器。
-    - [tslog](https://tslog.js.org/)
-  - 性能分析（profiling ）
-    - [0x](https://github.com/davidmarkclements/0x)
-  - 模拟 API（Mock API）
-    - [JSON Server](https://github.com/typicode/json-serve) - 可快速启动一个提供 REST API 的服务器，并返回指定测试数据。  
-    - [Nock](https://github.com/nock/nock) - 模拟 API 服务，响应指定测试数据。
-    - [Mock.js](http://mockjs.com/) - 模拟 API 服务，响应随机测试数据。
-    - [Mock Service Worker](https://mswjs.io/) - 利用 `Service Worker` API 拦截请求并实现 Mock API。
-    - [Mirage JS](https://miragejs.com/)
-    - [faker.js](https://github.com/marak/faker.js) - 生成大量随机测试数据，可用来开发过程中进行 API 调试。
-    - [Chance](https://chancejs.com/) - 生成随机的测试数据。
-  - 代码版本管理（Code version management ）
-    - [husky](https://github.com/typicode/husky) - 更容易的使用 [Git Hooks](https://git-scm.com/book/it/v2/Customizing-Git-Git-Hooks)。
-    - [lint-staged](https://www.npmjs.com/package/lint-staged) - 搭配 husky 使用，提交代码前进行 lint。
-  - 其它（Others）
-    - [Envalid](https://github.com/af/envalid) - 环境变量校验。
-    - [esm](https://github.com/standard-things/esm) - 能够为 `.js` 文件提供 [ECMAScript Modules](https://tc39.es/ecma262/#sec-modules) 支持。
-    - [envinfo](https://github.com/tabrindle/envinfo) - 生成开发环境信息报告。
-    - [Madge](https://github.com/pahen/madge) - 生成可视化的模块依赖图。
-    - [threads.js](https://threads.js.org/) - 在浏览器和 Node.js 环境中实现一致的 Web Worker API。
-    - [web-worker](https://github.com/developit/web-worker) - 在浏览器和 Node.js 环境中实现一致的 Web Worker API。
-    - [piscina](https://github.com/piscinajs/piscina) - 线程池工具。
-    - [devcert](https://github.com/davewasmer/devcert) - 让 SSL 开发变得容易。
+_see also 👉  [JS-工具库](./awesome-web-front-end.md#js-工具库)_
 
 - 进程管理（Process Manage）
   - [nodemon](https://nodemon.io) - 提供 Node.js 开发时热重载机制。
   - [node-dev](https://github.com/fgnass/node-dev) - 热重载。
   - [Forever](https://github.com/foreversd/forever) - Node 应用生产环境进程管理工具，使用简单方便。
   - [PM2](https://pm2.keymetrics.io/) - Node 应用生产环境进程管理工具，支持集群、负载、远程部署，提供收费服务的实时监控平台。
-  - [StrongLoop-PM](http://strong-pm.io/) - Node 应用生产环境进程管理工具，支持集群、负载、远程部署，提供收费服务的实时监控平台。
+  - [StrongLoop-PM](http://strong-pm.io/) - Node 应用生产环境进程管理工具，支持集群、负载、远程部署，提供收费服务的实时监控平台。（⚠️ 不再积极开发）
 
 - 实用工具（Utils）
   - [execa](https://github.com/sindresorhus/execa) - 对官方 [`child_process`](https://nodejs.org/api/child_process.html) 模块的改进。
