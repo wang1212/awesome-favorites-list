@@ -12,7 +12,7 @@
 *Resource navigation list.*
 
 - [基金会与社区（Foundation and Community）](#基金会与社区)
-- [容器技术（Container Technology）](#容器技术)
+- [开发技术（Development Technology）](#开发技术)
 
 ## 基金会与社区
 
@@ -22,15 +22,14 @@
 - [云原生社区](https://cloudnative.to/)
   - [*CNIA 中国云原生技术生态图景*](https://landscape.opensourcecloud.cn/)
 
-## 容器技术
+## 开发技术
 
-*Container technology.*
+*Development Technology.*
 
 - [Docker](https://www.docker.com/) - 轻量的类似虚拟机的容器技术。
 
-## 其它
-
-*Others.*
+- [Kubernetes](https://kubernetes.io/) - k8s，分布式容器自动化部署、管理。
+  -  [*Graceful shutdown and zero downtime deployments in Kubernetes*](https://learnk8s.io/graceful-shutdown)
 
 - [OpenTelemetry](https://opentelemetry.io/) - 由 OpenTracing 和 OpenCensus 项目合并而成，性能数据、日志数据追踪、收集。
 
