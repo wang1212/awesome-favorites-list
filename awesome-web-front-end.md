@@ -234,7 +234,9 @@
 ### JS 工具库
 
 *JavaScript tool libraries (browser-side), such as file manipulation, Canvas drawing, HTTP requests, etc.*
- 
+
+_see also 👉  [Node.JS-工具库](.//awesome-nodejs.md#工具库)_
+
 - 实用工具（Utils）
   - [Underscore](https://underscorejs.org/) - JavaScript 的工具函数库，提供了大量非常有用的工具函数。
   - [Lodash](https://lodash.com/) - JavaScript 的工具函数库，参考自 Underscore，功能更丰富。
@@ -389,15 +391,14 @@
 
 *Build tool, packaging tool used to develop web app, realize web engineering.*
 
+_see also 👉  [Node.JS-构建工具](.//awesome-nodejs.md#构建工具)_
+
 - [Create App](https://createapp.dev/) - 前端项目构建工具启动配置。
 
 ### 文档
 
 *Document.*
 
-- [JSDoc](https://jsdoc.app/) - JavaScript 的 API 文档生成工具。
-- [ESDoc](https://esdoc.org/)
-- [TSDoc](https://tsdoc.org/) - TypeScript 的注释解析工具。
 - [highlight.js](https://highlightjs.org/) - 页面代码高亮。
 
 ### API 兼容性支持
@@ -456,10 +457,6 @@
 ### 测试工具
 
 *Test tools.*
-
-- [Mocha](https://mochajs.org/)
-- [JEST](https://jestjs.io/) - Facebook 出品的 JavaScript 单元测试工具。
-- [Sinon.JS](https://sinonjs.org/) - 对复杂功能进行模拟，以更好的完成单元测试。
 
 ### PWA
 
