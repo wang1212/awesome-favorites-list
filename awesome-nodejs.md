@@ -119,6 +119,7 @@ _see also 👉  [JS-构建工具](./awesome-web-front-end.md#构建工具)_
 
 - 文档（Doc）
   - [JSDoc](https://jsdoc.app/) - JavaScript 的 API 文档生成工具。
+  - [ESDoc](https://esdoc.org/)
   - [typedoc](https://typedoc.org/) - 生成 TypeScript 项目文档。
 
 - 编译器（Compiler）
@@ -146,8 +147,10 @@ _see also 👉  [JS-构建工具](./awesome-web-front-end.md#构建工具)_
   - [0x](https://github.com/davidmarkclements/0x)
 
 - 测试（Test）
+  - [Mocha](https://mochajs.org/)
   - [jest](https://jestjs.io/)
   - [supertest](https://github.com/visionmedia/supertest) - 基于 `superagent` 模块的 HTTP 断言。
+  - [Sinon.JS](https://sinonjs.org/) - 对复杂功能进行模拟，以更好的完成单元测试。
 
 - 模拟 API（Mock API）
   - [JSON Server](https://github.com/typicode/json-serve) - 可快速启动一个提供 REST API 的服务器，并返回指定测试数据。  
