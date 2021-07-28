@@ -29,7 +29,8 @@
 - [Docker](https://www.docker.com/) - 轻量的类似虚拟机的容器技术。
 
 - [Kubernetes](https://kubernetes.io/) - k8s，分布式容器自动化部署、管理。
-  -  [*Graceful shutdown and zero downtime deployments in Kubernetes*](https://learnk8s.io/graceful-shutdown)
+  - [*Graceful shutdown and zero downtime deployments in Kubernetes*](https://learnk8s.io/graceful-shutdown)
+  - [kaniko](https://github.com/GoogleContainerTools/kaniko) - 在容器内构建镜像。
 
 - [OpenTelemetry](https://opentelemetry.io/) - 由 OpenTracing 和 OpenCensus 项目合并而成，性能数据、日志数据追踪、收集。
 
