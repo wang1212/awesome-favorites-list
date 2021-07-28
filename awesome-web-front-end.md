@@ -649,6 +649,7 @@ _see also 👉  [Node.JS-构建工具](.//awesome-nodejs.md#构建工具)_
   - [slate](https://www.slatejs.org/)
   - [Quill](https://quilljs.com/)
   - [Editor.js](https://editorjs.io/)
+  - [CodeMirror](https://codemirror.net/) - 代码编辑器。
 
 - 幻灯片（Slideshow）
   - [reveal.js](https://revealjs.com/)
