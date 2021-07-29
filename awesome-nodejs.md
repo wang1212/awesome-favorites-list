@@ -257,6 +257,9 @@ _see also 👉  [JS-工具库](./awesome-web-front-end.md#js-工具库)_
   - [Socket.IO](http://socket.io/) - 基于事件的实时通信框架，提供客户端和服务器实现。
   - [ws](https://github.com/websockets/ws) - Node.js WebSocket 客户端和服务器。
 
+- 队列（Queue）
+  - [bull](https://github.com/OptimalBits/bull)
+
 - 邮件（SMTP）
   - [Nodemailer](https://nodemailer.com/) - 邮件发送。
   - [mailgen](https://github.com/eladnava/mailgen) - 生成响应式 HTML 电子邮件模版。
