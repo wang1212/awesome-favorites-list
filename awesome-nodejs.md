@@ -142,6 +142,8 @@ _see also 👉  [JS-构建工具](./awesome-web-front-end.md#构建工具)_
   - [winston](https://github.com/winstonjs/winston) - 简单通用的日志库。
   - [pino](https://getpino.io/) - 简单的 JSON 日志记录器。
   - [tslog](https://tslog.js.org/)
+  - [bunyan](https://github.com/trentm/node-bunyan)
+  - [Cabin](https://cabinjs.com/)
   
 - 性能分析（profiling ）
   - [0x](https://github.com/davidmarkclements/0x)
