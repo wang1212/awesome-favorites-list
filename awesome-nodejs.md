@@ -99,6 +99,7 @@
   - [Verdaccio](https://verdaccio.org/) - 开源的轻量级私有 npm 代理仓库。
   - [nrm](https://github.com/Pana/nrm) - npm 换源。
   - [npm-check-updates](https://github.com/tjunnone/npm-check-updates) - 项目依赖 npm 包批量更新工具。
+  - [OpenBase JavaScript](https://openbase.com/) - npm 模块分类排名。
   - [Npm Trends](https://www.npmtrends.com/) - 可以查询对比多个 Npm 包的下载流量数据、star 数目等。
   - [Moiva](https://moiva.io/) - 比较 Github 和 npm 包下载趋势，关注度等等。
   - [Npm Charts](https://npmcharts.com/) - 可以查询对比多个 Npm 包的下载流量数据、star 数目等。
