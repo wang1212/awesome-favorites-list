@@ -231,7 +231,19 @@
 
 *Mirror site, unable to visit the official site due to network restrictions.*
 
-- [USTC open source software mirror](https://mirrors.ustc.edu.cn/) - 中科大开源镜像源。
+- All
+  - [中科大源](https://mirrors.ustc.edu.cn/)
+  - [清华大学源](https://mirror.tuna.tsinghua.edu.cn/)
+  - [哈工大源](http://mirrors.hit.edu.cn/)
+  - [阿里云源](https://developer.aliyun.com/mirror/)
+  - [腾讯云源](https://mirrors.cloud.tencent.com/)
+  - [网易源](https://mirrors.163.com/)
+
+- Node.js
+  - [淘宝源](https://npm.taobao.org/)
+
+- Others
+  - [思谋学术](https://ac.scmor.com/) - 谷歌学术源。
 
 ### 在线实用工具
 
