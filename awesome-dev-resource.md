@@ -580,6 +580,7 @@
 - [lazydocker](https://github.com/jesseduffield/lazydocker) - Docker 终端 UI 管理工具。
 - [fzf](https://github.com/junegunn/fzf) - 模糊查找器。
 - [sslh](https://github.com/yrutschle/sslh) - 实现端口复用。
+- [BusyBox](https://www.busybox.net/) - 实用的 Linux 命令集合。
 
 #### 其它
 
