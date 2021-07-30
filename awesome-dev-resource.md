@@ -11,6 +11,7 @@
 
 *Resource navigation list.*
 
+- [镜像站（Mirror Site）](#镜像站)
 - [技术标准规范（Technical Standard Specification）](awesome-dev-specifications.md)
 - [技术实践规范（Technical Practice Specification）](#技术实践规范)
 - [技术参考文档（Technical Reference Document）](#技术参考文档)
@@ -21,7 +22,6 @@
   - [论坛（Forum）](#论坛)
   - [期刊（Journal）](#期刊)
 - [在线资源（Online Resources）](#在线资源)
-  - [镜像站（Mirror Site）](#镜像站)
   - [在线实用工具（Online utility）](#在线实用工具)
   - [公共 API（Public API）](#公共-api)
   - [设计工具（Design Tools）](#设计工具)
@@ -36,6 +36,26 @@
 - [工具套件（Tool kit）](#工具套件)
 - [文档站点生成器（Documentation Site Generator）](#文档站点生成器)
 - [更多（More）](#更多)
+
+### 镜像站
+
+*Mirror site, unable to visit the official site due to network restrictions.*
+
+- All
+  - [中科大源](https://mirrors.ustc.edu.cn/)
+  - [清华大学源](https://mirror.tuna.tsinghua.edu.cn/)
+  - [哈工大源](http://mirrors.hit.edu.cn/)
+  - [阿里云源](https://developer.aliyun.com/mirror/)
+  - [腾讯云源](https://mirrors.cloud.tencent.com/)
+  - [网易源](https://mirrors.163.com/)
+
+- Node.js
+  - [淘宝源](https://npm.taobao.org/)
+
+- Others
+  - [思谋学术](https://ac.scmor.com/) - 谷歌学术源。
+
+[`Go Top ↑`](#awesome-development-resources)
 
 ## 技术实践规范
 
@@ -226,24 +246,6 @@
 ## 在线资源
 
 *Online Resources.*
-
-### 镜像站
-
-*Mirror site, unable to visit the official site due to network restrictions.*
-
-- All
-  - [中科大源](https://mirrors.ustc.edu.cn/)
-  - [清华大学源](https://mirror.tuna.tsinghua.edu.cn/)
-  - [哈工大源](http://mirrors.hit.edu.cn/)
-  - [阿里云源](https://developer.aliyun.com/mirror/)
-  - [腾讯云源](https://mirrors.cloud.tencent.com/)
-  - [网易源](https://mirrors.163.com/)
-
-- Node.js
-  - [淘宝源](https://npm.taobao.org/)
-
-- Others
-  - [思谋学术](https://ac.scmor.com/) - 谷歌学术源。
 
 ### 在线实用工具
 
