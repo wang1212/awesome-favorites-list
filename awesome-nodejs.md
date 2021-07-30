@@ -258,8 +258,11 @@ _see also 👉  [JS-工具库](./awesome-web-front-end.md#js-工具库)_
   - [Lounge](https://thelounge.chat/) - 现代的 Web RPC 客户端。
   
 - 套接字（Socket）
-  - [Socket.IO](http://socket.io/) - 基于事件的实时通信框架，提供客户端和服务器实现。
+  - [Socket.IO](http://socket.io/) - 基于事件的实时通信框架，提供客户端（浏览器）和服务器实现。
+  - [SockJS](https://github.com/sockjs/sockjs-node) - 提供客户端（浏览器）和服务器实现。
+  - [WebSocket-Node](https://github.com/theturtle32/WebSocket-Node)
   - [ws](https://github.com/websockets/ws) - Node.js WebSocket 客户端和服务器。
+  - [faye-websocket](https://github.com/faye/faye-websocket-node)
 
 - 队列（Queue && Job scheduling）
   - [bull](https://github.com/OptimalBits/bull)
