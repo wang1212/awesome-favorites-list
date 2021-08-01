@@ -307,6 +307,7 @@ _see also 👉  [Node.JS-工具库](.//awesome-nodejs.md#工具库)_
 
 - 多线程（Web Worker）
   - [Comlink](https://github.com/GoogleChromeLabs/comlink) - 使 `Web Worker` 的使用更加简单、方便，**Chrome 实验室发布**。
+  - [web-worker](https://github.com/developit/web-worker) - 跨平台的 `Web Worker` 实现， 支持 Node.js 与 Web 浏览器环境。
 
 - 绘图（Canvas && Draw）
   - [DOM to Image](https://github.com/tsayen/dom-to-image/) - 利用 HTML5 Canvas 生成 DOM 节点的快照图片。
