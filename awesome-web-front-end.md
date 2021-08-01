@@ -786,6 +786,9 @@ _see also 👉  [Node.JS-构建工具](.//awesome-nodejs.md#构建工具)_
 
 - [Aurelia](https://aurelia.io/)
 
+- [Solid](https://www.solidjs.com/) - 纯粹的反应式框架。
+- [Million](https://million.js.org/) - 一个与库无关的虚拟 DOM 实现。
+
 [`Go Top ↑`](#awesome-web-front-end-list)
 
 ## 应用状态管理
