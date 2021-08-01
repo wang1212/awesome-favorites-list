@@ -168,13 +168,20 @@ _see also 👉  [JS-构建工具](./awesome-web-front-end.md#构建工具)_
   - [husky](https://github.com/typicode/husky) - 更容易的使用 [Git Hooks](https://git-scm.com/book/it/v2/Customizing-Git-Git-Hooks)。
   - [lint-staged](https://www.npmjs.com/package/lint-staged) - 搭配 husky 使用，提交代码前进行 lint。
   
+- 进程管理（Process Manage） 
+  - 热重载（Hot reload）
+    - [nodemon](https://nodemon.io)
+    - [node-dev](https://github.com/fgnass/node-dev)
+  - 生产部署
+    - [Forever](https://github.com/foreversd/forever) - Node 应用生产环境进程管理工具，使用简单方便。
+    - [PM2](https://pm2.keymetrics.io/) - Node 应用生产环境进程管理工具，支持集群、负载、远程部署，提供收费服务的实时监控平台。
+    - [StrongLoop-PM](http://strong-pm.io/) - Node 应用生产环境进程管理工具。（⚠️ 不再积极开发）
+    - [cluster-service](https://github.com/godaddy/node-cluster-service)
+
 - 其它（Others）
   - [esm](https://github.com/standard-things/esm) - 能够为 `.js` 文件提供 [ECMAScript Modules](https://tc39.es/ecma262/#sec-modules) 支持。
   - [envinfo](https://github.com/tabrindle/envinfo) - 生成开发环境信息报告。
   - [Madge](https://github.com/pahen/madge) - 生成可视化的模块依赖图。
-  - [threads.js](https://threads.js.org/) - 在浏览器和 Node.js 环境中实现一致的 Web Worker API。
-  - [web-worker](https://github.com/developit/web-worker) - 在浏览器和 Node.js 环境中实现一致的 Web Worker API。
-  - [piscina](https://github.com/piscinajs/piscina) - 线程池工具。
   - [devcert](https://github.com/davewasmer/devcert) - 让 SSL 开发变得容易。
 
 [`Go Top ↑`](#awesome-nodejs-list)
@@ -184,20 +191,17 @@ _see also 👉  [JS-构建工具](./awesome-web-front-end.md#构建工具)_
 *Tool Library, some unofficial high-quality Node.js packages (or libraries).*
 
 _see also 👉  [JS-工具库](./awesome-web-front-end.md#js-工具库)_
-
-- 进程管理（Process Manage）
-  - [nodemon](https://nodemon.io) - 提供 Node.js 开发时热重载机制。
-  - [node-dev](https://github.com/fgnass/node-dev) - 热重载。
-  - [Forever](https://github.com/foreversd/forever) - Node 应用生产环境进程管理工具，使用简单方便。
-  - [PM2](https://pm2.keymetrics.io/) - Node 应用生产环境进程管理工具，支持集群、负载、远程部署，提供收费服务的实时监控平台。
-  - [StrongLoop-PM](http://strong-pm.io/) - Node 应用生产环境进程管理工具。（⚠️ 不再积极开发）
-  - [node-cluster-service](https://github.com/godaddy/node-cluster-service)
-
-- 实用工具（Utils）
-  - [execa](https://github.com/sindresorhus/execa) - 对官方 [`child_process`](https://nodejs.org/api/child_process.html) 模块的改进。
   
 - 异步操作（Asynchronous operation）
   - [promise-fun](https://github.com/sindresorhus/promise-fun) - `Promise` 工具库集合。
+  
+- 多进程/线程编程（Multi-process/thread programming）
+  - 线程池
+    - [workerpool](https://github.com/josdejong/workerpool) - 轻量线程池工具，支持 Node.js 与 Web 浏览器环境。
+    - [piscina](https://github.com/piscinajs/piscina)
+    - [threads.js](https://threads.js.org/) - 在浏览器和 Node.js 环境中实现一致的 Web Worker API。
+  - 工具（Tools）
+    - [execa](https://github.com/sindresorhus/execa) - 对官方 [`child_process`](https://nodejs.org/api/child_process.html) 模块的改进。
   
 - 数据校验（Data Validation）
   - [ajv](https://github.com/ajv-validator/ajv) - JSON Schema validator。
