@@ -655,6 +655,10 @@ _see also 👉  [Node.JS-构建工具](.//awesome-nodejs.md#构建工具)_
   - [reveal.js](https://revealjs.com/)
   - [Slidev](https://sli.dev/)
 
+- 窗口布局（Window layout）
+  - [WinBox](https://nextapps-de.github.io/winbox/) - 窗口组件。
+  - [golden-layout](http://golden-layout.com/) - 多窗口布局管理。
+
 - 其它（Others）
   - [NProgress](https://ricostacruz.com/nprogress/) - 页面顶部进度条，加载指示器。
   - [PACE](https://codebyzach.github.io/pace/) - 页面加载指示器。
@@ -668,7 +672,6 @@ _see also 👉  [Node.JS-构建工具](.//awesome-nodejs.md#构建工具)_
   - [simple-drawing-board.js](https://github.com/leader22/simple-drawing-board.js) - 简单画板。
   - [simple-keyboard](https://virtual-keyboard.js.org/) - 虚拟键盘。
   - [Tippy.js](https://atomiks.github.io/tippyjs/) - 工具提示组件。
-  - [WinBox](https://nextapps-de.github.io/winbox/) - 窗口组件。
 
 ### UI 模板
 
