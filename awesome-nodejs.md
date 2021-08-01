@@ -273,6 +273,10 @@ _see also 👉  [JS-工具库](./awesome-web-front-end.md#js-工具库)_
   - [agenda](https://github.com/agenda/agenda)
   - [Bree](https://jobscheduler.net/)
 
+- 沙箱（Sandbox）
+  - [vm2](https://github.com/patriksimek/vm2) 
+  - [isolated-vm](https://github.com/laverdet/isolated-vm)
+
 - 邮件（SMTP）
   - [Nodemailer](https://nodemailer.com/) - 邮件发送。
   - [mailgen](https://github.com/eladnava/mailgen) - 生成响应式 HTML 电子邮件模版。
