@@ -270,8 +270,11 @@ _see also 👉  [JS-工具库](./awesome-web-front-end.md#js-工具库)_
   - [ws](https://github.com/websockets/ws) - Node.js WebSocket 客户端和服务器。
   - [faye-websocket](https://github.com/faye/faye-websocket-node)
 
-- 队列（Queue && Job scheduling）
-  - [bull](https://github.com/OptimalBits/bull)
+- 队列与作业调度（Queue & Job scheduling）
+  - [node-schedule](https://github.com/node-schedule/node-schedule) - 支持 `cron` 方式。
+  - [node-cron](https://nodecron.com/) - 简单的基于 `cron` 方式的作业调度器。
+  - [cron](https://github.com/kelektiv/node-cron)
+  - [bull](https://github.com/OptimalBits/bull) - 高性能队列。
   - [agenda](https://github.com/agenda/agenda)
   - [Bree](https://jobscheduler.net/)
 
