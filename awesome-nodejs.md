@@ -353,7 +353,10 @@ _see also 👉  [JS-工具库](./awesome-web-front-end.md#js-工具库)_
 
 - [GraphQL](https://graphql.org/) - 开源的数据库查询语言。
 - [Prisma](https://github.com/prisma/prisma) - 数据库工具套件。
-- [PostGraphile](https://www.graphile.org/postgraphile/) - 为已有的 PostgreSQL 数据库提供 GraphQL API 支持。
+
+- PostgreSQL
+  - [PostGraphile](https://www.graphile.org/postgraphile/) - 为已有的 PostgreSQL 数据库提供 GraphQL API 支持。
+  - [pg-promise](https://github.com/vitaly-t/pg-promise) - PostgreSQL 的 Node.js 接口。
 
 - 对象关系映射（ORM）
   - [Sequelize](https://sequelize.org/) - 基于 Promise 的 Node.js ORM 库，支持 Postgres, MySQL, MariaDB, SQLite 和 Microsoft SQL Server。
