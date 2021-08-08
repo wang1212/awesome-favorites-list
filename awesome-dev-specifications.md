@@ -25,6 +25,9 @@
   - [CommonMark](https://commonmark.org/) - 一个高度兼容，定义严格的 Markdown 规范。
   - [*Markdown Guide*](https://www.markdownguide.org/) - _Markdown 语法参考文档，**非官方**。_
 
+- OAuth
+  - [OpenID Connect](https://openid.net/connect/)
+
 - *List of Uncategorized Resources.*
   - [AOMedia](https://aomedia.org/) - 下一代开源数字媒体技术标准。
   - [ONVIF](https://www.onvif.org/) - 安防行业开放组织，推出了标准化的开放接口协议 onvif。
