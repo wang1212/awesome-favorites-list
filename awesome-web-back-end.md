@@ -115,4 +115,6 @@
 
 *More other unclassified resources.*
 
+- [*Awesome Node.js List*](./awesome-nodejs.md)
+
 [`Go Top ↑`](#awesome-web-back-end-list)
