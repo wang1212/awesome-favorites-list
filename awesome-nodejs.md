@@ -224,6 +224,7 @@ _see also 👉  [JS-工具库](./awesome-web-front-end.md#js-工具库)_
     - [file-type](https://github.com/sindresorhus/file-type) - 探测文件类型。
     - [fdir](https://thecodrr.github.io/fdir/) - 最快的目录搜索器。
     - [Tmp](https://github.com/raszi/node-tmp) - 生成临时文件和目录。
+    - [globby](https://github.com/sindresorhus/globby)
   - html/xml
     - [jsdom](https://github.com/jsdom/jsdom) - Web 标准的纯 JavaScript 实现。
     - [cheerio](https://cheerio.js.org/) - 包装了[parse5](https://github.com/inikulin/parse5) 和 [htmlparser2](https://github.com/fb55/htmlparser2/) 的轻量级 HTML 文档解析库，具有类 jQuery 的 api。
