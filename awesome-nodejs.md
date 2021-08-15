@@ -190,7 +190,7 @@ _see also 👉  [JS-构建工具](./awesome-web-front-end.md#构建工具)_
 
 *Tool Library, some unofficial high-quality Node.js packages (or libraries).*
 
-_see also 👉  [JS-工具库](./awesome-web-front-end.md#js-工具库)_
+_see also 👉  [JS-工具库](./awesome-web-front-end.md#js-工具库) | [awesome-nodejs](https://github.com/zerolab-fe/awesome-nodejs)_
   
 - 异步操作（Asynchronous operation）
   - [promise-fun](https://github.com/sindresorhus/promise-fun) - `Promise` 工具库集合。
