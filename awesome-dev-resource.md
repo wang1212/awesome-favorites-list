@@ -131,6 +131,7 @@
 
 - [LeetCode](https://leetcode-cn.com/) - 在线笔试算法题练习。
 - [牛客网](https://www.nowcoder.com/) - 在线刷题。
+- [Reverse interview](https://github.com/viraptor/reverse-interview) - 面试时候可以反问的一些问题。
 - [Coding Interview University](https://github.com/jwasham/coding-interview-university)
 
 ### 文章
