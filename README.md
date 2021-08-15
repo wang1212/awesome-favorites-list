@@ -71,3 +71,9 @@
 - （Practiced）尽可能是经过实践的；
 - （Long-term maintenance）属于长期维护（近期更新过）的资源；
 - （Useful）有用才是最有价值的！
+
+# License
+
+[![Creative Commons License](https://i.creativecommons.org/l/by-sa/4.0/88x31.png)](https://creativecommons.org/licenses/by-sa/4.0/)
+
+This work is licensed under a [Creative Commons Attribution-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-sa/4.0/).
