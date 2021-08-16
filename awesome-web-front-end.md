@@ -403,6 +403,7 @@ _see also 👉  [Node.JS-构建工具](.//awesome-nodejs.md#构建工具)_
 *Document.*
 
 - [highlight.js](https://highlightjs.org/) - 页面代码高亮。
+- [Prism.js](https://prismjs.com/) - 页面代码高亮。
 
 ### API 兼容性支持
 
