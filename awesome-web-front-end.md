@@ -644,9 +644,9 @@ _see also 👉  [Node.JS-构建工具](.//awesome-nodejs.md#构建工具)_
   - [FilterizR](https://yiotis.net/filterizr/) - 过滤搜索动画。
   
 - 用户引导（User guided tours）
-  - [intro.js](https://introjs.com/)
   - [Driver.js](https://kamranahmed.info/driver.js/)
   - [Shepherd](https://shepherdjs.dev/)
+  - [intro.js](https://introjs.com/) - **商业收费**。
    
 - 编辑器（Editor）
   - [TOAST UI Editor](https://ui.toast.com/tui-editor/) - 所见即所得编辑器。
