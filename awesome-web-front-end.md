@@ -741,6 +741,7 @@ _see also 👉  [Node.JS-构建工具](.//awesome-nodejs.md#构建工具)_
   - [mo.js](https://mojs.github.io/) - 丰富，强大的运动图形动画工具库。
   - [KUTE.js](https://thednp.github.io/kute.js/) - 高性能动画引擎。
   - [Popmotion](https://popmotion.io/) - 实用、灵活的 JavaScript 动画工具套件。
+    - [Framer Motion](https://www.framer.com/motion/) - 动画工具库，由 Popmotion 驱动。
   - [tween.js](https://createjs.com/tweenjs) - 动画工具库。
   - [ScrollReveal](https://scrollrevealjs.org/) - 为滚动进入视区的元素提供动画效果。
   - [lax.js](https://github.com/alexfoxy/laxxx) - 简单、轻量的工具库，创建平滑的滚动动画。
@@ -750,7 +751,6 @@ _see also 👉  [Node.JS-构建工具](.//awesome-nodejs.md#构建工具)_
   - [Rough Notation](https://roughnotation.com/) - 为元素提供注释效果和动画。
   - [Rellax](https://dixonandmoe.com/rellax/) - 元素滚动视差效果工具库。
   - [simplePARALLAX.js](https://simpleparallax.com/)
-  - [Framer Motion](https://www.framer.com/motion/) - 动画工具库。
   - [GSAP](https://greensock.com/) - 现代化的高性能动画工具库。
   - [Shifty](https://jeremyckahn.github.io/shifty/doc/index.html) - 轻量级、高性能的低级动画工具库。
   - [ts Particles](https://particles.matteobruni.it/) - 简单的粒子动画。
