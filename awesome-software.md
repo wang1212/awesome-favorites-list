@@ -121,9 +121,9 @@
 *Software interface design, prototype drawing design, etc.*
 
 - [diagrams.net](https://www.diagrams.net/) - 流程图、UML 图绘制工具，**开源软件**。（提供安装包版本）
+- [excalidraw](https://excalidraw.com/) - 在线的手绘风格图表绘图板，**开源软件**。
 - [Quant UX](https://www.quant-ux.com/) - 原型图工具，**开源软件**。
 - [Penpot](https://penpot.app/) - 原型图工具，**开源软件**。
-- [excalidraw](https://excalidraw.com/) - 在线绘图板。
 
 [`Go Top ↑`](#awesome-software)
 
