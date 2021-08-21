@@ -624,6 +624,7 @@ _see also 👉  [Node.JS-构建工具](.//awesome-nodejs.md#构建工具)_
   - [Vime](https://vimejs.com/) - 视频播放器。
   - [Artplayer](https://artplayer.org/) - 全功能 H5 播放器。
   - [moovie](https://mooviejs.com/) - 转为电影播放的播放器。
+  - [wavesurfer.js](https://wavesurfer-js.org/) - 音频可视化。
 
 - 文件上传（File Upload）
   - [FilePond ](https://pqina.nl/filepond/) - 文件上传。
