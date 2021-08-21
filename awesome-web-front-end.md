@@ -42,7 +42,7 @@
   - [动画（Animation）](#动画)
 - [开发框架（Framework）](#开发框架)
 - [应用状态管理（Application State Management）](#应用状态管理)
-- [WebAssembly](#webAssembly)
+- [WebAssembly](awesome-webassembly.md)
 - [深入探索（Explore In Depth）](#深入探索)
 - [更多（More）](#更多)
   - [CDN](#cdn)
@@ -821,31 +821,6 @@ _see also 👉  [Node.JS-构建工具](.//awesome-nodejs.md#构建工具)_
 
 - [Immutable.js](https://immutable-js.github.io/immutable-js/) - 不可变数据。（:warning: 不再更新）
 - [Immer](https://immerjs.github.io/immer/) - 不可变数据。
-
-[`Go Top ↑`](#awesome-web-front-end-list)
-
-## WebAssembly
-
-- [WebAssembly](https://webassembly.org/) - 新型字节码格式，可将其它语言编译后在 Web 浏览器中运行，**官方网站**。
-- [WASI](https://wasi.dev/) - WebAssembly 系统接口标准，致力于在浏览器之外的环境中运行 WebAssembly。
-- [Bytecode Alliance](https://bytecodealliance.org/) - 字节码联盟。
-
-- 工具链（Tools）
-  - [Emscripten](https://emscripten.org/) - 用于编译为使用 LLVM 构建的 asm.js 和 WebAssembly 的工具链，可在 Web 浏览器中运行 C/C++ 代码。
-  - [Cheerp](https://www.leaningtech.com/cheerp/) - 与 Emscripten 类似。
-  - [AssemblyScript](https://www.assemblyscript.org/) - 类似 TypeScript 的可编译为 WASM 的语言。
-  - [Perspective](https://github.com/finos/perspective) - 基于 C++ 的 wasm 数据可视化组件。
-
-- 运行时（Runtime）
-  - [Wasmer](https://wasmer.io/) - 轻量的 WebAssembly 运行时，支持 WASI 和 Emscripten。
-  - [Wasmtime](https://wasmtime.dev/) - WebAssembly 与 WASI 运行时。
-  - [Lucet](https://github.com/bytecodealliance/lucet) - 本机 WebAssembly 编译器和运行时。
-  - [Lunatic](https://lunatic.solutions/) - WebAssembly 运行时。
-  - [wasm3](https://github.com/wasm3/wasm3)
-
-- 编辑器（Online Editor）
-  - [WebAssembly Studio](https://webassembly.studio/) - 在线的 WebAssembly 编辑器，**Mozilla 发布**。
-  - [WebAssembly Cloud](https://webassembly.cloud/)
 
 [`Go Top ↑`](#awesome-web-front-end-list)
 
