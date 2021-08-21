@@ -228,6 +228,7 @@
   - [React-Toastify](https://fkhadra.github.io/react-toastify/) - 消息弹窗组件。
   - [React Toast Notifications](https://jossmac.github.io/react-toast-notifications/) - 消息通知弹窗组件。
   - [react-hot-toast](https://react-hot-toast.com/)
+  - [notistack](https://iamhosseindhv.com/notistack)
 
 - 其它（Others）
   - [React PDF](https://projects.wojtekmaj.pl/react-pdf/) - pdf 文件预览组件。
