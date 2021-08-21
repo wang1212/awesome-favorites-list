@@ -26,6 +26,7 @@
   - [云开发（Cloud Development）](awesome-cloud-dev.md)
   - [Web 后端（Web Backend）](awesome-web-back-end.md)
   - [Web 前端（Web Front-end）](awesome-web-front-end.md)
+    - [WebAssembly](awesome-webassembly.md) 
     - [React.js](awesome-reactjs.md)
   - 移动应用（Mobile Application）
     - [混合应用（Hybrid App）](awesome-hybrid-app.md)
