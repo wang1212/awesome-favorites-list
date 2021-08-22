@@ -178,6 +178,7 @@
 
 *Some valuable developer forum websites, Q&A communities, etc.*
 
+- [Hacker News](https://news.ycombinator.com/) - 硅谷著名的创业孵化器机构 YC 运营的全球访问量最高的技术论坛。
 - [Stack Overflow](https://stackoverflow.com/) - 全球程序员学习、分享，技术问答社区网站，**包含在 StackExchange 中**。
 - [StackShare](https://stackshare.io/) - 全球技术趋势分享讨论。
 - [DEV](https://dev.to/) - 开发者社区。
