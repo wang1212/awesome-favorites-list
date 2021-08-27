@@ -386,6 +386,7 @@ _see also 👉  [Node.JS-工具库](.//awesome-nodejs.md#工具库)_
 
 - [TypeScript Performance Tips](https://github.com/microsoft/TypeScript/wiki/Performance) - TypeScript 性能优化，**官方**。
 - [typescript-cheatsheet](https://rmolinamir.github.io/typescript-cheatsheet/) - TypeScript 备忘单。
+- [TypeScript Deep Dive](https://basarat.gitbook.io/typescript/) - 深入理解 TypeScript 相关概念知识。
 - [TypeScriptToLua](https://typescripttolua.github.io/) - 用 TypeScript 编写 Lua。
 
 [`Go Top ↑`](#awesome-web-front-end-list)
