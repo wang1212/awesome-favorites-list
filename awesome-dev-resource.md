@@ -657,6 +657,7 @@
 - [nocodb](https://www.nocodb.com/) - NoCode 平台，将任何数据库转换为电子表格，**开源软件**。
 - [Talk](https://github.com/vasanthv/talk) - 点对点的 Web 视频会议和屏幕共享应用，**开源软件**。
 - [nb](https://xwmx.github.io/nb/) - 命令行和本地 Web 笔记、文档管理、检索应用程序。
+- [Web File Browser](https://filebrowser.org/) - 基于 Web 的云文件浏览器。
 
 [`Go Top ↑`](#awesome-development-resources)
 
