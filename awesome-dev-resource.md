@@ -24,14 +24,20 @@
 - [在线资源（Online Resources）](#在线资源)
   - [在线实用工具（Online utility）](#在线实用工具)
   - [公共 API（Public API）](#公共-api)
+  - [GitHub](#github)
   - [设计工具（Design Tools）](#设计工具)
   - [图像工具（Image Tools）](#图像工具)
+  - [编程字体（Programming Font）](#编程字体)
+  - [徽章图标服务（Badge Icon Service）](#徽章图标服务)
 - [软件工具（Software Tools）](#软件工具)
   - [测试（Test）](#测试)
+  - [代码编辑器/IDE（Code editor/IDE）](#代码编辑器/ide )
   - [源代码管理（Source Code Management）](#源代码管理)
   - [API 文档管理（API Document Management）](#api-文档管理)
+  - [服务器远程管理（Server Remote Management）](#服务器远程管理)
   - [开发辅助工具（Development Utils）](#开发辅助工具)
   - [命令行工具（Command Line Tools）](#命令行工具)
+  - [实用工具（Utilities）](#实用工具)
   - [WSL（Windows Subsystem for Linux）](#wsl)
 - [工具套件（Tool kit）](#工具套件)
 - [文档站点生成器（Documentation Site Generator）](#文档站点生成器)
@@ -159,6 +165,7 @@
 - [TodoMVC](http://todomvc.com/) - 构建 MV* 应用的技术选型推荐。
 - [Awesome Software Architecture](https://mehdihadeli.github.io/awesome-software-architecture/) - 软件架构参考。
 - [https://12factor.net/](https://12factor.net/) - 开发应用的十二要素。
+- [Codewars](https://www.codewars.com/) - 通过挑战解决代码问题提高编码水平。
 
 #### 算法与数据结构
 
@@ -310,12 +317,6 @@
 - [http://gitd.cc/](http://gitd.cc/) - 文件代下服务。
 - [https://d.serctl.com/](https://d.serctl.com/) - 文件代下服务。
 
-### 编程训练
-
-*Programming training.*
-
-- [Codewars](https://www.codewars.com/) - 通过挑战解决代码问题提高编码水平。
-
 ### 设计工具
 
 *Design Tools.*
@@ -418,7 +419,7 @@
 
 ### 徽章图标服务
 
-*Badge Service.*
+*Badge icon service.*
 
 - [Shields.IO](https://shields.io/)
 - [NodeICO](https://nodei.co/)
