@@ -59,6 +59,7 @@
 *Daily tools, such as language translation, note application, etc.*
 
 - [Google 翻译](https://chrome.google.com/webstore/detail/google-translate/aapbdbdomjkkjkaonfhkkikfgjllcleb) - 可在页面上进行实时翻译，**官方扩展**。
+- [沙拉查词](https://saladict.crimx.com/download.html) - 网页翻译工具。
 - [GoFullPage](https://chrome.google.com/webstore/detail/gofullpage-full-page-scre/fdpohaocaechififmbbbbbknoalclacl) - 截屏工具。
 - [Awesome Screenshot](https://chrome.google.com/webstore/detail/awesome-screenshot-screen/nlipoenfbbikpbjkfpfillcgkoblgpmj) - 截屏工具。
 - [FireShot](https://chrome.google.com/webstore/detail/take-webpage-screenshots/mcbpblocgmgfnpjjppndjkmgjaogfceg) - 截屏工具。
@@ -66,7 +67,6 @@
 - [Infinity 新标签页 (Pro)](https://chrome.google.com/webstore/detail/infinity-new-tab-pro/nnnkddnnlpamobajfibfdgfnbcnkgngh) - 让浏览器的新标签页可定制化。
 - [skyZIP™ Proxy](https://chrome.google.com/webstore/detail/skyzip-proxy/hbgknjagaclofapkgkeapamhmglnbphi) - 网络代理。
 - [Image Downloader](https://chrome.google.com/webstore/detail/image-downloader/cnpniohnfphhjihaiiggeabnkjhpaldj) - 网站图片批量下载。
-- [Cubox 收藏夹](https://chrome.google.com/webstore/detail/cubox-%E6%94%B6%E8%97%8F%E5%A4%B9/bflmgpechpeohjfomgfdkkfcbhfcjohl) - 网页收藏，提供 App 与网页版。
 
 ### 用户脚本
 
@@ -84,6 +84,7 @@
 - 脚本（userscript）
   - [AC-baidu:重定向优化百度搜狗谷歌必应搜索_favicon_双列](https://greasyfork.org/zh-TW/scripts/14178-ac-baidu-%E9%87%8D%E5%AE%9A%E5%90%91%E4%BC%98%E5%8C%96%E7%99%BE%E5%BA%A6%E6%90%9C%E7%8B%97%E8%B0%B7%E6%AD%8C%E5%BF%85%E5%BA%94%E6%90%9C%E7%B4%A2-favicon-%E5%8F%8C%E5%88%97)
   - [Github 增强 - 高速下载](https://greasyfork.org/zh-CN/scripts/412245-github-%E5%A2%9E%E5%BC%BA-%E9%AB%98%E9%80%9F%E4%B8%8B%E8%BD%BD)
+  - [划词翻译：多词典查询](https://greasyfork.org/zh-CN/scripts/376313-%E5%88%92%E8%AF%8D%E7%BF%BB%E8%AF%91-%E5%A4%9A%E8%AF%8D%E5%85%B8%E6%9F%A5%E8%AF%A2)
 
 [`Go Top ↑`](#awesome-software)
 
