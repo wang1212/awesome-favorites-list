@@ -31,7 +31,7 @@
   - [徽章图标服务（Badge Icon Service）](#徽章图标服务)
 - [软件工具（Software Tools）](#软件工具)
   - [测试（Test）](#测试)
-  - [代码编辑器/IDE（Code editor/IDE）](#代码编辑器/ide )
+  - [代码编辑器/IDE（Code editor/IDE）](#代码编辑器ide)
   - [源代码管理（Source Code Management）](#源代码管理)
   - [API 文档管理（API Document Management）](#api-文档管理)
   - [服务器远程管理（Server Remote Management）](#服务器远程管理)
@@ -43,7 +43,7 @@
 - [文档站点生成器（Documentation Site Generator）](#文档站点生成器)
 - [更多（More）](#更多)
 
-### 镜像站
+## 镜像站
 
 *Mirror site, unable to visit the official site due to network restrictions.*
 
