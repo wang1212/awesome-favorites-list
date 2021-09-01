@@ -153,6 +153,8 @@
   - [《Eloquent JavaScript》](https://eloquentjavascript.net/)[美] Marijn Haverbeke - JavaScript、Node.js 技术，**开源书籍**。
   - [《JavaScript (ES2015+) Enlightenment》](https://frontendmasters.com/books/javascript-enlightenment/) Cody Linley - JavaScript 语言更新介绍，**开源书籍**。
   - [《Learning JavaScript Design Patterns》](https://addyosmani.com/resources/essentialjsdesignpatterns/book/) Addy Osmani - JavaScript 设计模式，**开源书籍**。
+  - 《JavaScript 面向对象编程指南》[加拿大] Stoyan Stefanov 斯托扬
+  - 《高性能 JavaScript》 [美] 尼古拉斯·泽卡斯
   - [《Python 101》](http://python101.pythonlibrary.org)[美] Mike Driscoll - 讲述 Python 3 初级编程的书籍。	
   - 《Python 201》[美] Mike Driscoll - 讲述 Python 3 中级编程的书籍。
   - 《Ruby 元编程》[意] Paolo Perrotta
@@ -181,12 +183,16 @@
 - 安卓开发（Android development）
   - 《Android 4 高级编程》[美] Reto Meier
 
+- 数据库（Database）
+  - 《SQL 基础教程》[日] MICK
+
 - 其它（Others）
   - 《计算机科学精粹》[巴西] Wladston Ferreira Filho - 讲述了常见的计算机概念，非常值得一读，拓宽自己的视野。
   - 《C++ API 设计》[美] Martin Redd
   - 《编程珠玑》[美] Jon Bentley
   - 《编码：隐匿在计算机软硬件背后的语言》[美] Charles Petzold
   - 《代码整洁之道》[美] 马丁（Robert C.Martin）
+  - 《松本行弘：编程语言的设计与实现》[日] 松本行弘
 
 ### 文学
 
@@ -229,7 +235,11 @@
 *Business.*
 
 - 《小米生态链战地笔记（精华版）》小米生态链谷仓学院
+- 《参与感：小米口碑营销内部手册》黎万强
+- 《一往无前：雷军亲述小米热血10年》范海涛
 - 《新版一分钟经理人》[美] 肯·布兰佳, 斯宾塞·约翰逊
+- 《黑客与画家》[美] 保罗·格雷厄姆
+- 《优秀的叛逆者：引领组织变革的力量》[美] Lois Kelly Carmen Medina / [美] Carmen Medina
 
 ### 哲学
 
