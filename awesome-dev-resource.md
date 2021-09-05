@@ -430,6 +430,7 @@
 - [GitHub Stats Visualization](https://github.com/jstrieb/github-stats)
 - [Star Charts](https://starchart.cc/) - GitHub 星数量趋势图。
 - [Git Awards](http://git-awards.com/) - Git 用户仓库统计排名信息。
+- [Markdown Badges](https://github.com/Ileriayo/markdown-badges)
 
 [`Go Top ↑`](#awesome-development-resources)
 
