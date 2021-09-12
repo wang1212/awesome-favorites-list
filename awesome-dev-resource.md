@@ -139,6 +139,7 @@
 - [牛客网](https://www.nowcoder.com/) - 在线刷题。
 - [Reverse interview](https://github.com/viraptor/reverse-interview) - 面试时候可以反问的一些问题。
 - [Coding Interview University](https://github.com/jwasham/coding-interview-university)
+- [Tech Interview Handbook](https://techinterviewhandbook.org/)
 
 ### 文章
 
