@@ -156,7 +156,7 @@ _see also 👉  [JS-构建工具](./awesome-web-front-end.md#构建工具)_
   - [Sinon.JS](https://sinonjs.org/) - 对复杂功能进行模拟，以更好的完成单元测试。
 
 - 模拟 API（Mock API）
-  - [JSON Server](https://github.com/typicode/json-serve) - 可快速启动一个提供 REST API 的服务器，并返回指定测试数据。  
+  - [JSON Server](https://github.com/typicode/json-server) - 可快速启动一个提供 REST API 的服务器，并返回指定测试数据。  
   - [Nock](https://github.com/nock/nock) - 模拟 API 服务，响应指定测试数据。
   - [Mock.js](http://mockjs.com/) - 模拟 API 服务，响应随机测试数据。
   - [Mock Service Worker](https://mswjs.io/) - 利用 `Service Worker` API 拦截请求并实现 Mock API。
