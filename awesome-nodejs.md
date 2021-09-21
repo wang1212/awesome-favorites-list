@@ -369,6 +369,8 @@ _see also 👉  [JS-工具库](./awesome-web-front-end.md#js-工具库) | [aweso
 
 - [ioredis](https://github.com/luin/ioredis) - 高性能、全功能的 Redis 客户端。
 
+- [lowdb](https://github.com/typicode/lowdb) - 本地 JSON 数据库。
+
 [`Go Top ↑`](#awesome-nodejs-list)
 
 ## Web 框架
