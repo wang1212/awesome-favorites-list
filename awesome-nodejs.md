@@ -331,6 +331,7 @@ _see also 👉  [JS-工具库](./awesome-web-front-end.md#js-工具库) | [aweso
   - [ora](https://github.com/sindresorhus/ora) - 终端 spinner 效果。 
   - [readlineSync](https://github.com/anseki/readline-sync) - 同步版本的 `readline`，命令行对话式交互。
   - [progress](https://github.com/visionmedia/node-progress) - 进度条。
+  - [tasuku](https://github.com/privatenumber/tasuku) - 任务运行器。
 
 * 可执行程序（Executable）
   * [pkg](https://github.com/vercel/pkg) - 将 Node.js 脚本打包成单个可执行文件。
