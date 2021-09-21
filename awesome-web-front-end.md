@@ -523,6 +523,7 @@ _see also 👉  [Node.JS-构建工具](.//awesome-nodejs.md#构建工具)_
 - [Spectrum Icons](https://spectrum.adobe.com/page/icons/) - Adobe Spectrum 设计系统图标，**Adobe 官方发布**。
 - [Font Awesome](https://fontawesome.com/) - 丰富的图标库，提供**免费版**。
 - [IconPark](https://iconpark.bytedance.com/official) - **开源免费**的图标库，**字节跳动公司发布**。
+- [flag-icons](https://flagicons.lipis.dev/) - **开源**的世界各国国旗图标，支持 SVG 与 CSS。
 
 ### UI 设计系统
 
