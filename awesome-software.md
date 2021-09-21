@@ -187,6 +187,7 @@
 - [Open Broadcaster Software](https://obsproject.com/) - 具有强大的录屏、截屏、流媒体传输等功能，**开源软件**。
 - [AIMP](http://www.aimp.ru/) - 专业级音频播放器，**免费软件**。
 - [Captura](https://mathewsachin.github.io/Captura/) - 轻量级、功能齐全的录屏、截屏软件，需安装 FFmpeg 依赖，**开源软件**。
+- [HandBrake](https://handbrake.fr/) - 视频格式转换工具，**免费软件**。
 
 ### 文件处理
 
