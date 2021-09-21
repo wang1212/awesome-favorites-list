@@ -307,6 +307,7 @@ _see also 👉  [Node.JS-工具库](.//awesome-nodejs.md#工具库)_
   - [localForage](https://github.com/localForage/localForage) - 离线存储，对 IndexedDB、WebSQL、localStorage 的封装。
   - [SQL.js](https://sql.js.org/)
   - [LokiJS](https://github.com/techfort/LokiJS) - 文档型内存数据库。
+  - [lowdb](https://github.com/typicode/lowdb) - 本地 JSON 数据库。
 
 - 多线程（Web Worker）
   - [Comlink](https://github.com/GoogleChromeLabs/comlink) - 使 `Web Worker` 的使用更加简单、方便，**Chrome 实验室发布**。
