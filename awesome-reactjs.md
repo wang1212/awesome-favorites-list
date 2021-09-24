@@ -83,15 +83,21 @@
 
 （Recommend）推荐一个其它的很棒的收藏列表，:point_right: https://github.com/rehooks/awesome-react-hooks
 
-- [react-use](https://github.com/streamich/react-use) - 一套 hook 工具包。
-- [React Query](https://github.com/tannerlinsley/react-query) - 服务器端数据获取、缓存、异步更新。
-- [SWR](https://swr.now.sh/) - 用于远程数据获取。
-- [React Hook Form](https://react-hook-form.com/) - 表单处理。
-- [Unform](https://unform.dev/) - 注重性能的表单处理工具。
-- [useWorker](https://useworker.js.org/) - 使用 Web Worker 运行复杂任务，创建非阻塞 UI。
-- [React Adaptive Loading Hooks & Utilities](https://github.com/GoogleChromeLabs/react-adaptive-hooks) - 检测客户端的状态，例如网络状态、媒体支持等。
-- [use-deep-compare-effect](https://github.com/kentcdodds/use-deep-compare-effect) - `useEffect` 的深比较模式。
-- [react-laag](https://www.react-laag.com/) - 创建工具提示或者弹出框。
+- 资源请求（Resource Request）
+  - [React Query](https://github.com/tannerlinsley/react-query) - 服务器端数据获取、缓存、异步更新。
+  - [SWR](https://swr.now.sh/) - 用于远程数据获取，更轻量。
+  - [axios-hooks](https://github.com/simoneb/axios-hooks) - 数据请求、缓存管理，**非 axios 官方发布**。
+
+- 表单（Form）
+  - [React Hook Form](https://react-hook-form.com/) - 表单处理。
+  - [Unform](https://unform.dev/) - 注重性能的表单处理工具。  
+
+- 其它（Others）
+  - [react-use](https://github.com/streamich/react-use) - 一套 hook 工具包。
+  - [React Adaptive Loading Hooks & Utilities](https://github.com/GoogleChromeLabs/react-adaptive-hooks) - 检测客户端的状态，例如网络状态、媒体支持等。
+  - [useWorker](https://useworker.js.org/) - 使用 Web Worker 运行复杂任务，创建非阻塞 UI。
+  - [use-deep-compare-effect](https://github.com/kentcdodds/use-deep-compare-effect) - `useEffect` 的深比较模式。
+  - [react-laag](https://www.react-laag.com/) - 创建工具提示或者弹出框。
 
 [`Go Top ↑`](#awesome-reactjs-list)
 
