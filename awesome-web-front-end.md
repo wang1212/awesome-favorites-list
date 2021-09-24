@@ -823,7 +823,7 @@ _see also 👉  [Node.JS-构建工具](.//awesome-nodejs.md#构建工具)_
 
 - [MobX](https://mobx.js.org/)
 
-- [Flux](https://facebook.github.io/flux/) - 应用状态管理，**Facebook 公司发布**。
+- [Flux](https://facebook.github.io/flux/) - 应用状态管理，**Facebook 公司发布**。（:warning: 不再积极更新）
 
 - [Immutable.js](https://immutable-js.github.io/immutable-js/) - 不可变数据。（:warning: 不再更新）
 - [Immer](https://immerjs.github.io/immer/) - 不可变数据。
