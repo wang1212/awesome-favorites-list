@@ -593,7 +593,7 @@ _see also 👉  [Node.JS-构建工具](.//awesome-nodejs.md#构建工具)_
   - [Flickity](https://flickity.metafizzy.co/)
   - [lory.js](http://loryjs.github.io/lory/) - 轻量级滑动组件。（:warning: 不再更新）
   - [keen-slider](https://keen-slider.io/) - 轻量级滑动组件。
-  - [Siema](https://pawelgrzybek.github.io/siema/) - 无任何依赖的轻量级轮播组件。
+  - [Siema](https://pawelgrzybek.github.io/siema/) - 无任何依赖的轻量级轮播组件。（:warning: 不再维护）
   - [Flicking](https://naver.github.io/egjs-flicking/)
  
 - Lightbox
