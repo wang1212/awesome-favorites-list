@@ -588,12 +588,12 @@ _see also 👉  [Node.JS-构建工具](.//awesome-nodejs.md#构建工具)_
 
 - 轮播（Carousel）
   - [Swiper](https://swiperjs.com/)
-  - [slick-carousel](https://kenwheeler.github.io/slick/)
-  - [Glider.js](https://nickpiscitelli.github.io/Glider.js/)
+  - [slick-carousel](https://kenwheeler.github.io/slick/) - 功能丰富的轮播组件。（:warning: 不再更新）
+  - [Glider.js](https://nickpiscitelli.github.io/Glider.js/) - 轻量级滑动组件。
   - [Flickity](https://flickity.metafizzy.co/)
-  - [lory.js](http://loryjs.github.io/lory/)
-  - [keen-slider](https://keen-slider.io/)
-  - [Siema](https://pawelgrzybek.github.io/siema/) - 无任何依赖的轻量轮播组件。
+  - [lory.js](http://loryjs.github.io/lory/) - 轻量级滑动组件。（:warning: 不再更新）
+  - [keen-slider](https://keen-slider.io/) - 轻量级滑动组件。
+  - [Siema](https://pawelgrzybek.github.io/siema/) - 无任何依赖的轻量级轮播组件。
   - [Flicking](https://naver.github.io/egjs-flicking/)
  
 - Lightbox
