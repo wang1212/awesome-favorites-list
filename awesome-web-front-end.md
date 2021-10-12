@@ -483,6 +483,8 @@ _see also 👉  [Node.JS-构建工具](.//awesome-nodejs.md#构建工具)_
 
 *Others tools.*
 
+- [Source Map](https://github.com/mozilla/source-map) - 生成和解析 `.map` 文件，调试压缩代码，**Mozilla 发布**。
+
 - [SystemJS](https://github.com/systemjs/systemjs) - 动态 ES Module 加载器。
 
 - 移动端调试（Mobile debugging）
