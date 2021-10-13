@@ -152,6 +152,7 @@ _see also 👉  [JS-构建工具](./awesome-web-front-end.md#构建工具)_
 - 测试（Test）
   - [Mocha](https://mochajs.org/)
   - [jest](https://jestjs.io/)
+    - [ts-jest](https://kulshekhar.github.io/ts-jest/) - 带 TypeScript 类型检查的 jest 编译转换器。
   - [supertest](https://github.com/visionmedia/supertest) - 基于 `superagent` 模块的 HTTP 断言。
   - [Sinon.JS](https://sinonjs.org/) - 对复杂功能进行模拟，以更好的完成单元测试。
 
