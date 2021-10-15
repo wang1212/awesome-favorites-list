@@ -822,13 +822,13 @@ _see also 👉  [Node.JS-构建工具](.//awesome-nodejs.md#构建工具)_
   - [Redux DevTools](https://github.com/reduxjs/redux-devtools) - Chrome 插件，调试工具，追踪状态变更日志，重放、快照等功能。
   - [Redux Toolkit](https://redux-toolkit.js.org/) - 集成大部分第三方库、预配置的工具套件，使 Redux 更易于使用，**官方发布**。
   - [Rematch](https://rematch.github.io/rematch/) - 对 Redux 进行了封装，提供更简单、更易理解、更容易使用的 API。
-
 - [MobX](https://mobx.js.org/)
-
 - [Flux](https://facebook.github.io/flux/) - 应用状态管理，**Facebook 公司发布**。（:warning: 不再积极更新）
+- [xstate](https://github.com/statelyai/xstate) - 基于状态机模型。
 
-- [Immutable.js](https://immutable-js.github.io/immutable-js/) - 不可变数据。（:warning: 不再更新）
-- [Immer](https://immerjs.github.io/immer/) - 不可变数据。
+- Tools
+  - [Immutable.js](https://immutable-js.github.io/immutable-js/) - 不可变数据。（:warning: 不再更新）
+  - [Immer](https://immerjs.github.io/immer/) - 不可变数据。
 
 [`Go Top ↑`](#awesome-web-front-end-list)
 
