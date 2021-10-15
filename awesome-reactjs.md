@@ -105,9 +105,11 @@
 
 *React application global state management and optimization.*
 
-- [React-Redux](https://react-redux.js.org/) - 为 React 应用提供 Redux 支持，**Redux 官方实现**。（[Redux 工具链](./awesome-web-front-end.md#应用状态管理)）
+- [React-Redux](https://react-redux.js.org/) - 为 React 应用提供 Redux 支持，**Redux 官方实现**。
+  - [Redux 工具链](./awesome-web-front-end.md#应用状态管理)
 - [Mobx-React](https://mobx-react.js.org/) - 为 React 应用提供 Mobx 支持，**Mbox 官方实现**。
 - [Recoil](https://recoiljs.org/) - 状态管理工具，**Facebook 官方发布**。
+- [@xstate/react](https://github.com/statelyai/xstate/tree/main/packages/xstate-react) - 基于状态机模型。
 
 - [Immutable.js](https://immutable-js.github.io/immutable-js/) - 不可变数据。（:warning: 不再更新）
 - [Immer](https://immerjs.github.io/immer/) - 不可变数据。
