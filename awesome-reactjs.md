@@ -81,7 +81,7 @@
 
 *Useful [React Hook](https://reactjs.org/docs/hooks-intro.html) tool.*
 
-（Recommend）推荐一个其它的很棒的收藏列表，:point_right: https://github.com/rehooks/awesome-react-hooks
+_（Recommend）推荐一个其它的很棒的收藏列表，:point_right: [rehooks/awesome-react-hooks](https://github.com/rehooks/awesome-react-hooks)_
 
 - 资源请求（Resource Request）
   - [React Query](https://github.com/tannerlinsley/react-query) - 服务器端数据获取、缓存、异步更新。
@@ -105,14 +105,19 @@
 
 *React application global state management and optimization.*
 
+_（Recommend）其它收藏列表 :point_right: [olegrjumin/awesome-react-state-management](https://github.com/olegrjumin/awesome-react-state-management)_
+
 - [React-Redux](https://react-redux.js.org/) - 为 React 应用提供 Redux 支持，**Redux 官方实现**。
   - [Redux 工具链](./awesome-web-front-end.md#应用状态管理)
 - [Mobx-React](https://mobx-react.js.org/) - 为 React 应用提供 Mobx 支持，**Mbox 官方实现**。
 - [Recoil](https://recoiljs.org/) - 状态管理工具，**Facebook 官方发布**。
 - [@xstate/react](https://github.com/statelyai/xstate/tree/main/packages/xstate-react) - 基于状态机模型。
+- [zustand](https://github.com/pmndrs/zustand) - 轻量级状态管理库,类似于 Redux。
+- [jotai](https://jotai.pmnd.rs/) - 轻量级状态管理库,类似于 Recoil。
 
-- [Immutable.js](https://immutable-js.github.io/immutable-js/) - 不可变数据。（:warning: 不再更新）
-- [Immer](https://immerjs.github.io/immer/) - 不可变数据。
+- Tools
+  - [Immutable.js](https://immutable-js.github.io/immutable-js/) - 不可变数据。（:warning: 不再更新）
+  - [Immer](https://immerjs.github.io/immer/) - 不可变数据。
 
 [`Go Top ↑`](#awesome-reactjs-list)
 
