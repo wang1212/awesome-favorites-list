@@ -109,8 +109,6 @@
 - [Mobx-React](https://mobx-react.js.org/) - 为 React 应用提供 Mobx 支持，**Mbox 官方实现**。
 - [Recoil](https://recoiljs.org/) - 状态管理工具，**Facebook 官方发布**。
 
-- [Mirror](https://github.com/mirrorjs/mirror) - 简单的 React 应用状态管理库。
-
 - [Immutable.js](https://immutable-js.github.io/immutable-js/) - 不可变数据。（:warning: 不再更新）
 - [Immer](https://immerjs.github.io/immer/) - 不可变数据。
 
