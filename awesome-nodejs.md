@@ -126,7 +126,9 @@ _see also 👉  [JS-构建工具](./awesome-web-front-end.md#构建工具)_
 - 编译器（Compiler）
   - [TS Node](https://github.com/TypeStrong/ts-node) - Node.js 的 TypeScript 语言运行器和交互式解释器。
   - [Neon](https://neon-bindings.com/) - Rust 的 Node.js 绑定，可用来编写快速、安全的原生模块。
-  - [Ruby2JS](https://www.ruby2js.com/) - Ruby 到 JavaScript 代码的转换器。
+  - Ruby to JavaScript
+    - [Opal](https://opalrb.com/)
+    - [Ruby2JS](https://www.ruby2js.com/) - Ruby 到现代 JavaScript 代码的转换器。
  
 - 配置（Config）
   - [dotenv](https://github.com/motdotla/dotenv) - 从 **.env** 文件为 Node.js 项目加载环境变量。
