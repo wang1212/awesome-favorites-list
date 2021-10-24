@@ -165,6 +165,7 @@
   - [Conic.css](https://conic.style/) - CSS 渐变。
   - [Glassmorphism CSS Generator](https://glassmorphism.com/) - 毛玻璃效果。
   - [Glassmorphism CSS Generator](https://ui.glass/generator/) - 毛玻璃效果。
+  - [Animated Backgrounds](https://animatedbackgrounds.me/) - CSS 动画背景。
 
 ### CSS 工具库
 
