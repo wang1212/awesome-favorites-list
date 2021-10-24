@@ -260,6 +260,7 @@ _see also 👉  [Node.JS-工具库](.//awesome-nodejs.md#工具库)_
 - 文档对象模型（DOM）
   - [jQuery](https://jquery.com/) - 前几年非常流行的 DOM 操作工具库，处理了兼容性的细节问题。
   - [Zepto.js](https://zeptojs.com/) - 兼容 jQuery API 的轻量级工具库，适合移动端使用。
+  - [cash-dom](https://github.com/fabiospampinato/cash) - 轻量级 DOM 工具库，可作为 jQuery 的替代，但仅支持现代浏览器。
   - [Lozad.js](https://github.com/ApoorvSaxena/lozad.js) - 轻量、高性能图片懒加载工具，使用了 [Intersection Observer API](https://developer.mozilla.org/en-US/docs/Web/API/Intersection_Observer_API)。
   - [clipboard.js](https://clipboardjs.com/) - 现代的粘贴板工具库。
   - [Tether](http://tether.io/) - 元素跟踪定位工具。
