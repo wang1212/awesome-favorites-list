@@ -648,12 +648,12 @@
 - [free-for.dev](https://free-for.dev/) - **免费**的开发资源服务列表。
 - [Cube.js](https://cube.dev/) - **开源**的 Web 应用分析解决方案。
 - [Counter](https://counter.dev/) - **开源免费**的 Web 站点统计分析平台。
+- [Ackee](https://ackee.electerious.com/) **开源**的可自托管的站点分析工具。
 - [screego](https://screego.net/#/) - 屏幕共享服务器。
 - [WireShark](https://www.wireshark.org/) - 协议分析工具，**开源免费**。
 - [Fiddler Everywhere](https://www.telerik.com/fiddler) - 抓包工具，**提供免费版本**。
 - [mitmproxy](https://www.mitmproxy.org/) - Python 开发的 HTTPS 代理，**开源免费**。
 - [hoppscotch](https://hoppscotch.io/) - 在线的 http 客户端工具。
-- [Opal](https://opalrb.com/) - 将 `Ruby` 代码编译为 `JavaScript` 代码的编译器。
 - [netdata](https://www.netdata.cloud/) - 系统指标监控 Web 平台，**开源免费**。
 - [Docusaurus](https://docusaurus.io/) - 快速建立优化的文档网站。
 - [Skia](https://skia.org/) - 2D 渲染引擎，在 Chrome、Chrome OS、Android、Flutter、Mozilla Firefox 等产品中使用。
