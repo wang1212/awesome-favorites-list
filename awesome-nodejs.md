@@ -215,6 +215,7 @@ _see also 👉  [JS-工具库](./awesome-web-front-end.md#js-工具库) | [aweso
 - 数据操作（Data Manipulation）
   - [Danfo.js](https://danfo.jsdata.org/) - 处理结构化数据的工具库，类似 Python 的 [Pandas](https://pandas.pydata.org/pandas-docs/stable/index.html)。
   - [bson](https://github.com/mongodb/js-bson) - BSON 格式数据解析器，**MongoDB 官方发布**。
+  - [construct-js](https://github.com/francisrstokes/construct-js) - Byte 级别数据操作工具库。
   
 - 数据加密、解密（Data encryption and decryption）
   - [bcrypt](https://github.com/kelektiv/node.bcrypt.js) - 生成密码哈希值。
