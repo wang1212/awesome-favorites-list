@@ -17,7 +17,6 @@
 - [技术参考文档（Technical Reference Document）](#技术参考文档)
 - [技术学习（Technical Learning）](#技术学习)
   - [面试（Interview）](#面试)
-  - [文章（Article）](#文章)
   - [学习（Learn）](#学习)
   - [论坛（Forum）](#论坛)
   - [期刊（Journal）](#期刊)
@@ -67,6 +66,15 @@
 
 *Technical practice specification, some best engineering practices recommended by the industry.*
 
+### 代码风格
+
+*Code styles.*
+
+- [SQL Style Guide](https://www.sqlstyle.guide/) - SQL 语句规范指南参考。
+- [Google Style Guides](https://google.github.io/styleguide/) - Google 代码风格指南。
+- [Specs vs. Tests](https://sites.google.com/site/unclebobconsultingllc/specs-vs-tests) - 如何看待测试。
+- [What is Better Specs](https://www.betterspecs.org/) - 编写更好的测试。
+
 ### 项目管理
 
 *Project management, such as version control, update logs, etc.*
@@ -79,15 +87,17 @@
 - [keep a changelog](https://keepachangelog.com/) - 项目内应始终存在一个 *CHANGELOG.md* 文件，并遵循一定的规范。
 - [ARCHITECTURE.md](https://matklad.github.io/2021/02/06/ARCHITECTURE.md.html) - 建议在开源项目中加入 *ARCHITECTURE.md* 文件。
 - [How to Build a CONTRIBUTING.md](https://mozillascience.github.io/working-open-workshop/contributing/) - 如何为开源项目构建 *CONTRIBUTING.md* 文件。
+- [A successful Git branching model](https://nvie.com/posts/a-successful-git-branching-model/) - 一个成功的 Git 分支模型。
+- [Advantages of monorepos](https://danluu.com/monorepo/) - `monorepos` 模式代码仓库的优点。
 
-### 代码风格
+### 软件与架构设计
 
-*Code styles.*
+*Software and architecture design. See also :point_right: [Awesome Software Architecture](https://mehdihadeli.github.io/awesome-software-architecture/)*
 
-- [SQL Style Guide](https://www.sqlstyle.guide/) - SQL 语句规范指南参考。
-- [Google Style Guides](https://google.github.io/styleguide/) - Google 代码风格指南。
-- [Specs vs. Tests](https://sites.google.com/site/unclebobconsultingllc/specs-vs-tests) - 如何看待测试。
-- [What is Better Specs](https://www.betterspecs.org/) - 编写更好的测试。
+- [https://12factor.net/](https://12factor.net/) - 开发应用的十二要素。
+- [c4model](https://c4model.com/) - 用于软件架构的 C4 模型。
+- [The System Design Primer](https://github.com/donnemartin/system-design-primer) - 学习构建大型系统。
+- [Superhero.js](http://superherojs.com/) - 构建大型 JavaScript 项目的一些技巧。
 
 ### 其它
 
@@ -95,7 +105,7 @@
 
 - [Google Engineering Practices Documentation](https://google.github.io/eng-practices/) - Google 工程实践文档。
 - [HTTP Status Codes](https://httpstatuses.com/) - HTTP 协议状态码列表。
-- [devops-exercises](https://github.com/bregman-arie/devops-exercises)
+- [devops-exercises](https://github.com/bregman-arie/devops-exercises) - DevOps 实践。
 - [中文文案排版指北](https://github.com/sparanoid/chinese-copywriting-guidelines) - 技术文档翻译排版。
 
 [`Go Top ↑`](#awesome-development-resources)
@@ -115,8 +125,8 @@
 - [COMMANDLINEFU.COM](https://www.commandlinefu.com/commands/browse) - 汇集了很多优秀的、充满智慧的、简洁的命令行命令。
 - [CODELF](https://unbug.github.io/codelf/) - 根据关键词查找开源项目中变量命名。
 - [Naming cheatsheet](https://github.com/kettanaito/naming-cheatsheet) - 变量命名指南。
-- [c4model](https://c4model.com/) - 用于软件架构的 C4 模型。
 - [OWASP Cheat Sheet Series](https://cheatsheetseries.owasp.org/) - 技术安全相关备忘单，由 OWASP 基金会维护。
+- [Conflict-free Replicated Data Type](https://crdt.tech/) - 一种数据结构，可简化分布式数据存储系统和多用户应用程序。
 
 [`Go Top ↑`](#awesome-development-resources)
 
@@ -141,19 +151,6 @@
 - [Coding Interview University](https://github.com/jwasham/coding-interview-university)
 - [Tech Interview Handbook](https://techinterviewhandbook.org/)
 
-### 文章
-
-*Some guiding articles related to software development.*
-
-- [The Art of Command Line](https://github.com/jlevy/the-art-of-command-line) - 命令行的艺术，技巧。
-- [A successful Git branching model](https://nvie.com/posts/a-successful-git-branching-model/) - 一个成功的 Git 分支模型。
-- [Superhero.js](http://superherojs.com/) - 构建大型项目的一些技巧。
-- [Conflict-free Replicated Data Type](https://crdt.tech/) - 一种数据结构，可简化分布式数据存储系统和多用户应用程序。
-- [WebGL Guide](https://xem.github.io/articles/webgl-guide.html) - WebGL 技术指南。
-- [WebGL Fundamentals](https://webglfundamentals.org/) - WebGL 基础知识。
-- [Perfection Kills](http://perfectionkills.com/)	
-- [Advantages of monorepos](https://danluu.com/monorepo/) - `monorepos` 模式代码仓库的优点。
-
 ### 学习
 
 *Resource websites such as learning tutorials and courses.*
@@ -162,11 +159,11 @@
 - [Hackr.io](https://hackr.io/) - 在线教程。
 - [RealWorld example apps](https://github.com/gothinkster/realworld) - 不同技术栈实现相同的前后端应用示例代码。
 - [build-your-own-x](https://github.com/danistefanovic/build-your-own-x) - 自己构建某种技术的教程。
-- [The System Design Primer](https://github.com/donnemartin/system-design-primer) - 学习构建大型系统。
 - [TodoMVC](http://todomvc.com/) - 构建 MV* 应用的技术选型推荐。
-- [Awesome Software Architecture](https://mehdihadeli.github.io/awesome-software-architecture/) - 软件架构参考。
-- [https://12factor.net/](https://12factor.net/) - 开发应用的十二要素。
-- [Codewars](https://www.codewars.com/) - 通过挑战解决代码问题提高编码水平。
+- [The Art of Command Line](https://github.com/jlevy/the-art-of-command-line) - 命令行的艺术，技巧。
+- [WebGL Guide](https://xem.github.io/articles/webgl-guide.html) - WebGL 技术指南。
+- [WebGL Fundamentals](https://webglfundamentals.org/) - WebGL 基础知识。
+- [Perfection Kills](http://perfectionkills.com/)	
 
 #### 算法与数据结构
 
@@ -175,12 +172,13 @@
 - [The Algorithms](https://the-algorithms.com/) - 学习算法和数据结构及其在多个语言中的实现。
 - [VisuAlgo](https://visualgo.net/zh) - 可视化算法过程。
 - [Pathfinding Visualizer](https://josephprichard.github.io/Pathfinder/) - 寻路算法可视化工具。
+- [Data Structure Visualizations](https://www.cs.usfca.edu/~galles/visualization/) - 数据结构可视化。
 
-#### 软件架构设计
+#### 编码练习
 
-*Software architecture design.*
+*Some coding exercises and challenges website.*
 
-- [c4model](https://c4model.com/) - 用于软件架构的 C4 模型。
+- [Codewars](https://www.codewars.com/) - 通过挑战解决代码问题提高编码水平。
 
 ### 论坛
 
