@@ -646,6 +646,7 @@
 - [free-for.dev](https://free-for.dev/) - **免费**的开发资源服务列表。
 - [Cube.js](https://cube.dev/) - **开源**的 Web 应用分析解决方案。
 - [Counter](https://counter.dev/) - **开源免费**的 Web 站点统计分析平台。
+- [Splitbee](https://splitbee.io/) - Web 站点分析统计平台，个人项目免费。
 - [Ackee](https://ackee.electerious.com/) **开源**的可自托管的站点分析工具。
 - [screego](https://screego.net/#/) - 屏幕共享服务器。
 - [WireShark](https://www.wireshark.org/) - 协议分析工具，**开源免费**。
