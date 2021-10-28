@@ -172,6 +172,7 @@ _（Recommend）其它收藏列表 :point_right: [olegrjumin/awesome-react-state
 - [Ant Design of React](https://ant.design/docs/spec/introduce-cn)
 - [Semantic UI](https://react.semantic-ui.com/) - 非常受欢迎的组件库。（:warning: 不再更新）
 - [Mantine](https://mantine.dev/) - 全功能的组件库和 Hook 库。
+- [react-desktop](http://reactdesktop.js.org/) - 桌面端 UI 组件库，基于 macOS Sierra 和 Windows 10 主题设计。
 
 ### 独立组件
 
@@ -194,6 +195,9 @@ _（Recommend）其它收藏列表 :point_right: [olegrjumin/awesome-react-state
 
 - 文件上传（File Upload）
   - [react-dropzone](https://react-dropzone.js.org/) - 文件上传组件，支持 Hook API。
+
+- 轮播（Carousel）
+  - [react-slick](https://react-slick.neostack.com/)
 
 - 图片（Image）
   - [React Carousel Image Gallery](https://github.com/xiaolin/react-image-gallery) - 图片轮播组件。
@@ -268,6 +272,7 @@ _（Recommend）其它收藏列表 :point_right: [olegrjumin/awesome-react-state
 - [react-three-fiber](https://github.com/react-spring/react-three-fiber) - 可视化库，React.js 的 Threejs 渲染器。
 - [React Financial Charts](https://github.com/reactivemarkets/react-financial-charts) - 图表库，股票蜡烛图。
 - [react-flow](https://reactflow.dev/) - 可视化工具库，构建流程图等。
+- [react-chartjs-2](https://github.com/reactchartjs/react-chartjs-2)
 
 [`Go Top ↑`](#awesome-reactjs-list)
 
