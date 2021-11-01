@@ -347,6 +347,8 @@ _see also 👉  [Node.JS-工具库](.//awesome-nodejs.md#工具库)_
   - docx
     - [docx](https://github.com/dolanmiu/docx) - 生成 docx 文档。
     - [mammoth](https://github.com/mwilliamson/mammoth.js) - docx 转换成 HTML。
+  - pptx
+    - [PptxGenJS](https://gitbrent.github.io/PptxGenJS/) - 生成 `pptx` 文件。
   - pdf
     - [PDF-LIB](https://pdf-lib.js.org/) - 解析和操作 PDF 文件。
     - [jsPDF](https://github.com/MrRio/jsPDF) - Web 客户端生成 PDF 文件。
