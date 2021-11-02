@@ -281,6 +281,10 @@ _see also 👉  [Node.JS-工具库](.//awesome-nodejs.md#工具库)_
   - [Hotkey](https://github.com/github/hotkey) - 处理键盘事件。
   - [Selecto.js](https://github.com/daybrush/selecto) - 拖动选择元素，支持鼠标和触摸事件。
 
+- Cookie
+  - [js-cookie](https://github.com/js-cookie/js-cookie) - 轻量的 Cookie 处理工具库。
+  - [universal-cookie](https://github.com/reactivestack/cookies/tree/master/packages/universal-cookie)
+
 - 数据与缓存（Data && Cache）
   - [crypto-js](https://github.com/brix/crypto-js) - JavaScript 加密库。
   - [https://github.com/digitalbazaar/forge](https://www.npmjs.com/package/node-forge) - JavaScript 加密库。
