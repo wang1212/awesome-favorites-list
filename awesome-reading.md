@@ -180,6 +180,7 @@
   - [《High Performance Browser Networking》](https://hpbn.co/) Ilya Grigorik - 高性能网络，**免费书籍**。
   - 《前端架构设计》[美] Micah Godbolt - 很好的 Web 前端工程化实践参考。
   - [《CSS Animation 101》](https://github.com/cssanimation/css-animation-101) - 学习 CSS 动画，**开源书籍**。
+  - 《CSS 揭秘》[希] Lea Verou
   
 - 安卓开发（Android development）
   - 《Android 4 高级编程》[美] Reto Meier
