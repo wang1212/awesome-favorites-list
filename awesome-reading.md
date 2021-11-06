@@ -168,8 +168,7 @@
   - 《数据结构与算法分析：C语言描述》[美] Mark Allen Weiss
   - 《算法图解》[美] Aditya Bhargava
   
-- 软件架构（Software Architecture）
-  - [*Software Architecture Books*](https://github.com/mhadidg/software-architecture-books) - *软件架构相关书籍列表。*
+- 软件架构（Software Architecture）[:point_right: *Software Architecture Books*](https://github.com/mhadidg/software-architecture-books) - *软件架构相关书籍列表。*
   - 《架构之美：行业思想领袖揭秘软件设计之美》[美] Diomidis Spinellis, Georgios Gousios
   - [《Kubernetes Handbook——Kubernetes 中文指南/云原生应用架构实践手册》](https://jimmysong.io/kubernetes-handbook/) - 云原生实践，**开源书籍**。
   
