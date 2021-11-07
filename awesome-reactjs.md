@@ -301,6 +301,7 @@ _（Recommend）其它收藏列表 :point_right: [olegrjumin/awesome-react-state
 - 其它（Others）
   - [react-fast-compare](https://formidable.com/open-source/react-fast-compare/) - React 组件的高性能深度比较，可替代 `lodash.isEqual`。
   - [Gatsby](https://www.gatsbyjs.org/) - 静态站点生成器，基于 React.js 的开源框架，可快速开发 Web 网站和应用。
+  - [react-error-boundary](https://github.com/bvaughn/react-error-boundary) - 简单的可重用 React 错误边界组件。
 
 ## 文章
 
