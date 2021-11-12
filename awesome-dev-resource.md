@@ -344,6 +344,7 @@
 - [Flat Icon](https://www.flaticon.com/) - 图标市场。
 - [Inspyr Icon](https://inspyr.io/) - SVG 图标。
 - [Icons8](https://icons8.com/) - 免费图标，设计工具。
+- [IconKitchen](https://icon.kitchen/) - App 图标设计工具。
 - [Font Pair](https://fontpair.co/) - 排版工具。
 - [Vecteezy](https://www.vecteezy.com/) - 图片素材。
 - [MixKit](https://mixkit.co/free-stock-art/) - 图片素材。
