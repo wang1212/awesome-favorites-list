@@ -326,6 +326,7 @@ _see also 👉  [JS-工具库](./awesome-web-front-end.md#js-工具库) | [aweso
 - 命令行应用开发（CLI App Dev）
   - [minimist](https://github.com/substack/minimist) - 命令行参数解析器。
   - [Caporal](https://github.com/mattallty/Caporal.js) - 全功能命令行应用开发框架。
+  - [oclif](https://oclif.io/) - 命令行工具开发框架。
   - [commander](https://github.com/tj/commander.js) - 简单的命令行接口。
   - [meow](https://github.com/sindresorhus/meow) - 命令行应用开发工具包。
   - [Gluegun](https://github.com/infinitered/gluegun) - 命令行应用开发工具包。
