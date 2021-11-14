@@ -342,6 +342,7 @@
 - [logofury](https://www.logofury.com/) - logo 设计。
 - [Free Favicon Maker](https://formito.com/tools/favicon) - SVG 图标制作。
 - [Flat Icon](https://www.flaticon.com/) - 图标市场。
+- [iconsax](https://iconsax.io/) - 可免费商用的图标库。
 - [Inspyr Icon](https://inspyr.io/) - SVG 图标。
 - [Icons8](https://icons8.com/) - 免费图标，设计工具。
 - [IconKitchen](https://icon.kitchen/) - App 图标设计工具。
