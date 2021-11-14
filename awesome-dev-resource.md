@@ -416,6 +416,7 @@
 - [Powerline fonts](https://github.com/powerline/fonts)
 - [Source Code Pro](https://github.com/adobe-fonts/source-code-pro) - 等宽字体，适合编程使用，**Adobe 出品，开源**。
 - [JetBrains Mono](https://www.jetbrains.com/lp/mono/) - 等宽字体，适合编程使用，**JetBrains 出品，开源**。
+- [CodingFont](https://www.codingfont.com/) - 根据测试选择适合自己的编程字体。
 
 ### 徽章图标服务
 
