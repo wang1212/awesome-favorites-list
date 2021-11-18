@@ -87,7 +87,6 @@
   - [jspm](https://jspm.org/)
 
 - 包开发（Package Development）
-  - [Rollup](http://rollupjs.org/) - 打包工具，适合开发库、框架。
   - [np](https://github.com/sindresorhus/np) - `npm publish` 的替代工具库，让发布更优雅、安全。
   - [Denoify](https://github.com/garronej/denoify) - 为 npm 模块作者提供 Deno 支持。
 
@@ -124,13 +123,6 @@ _see also 👉  [JS-构建工具](./awesome-web-front-end.md#构建工具)_
   - [ESDoc](https://esdoc.org/)
   - [typedoc](https://typedoc.org/) - 生成 TypeScript 项目文档。
 
-- 编译器（Compiler）
-  - [TS Node](https://github.com/TypeStrong/ts-node) - Node.js 的 TypeScript 语言运行器和交互式解释器。
-  - [Neon](https://neon-bindings.com/) - Rust 的 Node.js 绑定，可用来编写快速、安全的原生模块。
-  - Ruby to JavaScript
-    - [Opal](https://opalrb.com/)
-    - [Ruby2JS](https://www.ruby2js.com/) - Ruby 到现代 JavaScript 代码的转换器。
- 
 - 配置（Config）
   - [dotenv](https://github.com/motdotla/dotenv) - 从 **.env** 文件为 Node.js 项目加载环境变量。
   - [node-config](https://github.com/lorenwest/node-config)
@@ -138,10 +130,7 @@ _see also 👉  [JS-构建工具](./awesome-web-front-end.md#构建工具)_
 - 环境变量（Environment variable）
   - [cross-env](https://github.com/kentcdodds/cross-env) - 为 npm 脚本配置和使用环境变量提供跨平台支持。
   - [Envalid](https://github.com/af/envalid) - 环境变量校验。
-  
-- 调试（Debug）
-  - [debug](https://github.com/visionmedia/debug) - 打印 debug 日志。
-  
+
 - 日志（Log）
   - [log4js](https://github.com/log4js-node/log4js-node) - 日志记录。
   - [winston](https://github.com/winstonjs/winston) - 简单通用的日志库。
@@ -149,6 +138,9 @@ _see also 👉  [JS-构建工具](./awesome-web-front-end.md#构建工具)_
   - [tslog](https://tslog.js.org/)
   - [bunyan](https://github.com/trentm/node-bunyan)
   - [Cabin](https://cabinjs.com/)
+
+- 调试（Debug）
+  - [debug](https://github.com/visionmedia/debug) - 打印 debug 日志。
   
 - 性能分析（profiling ）
   - [0x](https://github.com/davidmarkclements/0x)
@@ -182,6 +174,16 @@ _see also 👉  [JS-构建工具](./awesome-web-front-end.md#构建工具)_
     - [PM2](https://pm2.keymetrics.io/) - Node 应用生产环境进程管理工具，支持集群、负载、远程部署，提供收费服务的实时监控平台。
     - [StrongLoop-PM](http://strong-pm.io/) - Node 应用生产环境进程管理工具。（⚠️ 不再积极开发）
     - [cluster-service](https://github.com/godaddy/node-cluster-service)
+
+- 编译器（Compiler）
+  - [TS Node](https://github.com/TypeStrong/ts-node) - Node.js 的 TypeScript 语言运行器和交互式解释器。
+  - [Neon](https://neon-bindings.com/) - Rust 的 Node.js 绑定，可用来编写快速、安全的原生模块。
+  - Ruby to JavaScript
+    - [Opal](https://opalrb.com/)
+    - [Ruby2JS](https://www.ruby2js.com/) - Ruby 到现代 JavaScript 代码的转换器。
+
+- 打包工具（Bundler）
+  - [Rollup](http://rollupjs.org/) - 打包工具，适合开发库、框架。
 
 - 其它（Others）
   - [esm](https://github.com/standard-things/esm) - 能够为 `.js` 文件提供 [ECMAScript Modules](https://tc39.es/ecma262/#sec-modules) 支持。
