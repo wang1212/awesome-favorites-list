@@ -451,14 +451,19 @@ _see also 👉  [Node.JS-构建工具](.//awesome-nodejs.md#构建工具)_
 
 *Code compilation conversion.*
 
-- [Babel](https://babeljs.io/) - 编译工具，可将 TypeScript、ES6/7/8 代码编译为 JavaScript（ES5） 代码。
-- [Sass](https://sass-lang.com/) - CSS 预处理器，可提供类似编程语言的能力（变量、方法、作用域、嵌套）来编写 CSS。
-  - [Sass Guidelines](https://sass-guidelin.es/) - Sass 语法风格指南，**非官方**。
-- [PostCSS](https://postcss.org/) - CSS 后处理器，提供众多插件来实现还未被广泛实现和标准化的 CSS 功能特性，最终将其编译为目标平台支持的 CSS 代码。
-  - [postcss-normalize](https://github.com/csstools/postcss-normalize)    
-- CSS In JS
-  - [JSS](https://cssinjs.org) - 一种 CSS-in-JS 的解决方案。
-  - [styled components](https://www.styled-components.com) - 一种 CSS-in-JS 的解决方案。
+- JavaScript / TypeScript
+  - [Babel](https://babeljs.io/) - 编译工具，可将 TypeScript、ES6/7/8 代码编译为 JavaScript（ES5） 代码。
+  - [esbuild](https://esbuild.github.io/) - Go 编写的代码编译转换和打包工具。
+  - [swc](https://swc.rs/) - Rust 编写的代码编译转换工具，可替代 Babel。
+
+- CSS / Less / Sass
+  - [Sass](https://sass-lang.com/) - CSS 预处理器，可提供类似编程语言的能力（变量、方法、作用域、嵌套）来编写 CSS。
+    - [Sass Guidelines](https://sass-guidelin.es/) - Sass 语法风格指南，**非官方**。
+  - [PostCSS](https://postcss.org/) - CSS 后处理器，提供众多插件来实现还未被广泛实现和标准化的 CSS 功能特性，最终将其编译为目标平台支持的 CSS 代码。
+    - [postcss-normalize](https://github.com/csstools/postcss-normalize)    
+  - CSS In JS
+    - [JSS](https://cssinjs.org) - 一种 CSS-in-JS 的解决方案。
+    - [styled components](https://www.styled-components.com) - 一种 CSS-in-JS 的解决方案。
 
 ### 代码静态分析
 
