@@ -446,14 +446,14 @@ _see also 👉  [Node.JS-构建工具](.//awesome-nodejs.md#构建工具)_
   
 - [Gulp](https://gulpjs.com/)
 - [Grunt](https://gruntjs.com/)  
-  
+- [esbuild](https://esbuild.github.io/) - Go 编写的代码编译转换和打包工具。
+
 ### 编译器
 
 *Code compilation conversion.*
 
 - JavaScript / TypeScript
   - [Babel](https://babeljs.io/) - 编译工具，可将 TypeScript、ES6/7/8 代码编译为 JavaScript（ES5） 代码。
-  - [esbuild](https://esbuild.github.io/) - Go 编写的代码编译转换和打包工具。
   - [swc](https://swc.rs/) - Rust 编写的代码编译转换工具，可替代 Babel。
 
 - CSS / Less / Sass
