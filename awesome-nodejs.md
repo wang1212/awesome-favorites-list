@@ -144,6 +144,7 @@ _see also 👉  [JS-构建工具](./awesome-web-front-end.md#构建工具)_
   
 - 性能分析（profiling ）
   - [0x](https://github.com/davidmarkclements/0x)
+  - [clinic.js](https://clinicjs.org/) - 性能分析、监控、指标收集。
 
 - 测试（Test）
   - [Mocha](https://mochajs.org/)
