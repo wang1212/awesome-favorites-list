@@ -127,6 +127,7 @@ _（Recommend）其它收藏列表 :point_right: [olegrjumin/awesome-react-state
 
 - [React-Router](https://reacttraining.com/react-router/)
 - [Reach Router](https://reach.tech/router)
+- [react-location](https://github.com/tannerlinsley/react-location)
 
 [`Go Top ↑`](#awesome-reactjs-list)
 
