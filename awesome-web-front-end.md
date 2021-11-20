@@ -742,7 +742,7 @@ _see also 👉  [Node.JS-构建工具](.//awesome-nodejs.md#构建工具)_
 - [Apexcharts](https://apexcharts.com/) - 图表库。
 - [sigma.js](http://sigmajs.org/) - 图形网络库。
 - [Cytoscape.js](https://js.cytoscape.org/) - 用于可视化和分析的图论（网络）库。
-- [uPlot](https://github.com/leeoniya/uPlot) - 快速、轻量级的图标库。
+- [uPlot](https://github.com/leeoniya/uPlot) - 快速、轻量级的图表库。
 - [Charts.css](https://chartscss.org/) - CSS 图表库。
 - [billboard.js](https://naver.github.io/billboard.js/) - 基于 D3.js 的图表库。
 - [vizzu](https://github.com/vizzuhq/vizzu-lib) - 可视化和交互式动画图表。
