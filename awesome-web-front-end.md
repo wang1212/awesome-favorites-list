@@ -611,6 +611,7 @@ _see also 👉  [Node.JS-构建工具](.//awesome-nodejs.md#构建工具)_
   - [keen-slider](https://keen-slider.io/) - 轻量级滑动组件。
   - [Siema](https://pawelgrzybek.github.io/siema/) - 无任何依赖的轻量级轮播组件。（:warning: 不再维护）
   - [Flicking](https://naver.github.io/egjs-flicking/)
+  - [splide.js](https://splidejs.com/) - 轻量的轮播组件。
  
 - Lightbox
   - [GLightbox](https://github.com/biati-digital/glightbox)
