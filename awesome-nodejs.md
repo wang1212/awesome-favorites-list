@@ -88,6 +88,7 @@
 
 - 包开发（Package Development）
   - [np](https://github.com/sindresorhus/np) - `npm publish` 的替代工具库，让发布更优雅、安全。
+  - [auto](https://intuit.github.io/auto/index) - 自动化发布。
   - [Denoify](https://github.com/garronej/denoify) - 为 npm 模块作者提供 Deno 支持。
 
 - [Monorepo](https://en.wikipedia.org/wiki/Monorepo) 工具（Monorepo Tools）
