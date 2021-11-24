@@ -275,8 +275,6 @@ _see also 👉  [Node.JS-工具库](.//awesome-nodejs.md#工具库)_
 - 事件（Event）
   - [Hammer.js](http://hammerjs.github.io/) - 支持移动端触摸事件，以及手势操作、多点触控。
   - [interact.js](https://interactjs.io/) - 同上。
-  - [Dragula](https://bevacqua.github.io/dragula/) - 拖放事件处理，可用于列表项的拖放、顺序调整等。
-  - [SortableJS](https://sortablejs.github.io/Sortable/) - 列表项拖放调整辅助库，支持 React.js、Vue.js 等。
   - [Mousetrap](https://github.com/ccampbell/mousetrap) - 处理键盘事件。
   - [Hotkeys](https://wangchujiang.com/hotkeys/) - 处理键盘事件。
   - [Hotkey](https://github.com/github/hotkey) - 处理键盘事件。
@@ -655,14 +653,16 @@ _see also 👉  [Node.JS-构建工具](.//awesome-nodejs.md#构建工具)_
   - [DropzoneJS](https://www.dropzonejs.com/) - 文件上传组件，支持拖放文件、图片预览功能。
 
 - 拖拽布局（Drag Layout）
-  - [Muuri](https://muuri.dev/)
-  - [Packery](https://packery.metafizzy.co/) 
+  - [Muuri](https://muuri.dev/) - 支持拖放布局、过滤动画等。
+  - [Packery](https://packery.metafizzy.co/) - 需**商业许可**。
   - [gridstack.js](https://gridstackjs.com/)
-  - [DragSelect](https://dragselect.com/) - 拖拽选择。
+  - [DragSelect](https://dragselect.com/) - 拖放布局，拖拽框选。
   - [plain-draggable](https://anseki.github.io/plain-draggable/)
   
 - 列表（List）
   - [List.js](https://listjs.com/) - 为列表提供过滤、排序等功能。
+  - [Dragula](https://bevacqua.github.io/dragula/) - 支持拖放排序的列表组件。
+  - [SortableJS](https://sortablejs.github.io/Sortable/) - 支持拖放排序的列表组件，支持 React.js、Vue.js 等。  
   
 - 过滤器（Filter）
   - [Isotope](https://isotope.metafizzy.co/) - 列表过滤动画。
