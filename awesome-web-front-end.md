@@ -658,6 +658,7 @@ _see also 👉  [Node.JS-构建工具](.//awesome-nodejs.md#构建工具)_
   - [gridstack.js](https://gridstackjs.com/)
   - [DragSelect](https://dragselect.com/) - 拖放布局，拖拽框选。
   - [plain-draggable](https://anseki.github.io/plain-draggable/)
+  - [draggable](https://shopify.github.io/draggable/)
   
 - 列表（List）
   - [List.js](https://listjs.com/) - 为列表提供过滤、排序等功能。
