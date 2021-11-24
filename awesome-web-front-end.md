@@ -661,7 +661,7 @@ _see also 👉  [Node.JS-构建工具](.//awesome-nodejs.md#构建工具)_
   
 - 列表（List）
   - [List.js](https://listjs.com/) - 为列表提供过滤、排序等功能。
-  - [Dragula](https://bevacqua.github.io/dragula/) - 支持拖放排序的列表组件。
+  - [Dragula](https://bevacqua.github.io/dragula/) - 支持拖放排序的列表组件。（:warning: 不再维护）
   - [SortableJS](https://sortablejs.github.io/Sortable/) - 支持拖放排序的列表组件，支持 React.js、Vue.js 等。  
   
 - 过滤器（Filter）
