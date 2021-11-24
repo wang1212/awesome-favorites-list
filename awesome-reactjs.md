@@ -212,10 +212,11 @@ _（Recommend）其它收藏列表 :point_right: [olegrjumin/awesome-react-state
 
 - 拖拽（Draggable）
   - [react-beautiful-dnd](https://react-beautiful-dnd.netlify.app/)
+  - [react-grid-layout](https://github.com/react-grid-layout/react-grid-layout) - 拖放布局，调整大小。
+    - [React-Draggable](https://github.com/STRML/react-draggable) - 让组件位置可以被拖动调整布局。 
   - [React DnD](https://react-dnd.github.io/react-dnd/)
-  - [React-Draggable](https://github.com/STRML/react-draggable) - 让组件位置可以被拖动调整。
   - [dnd kit](https://dndkit.com/) - 轻量、高性能的拖放组件。
-  - [react-rnd](https://github.com/bokuweb/react-rnd)
+  - [react-rnd](https://github.com/bokuweb/react-rnd)- 拖放，调整大小。
 
 - 大量数据渲染（Large amount of data rendering）
   - [react-virtualized](https://bvaughn.github.io/react-virtualized/)
