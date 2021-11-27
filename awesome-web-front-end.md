@@ -329,6 +329,7 @@ _see also 👉  [Node.JS-工具库](.//awesome-nodejs.md#工具库)_
   - [Paper.js](http://paperjs.org/) - 矢量绘图工具。
   - [Fabric.js](http://fabricjs.com/) - 矢量绘图工具。
   - [Pencil.js](https://pencil.js.org/) - 2D 绘图库。
+  - [signature_pad](https://szimek.github.io/signature_pad/) - 手写签名。
 
 - 二维码（QR Code）
   - [node-qrcode](https://github.com/soldair/node-qrcode) - 二维码生成。
