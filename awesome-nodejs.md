@@ -102,6 +102,7 @@
   - [OpenBase JavaScript](https://openbase.com/) - npm 模块分类排名。
   - [Npm Trends](https://www.npmtrends.com/) - 可以查询对比多个 Npm 包的下载流量数据、star 数目等。
   - [Moiva](https://moiva.io/) - 比较 Github 和 npm 包下载趋势，关注度等等。
+  - [PickBetterPack](https://pickbetterpack.com/) 根据 `package.json` 文件分析已安装包的相似的依赖包。
   - [Npm Charts](https://npmcharts.com/) - 可以查询对比多个 Npm 包的下载流量数据、star 数目等。
   - [BUNDLEPHOBIA](https://bundlephobia.com/) - 分析 npm 包大小和依赖关系。
   - [Package Phobia](https://packagephobia.com/) - 分析 npm 包大小。
