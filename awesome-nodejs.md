@@ -154,6 +154,7 @@ _see also 👉  [JS-构建工具](./awesome-web-front-end.md#构建工具)_
     - [ts-jest](https://kulshekhar.github.io/ts-jest/) - 带 TypeScript 类型检查的 jest 编译转换器。
   - [supertest](https://github.com/visionmedia/supertest) - 基于 `superagent` 模块的 HTTP 断言。
   - [Sinon.JS](https://sinonjs.org/) - 对复杂功能进行模拟，以更好的完成单元测试。
+  - [Polly.js](https://netflix.github.io/pollyjs/#/) - HTTP 模拟。
 
 - 模拟 API（Mock API）
   - [JSON Server](https://github.com/typicode/json-server) - 可快速启动一个提供 REST API 的服务器，并返回指定测试数据。  
