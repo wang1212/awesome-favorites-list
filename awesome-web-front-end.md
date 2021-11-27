@@ -765,6 +765,13 @@ _see also 👉  [Node.JS-构建工具](.//awesome-nodejs.md#构建工具)_
   - [Whirl](https://whirl.netlify.app/) - CSS Loading 动画。
   - [Transition.css](https://transition.style/) - CSS 过渡动画。
 
+- SVG
+  - [vivus.js](https://github.com/maxwellito/vivus) - 为 SVG 提供动画效果。
+  - [SVG.js](https://svgjs.dev/) - 轻量级 SVG 动画库。
+  - [Snap.svg](http://snapsvg.io/)
+  - [bonsai.js](https://bonsaijs.org/) - SVG 渲染器。
+  - [lazy line painter](http://lazylinepainter.info/) - SVG 路径动画。
+
 - JavaScript
   - [Anime.js](https://animejs.com/) - 动画引擎，轻量的 JavaScript 动画工具库。
   - [Velocity.js](http://velocityjs.org/) - 动画引擎，为元素提供动画效果。
@@ -775,8 +782,6 @@ _see also 👉  [Node.JS-构建工具](.//awesome-nodejs.md#构建工具)_
   - [tween.js](https://createjs.com/tweenjs) - 动画工具库。
   - [ScrollReveal](https://scrollrevealjs.org/) - 为滚动进入视区的元素提供动画效果。
   - [lax.js](https://github.com/alexfoxy/laxxx) - 简单、轻量的工具库，创建平滑的滚动动画。
-  - [vivus.js](https://github.com/maxwellito/vivus) - 为 SVG 提供动画效果。
-  - [SVG.js](https://svgjs.dev/) - 轻量级 SVG 动画库。
   - [Typed.js](https://github.com/mattboldt/typed.js) - 为输入框输入提供动画效果。
   - [Rough Notation](https://roughnotation.com/) - 为元素提供注释效果和动画。
   - [Rellax](https://dixonandmoe.com/rellax/) - 元素滚动视差效果工具库。
