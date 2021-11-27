@@ -600,6 +600,7 @@ _see also 👉  [Node.JS-构建工具](.//awesome-nodejs.md#构建工具)_
 - 表单组件（Form）
   - [Cleave.js](https://nosir.github.io/cleave.js/) - 格式化输入框。
   - [imask.js](https://imask.js.org/)
+  - [tagify](https://yaireo.github.io/tagify/) - 标签输入框。
   - [flatpickr](https://flatpickr.js.org/) - 时间日期选择器。
   - [layDate](https://www.layui.com/laydate/) - 时间日期选择器。
 
