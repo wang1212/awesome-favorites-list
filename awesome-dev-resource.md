@@ -29,7 +29,7 @@
   - [编程字体（Programming Font）](#编程字体)
   - [徽章图标服务（Badge Icon Service）](#徽章图标服务)
 - [软件工具（Software Tools）](#软件工具)
-  - [Chrome 扩展程序（Chrome Extension）](#Chrome 扩展程序) 
+  - [Chrome 扩展程序（Chrome Extension）](#chrome-扩展程序) 
   - [测试（Test）](#测试)
   - [代码编辑器/IDE（Code editor/IDE）](#代码编辑器ide)
   - [源代码管理（Source Code Management）](#源代码管理)
