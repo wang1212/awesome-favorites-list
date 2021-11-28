@@ -222,9 +222,10 @@
 
 *Editor.*
 
-- [Typora](https://www.typora.io/) - Markdown 文本编辑器，很漂亮，功能很强大，**测试版免费，1.0.0 开始收费**。
 - [Zettlr](https://www.zettlr.com/) - Markdown 文本编辑器，很漂亮，功能很强大，**开源软件**。
 - [Mark Text](https://marktext.app/) - Markdown 文本编辑器，轻量、简单，**开源软件**。
+- [remarkableapp](https://remarkableapp.github.io/index.html) - Markdown 文本编辑器，目前主要支持 Linux 平台，**开源软件**。
+- [Typora](https://www.typora.io/) - Markdown 文本编辑器，很漂亮，功能很强大，**测试版免费，1.0.0 开始收费**。
 
 ### 设计工具
 
