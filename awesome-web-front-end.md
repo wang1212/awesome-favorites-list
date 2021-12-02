@@ -166,6 +166,8 @@
   - [Glassmorphism CSS Generator](https://glassmorphism.com/) - 毛玻璃效果。
   - [Glassmorphism CSS Generator](https://ui.glass/generator/) - 毛玻璃效果。
   - [Animated Backgrounds](https://animatedbackgrounds.me/) - CSS 动画背景。
+  - [My Device](https://www.mydevice.io/) - 测量当前设备相关的 CSS 值，例如视区宽度等等。
+  - [bienvenida al laboratorio](https://ryanve.com/lab/) - 一些 CSS 特性相关的用例。
 
 ### CSS 工具库
 
