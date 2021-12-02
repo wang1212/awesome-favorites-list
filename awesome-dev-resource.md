@@ -165,6 +165,7 @@
 - [WebGL Guide](https://xem.github.io/articles/webgl-guide.html) - WebGL 技术指南。
 - [WebGL Fundamentals](https://webglfundamentals.org/) - WebGL 基础知识。
 - [Perfection Kills](http://perfectionkills.com/)	
+- [30 seconds](https://www.30secondsofcode.org/) - 30 seconds 是一个系列，包含 JS、React.js、CSS、Git 相关的编程技巧和代码片段。
 
 #### 算法与数据结构
 
