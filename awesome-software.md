@@ -163,6 +163,7 @@
 
 *Browser.*
 
+- [Firefox](https://www.mozilla.org/en-US/firefox/new/) - **开源**浏览器。
 - [Chromium](https://chromium.woolyss.com/download/) - **开源** [Chromium](https://www.chromium.org/) 浏览器安装包下载，[**非官方网站**](https://chromium.woolyss.com/#notes)。
 - [Brave](https://brave.com/) - 安全为核心的浏览器。
 - [Vivaldi](https://vivaldi.com/) - 安全、隐私友好的浏览器。
