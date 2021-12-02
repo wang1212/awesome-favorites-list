@@ -904,6 +904,7 @@ _see also 👉  [Node.JS-构建工具](.//awesome-nodejs.md#构建工具)_
 - Web 优化（Web Optimization）
   - [Lighthouse](https://developers.google.com/web/tools/lighthouse/) - Google 提供的一个网站优化检测分析工具，已被集成在 Chrome 开发工具中，也可以作为 Chrome 扩展或者命令行工具使用，**Google 官方提供**。
   - [PageSpeed Insights](https://developers.google.com/speed/pagespeed/insights/) - Google 提供的在线网站性能检测工具，提供优化建议和技巧，**Google 官方提供**。
+  - [Mobile Friendly](https://search.google.com/test/mobile-friendly) - 测试网页是否移动端友好。
   - [webhint](https://webhint.io/) - 类似 Lighthouse，**OpenJS 基金会**项目。
   - [Waterfaller](https://waterfaller.dev/) - 用来分析站点网络请求并提供优化建议的工具。
   - [Yellow Lab  Tools](https://yellowlab.tools/) - 站点分析优化工具。
