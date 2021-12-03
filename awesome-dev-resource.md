@@ -264,9 +264,6 @@
 
 - [HTTP Archive](https://httparchive.org/) - Web 站点跟踪测试。
 - [free-for.dev](https://free-for.dev/) - 软件开发人员可用的免费 SaaS、PaaS、IaaS 等服务。
-- [IPFS](https://ipfs.io/) - 全球分布式文件系统。
-  - ~~[i-Book.in](https://book.tstrs.me/) - 针对 IPFS 链接的搜索引擎。~~
-- [MSDN, I tell you](https://msdn.itellyou.cn/) - 微软 Windows 系统、Office 镜像文件下载。 
 
 - Toolset
   - [SOCODE.PRO](https://socode.pro/) - 快速搜索开发文档，小工具等，**提供浏览器插件**。
