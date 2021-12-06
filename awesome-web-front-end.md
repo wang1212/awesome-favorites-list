@@ -424,7 +424,7 @@ _see also 👉  [Node.JS-构建工具](.//awesome-nodejs.md#构建工具)_
 
 *API Polyfill.*
 
-[Browserslist](https://github.com/browserslist/browserslist) - 社区主流的目标社设备检测工具库。（👉 [browserslist.dev](https://browserslist.dev/)）
+[Browserslist](https://github.com/browserslist/browserslist) - 社区主流的目标设备检测工具库。（👉 [browserslist.dev](https://browserslist.dev/)）
 
 - HTML
   - [html5shiv](https://github.com/aFarkas/html5shiv) - 在旧浏览器（IE9 以下）上提供对 HTML5 新标签（例如 footer、nav）的支持。
