@@ -441,6 +441,7 @@ _see also 👉  [Node.JS-构建工具](.//awesome-nodejs.md#构建工具)_
   - [webp-hero](https://github.com/chase-moskal/webp-hero) - 为浏览器提供 WebP 格式图片支持。
   - [fetch](https://github.github.io/fetch/) - 提供 `window.fetch` API 的兼容性支持。
   - [unfetch](https://github.com/developit/unfetch) - 提供简单的 Fetch API 支持。
+  - [smoothscroll-polyfill](https://iamdustan.com/smoothscroll/) - 提供平滑滚动的支持。
 
 ### 打包工具
 
