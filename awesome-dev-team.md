@@ -18,3 +18,4 @@
 - [Google Open Source](https://opensource.google/)
 - [yahoo Open Source](https://developer.yahoo.com/opensource/)
 - [Poimandres](https://pmnd.rs/)
+- [Sordum Team](https://www.sordum.org/) - 发布了很多免费小工具软件。
