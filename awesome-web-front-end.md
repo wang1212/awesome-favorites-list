@@ -187,6 +187,8 @@
     - [headlessUI](https://headlessui.dev/) - 一组完全无样式、可访问的组件，与 TailwindCSS 集成使用，**TailwindCSS 官方发布**。
   - [Uniform CSS](https://uniformcss.com/) - 实用优先的 CSS 框架，用来构建原子的 CSS 样式集合。
   - [Masonry](https://masonry.desandro.com/) - `grid` 布局工具。
+  - [clsx](https://github.com/lukeed/clsx) - 非常轻量的 CSS 类名拼接工具。
+  - [polished](https://polished.js.org/) - CSS 样式辅助工具。
 
 [`Go Top ↑`](#awesome-web-front-end-list)
 
@@ -246,21 +248,15 @@ _see also 👉  [Node.JS-工具库](.//awesome-nodejs.md#工具库)_
   - [Lodash](https://lodash.com/) - JavaScript 的工具函数库，参考自 Underscore，功能更丰富。
   - [Ramda](https://ramdajs.com/) - JavaScript 的工具函数库，适用于函数式编程。
   - [RxJS](https://rxjs.dev/) - 响应式编程（Reactive Extensions）的 JavaScript 实现，对异步数据集合处理很方便。
-  - [clsx](https://github.com/lukeed/clsx) - 非常轻量的 CSS 类名拼接工具。
-  - [polished](https://polished.js.org/) - CSS 样式辅助工具。
   - [chroma.js](https://vis4.net/chromajs/) - 颜色字符串解析、计算工具，功能很强大。
   - [color](https://github.com/Qix-/color) - 颜色字符串解析、计算工具，更轻量。
   - [TinyColor](https://github.com/bgrins/TinyColor) - 颜色字符串解析、计算工具，更轻量一些。（:warning: 不再更新）
   - [one.color](https://github.com/One-com/one-color) - 颜色字符串解析、计算工具，支持 RGB, HSV, HSL, CMYK 等。
   - [Fuse.js](https://fusejs.io/) - 模糊搜索工具。
-  - [uuid](https://github.com/uuidjs/uuid) - 生成随机唯一 id。
-  - [ulid](https://github.com/ulid/javascript) - 生成可排序的唯一 id。
-  - [Nano ID](https://zelark.github.io/nano-id-cc/) - 生成唯一、URL 友好、安全的随机字符串。
-  - [cuid](https://github.com/ericelliott/cuid) - 生成防碰撞的随机 id。  
   - [normalizr](https://github.com/paularmstrong/normalizr) - 根据 Schema 将嵌套的 JSON 数据归一化。
-  - [Quicklink](https://getquick.link/) - 预请求视区内的资源，加快页面加载速度。
   - [Anchorme.js](https://alexcorvi.github.io/anchorme.js/) - 将文本中的 URL/邮箱等转换为链接。
   - [microdiff](https://github.com/AsyncBanana/microdiff) - 高性能数组与对象的相等比较。
+  - [jsdiff](https://github.com/kpdecker/jsdiff) - 文本差异算法。
  
 - 文档对象模型（DOM）
   - [jQuery](https://jquery.com/) - 前几年非常流行的 DOM 操作工具库，处理了兼容性的细节问题。
@@ -273,6 +269,7 @@ _see also 👉  [Node.JS-工具库](.//awesome-nodejs.md#工具库)_
   - [screenfull.js](https://sindresorhus.com/screenfull.js/) - 跨浏览器的 `Fullscreen API`。
   - [print.js](https://printjs.crabbly.com/) - 网页打印工具。
   - [Smooth Scrollbar](https://idiotwu.github.io/smooth-scrollbar/) - 为元素添加平滑的惯性滚动效果。  
+  - [Quicklink](https://getquick.link/) - 预请求视区内的资源，加快页面加载速度。
   
 - 事件（Event）
   - [Hammer.js](http://hammerjs.github.io/) - 支持移动端触摸事件，以及手势操作、多点触控。
@@ -297,6 +294,12 @@ _see also 👉  [Node.JS-工具库](.//awesome-nodejs.md#工具库)_
   - [mem](https://github.com/sindresorhus/mem) - 函数执行缓存，可控制缓存有效期等。
   - [memoize-one](https://github.com/alexreardon/memoize-one) - 函数执行缓存，轻量级，仅缓存最新执行结果。
   - [Buffer](https://github.com/feross/buffer) - 可在浏览器中使用与 [`Node.js Buffer API`](https://nodejs.org/api/buffer.html) 100% 相同的 API。
+
+- UID
+  - [uuid](https://github.com/uuidjs/uuid) - 生成随机唯一 id。
+  - [ulid](https://github.com/ulid/javascript) - 生成可排序的唯一 id。
+  - [Nano ID](https://zelark.github.io/nano-id-cc/) - 生成唯一、URL 友好、安全的随机字符串。
+  - [cuid](https://github.com/ericelliott/cuid) - 生成防碰撞的随机 id。  
 
 - 日期时间（Date && Time）
   - [Moment.js](https://momentjs.com/) - 功能强大的日期、时间处理库。
