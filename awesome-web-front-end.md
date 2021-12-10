@@ -294,7 +294,8 @@ _see also 👉  [Node.JS-工具库](.//awesome-nodejs.md#工具库)_
   - [object-hash](https://github.com/puleos/object-hash) - 对 JavaScript 对象进行 hash 处理。
   - [crypto-browserify](https://github.com/crypto-browserify/crypto-browserify) - Node 中 `crypto` 模块在浏览器中的实现。（:warning: 不再更新）
   - [SJCL](http://bitwiseshiftleft.github.io/sjcl/) - JavaScript 加密库。（:warning: 不再更新）
-  - [mem](https://github.com/sindresorhus/mem) - 缓存函数。
+  - [mem](https://github.com/sindresorhus/mem) - 函数执行缓存，可控制缓存有效期等。
+  - [memoize-one](https://github.com/alexreardon/memoize-one) - 函数执行缓存，轻量级，仅缓存最新执行结果。
   - [Buffer](https://github.com/feross/buffer) - 可在浏览器中使用与 [`Node.js Buffer API`](https://nodejs.org/api/buffer.html) 100% 相同的 API。
 
 - 日期时间（Date && Time）
