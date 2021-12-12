@@ -925,10 +925,10 @@ _see also 👉  [Node.JS-构建工具](.//awesome-nodejs.md#构建工具)_
   - [Progressier](https://progressier.com/) - 轻松创建 PWA。
   
 - 在线 IDE、编辑器（IDE / Editor）
-  - [StackBlitz](https://stackblitz.com/)
-  - [JSFiddle](https://jsfiddle.net/)
-  - [CodeSandbox](https://codesandbox.io/)
+  - [CodeSandbox](https://codesandbox.io/) - 支持预配置的目标，例如 React.js 等。
+  - [StackBlitz](https://stackblitz.com/) - 支持预配置的目标，例如 React.js 等。
   - [CodePen](https://codepen.io/)
+  - [JSFiddle](https://jsfiddle.net/)
   - [JSitor](https://jsitor.com/)
   
 - 其它（Others）
