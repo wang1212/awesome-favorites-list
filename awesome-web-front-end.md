@@ -255,7 +255,13 @@ _see also 👉  [Node.JS-工具库](.//awesome-nodejs.md#工具库)_
   - [Fuse.js](https://fusejs.io/) - 模糊搜索工具。
   - [normalizr](https://github.com/paularmstrong/normalizr) - 根据 Schema 将嵌套的 JSON 数据归一化。
   - [Anchorme.js](https://alexcorvi.github.io/anchorme.js/) - 将文本中的 URL/邮箱等转换为链接。
- 
+
+- UID
+  - [uuid](https://github.com/uuidjs/uuid) - 生成随机唯一 id。
+  - [ulid](https://github.com/ulid/javascript) - 生成可排序的唯一 id。
+  - [Nano ID](https://zelark.github.io/nano-id-cc/) - 生成唯一、URL 友好、安全的随机字符串。
+  - [cuid](https://github.com/ericelliott/cuid) - 生成防碰撞的随机 id。
+
 - 文档对象模型（DOM）
   - [jQuery](https://jquery.com/) - 前几年非常流行的 DOM 操作工具库，处理了兼容性的细节问题。
   - [Zepto.js](https://zeptojs.com/) - 兼容 jQuery API 的轻量级工具库，适合移动端使用。
@@ -289,15 +295,12 @@ _see also 👉  [Node.JS-工具库](.//awesome-nodejs.md#工具库)_
   - [object-hash](https://github.com/puleos/object-hash) - 对 JavaScript 对象进行 hash 处理。
   - [crypto-browserify](https://github.com/crypto-browserify/crypto-browserify) - Node 中 `crypto` 模块在浏览器中的实现。（:warning: 不再更新）
   - [SJCL](http://bitwiseshiftleft.github.io/sjcl/) - JavaScript 加密库。（:warning: 不再更新）
-  - [Buffer](https://github.com/feross/buffer) - 可在浏览器中使用与 [`Node.js Buffer API`](https://nodejs.org/api/buffer.html) 100% 相同的 API。
-  - [microdiff](https://github.com/AsyncBanana/microdiff) - 高性能数组与对象的相等比较。
-  - [jsdiff](https://github.com/kpdecker/jsdiff) - 文本差异算法。
+  - [Buffer](https://github.com/feross/buffer) - 可在浏览器中使用与 [`Node.js Buffer API`](https://nodejs.org/api/buffer.html) 100% 相同的 API。  
 
-- UID
-  - [uuid](https://github.com/uuidjs/uuid) - 生成随机唯一 id。
-  - [ulid](https://github.com/ulid/javascript) - 生成可排序的唯一 id。
-  - [Nano ID](https://zelark.github.io/nano-id-cc/) - 生成唯一、URL 友好、安全的随机字符串。
-  - [cuid](https://github.com/ericelliott/cuid) - 生成防碰撞的随机 id。  
+- 深度相等判断（Equal depth）
+  - [fast-deep-equal](https://github.com/epoberezkin/fast-deep-equal) - 高性能，支持比较 ES6 Map, Set and Typed arrays。（:warning: 不再更新）
+  - [microdiff](https://github.com/AsyncBanana/microdiff) - 高性能数组与对象的相等比较。
+  - [diff](https://github.com/kpdecker/jsdiff) - 文本差异算法。
 
 - 函数记忆化（Function memoization）
   - [mem](https://github.com/sindresorhus/mem) - 函数缓存，可控制缓存有效期等。
