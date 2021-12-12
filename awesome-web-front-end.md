@@ -300,8 +300,9 @@ _see also 👉  [Node.JS-工具库](.//awesome-nodejs.md#工具库)_
   - [cuid](https://github.com/ericelliott/cuid) - 生成防碰撞的随机 id。  
 
 - 函数记忆化（Function memoization）
-  - [mem](https://github.com/sindresorhus/mem) - 函数执行缓存，可控制缓存有效期等。
-  - [memoize-one](https://github.com/alexreardon/memoize-one) - 函数执行缓存，轻量级，仅缓存最新执行结果。
+  - [mem](https://github.com/sindresorhus/mem) - 函数缓存，可控制缓存有效期等。
+  - [moize](https://planttheidea.github.io/moize/) - 函数缓存，功能丰富。
+  - [memoize-one](https://github.com/alexreardon/memoize-one) - 函数缓存，轻量级，仅缓存最后一次执行结果。
 
 - 日期时间（Date && Time）
   - [Moment.js](https://momentjs.com/) - 功能强大的日期、时间处理库。
