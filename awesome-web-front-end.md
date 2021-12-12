@@ -255,8 +255,6 @@ _see also 👉  [Node.JS-工具库](.//awesome-nodejs.md#工具库)_
   - [Fuse.js](https://fusejs.io/) - 模糊搜索工具。
   - [normalizr](https://github.com/paularmstrong/normalizr) - 根据 Schema 将嵌套的 JSON 数据归一化。
   - [Anchorme.js](https://alexcorvi.github.io/anchorme.js/) - 将文本中的 URL/邮箱等转换为链接。
-  - [microdiff](https://github.com/AsyncBanana/microdiff) - 高性能数组与对象的相等比较。
-  - [jsdiff](https://github.com/kpdecker/jsdiff) - 文本差异算法。
  
 - 文档对象模型（DOM）
   - [jQuery](https://jquery.com/) - 前几年非常流行的 DOM 操作工具库，处理了兼容性的细节问题。
@@ -266,9 +264,7 @@ _see also 👉  [Node.JS-工具库](.//awesome-nodejs.md#工具库)_
   - [clipboard.js](https://clipboardjs.com/) - 现代的粘贴板工具库。
   - [Tether](http://tether.io/) - 元素跟踪定位工具。
   - [popper.js](https://popper.js.org/) - 元素定位工具。
-  - [screenfull.js](https://sindresorhus.com/screenfull.js/) - 跨浏览器的 `Fullscreen API`。
-  - [print.js](https://printjs.crabbly.com/) - 网页打印工具。
-  - [Smooth Scrollbar](https://idiotwu.github.io/smooth-scrollbar/) - 为元素添加平滑的惯性滚动效果。  
+  - [print.js](https://printjs.crabbly.com/) - 网页打印工具。  
   - [Quicklink](https://getquick.link/) - 预请求视区内的资源，加快页面加载速度。
   
 - 事件（Event）
@@ -278,6 +274,8 @@ _see also 👉  [Node.JS-工具库](.//awesome-nodejs.md#工具库)_
   - [Hotkeys](https://wangchujiang.com/hotkeys/) - 处理键盘事件。
   - [Hotkey](https://github.com/github/hotkey) - 处理键盘事件。
   - [Selecto.js](https://github.com/daybrush/selecto) - 拖动选择元素，支持鼠标和触摸事件。
+  - [screenfull.js](https://sindresorhus.com/screenfull.js/) - 跨浏览器的 `Fullscreen API`。
+  - [Smooth Scrollbar](https://idiotwu.github.io/smooth-scrollbar/) - 为元素添加平滑的惯性滚动效果。
 
 - Cookie
   - [js-cookie](https://github.com/js-cookie/js-cookie) - 轻量的 Cookie 处理工具库。
@@ -291,15 +289,19 @@ _see also 👉  [Node.JS-工具库](.//awesome-nodejs.md#工具库)_
   - [object-hash](https://github.com/puleos/object-hash) - 对 JavaScript 对象进行 hash 处理。
   - [crypto-browserify](https://github.com/crypto-browserify/crypto-browserify) - Node 中 `crypto` 模块在浏览器中的实现。（:warning: 不再更新）
   - [SJCL](http://bitwiseshiftleft.github.io/sjcl/) - JavaScript 加密库。（:warning: 不再更新）
-  - [mem](https://github.com/sindresorhus/mem) - 函数执行缓存，可控制缓存有效期等。
-  - [memoize-one](https://github.com/alexreardon/memoize-one) - 函数执行缓存，轻量级，仅缓存最新执行结果。
   - [Buffer](https://github.com/feross/buffer) - 可在浏览器中使用与 [`Node.js Buffer API`](https://nodejs.org/api/buffer.html) 100% 相同的 API。
+  - [microdiff](https://github.com/AsyncBanana/microdiff) - 高性能数组与对象的相等比较。
+  - [jsdiff](https://github.com/kpdecker/jsdiff) - 文本差异算法。
 
 - UID
   - [uuid](https://github.com/uuidjs/uuid) - 生成随机唯一 id。
   - [ulid](https://github.com/ulid/javascript) - 生成可排序的唯一 id。
   - [Nano ID](https://zelark.github.io/nano-id-cc/) - 生成唯一、URL 友好、安全的随机字符串。
   - [cuid](https://github.com/ericelliott/cuid) - 生成防碰撞的随机 id。  
+
+- 函数记忆化（Function memoization）
+  - [mem](https://github.com/sindresorhus/mem) - 函数执行缓存，可控制缓存有效期等。
+  - [memoize-one](https://github.com/alexreardon/memoize-one) - 函数执行缓存，轻量级，仅缓存最新执行结果。
 
 - 日期时间（Date && Time）
   - [Moment.js](https://momentjs.com/) - 功能强大的日期、时间处理库。
