@@ -272,6 +272,7 @@ _see also 👉  [Node.JS-工具库](.//awesome-nodejs.md#工具库)_
   - [popper.js](https://popper.js.org/) - 元素定位工具。
   - [print.js](https://printjs.crabbly.com/) - 网页打印工具。  
   - [Quicklink](https://getquick.link/) - 预请求视区内的资源，加快页面加载速度。
+  - [fastdom](https://github.com/wilsonpage/fastdom) - 批处理 DOM 操作。
   
 - 事件（Event）
   - [Hammer.js](http://hammerjs.github.io/) - 支持移动端触摸事件，以及手势操作、多点触控。
