@@ -87,6 +87,7 @@ _（Recommend）推荐一个其它的很棒的收藏列表，:point_right: [reho
   - [React Query](https://github.com/tannerlinsley/react-query) - 服务器端数据获取、缓存、异步更新。
   - [SWR](https://swr.now.sh/) - 用于远程数据获取，更轻量。
   - [axios-hooks](https://github.com/simoneb/axios-hooks) - 数据请求、缓存管理，**非 axios 官方发布**。
+  - [React Async](https://docs.react-async.com/)
 
 - 表单（Form）
   - [React Hook Form](https://react-hook-form.com/) - 表单处理。
