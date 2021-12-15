@@ -258,9 +258,9 @@ _see also 👉  [Node.JS-工具库](.//awesome-nodejs.md#工具库)_
 
 - UID
   - [uuid](https://github.com/uuidjs/uuid) - 生成随机唯一 id。
-  - [ulid](https://github.com/ulid/javascript) - 生成可排序的唯一 id。
+  - [ulid](https://github.com/ulid/javascript) - 生成可排序的唯一 id。（:warning: 不再更新）
   - [Nano ID](https://zelark.github.io/nano-id-cc/) - 生成唯一、URL 友好、安全的随机字符串。
-  - [cuid](https://github.com/ericelliott/cuid) - 生成防碰撞的随机 id。
+  - [cuid](https://github.com/ericelliott/cuid) - 生成防碰撞的随机 id。（:warning: 不再更新）
 
 - 文档对象模型（DOM）
   - [jQuery](https://jquery.com/) - 前几年非常流行的 DOM 操作工具库，处理了兼容性的细节问题。
