@@ -258,6 +258,7 @@ _see also 👉  [Node.JS-工具库](.//awesome-nodejs.md#工具库)_
   - [Ramda](https://ramdajs.com/) - JavaScript 的工具函数库，专门针对于函数式编程。
     - [rambda](https://selfrefactor.github.io/rambda/#/) - Ramda 的更快、更轻量的替代方案。
   - [Remeda.js](https://remedajs.com/) - JavaScript 的工具函数库，专门针对于函数式编程，同时支持 "data-first" 和 "data-last" 的范式。
+  - [ts-belt](https://mobily.github.io/ts-belt/) - JavaScript 的工具函数库，专门针对于函数式编程，更快、更现代化。
   - [RxJS](https://rxjs.dev/) - 响应式编程（Reactive Extensions）的 JavaScript 实现，对异步数据集合处理很方便。
 
 - UID
