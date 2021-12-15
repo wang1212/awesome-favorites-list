@@ -244,10 +244,6 @@
 _see also 👉  [Node.JS-工具库](.//awesome-nodejs.md#工具库)_
 
 - 实用工具（Utils）
-  - [Underscore](https://underscorejs.org/) - JavaScript 的工具函数库，提供了大量非常有用的工具函数。
-  - [Lodash](https://lodash.com/) - JavaScript 的工具函数库，参考自 Underscore，功能更丰富。
-  - [Ramda](https://ramdajs.com/) - JavaScript 的工具函数库，适用于函数式编程。
-  - [RxJS](https://rxjs.dev/) - 响应式编程（Reactive Extensions）的 JavaScript 实现，对异步数据集合处理很方便。
   - [chroma.js](https://vis4.net/chromajs/) - 颜色字符串解析、计算工具，功能很强大。
   - [color](https://github.com/Qix-/color) - 颜色字符串解析、计算工具，更轻量。
   - [TinyColor](https://github.com/bgrins/TinyColor) - 颜色字符串解析、计算工具，更轻量一些。（:warning: 不再更新）
@@ -255,6 +251,14 @@ _see also 👉  [Node.JS-工具库](.//awesome-nodejs.md#工具库)_
   - [Fuse.js](https://fusejs.io/) - 模糊搜索工具。
   - [normalizr](https://github.com/paularmstrong/normalizr) - 根据 Schema 将嵌套的 JSON 数据归一化。
   - [Anchorme.js](https://alexcorvi.github.io/anchorme.js/) - 将文本中的 URL/邮箱等转换为链接。
+
+- 实用函数库（utility library）
+  - [Underscore](https://underscorejs.org/) - JavaScript 的工具函数库，提供了大量非常有用的工具函数。
+  - [Lodash](https://lodash.com/) - JavaScript 的工具函数库，参考自 Underscore，功能更丰富。
+  - [Ramda](https://ramdajs.com/) - JavaScript 的工具函数库，专门针对于函数式编程。
+    - [rambda](https://selfrefactor.github.io/rambda/#/) - Ramda 的更快、更轻量的替代方案。
+  - [Remeda.js](https://remedajs.com/) - JavaScript 的工具函数库，专门针对于函数式编程，同时支持 "data-first" 和 "data-last" 的范式。
+  - [RxJS](https://rxjs.dev/) - 响应式编程（Reactive Extensions）的 JavaScript 实现，对异步数据集合处理很方便。
 
 - UID
   - [uuid](https://github.com/uuidjs/uuid) - 生成随机唯一 id。
@@ -299,7 +303,7 @@ _see also 👉  [Node.JS-工具库](.//awesome-nodejs.md#工具库)_
   - [Buffer](https://github.com/feross/buffer) - 可在浏览器中使用与 [`Node.js Buffer API`](https://nodejs.org/api/buffer.html) 100% 相同的 API。  
 
 - 深度相等判断（Equal depth）
-  - [fast-deep-equal](https://github.com/epoberezkin/fast-deep-equal) - 高性能，支持比较 ES6 Map, Set and Typed arrays。（:warning: 不再更新）
+  - [fast-deep-equal](https://github.com/epoberezkin/fast-deep-equal) - 高性能，支持比较 ES6 Map, Set 和 Typed arrays。（:warning: 不再更新）
   - [microdiff](https://github.com/AsyncBanana/microdiff) - 高性能数组与对象的相等比较。
   - [diff](https://github.com/kpdecker/jsdiff) - 文本差异算法。
 
