@@ -7,12 +7,40 @@
 
 <br />
 
-## 列表
+## 目录
 
-*Resource list.*
+*Resource navigation list.*
 
-- 协议（Protocol）
-  - [IPFS](https://ipfs.io/) - 分布式点对点超媒体协议。
+- [编程语言（Programming Language）](#编程语言)
+- [协议（Protocol）](#协议)
+- [文件格式（File Format）](#文件格式)
+- [其它（Others）](#其它)
+
+## 编程语言
+
+*Programming language.*
+
+- [ECMAScript Official Specification Standard](https://www.ecma-international.org/publications/standards/Ecma-262.htm) - ECMAScript 官方规范标准。
+  - [ECMA International](http://www.ecma-international.org/) - ECMA 国际是一家国际性会员制度的信息和电信标准组织，负责行业标准的制定，例如 ECMA Script。
+  - [TC39 ECMAScript proposals](https://github.com/tc39/proposals) - TC39 对 ECMAScript 标准制定提案的记录。
+  - [*JSDoc*](https://jsdoc.app/) - _JavaScript 注释规范，**非官方规范**。_
+
+- [TypeScript](http://www.typescriptlang.org/) - JavaScript 的超集，强类型语言。
+  - [tsdoc](https://github.com/microsoft/tsdoc) - TypeScript 语言注释规范，**Microsoft 官方发布**。
+
+[`Go Top ↑`](#awesome-development-technical-standard-specifications)
+
+## 协议
+
+*Protocol.*
+
+- [IPFS](https://ipfs.io/) - 分布式点对点超媒体协议。
+
+[`Go Top ↑`](#awesome-development-technical-standard-specifications)
+
+## 文件格式
+
+*File format.*
 
 - YAML
   - [YAML Specification](https://yaml.org/) - `.yaml` 文件数据格式规范。
@@ -30,6 +58,12 @@
 
 - Source Map
   - [Source Map Revision 3 Proposal](https://sourcemaps.info/spec.html) - `.map` 文件数据格式规范。
+
+[`Go Top ↑`](#awesome-development-technical-standard-specifications)
+
+## 其它
+
+*Others.*
 
 - OAuth
   - [OpenID Connect](https://openid.net/connect/)
