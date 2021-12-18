@@ -606,6 +606,7 @@ _see also 👉  [Node.JS-构建工具](.//awesome-nodejs.md#构建工具)_
 - [carbon-components](https://www.carbondesignsystem.com/get-started/develop/vanilla) - Carbon 设计风格，**IBM 公司发布**。
 - [Spectrum CSS](https://opensource.adobe.com/spectrum-css/) - Spectrum 设计，**Adobe 公司发布**。
 - [Pure.CSS](https://purecss.io/) - 一组小的，响应式的 CSS 模块。
+- [Pico.css](https://picocss.com/) - 极小的针对语义化 HTML 的 CSS 框架。
 - [Layui](https://www.layui.com/) - 适合后端开发使用。
 - [Semantic UI](https://semantic-ui.com) - 很受欢迎的组件库。（:warning: 不再更新）
 - [Skeleton](http://getskeleton.com/) - 简单的响应式 CSS 框架。（:warning: 不再更新）
