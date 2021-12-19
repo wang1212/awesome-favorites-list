@@ -284,7 +284,6 @@ _see also 👉  [Node.JS-工具库](.//awesome-nodejs.md#工具库)_
   - [Hotkey](https://github.com/github/hotkey) - 处理键盘事件。
   - [Selecto.js](https://github.com/daybrush/selecto) - 拖动选择元素，支持鼠标和触摸事件。
   - [screenfull.js](https://sindresorhus.com/screenfull.js/) - 跨浏览器的 `Fullscreen API`。
-  - [Smooth Scrollbar](https://idiotwu.github.io/smooth-scrollbar/) - 为元素添加平滑的惯性滚动效果。
 
 - Cookie
   - [js-cookie](https://github.com/js-cookie/js-cookie) - 轻量的 Cookie 处理工具库。
@@ -724,6 +723,8 @@ _see also 👉  [Node.JS-构建工具](.//awesome-nodejs.md#构建工具)_
   - [simple-drawing-board.js](https://github.com/leader22/simple-drawing-board.js) - 简单画板。
   - [simple-keyboard](https://virtual-keyboard.js.org/) - 虚拟键盘。
   - [Tippy.js](https://atomiks.github.io/tippyjs/) - 工具提示组件。
+  - [Smooth Scrollbar](https://idiotwu.github.io/smooth-scrollbar/) - 自定义滚动条，替代原生滚动事件。
+  - [OverlayScrollbars](https://github.com/KingSora/OverlayScrollbars) - 自定义滚动条。
 
 ### UI 模板
 
