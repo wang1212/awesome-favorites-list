@@ -318,6 +318,7 @@ _see also 👉  [Node.JS-工具库](.//awesome-nodejs.md#工具库)_
 
 - 科学计算（Compute - Math && High precision && Scientific Computing）
   - [math.js](https://mathjs.org/) - 基本数学计算。
+  - [big.js](https://mikemcl.github.io/big.js/) - 十进制数计算，还有相关的 [bignumber.js](https://mikemcl.github.io/bignumber.js/) 和 [decimal.js](https://mikemcl.github.io/decimal.js/)。
   - [stdlib](https://stdlib.io/)
   - [glMatrix](http://glmatrix.net/) - 矩阵和矢量运算。
   - [currency.js](https://currency.js.org/) - 轻量的货币计算工具库。
