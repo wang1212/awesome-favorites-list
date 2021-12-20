@@ -449,6 +449,7 @@ _see also 👉  [Node.JS-构建工具](.//awesome-nodejs.md#构建工具)_
 - JavaScript
   - [Polyfill.io](https://cdn.polyfill.io/) - Polyfills 服务。
   - [core-js](https://github.com/zloirock/core-js) - 现代 JavaScript 标准库。
+  - [es-shims](https://github.com/es-shims) - ECMAScript 的 Polyfills 集合。
   - [Promise Polyfill](https://github.com/taylorhakes/promise-polyfill) - 为浏览器提供 Promise API 支持。
   - [webp-hero](https://github.com/chase-moskal/webp-hero) - 为浏览器提供 WebP 格式图片支持。
   - [fetch](https://github.github.io/fetch/) - 提供 `window.fetch` API 的兼容性支持。
