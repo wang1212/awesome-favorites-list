@@ -56,7 +56,7 @@
   - [网易源](https://mirrors.163.com/)
 
 - Node.js
-  - [淘宝源](https://npm.taobao.org/)
+  - [淘宝源](https://npmmirror.com/)
 
 - Others
   - [思谋学术](https://ac.scmor.com/) - 谷歌学术源。
@@ -99,6 +99,7 @@
 - [c4model](https://c4model.com/) - 用于软件架构的 C4 模型。
 - [The System Design Primer](https://github.com/donnemartin/system-design-primer) - 学习构建大型系统。
 - [Superhero.js](http://superherojs.com/) - 构建大型 JavaScript 项目的一些技巧。
+- [Command Line Interface Guidelines](https://clig.dev/) - 命令行接口指南。
 
 ### 其它
 
