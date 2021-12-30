@@ -321,29 +321,29 @@ _see also 👉  [JS-工具库](./awesome-web-front-end.md#js-工具库) | [aweso
 
 - [zx](https://github.com/google/zx) - 编写 JavaScript 脚本，而非 Bash 脚本。
 
-- CLI Tool
+- 实用工具（Utils）
   - [chalk](https://github.com/chalk/chalk) - 终端输出字符串样式工具，支持全部的色彩。
-  - [concurrently](https://github.com/kimmobrunfeldt/concurrently) - 并行执行多个命令。
-  - [shell.js](https://documentup.com/shelljs/shelljs) - 基于 NOde.js 的 Unix Shell 命令的可移植实现。
-
-- 命令行应用开发（CLI App Dev）
   - [minimist](https://github.com/substack/minimist) - 命令行参数解析器。（_npm 官方解析器 [nopt](https://github.com/npm/nopt)_）
+  - [commander](https://github.com/tj/commander.js) - 简单的命令行接口。
   - [yargs](https://yargs.js.org/) - 解析参数，构建交互式命令行程序。
   - [prompts](https://github.com/terkelg/prompts) - 轻量、漂亮的交互式命令行提示。
+  - [inquirer](https://github.com/SBoudrias/Inquirer.js) - 交互式命令行。
+  - [readlineSync](https://github.com/anseki/readline-sync) - 同步版本的 `readline`，命令行对话式交互。
+  - [concurrently](https://github.com/kimmobrunfeldt/concurrently) - 并行执行多个命令。
+  - [tasuku](https://github.com/privatenumber/tasuku) - 任务运行器，可在终端展示运行状态。
+  - [shell.js](https://documentup.com/shelljs/shelljs) - 基于 NOde.js 的 Unix Shell 命令的可移植实现。
+  - [ora](https://github.com/sindresorhus/ora) - 终端 spinner 效果。
+  - [progress](https://github.com/visionmedia/node-progress) - 进度条。（⚠️ 不再积极开发）
+  - [cli-progress](https://github.com/npkgz/cli-progress) - 进度条。
+
+- 命令行应用开发框架（CLI App Dev）
   - [Caporal](https://github.com/mattallty/Caporal.js) - 全功能命令行应用开发框架。
   - [oclif](https://oclif.io/) - 命令行工具开发框架。
-  - [commander](https://github.com/tj/commander.js) - 简单的命令行接口。
   - [meow](https://github.com/sindresorhus/meow) - 命令行应用开发工具包。
-  - [Gluegun](https://github.com/infinitered/gluegun) - 命令行应用开发工具包。
+  - [Gluegun](https://infinitered.github.io/gluegun/) - 命令行应用开发工具包。
   - [Terminal Kit](https://github.com/cronvel/terminal-kit) - 编写命令行程序的工具包。
   - [blessed](https://github.com/chjj/blessed) - 高级终端接口库。
     - [blessed-contrib](https://github.com/yaronn/blessed-contrib) - 仪表面板工具库。
-  - [inquirer](https://github.com/SBoudrias/Inquirer.js) - 交互式命令行。
-  - [ora](https://github.com/sindresorhus/ora) - 终端 spinner 效果。 
-  - [readlineSync](https://github.com/anseki/readline-sync) - 同步版本的 `readline`，命令行对话式交互。
-  - [progress](https://github.com/visionmedia/node-progress) - 进度条。（⚠️ 不再积极开发）
-  - [cli-progress](https://github.com/npkgz/cli-progress) - 进度条。
-  - [tasuku](https://github.com/privatenumber/tasuku) - 任务运行器，可在终端展示运行状态。
 
 - 可执行程序（Executable）
   - [pkg](https://github.com/vercel/pkg) - 将 Node.js 脚本打包成单个可执行文件。
