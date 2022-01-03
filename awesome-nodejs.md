@@ -313,6 +313,7 @@ _see also 👉  [JS-工具库](./awesome-web-front-end.md#js-工具库) | [aweso
 
 - 其它（Others）
   - [ssh2](https://github.com/mscdex/ssh2) - SSH 客户端和服务器。
+  - [nodegit](https://www.nodegit.org/)
 
 [`Go Top ↑`](#awesome-nodejs-list)
 
