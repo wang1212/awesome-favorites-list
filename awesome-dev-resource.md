@@ -609,7 +609,6 @@
 
 *Others.*
 
-- [Ink](https://github.com/vadimdemedes/ink) - 用 React.js 开发命令行应用。
 - [glow](https://github.com/charmbracelet/glow) - 在命令行渲染 Markdown 文档。
 - [Certbot](https://certbot.eff.org/) - 管理 [Let's Encrypt](https://letsencrypt.org/) 证书工具，为网站启用 HTTPS，**开源软件**。
 - [FFmpeg](http://ffmpeg.org/) - 命令行工具，完整的、跨平台的解决方案，用于记录、转换和流传输音频和视频，**开源软件**。
