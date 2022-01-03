@@ -340,6 +340,7 @@ _see also 👉  [JS-工具库](./awesome-web-front-end.md#js-工具库) | [aweso
   - [cli-progress](https://github.com/npkgz/cli-progress) - 进度条。
 
 - 命令行应用开发框架（CLI App Dev）
+  - [Ink](https://github.com/vadimdemedes/ink) - 用 React.js 开发命令行应用。
   - [Caporal](https://github.com/mattallty/Caporal.js) - 全功能命令行应用开发框架。
   - [oclif](https://oclif.io/) - 命令行工具开发框架。
   - [meow](https://github.com/sindresorhus/meow) - 命令行应用开发工具包。
