@@ -124,6 +124,7 @@ _see also 👉  [JS-构建工具](./awesome-web-front-end.md#构建工具)_
 - 配置（Config）
   - [dotenv](https://github.com/motdotla/dotenv) - 从 **.env** 文件为 Node.js 项目加载环境变量。
   - [node-config](https://github.com/lorenwest/node-config)
+  - [cosmiconfig](https://github.com/davidtheclark/cosmiconfig) - 搜索并加载配置文件。
   
 - 环境变量（Environment variable）
   - [cross-env](https://github.com/kentcdodds/cross-env) - 为 npm 脚本配置和使用环境变量提供跨平台支持。
