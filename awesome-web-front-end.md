@@ -279,7 +279,7 @@ _see also 👉  [Node.JS-工具库](.//awesome-nodejs.md#工具库)_
   - [fastdom](https://github.com/wilsonpage/fastdom) - 批处理 DOM 操作。
   
 - 事件（Event）
-  - [Hammer.js](http://hammerjs.github.io/) - 支持移动端触摸事件，以及手势操作、多点触控。
+  - [Hammer.js](http://hammerjs.github.io/) - 支持移动端触摸事件，以及手势操作、多点触控。（:warning: 不再维护）
   - [interact.js](https://interactjs.io/) - 同上。
   - [Mousetrap](https://github.com/ccampbell/mousetrap) - 处理键盘事件。
   - [Hotkeys](https://wangchujiang.com/hotkeys/) - 处理键盘事件。
