@@ -118,6 +118,9 @@
   - [PDF2Go](https://www.pdf2go.com/zh) - PDF 文件处理，还包含图片、音频、视频、电子书、OCR 处理等工具。
   - [DocTranslator](https://www.onlinedoctranslator.com/zh-CN/) - 在线文档翻译工具，以及 PDF 转 Word 无水印等。
 
+- 其它（Others）
+  - [Koodo Reader](https://koodo.960960.xyz/) - 电子阅读解决方案，支持 Web/Windows/Mac/Linux 等平台，**开源软件**。
+
 ### 设计工具
 
 *Software interface design, prototype drawing design, etc.*
