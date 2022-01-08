@@ -625,6 +625,7 @@ _see also 👉  [Node.JS-构建工具](.//awesome-nodejs.md#构建工具)_
   - [tagify](https://yaireo.github.io/tagify/) - 标签输入框。
   - [flatpickr](https://flatpickr.js.org/) - 时间日期选择器。
   - [layDate](https://www.layui.com/laydate/) - 时间日期选择器。
+  - [Choices.js](https://choices-js.github.io/Choices/) - 轻量的，可配置的输入框和选择器。
 
 - 轮播（Carousel）
   - [Swiper](https://swiperjs.com/)
