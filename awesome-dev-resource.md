@@ -629,8 +629,11 @@
 
 *Utils tools.*
 
-- [Cleaver](http://jdan.github.io/cleaver/) - Markdown 文件生成幻灯片。
-- [nodeppt](https://github.com/ksky521/nodeppt) - Markdown 文件生成幻灯片。
+- 幻灯片（Slideshow）
+  - [Cleaver](http://jdan.github.io/cleaver/) - Markdown 文件生成幻灯片。
+  - [nodeppt](https://github.com/ksky521/nodeppt) - Markdown 文件生成幻灯片。
+  - [reveal.js](https://revealjs.com/)
+  - [Slidev](https://sli.dev/)
 
 ### WSL
 
