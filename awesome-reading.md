@@ -152,6 +152,7 @@
   - 《C 程序设计语言》[美] Dennis M. Ritchie, Brian W. Kernighan
   - [《你不知道的 JavaScript》](https://github.com/getify/You-Dont-Know-JS)[美] Kyle Simpson - 系列书籍，讲解 JavaScript 核心概念，**开源书籍**。
   - [《Eloquent JavaScript》](https://eloquentjavascript.net/)[美] Marijn Haverbeke - JavaScript、Node.js 技术，**开源书籍**。
+  - [《JavaScript for impatient programmers》](https://exploringjs.com/impatient-js/index.html)[德] Axel Rauschmayer - 学习现代 JavaScript，**可在线免费阅读**。
   - [《JavaScript (ES2015+) Enlightenment》](https://frontendmasters.com/books/javascript-enlightenment/) Cody Linley - JavaScript 语言更新介绍，**开源书籍**。
   - [《Learning JavaScript Design Patterns》](https://addyosmani.com/resources/essentialjsdesignpatterns/book/) Addy Osmani - JavaScript 设计模式，**开源书籍**。
   - 《JavaScript 面向对象编程指南》[加拿大] Stoyan Stefanov 斯托扬
