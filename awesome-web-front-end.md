@@ -505,6 +505,8 @@ _see also 👉  [Node.JS-构建工具](.//awesome-nodejs.md#构建工具)_
 
 *Test tools.*
 
+- [fuite](https://github.com/nolanlawson/fuite) - CLI 工具，发现 Web 应用的内存泄露问题。
+
 ### PWA
 
 *[Progressive web apps](https://developer.mozilla.org/en-US/docs/Web/Progressive_web_apps).*
