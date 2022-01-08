@@ -228,10 +228,13 @@
   - [Single Line Of Code](https://1loc.dev/)
   - [JS The Right Way](http://jstherightway.org/) - 一些 JavaScript 最佳实践。
 
-- 其它（Other）
-  - [ECMAScript 6 — New Features: Overview & Comparison](http://es6-features.org/) - ES6 新特性与旧代码差异对比。
+- 工具集（Toolset）
   - [JavaScripting](https://www.javascripting.com/) - JavaScript 库、插件、框架资源。
   - [Javascript.FUN](https://www.javascript.fun/) - 在线网站，JavaScript 开发资源集合。
+  - [best of js](https://bestofjs.org/)
+
+- 其它（Other）
+  - [ECMAScript 6 — New Features: Overview & Comparison](http://es6-features.org/) - ES6 新特性与旧代码差异对比。
   - [The Modern JavaScript Tutorial](https://javascript.info/) - 现代 JavaScript 教程。
   - [Learn Vanilla JavaScript](https://github.com/snipcart/learn-vanilla-js) - 原生 JS 学习资源。
   - [JSchallenger](https://www.jschallenger.com/) - 在线 JavaScript 编程训练。
