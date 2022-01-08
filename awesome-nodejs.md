@@ -477,9 +477,4 @@ _see also 👉  [JS-工具库](./awesome-web-front-end.md#js-工具库) | [aweso
 - [NodeBB](https://github.com/NodeBB/NodeBB) - 开源论坛软件。
 - [AdminBro](https://adminbro.com/) - Node.js 应用管理面板系统。
 
-- JS 引擎/运行时（Javascript Engine/Runtime）
-  - [SpiderMonkey](https://developer.mozilla.org/en-US/docs/Mozilla/Projects/SpiderMonkey) - Firefox 浏览器 JS 引擎，**Mozilla 开发**。
-  - [QuickJS](https://bellard.org/quickjs/)
-  - [JavaScriptCore](http://trac.webkit.org/wiki/JavaScriptCore)
-
 [`Go Top ↑`](#awesome-nodejs-list)
