@@ -889,12 +889,16 @@ _see also 👉  [Node.JS-构建工具](.//awesome-nodejs.md#构建工具)_
 
 *Explore the principles behind the technology, the underlying architecture, etc.*
 
-### 抽象语法树（Abstract syntax tree）
+### 抽象语法树
+
+*Abstract syntax tree.*
 
 - [Read JavaScript Source Code, Using an AST](https://www.digitalocean.com/community/tutorials/js-traversing-ast) - 文章，通过 AST 了解 JavaScript 源码。
 - [AST Explorer](https://astexplorer.net/) - 在线预览 JavaScript 代码片段的 AST。
 
-### 性能分析（Performance analysis）
+### 性能分析
+
+*Performance analysis.*
 
 - [Web Vitals](https://web.dev/vitals/) - Web 性能指标，Google 提出，并提供 npm 工具包。
 - [Perfume.js](https://zizzamia.github.io/perfume/) - 性能监控工具。
