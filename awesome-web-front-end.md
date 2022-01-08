@@ -752,6 +752,7 @@ _see also 👉  [Node.JS-构建工具](.//awesome-nodejs.md#构建工具)_
 - [mermaid](https://github.com/mermaid-js/mermaid) - txt 文本生成流程图。
 - [wordcloud2.js](https://github.com/timdream/wordcloud2.js) - 词云。
 - [MathJax](https://www.mathjax.org/) - 浏览器中的数学公式可视化引擎。
+- [Perspective](https://github.com/finos/perspective) - 基于 C++ 的 wasm 高性能数据可视化组件。
 
 ### 图表
 
