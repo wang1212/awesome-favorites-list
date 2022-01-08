@@ -683,7 +683,6 @@
 
 *More uncategorized resources.*
 
-- [Open Source Awards](https://osawards.com/) - 开源项目奖。
 - [Openbase](https://openbase.com/) - 开源项目讨论及评奖。
 - [LibHunt](https://www.libhunt.com/) - 收集了各种库的网站。
 - [Linux Mint](https://www.linuxmint.com/) - 很 Cool 的 Linux 发行版。
