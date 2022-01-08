@@ -706,10 +706,6 @@ _see also 👉  [Node.JS-构建工具](.//awesome-nodejs.md#构建工具)_
   - [CodeMirror](https://codemirror.net/) - 代码编辑器。
   - [Ace Editor](https://ace.c9.io/) - 代码编辑器。
 
-- 幻灯片（Slideshow）
-  - [reveal.js](https://revealjs.com/)
-  - [Slidev](https://sli.dev/)
-
 - 窗口布局（Window layout）
   - [WinBox](https://nextapps-de.github.io/winbox/) - 窗口组件。
   - [golden-layout](http://golden-layout.com/) - 多窗口布局管理。
