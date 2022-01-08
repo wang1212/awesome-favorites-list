@@ -899,6 +899,14 @@ _see also 👉  [Node.JS-构建工具](.//awesome-nodejs.md#构建工具)_
 - [Web Vitals](https://web.dev/vitals/) - Web 性能指标，Google 提出，并提供 npm 工具包。
 - [Perfume.js](https://zizzamia.github.io/perfume/) - 性能监控工具。
 
+### JS 引擎/运行时
+
+*Javascript Engine/Runtime.*
+
+- [SpiderMonkey](https://developer.mozilla.org/en-US/docs/Mozilla/Projects/SpiderMonkey) - Firefox 浏览器 JS 引擎，**Mozilla 开发**。
+- [QuickJS](https://bellard.org/quickjs/)
+- [JavaScriptCore](http://trac.webkit.org/wiki/JavaScriptCore)
+
 [`Go Top ↑`](#awesome-web-front-end-list)
 
 ## 更多
