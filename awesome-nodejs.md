@@ -328,6 +328,8 @@ _see also 👉  [JS-工具库](./awesome-web-front-end.md#js-工具库) | [aweso
 
 - 实用工具（Utils）
   - [chalk](https://github.com/chalk/chalk) - 终端输出字符串样式工具，支持全部的色彩。
+  - [configstore](https://github.com/yeoman/configstore) - 持久化命令行应用的配置。
+    - [conf](https://github.com/sindresorhus/conf) 
   - [minimist](https://github.com/substack/minimist) - 命令行参数解析器。（_npm 官方解析器 [nopt](https://github.com/npm/nopt)_）
   - [commander](https://github.com/tj/commander.js) - 简单的命令行接口。
   - [yargs](https://yargs.js.org/) - 解析参数，构建交互式命令行程序。
