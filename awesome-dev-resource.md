@@ -88,7 +88,10 @@
 - [keep a changelog](https://keepachangelog.com/) - 项目内应始终存在一个 *CHANGELOG.md* 文件，并遵循一定的规范。
 - [ARCHITECTURE.md](https://matklad.github.io/2021/02/06/ARCHITECTURE.md.html) - 建议在开源项目中加入 *ARCHITECTURE.md* 文件。
 - [How to Build a CONTRIBUTING.md](https://mozillascience.github.io/working-open-workshop/contributing/) - 如何为开源项目构建 *CONTRIBUTING.md* 文件。
-- [A successful Git branching model](https://nvie.com/posts/a-successful-git-branching-model/) - 一个成功的 Git 分支模型。
+- Git Workflow
+  - [Git Flow](https://nvie.com/posts/a-successful-git-branching-model/)
+  - [GitLab Flow](https://docs.gitlab.com/ee/topics/gitlab_flow.html)
+  - [GitHub Flow](http://githubflow.github.io/)
 - [Advantages of monorepos](https://danluu.com/monorepo/) - `monorepos` 模式代码仓库的优点。
 
 ### 软件与架构设计
