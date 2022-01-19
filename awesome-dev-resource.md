@@ -624,8 +624,9 @@
 *[Windows Subsystem for Linux](https://docs.microsoft.com/en-us/windows/wsl/) resources.*
 
 - [wsl2-hacks - Updated for Ubuntu 20.04 / 20.10](https://github.com/shayne/wsl2-hacks) - 一些针对 Ubuntu 20.04 / 20.10 的技巧。
-- [WSL2Proxy](https://github.com/wizcas/wsl2proxy) - 配置网络代理的脚本。
 - [LxRunOffline](https://github.com/DDoSolitary/LxRunOffline) - 用于管理适用于 Linux 的 Windows 子系统 (WSL) 的全功能实用程序。
+- [WSL2Proxy](https://github.com/wizcas/wsl2proxy) - 配置网络代理的脚本。
+- [go-wsl2-host](https://github.com/shayne/go-wsl2-host)
 
 ### USB Boot
 
