@@ -581,6 +581,10 @@
   - [bat](https://github.com/sharkdp/bat) - 类似于 `cat` 命令，支持语法高亮等特性。
   - [ripgrep ](https://github.com/BurntSushi/ripgrep) - 类似于 `grep` 命令。
 
+- Bash Utils
+  - [bash-it](https://bash-it.readthedocs.io/) - bash 工具集，提供主题等功能，类似 on-my-zsh。
+  - [oh-my-bash](https://github.com/ohmybash/oh-my-bash)
+
 - [The Fuck](https://github.com/nvbn/thefuck) - 命令行错误命令纠正工具（多平台支持）。
 - [screenFetch](https://github.com/KittyKatt/screenFetch) - 显示系统详细信息。
 - [Glances](https://nicolargo.github.io/glances/) - 系统性能指标监控工具（多平台支持）。
