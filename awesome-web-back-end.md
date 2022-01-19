@@ -13,6 +13,7 @@
 
 - [技术标准规范（Technical Standard Specification）](#技术标准规范)
 - [技术参考文档（Technical Reference Document）](#技术参考文档)
+- [操作系统（Operating System）](#操作系统)
 - [服务器（Server）](#服务器)
 - [数据库（Database）](#数据库)
 - [实用工具（Tools）](#实用工具)
@@ -47,12 +48,19 @@
 
 [`Go Top ↑`](#awesome-web-back-end-list)
 
+## 操作系统
+
+*Server operating system.*
+
+- [Linux](https://www.linux.org/)
+  - [Ubuntu](https://ubuntu.com/) - 最为流行的 Linux 发行版，提供图形化界面等资源。
+  - [Debian](https://www.debian.org/)
+
+[`Go Top ↑`](#awesome-web-back-end-list)
+
 ## 服务器
 
 *Containers that run server-side programs and provide static resource services.*
-
-- [Linux](https://www.linux.org/) - 服务器领域操作系统。
-  - [Ubuntu](https://ubuntu.com/) - 最为流行的 Linux 发行版，提供图形化界面等资源。
   
 - [Nginx](http://nginx.org/en/) - 轻量级、高性能、高并发的 Web 服务器，主要作为负载均衡、反向代理、静态资源服务的前端服务器。
   - [OpenResty](http://openresty.org/) - 算是 Nginx + Lua 的开发平台，提供了很多优质的 Nginx 插件。
