@@ -270,5 +270,6 @@
 - [MSDN, I tell you](https://msdn.itellyou.cn/) - 可下载系统镜像文件。
 - [Free All We Need](https://free.appnee.com/) - 软件注册工具下载。
 - [冰点软件](http://www.bingdian001.com/) - 很多实用小工具，尤其冰点文库相当好用。
+- [Linux Mint](https://www.linuxmint.com/) - 很 Cool 的 Linux 发行版。
 
 [`Go Top ↑`](#awesome-software)
