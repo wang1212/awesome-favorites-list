@@ -35,10 +35,10 @@
   - [源代码管理（Source Code Management）](#源代码管理)
   - [API 文档管理（API Document Management）](#api-文档管理)
   - [服务器远程管理（Server Remote Management）](#服务器远程管理)
-  - [开发辅助工具（Development Utils）](#开发辅助工具)
   - [命令行工具（Command Line Tools）](#命令行工具)
-  - [实用工具（Utilities）](#实用工具)
   - [WSL（Windows Subsystem for Linux）](#wsl)
+  - [USB Boot](#usb-boot)
+  - [实用工具（Utilities）](#实用工具)
 - [工具套件（Tool kit）](#工具套件)
 - [文档站点生成器（Documentation Site Generator）](#文档站点生成器)
 - [更多（More）](#更多)
@@ -501,6 +501,13 @@
 - [UltraEdit](https://www.ultraedit.com/) - 文本编辑器，功能强大，性能较好，**商业软件**。
 - [EmEditor](https://www.emeditor.com/) - 文本编辑器，功能强大，浏览大文件性能很好，**商业软件**。
 
+#### 代码格式化
+
+*Code formatting.*
+
+- [Prettier](https://prettier.io/)
+- [EditorConfig](https://editorconfig.org/)
+
 ### 源代码管理
 
 *Source code version management system and building tools.*
@@ -543,30 +550,6 @@
 
 - [WinSCP](https://winscp.net/) - 一个 Windows 环境下使用 SSH 的开源图形化 SFTP 客户端，同时支持 SCP 协议。
 - [PuTTY](https://www.putty.org/) - 一个集 Telnet、SSH、rlogin、纯 TCP 以及串行接口连接软件，配合 WinSCP 可以很好的远程管理 Linux 服务器。
-
-### 开发辅助工具
-
-*Developer assistance tools, including API management, remote login, and more.*
-
-#### 代码格式化
-
-*Code formatting.*
-
-- [Prettier](https://prettier.io/)
-- [EditorConfig](https://editorconfig.org/)
-
-#### USB Boot
-
-*Make USB boot disk, maintain PE system.*
-
-- [Rufus](https://rufus.ie/)
-- [WePE](http://www.wepe.com.cn/) - Windows PE 系统。
-- Linux
-  - [Universal USB Installer](https://www.pendrivelinux.com/universal-usb-installer-easy-as-1-2-3/) - 可在 U 盘中安装 Linux 操作系统。
-  - [Multiboot USB Creator](https://www.pendrivelinux.com/yumi-multiboot-usb-creator/) - 可在 U 盘中**同时安装多个** Linux 发行版本。
-  - [UNetbootin](http://unetbootin.github.io/) - 制作 Linux Live USB。
-  - [Etcher](https://www.balena.io/etcher) - 制作 Linux Live USB。
-  - [LF](https://github.com/gokcehan/lf) - 终端文件管理工具命令包。
 
 ### 命令行工具
 
@@ -628,6 +611,27 @@
 - [duf](https://github.com/muesli/duf) - 查看硬盘使用情况的工具。
 - [nativefier](https://github.com/nativefier/nativefier) - 可将 Web 网站转换成本地应用。
 
+### WSL
+
+*[Windows Subsystem for Linux](https://docs.microsoft.com/en-us/windows/wsl/) resources.*
+
+- [wsl2-hacks - Updated for Ubuntu 20.04 / 20.10](https://github.com/shayne/wsl2-hacks) - 一些针对 Ubuntu 20.04 / 20.10 的技巧。
+- [WSL2Proxy](https://github.com/wizcas/wsl2proxy) - 配置网络代理的脚本。
+- [LxRunOffline](https://github.com/DDoSolitary/LxRunOffline) - 用于管理适用于 Linux 的 Windows 子系统 (WSL) 的全功能实用程序。
+
+### USB Boot
+
+*Make USB boot disk, maintain PE system.*
+
+- [Rufus](https://rufus.ie/)
+- [WePE](http://www.wepe.com.cn/) - Windows PE 系统。
+- Linux
+  - [Universal USB Installer](https://www.pendrivelinux.com/universal-usb-installer-easy-as-1-2-3/) - 可在 U 盘中安装 Linux 操作系统。
+  - [Multiboot USB Creator](https://www.pendrivelinux.com/yumi-multiboot-usb-creator/) - 可在 U 盘中**同时安装多个** Linux 发行版本。
+  - [UNetbootin](http://unetbootin.github.io/) - 制作 Linux Live USB。
+  - [Etcher](https://www.balena.io/etcher) - 制作 Linux Live USB。
+  - [LF](https://github.com/gokcehan/lf) - 终端文件管理工具命令包。
+
 ### 实用工具
 
 *Utils tools.*
@@ -637,14 +641,6 @@
   - [nodeppt](https://github.com/ksky521/nodeppt) - Markdown 文件生成幻灯片。
   - [reveal.js](https://revealjs.com/)
   - [Slidev](https://sli.dev/)
-
-### WSL
-
-*[Windows Subsystem for Linux](https://docs.microsoft.com/en-us/windows/wsl/) resources.*
-
-- [wsl2-hacks - Updated for Ubuntu 20.04 / 20.10](https://github.com/shayne/wsl2-hacks) - 一些针对 Ubuntu 20.04 / 20.10 的技巧。
-- [WSL2Proxy](https://github.com/wizcas/wsl2proxy) - 配置网络代理的脚本。
-- [LxRunOffline](https://github.com/DDoSolitary/LxRunOffline) - 用于管理适用于 Linux 的 Windows 子系统 (WSL) 的全功能实用程序。
 
 [`Go Top ↑`](#awesome-development-resources)
 
