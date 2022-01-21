@@ -30,7 +30,7 @@
   - [HEALTHCHECK](https://github.com/docker-library/healthcheck) - 容器健康检查的一些示例程序，**官方维护**。
   - [*Awesome-docker*](https://awesome-docker.netlify.app/)
   - CLI Tools
-    - [ctop](https://ctop.sh/) - 容器性能指标监控工具。
+    - [ctop](https://ctop.sh/) - 类似于 `top` 命令，容器性能指标监控工具。
     - [lazydocker](https://github.com/jesseduffield/lazydocker) - Docker 终端 UI 管理工具。
 
 - [Kubernetes](https://kubernetes.io/) - k8s，分布式容器自动化部署、管理。
