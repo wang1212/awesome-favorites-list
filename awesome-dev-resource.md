@@ -584,17 +584,19 @@
   - [fd](https://github.com/sharkdp/fd) -  类似于 `find` 命令，更简单好用。
   - [bat](https://github.com/sharkdp/bat) - 类似于 `cat` 命令，支持语法高亮等特性。
   - [ripgrep ](https://github.com/BurntSushi/ripgrep) - 类似于 `grep` 命令。
+  - [duf](https://github.com/muesli/duf) - 类似于 `df` 命令，查看硬盘使用情况的工具，支持多个平台。
 
-- Bash Utils
+- [Bash](https://www.gnu.org/software/bash/)
   - [bash-it](https://bash-it.readthedocs.io/) - bash 工具集，提供主题等功能，类似 on-my-zsh。
   - [oh-my-bash](https://github.com/ohmybash/oh-my-bash)
+
+- [Z-Shell](https://www.zsh.org/)
+  - [on-my-zsh](https://ohmyz.sh/) - 管理 Z-Shell 配置的框架。
 
 - [The Fuck](https://github.com/nvbn/thefuck) - 命令行错误命令纠正工具（多平台支持）。
 - [screenFetch](https://github.com/KittyKatt/screenFetch) - 显示系统详细信息。
 - [Glances](https://nicolargo.github.io/glances/) - 系统性能指标监控工具（多平台支持）。
 - [ncdu](https://dev.yorhel.nl/ncdu) - 磁盘使用情况统计。
-- [ctop](https://ctop.sh/) - 容器性能指标监控工具。
-- [lazydocker](https://github.com/jesseduffield/lazydocker) - Docker 终端 UI 管理工具。
 - [fzf](https://github.com/junegunn/fzf) - 模糊查找器。
 - [sslh](https://github.com/yrutschle/sslh) - 实现端口复用。
 - [BusyBox](https://www.busybox.net/) - 实用的 Linux 命令集合。
@@ -608,15 +610,12 @@
 - [FFmpeg](http://ffmpeg.org/) - 命令行工具，完整的、跨平台的解决方案，用于记录、转换和流传输音频和视频，**开源软件**。
 - [aria2](https://aria2.github.io/) - 支持多协议、高速文件下载工具，**开源软件**。
 - [PhotoRec](https://www.cgsecurity.org/wiki/PhotoRec) - 文件数据恢复软件，**开源软件**。
-- [Z-Shell](https://www.zsh.org/)
-  - [Oh My Zsh](https://ohmyz.sh/) - 管理 Z-Shell 配置的框架。
 - [gron](https://github.com/tomnomnom/gron) - 使 JSON 数据更易读，**开源软件**。
 - [fx](https://github.com/antonmedv/fx) - 命令行 JSON 处理工具，**开源软件**。
 - [gping](https://github.com/orf/gping) - 图形化 `ping` 命令结果。
 - [tcping](https://elifulkerson.com/projects/tcping.php) - 类似 `ping` 命令，使用 TCP 端口。
 - [subfinder](https://github.com/projectdiscovery/subfinder) - 查找子域名。
 - [dog](https://dns.lookup.dog/) - 命令行 DNS 客户端。
-- [duf](https://github.com/muesli/duf) - 查看硬盘使用情况的工具。
 - [nativefier](https://github.com/nativefier/nativefier) - 可将 Web 网站转换成本地应用。
 
 ### WSL
