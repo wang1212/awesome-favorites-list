@@ -223,6 +223,14 @@
 - 电子书（e-bbok）
   - [Calibre](https://calibre-ebook.com/) - 电子书管理阅读工具，**开源软件**。
 
+### 办公套件
+
+*Office suite.*
+
+- [Apache OpenOffice](https://www.openoffice.org/) - 免费，**开源软件**。
+- [LibreOffice](https://www.libreoffice.org/) - OpenOffice 分支项目，免费，**开源软件**。
+- [WPS Office](https://www.wps.cn/) - 国产软件，多端支持，移动端非常好用，个人使用免费，**商业软件**。
+
 ### 编辑器
 
 *Editor.*
