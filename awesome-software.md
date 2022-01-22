@@ -106,20 +106,21 @@
 *File processing tools.*
 
 - 图片（Image）
-  - [iLoveIMG](https://www.iloveimg.com/zh-cn)
   - [Img2Go](https://www.img2go.com/zh) - 图片处理，还包含 PDF、音频、视频、电子书、OCR 处理等工具。
+  - [iLoveIMG](https://www.iloveimg.com/zh-cn)
   - [Doka.Photo](https://doka.photo/) - 免费在线图片编辑工具。
   - [Online GIF tools](https://onlinegiftools.com/) - 在线 gif 工具。
 
 - PDF
-  - [iLovePDF](https://www.ilovepdf.com/zh-cn)
-  - [HiPDF](https://www.hipdf.cn/)
-  - [Smallpdf](https://smallpdf.com/cn)
-  - [PDF2Go](https://www.pdf2go.com/zh) - PDF 文件处理，还包含图片、音频、视频、电子书、OCR 处理等工具。
-  - [DocTranslator](https://www.onlinedoctranslator.com/zh-CN/) - 在线文档翻译工具，以及 PDF 转 Word 无水印等。
+  - [PDF2Go](https://www.pdf2go.com/zh) - 100MB 文件上限限制，PDF 文件处理，还包含图片、音频、视频、电子书、OCR 处理等工具。
+  - [iLovePDF](https://www.ilovepdf.com/zh-cn) - 15MB 文件上限限制。
+  - [Smallpdf](https://smallpdf.com/cn) - 15MB 文件上限限制。
+  - [HiPDF](https://www.hipdf.cn/) - 10MB 文件上限限制。
+  - [PDFCreator Online](https://tools.pdfforge.org/) - 250MB 文件上限限制。
 
 - 其它（Others）
   - [Koodo Reader](https://koodo.960960.xyz/) - 电子阅读解决方案，支持 Web/Windows/Mac/Linux 等平台，**开源软件**。
+  - [DocTranslator](https://www.onlinedoctranslator.com/zh-CN/) - 在线文档翻译工具，以及 PDF 转 Word 无水印等。
 
 ### 设计工具
 
@@ -215,6 +216,7 @@
 
 - PDF
   - [Sumatra PDF](https://www.sumatrapdfreader.org/) - windows 平台 PDF、CHM 等文件浏览器，**开源软件**。
+  - [PDFsam Basic](https://pdfsam.org/zh/pdfsam-basic/) - 多平台支持的 PDF 拆分、合并、提取等工具，**开源软件**。
 
 - 压缩文件（ZIP/RAR）
   - [7-Zip](https://www.7-zip.org/) - 解压缩软件，兼容主流格式，轻量，无广告，**开源软件**。
