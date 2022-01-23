@@ -168,7 +168,6 @@
 - [Hero Patterns](http://www.heropatterns.com/) - 一些 SVG 背景图。
 - [Get Waves](https://getwaves.io/) - 生成波浪 SVG 背景图。
 - [Cool Backgrounds](https://coolbackgrounds.io/) - 利用渐变，生成 PNG 背景图。
-- [Gradient Magic](https://www.gradientmagic.com/) - CSS 渐变色背景。
 - [namelix](https://namelix.com/) - 输入关键字，利用人工智能生成品牌名称。
 - [hatchful](https://hatchful.shopify.com/) - logo 设计。
 - [logofury](https://www.logofury.com/) - logo 设计。
