@@ -243,7 +243,7 @@
 
 *JavaScript tool libraries (browser-side), such as file manipulation, Canvas drawing, HTTP requests, etc.*
 
-_see also 👉  [Node.JS-工具库](./awesome-nodejs.md#工具库)_
+_see also 👉  [Node.JS-工具库](./awesome-dev-nodejs.md#工具库)_
 
 - 实用工具（Utils）
   - [chroma.js](https://vis4.net/chromajs/) - 颜色字符串解析、计算工具，功能很强大。
@@ -429,7 +429,7 @@ _see also 👉  [Node.JS-工具库](./awesome-nodejs.md#工具库)_
 
 *Build tool, packaging tool used to develop web app, realize web engineering.*
 
-_see also 👉  [Node.JS-构建工具](./awesome-nodejs.md#构建工具)_
+_see also 👉  [Node.JS-构建工具](./awesome-dev-nodejs.md#构建工具)_
 
 - [Create App](https://createapp.dev/) - 前端项目构建工具启动配置。
 
