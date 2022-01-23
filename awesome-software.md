@@ -110,22 +110,42 @@
 
 *File processing tools.*
 
-- 图片（Image）
+#### 图片
+
+*Image.*
+
+- [Image Extractor](https://extract.pics/) - 导出公共网站的图片。
+
+- 图片工具集（Image Toolset）
   - [Img2Go](https://www.img2go.com/zh) - 图片处理，还包含 PDF、音频、视频、电子书、OCR 处理等工具。
   - [iLoveIMG](https://www.iloveimg.com/zh-cn)
   - [Doka.Photo](https://doka.photo/) - 免费在线图片编辑工具。
   - [Online GIF tools](https://onlinegiftools.com/) - 在线 gif 工具。
 
-- PDF
-  - [PDF2Go](https://www.pdf2go.com/zh) - 100MB 文件上限限制，PDF 文件处理，还包含图片、音频、视频、电子书、OCR 处理等工具。
-  - [iLovePDF](https://www.ilovepdf.com/zh-cn) - 15MB 文件上限限制。
-  - [Smallpdf](https://smallpdf.com/cn) - 15MB 文件上限限制。
-  - [HiPDF](https://www.hipdf.cn/) - 10MB 文件上限限制。
-  - [PDFCreator Online](https://tools.pdfforge.org/) - 250MB 文件上限限制。
+- 图片压缩（Image Compression）
+  - [Compress Image Online](https://compressimage.io/)
+  - [Squoosh](https://squoosh.app/)
+  - [Compress PNG](https://compresspng.com/)
+  - [Picdiet](https://www.picdiet.com/)
+  - [TinyPNG](https://tinypng.com/)
+  - [Optimizilla](https://imagecompressor.com/)
+  - [压缩图](https://www.yasuotu.com/)
+  - [色彩笔](http://www.secaibi.com/tools/)
 
-- 其它（Others）
-  - [Koodo Reader](https://koodo.960960.xyz/) - 电子阅读解决方案，支持 Web/Windows/Mac/Linux 等平台，**开源软件**。
-  - [DocTranslator](https://www.onlinedoctranslator.com/zh-CN/) - 在线文档翻译工具，以及 PDF 转 Word 无水印等。
+#### PDF
+
+- [PDF2Go](https://www.pdf2go.com/zh) - 100MB 文件上限限制，PDF 文件处理，还包含图片、音频、视频、电子书、OCR 处理等工具。
+- [iLovePDF](https://www.ilovepdf.com/zh-cn) - 15MB 文件上限限制。
+- [Smallpdf](https://smallpdf.com/cn) - 15MB 文件上限限制。
+- [HiPDF](https://www.hipdf.cn/) - 10MB 文件上限限制。
+- [PDFCreator Online](https://tools.pdfforge.org/) - 250MB 文件上限限制。
+
+#### 其它
+
+*Others.*
+
+- [Koodo Reader](https://koodo.960960.xyz/) - 电子阅读解决方案，支持 Web/Windows/Mac/Linux 等平台，**开源软件**。
+- [DocTranslator](https://www.onlinedoctranslator.com/zh-CN/) - 在线文档翻译工具，以及 PDF 转 Word 无水印等。
 
 ### 设计工具
 
@@ -202,30 +222,43 @@
 
 *File processing tools.*
 
-- 文件管理工具（File Management Tools）
-  - [Listary](https://www.listary.com/) - 可快速搜索文件，打开应用软件，**个人用户免费**。
-  - [Everything](https://www.voidtools.com/zh-cn/) - 文件快速搜索工具，**免费软件**。
-  - [SpaceSniffer](http://www.uderzo.it/main_products/space_sniffer/index.html) - 磁盘扫描工具，可视化文件占比分析，**免费软件**。
-  - [QuickLook](https://pooi.moe/QuickLook/) - 文件内容预览工具，界面美观，**开源软件**。
-  - [Seer](http://1218.io/) - 文件内容预览工具，界面较为简陋，**提供免费版本**。
-  - [WizTree](https://wiztreefree.com/) - 磁盘空间分析工具，统计文件夹大小，**免费软件**。
+#### 文件管理工具
 
-- 图片（Image）
-  - [ImageGlass](https://imageglass.org/) - 非常轻量的图片浏览器，支持中文，**开源软件**。
-  - [qimgv](https://github.com/easymodo/qimgv) - 图片浏览器，支持视频预览，**开源软件**。
-  - [qView](https://interversehq.com/qview/) - 图片浏览器，轻量、简单，**开源软件**。
-  - [Picasa](https://picasa.google.com/) - 图片浏览器，Google 公司开发。（:warning: 停止支持）
+*File Management Tools.*
 
-- PDF
-  - [Sumatra PDF](https://www.sumatrapdfreader.org/) - windows 平台 PDF、CHM 等文件浏览器，**开源软件**。
-  - [PDFsam Basic](https://pdfsam.org/zh/pdfsam-basic/) - 多平台支持的 PDF 拆分、合并、提取等工具，**开源软件**。
+- [Listary](https://www.listary.com/) - 可快速搜索文件，打开应用软件，**个人用户免费**。
+- [Everything](https://www.voidtools.com/zh-cn/) - 文件快速搜索工具，**免费软件**。
+- [SpaceSniffer](http://www.uderzo.it/main_products/space_sniffer/index.html) - 磁盘扫描工具，可视化文件占比分析，**免费软件**。
+- [QuickLook](https://pooi.moe/QuickLook/) - 文件内容预览工具，界面美观，**开源软件**。
+- [Seer](http://1218.io/) - 文件内容预览工具，界面较为简陋，**提供免费版本**。
+- [WizTree](https://wiztreefree.com/) - 磁盘空间分析工具，统计文件夹大小，**免费软件**。
 
-- 压缩文件（ZIP/RAR）
-  - [7-Zip](https://www.7-zip.org/) - 解压缩软件，兼容主流格式，轻量，无广告，**开源软件**。
-  - [Bandizip](http://www.bandisoft.com/) - 解压缩软件，兼容主流格式，UI 比较精美，轻量，**标准版免费，但有非推送广告**。
+#### 图片
 
-- 电子书（e-bbok）
-  - [Calibre](https://calibre-ebook.com/) - 电子书管理阅读工具，**开源软件**。
+*Image.*
+
+- [ImageGlass](https://imageglass.org/) - 非常轻量的图片浏览器，支持中文，**开源软件**。
+- [qimgv](https://github.com/easymodo/qimgv) - 图片浏览器，支持视频预览，**开源软件**。
+- [qView](https://interversehq.com/qview/) - 图片浏览器，轻量、简单，**开源软件**。
+- [Picasa](https://picasa.google.com/) - 图片浏览器，Google 公司开发。（:warning: 停止支持）
+
+#### PDF
+
+- [Sumatra PDF](https://www.sumatrapdfreader.org/) - windows 平台 PDF、CHM 等文件浏览器，**开源软件**。
+- [PDFsam Basic](https://pdfsam.org/zh/pdfsam-basic/) - 多平台支持的 PDF 拆分、合并、提取等工具，**开源软件**。
+
+#### 压缩文档
+
+*ZIP/RAR.*
+
+- [7-Zip](https://www.7-zip.org/) - 解压缩软件，兼容主流格式，轻量，无广告，**开源软件**。
+- [Bandizip](http://www.bandisoft.com/) - 解压缩软件，兼容主流格式，UI 比较精美，轻量，**标准版免费，但有非推送广告**。
+
+#### 电子书
+
+*e-bbok.*
+
+- [Calibre](https://calibre-ebook.com/) - 电子书管理阅读工具，**开源软件**。
 
 ### 办公套件
 
