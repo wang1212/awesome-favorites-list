@@ -28,9 +28,9 @@ _Cheat sheet._
 - [:sunglasses: Git Cheat Sheets](https://training.github.com/) `github` `cli`
 - [GitHub Cheat Sheet](http://git.io/sheet) `github` `cli` `website` 
 
-### :bookmark: `apt-get` `apt-cache` `dpkg` `Debian` `Ubuntu` `Linux` `Unix`
+### :bookmark: `Debian` `Ubuntu` `Linux` `Unix`
 
-- [APT Cheat Sheet](https://blog.packagecloud.io/apt-cheat-sheet/) `cli`
+- [APT Cheat Sheet](https://blog.packagecloud.io/apt-cheat-sheet/) `apt-get` `apt-cache` `dpkg` `cli`
 
 ### :bookmark: `CSS`
 
