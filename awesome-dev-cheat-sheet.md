@@ -43,9 +43,9 @@ _Cheat sheet._
 ### :bookmark: `Docker`
 
 - [:sunglasses: docker-cheat-sheet](https://www.docker.com/sites/default/files/d8/2019-09/docker-cheat-sheet.pdf) `cli`
-- [The Ultimate Docker Cheat Sheet](https://dockerlabs.collabnix.com/docker/cheatsheet/) `cli` `script`
-- [Docker Cheat Sheet](https://github.com/wsargent/docker-cheat-sheet) `docs` `cli` `script`
-- [docker CLI & Dockerfile Cheat Sheet](https://design.jboss.org/redhatdeveloper/marketing/docker_cheatsheet/cheatsheet/images/docker_cheatsheet_r3v2.pdf) `cli` `script`
+- [The Ultimate Docker Cheat Sheet](https://dockerlabs.collabnix.com/docker/cheatsheet/) `cli` `dockerfile` `docker-compose`
+- [Docker Cheat Sheet](https://github.com/wsargent/docker-cheat-sheet) `docs` `cli` `dockerfile` `docker-compose`
+- [docker CLI & Dockerfile Cheat Sheet](https://design.jboss.org/redhatdeveloper/marketing/docker_cheatsheet/cheatsheet/images/docker_cheatsheet_r3v2.pdf) `cli` `dockerfile`
 - [Docker Commands Cheat Sheet](https://buddy.works/tutorials/docker-commands-cheat-sheet) `cli`
 
 ### :bookmark: `AI`
