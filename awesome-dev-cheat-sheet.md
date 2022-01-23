@@ -6,3 +6,56 @@
 </div>
 
 <br />
+
+## 备忘单
+
+_Cheat sheet._
+
+### :bookmark: `Emoji` :smile:
+
+- [Emojipedia](https://emojipedia.org/) `codepoint` `shortcode`
+- [Emoji Cheat Sheet](https://www.webfx.com/tools/emoji-cheat-sheet/) `shortcode`
+- [Emoji Searcher](https://emoji.muan.co/)
+- [github emoji markup](https://gist.github.com/rxaviers/7360908) `github` `shortcode`
+- [gitmoji](https://gitmoji.dev/) `git` `shortcode`
+
+### :bookmark: `Toolset`
+
+- [cheat.sh](https://cheat.sh/)
+
+### :bookmark: `Git` `GitHub`
+
+- [:sunglasses: Git Cheat Sheets](https://training.github.com/) `github` `cli`
+- [GitHub Cheat Sheet](http://git.io/sheet) `github` `cli` `website` 
+
+### :bookmark: `apt-get` `apt-cache` `dpkg` `Debian` `Ubuntu` `Linux` `Unix`
+
+- [APT Cheat Sheet](https://blog.packagecloud.io/apt-cheat-sheet/) `cli`
+
+### :bookmark: `CSS`
+
+- [BEM Cheat Sheet](https://9elements.com/bem-cheat-sheet/) `bem` `rule`
+
+### :bookmark: `Bash`
+
+- [Bash scripting cheatsheet](https://devhints.io/bash) `script`
+
+### :bookmark: `Docker`
+
+- [:sunglasses: docker-cheat-sheet](https://www.docker.com/sites/default/files/d8/2019-09/docker-cheat-sheet.pdf) `cli`
+- [The Ultimate Docker Cheat Sheet](https://dockerlabs.collabnix.com/docker/cheatsheet/) `cli` `script`
+- [Docker Cheat Sheet](https://github.com/wsargent/docker-cheat-sheet) `docs` `cli` `script`
+- [docker CLI & Dockerfile Cheat Sheet](https://design.jboss.org/redhatdeveloper/marketing/docker_cheatsheet/cheatsheet/images/docker_cheatsheet_r3v2.pdf) `cli` `script`
+- [Docker Commands Cheat Sheet](https://buddy.works/tutorials/docker-commands-cheat-sheet) `cli`
+
+### :bookmark: `AI`
+
+- [AI Cheatsheets](https://github.com/kailashahirwar/cheatsheets-ai) `deep learning` `machine learning`
+
+### :bookmark: `Security`
+
+- [OWASP Cheat Sheet Series](https://cheatsheetseries.owasp.org/index.html) `application`
+
+### :bookmark: `Math`
+
+- [math-as-code](https://github.com/Jam3/math-as-code) `math` `notation` `script`
