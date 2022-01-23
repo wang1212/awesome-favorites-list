@@ -39,6 +39,7 @@
 *Official and unofficial technical reference documents.*
 
 - [REST API Tutorial](https://restfulapi.net/) - REST API 教程。
+  - [Learn REST](http://rest.elkstein.org/)
 
 - 微服务（Microservices）
   - [Microservices Guide](https://martinfowler.com/microservices/) - 微服务指南。
@@ -68,6 +69,7 @@
   - [ngxtop](https://github.com/lebinh/ngxtop) - Python 编写的工具，实时分析 nginx 的运行指标。
   - [rhit](https://github.com/Canop/rhit) - nginx 日志浏览器，指标分析工具。
   - [NGINX Config](https://www.digitalocean.com/community/tools/nginx) - Nginx 配置在线生成工具，**非官方**。
+  - [Nginx Proxy Manager](https://nginxproxymanager.com/) - nginx 代理服务管理器，提供 UI 交互界面，**开源软件**。
 
 - [HAProxy](https://www.haproxy.org/) - 可靠、高性能的负载均衡器。
 - [Varnish HTTP Cache](https://varnish-cache.org/) - 专用 HTTP 缓存服务器。
@@ -81,7 +83,7 @@
 
 ## 数据库
 
-- [RethinkDB](https://rethinkdb.com/) - 开源的构建实时 Web 应用的数据库。
+- [RethinkDB](https://rethinkdb.com/) - **开源**的构建实时 Web 应用的数据库。
 
 ### 数据库管理系统（Database Management System）
 
@@ -113,7 +115,6 @@
 
 *Some articles related to server-side problem solutions.*
 
-- [Learn REST](http://rest.elkstein.org/) - RESTful 学习参考。
 - [How To Safely Store A Password](https://codahale.com/how-to-safely-store-a-password/)
 - [Nginx Caching](https://serversforhackers.com/c/nginx-caching) - 利用 Nginx 进行缓存。
 
