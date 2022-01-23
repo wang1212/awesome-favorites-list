@@ -42,7 +42,7 @@
   - [动画（Animation）](#动画)
 - [开发框架（Framework）](#开发框架)
 - [应用状态管理（Application State Management）](#应用状态管理)
-- [WebAssembly](awesome-webassembly.md)
+- [WebAssembly](awesome-dev-web-webassembly.md)
 - [深入探索（Explore In Depth）](#深入探索)
 - [更多（More）](#更多)
   - [CDN](#cdn)
