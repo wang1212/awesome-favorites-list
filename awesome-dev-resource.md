@@ -263,7 +263,7 @@
 
 *Online Resources.*
 
-_see also 👉  [浏览器端软件资源](./awesome-software.md#浏览器端)_
+_see also 👉  [Web 端软件资源](./awesome-software.md#浏览器端)_
 
 ### 在线实用工具
 
