@@ -22,6 +22,7 @@
 - 软件开发（Software Development）
   - [技术标准规范（Technical Standard Specification）](awesome-dev-specifications.md)
   - [开发资源（Development Resources）](awesome-dev-resource.md)
+  - [开发备忘单（Development Cheat Sheet）](awesome-dev-cheat-sheet.md)
   - [开源开发团队（Development Team）](awesome-dev-team.md)
   - [云开发（Cloud Development）](awesome-cloud-dev.md)
   - [Web 后端（Web Backend）](awesome-web-back-end.md)
