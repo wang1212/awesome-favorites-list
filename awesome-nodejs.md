@@ -114,7 +114,7 @@
 
 *Build tools.*
 
-_see also 👉  [JS-构建工具](./awesome-web-front-end.md#构建工具)_
+_see also 👉  [JS-构建工具](./awesome-dev-web-front-end.md#构建工具)_
 
 - 文档（Doc）
   - [JSDoc](https://jsdoc.app/) - JavaScript 的 API 文档生成工具。
@@ -198,7 +198,7 @@ _see also 👉  [JS-构建工具](./awesome-web-front-end.md#构建工具)_
 
 *Tool Library, some unofficial high-quality Node.js packages (or libraries).*
 
-_see also 👉  [JS-工具库](./awesome-web-front-end.md#js-工具库) | [awesome-nodejs](https://github.com/zerolab-fe/awesome-nodejs)_
+_see also 👉  [JS-工具库](./awesome-dev-web-front-end.md#js-工具库) | [awesome-nodejs](https://github.com/zerolab-fe/awesome-nodejs)_
   
 - 异步操作（Asynchronous operation）
   - [promise-fun](https://github.com/sindresorhus/promise-fun) - `Promise` 工具库集合。
