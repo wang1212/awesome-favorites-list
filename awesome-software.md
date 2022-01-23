@@ -140,11 +140,16 @@
 - [HiPDF](https://www.hipdf.cn/) - 10MB 文件上限限制。
 - [PDFCreator Online](https://tools.pdfforge.org/) - 250MB 文件上限限制。
 
+#### 电子书
+
+*e-book.*
+
+- [Koodo Reader](https://koodo.960960.xyz/) - 电子阅读解决方案，支持 Web/Windows/Mac/Linux 等平台，**开源软件**。
+
 #### 其它
 
 *Others.*
 
-- [Koodo Reader](https://koodo.960960.xyz/) - 电子阅读解决方案，支持 Web/Windows/Mac/Linux 等平台，**开源软件**。
 - [DocTranslator](https://www.onlinedoctranslator.com/zh-CN/) - 在线文档翻译工具，以及 PDF 转 Word 无水印等。
 
 ### 设计工具
@@ -256,7 +261,7 @@
 
 #### 电子书
 
-*e-bbok.*
+*e-book.*
 
 - [Calibre](https://calibre-ebook.com/) - 电子书管理阅读工具，**开源软件**。
 
