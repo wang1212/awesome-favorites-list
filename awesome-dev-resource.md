@@ -300,12 +300,6 @@ _see also 👉  [Web 端软件资源](./awesome-software.md#浏览器端)_
   - [iHateRegex](https://ihateregex.io/)
   - [regexr](https://regexr.com/)
 
-- emoji :smile:
-  - [Emojipedia](https://emojipedia.org/)
-  - [emoji-cheat-sheet](https://www.webfx.com/tools/emoji-cheat-sheet/) - emoji 表情代码备忘录。
-  - [Emoji Searcher](https://emoji.muan.co/) - emoji 表情列表。
-  - [github emoji markup](https://gist.github.com/rxaviers/7360908) - GitHub markdown emoji 标记列表。
-
 ### 公共 API
 
 *Public api.*
