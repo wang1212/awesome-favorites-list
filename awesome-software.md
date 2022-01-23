@@ -54,7 +54,7 @@
 
 *（Recommend）国内可访问的**非官方**扩展商店，:point_right: [Extfans](https://www.extfans.com/) 或 [极简插件](https://chrome.zzzmh.cn/) 或 [crx4chrome](https://www.crx4chrome.com/)*
 
-### 日常工具
+### 实用工具
 
 *Daily tools, such as language translation, note application, etc.*
 
@@ -93,13 +93,18 @@
 
 *Software that can be used in a web browser. (Progressive web application)*
 
-### 日常工具
+### 实用工具
 
 *Daily tools.*
 
-- [DuckDuckgo](https://duckduckgo.com/) - 安全、隐私友好的搜索引擎。
-- [Speedtest](https://www.speedtest.net/) - 专业测速。
-- [SimilarSites](https://www.similarsites.com/) - 查询相似站点。（提供 Chrome 扩展）
+- 工具集（Toolset）
+  - https://onlinegiftools.com/
+  - https://www.img2go.com/
+
+- 其它（Others）
+  - [DuckDuckgo](https://duckduckgo.com/) - 安全、隐私友好的搜索引擎。
+  - [Speedtest](https://www.speedtest.net/) - 专业测速。
+  - [SimilarSites](https://www.similarsites.com/) - 查询相似站点。（提供 Chrome 扩展）
 
 ### 文件处理
 
