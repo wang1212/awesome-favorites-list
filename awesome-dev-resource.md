@@ -263,6 +263,8 @@
 
 *Online Resources.*
 
+_see also 👉  [浏览器端软件资源](./awesome-software.md#浏览器端)_
+
 ### 在线实用工具
 
 *Online utils tools.*
@@ -324,81 +326,11 @@
 
 *Design Tools.*
 
-- [设计师网址导航](https://hao.uisdc.com/)
-- [设计导航](http://hao.shejidaren.com/index.html)
-- [Boss 设计](https://www.bossdesign.cn/) - 收集国内外设计素材资源的网站。
-- [Dribbble](https://dribbble.com/)
-- [UI 中国用户体验设计平台](https://www.ui.cn/)
-- [花瓣网](https://huaban.com/) - 设计素材网站。
-- [Pexels](https://www.pexels.com/zh-cn/) - 免费的摄影素材分享。
-- [Unsplash](https://unsplash.com/) - **免费**的图片素材。
-- [Pikwizard](https://pikwizard.com/) - **免版税**的图片、视频素材。
-- [Zoomstock](https://zoomstock.com/) - 搜索引擎，可索引来自免费顶级图片网站的数百万张照片和插图。
 - [Code My UI](https://codemyui.com/) - Web UI 设计相关的代码片段。
-- [BGJar](https://bgjar.com/) - 在线 SVG 背景图生成。
-- [Trianglify.io](https://trianglify.io/) - 生成三角网 SVG 背景图。
-- [Hero Patterns](http://www.heropatterns.com/) - 一些 SVG 背景图。
-- [Get Waves](https://getwaves.io/) - 生成波浪 SVG 背景图。
-- [Cool Backgrounds](https://coolbackgrounds.io/) - 利用渐变，生成 PNG 背景图。
-- [Gradient Magic](https://www.gradientmagic.com/) - CSS 渐变色背景。
-- [namelix](https://namelix.com/) - 输入关键字，利用人工智能生成品牌名称。
-- [hatchful](https://hatchful.shopify.com/) - logo 设计。
-- [logofury](https://www.logofury.com/) - logo 设计。
-- [Free Favicon Maker](https://formito.com/tools/favicon) - SVG 图标制作。
-- [Flat Icon](https://www.flaticon.com/) - 图标市场。
-- [iconsax](https://iconsax.io/) - 可免费商用的图标库。
-- [Inspyr Icon](https://inspyr.io/) - SVG 图标。
-- [Icons8](https://icons8.com/) - 免费图标，设计工具。
-- [IconKitchen](https://icon.kitchen/) - App 图标设计工具。
-- [Font Pair](https://fontpair.co/) - 排版工具。
-- [Vecteezy](https://www.vecteezy.com/) - 图片素材。
-- [MixKit](https://mixkit.co/free-stock-art/) - 图片素材。
-- [Iconduck](https://iconduck.com/) - **免费开源**的图标与插画素材。
-
-#### 配色方案
-
-*Coloring scheme.*
-
-- [Colormind ](http://colormind.io/) - 利用深度学习生成配色方案。
-- [Open Color](https://yeun.github.io/open-color/)
-- [Color Hunt](https://colorhunt.co/)
-- [coolors](https://coolors.co/palettes/)
-- [Sorted CSS Colors](https://enes.in/sorted-colors/)
-- [Grabient](https://www.grabient.com/) - 渐变色。
-- [material design palette](https://www.materialpalette.com/) - Google Material Design 设计工具，提供官方图标（Material Icons）下载，**非官方**。
-
-#### 插画素材
-
-*Illustration material.*
-
-- [unDraw](https://undraw.co/) - 插画素材，扁平风格，**免费下载、开源**。
-- [Open Doodles](https://www.opendoodles.com/) - 插画素材，**免费下载、开源**。
-- [Open source illustrations kit](https://illlustrations.co/) - 插画素材，**免费下载、开源**。
-- [Lukasz Adam Free Illustrations](https://lukaszadam.com/illustrations) - 插画素材，**免费下载、开源**。
-- [Ouch](https://icons8.com/ouch) - 插画素材，**免费下载，Icons8 提供**。
-- [DrawKit](https://www.drawkit.io/)- 插画素材，矢量图标，**免费下载**。
-- [Awesome illustrations](https://stories.freepik.com/) - 插画素材，**免费下载**。
-- [Delesign](https://delesign.com/free-designs/graphics)- 插画素材，矢量图标，**免费下载**。
-- [Gallery.Manypixels](https://www.manypixels.co/gallery/) - 插画素材，**免费下载**。
 
 ### 图像工具
 
 *Image tool.*
-
-- [Image Extractor](https://extract.pics/) - 导出公共网站的图片。
-
-#### 图片压缩
-
-*Image Compression.*
-
-- [Compress Image Online](https://compressimage.io/)
-- [Squoosh](https://squoosh.app/)
-- [Compress PNG](https://compresspng.com/)
-- [Picdiet](https://www.picdiet.com/)
-- [TinyPNG](https://tinypng.com/)
-- [Optimizilla](https://imagecompressor.com/)
-- [压缩图](https://www.yasuotu.com/)
-- [色彩笔](http://www.secaibi.com/tools/)
 
 #### 占位图像服务
 
