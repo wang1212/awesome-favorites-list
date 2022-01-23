@@ -155,14 +155,11 @@
 - [ShareX](https://getsharex.com/) - 截屏、录屏、文本转换、DNS 更换等等，生产力工具，**开源软件**。
 - [Snipaste](https://www.snipaste.com/) - 截图小工具，**免费软件**。
 - [Ditto](https://ditto-cp.sourceforge.io/) - 粘贴板管理工具，**开源软件**。
-- [Dns Jumper](https://www.sordum.org/7952/dns-jumper-v2-2/) - 测速、快速切换 DNS 工具，**免费软件**。
 - [PasteEx](https://github.com/huiyadanli/PasteEx) - 将粘贴板内容保存成文件，**开源软件**。
 - [CopyTranslator](https://github.com/CopyTranslator/CopyTranslator) - 桌面划词翻译，**免费开源软件**。
 - [Rainmeter](https://www.rainmeter.net/) - Windows 桌面自定义小工具，**开源软件**。
 - [uTools](http://www.u.tools/) - 生产力工具，包含许多小工具，**免费软件**。
 - [Module Art](https://moduleart.github.io/) - 软件集合，包含图片浏览器、录屏软件等，**开源软件**。
-- [WhatPulse](https://whatpulse.org/) - 记录 PC 活动情况，例如统计键盘热力图、带宽情况等等，**提供免费版本**。
-- [SwitchHosts](https://swh.app/) - 快速切换 hosts 方案的实用工具，**免费开源软件**。
 
 ### 浏览器
 
@@ -261,6 +258,9 @@
 - [CPU-Z](https://www.cpuid.com/softwares/cpu-z.html) - CPU 检测工具。
 - [GPU-Z](https://www.techpowerup.com/gpuz/) - GPU 检测工具。
 - [Dism++](https://www.chuyu.me/) - 实用的系统优化维护工具。
+- [WhatPulse](https://whatpulse.org/) - 记录 PC 活动情况，例如统计键盘热力图、带宽情况等等，**提供免费版本**。
+- [Dns Jumper](https://www.sordum.org/7952/dns-jumper-v2-2/) - 测速、快速切换 DNS 工具，**免费软件**。
+- [SwitchHosts](https://swh.app/) - 快速切换 hosts 方案的实用工具，**免费开源软件**。
 
 ### 其它
 
