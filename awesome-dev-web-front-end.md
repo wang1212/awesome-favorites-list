@@ -837,7 +837,7 @@ _see also 👉  [Node.JS-构建工具](./awesome-nodejs.md#构建工具)_
 - [Backbone.js](https://backbonejs.org/) - 为 Web 应用开发引入 MVC 模型概念。
 
 - [React.js](https://reactjs.org/) -  前端响应式 UI 库，其技术生态圈非常繁荣，Facebook 公司发布。
-  - [Awesome-React.js](./awesome-reactjs.md) - React.js 生态技术汇总。
+  - [_Awesome-React.js_](./awesome-dev-web-reactjs.md) - _React.js 生态技术汇总。_
   
 - [Vue.js](https://vuejs.org/)
 
