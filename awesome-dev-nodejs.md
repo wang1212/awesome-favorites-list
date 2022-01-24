@@ -184,9 +184,11 @@ _see also 👉  [JS-构建工具](./awesome-dev-web-front-end.md#构建工具)_
 - 编译器（Compiler）
   - [TS Node](https://github.com/TypeStrong/ts-node) - Node.js 的 TypeScript 语言运行器和交互式解释器。
   - [Neon](https://neon-bindings.com/) - Rust 的 Node.js 绑定，可用来编写快速、安全的原生模块。
-  - Ruby to JavaScript
+  - Ruby 2 JavaScript
     - [Opal](https://opalrb.com/)
     - [Ruby2JS](https://www.ruby2js.com/) - Ruby 到现代 JavaScript 代码的转换器。
+  - Scala 2 JavaScript
+    - [Scala.js](https://www.scala-js.org/)
 
 - 打包工具（Bundler）
   - [Rollup](http://rollupjs.org/) - 打包工具，适合开发库、框架。
