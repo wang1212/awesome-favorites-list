@@ -7,6 +7,8 @@
 
 <br />
 
+_see also :point_right: https://github.com/LeCoupa/awesome-cheatsheets_
+
 ## 备忘单
 
 _Cheat sheet._
