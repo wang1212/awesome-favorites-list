@@ -345,7 +345,8 @@ _see also 👉  [Node.JS-工具库](./awesome-dev-nodejs.md#工具库)_
 
 - 绘图（Canvas && Draw）
   - [DOM to Image](https://github.com/tsayen/dom-to-image/) - 利用 HTML5 Canvas 生成 DOM 节点的快照图片。
-  - [html2canvas](https://html2canvas.hertzen.com) - 截屏，利用 HTML5 Canvas 生成 DOM 节点的快照图片。
+    - [html2canvas](https://html2canvas.hertzen.com)
+    - [rasterizeHTML.js](http://cburgmer.github.io/rasterizeHTML.js/)
   - [Create.js](https://createjs.com) - 工具套件，包含 Canvas、Web Audio 等工具库。
   - [Konva](https://konvajs.org) - 用于桌面和移动应用程序的 HTML5 2D canvas 库。
   - [Two.js](https://two.js.org/) - Web 二维绘图工具库，基于 Canvas、Svg、WebGL。
@@ -736,6 +737,7 @@ _see also 👉  [Node.JS-构建工具](./awesome-dev-nodejs.md#构建工具)_
   - [Tippy.js](https://atomiks.github.io/tippyjs/) - 工具提示组件。
   - [Smooth Scrollbar](https://idiotwu.github.io/smooth-scrollbar/) - 自定义滚动条，替代原生滚动事件。
   - [OverlayScrollbars](https://github.com/KingSora/OverlayScrollbars) - 自定义滚动条。
+  - [sharer.js/](https://ellisonleao.github.io/sharer.js/) - 创建社交网站分享按钮。
 
 ### UI 模板
 
