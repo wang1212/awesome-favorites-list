@@ -94,6 +94,7 @@
   - [PickBetterPack](https://pickbetterpack.com/) 根据 `package.json` 文件分析已安装包的相似的依赖包。
   - [Npm Charts](https://npmcharts.com/) - 可以查询对比多个 Npm 包的下载流量数据、star 数目等。
   - [Microjs](http://microjs.com/) - 查询可用的最小的包。
+  - [vanilla list](https://vanillalist.top/) - 查询可用的最小的包。
 
 - 包分析（Package Analysis）
   - [BUNDLEPHOBIA](https://bundlephobia.com/) - 分析 npm 包大小和依赖关系。
