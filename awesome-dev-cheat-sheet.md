@@ -7,8 +7,6 @@
 
 <br />
 
-_see also :point_right: https://github.com/LeCoupa/awesome-cheatsheets_
-
 ## 备忘单
 
 _Cheat sheet._
@@ -61,3 +59,9 @@ _Cheat sheet._
 ### :bookmark: `Math`
 
 - [math-as-code](https://github.com/Jam3/math-as-code) `math` `notation` `script`
+
+## 更多
+
+_More._
+
+> _see also :point_right: https://github.com/LeCoupa/awesome-cheatsheets_
