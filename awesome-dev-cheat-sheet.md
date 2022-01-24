@@ -64,4 +64,6 @@ _Cheat sheet._
 
 _More._
 
+- [Red Hat Developer Cheat Sheets](https://developers.redhat.com/cheat-sheets)
+
 > _see also :point_right: https://github.com/LeCoupa/awesome-cheatsheets_
