@@ -136,7 +136,6 @@
 
 - CSS 类命名规则（CSS class naming rules）
   - [CSS BEM](https://en.bem.info/)
-    - [BEM Cheat Sheet](https://9elements.com/bem-cheat-sheet/)
   - [OOCSS](https://github.com/stubbornella/oocss/wiki)
   - [SMACSS](http://smacss.com/)
   - [Atomic CSS](https://acss.io/)
@@ -271,18 +270,20 @@ _see also 👉  [Node.JS-工具库](./awesome-dev-nodejs.md#工具库)_
 
 - 文档对象模型（DOM）
   - [jQuery](https://jquery.com/) - 前几年非常流行的 DOM 操作工具库，处理了兼容性的细节问题。
-  - [Zepto.js](https://zeptojs.com/) - 兼容 jQuery API 的轻量级工具库，适合移动端使用。
-  - [cash-dom](https://github.com/fabiospampinato/cash) - 轻量级 DOM 工具库，可作为 jQuery 的替代，但仅支持现代浏览器。
+    - [Zepto.js](https://zeptojs.com/) - 兼容 jQuery API 的轻量级工具库，适合移动端使用。（:warning: 不再更新）
+    - [cash-dom](https://github.com/fabiospampinato/cash) - 轻量级 DOM 工具库，可作为 jQuery 的替代，但仅支持现代浏览器。
+    - [Umbrella JS](https://umbrellajs.com/) - 可替代 jQuery 的轻量级工具库。
+    - [Bliss.js](https://blissfuljs.com/index.html) - 基于原生 API 的轻量级工具库。
   - [Lozad.js](https://github.com/ApoorvSaxena/lozad.js) - 轻量、高性能图片懒加载工具，使用了 [Intersection Observer API](https://developer.mozilla.org/en-US/docs/Web/API/Intersection_Observer_API)。
   - [clipboard.js](https://clipboardjs.com/) - 现代的粘贴板工具库。
   - [Tether](http://tether.io/) - 元素跟踪定位工具。
-  - [popper.js](https://popper.js.org/) - 元素定位工具。
+    - [popper.js](https://popper.js.org/) - 元素定位工具。
   - [print.js](https://printjs.crabbly.com/) - 网页打印工具。  
   - [Quicklink](https://getquick.link/) - 预请求视区内的资源，加快页面加载速度。
   - [fastdom](https://github.com/wilsonpage/fastdom) - 批处理 DOM 操作。
-  - [history](https://github.com/remix-run/history) - 管理页面路由。
   
 - 事件（Event）
+  - [history](https://github.com/remix-run/history) - 管理页面路由。
   - [Hammer.js](http://hammerjs.github.io/) - 支持移动端触摸事件，以及手势操作、多点触控。（:warning: 不再维护）
   - [interact.js](https://interactjs.io/) - 同上。
   - [@use-gesture/vanilla](https://use-gesture.netlify.app/) - 处理手势操作。
