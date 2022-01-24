@@ -87,6 +87,19 @@
   - [auto](https://intuit.github.io/auto/index) - 自动化发布。
   - [Denoify](https://github.com/garronej/denoify) - 为 npm 模块作者提供 Deno 支持。
 
+- 包搜索（Package Search）
+  - [OpenBase JavaScript](https://openbase.com/) - npm 模块分类排名。
+  - [Npm Trends](https://www.npmtrends.com/) - 可以查询对比多个 Npm 包的下载流量数据、star 数目等。
+  - [Moiva](https://moiva.io/) - 比较 Github 和 npm 包下载趋势，关注度等等。
+  - [PickBetterPack](https://pickbetterpack.com/) 根据 `package.json` 文件分析已安装包的相似的依赖包。
+  - [Npm Charts](https://npmcharts.com/) - 可以查询对比多个 Npm 包的下载流量数据、star 数目等。
+  - [Microjs](http://microjs.com/) - 查询可用的最小的包。
+
+- 包分析（Package Analysis）
+  - [BUNDLEPHOBIA](https://bundlephobia.com/) - 分析 npm 包大小和依赖关系。
+  - [Package Phobia](https://packagephobia.com/) - 分析 npm 包大小。
+  - [runpkg](https://www.runpkg.com/) - 在线浏览 npm 包内的文件内容。
+
 - [Monorepo](https://en.wikipedia.org/wiki/Monorepo) 工具（Monorepo Tools）
   - [Lerna](https://lerna.js.org/) - 管理 Monorepo 架构的 Node 模块代码库工具。
   - [Nx](https://nx.dev/) - 管理 Monorepo 架构的 Node 模块代码库工具。
@@ -95,14 +108,6 @@
   - [Verdaccio](https://verdaccio.org/) - 开源的轻量级私有 npm 代理仓库。
   - [nrm](https://github.com/Pana/nrm) - npm 换源。
   - [npm-check-updates](https://github.com/tjunnone/npm-check-updates) - 项目依赖 npm 包批量更新工具。
-  - [OpenBase JavaScript](https://openbase.com/) - npm 模块分类排名。
-  - [Npm Trends](https://www.npmtrends.com/) - 可以查询对比多个 Npm 包的下载流量数据、star 数目等。
-  - [Moiva](https://moiva.io/) - 比较 Github 和 npm 包下载趋势，关注度等等。
-  - [PickBetterPack](https://pickbetterpack.com/) 根据 `package.json` 文件分析已安装包的相似的依赖包。
-  - [Npm Charts](https://npmcharts.com/) - 可以查询对比多个 Npm 包的下载流量数据、star 数目等。
-  - [BUNDLEPHOBIA](https://bundlephobia.com/) - 分析 npm 包大小和依赖关系。
-  - [Package Phobia](https://packagephobia.com/) - 分析 npm 包大小。
-  - [runpkg](https://www.runpkg.com/) - 在线浏览 npm 包内的文件内容。
   - [depcheck](https://github.com/depcheck/depcheck) - 项目依赖检查。
   - [depp](https://github.com/CryogenicPlanet/depp) - 项目依赖检查，是否存在未使用或者重复的依赖。
   - [npkill](https://npkill.js.org/) - 搜索系统中的 *node_modules* 文件夹并清理。
