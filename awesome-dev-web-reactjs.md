@@ -317,6 +317,7 @@ _（Recommend）其它收藏列表 :point_right: [olegrjumin/awesome-react-state
   - [In-depth explanation of state and props update in React](https://indepth.dev/posts/1009/in-depth-explanation-of-state-and-props-update-in-react)
 - [React Fiber Architecture](https://github.com/acdlite/react-fiber-architecture) - React Fiber 架构简介。
 - [Why Do React Elements Have a $$typeof Property?](https://overreacted.io/why-do-react-elements-have-typeof-property/) - React 中 `$$typeof` 属性的意义。
+- [Good advice on JSX conditionals](https://thoughtspile.github.io/2022/01/17/jsx-conditionals/) - 更好的使用 JSX 语法。
 
 [`Go Top ↑`](#awesome-reactjs-list)
 
