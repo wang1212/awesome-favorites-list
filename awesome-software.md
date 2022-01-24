@@ -58,7 +58,6 @@
 
 *Daily tools, such as language translation, note application, etc.*
 
-- [DuckDuckGo Privacy Essentials](https://chrome.google.com/webstore/detail/duckduckgo-privacy-essent/bkdgflcldnnnapblkhphbgpggdiikppg) - 保护搜索隐私。
 - [Google 翻译](https://chrome.google.com/webstore/detail/google-translate/aapbdbdomjkkjkaonfhkkikfgjllcleb) - 可在页面上进行实时翻译，**官方扩展**。
 - [沙拉查词](https://saladict.crimx.com/download.html) - 网页翻译工具。
 - [GoFullPage](https://chrome.google.com/webstore/detail/gofullpage-full-page-scre/fdpohaocaechififmbbbbbknoalclacl) - 截屏工具。
@@ -101,8 +100,11 @@
   - https://onlinegiftools.com/
   - https://www.img2go.com/
 
+- 搜索（Search）
+  - [DuckDuckgo](https://duckduckgo.com/) - 安全、隐私友好的搜索引擎，**提供 Chrome 扩展程序。**
+  - [Startpage](https://www.startpage.com/) - 隐私搜索，不同于 DuckDuckgo 自有的搜索引擎，其依然为第三方搜索引擎结果，**提供 Chrome 扩展程序。**
+
 - 其它（Others）
-  - [DuckDuckgo](https://duckduckgo.com/) - 安全、隐私友好的搜索引擎。
   - [Speedtest](https://www.speedtest.net/) - 专业测速。
   - [SimilarSites](https://www.similarsites.com/) - 查询相似站点。（提供 Chrome 扩展）
 
