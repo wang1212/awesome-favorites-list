@@ -266,6 +266,7 @@
 - [Rainmeter](https://www.rainmeter.net/) - Windows 桌面自定义小工具，**开源软件**。
 - [uTools](http://www.u.tools/) - 生产力工具，包含许多小工具，**免费软件**。
 - [Module Art](https://moduleart.github.io/) - 软件集合，包含图片浏览器、录屏软件等，**开源软件**。
+- [Anki](https://apps.ankiweb.net/) - 便签记录学习工具，**开源软件**。
 
 ### 浏览器
 
