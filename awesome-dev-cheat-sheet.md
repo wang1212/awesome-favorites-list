@@ -32,6 +32,10 @@ _Cheat sheet._
 
 - [APT Cheat Sheet](https://blog.packagecloud.io/apt-cheat-sheet/) `apt-get` `apt-cache` `dpkg` `cli`
 
+### :bookmark: `JavaScript` / `TypeScript`
+
+- [:sunglasses: TypeScript Cheat Sheets](https://www.docker.com/sites/default/files/d8/2019-09/docker-cheat-sheet.pdf) `TypeScript`
+
 ### :bookmark: `CSS`
 
 - [BEM Cheat Sheet](https://9elements.com/bem-cheat-sheet/) `bem` `rule`
