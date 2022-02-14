@@ -20,6 +20,7 @@
 - [Hook](#hook)
 - [状态管理（Application State Management）](#状态管理)
 - [路由管理（Route Management）](#路由管理)
+- [UI 设计系统（UI Design System）](#ui-设计系统)
 - [UI 组件（UI Component）](#ui-组件)
   - [组件库（Component Library）](#组件库)
   - [独立组件（Independent Components）](#独立组件)
@@ -132,6 +133,17 @@ _（Recommend）其它收藏列表 :point_right: [olegrjumin/awesome-react-state
 
 [`Go Top ↑`](#awesome-reactjs-list)
 
+## UI 设计系统
+
+_UI Design System, provides a base system for building a design system._
+
+- [Rebass](https://rebassjs.org/)
+- [radix](https://www.radix-ui.com/)
+- [Reakit](https://reakit.io/)
+- [Geist](https://geist-ui.dev/)
+
+[`Go Top ↑`](#awesome-reactjs-list)
+
 ## UI 组件
 
 *Feature-rich component library built on React.js.*
@@ -161,12 +173,11 @@ _（Recommend）其它收藏列表 :point_right: [olegrjumin/awesome-react-state
 
 #### 其它
 
+- [Base Web React UI framework](https://baseweb.design/) - **Uber 公司发布**。
 - [Office UI Fabric React](https://developer.microsoft.com/en-us/fabric) - Office UI 风格，**Microsoft 公司发布**。
 - [Carbon Design System React](https://www.carbondesignsystem.com/tutorial/react/overview) - 遵循 Carbon 设计风格，**IBM 公司发布**。
 - [React Spectrum](https://react-spectrum.adobe.com/react-spectrum/) - Spectrum 设计，**Adobe 公司发布**。
 - [Grommet](https://v2.grommet.io/)
-- [Rebass](https://rebassjs.org/) - 构建 React UI 组件的工具库。
-- [Reakit](https://reakit.io/)
 - [Blueprint](https://blueprintjs.com/) - 提供复杂的数据分析展示、表格等组件。
 - [React Rainbow](https://react-rainbow.io/)
 - [Chakra UI](https://chakra-ui.com/)
@@ -174,6 +185,8 @@ _（Recommend）其它收藏列表 :point_right: [olegrjumin/awesome-react-state
 - [Ant Design of React](https://ant.design/docs/spec/introduce-cn)
 - [Semantic UI](https://react.semantic-ui.com/) - 非常受欢迎的组件库。（:warning: 不再更新）
 - [Mantine](https://mantine.dev/) - 全功能的组件库和 Hook 库。
+- [Next UI](https://nextui.org/)
+- [Prime React](https://www.primefaces.org/primereact/)
 - [react-desktop](http://reactdesktop.js.org/) - 桌面端 UI 组件库，基于 macOS Sierra 和 Windows 10 主题设计。
 
 ### 独立组件
