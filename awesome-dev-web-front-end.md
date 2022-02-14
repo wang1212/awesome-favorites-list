@@ -766,6 +766,7 @@ _see also 👉  [Node.JS-构建工具](./awesome-dev-nodejs.md#构建工具)_
 - [wordcloud2.js](https://github.com/timdream/wordcloud2.js) - 词云。
 - [MathJax](https://www.mathjax.org/) - 浏览器中的数学公式可视化引擎。
 - [Perspective](https://github.com/finos/perspective) - 基于 C++ 的 wasm 高性能数据可视化组件。
+- [Pintora](https://pintorajs.vercel.app/) - 可将可扩展的文本绘制成图表。
 
 ### 图表
 
