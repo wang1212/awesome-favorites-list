@@ -182,6 +182,7 @@
 
 - [diagrams.net](https://www.diagrams.net/) - 流程图、UML 图绘制工具，**开源软件**。（提供安装包版本）
 - [excalidraw](https://excalidraw.com/) - 在线的手绘风格图表绘图板，**开源软件**。
+- [PlantUML](https://plantuml.com/) - 快速使用简洁的文本描述生成 UML 图。
 
 #### 原型图设计
 
