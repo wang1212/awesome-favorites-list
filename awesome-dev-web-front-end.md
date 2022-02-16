@@ -919,6 +919,7 @@ _see also 👉  [Node.JS-构建工具](./awesome-dev-nodejs.md#构建工具)_
 - [SpiderMonkey](https://developer.mozilla.org/en-US/docs/Mozilla/Projects/SpiderMonkey) - Firefox 浏览器 JS 引擎，**Mozilla 开发**。
 - [QuickJS](https://bellard.org/quickjs/)
 - [JavaScriptCore](http://trac.webkit.org/wiki/JavaScriptCore)
+- [Hermes](https://hermesengine.dev/) - 为 React Native 准备的 JS 引擎，**Facebook 开发**。
 
 [`Go Top ↑`](#awesome-web-front-end-list)
 
