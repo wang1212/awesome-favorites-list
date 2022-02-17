@@ -324,12 +324,14 @@ _UI Design System, provides a base system for building a design system._
 
 *Some articles explaining the core technology of React.*
 
+- React 团队核心成员 [Dan Abramov 的博客](https://overreacted.io/)文章
+  - [React as a UI Runtime](https://overreacted.io/react-as-a-ui-runtime/)
+  - [Why Do React Elements Have a $$typeof Property?](https://overreacted.io/why-do-react-elements-have-typeof-property/) - React 中 `$$typeof` 属性的意义。
 - [React in Depth Dev](https://indepth.dev/react) - 一些讲解 React 高级概念的文章。
   - [Inside Fiber: in-depth overview of the new reconciliation algorithm in React](https://indepth.dev/posts/1008/inside-fiber-in-depth-overview-of-the-new-reconciliation-algorithm-in-react)
   - [The how and why on React’s usage of linked list in Fiber to walk the component’s tree](https://indepth.dev/posts/1007/the-how-and-why-on-reacts-usage-of-linked-list-in-fiber-to-walk-the-components-tree)
   - [In-depth explanation of state and props update in React](https://indepth.dev/posts/1009/in-depth-explanation-of-state-and-props-update-in-react)
 - [React Fiber Architecture](https://github.com/acdlite/react-fiber-architecture) - React Fiber 架构简介。
-- [Why Do React Elements Have a $$typeof Property?](https://overreacted.io/why-do-react-elements-have-typeof-property/) - React 中 `$$typeof` 属性的意义。
 - [Good advice on JSX conditionals](https://thoughtspile.github.io/2022/01/17/jsx-conditionals/) - 更好的使用 JSX 语法。
 
 [`Go Top ↑`](#awesome-reactjs-list)
