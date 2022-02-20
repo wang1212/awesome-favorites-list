@@ -32,7 +32,7 @@
 - [360 趋势](https://trends.so.com/)
 - [搜狗指数](http://index.sogou.com/)
 - [阿里指数](https://index.1688.com/)
-- [国家数据](http://data.stats.gov.cn/)
+- [国家数据](http://data.stats.gov.cn/) - 国家统计局，**官方网站**。
 
 ### IT 行业
 
@@ -51,6 +51,7 @@
 *Economic and financial related.*
 
 - [世界银行公开数据](https://data.worldbank.org.cn/)
+- [中国外汇交易中心](https://www.chinamoney.com.cn/) - **官方网站**。
 - [中国国际经济交流中心](http://www.cciee.org.cn/ktcg.aspx?clmId=2) - 研究报告。
 - [皮书数据库](https://www.pishu.com.cn/) - 国内经济相关蓝皮书。
 - [发现报告](https://www.fxbaogao.com/)
@@ -60,6 +61,7 @@
 - [资本邦](http://www.chinaipo.com/listed/) - 新三板挂牌企业信息查询。
 - [烯牛数据](http://www.xiniudata.com/)
 - [泰伯网](http://www.3snews.net/) - 数字新经济，中国转型升级。
+- [金十数据](https://www.jin10.com/) - 24 小时市场快讯。
 - [金融界大盘云图](http://summary.jrj.com.cn/dpyt/)
 
 ### 媒体行业
