@@ -150,6 +150,12 @@
 
 *[List of Free Learning Resources](https://ebookfoundation.github.io/free-programming-books/)*
 
+- 计算机网络（Computer Network）
+  - 《网络是怎样连接的》[日] 户根勤
+  - 《图解 HTTP》[日] 上野 · 宣
+  - 《图解 TCP/IP》[日] 竹下隆史 村山公保 荒井透 苅田幸雄  
+  - [《High Performance Browser Networking》](https://hpbn.co/) Ilya Grigorik - 高性能网络，**免费书籍**。
+
 - 编程语言（Programming language）
   - 《C 程序设计语言》[美] Dennis M. Ritchie, Brian W. Kernighan
   - [《你不知道的 JavaScript》](https://github.com/getify/You-Dont-Know-JS)[美] Kyle Simpson - 系列书籍，讲解 JavaScript 核心概念，**开源书籍**。
@@ -177,9 +183,6 @@
   
 - Web 开发（Web development）
   - 《了不起的 Node.js：将 JavaScript 进行到底》[美] Guillermo Rauch
-  - 《图解 HTTP》[日] 上野 · 宣
-  - 《图解 TCP/IP》[日] 竹下隆史 村山公保 荒井透 苅田幸雄  
-  - [《High Performance Browser Networking》](https://hpbn.co/) Ilya Grigorik - 高性能网络，**免费书籍**。
   - 《前端架构设计》[美] Micah Godbolt - 很好的 Web 前端工程化实践参考。
   - [《CSS Animation 101》](https://github.com/cssanimation/css-animation-101) - 学习 CSS 动画，**开源书籍**。
   - 《CSS 揭秘》[希] Lea Verou
