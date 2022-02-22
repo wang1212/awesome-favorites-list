@@ -818,7 +818,8 @@ _see also 👉  [Node.JS-构建工具](./awesome-dev-nodejs.md#构建工具)_
   - [tween.js](https://createjs.com/tweenjs) - 动画工具库。
   - [ScrollReveal](https://scrollrevealjs.org/) - 为滚动进入视区的元素提供动画效果。
   - [lax.js](https://github.com/alexfoxy/laxxx) - 简单、轻量的工具库，创建平滑的滚动动画。
-  - [Typed.js](https://github.com/mattboldt/typed.js) - 为输入框输入提供动画效果。
+  - [Typed.js](https://github.com/mattboldt/typed.js) - 打字动画效果。
+  - [Typeit](https://www.typeitjs.com/) - 打字动画效果。
   - [Rough Notation](https://roughnotation.com/) - 为元素提供注释效果和动画。
   - [Rellax](https://dixonandmoe.com/rellax/) - 元素滚动视差效果工具库。
   - [simplePARALLAX.js](https://simpleparallax.com/)
