@@ -447,6 +447,7 @@ _see also 👉  [JS-工具库](./awesome-dev-web-front-end.md#js-工具库) | [a
 - [Neutralino](https://neutralino.js.org/) - 轻量级跨平台桌面端应用开发框架。
 - [NodeGui](https://docs.nodegui.org/)
 - [robot.js](https://robotjs.io/) - 桌面端自动化库。
+- [tauri](https://tauri.studio/)
 
 [`Go Top ↑`](#awesome-nodejs-list)
 
