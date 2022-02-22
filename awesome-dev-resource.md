@@ -588,9 +588,6 @@ _see also 👉  [Web 端软件资源](./awesome-software.md#浏览器端)_
 - [Splitbee](https://splitbee.io/) - Web 站点分析统计平台，个人项目免费。
 - [Ackee](https://ackee.electerious.com/) **开源**的可自托管的站点分析工具。
 - [screego](https://screego.net/#/) - 屏幕共享服务器。
-- [WireShark](https://www.wireshark.org/) - 协议分析工具，**开源免费**。
-- [Fiddler Everywhere](https://www.telerik.com/fiddler) - 抓包工具，**提供免费版本**。
-- [mitmproxy](https://www.mitmproxy.org/) - Python 开发的 HTTPS 代理，**开源免费**。
 - [hoppscotch](https://hoppscotch.io/) - 在线的 http 客户端工具。
 - [netdata](https://www.netdata.cloud/) - 系统指标监控 Web 平台，**开源免费**。
 - [Skia](https://skia.org/) - 2D 渲染引擎，在 Chrome、Chrome OS、Android、Flutter、Mozilla Firefox 等产品中使用。
@@ -598,6 +595,12 @@ _see also 👉  [Web 端软件资源](./awesome-software.md#浏览器端)_
 - [Talk](https://github.com/vasanthv/talk) - 点对点的 Web 视频会议和屏幕共享应用，**开源软件**。
 - [nb](https://xwmx.github.io/nb/) - 命令行和本地 Web 笔记、文档管理、检索应用程序。
 - [Web File Browser](https://filebrowser.org/) - 基于 Web 的云文件浏览器。
+
+- 抓包工具
+  - [WireShark](https://www.wireshark.org/) - 协议分析，**开源免费**。
+  - [Fiddler Everywhere](https://www.telerik.com/fiddler) - **提供免费版本**。
+  - [mitmproxy](https://www.mitmproxy.org/) - Python 开发的 HTTPS 代理，**开源免费**。
+  - [whistle](https://wproxy.org/whistle/)
 
 [`Go Top ↑`](#awesome-development-resources)
 
