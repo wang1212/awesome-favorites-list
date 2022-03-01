@@ -85,6 +85,9 @@
 
 - [RethinkDB](https://rethinkdb.com/) - **开源**的构建实时 Web 应用的数据库。
 
+- [SQLite](https://www.sqlite.org/)
+  - [sqlite-viewer](http://inloop.github.io/sqlite-viewer/) - 在线浏览器工具。
+
 ### 数据库管理系统（Database Management System）
 
 - [DBeaver Community](https://dbeaver.io/) - 图形化数据库管理工具软件，**多平台支持，开源免费**。
