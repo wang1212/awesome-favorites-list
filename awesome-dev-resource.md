@@ -103,6 +103,8 @@
 - [The System Design Primer](https://github.com/donnemartin/system-design-primer) - 学习构建大型系统。
 - [Superhero.js](http://superherojs.com/) - 构建大型 JavaScript 项目的一些技巧。
 - [Command Line Interface Guidelines](https://clig.dev/) - 命令行接口指南。
+- [Awesome Software and Architectural Design Patterns](https://github.com/DovAmir/awesome-design-patterns)
+- [Design Patterns for Humans](https://roadmap.sh/guides/design-patterns-for-humans) - 设计模式。
 
 ### 其它
 
