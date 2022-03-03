@@ -7,6 +7,8 @@
 
 <br />
 
+_[Open Source Collective](https://opencollective.com/opensource)_
+
 ## 目录
 
 *Resource navigation list.*
