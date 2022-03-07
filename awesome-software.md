@@ -399,10 +399,26 @@
 
 _Operating system._
 
+_[DistroWatch](https://distrowatch.com/) - 一个讨论开源操作系统的论坛网站，主要是 Linux 相关。_
+
 - [Linux](https://www.linux.org/)
   - [Debian](https://www.debian.org/)
-  - [Ubuntu](https://ubuntu.com/) - 最为流行的 Linux 发行版，提供图形化界面等资源，基于 Debian。
-  - [Linux Mint](https://www.linuxmint.com/) - 很 Cool 的 Linux 发行版，基于 Ubuntu。
+    - [Ubuntu](https://ubuntu.com/) - 基于 Debian，最为流行的 Linux 发行版。
+      - [Kubuntu](https://kubuntu.org/)
+      - [Lubuntu](https://lubuntu.me/)
+  - RedHat
+    - [Fedora](https://getfedora.org/)
+      - [CentOS Stream](https://www.centos.org/) - 基于 Fedora，是 RHEL 的上游发行版。
+        - [Rocky Linux](https://rockylinux.org/) - 基于 CentOS，企业级 Linux，**社区驱动，非 RedHat 官方**。
+  - [openSUSE](https://www.opensuse.org/)
+  - [Arch Linux](https://archlinux.org/) - 轻量和灵活的 Linux 系统。
+  - [Mint](https://www.linuxmint.com/) - 基于 Ubuntu 和 Debian，拥有现代化的 UI，适合新手。
+  - [Manjaro](https://manjaro.org/) - 拥有现代化的 UI，适合新手。
+  - [mageia](https://www.mageia.org/)
+  - [Gentoo](https://www.gentoo.org/)
+  - [Alpine Linux](https://alpinelinux.org/) - 面向安全的轻量级 Linux 系统，不提供 UI 界面。
+
+- [FreeBSD](https://www.freebsd.org/)
 
 [`Go Top ↑`](#awesome-software)
 
