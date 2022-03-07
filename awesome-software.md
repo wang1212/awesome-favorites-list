@@ -15,6 +15,7 @@
 - [浏览器端（Web && PWA）](#浏览器端)
 - [安卓端（Android）](#安卓端)
 - [桌面端（Desktop）](#桌面端)
+- [操作系统（Operating System）](#操作系统)
 - [更多（More）](#更多)
 
 ## 应用程序商店
@@ -394,6 +395,17 @@
 
 [`Go Top ↑`](#awesome-software)
 
+## 操作系统
+
+_Operating system._
+
+- [Linux](https://www.linux.org/)
+  - [Debian](https://www.debian.org/)
+  - [Ubuntu](https://ubuntu.com/) - 最为流行的 Linux 发行版，提供图形化界面等资源，基于 Debian。
+  - [Linux Mint](https://www.linuxmint.com/) - 很 Cool 的 Linux 发行版，基于 Ubuntu。
+
+[`Go Top ↑`](#awesome-software)
+
 ## 更多
 
 *More.*
@@ -403,6 +415,5 @@
 - [MSDN, I tell you](https://msdn.itellyou.cn/) - 可下载系统镜像文件。
 - [Free All We Need](https://free.appnee.com/) - 软件注册工具下载。
 - [冰点软件](http://www.bingdian001.com/) - 很多实用小工具，尤其冰点文库相当好用。
-- [Linux Mint](https://www.linuxmint.com/) - 很 Cool 的 Linux 发行版。
 
 [`Go Top ↑`](#awesome-software)
