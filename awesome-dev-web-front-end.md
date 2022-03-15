@@ -839,14 +839,18 @@ _see also 👉  [Node.JS-构建工具](./awesome-dev-nodejs.md#构建工具)_
 
 *Web front-end development framework (library).*
 
-- [Backbone.js](https://backbonejs.org/) - 为 Web 应用开发引入 MVC 模型概念。
+- virtual DOM
+  - [React.js](https://reactjs.org/) -  数据驱动的视图库，Facebook 公司发布。
+    - [_Awesome-React.js_](./awesome-dev-web-reactjs.md)
+  - [Vue.js](https://vuejs.org/)
 
-- [React.js](https://reactjs.org/) -  前端响应式 UI 库，其技术生态圈非常繁荣，Facebook 公司发布。
-  - [_Awesome-React.js_](./awesome-dev-web-reactjs.md) - _React.js 生态技术汇总。_
-  
-- [Vue.js](https://vuejs.org/)
+- MVC
+  - [Backbone.js](https://backbonejs.org/) - 为 Web 应用开发引入 MVC 模型概念。
 
 - [Angular.js](https://angularjs.org/) - 一个比较重型的功能齐全的前端开发框架，Google 公司发布。
+
+- [Ember.js](https://emberjs.com/) - 基于 Glimmer 引擎的 Web 全栈框架。
+  - [Glimmer.js](https://glimmerjs.com/) - DOM 渲染引擎。
 
 - [Svelte](https://svelte.dev/) - 更轻量的前端 UI 库。
   - [Sapper](https://sapper.svelte.dev/) - 基于 Svelte 的 Web App 开发框架。
@@ -856,7 +860,7 @@ _see also 👉  [Node.JS-构建工具](./awesome-dev-nodejs.md#构建工具)_
 - [Marko](https://markojs.com/) - 声明式、响应式开发框架。
 - [Snabbdom](https://github.com/snabbdom/snabbdom) - 基于虚拟 DOM 机制，模块化、高性能开发框架。
 - [mithril.js](https://mithril.js.org/)
-- [Ember.js](https://emberjs.com/)
+
 - [Alpine.js](https://alpinejs.dev/) - 轻量的 JavaScript 框架。
 
 - [Riot.js](https://riot.js.org/) - 基于组件的 UI 库。
