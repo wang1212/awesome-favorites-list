@@ -843,11 +843,18 @@ _see also 👉  [Node.JS-构建工具](./awesome-dev-nodejs.md#构建工具)_
   - [React.js](https://reactjs.org/) -  数据驱动的视图库，Facebook 公司发布。
     - [_Awesome-React.js_](./awesome-dev-web-reactjs.md)
   - [Vue.js](https://vuejs.org/)
+  - [Million](https://million.js.org/) - 一个与库无关的虚拟 DOM 实现。
+  - [Hyperapp](https://hyperapp.dev/) - 轻量的，纯函数式，声明式开发框架。
+  - [Snabbdom](https://github.com/snabbdom/snabbdom) - 基于虚拟 DOM 机制，模块化、高性能开发框架。
 
 - MVC
   - [Backbone.js](https://backbonejs.org/) - 为 Web 应用开发引入 MVC 模型概念。
 
-- [Angular.js](https://angularjs.org/) - 一个比较重型的功能齐全的前端开发框架，Google 公司发布。
+- MVVM
+  - [Knockout。js](https://knockoutjs.com/)
+
+- [Angular.js](https://angularjs.org/) - 一个比较重型的功能齐全的前端开发框架，Google 公司发布。（:warning: 不再更新）
+  - [Angular](https://angular.io/) - Angular.js 的继承者，支持全平台开发。
 
 - [Ember.js](https://emberjs.com/) - 基于 Glimmer 引擎的 Web 全栈框架。
   - [Glimmer.js](https://glimmerjs.com/) - DOM 渲染引擎。
@@ -855,22 +862,17 @@ _see also 👉  [Node.JS-构建工具](./awesome-dev-nodejs.md#构建工具)_
 - [Svelte](https://svelte.dev/) - 更轻量的前端 UI 库。
   - [Sapper](https://sapper.svelte.dev/) - 基于 Svelte 的 Web App 开发框架。
 
+- [Web 组件](https://developer.mozilla.org/en-US/docs/Web/Web_Components)
+  - [LitElement](https://lit-element.polymer-project.org/) - 用于创建 Web 组件的基类工具库。
+  - [Hybrids](https://hybrids.js.org/) - 用于创建 Web 组件的 UI 库。
+  - [Riot.js](https://riot.js.org/) - 基于组件的 UI 库。
+
+- [Marko](https://markojs.com/) - 声明式、响应式开发框架，流式渲染。
 - [Inferno](https://infernojs.org/) - 类 React API 的 UI 库。
-- [Hyperapp](https://hyperapp.dev/) - 轻量的，纯函数式，声明式开发框架。
-- [Marko](https://markojs.com/) - 声明式、响应式开发框架。
-- [Snabbdom](https://github.com/snabbdom/snabbdom) - 基于虚拟 DOM 机制，模块化、高性能开发框架。
-- [mithril.js](https://mithril.js.org/)
-
+- [Solid](https://www.solidjs.com/) - 纯粹的反应式框架，基于 React 的理念，底层实现不再使用虚拟 DOM。
 - [Alpine.js](https://alpinejs.dev/) - 轻量的 JavaScript 框架。
-
-- [Riot.js](https://riot.js.org/) - 基于组件的 UI 库。
-- [LitElement](https://lit-element.polymer-project.org/) - 用于创建 [Web 组件](https://developer.mozilla.org/en-US/docs/Web/Web_Components) 的基类工具库。
-- [Hybrids](https://hybrids.js.org/) - 用于创建 Web 组件的 UI 库。
-
+- [mithril.js](https://mithril.js.org/)
 - [Aurelia](https://aurelia.io/)
-
-- [Solid](https://www.solidjs.com/) - 纯粹的反应式框架。
-- [Million](https://million.js.org/) - 一个与库无关的虚拟 DOM 实现。
 
 [`Go Top ↑`](#awesome-web-front-end-list)
 
