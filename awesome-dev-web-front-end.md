@@ -846,6 +846,7 @@ _see also 👉  [Node.JS-构建工具](./awesome-dev-nodejs.md#构建工具)_
   - [Million](https://million.js.org/) - 一个与库无关的虚拟 DOM 实现。
   - [Hyperapp](https://hyperapp.dev/) - 轻量的，纯函数式，声明式开发框架。
   - [Snabbdom](https://github.com/snabbdom/snabbdom) - 基于虚拟 DOM 机制，模块化、高性能开发框架。
+  - [mithril.js](https://mithril.js.org/)
 
 - MVC
   - [Backbone.js](https://backbonejs.org/) - 为 Web 应用开发引入 MVC 模型概念。
@@ -871,7 +872,6 @@ _see also 👉  [Node.JS-构建工具](./awesome-dev-nodejs.md#构建工具)_
 - [Inferno](https://infernojs.org/) - 类 React API 的 UI 库。
 - [Solid](https://www.solidjs.com/) - 纯粹的反应式框架，基于 React 的理念，底层实现不再使用虚拟 DOM。
 - [Alpine.js](https://alpinejs.dev/) - 轻量的 JavaScript 框架。
-- [mithril.js](https://mithril.js.org/)
 - [Aurelia](https://aurelia.io/)
 
 [`Go Top ↑`](#awesome-web-front-end-list)
