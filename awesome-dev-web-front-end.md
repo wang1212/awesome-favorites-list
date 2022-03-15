@@ -862,7 +862,7 @@ _see also 👉  [Node.JS-构建工具](./awesome-dev-nodejs.md#构建工具)_
 - [Svelte](https://svelte.dev/) - 更轻量的前端 UI 库。
   - [Sapper](https://sapper.svelte.dev/) - 基于 Svelte 的 Web App 开发框架。
 
-- [Web 组件](https://developer.mozilla.org/en-US/docs/Web/Web_Components)
+- [Web Components](https://developer.mozilla.org/en-US/docs/Web/Web_Components)
   - [LitElement](https://lit-element.polymer-project.org/) - 用于创建 Web 组件的基类工具库。
   - [Hybrids](https://hybrids.js.org/) - 用于创建 Web 组件的 UI 库。
   - [Riot.js](https://riot.js.org/) - 基于组件的 UI 库。
