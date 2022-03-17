@@ -60,6 +60,9 @@ _[Open Source Collective](https://opencollective.com/opensource)_
 - Node.js
   - [淘宝源](https://npmmirror.com/)
 
+- GitHub
+  - [Fast Git](http://fastgit.org/)
+
 - Others
   - [思谋学术](https://ac.scmor.com/) - 谷歌学术源。
 
