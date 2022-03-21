@@ -749,24 +749,32 @@ _see also 👉  [Node.JS-构建工具](./awesome-dev-nodejs.md#构建工具)_
 *Data visualization tool library.*
 
 - [D3](https://d3js.org/) - 可视化库，数据驱动的，非常著名，许多图表库基于此开发。
-- [three.js](https://threejs.org/) - 3D 动画库，强大的 JavaScript 3D 动画库。
+
+- WebGL
+  - [three.js](https://threejs.org/) - 3D 动画库，强大的 JavaScript 3D 动画库。
+  - [stackgl](http://stack.gl/) - WebGL 引擎。
+  - [PixiJS](https://www.pixijs.com/) - 2D WebGL 渲染引擎，高性能。
+
 - [Babylon.js](https://www.babylonjs.com/) - 游戏渲染引擎。
-- [stackgl](http://stack.gl/) - WebGL 引擎。
-- [PixiJS](https://www.pixijs.com/) - 2D WebGL 渲染引擎，高性能。
-- [Textures.js](https://riccardoscalco.it/textures/) - 创建 SVG 模式。
-- [ztext.js](https://bennettfeely.com/ztext/) - 实现文字 3D 效果。
-- [mermaid](https://github.com/mermaid-js/mermaid) - txt 文本生成流程图。
-- [wordcloud2.js](https://github.com/timdream/wordcloud2.js) - 词云。
-- [MathJax](https://www.mathjax.org/) - 浏览器中的数学公式可视化引擎。
-- [Perspective](https://github.com/finos/perspective) - 基于 C++ 的 wasm 高性能数据可视化组件。
-- [Pintora](https://pintorajs.vercel.app/) - 可将可扩展的文本绘制成图表。
-- [Rough.js](https://roughjs.com/) - 创建具有手绘风格的草图图形。
-- [Create.js](https://createjs.com) - 工具套件，包含 Canvas、Web Audio 等工具库。
-- [Konva](https://konvajs.org) - 用于桌面和移动应用程序的 HTML5 2D canvas 库。
-- [Two.js](https://two.js.org/) - Web 二维绘图工具库，基于 Canvas、Svg、WebGL。
-- [Paper.js](http://paperjs.org/) - 矢量绘图工具。
-- [Fabric.js](http://fabricjs.com/) - 矢量绘图工具。
-- [Pencil.js](https://pencil.js.org/) - 2D 绘图库。
+
+- 2D Drawing Tools
+  - [Rough.js](https://roughjs.com/) - 创建具有手绘风格的草图图形。
+  - [Konva](https://konvajs.org) - 用于桌面和移动应用程序的 HTML5 2D canvas 库。
+  - [Paper.js](http://paperjs.org/) - 矢量绘图工具。
+  - [Pencil.js](https://pencil.js.org/) - 2D 绘图库。
+  - [EaselJS](https://createjs.com) - 工具套件，包含 Canvas、Web Audio 等工具库。
+  - [Fabric.js](http://fabricjs.com/) - 2D 绘图库。
+  - [Two.js](https://two.js.org/) - Web 2D 绘图工具库，基于 Canvas、Svg、WebGL。
+
+- Others
+  - [Textures.js](https://riccardoscalco.it/textures/) - 创建 SVG 模式。
+  - [ztext.js](https://bennettfeely.com/ztext/) - 实现文字 3D 效果。
+  - [wordcloud2.js](https://github.com/timdream/wordcloud2.js) - 词云。
+  - [mermaid](https://github.com/mermaid-js/mermaid) - txt 文本生成流程图。
+  - [Pintora](https://pintorajs.vercel.app/) - 利用可扩展的文本绘制成图表。
+  - [MathJax](https://www.mathjax.org/) - 浏览器中的数学公式可视化引擎。
+  - [P5.js](https://p5js.org/) - 可视化工具。
+  - [Pts](https://ptsjs.org/) - 可视化工具。
 
 ### 图表
 
@@ -787,6 +795,7 @@ _see also 👉  [Node.JS-构建工具](./awesome-dev-nodejs.md#构建工具)_
 - [billboard.js](https://naver.github.io/billboard.js/) - 基于 D3.js 的图表库。
 - [vizzu](https://github.com/vizzuhq/vizzu-lib) - 可视化和交互式动画图表。
 - [roughViz](https://github.com/jwilber/roughViz) - 手绘风格图表。
+- [Perspective](https://perspective.finos.org/) - 基于 C++ 的 wasm 高性能数据可视化组件。
 
 ### 动画
 
