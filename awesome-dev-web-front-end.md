@@ -277,11 +277,16 @@ _see also 👉  [Node.JS-工具库](./awesome-dev-nodejs.md#工具库)_
   - [Lozad.js](https://github.com/ApoorvSaxena/lozad.js) - 轻量、高性能图片懒加载工具，使用了 [Intersection Observer API](https://developer.mozilla.org/en-US/docs/Web/API/Intersection_Observer_API)。
   - [clipboard.js](https://clipboardjs.com/) - 现代的粘贴板工具库。
   - [Tether](http://tether.io/) - 元素跟踪定位工具。
-    - [popper.js](https://popper.js.org/) - 元素定位工具。
-  - [print.js](https://printjs.crabbly.com/) - 网页打印工具。  
+    - [popper.js](https://popper.js.org/) - 元素定位工具。  
   - [Quicklink](https://getquick.link/) - 预请求视区内的资源，加快页面加载速度。
   - [fastdom](https://github.com/wilsonpage/fastdom) - 批处理 DOM 操作。
-  
+  - Canvas
+    - [print.js](https://printjs.crabbly.com/) - 网页打印工具。  
+    - [DOM to Image](https://github.com/tsayen/dom-to-image/) - 利用 HTML5 Canvas 生成 DOM 节点的快照图片。
+      - [html2canvas](https://html2canvas.hertzen.com)
+      - [rasterizeHTML.js](http://cburgmer.github.io/rasterizeHTML.js/)
+    - [signature_pad](https://szimek.github.io/signature_pad/) - 手写签名。 
+
 - 事件（Event）
   - [history](https://github.com/remix-run/history) - 管理页面路由。
   - [Hammer.js](http://hammerjs.github.io/) - 支持移动端触摸事件，以及手势操作、多点触控。（:warning: 不再维护）
@@ -342,18 +347,6 @@ _see also 👉  [Node.JS-工具库](./awesome-dev-nodejs.md#工具库)_
 - 多线程（Web Worker）
   - [Comlink](https://github.com/GoogleChromeLabs/comlink) - 使 `Web Worker` 的使用更加简单、方便，**Chrome 实验室发布**。
   - [web-worker](https://github.com/developit/web-worker) - 跨平台的 `Web Worker` 实现， 支持 Node.js 与 Web 浏览器环境。
-
-- 绘图（Canvas && Draw）
-  - [DOM to Image](https://github.com/tsayen/dom-to-image/) - 利用 HTML5 Canvas 生成 DOM 节点的快照图片。
-    - [html2canvas](https://html2canvas.hertzen.com)
-    - [rasterizeHTML.js](http://cburgmer.github.io/rasterizeHTML.js/)
-  - [Create.js](https://createjs.com) - 工具套件，包含 Canvas、Web Audio 等工具库。
-  - [Konva](https://konvajs.org) - 用于桌面和移动应用程序的 HTML5 2D canvas 库。
-  - [Two.js](https://two.js.org/) - Web 二维绘图工具库，基于 Canvas、Svg、WebGL。
-  - [Paper.js](http://paperjs.org/) - 矢量绘图工具。
-  - [Fabric.js](http://fabricjs.com/) - 矢量绘图工具。
-  - [Pencil.js](https://pencil.js.org/) - 2D 绘图库。
-  - [signature_pad](https://szimek.github.io/signature_pad/) - 手写签名。
 
 - 二维码（QR Code）
   - [node-qrcode](https://github.com/soldair/node-qrcode) - 二维码生成。
@@ -768,6 +761,12 @@ _see also 👉  [Node.JS-构建工具](./awesome-dev-nodejs.md#构建工具)_
 - [Perspective](https://github.com/finos/perspective) - 基于 C++ 的 wasm 高性能数据可视化组件。
 - [Pintora](https://pintorajs.vercel.app/) - 可将可扩展的文本绘制成图表。
 - [Rough.js](https://roughjs.com/) - 创建具有手绘风格的草图图形。
+- [Create.js](https://createjs.com) - 工具套件，包含 Canvas、Web Audio 等工具库。
+- [Konva](https://konvajs.org) - 用于桌面和移动应用程序的 HTML5 2D canvas 库。
+- [Two.js](https://two.js.org/) - Web 二维绘图工具库，基于 Canvas、Svg、WebGL。
+- [Paper.js](http://paperjs.org/) - 矢量绘图工具。
+- [Fabric.js](http://fabricjs.com/) - 矢量绘图工具。
+- [Pencil.js](https://pencil.js.org/) - 2D 绘图库。
 
 ### 图表
 
