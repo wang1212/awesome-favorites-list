@@ -83,14 +83,11 @@
   - [The Front-End Checklist](https://frontendchecklist.io/) - 前端清单，前端知识点及其最佳实践。
   - [印记中文](https://docschina.org/) - 包含了许多前端技术库的中文翻译文档。
   - [Progressive Web Apps](https://web.dev/progressive-web-apps/) - PWA 应用相关文章。
+  - [DOM Events](https://domevents.dev/) - DOM 事件运行机制的可视化。
 
-- 备忘单（Cheatsheet）
+- 备忘单与代码片段（Cheatsheet & Code Snippets）
   - [this vs that](https://thisthat.dev/) - 类似概念区分理解。
-
-- 代码片段（Code Snippets）
   - [30 seconds](https://www.30secondsofcode.org/) - 30 seconds 是一个系列，包含 JS、React.js、CSS 相关的编程技巧和代码片段。
-
-- [DOM Events](https://domevents.dev/) - DOM 事件运行机制的可视化。
 
 [`Go Top ↑`](#awesome-web-front-end-list)
 
