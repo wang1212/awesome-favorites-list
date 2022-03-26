@@ -79,11 +79,12 @@
   - [Chrome Developers](https://developer.chrome.com/) - Chrome 开发者中心，**Chrome 官方站点**。
   - [Google Developers for Web](https://developers.google.com/web) - 谷歌开发者中心，Web 站点，众多工具和资源。
     - [web.dev](https://web.dev/) - Web 关键概念学习、实践。
-  - [Frontend Developer Roadmap](https://roadmap.sh/frontend) - 前端开发技术路线图。
   - [The Front-End Checklist](https://frontendchecklist.io/) - 前端清单，前端知识点及其最佳实践。
   - [印记中文](https://docschina.org/) - 包含了许多前端技术库的中文翻译文档。
   - [Progressive Web Apps](https://web.dev/progressive-web-apps/) - PWA 应用相关文章。
-  - [DOM Events](https://domevents.dev/) - DOM 事件运行机制的可视化。
+
+- 路线图（Roadmap）
+  - [Frontend Developer Roadmap](https://roadmap.sh/frontend) - 前端开发技术路线图。
 
 - 备忘单与代码片段（Cheatsheet & Code Snippets）
   - [this vs that](https://thisthat.dev/) - 类似概念区分理解。
@@ -212,6 +213,7 @@
 *JavaScript related online tools.*
 
 - 关键概念（Key concepts）
+  - [DOM Events](https://domevents.dev/) - DOM 事件运行机制的可视化。
   - [SJSJ](http://jargon.js.org/) - JavaScript 术语介绍。
   - [Modern JS Cheatsheet](https://mbeaudru.github.io/modern-js-cheatsheet/) - 现代 JavaScript 概念要点。[👉 中文翻译](https://zh.javascript.info/)
   - [What the f\*ck JavaScript?](https://github.com/denysdovhan/wtfjs) - JavaScript 中有趣且易错的要点。
