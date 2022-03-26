@@ -221,9 +221,9 @@
   - [JavaScript Algorithms and Data Structures](https://github.com/trekhleb/javascript-algorithms) - 算法和数据结构。
 
 - 技巧（Skills）
-  - [favorite JavaScript utilities](https://1loc.dev/) - JavaScript 编程技巧，一行代码。
+  - [Tips, Tricks, Best Practices](https://getfrontend.tips/) - 前端技巧和最佳实践。
+  - [Favorite JavaScript Utilities](https://1loc.dev/) - JavaScript 编程技巧，一行代码。
   - [Vanilla JavaScript Toolkit](https://vanillajstoolkit.com/) - 原生 JS 代码片段集合。
-  - [Single Line Of Code](https://1loc.dev/)
   - [JS The Right Way](http://jstherightway.org/) - 一些 JavaScript 最佳实践。
 
 - 工具集（Toolset）
