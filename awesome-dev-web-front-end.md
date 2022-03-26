@@ -147,9 +147,9 @@
   - [CSS Triggers](https://csstriggers.com/) - 一些改变会导致重绘、重布局的 CSS 属性。
     - [What forces layout / reflow](https://gist.github.com/paulirish/5d52fb081b3570c81e3a) - 一些会导致重绘、重布局的 DOM 操作。
   - [CSS Reference](https://cssreference.io/) - CSS 视觉指南。
-  - [CSS Layout](https://csslayout.io/) - 流行的 CSS 布局方案参考。
 
 - 工具（Tools）
+  - [CSS Layout](https://csslayout.io/) - 流行的 CSS 布局方案参考。
   - [Keyframes](https://keyframes.app/) - CSS 效果预览小工具集合。
   - [Animista](https://animista.net/) - 在线生成 CSS 动画样式代码。
   - [easings.co](https://easings.co/) - 测试 CSS 动画函数效果。
