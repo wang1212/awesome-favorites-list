@@ -753,6 +753,8 @@ _see also 👉  [Node.JS-构建工具](./awesome-dev-nodejs.md#构建工具)_
   - [three.js](https://threejs.org/) - 3D 动画库，强大的 JavaScript 3D 动画库。
   - [stackgl](http://stack.gl/) - WebGL 引擎。
   - [PixiJS](https://www.pixijs.com/) - 2D WebGL 渲染引擎，高性能。
+  - [sigma.js](http://sigmajs.org/) - 可视化大数据量的关系节点。
+    - [Graphology](https://graphology.github.io/) 
 
 - [Babylon.js](https://www.babylonjs.com/) - 游戏渲染引擎。
 
@@ -787,7 +789,6 @@ _see also 👉  [Node.JS-构建工具](./awesome-dev-nodejs.md#构建工具)_
 - [carbon-charts](https://carbon-design-system.github.io/carbon-charts/) - 遵循 Carbon 风格，**IBM 公司发布**。
 - [Plotly](https://plotly.com/javascript/) - 丰富的图表，支持金融、科学相关图表。
 - [Apexcharts](https://apexcharts.com/) - 图表库。
-- [sigma.js](http://sigmajs.org/) - 图形网络库。
 - [Cytoscape.js](https://js.cytoscape.org/) - 用于可视化和分析的图论（网络）库。
 - [uPlot](https://github.com/leeoniya/uPlot) - 快速、轻量级的图表库。
 - [Charts.css](https://chartscss.org/) - CSS 图表库。
