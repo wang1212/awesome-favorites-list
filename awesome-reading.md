@@ -50,24 +50,31 @@
 
 *Economic and financial related.*
 
-- [世界银行公开数据](https://data.worldbank.org.cn/)
-- [中国外汇交易中心](https://www.chinamoney.com.cn/) - **官方网站**。
-- [中国国际经济交流中心](http://www.cciee.org.cn/ktcg.aspx?clmId=2) - 研究报告。
-- [皮书数据库](https://www.pishu.com.cn/) - 国内经济相关蓝皮书。
-- [发现报告](https://www.fxbaogao.com/)
-- [CBNData](http://www.cbndata.com/) - 第一财经。
-- [巨潮资讯](http://www.cninfo.com.cn/) - A 股上市企业信息披露平台。
-- [披露易](https://www.hkexnews.hk/) - 港交所上市企业信息披露平台。
-- [资本邦](http://www.chinaipo.com/listed/) - 新三板挂牌企业信息查询。
-- [烯牛数据](http://www.xiniudata.com/)
-- [泰伯网](http://www.3snews.net/) - 数字新经济，中国转型升级。
-- [金十数据](https://www.jin10.com/) - 24 小时市场快讯。
-- [金融界大盘云图](http://summary.jrj.com.cn/dpyt/)
+- 官方数据
+  - [世界银行公开数据](https://data.worldbank.org.cn/)
+  - [中国人民银行](http://www.pbc.gov.cn/)
+  - [中国外汇交易中心](https://www.chinamoney.com.cn/)
 
-### 媒体行业
+- 证券市场
+  - [披露易](https://www.hkexnews.hk/) - **港交所官方**上市企业信息披露平台。
+  - [巨潮资讯](http://www.cninfo.com.cn/) - **中国证监会**指定的上市公司信息披露平台。
+  - [烯牛数据](http://www.xiniudata.com/)
+  - [金融界大盘云图](http://summary.jrj.com.cn/dpyt/)
 
-*Media industry.*
+- 研究报告
+  - [中国国际经济交流中心](http://www.cciee.org.cn/ktcg.aspx?clmId=2)
+  - [皮书数据库](https://www.pishu.com.cn/)
+  - [发现报告](https://www.fxbaogao.com/)
 
+- 数据资讯
+  - [金十数据中心](https://datacenter.jin10.com/)
+  - [泰伯网](http://www.3snews.net/) - 数字新经济，中国转型升级。
+
+### 商业市场
+
+*Commercial Market.*
+
+- [CBNData](http://www.cbndata.com/) - 第一财经商业数据中心。
 - [CBO 实时票房榜](http://www.endata.com.cn/BoxOffice/) - 电影票房实时排行。
 - [新榜](https://www.newrank.cn/public/info/list.html) - 新媒体内容排行榜。
 
