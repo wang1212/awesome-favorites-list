@@ -43,7 +43,6 @@
 - [艾瑞数据](https://data.iresearch.com.cn/) - 艾瑞汇集多家大型互联网企业数据，共同打造的互联网行业信息情报分析系统。
 - [App Annie](https://www.appannie.com/)
 - [statcounter GlobalStats](http://gsa.statcounter.com/) - 全球浏览器、屏幕分辨率等市场份额统计。
-- [IT 桔子](https://www.itjuzi.com/) - 一级市场泛互联网行业投融资信息资源聚合平台。
 - [HTTP Archive](https://httparchive.org/) - 互联网 Web 站点统计数据。
 
 ### 经济金融
@@ -59,6 +58,7 @@
   - [披露易](https://www.hkexnews.hk/) - **港交所官方**上市企业信息披露平台。
   - [巨潮资讯](http://www.cninfo.com.cn/) - **中国证监会**指定的上市公司信息披露平台。
   - [烯牛数据](http://www.xiniudata.com/)
+  - [IT 桔子](https://www.itjuzi.com/) - 一级市场泛互联网行业投融资信息资源聚合平台。
   - [金融界大盘云图](http://summary.jrj.com.cn/dpyt/)
 
 - 研究报告
