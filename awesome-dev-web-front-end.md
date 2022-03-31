@@ -818,6 +818,7 @@ _see also 👉  [Node.JS-构建工具](./awesome-dev-nodejs.md#构建工具)_
   - [lazy line painter](http://lazylinepainter.info/) - SVG 路径动画。
 
 - JavaScript
+  - [tween.js](http://tweenjs.github.io/tween.js/) - 用于简单动画的 JavaScript 补间引擎。
   - [Anime.js](https://animejs.com/) - 动画引擎，轻量的 JavaScript 动画工具库。
   - [Velocity.js](http://velocityjs.org/) - 动画引擎，为元素提供动画效果。
   - [mo.js](https://mojs.github.io/) - 丰富，强大的运动图形动画工具库。
