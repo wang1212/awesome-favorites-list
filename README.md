@@ -80,7 +80,9 @@
 - （Long-term maintenance）属于长期维护（近期更新过）的资源；
 - （Useful）有用才是最有价值的！
 
-# License
+# 许可证
+
+_License_.
 
 [![Creative Commons License](https://i.creativecommons.org/l/by-sa/4.0/88x31.png)](https://creativecommons.org/licenses/by-sa/4.0/)
 
