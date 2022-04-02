@@ -139,6 +139,7 @@
 
 #### PDF
 
+- [ABCD PDF](https://abcdpdf.com/zh-cn/)
 - [PDF2Go](https://www.pdf2go.com/zh) - 100MB 文件上限限制，PDF 文件处理，还包含图片、音频、视频、电子书、OCR 处理等工具。
 - [iLovePDF](https://www.ilovepdf.com/zh-cn) - 15MB 文件上限限制。
 - [Smallpdf](https://smallpdf.com/cn) - 15MB 文件上限限制。
