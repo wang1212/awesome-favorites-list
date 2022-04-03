@@ -439,7 +439,7 @@ _see also 👉  [Web 端软件资源](./awesome-software.md#浏览器端)_
 - [Prettier](https://prettier.io/)
 - [EditorConfig](https://editorconfig.org/)
 
-### 编码统计
+#### 编码统计
 
 _Coding Statistics._
 
