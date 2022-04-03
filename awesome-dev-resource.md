@@ -62,6 +62,10 @@ _[Open Source Collective](https://opencollective.com/opensource)_
 
 - GitHub
   - [Fast Git](http://fastgit.org/)
+  - [https://github.com.cnpmjs.org/](https://github.com.cnpmjs.org/) - GitHub 镜像网站。
+  - [GitClone](https://gitclone.com/) - GitHub 仓库缓存加速。
+  - [GitHub Proxy](https://ghproxy.com/) - 文件代理加速下载。
+  - [https://d.serctl.com/](https://d.serctl.com/) - 文件代下服务。
 
 - Others
   - [思谋学术](https://ac.scmor.com/) - 谷歌学术源。
@@ -315,14 +319,6 @@ _see also 👉  [Web 端软件资源](./awesome-software.md#浏览器端)_
 - [OpenWeather](https://openweathermap.org/) - 全球城市天气预报。
 - [Public APIs](https://github.com/public-apis/public-apis) - 免费的公共 API 集合。
 - [Administrative-divisions-of-China](https://github.com/modood/Administrative-divisions-of-China) - 中华人民共和国行政区划（五级）名称数据。
-
-### GitHub
-
-- [https://github.com.cnpmjs.org/](https://github.com.cnpmjs.org/) - GitHub 镜像网站。
-- [https://hub.fastgit.org/](https://hub.fastgit.org/) - GitHub 镜像网站。
-- [GitClone](https://gitclone.com/) - GitHub 仓库缓存加速。
-- [http://gitd.cc/](http://gitd.cc/) - 文件代下服务。
-- [https://d.serctl.com/](https://d.serctl.com/) - 文件代下服务。
 
 ### 设计工具
 
