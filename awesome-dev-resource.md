@@ -439,6 +439,16 @@ _see also 👉  [Web 端软件资源](./awesome-software.md#浏览器端)_
 - [Prettier](https://prettier.io/)
 - [EditorConfig](https://editorconfig.org/)
 
+### 编码统计
+
+_Coding Statistics._
+
+- [WakaTime](https://wakatime.com/)
+  - [wakapi](https://wakapi.dev/) - 自托管服务，**开源免费**。
+  - [hakatime](https://github.com/mujx/hakatime) - 自托管服务，**开源**。
+
+- [Code Time](https://app.software.com/)
+
 ### 源代码管理
 
 *Source code version management system and building tools.*
