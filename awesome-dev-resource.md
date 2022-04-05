@@ -245,6 +245,8 @@ _[Open Source Collective](https://opencollective.com/opensource)_
   - [CSS Weekly](https://css-weekly.com/) - 周刊，CSS 技术。
   - [CSS Animation Weekly](https://cssanimation.rocks/weekly/) - 周刊，CSS 动画。
   - [React Status](https://react.statuscode.com/) - 周刊，React.js 相关技术。（Cooperpress 出版）
+  - [React Newsletter](https://reactnewsletter.com/)
+  - [ReactWeekly](https://react.thisweekin.io/)
   - [Node Weekly](https://nodeweekly.com/) - 周刊，Node.js 技术。（Cooperpress 出版）
   - [npm Weekly](https://www.npmjs.com/npm-weekly) - 周刊，npm 新闻，**npm 官方**。（:warning: 停止更新）
   - [Deno Weekly](https://denoweekly.com/) - 周刊，Deno 技术。（Cooperpress 出版）
