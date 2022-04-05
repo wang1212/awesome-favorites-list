@@ -192,9 +192,14 @@
   - 《前端架构设计》[美] Micah Godbolt - 很好的 Web 前端工程化实践参考。
   - [《CSS Animation 101》](https://github.com/cssanimation/css-animation-101) - 学习 CSS 动画，**开源书籍**。
   - 《CSS 揭秘》[希] Lea Verou
+  - 《React 精髓》[英] Artemij Fedosejev
+  - 《React Native 开发指南》[美] 艾森曼
   
 - 安卓开发（Android development）
   - 《Android 4 高级编程》[美] Reto Meier
+
+- 计算机图形学
+  - 《HTML5 Canvas 核心技术》[美] David Geary
 
 - 数据库（Database）
   - 《SQL 基础教程》[日] MICK
