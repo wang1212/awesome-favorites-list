@@ -11,7 +11,7 @@
 
 _Cheat sheet._
 
-### :bookmark: `Emoji` :smile:
+### :bookmark: Emoji :smile:
 
 - [Emojipedia](https://emojipedia.org/) `codepoint` `shortcode`
 - [Emoji Cheat Sheet](https://www.webfx.com/tools/emoji-cheat-sheet/) `shortcode`
@@ -19,32 +19,37 @@ _Cheat sheet._
 - [github emoji markup](https://gist.github.com/rxaviers/7360908) `github` `shortcode`
 - [gitmoji](https://gitmoji.dev/) `git` `shortcode`
 
-### :bookmark: `Toolset`
+### :bookmark: Algorithms and Data Structures
+
+- [Big-O Cheat Sheet](https://www.bigocheatsheet.com/) `Big-O`
+
+### :bookmark: Math
+
+- [math-as-code](https://github.com/Jam3/math-as-code) `math` `notation` `script`
+
+### :bookmark: Toolset
 
 - [cheat.sh](https://cheat.sh/)
 
-### :bookmark: `Git` `GitHub`
+### :bookmark: Git - GitHub
 
 - [:sunglasses: Git Cheat Sheets](https://training.github.com/) `github` `cli`
 - [GitHub Cheat Sheet](http://git.io/sheet) `github` `cli` `website` 
 
-### :bookmark: `Debian` `Ubuntu` `Linux` `Unix`
+### :bookmark: Linux (Unix)
 
-- [APT Cheat Sheet](https://blog.packagecloud.io/apt-cheat-sheet/) `apt-get` `apt-cache` `dpkg` `cli`
+- [APT Cheat Sheet](https://blog.packagecloud.io/apt-cheat-sheet/) `Debian` `Ubuntu` `apt-get` `apt-cache` `dpkg` `cli`
 
-### :bookmark: `JavaScript` / `TypeScript`
+### :bookmark: JavaScript / CSS
 
 - [:sunglasses: TypeScript Cheat Sheets](https://www.docker.com/sites/default/files/d8/2019-09/docker-cheat-sheet.pdf) `TypeScript`
+- [BEM Cheat Sheet](https://9elements.com/bem-cheat-sheet/) `CSS` `bem` `rule`
 
-### :bookmark: `CSS`
-
-- [BEM Cheat Sheet](https://9elements.com/bem-cheat-sheet/) `bem` `rule`
-
-### :bookmark: `Bash`
+### :bookmark: Bash
 
 - [Bash scripting cheatsheet](https://devhints.io/bash) `script`
 
-### :bookmark: `Docker`
+### :bookmark: Docker
 
 - [:sunglasses: docker-cheat-sheet](https://www.docker.com/sites/default/files/d8/2019-09/docker-cheat-sheet.pdf) `cli`
 - [The Ultimate Docker Cheat Sheet](https://dockerlabs.collabnix.com/docker/cheatsheet/) `cli` `dockerfile` `docker-compose`
@@ -52,17 +57,13 @@ _Cheat sheet._
 - [docker CLI & Dockerfile Cheat Sheet](https://design.jboss.org/redhatdeveloper/marketing/docker_cheatsheet/cheatsheet/images/docker_cheatsheet_r3v2.pdf) `cli` `dockerfile`
 - [Docker Commands Cheat Sheet](https://buddy.works/tutorials/docker-commands-cheat-sheet) `cli`
 
-### :bookmark: `AI`
+### :bookmark: AI
 
 - [AI Cheatsheets](https://github.com/kailashahirwar/cheatsheets-ai) `deep learning` `machine learning`
 
-### :bookmark: `Security`
+### :bookmark: Security
 
 - [OWASP Cheat Sheet Series](https://cheatsheetseries.owasp.org/index.html) `application`
-
-### :bookmark: `Math`
-
-- [math-as-code](https://github.com/Jam3/math-as-code) `math` `notation` `script`
 
 ## 更多
 
