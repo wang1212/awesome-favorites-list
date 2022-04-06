@@ -110,6 +110,7 @@ _[Open Source Collective](https://opencollective.com/opensource)_
 - [https://12factor.net/](https://12factor.net/) - 开发应用的十二要素。
 - [c4model](https://c4model.com/) - 用于软件架构的 C4 模型。
 - [The System Design Primer](https://github.com/donnemartin/system-design-primer) - 学习构建大型系统。
+- [System Design Cheatsheet](https://gist.github.com/vasanthk/485d1c25737e8e72759f) - 系统设计备忘单。
 - [Superhero.js](http://superherojs.com/) - 构建大型 JavaScript 项目的一些技巧。
 - [Command Line Interface Guidelines](https://clig.dev/) - 命令行接口指南。
 - [Awesome Software and Architectural Design Patterns](https://github.com/DovAmir/awesome-design-patterns)
@@ -166,6 +167,7 @@ _[Open Source Collective](https://opencollective.com/opensource)_
 - [Reverse interview](https://github.com/viraptor/reverse-interview) - 面试时候可以反问的一些问题。
 - [Coding Interview University](https://github.com/jwasham/coding-interview-university)
 - [Tech Interview Handbook](https://techinterviewhandbook.org/)
+- [System Design Interview](https://github.com/checkcheckzz/system-design-interview) - 系统设计面试。
 
 ### 学习
 
