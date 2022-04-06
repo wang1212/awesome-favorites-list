@@ -65,6 +65,10 @@ _Cheat sheet._
 
 - [OWASP Cheat Sheet Series](https://cheatsheetseries.owasp.org/index.html) `application`
 
+### :bookmark: Software Architecture
+
+- [System Design Cheatsheet](https://gist.github.com/vasanthk/485d1c25737e8e72759f) `System Design`
+
 ## 更多
 
 _More._
