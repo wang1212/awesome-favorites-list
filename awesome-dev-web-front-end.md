@@ -776,26 +776,32 @@ _see also 👉  [Node.JS-构建工具](./awesome-dev-nodejs.md#构建工具)_
   - [MathJax](https://www.mathjax.org/) - 浏览器中的数学公式可视化引擎。
   - [P5.js](https://p5js.org/) - 可视化工具。
   - [Pts](https://ptsjs.org/) - 可视化工具。
+  - [vis.js](https://visjs.org/) - 动态的，基于浏览器的可视化库。
 
 ### 图表
 
 *Chart library, such as line chart, column chart, etc.*
 
-- [Chart.js](https://www.chartjs.org/) - 最流行的轻量级库。
-- [Frappe Charts](https://frappe.io/charts) - 基于 SVG 的高性能库。
-- [Frappe Gantt](https://frappe.io/gantt) - 甘特图。
-- [Echarts](http://echarts.apache.org/) - 国内百度团队开发，功能丰富。
-- [C3](https://c3js.org/) - 基于 D3.js 的可重用图表库。
-- [carbon-charts](https://carbon-design-system.github.io/carbon-charts/) - 遵循 Carbon 风格，**IBM 公司发布**。
-- [Plotly](https://plotly.com/javascript/) - 丰富的图表，支持金融、科学相关图表。
-- [Apexcharts](https://apexcharts.com/) - 图表库。
-- [Cytoscape.js](https://js.cytoscape.org/) - 用于可视化和分析的图论（网络）库。
-- [uPlot](https://github.com/leeoniya/uPlot) - 快速、轻量级的图表库。
-- [Charts.css](https://chartscss.org/) - CSS 图表库。
-- [billboard.js](https://naver.github.io/billboard.js/) - 基于 D3.js 的图表库。
-- [vizzu](https://github.com/vizzuhq/vizzu-lib) - 可视化和交互式动画图表。
-- [roughViz](https://github.com/jwilber/roughViz) - 手绘风格图表。
-- [Perspective](https://perspective.finos.org/) - 基于 C++ 的 wasm 高性能数据可视化组件。
+- 常规图表（Regular Chart）
+  - [Chart.js](https://www.chartjs.org/) - 最流行的轻量级库。
+  - [Echarts](http://echarts.apache.org/) - 国内百度团队开发，功能丰富。
+  - [C3](https://c3js.org/) - 基于 D3.js 的可重用图表库。
+  - [billboard.js](https://naver.github.io/billboard.js/) - 基于 D3.js 的图表库。
+  - [Apexcharts](https://apexcharts.com/) - 图表库。
+  - [carbon-charts](https://carbon-design-system.github.io/carbon-charts/) - 遵循 Carbon 风格，**IBM 公司发布**。
+  - [roughViz](https://github.com/jwilber/roughViz) - 手绘风格图表。
+  - [vizzu](https://github.com/vizzuhq/vizzu-lib) - 交互式动画图表。
+  - [Frappe Charts](https://frappe.io/charts) - 基于 SVG 的高性能图表库。
+  - [Charts.css](https://chartscss.org/) - CSS 图表库。
+
+- 关系图（Relation Chart）
+  - [Cytoscape.js](https://js.cytoscape.org/) - 用于可视化和分析的图论（网络）库。
+
+- 其它（Others）
+  - [Frappe Gantt](https://frappe.io/gantt) - 甘特图。
+  - [Perspective](https://perspective.finos.org/) - 基于 C++ 的 wasm 高性能数据可视化组件。
+  - [Plotly](https://plotly.com/javascript/) - 丰富的图表，支持金融、科学相关图表。
+  - [uPlot](https://github.com/leeoniya/uPlot) - 快速、轻量级的图表库。
 
 ### 动画
 
