@@ -68,6 +68,9 @@
   - 图片（Image）
     - [Pillow](https://python-pillow.org/) - 图像处理工具，Fork 自 [PIL](http://www.pythonware.com/products/pil/)。
 
+- 数据可视化（Data Visualization）
+  - [Matplotlib](https://matplotlib.org/)
+
 [`Go Top ↑`](#awesome-python-list)
 
 ## 数据库
