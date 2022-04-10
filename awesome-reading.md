@@ -192,6 +192,7 @@
   - 《前端架构设计》[美] Micah Godbolt - 很好的 Web 前端工程化实践参考。
   - [《CSS Animation 101》](https://github.com/cssanimation/css-animation-101) - 学习 CSS 动画，**开源书籍**。
   - 《CSS 揭秘》[希] Lea Verou
+  - 《React 设计模式与最佳实践》[意] 米凯莱 贝尔托利
   - 《React 精髓》[英] Artemij Fedosejev
   - 《React Native 开发指南》[美] 艾森曼
   
