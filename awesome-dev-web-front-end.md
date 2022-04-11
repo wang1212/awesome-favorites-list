@@ -42,6 +42,7 @@
   - [动画（Animation）](#动画)
 - [开发框架（Framework）](#开发框架)
 - [应用状态管理（Application State Management）](#应用状态管理)
+- [Progressive web apps](#pwa)
 - [WebAssembly](awesome-dev-web-webassembly.md)
 - [深入探索（Explore In Depth）](#深入探索)
 - [更多（More）](#更多)
@@ -81,7 +82,6 @@
     - [web.dev](https://web.dev/) - Web 关键概念学习、实践。
   - [The Front-End Checklist](https://frontendchecklist.io/) - 前端清单，前端知识点及其最佳实践。
   - [印记中文](https://docschina.org/) - 包含了许多前端技术库的中文翻译文档。
-  - [Progressive Web Apps](https://web.dev/progressive-web-apps/) - PWA 应用相关文章。
 
 - 路线图（Roadmap）
   - [Frontend Developer Roadmap](https://roadmap.sh/frontend) - 前端开发技术路线图。
@@ -503,13 +503,6 @@ _see also 👉  [Node.JS-构建工具](./awesome-dev-nodejs.md#构建工具)_
 
 - [fuite](https://github.com/nolanlawson/fuite) - CLI 工具，发现 Web 应用的内存泄露问题。
 
-### PWA
-
-*[Progressive web apps](https://developer.mozilla.org/en-US/docs/Web/Progressive_web_apps).*
-
-- [WorkBox](https://developers.google.com/web/tools/workbox/) - Google 专门为构建 PWA （Progressive Web App，渐进式 Web 应用）提供的一套开发工具，支持多个平台，并提供了方便的 webpack 插件。
-- [What PWA Can Do Today](https://whatpwacando.today/) - 在线测试 PWA 应用可以调用的 Web API。
-
 ### 响应式设计
 
 *Responsive Design.*
@@ -918,6 +911,18 @@ _see also 👉  [Node.JS-构建工具](./awesome-dev-nodejs.md#构建工具)_
 
 [`Go Top ↑`](#awesome-web-front-end-list)
 
+## PWA
+
+_[Progressive web apps](https://developer.mozilla.org/en-US/docs/Web/Progressive_web_apps)._
+
+- [_PWA Inside_](https://pwainside.com/) - _PWA 应用资源和商店。_
+- [Progressive Web Apps](https://web.dev/progressive-web-apps/) - PWA 应用相关文章。
+- [What PWA Can Do Today](https://whatpwacando.today/) - 在线测试 PWA 应用可以调用的 Web API。
+- [Progressier](https://progressier.com/) - 轻松创建 PWA。
+- [WorkBox](https://developers.google.com/web/tools/workbox/) - Google 专门为构建 PWA （Progressive Web App，渐进式 Web 应用）提供的一套开发工具，支持多个平台，并提供了方便的 webpack 插件。
+
+[`Go Top ↑`](#awesome-web-front-end-list)
+
 ## 深入探索
 
 *Explore the principles behind the technology, the underlying architecture, etc.*
@@ -1000,7 +1005,6 @@ _see also 👉  [Node.JS-构建工具](./awesome-dev-nodejs.md#构建工具)_
   - [Yellow Lab  Tools](https://yellowlab.tools/) - 站点分析优化工具。
   - [Varvy SEO tool](https://varvy.com/) - 一个在线网站 SEO、性能检测工具，提供优化建议和技巧。
   - [What Web Can Do](https://whatwebcando.today/) - 可以检测当前设备所支持的 Web API，主要检测硬件设备传感器等，**非官方网站**。
-  - [Progressier](https://progressier.com/) - 轻松创建 PWA。
   
 - 在线 IDE、编辑器（IDE / Editor）
   - [CodeSandbox](https://codesandbox.io/) - 支持预配置的目标，例如 React.js 等。
@@ -1012,7 +1016,6 @@ _see also 👉  [Node.JS-构建工具](./awesome-dev-nodejs.md#构建工具)_
 - 其它（Others）
   - [bit](https://bit.dev/) - 构建可重用组件的协作平台。
   - [Prettier Playground](https://prettier.io/playground/) - Prettier 代码格式化工具的在线版本。
-  - [PWA Inside](https://pwainside.com/) - PWA 应用资源和商店。
 
 ### 其它
 
