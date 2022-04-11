@@ -917,6 +917,7 @@ _[Progressive web apps](https://developer.mozilla.org/en-US/docs/Web/Progressive
 
 - [_PWA Inside_](https://pwainside.com/) - _PWA 应用资源和商店。_
 - [Progressive Web Apps](https://web.dev/progressive-web-apps/) - PWA 应用相关文章。
+- [Add a web app manifest](https://web.dev/add-manifest/) - PWA 应用 `manifest.webmanifest` 文件中建议的字段。
 - [What PWA Can Do Today](https://whatpwacando.today/) - 在线测试 PWA 应用可以调用的 Web API。
 - [Progressier](https://progressier.com/) - 轻松创建 PWA。
 - [WorkBox](https://developers.google.com/web/tools/workbox/) - Google 专门为构建 PWA （Progressive Web App，渐进式 Web 应用）提供的一套开发工具，支持多个平台，并提供了方便的 webpack 插件。
@@ -964,7 +965,6 @@ _[Progressive web apps](https://developer.mozilla.org/en-US/docs/Web/Progressive
 
 - [What does 100% mean in CSS](https://wattenberger.com/blog/css-percents) - CSS 中 `100%` 的含义。
 - [The complete guide to CSS media queries](https://polypane.app/blog/the-complete-guide-to-css-media-queries/)
-- [Add a web app manifest](https://web.dev/add-manifest/) - PWA 应用 `manifest.webmanifest` 文件中建议的字段。
 
 [`Go Top ↑`](#awesome-web-front-end-list)
 
