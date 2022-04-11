@@ -269,6 +269,7 @@ _see also 👉  [Node.JS-工具库](./awesome-dev-nodejs.md#工具库)_
 
 - 文档对象模型（DOM）
   - [jQuery](https://jquery.com/) - 前几年非常流行的 DOM 操作工具库，处理了兼容性的细节问题。
+    - [_You might not need jQuery_](http://youmightnotneedjquery.com/) 
     - [Zepto.js](https://zeptojs.com/) - 兼容 jQuery API 的轻量级工具库，适合移动端使用。（:warning: 不再更新）
     - [cash-dom](https://github.com/fabiospampinato/cash) - 轻量级 DOM 工具库，可作为 jQuery 的替代，但仅支持现代浏览器。
     - [Umbrella JS](https://umbrellajs.com/) - 可替代 jQuery 的轻量级工具库。
@@ -932,17 +933,33 @@ _see also 👉  [Node.JS-构建工具](./awesome-dev-nodejs.md#构建工具)_
 
 *Performance analysis.*
 
-- [Web Vitals](https://web.dev/vitals/) - Web 性能指标，Google 提出，并提供 npm 工具包。
-- [Perfume.js](https://zizzamia.github.io/perfume/) - 性能监控工具。
+- 概念（Concept）
+  - [Web Vitals](https://web.dev/vitals/) - Web 性能指标，Google 提出，并提供 npm 工具包。
+  - [Front-End Performance Checklist 2021](https://www.smashingmagazine.com/2021/01/front-end-performance-2021-free-pdf-checklist/) - 前端性能检查清单。
+
+- 工具（Tools）
+  - [Perfume.js](https://zizzamia.github.io/perfume/) - 性能监控工具。
 
 ### JS 引擎/运行时
 
 *Javascript Engine/Runtime.*
 
-- [SpiderMonkey](https://developer.mozilla.org/en-US/docs/Mozilla/Projects/SpiderMonkey) - Firefox 浏览器 JS 引擎，**Mozilla 开发**。
-- [QuickJS](https://bellard.org/quickjs/)
-- [JavaScriptCore](http://trac.webkit.org/wiki/JavaScriptCore)
-- [Hermes](https://hermesengine.dev/) - 为 React Native 准备的 JS 引擎，**Facebook 开发**。
+- 核心库（Core Library）
+  - [SpiderMonkey](https://developer.mozilla.org/en-US/docs/Mozilla/Projects/SpiderMonkey) - Firefox 浏览器 JS 引擎，**Mozilla 开发**。
+  - [QuickJS](https://bellard.org/quickjs/)
+  - [JavaScriptCore](http://trac.webkit.org/wiki/JavaScriptCore)
+  - [Hermes](https://hermesengine.dev/) - 为 React Native 准备的 JS 引擎，**Facebook 开发**。
+
+- 实现分析（Implementation Analysis）
+  - [Tasks, microtasks, queues and schedules](https://jakearchibald.com/2015/tasks-microtasks-queues-and-schedules/) - JS 中的任务、微任务、队列和调度过程。
+
+### 其它
+
+*something more in-depth.*
+
+- [What does 100% mean in CSS](https://wattenberger.com/blog/css-percents) - CSS 中 `100%` 的含义。
+- [The complete guide to CSS media queries](https://polypane.app/blog/the-complete-guide-to-css-media-queries/)
+- [Add a web app manifest](https://web.dev/add-manifest/) - PWA 应用 `manifest.webmanifest` 文件中建议的字段。
 
 [`Go Top ↑`](#awesome-web-front-end-list)
 
@@ -996,18 +1013,6 @@ _see also 👉  [Node.JS-构建工具](./awesome-dev-nodejs.md#构建工具)_
   - [bit](https://bit.dev/) - 构建可重用组件的协作平台。
   - [Prettier Playground](https://prettier.io/playground/) - Prettier 代码格式化工具的在线版本。
   - [PWA Inside](https://pwainside.com/) - PWA 应用资源和商店。
-
-### 文章
-
-*Some technical discussion articles.*
-
-- [You might not need jQuery](http://youmightnotneedjquery.com/)
-- [The complete guide to CSS media queries](https://polypane.app/blog/the-complete-guide-to-css-media-queries/)
-- [What does 100% mean in CSS](https://wattenberger.com/blog/css-percents) - CSS 中 `100%` 的含义。
-- [JavaScript for Data Science](https://js4ds.org/)
-- [Add a web app manifest](https://web.dev/add-manifest/) - PWA 应用 `manifest.webmanifest` 文件中建议的字段。
-- [Tasks, microtasks, queues and schedules](https://jakearchibald.com/2015/tasks-microtasks-queues-and-schedules/) - JS 中的任务、微任务、队列和调度过程。
-- [Front-End Performance Checklist 2021](https://www.smashingmagazine.com/2021/01/front-end-performance-2021-free-pdf-checklist/) - 前端性能检查清单。
 
 ### 其它
 
