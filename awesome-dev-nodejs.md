@@ -28,15 +28,15 @@
 - [Web 框架（Web Framework）](#web-框架)
 - [内容管理系统（Content Management System）](#内容管理系统)
 - [桌面端开发（Desktop Development）](#桌面端开发)
-- [文章（Article）](#文章)
 - [深入探索（Explore In Depth）](#深入探索)
+- [文章（Article）](#文章)
 - [更多（More）](#更多)
 
 ## 技术标准规范
 
 *Technical standard specification.*
 
-- [Node.js](https://nodejs.org/) - Node.js 官方网站。
+- [Node.js](https://nodejs.org/) - Node.js 官方网站。👉 [新站点](https://nodejs.dev/)
   - [V8](https://v8.dev/) - Node.js 的运行时，也是 Chrome 浏览器的 JS 运行时。:point_right: [中文翻译](https://v8.js.cn/)
   - [CommonJS](http://www.commonjs.org/) - Node.js 默认采用的模块加载方式。
   - [AMD](https://github.com/amdjs/amdjs-api/blob/master/AMD.md) - 异步模块定义，适合浏览器端。
@@ -454,6 +454,30 @@ _see also 👉  [JS-工具库](./awesome-dev-web-front-end.md#js-工具库) | [a
 
 [`Go Top ↑`](#awesome-nodejs-list)
 
+## 深入探索
+
+*Explore the principles behind the technology, the underlying architecture, etc.*
+
+### 引擎/运行时
+
+_Engine / Runtime._
+
+- 事件循环（Event Loop）
+  - [The Node.js Event Loop](https://nodejs.dev/learn/the-nodejs-event-loop)
+  - [Node.js core concepts](https://nodejs.org/en/docs/guides/#node-js-core-concepts)
+  - [JavaScript Event Loop vs Node JS Event Loop](https://blog.insiderattack.net/javascript-event-loop-vs-node-js-event-loop-aea2b1b85f5c)
+
+### 服务器优雅关机
+
+*Graceful server shutdown.*
+
+- [healthcheck-graceful-shutdown](https://expressjs.com/en/advanced/healthcheck-graceful-shutdown.html)
+- [Graceful shutdown with Node.js and Kubernetes](https://blog.risingstack.com/graceful-shutdown-node-js-kubernetes/)
+- [Graceful server shutdown with Node.js and Express](https://glynnbird.tumblr.com/post/54739664725/graceful-server-shutdown-with-nodejs-and-express)
+- [Building Graceful Node Applications in Docker](https://medium.com/@becintec/building-graceful-node-applications-in-docker-4d2cd4d5d392)
+
+[`Go Top ↑`](#awesome-nodejs-list)
+
 ## 文章
 
 *Article.*
@@ -465,21 +489,6 @@ _see also 👉  [JS-工具库](./awesome-dev-web-front-end.md#js-工具库) | [a
   - [BFF](https://www.thoughtworks.com/insights/blog/bff-soundcloud)
   - [Pattern: Backends For Frontends](https://samnewman.io/patterns/architectural/bff/)
 - [Running CPU-Bound Tasks in Node.js: Introduction to Worker Threads](https://yarin.dev/nodejs-cpu-bound-tasks-worker-threads/) - 在工作线程中运行 CPU 密集型任务。
-
-[`Go Top ↑`](#awesome-nodejs-list)
-
-## 深入探索
-
-*Explore the principles behind the technology, the underlying architecture, etc.*
-
-### 服务器优雅关机
-
-*Graceful server shutdown.*
-
-- [healthcheck-graceful-shutdown](https://expressjs.com/en/advanced/healthcheck-graceful-shutdown.html)
-- [Graceful shutdown with Node.js and Kubernetes](https://blog.risingstack.com/graceful-shutdown-node-js-kubernetes/)
-- [Graceful server shutdown with Node.js and Express](https://glynnbird.tumblr.com/post/54739664725/graceful-server-shutdown-with-nodejs-and-express)
-- [Building Graceful Node Applications in Docker](https://medium.com/@becintec/building-graceful-node-applications-in-docker-4d2cd4d5d392)
 
 [`Go Top ↑`](#awesome-nodejs-list)
 
