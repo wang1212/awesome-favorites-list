@@ -76,7 +76,8 @@
 - [CBNData](http://www.cbndata.com/) - 第一财经商业数据中心。
 - [CBO 实时票房榜](http://www.endata.com.cn/BoxOffice/) - 电影票房实时排行。
 - [新榜](https://www.newrank.cn/public/info/list.html) - 新媒体内容排行榜。
-- [巨量算数](https://trendinsight.oceanengine.com/arithmetic-report) - 巨量算数市场报告。
+- [巨量算数](https://trendinsight.oceanengine.com/) - 巨量算数市场报告，字节跳动产品系。
+- [千瓜数据](https://www.qian-gua.com/) - 小红书平台产品系。
 
 ### 商业咨询
 
