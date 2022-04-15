@@ -83,10 +83,12 @@
   - [jspm](https://jspm.org/)
 
 - 包开发（Package Development）
-  - [np](https://github.com/sindresorhus/np) - `npm publish` 的替代工具库，让发布更优雅、安全。
-  - [standard-version](https://github.com/conventional-changelog/standard-version) - 自动化版本管理和变更日志生成。
-  - [semantic-release](https://semantic-release.gitbook.io/semantic-release/) - 自动化版本管理和包发布。
-  - [auto](https://intuit.github.io/auto/index) - 自动化发布。
+  - `npm publish` 
+    - [np](https://github.com/sindresorhus/np) - 让发布更优雅、安全。
+    - [standard-version](https://github.com/conventional-changelog/standard-version) - 自动化版本管理和变更日志生成。
+    - [semantic-release](https://semantic-release.gitbook.io/semantic-release/) - 自动化版本管理和包发布。
+    - [release-it](https://github.com/release-it/release-it)
+    - [auto](https://intuit.github.io/auto/index) - 自动化发布。
   - [Denoify](https://github.com/garronej/denoify) - 为 npm 模块作者提供 Deno 支持。
 
 - 包搜索（Package Search）
