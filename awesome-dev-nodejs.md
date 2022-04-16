@@ -176,6 +176,8 @@ _see also 👉  [JS-构建工具](./awesome-dev-web-front-end.md#构建工具)_
 - 代码版本管理（Code version management ）
   - [husky](https://github.com/typicode/husky) - 更容易的使用 [Git Hooks](https://git-scm.com/book/it/v2/Customizing-Git-Git-Hooks)。
   - [lint-staged](https://www.npmjs.com/package/lint-staged) - 搭配 husky 使用，提交代码前进行 lint。
+  - [commitlint](https://commitlint.js.org/) - 校验 commit 信息。
+  - [commitizen](http://commitizen.github.io/cz-cli/) - 统一 commit 信息格式。
   
 - 进程管理（Process Manage） 
   - 热重载（Hot reload）
