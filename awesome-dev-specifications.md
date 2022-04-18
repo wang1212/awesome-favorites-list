@@ -55,7 +55,8 @@
 
 - Markdown
   - [CommonMark](https://commonmark.org/) - 一个高度兼容，定义严格的 Markdown 规范。
-  - [*Markdown Guide*](https://www.markdownguide.org/) - _Markdown 语法参考文档，**非官方**。_
+  - [_Markdown Guide_](https://www.markdownguide.org/) - _Markdown 语法参考文档，**非官方**。_
+  - [_MDX_](https://mdxjs.com/) - _组件时代的 Markdown。_
 
 - Source Map
   - [Source Map Revision 3 Proposal](https://sourcemaps.info/spec.html) - `.map` 文件数据格式规范。
