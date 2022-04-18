@@ -372,6 +372,7 @@ _see also 👉  [Web 端软件资源](./awesome-software.md#浏览器端)_
 - [Star Charts](https://starchart.cc/) - GitHub 星数量趋势图。
 - [Git Awards](http://git-awards.com/) - Git 用户仓库统计排名信息。
 - [Markdown Badges](https://github.com/Ileriayo/markdown-badges)
+- [Awesome GitHub Profile READMEs](https://zzetao.github.io/awesome-github-profile/)
 
 [`Go Top ↑`](#awesome-development-resources)
 
