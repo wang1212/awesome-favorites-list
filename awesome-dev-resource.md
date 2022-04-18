@@ -25,7 +25,6 @@ _[Open Source Collective](https://opencollective.com/opensource)_
 - [在线资源（Online Resources）](#在线资源)
   - [在线实用工具（Online utility）](#在线实用工具)
   - [公共 API（Public API）](#公共-api)
-  - [GitHub](#github)
   - [设计工具（Design Tools）](#设计工具)
   - [图像工具（Image Tools）](#图像工具)
   - [编程字体（Programming Font）](#编程字体)
@@ -467,6 +466,7 @@ _Coding Statistics._
   - [Sourcetree](https://www.sourcetreeapp.com/) - 免费的 Git 客户端，支持 Windows 和 Mac。
   - [git-open](https://github.com/paulirish/git-open) - git 命令行工具，可直接在浏览器中打开仓库页面。
   - [gitmoji](https://gitmoji.dev/) - Git 提交信息中的 emoji 表情。
+  - [CodeFactor](https://www.codefactor.io/) - 自动化代码 Review。
 
 - [Tortoise SVN](https://tortoisesvn.net/) - SVN 是一种传统的中心化管理的源代码版本控制工具，Tortoise SVN 提供了 GUI 来使用 SVN。
 
