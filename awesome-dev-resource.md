@@ -346,6 +346,10 @@ _see also 👉  [Web 端软件资源](./awesome-software.md#浏览器端)_
 - [PlaceIMG](https://placeimg.com/) - 图片。
 - [Ipsum Image](https://ipsumimage.appspot.com/) - 灰度图、文本。
 
+#### 动画
+
+- [LottieFiles](https://lottiefiles.com/) - 动画文件，适用于 Web 与移动客户端开发。
+
 ### 编程字体
 
 *Monospaced Font.*
