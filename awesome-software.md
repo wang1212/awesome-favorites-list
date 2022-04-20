@@ -430,6 +430,7 @@ _[DistroWatch](https://distrowatch.com/) - 一个讨论开源操作系统的论�
 - [Slant](https://www.slant.co/) - 搜索最佳实践。
 - [小众软件](https://www.appinn.com/) - 小众软件推荐网站。
 - [MSDN, I tell you](https://msdn.itellyou.cn/) - 可下载系统镜像文件。
+  - [HelloWindows.cn](https://hellowindows.cn/) 
 - [Free All We Need](https://free.appnee.com/) - 软件注册工具下载。
 - [冰点软件](http://www.bingdian001.com/) - 很多实用小工具，尤其冰点文库相当好用。
 
