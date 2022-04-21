@@ -89,6 +89,7 @@ _[Open Source Collective](https://opencollective.com/opensource)_
 *Project management, such as version control, update logs, etc.*
 
 - [Choose an open source license](https://choosealicense.com/) - 如何选择合适的开源许可。
+  - [Creative Commons](https://creativecommons.org/choose/) - 知识共享协议许可。
 - [Semantic Versioning](https://semver.org/) - 语义化版本控制。
   - [Software release life cycle](https://en.wikipedia.org/wiki/Software_release_life_cycle) - 了解软件发布的生命周期。
 - [Conventional Commits](https://www.conventionalcommits.org/) - 代码提交信息格式约定推荐规范。
