@@ -1025,5 +1025,6 @@ _[Progressive web apps](https://developer.mozilla.org/en-US/docs/Web/Progressive
 *Other unclassified resources.*
 
 - [JavaScript Open Source Award](https://osawards.com/javascript/) - JavaScript 开源项目奖，**非官方**。
+- [You Don't Need](https://github.com/you-dont-need) - 随着语言规范的更新，一些第三方工具库可以不再使用，用原生 JS 来实现。
 
 [`Go Top ↑`](#awesome-web-front-end-list)
