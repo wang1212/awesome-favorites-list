@@ -88,15 +88,17 @@ _[Open Source Collective](https://opencollective.com/opensource)_
 
 *Project management, such as version control, update logs, etc.*
 
-- [Choose an open source license](https://choosealicense.com/) - 如何选择合适的开源许可。
+- [Choose an open source license](https://choosealicense.com/) - 选择合适的开源许可。
   - [Creative Commons](https://creativecommons.org/choose/) - 知识共享协议许可。
-- [Software release life cycle](https://en.wikipedia.org/wiki/Software_release_life_cycle) - 了解软件发布的生命周期。
-  - [Semantic Versioning](https://semver.org/) - 语义化版本控制。
-- [Conventional Commits](https://www.conventionalcommits.org/) - 代码提交信息格式约定推荐规范。
-  - [AngularJS Commit Message Format](https://github.com/angular/angular/blob/master/CONTRIBUTING.md#-commit-message-format) - AngularJS 提交信息格式约定，可作为参考。
-- [keep a changelog](https://keepachangelog.com/) - 项目内应始终存在一个 *CHANGELOG.md* 文件，并遵循一定的规范。
+- [About READMEs](https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-readmes) - 项目自述文档。
+  - [Make a README](https://www.makeareadme.com/)
 - [ARCHITECTURE.md](https://matklad.github.io/2021/02/06/ARCHITECTURE.md.html) - 建议在开源项目中加入 *ARCHITECTURE.md* 文件。
 - [How to Build a CONTRIBUTING.md](https://mozillascience.github.io/working-open-workshop/contributing/) - 如何为开源项目构建 *CONTRIBUTING.md* 文件。
+- [Software release life cycle](https://en.wikipedia.org/wiki/Software_release_life_cycle) - 软件发布的生命周期。
+  - [Semantic Versioning](https://semver.org/) - 语义化版本控制。
+  - [keep a changelog](https://keepachangelog.com/) - 项目内应始终存在一个 *CHANGELOG.md* 文件，并遵循一定的规范。
+- [Conventional Commits](https://www.conventionalcommits.org/) - 代码提交信息格式约定推荐规范。
+  - [AngularJS Commit Message Format](https://github.com/angular/angular/blob/master/CONTRIBUTING.md#-commit-message-format) - AngularJS 提交信息格式约定，可作为参考。
 - Git Workflow
   - [Git Flow](https://nvie.com/posts/a-successful-git-branching-model/)
   - [GitLab Flow](https://docs.gitlab.com/ee/topics/gitlab_flow.html)
