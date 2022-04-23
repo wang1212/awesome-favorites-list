@@ -90,8 +90,8 @@ _[Open Source Collective](https://opencollective.com/opensource)_
 
 - [Choose an open source license](https://choosealicense.com/) - 如何选择合适的开源许可。
   - [Creative Commons](https://creativecommons.org/choose/) - 知识共享协议许可。
-- [Semantic Versioning](https://semver.org/) - 语义化版本控制。
-  - [Software release life cycle](https://en.wikipedia.org/wiki/Software_release_life_cycle) - 了解软件发布的生命周期。
+- [Software release life cycle](https://en.wikipedia.org/wiki/Software_release_life_cycle) - 了解软件发布的生命周期。
+  - [Semantic Versioning](https://semver.org/) - 语义化版本控制。
 - [Conventional Commits](https://www.conventionalcommits.org/) - 代码提交信息格式约定推荐规范。
   - [AngularJS Commit Message Format](https://github.com/angular/angular/blob/master/CONTRIBUTING.md#-commit-message-format) - AngularJS 提交信息格式约定，可作为参考。
 - [keep a changelog](https://keepachangelog.com/) - 项目内应始终存在一个 *CHANGELOG.md* 文件，并遵循一定的规范。
