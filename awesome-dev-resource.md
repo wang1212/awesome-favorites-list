@@ -480,7 +480,6 @@ _Coding Statistics._
   - [Sourcetree](https://www.sourcetreeapp.com/) - 免费的 Git 客户端，支持 Windows 和 Mac。
   - [git-open](https://github.com/paulirish/git-open) - git 命令行工具，可直接在浏览器中打开仓库页面。
   - [gitmoji](https://gitmoji.dev/) - Git 提交信息中的 emoji 表情。
-  - [CodeFactor](https://www.codefactor.io/) - 自动化代码 Review。
 
 - [Tortoise SVN](https://tortoisesvn.net/) - SVN 是一种传统的中心化管理的源代码版本控制工具，Tortoise SVN 提供了 GUI 来使用 SVN。
 
@@ -490,7 +489,6 @@ _Coding Statistics._
   - [GitLab](https://about.gitlab.com/) - 支持本地部署。
   - [Bitbucket](https://bitbucket.org/)
   - [Gitee](https://gitee.com/) - 码云，国内[开源中国](https://www.oschina.net/)推出。
-  - [Coding](https://coding.net/) - 目前由腾讯入股，体验相比刚开始变差，不建议使用。
 
 - 自托管 Git 服务（Self-hosted Git service）
   - [Gitea](https://gitea.io/) - 本地部署，**开源项目**。
