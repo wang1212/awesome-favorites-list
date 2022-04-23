@@ -93,6 +93,7 @@ _[Open Source Collective](https://opencollective.com/opensource)_
 - [About READMEs](https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-readmes) - 项目自述文档。
   - [Make a README](https://www.makeareadme.com/)
 - [ARCHITECTURE.md](https://matklad.github.io/2021/02/06/ARCHITECTURE.md.html) - 建议在开源项目中加入 *ARCHITECTURE.md* 文件。
+- [Contributor Covenant](https://www.contributor-covenant.org/) - 贡献者契约，开源社区的行为准则声明。
 - [How to Build a CONTRIBUTING.md](https://mozillascience.github.io/working-open-workshop/contributing/) - 如何为开源项目构建 *CONTRIBUTING.md* 文件。
 - [Software release life cycle](https://en.wikipedia.org/wiki/Software_release_life_cycle) - 软件发布的生命周期。
   - [Semantic Versioning](https://semver.org/) - 语义化版本控制。
