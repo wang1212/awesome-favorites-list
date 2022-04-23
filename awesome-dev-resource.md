@@ -123,6 +123,7 @@ _[Open Source Collective](https://opencollective.com/opensource)_
 
 *Others.*
 
+- [Open Source Guides](https://opensource.guide/) - 开源指南。
 - [Google Engineering Practices Documentation](https://google.github.io/eng-practices/) - Google 工程实践文档。
 - [HTTP Status Codes](https://httpstatuses.com/) - HTTP 协议状态码列表。
 - [devops-exercises](https://github.com/bregman-arie/devops-exercises) - DevOps 实践。
