@@ -95,15 +95,15 @@ _[Open Source Collective](https://opencollective.com/opensource)_
 - [ARCHITECTURE.md](https://matklad.github.io/2021/02/06/ARCHITECTURE.md.html) - 建议在开源项目中加入 *ARCHITECTURE.md* 文件。
 - [Contributor Covenant](https://www.contributor-covenant.org/) - 贡献者契约，开源社区的行为准则声明。
 - [How to Build a CONTRIBUTING.md](https://mozillascience.github.io/working-open-workshop/contributing/) - 如何为开源项目构建 *CONTRIBUTING.md* 文件。
-- [Software release life cycle](https://en.wikipedia.org/wiki/Software_release_life_cycle) - 软件发布的生命周期。
-  - [Semantic Versioning](https://semver.org/) - 语义化版本控制。
-  - [keep a changelog](https://keepachangelog.com/) - 项目内应始终存在一个 *CHANGELOG.md* 文件，并遵循一定的规范。
-- [Conventional Commits](https://www.conventionalcommits.org/) - 代码提交信息格式约定推荐规范。
-  - [AngularJS Commit Message Format](https://github.com/angular/angular/blob/master/CONTRIBUTING.md#-commit-message-format) - AngularJS 提交信息格式约定，可作为参考。
 - Git Workflow
   - [Git Flow](https://nvie.com/posts/a-successful-git-branching-model/)
   - [GitLab Flow](https://docs.gitlab.com/ee/topics/gitlab_flow.html)
   - [GitHub Flow](http://githubflow.github.io/)
+- [Conventional Commits](https://www.conventionalcommits.org/) - 代码提交信息格式约定推荐规范。
+  - [AngularJS Commit Message Format](https://github.com/angular/angular/blob/master/CONTRIBUTING.md#-commit-message-format) - AngularJS 提交信息格式约定，可作为参考。
+- [Software release life cycle](https://en.wikipedia.org/wiki/Software_release_life_cycle) - 软件发布的生命周期。
+  - [Semantic Versioning](https://semver.org/) - 语义化版本控制。
+  - [keep a changelog](https://keepachangelog.com/) - 项目内应始终存在一个 *CHANGELOG.md* 文件，并遵循一定的规范。
 - [Advantages of monorepos](https://danluu.com/monorepo/) - `monorepos` 模式代码仓库的优点。
 
 ### 软件与架构设计
