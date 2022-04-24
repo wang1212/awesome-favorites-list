@@ -11,6 +11,8 @@
 
 _Cheat sheet._
 
+_[Naming cheatsheet](https://github.com/kettanaito/naming-cheatsheet) & [CODELF](https://unbug.github.io/codelf/)_
+
 ### :bookmark: Emoji :smile:
 
 - [Emojipedia](https://emojipedia.org/) `codepoint` `shortcode`
@@ -30,25 +32,23 @@ _Cheat sheet._
 ### :bookmark: Toolset
 
 - [cheat.sh](https://cheat.sh/)
-
-### :bookmark: Git - GitHub
-
-- [:sunglasses: Git Cheat Sheets](https://training.github.com/) `github` `cli`
-- [GitHub Cheat Sheet](http://git.io/sheet) `github` `cli` `website` 
+- [Code Cheatsheets](https://devhints.io/)
 
 ### :bookmark: Linux (Unix)
 
 - [APT Cheat Sheet](https://blog.packagecloud.io/apt-cheat-sheet/) `Debian` `Ubuntu` `apt-get` `apt-cache` `dpkg` `cli`
 - [The Art of Command Line](https://github.com/jlevy/the-art-of-command-line) `Linux` `cli`
-
-### :bookmark: JavaScript / CSS
-
-- [:sunglasses: TypeScript Cheat Sheets](https://www.docker.com/sites/default/files/d8/2019-09/docker-cheat-sheet.pdf) `TypeScript`
-- [BEM Cheat Sheet](https://9elements.com/bem-cheat-sheet/) `CSS` `bem` `rule`
+- [COMMANDLINEFU.COM](https://www.commandlinefu.com/commands/browse) `Linux` `cli`
 
 ### :bookmark: Bash
 
 - [Bash scripting cheatsheet](https://devhints.io/bash) `script`
+- [Bash Pitfalls](http://mywiki.wooledge.org/BashPitfalls) `script`
+
+### :bookmark: Git - GitHub
+
+- [:sunglasses: Git Cheat Sheets](https://training.github.com/) `github` `cli`
+- [GitHub Cheat Sheet](http://git.io/sheet) `github` `cli` `website` 
 
 ### :bookmark: Docker
 
@@ -57,6 +57,11 @@ _Cheat sheet._
 - [Docker Cheat Sheet](https://github.com/wsargent/docker-cheat-sheet) `docs` `cli` `dockerfile` `docker-compose`
 - [docker CLI & Dockerfile Cheat Sheet](https://design.jboss.org/redhatdeveloper/marketing/docker_cheatsheet/cheatsheet/images/docker_cheatsheet_r3v2.pdf) `cli` `dockerfile`
 - [Docker Commands Cheat Sheet](https://buddy.works/tutorials/docker-commands-cheat-sheet) `cli`
+
+### :bookmark: JavaScript / CSS
+
+- [:sunglasses: TypeScript Cheat Sheets](https://www.docker.com/sites/default/files/d8/2019-09/docker-cheat-sheet.pdf) `TypeScript`
+- [BEM Cheat Sheet](https://9elements.com/bem-cheat-sheet/) `CSS` `bem` `rule`
 
 ### :bookmark: AI
 
