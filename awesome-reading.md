@@ -158,14 +158,24 @@
 
 *[List of Free Learning Resources](https://ebookfoundation.github.io/free-programming-books/)*
 
-- 计算机网络（Computer Network）
-  - 《网络是怎样连接的》[日] 户根勤
-  - 《图解 HTTP》[日] 上野 · 宣
-  - 《图解 TCP/IP》[日] 竹下隆史 村山公保 荒井透 苅田幸雄  
-  - [《High Performance Browser Networking》](https://hpbn.co/) Ilya Grigorik - 高性能网络，**免费书籍**。
+#### 计算机网络
 
-- 编程语言（Programming language）
+_Computer Network._
+
+- 《网络是怎样连接的》[日] 户根勤
+- 《图解 HTTP》[日] 上野 · 宣
+- 《图解 TCP/IP》[日] 竹下隆史 村山公保 荒井透 苅田幸雄  
+- [《High Performance Browser Networking》](https://hpbn.co/) Ilya Grigorik - 高性能网络，**免费书籍**。
+
+#### 编程语言
+
+_Programming language._
+
+- C
   - 《C 程序设计语言》[美] Dennis M. Ritchie, Brian W. Kernighan
+
+- JavaScript
+  - [_The best free JavaScript resources_](https://jsbooks.revolunet.com/) 
   - [《你不知道的 JavaScript》](https://github.com/getify/You-Dont-Know-JS)[美] Kyle Simpson - 系列书籍，讲解 JavaScript 核心概念，**开源书籍**。
   - [《Eloquent JavaScript》](https://eloquentjavascript.net/)[美] Marijn Haverbeke - JavaScript、Node.js 技术，**开源书籍**。
   - [《JavaScript for Data Science》](https://js4ds.org/) Maya Gans, Toby Hodges, Greg Wilson - **开源书籍**。
@@ -174,47 +184,78 @@
   - [《Learning JavaScript Design Patterns》](https://addyosmani.com/resources/essentialjsdesignpatterns/book/) Addy Osmani - JavaScript 设计模式，**开源书籍**。
   - 《JavaScript 面向对象编程指南》[加拿大] Stoyan Stefanov 斯托扬
   - 《高性能 JavaScript》 [美] 尼古拉斯·泽卡斯
+
+- Python
+  - [_The best free Python resources_](https://pythonbooks.revolunet.com/) 
   - [《Python 101》](http://python101.pythonlibrary.org)[美] Mike Driscoll - 讲述 Python 3 初级编程的书籍。	
   - 《Python 201》[美] Mike Driscoll - 讲述 Python 3 中级编程的书籍。
+
+- Ruby
   - 《Ruby 元编程》[意] Paolo Perrotta
   - 《Ruby 基础教程》[日] 高桥征义 后藤裕藏  
   - [《The Book Of Ruby》](http://www.sapphiresteel.com/ruby-programming/The-Book-Of-Ruby.html)[英] Huw Collingbourne - 关于 Ruby 编程的开源书籍，涉及知识概念很全面，**开源书籍**。:point_right: [简体中文翻译](https://wang1212.github.io/the-book-of-ruby/#/0-homepage.html)	
+
+- Bash
   - [《Advanced Bash-Scripting Guide》](http://tldp.org/LDP/abs/html/) - 高级 Bash 脚本编程指南，**开源书籍**。
   - [《Introduction to Bash Scripting》](https://github.com/bobbyiliev/introduction-to-bash-scripting) - Bash 脚本介绍，**开源书籍**。
  
-- 数据算法（Data algorithm）
-  - 《数据结构与算法分析：C语言描述》[美] Mark Allen Weiss
-  - 《算法图解》[美] Aditya Bhargava
+#### 数据算法
+
+_Data algorithm._
+
+- 《数据结构与算法分析：C语言描述》[美] Mark Allen Weiss
+- 《算法图解》[美] Aditya Bhargava
   
-- 软件架构（Software Architecture）[:point_right: *Software Architecture Books*](https://github.com/mhadidg/software-architecture-books) - *软件架构相关书籍列表。*
-  - 《架构之美：行业思想领袖揭秘软件设计之美》[美] Diomidis Spinellis, Georgios Gousios
-  - [《Kubernetes Handbook——Kubernetes 中文指南/云原生应用架构实践手册》](https://jimmysong.io/kubernetes-handbook/) - 云原生实践，**开源书籍**。
+#### 软件架构
+
+_Software Architecture._ [:point_right: _Software Architecture Book_](https://github.com/mhadidg/software-architecture-books)
+
+- 《架构之美：行业思想领袖揭秘软件设计之美》[美] Diomidis Spinellis, Georgios Gousios
+- [《Kubernetes Handbook——Kubernetes 中文指南/云原生应用架构实践手册》](https://jimmysong.io/kubernetes-handbook/) - 云原生实践，**开源书籍**。
   
-- Web 开发（Web development）
-  - 《了不起的 Node.js：将 JavaScript 进行到底》[美] Guillermo Rauch
-  - 《前端架构设计》[美] Micah Godbolt - 很好的 Web 前端工程化实践参考。
-  - [《CSS Animation 101》](https://github.com/cssanimation/css-animation-101) - 学习 CSS 动画，**开源书籍**。
-  - 《CSS 揭秘》[希] Lea Verou
-  - 《React 设计模式与最佳实践》[意] 米凯莱 贝尔托利
-  - 《React 精髓》[英] Artemij Fedosejev
-  - 《React Native 开发指南》[美] 艾森曼
+#### Web 开发
+
+_Web development._
+
+- 《了不起的 Node.js：将 JavaScript 进行到底》[美] Guillermo Rauch
+- 《前端架构设计》[美] Micah Godbolt - 很好的 Web 前端工程化实践参考。
+- [《CSS Animation 101》](https://github.com/cssanimation/css-animation-101) - 学习 CSS 动画，**开源书籍**。
+- 《CSS 揭秘》[希] Lea Verou
+- 《React 设计模式与最佳实践》[意] 米凯莱 贝尔托利
+- 《React 精髓》[英] Artemij Fedosejev
+
   
+#### 客户端开发
+
+_Client development._
+
+- 《React Native 开发指南》[美] 艾森曼
+
 - 安卓开发（Android development）
   - 《Android 4 高级编程》[美] Reto Meier
 
-- 计算机图形学
-  - 《HTML5 Canvas 核心技术》[美] David Geary
+#### 计算机图形学
 
-- 数据库（Database）
-  - 《SQL 基础教程》[日] MICK
+_Computer Graphics._
 
-- 其它（Others）
-  - 《计算机科学精粹》[巴西] Wladston Ferreira Filho - 讲述了常见的计算机概念，非常值得一读，拓宽自己的视野。
-  - 《C++ API 设计》[美] Martin Redd
-  - 《编程珠玑》[美] Jon Bentley
-  - 《编码：隐匿在计算机软硬件背后的语言》[美] Charles Petzold
-  - 《代码整洁之道》[美] 马丁（Robert C.Martin）
-  - 《松本行弘：编程语言的设计与实现》[日] 松本行弘
+- 《HTML5 Canvas 核心技术》[美] David Geary
+
+#### 数据库
+
+_Database._
+
+- 《SQL 基础教程》[日] MICK
+
+#### 其它
+
+_Others._
+
+- 《计算机科学精粹》[巴西] Wladston Ferreira Filho - 讲述了常见的计算机概念，非常值得一读，拓宽自己的视野。
+- 《C++ API 设计》[美] Martin Redd
+- 《编程珠玑》[美] Jon Bentley
+- 《编码：隐匿在计算机软硬件背后的语言》[美] Charles Petzold
+- 《代码整洁之道》[美] 马丁（Robert C.Martin）
+- 《松本行弘：编程语言的设计与实现》[日] 松本行弘
 
 ### 文学
 
