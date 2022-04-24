@@ -7,7 +7,7 @@
 
 <br />
 
-_[Open Source Collective](https://opencollective.com/opensource)_
+[_The Book Of Secret Knowledge_](https://github.com/trimstray/the-book-of-secret-knowledge)
 
 ## 目录
 
@@ -16,12 +16,9 @@ _[Open Source Collective](https://opencollective.com/opensource)_
 - [镜像站（Mirror Site）](#镜像站)
 - [技术标准规范（Technical Standard Specification）](awesome-dev-specifications.md)
 - [技术实践规范（Technical Practice Specification）](#技术实践规范)
-- [技术参考文档（Technical Reference Document）](#技术参考文档)
-- [技术学习（Technical Learning）](#技术学习)
-  - [面试（Interview）](#面试)
-  - [学习（Learn）](#学习)
-  - [论坛（Forum）](#论坛)
-  - [期刊（Journal）](#期刊)
+- [技术参考资源（Technical Reference Resources）](#技术参考资源)
+- [社区论坛（Community Forum）](#论坛)
+- [技术期刊（Technical Journal）](#期刊)
 - [在线资源（Online Resources）](#在线资源)
   - [在线实用工具（Online utility）](#在线实用工具)
   - [公共 API（Public API）](#公共-api)
@@ -42,6 +39,7 @@ _[Open Source Collective](https://opencollective.com/opensource)_
   - [实用工具（Utilities）](#实用工具)
 - [工具套件（Tool kit）](#工具套件)
 - [文档站点生成器（Documentation Site Generator）](#文档站点生成器)
+- [面试技巧（Interview Skills）](#面试技巧)
 - [更多（More）](#更多)
 
 ## 镜像站
@@ -126,71 +124,41 @@ _[Open Source Collective](https://opencollective.com/opensource)_
 - [The Turing Way](https://the-turing-way.netlify.app/) - 一本描述开源社区如何协作的开源书籍。
 - [Open Source Guides](https://opensource.guide/) - 开源指南。
 - [Google Engineering Practices Documentation](https://google.github.io/eng-practices/) - Google 工程实践文档。
-- [HTTP Status Codes](https://httpstatuses.com/) - HTTP 协议状态码列表。
 - [devops-resources](https://github.com/bregman-arie/devops-resources) - DevOps 资源。
   - [devops-exercises](https://github.com/bregman-arie/devops-exercises)
 - [中文文案排版指北](https://github.com/sparanoid/chinese-copywriting-guidelines) - 技术文档翻译排版。
 
 [`Go Top ↑`](#awesome-development-resources)
 
-## 技术参考文档
+## 技术参考资源
 
-*Some official or unofficial technical reference documents.*
-
-- [The Book Of Secret Knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) - 开发资源工具清单。
-- [Developer Roadmaps](https://roadmap.sh/) - 开发者路线图。
-- [4Dev.tools](https://4dev.tools/) - Web 开发人员开发资源。
-- [lib4dev](http://www.lib4dev.in/) - 开源库分类查询。
-- [DevDocs](https://devdocs.io/) - 在线技术文档查询。
-- [Code Cheatsheets](https://devhints.io/) - 备忘清单，脚本片段。
-- [Database of Database](https://dbdb.io/) - 聚合全球数据库信息。
-- [Bash Pitfalls](http://mywiki.wooledge.org/BashPitfalls) - 此页面汇总了 Bash 用户常犯的编程错误。
-- [COMMANDLINEFU.COM](https://www.commandlinefu.com/commands/browse) - 汇集了很多优秀的、充满智慧的、简洁的命令行命令。
-- [CODELF](https://unbug.github.io/codelf/) - 根据关键词查找开源项目中变量命名。
-- [Naming cheatsheet](https://github.com/kettanaito/naming-cheatsheet) - 变量命名指南。
-- [OWASP Cheat Sheet Series](https://cheatsheetseries.owasp.org/) - 技术安全相关备忘单，由 OWASP 基金会维护。
-- [Conflict-free Replicated Data Type](https://crdt.tech/) - 一种数据结构，可简化分布式数据存储系统和多用户应用程序。
-
-[`Go Top ↑`](#awesome-development-resources)
-
-## 技术学习
-
-*Developer-related journals, articles, news, etc.*
-
-- 免费电子书（Free Books）
-  - [List of Free Learning Resources](https://ebookfoundation.github.io/free-programming-books/)
-  - [Programming Notes for Professionals books](https://goalkicker.com/)
-
-- 出版商（Publisher）
-  - [Cooperpress](https://cooperpress.com/) - 计算机技术相关杂志、网站。
-
-### 面试
-
-*Interview.*
-
-- [LeetCode](https://leetcode-cn.com/) - 在线笔试算法题练习。
-- [牛客网](https://www.nowcoder.com/) - 在线刷题。
-- [Reverse interview](https://github.com/viraptor/reverse-interview) - 面试时候可以反问的一些问题。
-- [Coding Interview University](https://github.com/jwasham/coding-interview-university)
-- [Tech Interview Handbook](https://techinterviewhandbook.org/)
-- [System Design Interview](https://github.com/checkcheckzz/system-design-interview) - 系统设计面试。
-
-### 学习
-
-*Resource websites such as learning tutorials and courses.*
+*Some technical reference resources.*
 
 - [Awesome CTO](https://github.com/kuchin/awesome-cto) - 为首席技术官（CTO）准备的资源清单。
-- [Hackr.io](https://hackr.io/) - 在线教程。
+- [Developer Roadmaps](https://roadmap.sh/) - 开发者路线图。
+- [build-your-own-x](https://github.com/danistefanovic/build-your-own-x) - 构建某种技术的技术资料。
 - [RealWorld example apps](https://github.com/gothinkster/realworld) - 不同技术栈实现相同的前后端应用示例代码。
-- [build-your-own-x](https://github.com/danistefanovic/build-your-own-x) - 自己构建某种技术的教程。
 - [TodoMVC](http://todomvc.com/) - 构建 MV* 应用的技术选型推荐。
-- [The Art of Command Line](https://github.com/jlevy/the-art-of-command-line) - 命令行的艺术，技巧。
-- [WebGL Guide](https://xem.github.io/articles/webgl-guide.html) - WebGL 技术指南。
-- [WebGL Fundamentals](https://webglfundamentals.org/) - WebGL 基础知识。
-- [Perfection Kills](http://perfectionkills.com/)	
-- [30 seconds](https://www.30secondsofcode.org/) - 30 seconds 是一个系列，包含 JS、React.js、CSS、Git 相关的编程技巧和代码片段。
 
-#### 算法与数据结构
+### 统计信息
+
+_Statistics._
+
+- [TIOBE Index](https://www.tiobe.com/tiobe-index/) - 编程语言全球排名。
+- [DB-Engines](https://db-engines.com/) - 数据库排名信息。
+- [Database of Database](https://dbdb.io/) - 聚合全球数据库信息。
+
+### 参考文档
+
+_Reference documentation._
+
+- [HTTP Status Codes](https://httpstatuses.com/) - HTTP 协议状态码列表。
+- [lib4dev](http://www.lib4dev.in/) - 开源库分类查询。
+- [DevDocs](https://devdocs.io/) - 在线技术文档查询。
+- [4Dev.tools](https://4dev.tools/) - Web 开发人员开发资源。
+- [OWASP Cheat Sheet Series](https://cheatsheetseries.owasp.org/) - 技术安全相关备忘单，由 OWASP 基金会维护。
+
+### 算法与数据结构
 
 *Algorithm and data structure.*
 
@@ -200,13 +168,21 @@ _[Open Source Collective](https://opencollective.com/opensource)_
 - [Pathfinding Visualizer](https://josephprichard.github.io/Pathfinder/) - 寻路算法可视化工具。
 - [Data Structure Visualizations](https://www.cs.usfca.edu/~galles/visualization/) - 数据结构可视化。
 
-#### 编码练习
+### 编码技巧
 
-*Some coding exercises and challenges website.*
+_Coding skills._
 
-- [Codewars](https://www.codewars.com/) - 通过挑战解决代码问题提高编码水平。
+- [Naming cheatsheet](https://github.com/kettanaito/naming-cheatsheet) - 变量命名指南。
+  - [CODELF](https://unbug.github.io/codelf/) - 根据关键词查找开源项目中变量命名。
+- [The Art of Command Line](https://github.com/jlevy/the-art-of-command-line) - 命令行的艺术，技巧。
+- [COMMANDLINEFU.COM](https://www.commandlinefu.com/commands/browse) - 汇集了很多优秀的、充满智慧的、简洁的命令行命令。
+- [Bash Pitfalls](http://mywiki.wooledge.org/BashPitfalls) - 此页面汇总了 Bash 用户常犯的编程错误。
+- [Code Cheatsheets](https://devhints.io/) - 备忘清单，脚本片段。
+- [30 seconds](https://www.30secondsofcode.org/) - 30 seconds 是一个系列，包含 JS、React.js、CSS、Git 相关的编程技巧和代码片段。
 
-### 论坛
+[`Go Top ↑`](#awesome-development-resources)
+
+## 社区论坛
 
 *Some valuable developer forum websites, Q&A communities, etc.*
 
@@ -217,24 +193,29 @@ _[Open Source Collective](https://opencollective.com/opensource)_
 - [DEV](https://dev.to/) - 开发者社区。
 - [in Depth Dev](https://indepth.dev/) - 高级 Web 开发技术新闻。
 - [Front-End Front](https://frontendfront.com/) - 前端开发人员社区。
+- [图灵社区](http://www.ituring.com.cn/) - 国内一个出版计算机类相关书籍的社区，外文书翻译质量非常高，拥有很好的用户口碑。
 - [CNode 社区](https://cnodejs.org/) - CNode 社区由一批热爱 Node.js 技术的工程师发起，致力于 Node.js 的技术研究。
 - [Ruby China](https://ruby-china.org/) - 由众多爱好者共同维护的 Ruby 中文社区。
 - [V2EX](https://v2ex.com/) - 一个汇集各类奇妙好玩的话题和流行动向的网站。
 - [SegmentFault](https://segmentfault.com/) - 国内一个类似 Stack Overflow 的程序员技术学习，问答社区网站。
 - [w3schools](https://www.w3schools.com/) - 国外一个非常棒的 Web 技术学习资源网站。（须翻墙）
-- [w3school](http://www.w3school.com.cn/) - 国内一个仿国外 w3schools 的 Web 技术学习资源网站。
-- [菜鸟教程](http://www.runoob.com/) - 国内另一个仿国外 w3schools 的 Web 技术学习资源网站。
+  - [w3school](http://www.w3school.com.cn/) - 国内一个仿国外 w3schools 的 Web 技术学习资源网站。
+  - [菜鸟教程](http://www.runoob.com/) - 国内另一个仿国外 w3schools 的 Web 技术学习资源网站。
 - [掘金社区](https://juejin.im/) - 国内一个帮助开发者成长的社区，有很多优质的技术文章。
-- [掘金翻译计划](https://github.com/xitu/gold-miner) - 掘金翻译计划，可能是世界最大最好的英译中技术社区，最懂读者和译者的翻译平台。
-- [图灵社区](http://www.ituring.com.cn/) - 国内一个出版计算机类相关书籍的社区，外文书翻译质量非常高，拥有很好的用户口碑。
-- [慕课网](https://www.imooc.com/) - 国内一个提供计算机开发技术学习课程收费服务的网站，有大量免费优质学习资源。
+  - [掘金翻译计划](https://github.com/xitu/gold-miner) - 掘金翻译计划，可能是世界最大最好的英译中技术社区，最懂读者和译者的翻译平台。
 - [Linux 公社](https://www.linuxidc.com/) - 国内一个论坛，内有大量 Linux 相关资源。
 - [PaperWeekly](http://www.paperweekly.site/) - 一个推荐、解读、讨论和报道人工智能前沿论文成果的学术平台。
-- [前端资源网](http://www.fly63.com/) - Web 前端开发技术资源论坛。
+- [Hackr.io](https://hackr.io/) - 课程分享与学习。
+  - [慕课网](https://www.imooc.com/) - 国内一个提供计算机开发技术学习课程收费服务的网站，有大量免费优质学习资源。
 
-### 期刊
+[`Go Top ↑`](#awesome-development-resources)
+
+## 技术期刊
 
 *Some developer news journals related to industry technology trends.*
+
+- 出版商（Publisher）
+  - [Cooperpress](https://cooperpress.com/) - 计算机技术相关杂志、网站。
 
 - 每日（Every day）
   - [Webdesigner News](https://www.webdesignernews.com/) - 日报，针对 Web 设计师的新闻。
@@ -267,8 +248,8 @@ _[Open Source Collective](https://opencollective.com/opensource)_
   - [Serverless Status](https://serverless.email/) - 周刊，Serverless 和 FaaS 相关技术。（Cooperpress 出版）
   - [iOS Dev Weekly](https://iosdevweekly.com/) - 周刊，iOS 开发者相关。
   - [Smashing Magazine](https://www.smashingmagazine.com/) - 周刊，Web 前端与 UX 资讯。
-  - [科技爱好者周刊](https://github.com/ruanyf/weekly)
-  - [Awesome Weekly](https://github.com/jondot/awesome-weekly) - 更多周刊。
+  - [GameDev.js Weekly](https://gamedevjsweekly.com/) - 周刊，HTML5 游戏开发资讯。
+  - [_Awesome Weekly_](https://github.com/jondot/awesome-weekly) - _更多周刊。_
 
 - 每月（Monthly）
   - [The Deep Dive](https://indepth.dev/newsletter) - 月刊，一月两次，高级 Web 开发技术。
@@ -647,14 +628,34 @@ _Coding Statistics._
 
 [`Go Top ↑`](#awesome-development-resources)
 
+## 面试技巧
+
+*Interview skills.*
+
+- [Reverse interview](https://github.com/viraptor/reverse-interview) - 面试时候可以反问的一些问题。
+- [Coding Interview University](https://github.com/jwasham/coding-interview-university)
+- [Tech Interview Handbook](https://techinterviewhandbook.org/)
+- [System Design Interview](https://github.com/checkcheckzz/system-design-interview) - 系统设计面试。
+
+[`Go Top ↑`](#awesome-development-resources)
+
+### 编码练习
+
+*Some coding exercises and challenges website.*
+
+- [LeetCode](https://leetcode-cn.com/) - 在线笔试算法题练习。
+- [Codewars](https://www.codewars.com/) - 通过挑战解决代码问题提高编码水平。
+- [牛客网](https://www.nowcoder.com/) - 在线刷题。
+
 ## 更多
 
 *More uncategorized resources.*
 
 - [Openbase](https://openbase.com/) - 开源项目讨论及评奖。
 - [LibHunt](https://www.libhunt.com/) - 收集了各种库的网站。
-- [TIOBE Index](https://www.tiobe.com/tiobe-index/) - 编程语言全球排名。
-- [DB-Engines](https://db-engines.com/) - 数据库排名信息。
 - [Learn Anything](https://learn-anything.xyz/) - 知识路径图谱。
+- [Perfection Kills](http://perfectionkills.com/)	
+
+_[Open Source Collective](https://opencollective.com/opensource)_
 
 [`Go Top ↑`](#awesome-development-resources)
