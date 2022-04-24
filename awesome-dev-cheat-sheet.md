@@ -39,6 +39,7 @@ _Cheat sheet._
 ### :bookmark: Linux (Unix)
 
 - [APT Cheat Sheet](https://blog.packagecloud.io/apt-cheat-sheet/) `Debian` `Ubuntu` `apt-get` `apt-cache` `dpkg` `cli`
+- [The Art of Command Line](https://github.com/jlevy/the-art-of-command-line) `Linux` `cli`
 
 ### :bookmark: JavaScript / CSS
 
