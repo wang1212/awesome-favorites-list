@@ -25,7 +25,7 @@ _[Naming cheatsheet](https://github.com/kettanaito/naming-cheatsheet) & [CODELF]
 
 - [Big-O Cheat Sheet](https://www.bigocheatsheet.com/) `Big-O`
 
-### :bookmark: Math
+#### :bookmark: Math
 
 - [math-as-code](https://github.com/Jam3/math-as-code) `math` `notation` `script`
 
