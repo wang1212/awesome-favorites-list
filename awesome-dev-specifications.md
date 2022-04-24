@@ -39,9 +39,9 @@
 
 [`Go Top ↑`](#awesome-development-technical-standard-specifications)
 
-## 文件格式
+## 数据结构
 
-*File format.*
+*Data Structure.*
 
 - YAML
   - [YAML Specification](https://yaml.org/) - `.yaml` 文件数据格式规范。
@@ -60,6 +60,8 @@
 
 - Source Map
   - [Source Map Revision 3 Proposal](https://sourcemaps.info/spec.html) - `.map` 文件数据格式规范。
+
+- [Conflict-free Replicated Data Type](https://crdt.tech/) - 一种数据结构，可简化分布式数据存储系统和多用户应用程序。
 
 [`Go Top ↑`](#awesome-development-technical-standard-specifications)
 
