@@ -11,25 +11,10 @@
 
 *Resource navigation list.*
 
-- [编程语言（Programming Language）](#编程语言)
 - [协议（Protocol）](#协议)
-- [文件格式（File Format）](#文件格式)
+- [数据结构（Data Structure）](#数据结构)
+- [编程语言（Programming Language）](#编程语言)
 - [其它（Others）](#其它)
-
-## 编程语言
-
-*Programming language.*
-
-- [ECMAScript Official Specification Standard](https://www.ecma-international.org/publications/standards/Ecma-262.htm) - ECMAScript 官方规范标准。
-  - [ECMA International](http://www.ecma-international.org/) - ECMA 国际是一家国际性会员制度的信息和电信标准组织，负责行业标准的制定，例如 ECMA Script。
-  - [TC39 ECMAScript proposals](https://github.com/tc39/proposals) - TC39 对 ECMAScript 标准制定提案的记录。
-  - [_JSDoc_](https://jsdoc.app/) - _JavaScript 注释规范，**非官方规范**。_
-  - [_How to Read the ECMAScript Specification_](https://timothygu.me/es-howto/) - _如何阅读 ECMAScript 规范，**非官方**。_
-
-- [TypeScript](http://www.typescriptlang.org/) - JavaScript 的超集，强类型语言。
-  - [tsdoc](https://github.com/microsoft/tsdoc) - TypeScript 语言注释规范，**Microsoft 官方发布**。
-
-[`Go Top ↑`](#awesome-development-technical-standard-specifications)
 
 ## 协议
 
@@ -62,6 +47,21 @@
   - [Source Map Revision 3 Proposal](https://sourcemaps.info/spec.html) - `.map` 文件数据格式规范。
 
 - [Conflict-free Replicated Data Type](https://crdt.tech/) - 一种数据结构，可简化分布式数据存储系统和多用户应用程序。
+
+[`Go Top ↑`](#awesome-development-technical-standard-specifications)
+
+## 编程语言
+
+*Programming language.*
+
+- [ECMAScript Official Specification Standard](https://www.ecma-international.org/publications/standards/Ecma-262.htm) - ECMAScript 官方规范标准。
+  - [ECMA International](http://www.ecma-international.org/) - ECMA 国际是一家国际性会员制度的信息和电信标准组织，负责行业标准的制定，例如 ECMA Script。
+  - [TC39 ECMAScript proposals](https://github.com/tc39/proposals) - TC39 对 ECMAScript 标准制定提案的记录。
+  - [_JSDoc_](https://jsdoc.app/) - _JavaScript 注释规范，**非官方规范**。_
+  - [_How to Read the ECMAScript Specification_](https://timothygu.me/es-howto/) - _如何阅读 ECMAScript 规范，**非官方**。_
+
+- [TypeScript](http://www.typescriptlang.org/) - JavaScript 的超集，强类型语言。
+  - [tsdoc](https://github.com/microsoft/tsdoc) - TypeScript 语言注释规范，**Microsoft 官方发布**。
 
 [`Go Top ↑`](#awesome-development-technical-standard-specifications)
 
