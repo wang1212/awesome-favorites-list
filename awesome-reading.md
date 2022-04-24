@@ -158,9 +158,11 @@
 
 *[List of Free Learning Resources](https://ebookfoundation.github.io/free-programming-books/)*
 
-#### 计算机网络
+- [Programming Notes for Professionals books](https://goalkicker.com/)
 
-_Computer Network._
+#### 网络与协议
+
+_Network and Protocol._
 
 - 《网络是怎样连接的》[日] 户根勤
 - 《图解 HTTP》[日] 上野 · 宣
