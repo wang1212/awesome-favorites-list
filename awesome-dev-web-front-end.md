@@ -288,15 +288,19 @@ _see also 👉  [Node.JS-工具库](./awesome-dev-nodejs.md#工具库)_
     - [signature_pad](https://szimek.github.io/signature_pad/) - 手写签名。 
 
 - 事件（Event）
-  - [history](https://github.com/remix-run/history) - 管理页面路由。
-  - [Hammer.js](http://hammerjs.github.io/) - 支持移动端触摸事件，以及手势操作、多点触控。（:warning: 不再维护）
-  - [interact.js](https://interactjs.io/) - 同上。
-  - [@use-gesture/vanilla](https://use-gesture.netlify.app/) - 处理手势操作。
-  - [Mousetrap](https://github.com/ccampbell/mousetrap) - 处理键盘事件。
-  - [Hotkeys](https://wangchujiang.com/hotkeys/) - 处理键盘事件。
-  - [Hotkey](https://github.com/github/hotkey) - 处理键盘事件。
+  - BOM / Browser
+    - [history](https://github.com/remix-run/history) - 管理页面路由。
+    - [screenfull.js](https://sindresorhus.com/screenfull.js/) - 跨浏览器的 `Fullscreen API`。
+  - Mobile Event / Gestures
+    - [Hammer.js](http://hammerjs.github.io/) - 支持移动端触摸事件，以及手势操作、多点触控。（:warning: 不再维护）
+    - [zingtouch](https://zingchart.github.io/zingtouch/) - （:warning: 不再维护）
+    - [interact.js](https://interactjs.io/)
+    - [@use-gesture/vanilla](https://use-gesture.netlify.app/) - 轻量级。
+  - Keyboard Event
+    - [Mousetrap](https://github.com/ccampbell/mousetrap) - 处理键盘事件。
+    - [Hotkeys](https://wangchujiang.com/hotkeys/) - 处理键盘事件。
+    - [Hotkey](https://github.com/github/hotkey) - 处理键盘事件。
   - [Selecto.js](https://github.com/daybrush/selecto) - 拖动选择元素，支持鼠标和触摸事件。
-  - [screenfull.js](https://sindresorhus.com/screenfull.js/) - 跨浏览器的 `Fullscreen API`。
 
 - Cookie
   - [js-cookie](https://github.com/js-cookie/js-cookie) - 轻量的 Cookie 处理工具库。
