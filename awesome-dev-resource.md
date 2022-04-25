@@ -232,6 +232,7 @@ _Coding skills._
   - [Frontend Weekly](https://frontendweekly.co/) - 周刊，Web 前端技术资讯。
   - [JavaScript Weekly](https://javascriptweekly.com/) - 周刊，JavaScript 技术。（Cooperpress 出版）
   - [JSK Weekly](https://javascriptkicks.com/) - 周刊，JavaScript 技术。
+  - [ES.next News](http://esnextnews.com/) 周刊，最新的 JavaScript 技术资讯。
   - [CSS Weekly](https://css-weekly.com/) - 周刊，CSS 技术。
   - [CSS Animation Weekly](https://cssanimation.rocks/weekly/) - 周刊，CSS 动画。
   - [React Status](https://react.statuscode.com/) - 周刊，React.js 相关技术。（Cooperpress 出版）
