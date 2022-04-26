@@ -41,6 +41,8 @@
 
 *Online tools, tools that can be used directly on the web page.*
 
+[全球时间（TIME.IS）](https://time.is/)
+
 - 实用工具（Utils）
   - [Google Fonts](https://fonts.google.com/) - 免费开源的字体集合。
   - [Google Noto Fonts](https://www.google.com/get/noto/) - 免费可供所有人使用的，支持全球大部分语言的字体，**Google 发布**。
