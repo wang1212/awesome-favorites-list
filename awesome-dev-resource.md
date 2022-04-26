@@ -16,7 +16,14 @@
 - [镜像站（Mirror Site）](#镜像站)
 - [技术标准规范（Technical Standard Specification）](awesome-dev-specifications.md)
 - [技术实践规范（Technical Practice Specification）](#技术实践规范)
+  - [代码风格（Code Style）](#代码风格) 
+  - [项目管理（Project Management）](#项目管理)
+  - [软件与架构设计（Software and Architecture Design）](#软件与架构设计)
 - [技术参考资源（Technical Reference Resources）](#技术参考资源)
+  - [统计信息（Statistics）](#统计信息)
+  - [参考文档（Reference Documentation）](#参考文档) 
+  - [算法与数据结构（Algorithms and Data Structures）](#算法与数据结构) 
+  - [编码技巧（Coding Skills）](#编码技巧)
 - [社区论坛（Community Forum）](#论坛)
 - [技术期刊（Technical Journal）](#期刊)
 - [在线资源（Online Resources）](#在线资源)
@@ -167,6 +174,9 @@ _Reference documentation._
 - [VisuAlgo](https://visualgo.net/zh) - 可视化算法过程。
 - [Pathfinding Visualizer](https://josephprichard.github.io/Pathfinder/) - 寻路算法可视化工具。
 - [Data Structure Visualizations](https://www.cs.usfca.edu/~galles/visualization/) - 数据结构可视化。
+
+- JavaScript
+  - [JavaScript Algorithms and Data Structures](https://github.com/trekhleb/javascript-algorithms) - 算法和数据结构。
 
 ### 编码技巧
 
