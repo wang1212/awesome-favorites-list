@@ -218,7 +218,6 @@
   - [Modern JS Cheatsheet](https://mbeaudru.github.io/modern-js-cheatsheet/) - 现代 JavaScript 概念要点。[👉 中文翻译](https://zh.javascript.info/)
   - [What the f\*ck JavaScript?](https://github.com/denysdovhan/wtfjs) - JavaScript 中有趣且易错的要点。
   - [33 js concepts](https://github.com/leonardomso/33-js-concepts) - 包含了丰富的 JavaScript 相关的知识概念，学习资源。
-  - [JavaScript Algorithms and Data Structures](https://github.com/trekhleb/javascript-algorithms) - 算法和数据结构。
 
 - 技巧（Skills）
   - [Tips, Tricks, Best Practices](https://getfrontend.tips/) - 前端技巧和最佳实践。
