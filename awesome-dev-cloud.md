@@ -42,4 +42,8 @@
 - [OpenTelemetry](https://opentelemetry.io/) - 由 OpenTracing 和 OpenCensus 项目合并而成，性能数据、日志数据追踪、收集。
 - [Grafana](https://grafana.com/oss/grafana/) - 监控数据可视化、图表、仪表盘面板。
 
+- CI/CD
+  - [Drone](https://www.drone.io/) -  CI 平台。
+  - [Earthly](https://earthly.dev/) - CI/CD 管道框架。
+
 [`Go Top ↑`](#awesome-cloud-dev-list)
