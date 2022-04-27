@@ -7,6 +7,8 @@
 
 <br />
 
+[_opensource.com_](https://opensource.com/)
+
 [_The Book Of Secret Knowledge_](https://github.com/trimstray/the-book-of-secret-knowledge)
 
 ## 目录
@@ -129,7 +131,8 @@
 *Others.*
 
 - [The Turing Way](https://the-turing-way.netlify.app/) - 一本描述开源社区如何协作的开源书籍。
-- [Open Source Guides](https://opensource.guide/) - 开源指南。
+  - [Open Source Guides](https://opensource.guide/) - 开源指南。
+  - [The open source way](https://opensource.com/open-source-way)
 - [Google Engineering Practices Documentation](https://google.github.io/eng-practices/) - Google 工程实践文档。
 - [devops-resources](https://github.com/bregman-arie/devops-resources) - DevOps 资源。
   - [devops-exercises](https://github.com/bregman-arie/devops-exercises)
