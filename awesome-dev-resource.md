@@ -232,7 +232,7 @@ _Coding skills._
   - [Cooperpress](https://cooperpress.com/) - 计算机技术相关杂志、网站。
 
 - 每日（Every day）
-  - [freeCodeCamp News](https://www.freecodecamp.org/news) - 
+  - [freeCodeCamp News](https://www.freecodecamp.org/news)
   - [Webdesigner News](https://www.webdesignernews.com/) - 日报，针对 Web 设计师的新闻。
   - [Echo JS](https://www.echojs.com/) - 日报，Web 前端新闻。
   - [CSS-Tricks](https://css-tricks.com/) - 日报，CSS 技术文章。
