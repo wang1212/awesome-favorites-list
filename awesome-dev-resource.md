@@ -218,6 +218,7 @@ _Coding skills._
   - [掘金翻译计划](https://github.com/xitu/gold-miner) - 掘金翻译计划，可能是世界最大最好的英译中技术社区，最懂读者和译者的翻译平台。
 - [Linux 公社](https://www.linuxidc.com/) - 国内一个论坛，内有大量 Linux 相关资源。
 - [PaperWeekly](http://www.paperweekly.site/) - 一个推荐、解读、讨论和报道人工智能前沿论文成果的学术平台。
+- [freeCodeCamp Learning](https://www.freecodecamp.org/learn/)
 - [Hackr.io](https://hackr.io/) - 课程分享与学习。
   - [慕课网](https://www.imooc.com/) - 国内一个提供计算机开发技术学习课程收费服务的网站，有大量免费优质学习资源。
 
@@ -231,6 +232,7 @@ _Coding skills._
   - [Cooperpress](https://cooperpress.com/) - 计算机技术相关杂志、网站。
 
 - 每日（Every day）
+  - [freeCodeCamp News](https://www.freecodecamp.org/news) - 
   - [Webdesigner News](https://www.webdesignernews.com/) - 日报，针对 Web 设计师的新闻。
   - [Echo JS](https://www.echojs.com/) - 日报，Web 前端新闻。
   - [CSS-Tricks](https://css-tricks.com/) - 日报，CSS 技术文章。
