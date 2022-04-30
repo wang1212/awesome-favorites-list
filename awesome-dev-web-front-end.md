@@ -388,8 +388,6 @@ _see also 👉  [Node.JS-工具库](./awesome-dev-nodejs.md#工具库)_
     - [Lena.js](https://fellipe.com/demos/lena-js/) - 图片滤镜。
   - audio
     - [howler.js](https://howlerjs.com/) - 强大的音频处理工具库，支持所有的编解码器，跨浏览器支持。
-  - markdown
-    - [Marked](https://marked.js.org/) - markdown 文件解析，转换成 HTML 文件。
   - svg
     - [Trianglify](https://github.com/qrohlf/trianglify) - 通过算法生成三角网 SCG 背景图。(:point_right: https://trianglify.io/)
 
@@ -437,6 +435,7 @@ _see also 👉  [Node.JS-构建工具](./awesome-dev-nodejs.md#构建工具)_
 
 - [highlight.js](https://highlightjs.org/) - 页面代码高亮。
 - [Prism.js](https://prismjs.com/) - 页面代码高亮。
+- [Shiki](https://shiki.matsu.io/) - 页面代码高亮。
 
 ### API 兼容性支持
 
