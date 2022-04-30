@@ -256,8 +256,10 @@ _see also 👉  [JS-工具库](./awesome-dev-web-front-end.md#js-工具库) | [a
     - [jsdom](https://github.com/jsdom/jsdom) - Web 标准的纯 JavaScript 实现。
     - [cheerio](https://cheerio.js.org/) - 包装了[parse5](https://github.com/inikulin/parse5) 和 [htmlparser2](https://github.com/fb55/htmlparser2/) 的轻量级 HTML 文档解析库，具有类 jQuery 的 api。
   - markdown
+    - [Marked](https://marked.js.org/) - Markdown 解析器。（支持 Web）
+    - [markdown-it](https://github.com/markdown-it/markdown-it) - Markdown 解析器。（支持 Web）
     - [gray-matter](https://github.com/jonschlinkert/gray-matter) - 解析 [Front Matter](https://jekyllrb.com/docs/front-matter/)。
-    - [front-matter](https://github.com/jxson/front-matter) - 解析 Front Matter。    
+    - [front-matter](https://github.com/jxson/front-matter) - 解析 Front Matter。
   - yaml
     - [js-yaml](https://github.com/nodeca/js-yaml) - yaml 文件解析和生成。
   - zip
