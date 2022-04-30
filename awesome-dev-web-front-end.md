@@ -162,6 +162,7 @@
   - [Animated Backgrounds](https://animatedbackgrounds.me/) - CSS 动画背景。
   - [My Device](https://www.mydevice.io/) - 测量当前设备相关的 CSS 值，例如视区宽度等等。
   - [bienvenida al laboratorio](https://ryanve.com/lab/) - 一些 CSS 特性相关的用例。
+  - [CSS Script](https://www.cssscript.com/) - 设计现代 Web 的 CSS 脚本。
 
 ### CSS 工具库
 
