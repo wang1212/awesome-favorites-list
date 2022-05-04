@@ -48,7 +48,7 @@
   - [实用工具（Utilities）](#实用工具)
 - [工具套件（Tool kit）](#工具套件)
 - [文档站点生成器（Documentation Site Generator）](#文档站点生成器)
-- [面试技巧（Interview Skills）](#面试技巧)
+- [面试指南（Interview Guidelines）](#面试指南)
 - [更多（More）](#更多)
 
 ## 镜像站
@@ -645,17 +645,15 @@ _Coding Statistics._
 
 [`Go Top ↑`](#awesome-development-resources)
 
-## 面试技巧
+## 面试指南
 
-*Interview skills.*
+*Interview guidelines.*
 
 - [Reverse interview](https://github.com/viraptor/reverse-interview) - 面试时候可以反问的一些问题。
 - [Coding Interview University](https://github.com/jwasham/coding-interview-university)
 - [Tech Interview Handbook](https://techinterviewhandbook.org/)
 - [System Design Interview](https://github.com/checkcheckzz/system-design-interview) - 系统设计面试。（:warning: 不再更新）
 - [Front End Interview Handbook](https://www.frontendinterviewhandbook.com/) - 前端面试手册。
-- [InterviewBit](https://www.interviewbit.com/) - 计算机知识学习，模拟面试平台。
-  - [Technical Interview Questions](https://www.interviewbit.com/technical-interview-questions/) - 面试指南。
 
 [`Go Top ↑`](#awesome-development-resources)
 
@@ -664,6 +662,8 @@ _Coding Statistics._
 *Some coding exercises and challenges website.*
 
 - [LeetCode](https://leetcode-cn.com/) - 在线笔试算法题练习。
+- [InterviewBit](https://www.interviewbit.com/) - 计算机知识学习，模拟面试平台。
+  - [Technical Interview Questions](https://www.interviewbit.com/technical-interview-questions/) - 面试指南。
 - [Codewars](https://www.codewars.com/) - 通过挑战解决代码问题提高编码水平。
 - [牛客网](https://www.nowcoder.com/) - 在线刷题。
 
