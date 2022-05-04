@@ -88,7 +88,6 @@
 
 - 备忘单与代码片段（Cheatsheet & Code Snippets）
   - [this vs that](https://thisthat.dev/) - 类似概念区分理解。
-  - [30 seconds](https://www.30secondsofcode.org/) - 30 seconds 是一个系列，包含 JS、React.js、CSS 相关的编程技巧和代码片段。
 
 [`Go Top ↑`](#awesome-web-front-end-list)
 
