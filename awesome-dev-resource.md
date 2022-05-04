@@ -654,6 +654,7 @@ _Coding Statistics._
 - [Tech Interview Handbook](https://techinterviewhandbook.org/)
 - [System Design Interview](https://github.com/checkcheckzz/system-design-interview) - 系统设计面试。（:warning: 不再更新）
 - [Front End Interview Handbook](https://www.frontendinterviewhandbook.com/) - 前端面试手册。
+- [InterviewBit](https://www.interviewbit.com/) - 面试准备指引。
 
 [`Go Top ↑`](#awesome-development-resources)
 
