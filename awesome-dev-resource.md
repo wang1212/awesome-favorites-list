@@ -117,10 +117,11 @@
 
 *Software and architecture design. See also :point_right: [Awesome Software Architecture](https://mehdihadeli.github.io/awesome-software-architecture/)*
 
+- [System Design Cheatsheet](https://gist.github.com/vasanthk/485d1c25737e8e72759f) - 系统设计备忘单。
+- [awesome-scalability](https://github.com/binhnguyennus/awesome-scalability) - 可伸缩、可扩展系统设计实践。
 - [https://12factor.net/](https://12factor.net/) - 开发应用的十二要素。
 - [c4model](https://c4model.com/) - 用于软件架构的 C4 模型。
 - [The System Design Primer](https://github.com/donnemartin/system-design-primer) - 学习构建大型系统。
-- [System Design Cheatsheet](https://gist.github.com/vasanthk/485d1c25737e8e72759f) - 系统设计备忘单。
 - [Superhero.js](http://superherojs.com/) - 构建大型 JavaScript 项目的一些技巧。
 - [Command Line Interface Guidelines](https://clig.dev/) - 命令行接口指南。
 - [Awesome Software and Architectural Design Patterns](https://github.com/DovAmir/awesome-design-patterns)
@@ -651,7 +652,8 @@ _Coding Statistics._
 - [Reverse interview](https://github.com/viraptor/reverse-interview) - 面试时候可以反问的一些问题。
 - [Coding Interview University](https://github.com/jwasham/coding-interview-university)
 - [Tech Interview Handbook](https://techinterviewhandbook.org/)
-- [System Design Interview](https://github.com/checkcheckzz/system-design-interview) - 系统设计面试。
+- [System Design Interview](https://github.com/checkcheckzz/system-design-interview) - 系统设计面试。（:warning: 不再更新）
+- [Front End Interview Handbook](https://www.frontendinterviewhandbook.com/) - 前端面试手册。
 
 [`Go Top ↑`](#awesome-development-resources)
 
@@ -662,6 +664,18 @@ _Coding Statistics._
 - [LeetCode](https://leetcode-cn.com/) - 在线笔试算法题练习。
 - [Codewars](https://www.codewars.com/) - 通过挑战解决代码问题提高编码水平。
 - [牛客网](https://www.nowcoder.com/) - 在线刷题。
+
+### 面试题
+
+*Interview questions.*
+
+- Generic
+  - [Awesome Interviews](https://github.com/DopplerHQ/awesome-interview-questions)
+
+- Web Front-end
+  - [Front-end Developer Interview Questions](https://h5bp.org/Front-end-Developer-Interview-Questions/) 
+  - [JavaScript Interview Questions & Answers](https://github.com/sudheerj/javascript-interview-questions) 
+  - [React Interview Questions & Answers](https://github.com/sudheerj/reactjs-interview-questions)
 
 ## 更多
 
