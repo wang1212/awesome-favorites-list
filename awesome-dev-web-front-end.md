@@ -910,7 +910,7 @@ _[data-to-viz](https://www.data-to-viz.com/) 数据可视化决策工具。_
 - [xstate](https://github.com/statelyai/xstate) - 基于状态机模型。
 
 - Tools
-  - [Immutable.js](https://immutable-js.github.io/immutable-js/) - 不可变数据。（:warning: 不再更新）
+  - [Immutable.js](https://immutable-js.github.io/immutable-js/) - 不可变数据。
   - [Immer](https://immerjs.github.io/immer/) - 不可变数据。
 
 [`Go Top ↑`](#awesome-web-front-end-list)
