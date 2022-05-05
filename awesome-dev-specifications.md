@@ -59,6 +59,7 @@
   - [TC39 ECMAScript proposals](https://github.com/tc39/proposals) - TC39 对 ECMAScript 标准制定提案的记录。
   - [_JSDoc_](https://jsdoc.app/) - _JavaScript 注释规范，**非官方规范**。_
   - [_How to Read the ECMAScript Specification_](https://timothygu.me/es-howto/) - _如何阅读 ECMAScript 规范，**非官方**。_
+  - [_JSX_](https://facebook.github.io/jsx/) - ECMAScript 的类似 XML 的语法扩展，**非官方**。_
 
 - [TypeScript](http://www.typescriptlang.org/) - JavaScript 的超集，强类型语言。
   - [tsdoc](https://github.com/microsoft/tsdoc) - TypeScript 语言注释规范，**Microsoft 官方发布**。
