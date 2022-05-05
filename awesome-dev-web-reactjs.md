@@ -119,7 +119,7 @@ _（Recommend）其它收藏列表 :point_right: [olegrjumin/awesome-react-state
 - [jotai](https://jotai.pmnd.rs/) - 轻量级状态管理库,类似于 Recoil。
 
 - Tools
-  - [Immutable.js](https://immutable-js.github.io/immutable-js/) - 不可变数据。（:warning: 不再更新）
+  - [Immutable.js](https://immutable-js.github.io/immutable-js/) - 不可变数据。
   - [Immer](https://immerjs.github.io/immer/) - 不可变数据。
 
 [`Go Top ↑`](#awesome-reactjs-list)
