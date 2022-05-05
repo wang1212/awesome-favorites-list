@@ -319,6 +319,7 @@
 - [QuickLook](https://pooi.moe/QuickLook/) - 文件内容预览工具，界面美观，**开源软件**。
 - [Seer](http://1218.io/) - 文件内容预览工具，界面较为简陋，**提供免费版本**。
 - [WizTree](https://wiztreefree.com/) - 磁盘空间分析工具，统计文件夹大小，**免费软件**。
+- [WinFR 界面版](https://www.disktool.cn/recovery/winfr.html) - 微软 [Windows File Recovery](https://apps.microsoft.com/store/detail/windows-file-recovery/9N26S50LN705) 的界面版，**非官方，免费软件**。
 
 #### 图片
 
