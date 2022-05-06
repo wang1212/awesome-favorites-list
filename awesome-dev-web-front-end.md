@@ -988,6 +988,7 @@ _[Progressive web apps](https://developer.mozilla.org/en-US/docs/Web/Progressive
   - [cdnjs](https://cdnjs.com/)
   - [Google Hosted Libraries](https://developers.google.com/speed/libraries/)
   - [ESM](https://esm.sh/)
+  - [Skypack](https://www.skypack.dev/)
   
 - China
   - [BootCDN](https://www.bootcdn.cn/) - Bootstrap 中文网维护。
