@@ -488,6 +488,7 @@ _see also 👉  [Node.JS-构建工具](./awesome-dev-nodejs.md#构建工具)_
   - CSS In JS
     - [JSS](https://cssinjs.org) - 一种 CSS-in-JS 的解决方案。
     - [styled components](https://www.styled-components.com) - 一种 CSS-in-JS 的解决方案。
+  - [modular-css](https://m-css.com/) - CSS 模块的扩展实现。
 
 ### 代码静态分析
 
