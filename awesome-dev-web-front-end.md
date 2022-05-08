@@ -429,6 +429,13 @@ _see also 👉  [Node.JS-构建工具](./awesome-dev-nodejs.md#构建工具)_
 
 - [Create App](https://createapp.dev/) - 前端项目构建工具启动配置。
 
+### 构建现代 Web 应用
+
+_Build modern web apps._
+
+- [Modern Web](https://modern-web.dev/) - 现代 Web 开发的指南、工具和库。
+- [Open Web Components](https://open-wc.org/) - 用于开发 Web 组件的指南、工具和库。
+
 ### 文档
 
 *Document.*
