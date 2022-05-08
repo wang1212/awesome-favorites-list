@@ -993,10 +993,10 @@ _[Progressive web apps](https://developer.mozilla.org/en-US/docs/Web/Progressive
   - [jspm](https://jspm.org/)
 
 - China
-  - [BootCDN](https://www.bootcdn.cn/) - Bootstrap 中文网维护。
+  - [BootCDN](https://www.bootcdn.cn/) - Bootstrap 中文网维护，cdnjs 的国内同步源。
   - [75CDN](https://cdn.baomitu.com) - 奇虎 360 前端团队奇舞团维护。
   - [Staticfile CDN](https://staticfile.org/) - 七牛云与掘金维护。
-  - [loli.net](https://css.loli.net/)
+  - [loli.net](https://css.loli.net/) - cdnjs 的国内同步源。
 
 ### 在线工具
 
