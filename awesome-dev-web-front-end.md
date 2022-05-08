@@ -988,9 +988,10 @@ _[Progressive web apps](https://developer.mozilla.org/en-US/docs/Web/Progressive
   - [UNPKG](https://unpkg.com/)
   - [cdnjs](https://cdnjs.com/)
   - [Google Hosted Libraries](https://developers.google.com/speed/libraries/)
-  - [ESM](https://esm.sh/)
+  - [ESM](https://esm.sh/) - 用于 **ES Module** 格式。
   - [Skypack](https://www.skypack.dev/)
-  
+  - [jspm](https://jspm.org/)
+
 - China
   - [BootCDN](https://www.bootcdn.cn/) - Bootstrap 中文网维护。
   - [75CDN](https://cdn.baomitu.com) - 奇虎 360 前端团队奇舞团维护。
