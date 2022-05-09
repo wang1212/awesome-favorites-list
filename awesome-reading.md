@@ -245,9 +245,6 @@ _Client development._
 
 _Computer Graphics._
 
-- [_WebGL Fundamentals_](https://webglfundamentals.org/) - _WebGL 基础知识。_
-- [_WebGL2 Fundamentals_](https://webgl2fundamentals.org/) - _WebGL2 基础知识。_
-- [_WebGL Guide_](https://xem.github.io/articles/webgl-guide.html) - _WebGL 技术指南。_
 - 《HTML5 Canvas 核心技术》[美] David Geary
 
 #### 数据库
