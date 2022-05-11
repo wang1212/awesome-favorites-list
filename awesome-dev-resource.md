@@ -112,6 +112,7 @@
   - [Semantic Versioning](https://semver.org/) - 语义化版本控制。
   - [keep a changelog](https://keepachangelog.com/) - 项目内应始终存在一个 *CHANGELOG.md* 文件，并遵循一定的规范。
 - [Advantages of monorepos](https://danluu.com/monorepo/) - `monorepos` 模式代码仓库的优点。
+  - [monorepo.tools](https://monorepo.tools/)
 
 ### 软件与架构设计
 
