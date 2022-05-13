@@ -961,6 +961,7 @@ _[Progressive web apps](https://developer.mozilla.org/en-US/docs/Web/Progressive
   - [Tasks, microtasks, queues and schedules](https://jakearchibald.com/2015/tasks-microtasks-queues-and-schedules/) - JS 中的任务、微任务、队列和调度过程。
     - [JavaScript Visualizer 9000](https://www.jsv9000.app/) - 可视化脚本执行，任务队列，微任务队列，UI 更新的过程。
   - [JavaScript Event Loop vs Node JS Event Loop](https://blog.insiderattack.net/javascript-event-loop-vs-node-js-event-loop-aea2b1b85f5c) - 浏览器中的 JS 事件循环。
+  - [ES modules: A cartoon deep-dive](https://hacks.mozilla.org/2018/03/es-modules-a-cartoon-deep-dive/) - ES module 的实现分析。
 
 ### 抽象语法树
 
