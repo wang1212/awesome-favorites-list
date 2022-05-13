@@ -178,6 +178,7 @@
 - [hatchful](https://hatchful.shopify.com/) - logo 设计。
 - [logofury](https://www.logofury.com/) - logo 设计。
 - [Font Pair](https://fontpair.co/) - 排版工具。
+- [Everything Fonts](https://everythingfonts.com/) - 字体处理。
 
 #### 图形绘制
 
