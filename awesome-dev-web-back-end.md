@@ -100,6 +100,8 @@
 
 *Utils tools.*
 
+- [Typesense](https://typesense.org/) - 搜索引擎，可作为 Algolia 和 Elasticsearch 的替代方案，**开源**。
+
 ### 文档
 
 - [apiDoc](https://apidocjs.com/) - 生成 RESTful web APIs 文档，支持多种后端语言。
