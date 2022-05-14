@@ -47,6 +47,8 @@ _Reference documentation._
   - [PixiJS](https://www.pixijs.com/) - 2D WebGL 渲染引擎，高性能。
   - [sigma.js](http://sigmajs.org/) - 可视化大数据量的关系节点。
     - [Graphology](https://graphology.github.io/) 
+  - :point_right: React.js
+    - [react-three-fiber](https://docs.pmnd.rs/react-three-fiber/getting-started/introduction) - 可视化库，React.js 的 Threejs 渲染器。
 
 - [Babylon.js](https://www.babylonjs.com/) - 游戏渲染引擎。
 
@@ -85,6 +87,13 @@ _Reference documentation._
   - [vizzu](https://github.com/vizzuhq/vizzu-lib) - 交互式动画图表。
   - [Frappe Charts](https://frappe.io/charts) - 基于 SVG 的高性能图表库。
   - [Charts.css](https://chartscss.org/) - CSS 图表库。
+  - :point_right: React.js
+    - [React-Vis](https://uber.github.io/react-vis/) - 图表库，**Uber 团队开发**。
+    - [visx](https://airbnb.io/visx) - 图表库，基于 React 和 D3.js,**Airbnb 团队开发**。
+    - [Recharts](http://recharts.org/) - 图表库。
+    - [React Charts](https://react-charts.js.org/) - 图表库。
+    - [Victory](https://formidable.com/open-source/victory/) - 图表库。
+    - [react-chartjs-2](https://github.com/reactchartjs/react-chartjs-2) - 图表库，基于 Chart.js 的图表组件。
 
 - 关系图（Relation Chart）
   - [Cytoscape.js](https://js.cytoscape.org/) - 用于可视化和分析的图论（网络）库。
@@ -94,6 +103,9 @@ _Reference documentation._
   - [Perspective](https://perspective.finos.org/) - 基于 C++ 的 wasm 高性能数据可视化组件。
   - [Plotly](https://plotly.com/javascript/) - 丰富的图表，支持金融、科学相关图表。
   - [uPlot](https://github.com/leeoniya/uPlot) - 快速、轻量级的图表库。
+  - :point_right: React.js
+    - [react-flow](https://reactflow.dev/) - 可视化工具库，构建流程图等。
+    - [React Financial Charts](https://github.com/reactivemarkets/react-financial-charts) - 图表库，股票蜡烛图。
 
 #### 动画
 
@@ -140,6 +152,9 @@ _Reference documentation._
   - [dom-confetti](https://github.com/daniel-lundin/dom-confetti) - 五彩纸屑动画。
   - [Canvas Confetti](https://www.kirilv.com/canvas-confetti/) - 五彩纸屑动画。
   - [Vanta.js](https://www.vantajs.com/) - 数款页面 WebGL 背景动画。
+
+- :point_right: React.js
+  - [react-spring](https://react-spring.io/) - 动画工具库。
 
 [`Go Top ↑`](#awesome-data-visualization-list)
 
