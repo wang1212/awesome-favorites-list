@@ -83,8 +83,8 @@
 
 ## 数据库
 
-- [RethinkDB](https://rethinkdb.com/) - **开源**的构建实时 Web 应用的数据库。
-
+- [PostgreSQL](https://www.postgresql.org/) - 世界上最受欢迎的开源关系数据库，**开源**。
+- [RethinkDB](https://rethinkdb.com/) - 构建实时 Web 应用的数据库，**开源**。
 - [SQLite](https://www.sqlite.org/)
   - [sqlite-viewer](http://inloop.github.io/sqlite-viewer/) - 在线浏览器工具。
 
