@@ -639,10 +639,14 @@ _Coding Statistics._
 
 *Documentation Site Generator.*
 
+- [Gatsby](https://www.gatsbyjs.org/) - 静态站点生成器，基于 React.js 的开源框架，可快速开发 Web 网站和应用。
+  - [docz](https://www.docz.site/)
 - [Docusaurus](https://v2.docusaurus.io/) - 快速构建优化、快速的网站，**Facebook 发布**。
-- [docsify](https://docsify.js.org/) - 一个神奇的文档站点生成器。
 - [MkDocs](https://www.mkdocs.org/)
-- [GitBook](https://www.gitbook.com/)
+- [Nextra](https://nextra.vercel.app/) - 基于 Next.js 的静态站点生成器。
+- [GitBook](https://www.gitbook.com/) - 对开源和非盈利团队免费。
+- [docsify](https://docsify.js.org/)
+- [VuePress](https://vuepress.vuejs.org/)
 
 [`Go Top ↑`](#awesome-development-resources)
 
