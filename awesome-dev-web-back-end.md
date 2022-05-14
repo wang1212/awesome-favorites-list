@@ -101,6 +101,7 @@
 *Utils tools.*
 
 - [Typesense](https://typesense.org/) - 搜索引擎，可作为 Algolia 和 Elasticsearch 的替代方案，**开源**。
+- [DocSearch](https://docsearch.algolia.com/) - Algolia 提供的文档搜索引擎，**开源免费**。
 
 ### 文档
 
