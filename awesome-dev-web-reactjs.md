@@ -24,7 +24,7 @@
 - [UI 组件（UI Component）](#ui-组件)
   - [组件库（Component Library）](#组件库)
   - [独立组件（Independent Components）](#独立组件)
-- [数据可视化（Data Visualization）](#数据可视化)
+- [数据可视化（Data Visualization）](./awesome-dev-data-visualization.md#javascript)
 - [优化方案（Application Optimization）](#优化方案)
 - [文章（Article）](#文章)
 - [深入探索（Explore In Depth）](#深入探索)
@@ -275,23 +275,6 @@ _UI Design System, provides a base system for building a design system._
   - [react-responsive](https://github.com/contra/react-responsive) - 响应式 UI 工具组件。
   - [use-count-up](https://github.com/vydimitrov/use-count-up) - 计数器。
   - [react-markdown](https://remarkjs.github.io/react-markdown/) - markdown 渲染组件。
-
-[`Go Top ↑`](#awesome-reactjs-list)
-
-## 数据可视化
-
-*Data visualization chart library, framework.*
-
-- [React-Vis](https://uber.github.io/react-vis/) - 图表库，**Uber 团队开发**。
-- [visx](https://airbnb.io/visx) - 图表库，基于 React 和 D3.js,**Airbnb 团队开发**。
-- [Recharts](http://recharts.org/) - 图表库。
-- [React Charts](https://react-charts.js.org/) - 图表库。
-- [Victory](https://formidable.com/open-source/victory/) - 图表库。
-- [react-three-fiber](https://docs.pmnd.rs/react-three-fiber/getting-started/introduction) - 可视化库，React.js 的 Threejs 渲染器。
-- [React Financial Charts](https://github.com/reactivemarkets/react-financial-charts) - 图表库，股票蜡烛图。
-- [react-flow](https://reactflow.dev/) - 可视化工具库，构建流程图等。
-- [react-chartjs-2](https://github.com/reactchartjs/react-chartjs-2)
-- [react-spring](https://react-spring.io/) - 动画工具库。
 
 [`Go Top ↑`](#awesome-reactjs-list)
 
