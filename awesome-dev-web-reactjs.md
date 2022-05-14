@@ -17,7 +17,7 @@
 
 - [技术参考文档（Technical Reference Document）](#技术参考文档)
 - [构建工具（Build Tools）](#构建工具)
-- [Hook](#hook)
+- [Hooks](#hooks)
 - [状态管理（Application State Management）](#状态管理)
 - [路由管理（Route Management）](#路由管理)
 - [UI 设计系统（UI Design System）](#ui-设计系统)
@@ -79,9 +79,9 @@
 
 [`Go Top ↑`](#awesome-reactjs-list)
 
-## Hook
+## Hooks
 
-*Useful [React Hook](https://reactjs.org/docs/hooks-intro.html) tool.*
+*Useful [React Hook](https://reactjs.org/docs/hooks-intro.html) tools.*
 
 _（Recommend）推荐一个其它的很棒的收藏列表，:point_right: [rehooks/awesome-react-hooks](https://github.com/rehooks/awesome-react-hooks)_
 
@@ -94,6 +94,9 @@ _（Recommend）推荐一个其它的很棒的收藏列表，:point_right: [reho
 - 表单（Form）
   - [React Hook Form](https://react-hook-form.com/) - 表单处理。
   - [Unform](https://unform.dev/) - 注重性能的表单处理工具。  
+
+- 事件（Events）
+  - [React Swipeable](https://formidable.com/open-source/react-swipeable/) - 滑动事件处理。
 
 - 其它（Others）
   - [react-use](https://github.com/streamich/react-use) - 一套 hook 工具包。
