@@ -116,6 +116,7 @@
   - [depp](https://github.com/CryogenicPlanet/depp) - 项目依赖检查，是否存在未使用或者重复的依赖。
   - [npkill](https://npkill.js.org/) - 搜索系统中的 *node_modules* 文件夹并清理。
   - [njt](https://njt.now.sh/) -  npm jump to，npm 包搜索并跳转到相应 npm 站点。
+  - [patch-package](https://github.com/ds300/patch-package) - 对模块打补丁进行修复。
 
 [`Go Top ↑`](#awesome-nodejs-list)
 
