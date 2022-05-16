@@ -273,6 +273,7 @@
 - [uTools](http://www.u.tools/) - 生产力工具，包含许多小工具，**免费软件**。
 - [Module Art](https://moduleart.github.io/) - 软件集合，包含图片浏览器、录屏软件等，**开源软件**。
 - [Anki](https://apps.ankiweb.net/) - 便签记录学习工具，**开源软件**。
+- [Joplin](https://joplinapp.org/) - 笔记管理应用，可以同步、协作、分享，支持 Windows/macOS/Linux/Android/iOS 平台，**开源软件**。
 
 ### 浏览器
 
