@@ -42,6 +42,7 @@ _Reference documentation._
 - [D3](https://d3js.org/) - 可视化库，数据驱动的，非常著名，许多图表库基于此开发。
 
 - WebGL
+  - [_A collection of WebGL and WebGPU frameworks and libraries_](https://gist.github.com/dmnsgn/76878ba6903cf15789b712464875cfdc) 
   - [three.js](https://threejs.org/) - 3D 动画库，强大的 JavaScript 3D 动画库。
   - [stackgl](http://stack.gl/) - WebGL 引擎。
   - [PixiJS](https://www.pixijs.com/) - 2D WebGL 渲染引擎，高性能。
@@ -52,7 +53,8 @@ _Reference documentation._
 
 - [Babylon.js](https://www.babylonjs.com/) - 游戏渲染引擎。
 
-- 2D Drawing Tools
+- 2D Drawing Tools (Canvas/SVG)
+  - [_Canvas Engines Comparison_](https://github.com/slaylines/canvas-engines-comparison) 
   - [Rough.js](https://roughjs.com/) - 创建具有手绘风格的草图图形。
   - [Konva](https://konvajs.org) - 用于桌面和移动应用程序的 HTML5 2D canvas 库。
   - [Paper.js](http://paperjs.org/) - 矢量绘图工具。
