@@ -119,6 +119,8 @@
 
 > [W3C CSS 官方规范标准（W3C CSS Official Specification Standard）](https://www.w3.org/Style/CSS/)
 
+- [_css-modules_](https://github.com/css-modules/css-modules) - _CSS 模块。（:warning: 没有被标准化）_
+
 ### CSS 代码风格规范
 
 *Code Style Specifications.*
