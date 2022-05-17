@@ -58,7 +58,7 @@ _Reference documentation._
   - [Paper.js](http://paperjs.org/) - 矢量绘图工具。
   - [Pencil.js](https://pencil.js.org/) - 2D 绘图库。
   - [EaselJS](https://createjs.com) - 工具套件，包含 Canvas、Web Audio 等工具库。
-  - [Fabric.js](http://fabricjs.com/) - 2D 绘图库。
+  - [Fabric.js](http://fabricjs.com/) - 2D 绘图库，支持 Canvas、SVG。
   - [Two.js](https://two.js.org/) - Web 2D 绘图工具库，基于 Canvas、Svg、WebGL。
 
 - Others
@@ -89,7 +89,8 @@ _Reference documentation._
   - [Charts.css](https://chartscss.org/) - CSS 图表库。
   - :point_right: React.js
     - [React-Vis](https://uber.github.io/react-vis/) - 图表库，**Uber 团队开发**。
-    - [visx](https://airbnb.io/visx) - 图表库，基于 React 和 D3.js,**Airbnb 团队开发**。
+    - [visx](https://airbnb.io/visx) - 图表库，基于 React.js 和 D3.js，**Airbnb 团队开发**。
+    - [nivo](https://nivo.rocks/) - 图表库，基于 React.js 和 D3.js。
     - [Recharts](http://recharts.org/) - 图表库。
     - [React Charts](https://react-charts.js.org/) - 图表库。
     - [Victory](https://formidable.com/open-source/victory/) - 图表库。
@@ -103,6 +104,7 @@ _Reference documentation._
   - [Perspective](https://perspective.finos.org/) - 基于 C++ 的 wasm 高性能数据可视化组件。
   - [Plotly](https://plotly.com/javascript/) - 丰富的图表，支持金融、科学相关图表。
   - [uPlot](https://github.com/leeoniya/uPlot) - 快速、轻量级的图表库。
+  - [webdatarocks](https://www.webdatarocks.com/) - 创建透视表，**免费**。
   - :point_right: React.js
     - [react-flow](https://reactflow.dev/) - 可视化工具库，构建流程图等。
     - [React Financial Charts](https://github.com/reactivemarkets/react-financial-charts) - 图表库，股票蜡烛图。
