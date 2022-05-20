@@ -72,6 +72,7 @@
   - [GitClone](https://gitclone.com/) - GitHub 仓库缓存加速。
   - [GitHub Proxy](https://ghproxy.com/) - 文件代理加速下载。
   - [https://d.serctl.com/](https://d.serctl.com/) - 文件代下服务。
+  - [GitHub & BitBucket HTML Preview](https://github.com/htmlpreview/htmlpreview.github.com) - 静态资源预览代理。 
 
 - Others
   - [思谋学术](https://ac.scmor.com/) - 谷歌学术源。
