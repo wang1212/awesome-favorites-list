@@ -136,6 +136,7 @@
   - [Optimizilla](https://imagecompressor.com/)
   - [压缩图](https://www.yasuotu.com/)
   - [色彩笔](http://www.secaibi.com/tools/)
+  - [shrink.media](https://www.shrink.media/)
 
 #### PDF
 
