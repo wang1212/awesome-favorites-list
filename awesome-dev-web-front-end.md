@@ -649,6 +649,7 @@ _Build modern web apps._
   - [GLightbox](https://github.com/biati-digital/glightbox)
   - [spotlight](https://nextapps-de.github.io/spotlight/)
   - [lightGallery](https://www.lightgalleryjs.com/)
+  - [Parvus](https://github.com/deoostfrees/Parvus)
  
 - 模态框（Modal box）
   - [SweetAlert](https://sweetalert.js.org/) - 浏览器 Alert 弹框的替代，更漂亮美观。（:warning: 不再更新）
@@ -692,6 +693,7 @@ _Build modern web apps._
   - [DragSelect](https://dragselect.com/) - 拖放布局，拖拽框选。
   - [plain-draggable](https://anseki.github.io/plain-draggable/)
   - [draggable](https://shopify.github.io/draggable/)
+  - [DFlex](https://www.dflex.dev/)
   
 - 列表（List）
   - [List.js](https://listjs.com/) - 为列表提供过滤、排序等功能。
