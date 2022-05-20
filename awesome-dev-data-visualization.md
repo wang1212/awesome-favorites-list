@@ -108,6 +108,7 @@ _Reference documentation._
   - [uPlot](https://github.com/leeoniya/uPlot) - 快速、轻量级的图表库。
   - [webdatarocks](https://www.webdatarocks.com/) - 创建透视表，**免费**。
   - :point_right: React.js
+    - [reaviz](https://github.com/reaviz) - 一系列 React 数据可视化组件。
     - [react-flow](https://reactflow.dev/) - 可视化工具库，构建流程图等。
     - [React Financial Charts](https://github.com/reactivemarkets/react-financial-charts) - 图表库，股票蜡烛图。
 
