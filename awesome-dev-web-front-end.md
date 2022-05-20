@@ -863,6 +863,13 @@ _[Progressive web apps](https://developer.mozilla.org/en-US/docs/Web/Progressive
 - 工具（Tools）
   - [Perfume.js](https://zizzamia.github.io/perfume/) - 性能监控工具。
 
+### 应用架构
+
+_Application architecture patterns._
+
+- [Jamstack](https://jamstack.org/) - 一种构建现代 Web 应用或网页的架构模式。
+- [Theoretical foundations for server-side rendering and static-rendering](https://htmlpreview.github.io/?https://github.com/lbke/ssr-theory/blob/main/readme.html)
+
 ### 其它
 
 *something more in-depth.*
