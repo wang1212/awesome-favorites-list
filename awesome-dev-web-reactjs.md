@@ -176,6 +176,9 @@ _UI Design System, provides a base system for building a design system._
 
 #### 其它
 
+- [Chakra UI](https://chakra-ui.com/)
+- [Mantine](https://mantine.dev/) - 全功能的组件库和 Hook 库。
+- [Semantic UI](https://react.semantic-ui.com/) - 非常受欢迎的组件库。
 - [Base Web React UI framework](https://baseweb.design/) - **Uber 公司发布**。
 - [Office UI Fabric React](https://developer.microsoft.com/en-us/fabric) - Office UI 风格，**Microsoft 公司发布**。
 - [Carbon Design System React](https://www.carbondesignsystem.com/tutorial/react/overview) - 遵循 Carbon 设计风格，**IBM 公司发布**。
@@ -183,11 +186,8 @@ _UI Design System, provides a base system for building a design system._
 - [Grommet](https://v2.grommet.io/)
 - [Blueprint](https://blueprintjs.com/) - 提供复杂的数据分析展示、表格等组件。
 - [React Rainbow](https://react-rainbow.io/)
-- [Chakra UI](https://chakra-ui.com/)
 - [Evergreen](https://evergreen.segment.com/)
 - [Ant Design of React](https://ant.design/docs/spec/introduce-cn)
-- [Semantic UI](https://react.semantic-ui.com/) - 非常受欢迎的组件库。（:warning: 不再更新）
-- [Mantine](https://mantine.dev/) - 全功能的组件库和 Hook 库。
 - [Next UI](https://nextui.org/)
 - [Prime React](https://www.primefaces.org/primereact/)
 - [react-desktop](http://reactdesktop.js.org/) - 桌面端 UI 组件库，基于 macOS Sierra 和 Windows 10 主题设计。
@@ -242,12 +242,13 @@ _UI Design System, provides a base system for building a design system._
 
 - 动画（Animation）
   - [React Transition Group](https://reactcommunity.org/react-transition-group/) - 过渡动画。
-  - [React-Motion](https://github.com/chenglou/react-motion) - 提供更简单的动画 API。
   - [Framer-Motion](https://framer.com/api/motion) - 手势动画。
+  - [react-spring](https://react-spring.io/) - 动画工具。
+  - [React-Motion](https://github.com/chenglou/react-motion) - 动画工具。
+  - [React Move](https://react-move-docs.netlify.app/) - 动画工具。
+  - [Renature](https://formidable.com/open-source/renature/) - 物理动画库。
   - [React Awesome Reveal](https://react-awesome-reveal.morello.dev/) - 基于 [Intersection Observer API](https://developer.mozilla.org/en-US/docs/Web/API/Intersection_Observer_API) 和 [Animate.css](https://animate.style/) 的动画库。
   - [React Spinners](https://www.davidhu.io/react-spinners/) - 丰富的 Loading 动画。
-  - [React Move](https://react-move-docs.netlify.app/)
-  - [Renature](https://formidable.com/open-source/renature/) - 物理动画库。
   - [react-confetti](https://github.com/alampros/react-confetti) - 五彩纸屑动画。
   - [React DOM Confetti](https://daniel-lundin.github.io/react-dom-confetti/) - 五彩纸屑动画。
   - [react-number-easing](https://javier.xyz/react-number-easing/) - 数字滚动动画。
