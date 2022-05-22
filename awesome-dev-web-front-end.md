@@ -409,6 +409,9 @@ _see also 👉  [Node.JS-工具库](./awesome-dev-nodejs.md#工具库)_
 - 自然语言处理（NLP）
   - [compromise](http://compromise.cool/)
 
+- 国际化（i18n）
+  - [Format.js](https://formatjs.io/)
+
 [`Go Top ↑`](#awesome-web-front-end-list)
 
 ## TypeScript
