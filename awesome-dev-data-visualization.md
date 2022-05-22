@@ -159,7 +159,6 @@ _Reference documentation._
   - [Vanta.js](https://www.vantajs.com/) - 数款页面 WebGL 背景动画。
 
 - :point_right: React.js
-  - [react-spring](https://react-spring.io/) - 动画工具库。
 
 [`Go Top ↑`](#awesome-data-visualization-list)
 
