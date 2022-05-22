@@ -26,7 +26,6 @@
   - [独立组件（Independent Components）](#独立组件)
 - [数据可视化（Data Visualization）](./awesome-dev-data-visualization.md#javascript)
 - [优化方案（Application Optimization）](#优化方案)
-- [文章（Article）](#文章)
 - [深入探索（Explore In Depth）](#深入探索)
 - [更多（More）](#更多)
 
@@ -253,6 +252,7 @@ _UI Design System, provides a base system for building a design system._
   - [React DOM Confetti](https://daniel-lundin.github.io/react-dom-confetti/) - 五彩纸屑动画。
   - [react-number-easing](https://javier.xyz/react-number-easing/) - 数字滚动动画。
   - [scrollex](https://scrollex-docs.vercel.app/) - 滚动动画效果。
+  - [hamburger-react](https://hamburger-react.netlify.app/) - 动画汉堡菜单图标。
   
 - 二维码（QR Code）
   - [qrcode.react](https://github.com/zpao/qrcode.react)
@@ -313,9 +313,11 @@ _UI Design System, provides a base system for building a design system._
   - [react-error-boundary](https://github.com/bvaughn/react-error-boundary) - 简单的可重用 React 错误边界组件。
   - [react-refetch](https://github.com/heroku/react-refetch) - 组件数据加载。
 
-## 文章
+[`Go Top ↑`](#awesome-reactjs-list)
 
-*Some articles explaining the core technology of React.*
+## 深入探索
+
+*Explore the principles behind the technology, the underlying architecture, etc.*
 
 - React 团队核心成员 [Dan Abramov 的博客](https://overreacted.io/)文章
   - [React as a UI Runtime](https://overreacted.io/react-as-a-ui-runtime/)
@@ -326,12 +328,6 @@ _UI Design System, provides a base system for building a design system._
   - [In-depth explanation of state and props update in React](https://indepth.dev/posts/1009/in-depth-explanation-of-state-and-props-update-in-react)
 - [React Fiber Architecture](https://github.com/acdlite/react-fiber-architecture) - React Fiber 架构简介。
 - [Good advice on JSX conditionals](https://thoughtspile.github.io/2022/01/17/jsx-conditionals/) - 更好的使用 JSX 语法。
-
-[`Go Top ↑`](#awesome-reactjs-list)
-
-## 深入探索
-
-*Explore the principles behind the technology, the underlying architecture, etc.*
 
 [`Go Top ↑`](#awesome-reactjs-list)
 
