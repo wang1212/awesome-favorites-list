@@ -252,7 +252,8 @@ _UI Design System, provides a base system for building a design system._
   - [react-confetti](https://github.com/alampros/react-confetti) - 五彩纸屑动画。
   - [React DOM Confetti](https://daniel-lundin.github.io/react-dom-confetti/) - 五彩纸屑动画。
   - [react-number-easing](https://javier.xyz/react-number-easing/) - 数字滚动动画。
-
+  - [scrollex](https://scrollex-docs.vercel.app/) - 滚动动画效果。
+  
 - 二维码（QR Code）
   - [qrcode.react](https://github.com/zpao/qrcode.react)
   - [react-qr-code](https://github.com/rosskhanas/react-qr-code)
@@ -281,6 +282,7 @@ _UI Design System, provides a base system for building a design system._
   - [react-responsive](https://github.com/contra/react-responsive) - 响应式 UI 工具组件。
   - [use-count-up](https://github.com/vydimitrov/use-count-up) - 计数器。
   - [react-markdown](https://remarkjs.github.io/react-markdown/) - markdown 渲染组件。
+  - [@uiball/loaders](https://uiball.com/loaders/) - loading 加载器。
 
 [`Go Top ↑`](#awesome-reactjs-list)
 
