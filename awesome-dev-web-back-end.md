@@ -88,7 +88,9 @@
 - [SQLite](https://www.sqlite.org/)
   - [sqlite-viewer](http://inloop.github.io/sqlite-viewer/) - 在线浏览器工具。
 
-### 数据库管理系统（Database Management System）
+### 数据库管理系统
+
+_Database Management System._
 
 - [DBeaver Community](https://dbeaver.io/) - 图形化数据库管理工具软件，**多平台支持，开源免费**。
 - [Falcon](https://github.com/plotly/falcon) - SQL 客户端，支持数据可视化，**多平台支持，开源免费**。
