@@ -104,6 +104,7 @@ _Database Management System._
 
 - [Typesense](https://typesense.org/) - 搜索引擎，可作为 Algolia 和 Elasticsearch 的替代方案，**开源**。
 - [DocSearch](https://docsearch.algolia.com/) - Algolia 提供的文档搜索引擎，**开源免费**。
+- [OpenReplay](https://openreplay.com/) - 类似 FullStory、LogRocket 等产品的开源替代品，可自托管，**开源**。
 
 ### 文档
 
