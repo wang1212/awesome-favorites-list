@@ -42,6 +42,8 @@
   - [AMD](https://github.com/amdjs/amdjs-api/blob/master/AMD.md) - 异步模块定义，适合浏览器端。
   - [Universal Module Definition](https://github.com/umdjs/umd) - 通用模块定义，兼容 AMD、CommonJS 以及全局变量方式。
   
+- [Worker Runtimes](https://workers.js.org/) - 构建 HTTP 服务器的新标准。
+  
 *More others 👉 [Awesome-Development-Technical-Standard-Specifications](awesome-dev-specifications.md)*
   
 [`Go Top ↑`](#awesome-nodejs-list)
