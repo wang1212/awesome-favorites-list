@@ -209,6 +209,7 @@ _see also 👉  [JS-构建工具](./awesome-dev-web-front-end.md#构建工具)_
   - [envinfo](https://github.com/tabrindle/envinfo) - 生成开发环境信息报告。
   - [Madge](https://github.com/pahen/madge) - 生成可视化的模块依赖图。
   - [devcert](https://github.com/davewasmer/devcert) - 让 SSL 开发变得容易。
+  - [live-server](https://github.com/tapio/live-server) - 具有实时重新加载页面功能的轻量静态资源 HTTP 服务器。
 
 [`Go Top ↑`](#awesome-nodejs-list)
 
@@ -286,8 +287,9 @@ _see also 👉  [JS-工具库](./awesome-dev-web-front-end.md#js-工具库) | [a
   - [Handlebars.js](http://handlebarsjs.com/)
   - [Jade](http://jade-lang.com/)
 
-- HTTP 服务器（HTTP Server）
+- HTTP 服务器（Static HTTP Server）
   - [http-server](https://github.com/http-party/http-server) - 可快速启动一个轻量的 http 服务器。
+  - [serve](https://github.com/vercel/serve) - 轻量的 http 服务器。
   - [CORS Anywhere](https://github.com/Rob--W/cors-anywhere) - 反向代理服务器。
 
 - HTTP 请求（HTTP Request）
@@ -332,7 +334,7 @@ _see also 👉  [JS-工具库](./awesome-dev-web-front-end.md#js-工具库) | [a
 - 系统组件（System Components）
   - [node-notifier](https://github.com/mikaelbr/node-notifier) - 跨平台原生通知功能。
 
-- 本地化（Native）
+- 原生 API（Native）
   - [node-windows](https://github.com/coreybutler/node-windows) - Windows 平台对 Node.js 脚本（守护程序，事件日志，UAC 等）的支持。
   - [systeminformation](https://github.com/sebhildebrandt/systeminformation) - 获取系统信息。
 
