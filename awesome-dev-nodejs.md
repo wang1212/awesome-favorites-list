@@ -355,6 +355,7 @@ _see also 👉  [JS-工具库](./awesome-dev-web-front-end.md#js-工具库) | [a
 
 - 实用工具（Utils）
   - [chalk](https://github.com/chalk/chalk) - 终端输出字符串样式工具，支持全部的色彩。
+    - [chalk-animation](https://github.com/bokub/chalk-animation) 
   - [configstore](https://github.com/yeoman/configstore) - 持久化命令行应用的配置。
     - [conf](https://github.com/sindresorhus/conf) 
   - [minimist](https://github.com/substack/minimist) - 命令行参数解析器。（_npm 官方解析器 [nopt](https://github.com/npm/nopt)_）
@@ -366,9 +367,11 @@ _see also 👉  [JS-工具库](./awesome-dev-web-front-end.md#js-工具库) | [a
   - [concurrently](https://github.com/kimmobrunfeldt/concurrently) - 并行执行多个命令。
   - [tasuku](https://github.com/privatenumber/tasuku) - 任务运行器，可在终端展示运行状态。
   - [shell.js](https://documentup.com/shelljs/shelljs) - 基于 NOde.js 的 Unix Shell 命令的可移植实现。
-  - [ora](https://github.com/sindresorhus/ora) - 终端 spinner 效果。
-  - [progress](https://github.com/visionmedia/node-progress) - 进度条。（⚠️ 不再积极开发）
-  - [cli-progress](https://github.com/npkgz/cli-progress) - 进度条。
+  - Progress / Loading
+    - [ora](https://github.com/sindresorhus/ora) - 终端 spinner 效果。
+    - [progress](https://github.com/visionmedia/node-progress) - 进度条。（⚠️ 不再积极开发）
+    - [cli-progress](https://github.com/npkgz/cli-progress) - 进度条。
+  - [table](https://github.com/gajus/table) - 将数组数据打印成字符串表格。
 
 - 命令行应用开发框架（CLI App Dev）
   - [Ink](https://github.com/vadimdemedes/ink) - 用 React.js 开发命令行应用。
