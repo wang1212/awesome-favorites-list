@@ -247,6 +247,7 @@ _see also 👉  [Node.JS-工具库](./awesome-dev-nodejs.md#工具库)_
   - [TinyColor](https://github.com/bgrins/TinyColor) - 颜色字符串解析、计算工具，更轻量一些。（:warning: 不再更新）
   - [one.color](https://github.com/One-com/one-color) - 颜色字符串解析、计算工具，支持 RGB, HSV, HSL, CMYK 等。
   - [Fuse.js](https://fusejs.io/) - 模糊搜索工具。
+  - [fuzzysort](https://github.com/farzher/fuzzysort) - 模糊搜索并排序。
   - [normalizr](https://github.com/paularmstrong/normalizr) - 根据 Schema 将嵌套的 JSON 数据归一化。
   - [Anchorme.js](https://alexcorvi.github.io/anchorme.js/) - 将文本中的 URL/邮箱等转换为链接。
 
@@ -741,6 +742,7 @@ _Build modern web apps._
   - [OverlayScrollbars](https://github.com/KingSora/OverlayScrollbars) - 自定义滚动条。
   - [sharer.js/](https://ellisonleao.github.io/sharer.js/) - 创建社交网站分享按钮。
   - [ninja-keys](https://github.com/ssleptsov/ninja-keys) - 为页面添加键盘快捷键导航功能界面。
+  - [InfiniteGrid](https://naver.github.io/egjs-infinitegrid/) - 无线网格布局。
 
 ### UI 模板
 
