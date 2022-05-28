@@ -740,6 +740,7 @@ _Build modern web apps._
   - [Smooth Scrollbar](https://idiotwu.github.io/smooth-scrollbar/) - 自定义滚动条，替代原生滚动事件。
   - [OverlayScrollbars](https://github.com/KingSora/OverlayScrollbars) - 自定义滚动条。
   - [sharer.js/](https://ellisonleao.github.io/sharer.js/) - 创建社交网站分享按钮。
+  - [ninja-keys](https://github.com/ssleptsov/ninja-keys) - 为页面添加键盘快捷键导航功能界面。
 
 ### UI 模板
 
