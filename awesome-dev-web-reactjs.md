@@ -286,6 +286,7 @@ _UI Design System, provides a base system for building a design system._
   - [use-count-up](https://github.com/vydimitrov/use-count-up) - 计数器。
   - [react-markdown](https://remarkjs.github.io/react-markdown/) - markdown 渲染组件。
   - [@uiball/loaders](https://uiball.com/loaders/) - loading 加载器。
+  - [kbar](https://kbar.vercel.app/) - 为页面添加键盘快捷键导航功能界面。
 
 [`Go Top ↑`](#awesome-reactjs-list)
 
