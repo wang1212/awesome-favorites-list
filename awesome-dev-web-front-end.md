@@ -413,6 +413,9 @@ _see also 👉  [Node.JS-工具库](./awesome-dev-nodejs.md#工具库)_
 - 国际化（i18n）
   - [Format.js](https://formatjs.io/)
 
+- 其它（Other）
+  - [HyperFormula](https://handsontable.github.io/hyperformula/) - 计算引擎，商业产品 Handsontable 团队维护。
+
 [`Go Top ↑`](#awesome-web-front-end-list)
 
 ## TypeScript
@@ -637,6 +640,7 @@ _Build modern web apps._
   - [flatpickr](https://flatpickr.js.org/) - 时间日期选择器。
   - [layDate](https://www.layui.com/laydate/) - 时间日期选择器。
   - [Choices.js](https://choices-js.github.io/Choices/) - 轻量的，可配置的输入框和选择器。
+  - [PicMo](https://picmojs.com/) - Emoji 表情选择器。
 
 - 轮播（Carousel）
   - [Swiper](https://swiperjs.com/)
