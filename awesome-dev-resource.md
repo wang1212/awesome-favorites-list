@@ -28,7 +28,7 @@
   - [编码技巧（Coding Skills）](#编码技巧)
 - [社区论坛（Community Forum）](#社区论坛)
 - [技术期刊（Technical Journal）](#技术期刊)
-- [在线资源（Online Resources）](#在线资源)
+- [在线资源（Online Resources）](#在线资源) 
   - [在线实用工具（Online utility）](#在线实用工具)
   - [公共 API（Public API）](#公共-api)
   - [设计工具（Design Tools）](#设计工具)
@@ -36,6 +36,7 @@
   - [编程字体（Programming Font）](#编程字体)
   - [徽章图标服务（Badge Icon Service）](#徽章图标服务)
 - [软件工具（Software Tools）](#软件工具)
+  - [Emoji :smile:](#emoji)
   - [Chrome 扩展程序（Chrome Extension）](#chrome-扩展程序) 
   - [测试（Test）](#测试)
   - [代码编辑器/IDE（Code editor/IDE）](#代码编辑器ide)
@@ -392,6 +393,12 @@ _see also 👉  [Web 端软件资源](./awesome-software.md#浏览器端)_
 ## 软件工具
 
 *Software tools.*
+
+### Emoji
+
+- [_Emoji Cheat Sheet_](./awesome-dev-cheat-sheet.md#bookmark-emoji-smile)
+- [Emojibase](https://emojibase.dev/) - Emoji 数据集。
+- [Twemoji](https://twemoji.twitter.com/) - 跨浏览器渲染一致的 Emoji 表情，**Twitter 开源**。
 
 ### Chrome 扩展程序
 
