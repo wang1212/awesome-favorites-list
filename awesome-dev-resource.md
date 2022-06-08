@@ -537,6 +537,7 @@ _Coding Statistics._
 - [hyper](https://hyper.is/)
 - [Cmder](https://cmder.net/) - 基于 ConEmu 和 Clink 特性，采用 Monokai 颜色主题，支持 Git 等。
 - [Far Manager](https://www.farmanager.com/) - Windows 系统纯文本的文件管理器。
+- [watchman](https://facebook.github.io/watchman/) - 文件监视服务。
 
 #### Linux
 
