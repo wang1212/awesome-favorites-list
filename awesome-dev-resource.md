@@ -573,9 +573,6 @@ _Coding Statistics._
 
 - [glow](https://github.com/charmbracelet/glow) - 在命令行渲染 Markdown 文档。
 - [Certbot](https://certbot.eff.org/) - 管理 [Let's Encrypt](https://letsencrypt.org/) 证书工具，为网站启用 HTTPS，**开源软件**。
-- [FFmpeg](http://ffmpeg.org/) - 命令行工具，完整的、跨平台的解决方案，用于记录、转换和流传输音频和视频，**开源软件**。
-- [aria2](https://aria2.github.io/) - 支持多协议、高速文件下载工具，**开源软件**。
-- [PhotoRec](https://www.cgsecurity.org/wiki/PhotoRec) - 文件数据恢复软件，**开源软件**。
 - [gron](https://github.com/tomnomnom/gron) - 使 JSON 数据更易读，**开源软件**。
 - [fx](https://github.com/antonmedv/fx) - 命令行 JSON 处理工具，**开源软件**。
 - [gping](https://github.com/orf/gping) - 图形化 `ping` 命令结果。
