@@ -612,7 +612,6 @@ _Coding Statistics._
 - [Splitbee](https://splitbee.io/) - Web 站点分析统计平台，个人项目免费。
 - [Ackee](https://ackee.electerious.com/) **开源**的可自托管的站点分析工具。
 - [screego](https://screego.net/#/) - 屏幕共享服务器。
-- [hoppscotch](https://hoppscotch.io/) - 在线的 http 客户端工具。
 - [netdata](https://www.netdata.cloud/) - 系统指标监控 Web 平台，**开源免费**。
 - [Skia](https://skia.org/) - 2D 渲染引擎，在 Chrome、Chrome OS、Android、Flutter、Mozilla Firefox 等产品中使用。
 - [nocodb](https://www.nocodb.com/) - NoCode 平台，将任何数据库转换为电子表格，**开源软件**。
