@@ -45,7 +45,6 @@
   - [服务器远程管理（Server Remote Management）](#服务器远程管理)
   - [命令行工具（Command Line Tools）](#命令行工具)
   - [WSL（Windows Subsystem for Linux）](#wsl)
-  - [USB Boot](#usb-boot)
   - [实用工具（Utilities）](#实用工具)
 - [工具套件（Tool kit）](#工具套件)
 - [文档站点生成器（Documentation Site Generator）](#文档站点生成器)
@@ -566,6 +565,7 @@ _Coding Statistics._
 - [fzf](https://github.com/junegunn/fzf) - 模糊查找器。
 - [sslh](https://github.com/yrutschle/sslh) - 实现端口复用。
 - [BusyBox](https://www.busybox.net/) - 实用的 Linux 命令集合。
+- [LF](https://github.com/gokcehan/lf) - 终端文件管理工具命令包。
 
 #### 其它
 
@@ -589,19 +589,6 @@ _Coding Statistics._
 - [LxRunOffline](https://github.com/DDoSolitary/LxRunOffline) - 用于管理适用于 Linux 的 Windows 子系统 (WSL) 的全功能实用程序。
 - [WSL2Proxy](https://github.com/wizcas/wsl2proxy) - 配置网络代理的脚本。
 - [go-wsl2-host](https://github.com/shayne/go-wsl2-host)
-
-### USB Boot
-
-*Make USB boot disk, maintain PE system.*
-
-- [Rufus](https://rufus.ie/)
-- [WePE](http://www.wepe.com.cn/) - Windows PE 系统。
-- Linux
-  - [Universal USB Installer](https://www.pendrivelinux.com/universal-usb-installer-easy-as-1-2-3/) - 可在 U 盘中安装 Linux 操作系统。
-  - [Multiboot USB Creator](https://www.pendrivelinux.com/yumi-multiboot-usb-creator/) - 可在 U 盘中**同时安装多个** Linux 发行版本。
-  - [UNetbootin](http://unetbootin.github.io/) - 制作 Linux Live USB。
-  - [Etcher](https://www.balena.io/etcher) - 制作 Linux Live USB。
-  - [LF](https://github.com/gokcehan/lf) - 终端文件管理工具命令包。
 
 ### 实用工具
 
