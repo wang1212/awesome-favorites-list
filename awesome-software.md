@@ -295,6 +295,7 @@
 - [Persepolis Download Manager](https://persepolisdm.github.io/) - 一个 [aria2](https://aria2.github.io/) 的图形化界面软件，**开源软件**。
 - [Xtreme Download Manager](https://subhra74.github.io/xdm/) - 提供了很多浏览器插件支持，支持视频格式转换，**开源软件**。
 - [qBittorrent](https://www.qbittorrent.org/) - BitTorrent 下载工具，**开源软件**。
+- [aria2](https://aria2.github.io/) - 支持多协议、高速文件下载工具，**开源软件**。
 
 ### 多媒体
 
@@ -323,6 +324,7 @@
 - [Seer](http://1218.io/) - 文件内容预览工具，界面较为简陋，**提供免费版本**。
 - [WizTree](https://wiztreefree.com/) - 磁盘空间分析工具，统计文件夹大小，**免费软件**。
 - [WinFR 界面版](https://www.disktool.cn/recovery/winfr.html) - 微软 [Windows File Recovery](https://apps.microsoft.com/store/detail/windows-file-recovery/9N26S50LN705) 的界面版，**非官方，免费软件**。
+- [PhotoRec](https://www.cgsecurity.org/wiki/PhotoRec) - 命令行工具，文件数据恢复软件，**开源软件**。
 
 #### 图片
 
@@ -337,6 +339,10 @@
 
 - [Sumatra PDF](https://www.sumatrapdfreader.org/) - windows 平台 PDF、CHM 等文件浏览器，**开源软件**。
 - [PDFsam Basic](https://pdfsam.org/zh/pdfsam-basic/) - 多平台支持的 PDF 拆分、合并、提取等工具，**开源软件**。
+
+#### 视频音频
+
+- [FFmpeg](http://ffmpeg.org/) - 命令行工具，完整的、跨平台的解决方案，用于记录、转换和流传输音频和视频，**开源软件**。
 
 #### 压缩文档
 
