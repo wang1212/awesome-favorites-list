@@ -295,7 +295,7 @@
 - [Persepolis Download Manager](https://persepolisdm.github.io/) - 一个 [aria2](https://aria2.github.io/) 的图形化界面软件，**开源软件**。
 - [Xtreme Download Manager](https://subhra74.github.io/xdm/) - 提供了很多浏览器插件支持，支持视频格式转换，**开源软件**。
 - [qBittorrent](https://www.qbittorrent.org/) - BitTorrent 下载工具，**开源软件**。
-- [aria2](https://aria2.github.io/) - 支持多协议、高速文件下载工具，**开源软件**。
+- [aria2](https://aria2.github.io/) - 命令行工具，支持多协议、高速文件下载工具，**开源软件**。
 
 ### 多媒体
 
@@ -396,6 +396,18 @@
 - [WhatPulse](https://whatpulse.org/) - 记录 PC 活动情况，例如统计键盘热力图、带宽情况等等，**提供免费版本**。
 - [Dns Jumper](https://www.sordum.org/7952/dns-jumper-v2-2/) - 测速、快速切换 DNS 工具，**免费软件**。
 - [SwitchHosts](https://swh.app/) - 快速切换 hosts 方案的实用工具，**免费开源软件**。
+
+#### USB Boot
+
+*Make USB boot disk, maintain PE system.*
+
+- [Rufus](https://rufus.ie/)
+- [WePE](http://www.wepe.com.cn/) - Windows PE 系统。
+- Linux
+  - [Universal USB Installer](https://www.pendrivelinux.com/universal-usb-installer-easy-as-1-2-3/) - 可在 U 盘中安装 Linux 操作系统。
+  - [Multiboot USB Creator](https://www.pendrivelinux.com/yumi-multiboot-usb-creator/) - 可在 U 盘中**同时安装多个** Linux 发行版本。
+  - [UNetbootin](http://unetbootin.github.io/) - 制作 Linux Live USB。
+  - [Etcher](https://www.balena.io/etcher) - 制作 Linux Live USB。
 
 ### 其它
 
