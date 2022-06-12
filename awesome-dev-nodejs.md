@@ -366,9 +366,10 @@ _see also 👉  [JS-工具库](./awesome-dev-web-front-end.md#js-工具库) | [a
   - [inquirer](https://github.com/SBoudrias/Inquirer.js) - 交互式命令行。
   - [readlineSync](https://github.com/anseki/readline-sync) - 同步版本的 `readline`，命令行对话式交互。
   - [concurrently](https://github.com/kimmobrunfeldt/concurrently) - 并行执行多个命令。
-  - [tasuku](https://github.com/privatenumber/tasuku) - 任务运行器，可在终端展示运行状态。
+  - [nve](https://github.com/ehmicky/nve) - 用指定版本的 Node 运行命令。
   - [shell.js](https://documentup.com/shelljs/shelljs) - 基于 NOde.js 的 Unix Shell 命令的可移植实现。
   - Progress / Loading
+    - [tasuku](https://github.com/privatenumber/tasuku) - 任务运行器，可在终端展示运行状态。
     - [ora](https://github.com/sindresorhus/ora) - 终端 spinner 效果。
     - [progress](https://github.com/visionmedia/node-progress) - 进度条。（⚠️ 不再积极开发）
     - [cli-progress](https://github.com/npkgz/cli-progress) - 进度条。
