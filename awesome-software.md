@@ -138,6 +138,9 @@
   - [色彩笔](http://www.secaibi.com/tools/)
   - [shrink.media](https://www.shrink.media/)
 
+- 图片转换
+  - [TEXT-IMAGE](https://www.text-image.com/) - 将图片转换为文本图片。
+
 #### PDF
 
 - [ABCD PDF](https://abcdpdf.com/zh-cn/)
@@ -188,6 +191,15 @@
 - [diagrams.net](https://www.diagrams.net/) - 流程图、UML 图绘制工具，**开源软件**。（提供安装包版本）
 - [excalidraw](https://excalidraw.com/) - 在线的手绘风格图表绘图板，**开源软件**。
 - [PlantUML](https://plantuml.com/) - 快速使用简洁的文本描述生成 UML 图。
+
+#### ASCII Art
+
+_[ASCII Art](https://en.wikipedia.org/wiki/ASCII_art)._
+
+- [ASCII Flow](https://asciiflow.com/) - 流程图绘制。
+- [Textik](https://textik.com/) - 绘图。
+- [ASCII generator](https://ascii-generator.site/) - 将图片、文本转换为 ASCII 文本。
+- [Text to ASCII Art Generator](http://patorjk.com/software/taag/#p=display&f=3D-ASCII&t=V2EX) - 将文本转换为 ASCII 文本。
 
 #### 原型图设计
 
