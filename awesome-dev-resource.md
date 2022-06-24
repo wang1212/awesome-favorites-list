@@ -328,9 +328,14 @@ _see also 👉  [Web 端软件资源](./awesome-software.md#浏览器端)_
 
 *Public api.*
 
-- [OpenWeather](https://openweathermap.org/) - 全球城市天气预报。
-- [Public APIs](https://github.com/public-apis/public-apis) - 免费的公共 API 集合。
-- [Administrative-divisions-of-China](https://github.com/modood/Administrative-divisions-of-China) - 中华人民共和国行政区划（五级）名称数据。
+- 天气（Weather）
+  - [OpenWeather](https://openweathermap.org/) - 全球城市天气预报。
+  - [visualcrossing](https://www.visualcrossing.com/)
+  - [Weatherbit.io](https://www.weatherbit.io/)
+
+- 其它（Others）
+  - [Public APIs](https://github.com/public-apis/public-apis) - 免费的公共 API 集合。
+  - [Administrative-divisions-of-China](https://github.com/modood/Administrative-divisions-of-China) - 中华人民共和国行政区划（五级）名称数据。
 
 ### 设计工具
 
