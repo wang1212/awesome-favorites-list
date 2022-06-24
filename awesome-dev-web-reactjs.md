@@ -64,17 +64,17 @@
   - [ESLint](https://eslint.org/) - 语法规则检查工具。
     - [eslint-plugin-react](https://github.com/yannickcr/eslint-plugin-react) - ESLint 的 React.js 语法规则插件。
     - [eslint-plugin-react-hooks](https://github.com/facebook/react/tree/master/packages/eslint-plugin-react-hooks) - ESLint 的 React Hooks 语法规则检查插件，**React 官方发布**。
-  - [Prettier](https://prettier.io/) - 代码格式化工具。
-  - [Flow](https://flow.org/) - JavaScript 静态类型检查工具，**FaceBook 官方发布**。
 
 - 测试（Test）
-  - [Jest](https://jestjs.io/) - 单元测试工具，**FaceBook 发布**。
   
 - 组件原型开发（UI Components Dev）
   - [React Cosmos](https://reactcosmos.org/)
 
 - 文档（Document）
-  - [React Styleguidist](https://react-styleguidist.js.org/) 
+  - [React Styleguidist](https://react-styleguidist.js.org/)
+
+- 其它（Other）
+  - [html-react-parser](https://github.com/remarkablemark/html-react-parser) - HTML 转换为 React 元素。
 
 [`Go Top ↑`](#awesome-reactjs-list)
 
