@@ -188,6 +188,7 @@ _Programming language._
   - [《Eloquent JavaScript》](https://eloquentjavascript.net/)[美] Marijn Haverbeke - JavaScript、Node.js 技术，**开源书籍**。
   - [《JavaScript for Data Science》](https://js4ds.org/) Maya Gans, Toby Hodges, Greg Wilson - **开源书籍**。
   - [《JavaScript for impatient programmers》](https://exploringjs.com/impatient-js/index.html)[德] Axel Rauschmayer - 学习现代 JavaScript，**可在线免费阅读**。
+  - [《Deep JavaScript: Theory and techniques》](https://exploringjs.com/deep-js/) [德] Axel Rauschmayer
   - [《JavaScript (ES2015+) Enlightenment》](https://frontendmasters.com/books/javascript-enlightenment/) Cody Linley - JavaScript 语言更新介绍，**开源书籍**。
   - [《Learning JavaScript Design Patterns》](https://addyosmani.com/resources/essentialjsdesignpatterns/book/) Addy Osmani - JavaScript 设计模式，**开源书籍**。
   - 《JavaScript 面向对象编程指南》[加拿大] Stoyan Stefanov 斯托扬
