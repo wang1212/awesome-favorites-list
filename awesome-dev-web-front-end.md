@@ -675,6 +675,7 @@ _Build modern web apps._
   - [Frappe Datatable](https://frappe.io/datatable)
   - [RevoGrid](https://revolist.github.io/revogrid/)
   - [Cheetah-Grid](https://future-architect.github.io/cheetah-grid/)
+  - [Glide Data Grid](https://grid.glideapps.com/) - 快速的高性能的网格组件。
 
 - H5 媒体（Audio & Video）
   - [hls.js](https://github.com/video-dev/hls.js) - `HLS` 协议支持。
