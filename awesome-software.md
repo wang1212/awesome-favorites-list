@@ -403,6 +403,7 @@ _[ASCII Art](https://en.wikipedia.org/wiki/ASCII_art)._
 *System management and maintenance tools.*
 
 - [CPU-Z](https://www.cpuid.com/softwares/cpu-z.html) - CPU 检测工具。
+- [LeoMoon CPU-V](https://leomoon.com/downloads/desktop-apps/leomoon-cpu-v/) - 检测 CPU 是否支持硬件虚拟化。
 - [GPU-Z](https://www.techpowerup.com/gpuz/) - GPU 检测工具。
 - [Dism++](https://www.chuyu.me/) - 实用的系统优化维护工具。
 - [WhatPulse](https://whatpulse.org/) - 记录 PC 活动情况，例如统计键盘热力图、带宽情况等等，**提供免费版本**。
