@@ -346,7 +346,6 @@ _[ASCII Art](https://en.wikipedia.org/wiki/ASCII_art)._
 - [qimgv](https://github.com/easymodo/qimgv) - 图片浏览器，支持视频预览，**开源软件**。
 - [qView](https://interversehq.com/qview/) - 图片浏览器，轻量、简单，**开源软件**。
 - [Picasa](https://picasa.google.com/) - 图片浏览器，Google 公司开发。（:warning: 停止支持）
-- [GIMP](https://www.gimp.org/) - 图像编辑器，**开源软件**。
 
 #### PDF
 
@@ -393,11 +392,16 @@ _[ASCII Art](https://en.wikipedia.org/wiki/ASCII_art)._
 
 *Software interface design, prototype drawing design, etc.*
 
-- [Pencil](http://pencil.evolus.vn/) - 原型图工具，**开源软件**。
-- [Alva](https://meetalva.io/) - 原型图工具，**开源软件**。
-- [axure](https://www.axure.com/) - 产品原型图设计，**商业软件**。
-- [Sketch](https://www.sketch.com/) - 产品原型图设计，**商业软件**。
-- [PxCook](https://www.fancynode.com.cn/pxcook) - 图片标注工具。
+- 原型图（Prototype）
+  - [Pencil](http://pencil.evolus.vn/) - 原型图工具，**开源软件**。
+  - [Alva](https://meetalva.io/) - 原型图工具，**开源软件**。
+  - [axure](https://www.axure.com/) - 产品原型图设计，**商业软件**。
+  - [Sketch](https://www.sketch.com/) - 产品原型图设计，**商业软件**。
+  - [PxCook](https://www.fancynode.com.cn/pxcook) - 图片标注工具。
+
+- 图形设计（Graphics）
+  - [GIMP](https://www.gimp.org/) - 图像编辑器，**开源软件**。
+  - [Inkscape](https://inkscape.org/) - 设计工具，**免费软件**。
 
 ### 系统管理
 
