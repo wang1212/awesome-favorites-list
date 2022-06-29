@@ -285,8 +285,6 @@ _[ASCII Art](https://en.wikipedia.org/wiki/ASCII_art)._
 - [Rainmeter](https://www.rainmeter.net/) - Windows 桌面自定义小工具，**开源软件**。
 - [uTools](http://www.u.tools/) - 生产力工具，包含许多小工具，**免费软件**。
 - [Module Art](https://moduleart.github.io/) - 软件集合，包含图片浏览器、录屏软件等，**开源软件**。
-- [Anki](https://apps.ankiweb.net/) - 便签记录学习工具，**开源软件**。
-- [Joplin](https://joplinapp.org/) - 笔记管理应用，可以同步、协作、分享，支持 Windows/macOS/Linux/Android/iOS 平台，**开源软件**。
 
 ### 浏览器
 
@@ -377,16 +375,21 @@ _[ASCII Art](https://en.wikipedia.org/wiki/ASCII_art)._
 - [LibreOffice](https://www.libreoffice.org/) - OpenOffice 分支项目，免费，**开源软件**。
 - [WPS Office](https://www.wps.cn/) - 国产软件，多端支持，移动端非常好用，个人使用免费，**商业软件**。
 
-### 编辑器
+### 文本编辑
 
-*Editor.*
+*Text Editor.*
 
-- [Zettlr](https://www.zettlr.com/) - Markdown 文本编辑器，很漂亮，功能很强大，**开源软件**。
-- [Mark Text](https://marktext.app/) - Markdown 文本编辑器，支持所见即所得，**开源软件**。
-- [Abricotine](http://abricotine.brrd.fr/) - Markdown 文本编辑器，**开源软件**。
-- [ghostwriter](https://wereturtle.github.io/ghostwriter/) - Markdown 文本编辑器，**开源软件**。
-- [remarkableapp](https://remarkableapp.github.io/index.html) - Markdown 文本编辑器，目前主要支持 Linux 平台，**开源软件**。
-- [Typora](https://www.typora.io/) - Markdown 文本编辑器，支持所见即所得，功能丰富，**测试版免费，1.0.0 开始收费**。
+- 编辑器（Editor）
+  - [Zettlr](https://www.zettlr.com/) - Markdown 文本编辑器，很漂亮，功能很强大，**开源软件**。
+  - [Mark Text](https://marktext.app/) - Markdown 文本编辑器，支持所见即所得，**开源软件**。
+  - [Abricotine](http://abricotine.brrd.fr/) - Markdown 文本编辑器，**开源软件**。
+  - [ghostwriter](https://wereturtle.github.io/ghostwriter/) - Markdown 文本编辑器，**开源软件**。
+  - [remarkableapp](https://remarkableapp.github.io/index.html) - Markdown 文本编辑器，目前主要支持 Linux 平台，**开源软件**。
+  - [Typora](https://www.typora.io/) - Markdown 文本编辑器，支持所见即所得，功能丰富，**测试版免费，1.0.0 开始收费**。
+
+- 笔记应用（Notes）
+  - [Anki](https://apps.ankiweb.net/) - 便签记录学习工具，**开源软件**。
+  - [Joplin](https://joplinapp.org/) - 笔记管理应用，可以同步、协作、分享，支持 Windows/macOS/Linux/Android/iOS 平台，**开源软件**。
 
 ### 设计工具
 
