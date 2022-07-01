@@ -18,7 +18,10 @@
 
 _Reference documentation._
 
-- [from Data to Viz](https://www.data-to-viz.com/) - 数据可视化决策工具。
+- 数据可视化
+  - [from Data to Viz](https://www.data-to-viz.com/) - 数据可视化决策工具。
+  - [The Data Visualisation Catalogue](https://datavizcatalogue.com/) - 数据可视化目录。
+  - [Google Material Design Data visualization](https://material.io/design/communication/data-visualization.html)
 
 - 学习资料（Docs）
   - [Graphics Related Lessons](https://github.com/gfxfundamentals)
@@ -41,7 +44,7 @@ _Reference documentation._
 
 - [D3](https://d3js.org/) - 可视化库，数据驱动的，非常著名，许多图表库基于此开发。
 
--3D / WebGL
+- 3D / WebGL
   - [_A collection of WebGL and WebGPU frameworks and libraries_](https://gist.github.com/dmnsgn/76878ba6903cf15789b712464875cfdc) 
   - [three.js](https://threejs.org/) - 3D 动画库，强大的 JavaScript 3D 动画库。
   - [stackgl](http://stack.gl/) - WebGL 引擎。
