@@ -169,6 +169,8 @@ _Available in browser（JavaScript）. **Tips:** Most of what is available in th
   - [Open Font Glyphs for GL Styles](https://github.com/openmaptiles/fonts) - 开放的标记字体和图标源，无需 token 与 key。
   - [Maputnik](https://maputnik.github.io/) - [Mapbox 样式规范](https://docs.mapbox.com/mapbox-gl-js/style-spec/)**开源**的可视化编辑器，**非 Mapbox 官方发布**。
 
+- [MapLibre](https://maplibre.org/) - 开源的地图 SDK，最初基于 Mapbox GL 开发。
+
 - [vis.gl](https://vis.gl/frameworks/) - 基于 GPU 的地理可视化套件。
   - [DECK.GL](https://deck.gl/) - 由 WebGL 驱动的大数据可视化框架，**Uber 公司开发**。
     - [kepler.gl](https://kepler.gl/) - 大型数据集的功能强大的开源地理空间分析工具。
