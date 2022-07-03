@@ -730,6 +730,9 @@ _Build modern web apps._
   - [WinBox](https://nextapps-de.github.io/winbox/) - 窗口组件。
   - [golden-layout](http://golden-layout.com/) - 多窗口布局管理。
 
+- HTML 邮件（HTML Email）
+  - [mjml](https://mjml.io/)
+
 - 其它（Others）
   - [NProgress](https://ricostacruz.com/nprogress/) - 页面顶部进度条，加载指示器。
   - [PACE](https://codebyzach.github.io/pace/) - 页面加载指示器。
