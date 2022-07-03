@@ -115,6 +115,7 @@ _Reference documentation._
     - [reaviz](https://github.com/reaviz) - 一系列 React 数据可视化组件。
     - [react-flow](https://reactflow.dev/) - 可视化工具库，构建流程图等。
     - [React Financial Charts](https://github.com/reactivemarkets/react-financial-charts) - 图表库，股票蜡烛图。
+    - [react-calendar-heatmap](https://www.kevinqi.com/react-calendar-heatmap/) - 基于 SVG 的日历热图。
 
 #### 动画
 
