@@ -237,6 +237,7 @@ _see also 👉  [JS-工具库](./awesome-dev-web-front-end.md#js-工具库) | [a
   - [yup](https://github.com/jquense/yup)
   - [v8n](https://imbrn.github.io/v8n/)
   - [ow](https://sindresorhus.com/ow/) - 方法参数校验。
+  - [v8n](https://imbrn.dev/v8n/)
   
 - 数据操作（Data Manipulation）
   - [Danfo.js](https://danfo.jsdata.org/) - 处理结构化数据的工具库，类似 Python 的 [Pandas](https://pandas.pydata.org/pandas-docs/stable/index.html)。
