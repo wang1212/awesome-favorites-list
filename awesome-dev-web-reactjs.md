@@ -96,6 +96,7 @@ _（Recommend）推荐一个其它的很棒的收藏列表，:point_right: [reho
 
 - 事件（Events）
   - [React Swipeable](https://formidable.com/open-source/react-swipeable/) - 滑动事件处理。
+  - [react-idle-timer](https://idletimer.dev/) - 用户交互检测。
 
 - 其它（Others）
   - [react-use](https://github.com/streamich/react-use) - 一套 hook 工具包。
@@ -241,6 +242,7 @@ _UI Design System, provides a base system for building a design system._
 - 大量数据渲染（Large amount of data rendering）
   - [react-virtualized](https://bvaughn.github.io/react-virtualized/)
   - [react-window](https://github.com/bvaughn/react-window)
+  - [React Virtuoso](https://virtuoso.dev/)
 
 - 动画（Animation）
   - [React Transition Group](https://reactcommunity.org/react-transition-group/) - 过渡动画。
@@ -287,6 +289,7 @@ _UI Design System, provides a base system for building a design system._
   - [react-markdown](https://remarkjs.github.io/react-markdown/) - markdown 渲染组件。
   - [@uiball/loaders](https://uiball.com/loaders/) - loading 加载器。
   - [kbar](https://kbar.vercel.app/) - 为页面添加键盘快捷键导航功能界面。
+  - [react-svg](https://github.com/tanem/react-svg) - 页面注入 SVG。
 
 [`Go Top ↑`](#awesome-reactjs-list)
 
