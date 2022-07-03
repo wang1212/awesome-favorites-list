@@ -227,6 +227,7 @@ _UI Design System, provides a base system for building a design system._
   - [React Image Lightbox](https://frontend-collective.github.io/react-image-lightbox/) - 图片点击原图查看、列表、缩放。
   - [React lightbox component](https://github.com/jfcaiceo/react-lightbox-component) - 图片点击原图查看、列表、缩放、旋转。（:warning: 不再更新）
   - [react-zmage](https://zmage.caldis.me/) - 图片点击原图查看、列表、旋转。
+  - [react-easy-crop/](https://valentinh.github.io/react-easy-crop/) - 图片裁剪。
 
 - 颜色选择器（Color Picker）
   - [React Color](http://casesandberg.github.io/react-color/) - 颜色拾取器，支持十多种样式。
@@ -290,6 +291,7 @@ _UI Design System, provides a base system for building a design system._
   - [@uiball/loaders](https://uiball.com/loaders/) - loading 加载器。
   - [kbar](https://kbar.vercel.app/) - 为页面添加键盘快捷键导航功能界面。
   - [react-svg](https://github.com/tanem/react-svg) - 页面注入 SVG。
+  - [react-sketch-canvas](https://github.com/vinothpandian/react-sketch-canvas) - 使用 SVG 作为画布的 React 手绘矢量绘图组件。
 
 [`Go Top ↑`](#awesome-reactjs-list)
 
