@@ -873,6 +873,7 @@ _[Progressive web apps](https://developer.mozilla.org/en-US/docs/Web/Progressive
 
 - 工具（Tools）
   - [Perfume.js](https://zizzamia.github.io/perfume/) - 性能监控工具。
+  - [stats.js](http://mrdoob.github.io/stats.js/) - 性能监控调试面板。
 
 ### 应用架构
 
