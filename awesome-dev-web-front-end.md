@@ -733,6 +733,10 @@ _Build modern web apps._
 - HTML 邮件（HTML Email）
   - [mjml](https://mjml.io/)
 
+- 控制器面板（Controller Panel）
+  - [lil-gui](https://lil-gui.georgealways.com/)
+  - [dat.gui](https://github.com/dataarts/dat.gui)
+
 - 其它（Others）
   - [NProgress](https://ricostacruz.com/nprogress/) - 页面顶部进度条，加载指示器。
   - [PACE](https://codebyzach.github.io/pace/) - 页面加载指示器。
@@ -750,7 +754,7 @@ _Build modern web apps._
   - [OverlayScrollbars](https://github.com/KingSora/OverlayScrollbars) - 自定义滚动条。
   - [sharer.js/](https://ellisonleao.github.io/sharer.js/) - 创建社交网站分享按钮。
   - [ninja-keys](https://github.com/ssleptsov/ninja-keys) - 为页面添加键盘快捷键导航功能界面。
-  - [InfiniteGrid](https://naver.github.io/egjs-infinitegrid/) - 无线网格布局。
+  - [InfiniteGrid](https://naver.github.io/egjs-infinitegrid/) - 无限网格布局。
 
 ### UI 模板
 
