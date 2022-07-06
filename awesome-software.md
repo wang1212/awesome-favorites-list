@@ -285,6 +285,8 @@ _[ASCII Art](https://en.wikipedia.org/wiki/ASCII_art)._
 - [Rainmeter](https://www.rainmeter.net/) - Windows 桌面自定义小工具，**开源软件**。
 - [uTools](http://www.u.tools/) - 生产力工具，包含许多小工具，**免费软件**。
 - [Module Art](https://moduleart.github.io/) - 软件集合，包含图片浏览器、录屏软件等，**开源软件**。
+- [Captura](https://mathewsachin.github.io/Captura/) - 轻量级、功能齐全的录屏、截屏软件，需安装 FFmpeg 依赖，**开源软件**。（:warning: 停止维护）
+- [ScreenToGif](https://www.screentogif.com/) - 带有集成编辑器的屏幕、网络摄像头和素描板录制器，**免费软件**。
 
 ### 浏览器
 
@@ -295,7 +297,7 @@ _[ASCII Art](https://en.wikipedia.org/wiki/ASCII_art)._
 - [Brave](https://brave.com/) - 安全为核心的浏览器。
 - [Vivaldi](https://vivaldi.com/) - 安全、隐私友好的浏览器。
 
-### 下载
+### 文件下载
 
 *File download tool.*
 
@@ -306,18 +308,6 @@ _[ASCII Art](https://en.wikipedia.org/wiki/ASCII_art)._
 - [Xtreme Download Manager](https://subhra74.github.io/xdm/) - 提供了很多浏览器插件支持，支持视频格式转换，**开源软件**。
 - [qBittorrent](https://www.qbittorrent.org/) - BitTorrent 下载工具，**开源软件**。
 - [aria2](https://aria2.github.io/) - 命令行工具，支持多协议、高速文件下载工具，**开源软件**。
-
-### 多媒体
-
-*Multimedia.*
-
-- [PotPlayer](https://daumpotplayer.com/) - 视频播放器，解码能力很强大，**免费软件**。
-- [VLC media player](http://www.videolan.org/vlc/) - 跨平台多媒体播放器及框架，可播放大多数多媒体文件，**开源软件**。
-- [MPC-HC](https://mpc-hc.org/) - Windows 平台轻量的媒体播放器，**开源软件**。（:warning: 不再更新）
-- [Open Broadcaster Software](https://obsproject.com/) - 具有强大的录屏、截屏、流媒体传输等功能，**开源软件**。
-- [AIMP](http://www.aimp.ru/) - 专业级音频播放器，**免费软件**。
-- [Captura](https://mathewsachin.github.io/Captura/) - 轻量级、功能齐全的录屏、截屏软件，需安装 FFmpeg 依赖，**开源软件**。
-- [HandBrake](https://handbrake.fr/) - 视频格式转换工具，**免费软件**。
 
 ### 文件处理
 
@@ -350,8 +340,17 @@ _[ASCII Art](https://en.wikipedia.org/wiki/ASCII_art)._
 - [Sumatra PDF](https://www.sumatrapdfreader.org/) - windows 平台 PDF、CHM 等文件浏览器，**开源软件**。
 - [PDFsam Basic](https://pdfsam.org/zh/pdfsam-basic/) - 多平台支持的 PDF 拆分、合并、提取等工具，**开源软件**。
 
-#### 视频音频
 
+#### 多媒体
+
+*Multimedia.*
+
+- [PotPlayer](https://daumpotplayer.com/) - 视频播放器，解码能力很强大，**免费软件**。
+- [VLC media player](http://www.videolan.org/vlc/) - 跨平台多媒体播放器及框架，可播放大多数多媒体文件，**开源软件**。
+- [MPC-HC](https://mpc-hc.org/) - Windows 平台轻量的媒体播放器，**开源软件**。（:warning: 不再更新）
+- [Open Broadcaster Software](https://obsproject.com/) - 具有强大的录屏、截屏、流媒体传输等功能，**开源软件**。
+- [AIMP](http://www.aimp.ru/) - 专业级音频播放器，**免费软件**。
+- [HandBrake](https://handbrake.fr/) - 视频格式转换工具，**免费软件**。
 - [FFmpeg](http://ffmpeg.org/) - 命令行工具，完整的、跨平台的解决方案，用于记录、转换和流传输音频和视频，**开源软件**。
 
 #### 压缩文档
