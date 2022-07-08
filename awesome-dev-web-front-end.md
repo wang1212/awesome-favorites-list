@@ -78,7 +78,6 @@
   - [Google Developers for Web](https://developers.google.com/web) - 谷歌开发者中心，Web 站点，众多工具和资源。
     - [web.dev](https://web.dev/) - Web 关键概念学习、实践。
   - [The Front-End Checklist](https://frontendchecklist.io/) - 前端清单，前端知识点及其最佳实践。
-  - [印记中文](https://docschina.org/) - 包含了许多前端技术库的中文翻译文档。
 
 - 路线图（Roadmap）
   - [Frontend Developer Roadmap](https://roadmap.sh/frontend) - 前端开发技术路线图。
