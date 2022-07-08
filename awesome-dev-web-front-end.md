@@ -451,6 +451,8 @@ _Build modern web apps._
 - [highlight.js](https://highlightjs.org/) - 页面代码高亮。
 - [Prism.js](https://prismjs.com/) - 页面代码高亮。
 - [Shiki](https://shiki.matsu.io/) - 页面代码高亮。
+- [markdown-styles](https://github.com/mixu/markdown-styles) - 命令行工具，将 Markdown 文件批量转换为特定主题样式的 HTML 文件。
+- [github-markdown-css](https://github.com/sindresorhus/github-markdown-css) - 最小的 Github 风格的 Markdown 样式。
 
 ### API 兼容性支持
 
