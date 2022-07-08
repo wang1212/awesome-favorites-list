@@ -128,6 +128,7 @@
 - [Command Line Interface Guidelines](https://clig.dev/) - 命令行接口指南。
 - [Awesome Software and Architectural Design Patterns](https://github.com/DovAmir/awesome-design-patterns)
 - [Design Patterns for Humans](https://roadmap.sh/guides/design-patterns-for-humans) - 设计模式。
+- [Refactoring.Guru](https://refactoring.guru/) - 图文结合讲解软件工程、设计模式的知识。
 
 ### 其它
 
