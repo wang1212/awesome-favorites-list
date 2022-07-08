@@ -360,6 +360,7 @@ _[ASCII Art](https://en.wikipedia.org/wiki/ASCII_art)._
 *ZIP/RAR.*
 
 - [7-Zip](https://www.7-zip.org/) - 解压缩软件，兼容主流格式，轻量，无广告，**开源软件**。
+- [PeaZip](https://peazip.github.io/index.html) - 解压缩软件，兼容主流格式，**免费开源软件**。
 - [Bandizip](http://www.bandisoft.com/) - 解压缩软件，兼容主流格式，UI 比较精美，轻量，**标准版免费，但有非推送广告**。
 
 #### 电子书
