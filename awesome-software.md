@@ -326,6 +326,7 @@ _[ASCII Art](https://en.wikipedia.org/wiki/ASCII_art)._
 - [WizTree](https://wiztreefree.com/) - 磁盘空间分析工具，统计文件夹大小，**免费软件**。
 - [WinFR 界面版](https://www.disktool.cn/recovery/winfr.html) - 微软 [Windows File Recovery](https://apps.microsoft.com/store/detail/windows-file-recovery/9N26S50LN705) 的界面版，**非官方，免费软件**。
 - [PhotoRec](https://www.cgsecurity.org/wiki/PhotoRec) - 命令行工具，文件数据恢复软件，**开源软件**。
+- [Pandoc](https://pandoc.org/index.html) - 命令行工具，通用的文档转换器。
 
 #### 图片
 
