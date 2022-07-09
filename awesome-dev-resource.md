@@ -28,6 +28,7 @@
   - [编码技巧（Coding Skills）](#编码技巧)
 - [社区论坛（Community Forum）](#社区论坛)
 - [技术期刊（Technical Journal）](#技术期刊)
+  - [技术博客（Technical Blog）](#技术博客) 
 - [在线资源（Online Resources）](#在线资源) 
   - [在线实用工具（Online utility）](#在线实用工具)
   - [公共 API（Public API）](#公共-api)
@@ -279,6 +280,12 @@ _Coding skills._
 
 - 其它（Others）
   - [MongoDB Memo](https://mongodb.email/) - MongoDB 新闻。（Cooperpress 出版）
+
+### 技术博客
+
+_Technical blog._
+
+- [2ality](https://2ality.com/archive.html) - JavaScript、Web 开发、移动计算相关。
 
 [`Go Top ↑`](#awesome-development-resources)
 
