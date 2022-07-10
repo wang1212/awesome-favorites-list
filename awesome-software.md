@@ -432,6 +432,13 @@ _[ASCII Art](https://en.wikipedia.org/wiki/ASCII_art)._
   - [UNetbootin](http://unetbootin.github.io/) - 制作 Linux Live USB。
   - [Etcher](https://www.balena.io/etcher) - 制作 Linux Live USB。
 
+### 远程桌面
+
+_Virtual desktop, remote login._
+
+- [RustDesk](https://rustdesk.com/zh/) - **开源软件**。
+- [ToDesk](https://www.todesk.com/) - 个人用户免费。
+
 ### 其它
 
 *Others.*
