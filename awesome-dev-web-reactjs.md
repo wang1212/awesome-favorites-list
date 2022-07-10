@@ -53,17 +53,8 @@
 
 - 构建（Build）
   - [Create React App](https://create-react-app.dev/) - 零配置的 React App 构建工具，**React 官方发布**。
-  - [webpack](https://webpack.js.org/) - 打包工具。
-  - [Babel](https://babeljs.io/) - TypeScript/ES Next 编译工具。
-    - [babel-preset-react](https://github.com/babel/babel/tree/master/packages/babel-preset-react) - Babel 的 React.js 预设插件，**Babel 官方发布**。
-    - [babel-preset-flow](https://github.com/babel/babel/tree/master/packages/babel-preset-flow) - Babel 的 Flow 预设插件，**Babel 官方发布**。
-    - [babel-preset-typescript](https://github.com/babel/babel/tree/master/packages/babel-preset-typescript) - Babel 的 TypeScript 预设插件，**Babel 官方发布**。[👉 react-typescript-cheatsheets](https://react-typescript-cheatsheet.netlify.app/)
-    - [babel-jest](https://github.com/facebook/jest/tree/master/packages/babel-jest) - Babel 的 Jest 插件，**FaceBook 发布**。
 
 - 代码质量分析（Lint）
-  - [ESLint](https://eslint.org/) - 语法规则检查工具。
-    - [eslint-plugin-react](https://github.com/yannickcr/eslint-plugin-react) - ESLint 的 React.js 语法规则插件。
-    - [eslint-plugin-react-hooks](https://github.com/facebook/react/tree/master/packages/eslint-plugin-react-hooks) - ESLint 的 React Hooks 语法规则检查插件，**React 官方发布**。
 
 - 测试（Test）
   
@@ -204,6 +195,7 @@ _UI Design System, provides a base system for building a design system._
   - [react-number-format](https://github.com/s-yadav/react-number-format) - 数字输入格式化。
   - [Downshift](https://www.downshift-js.com/) - 用来构建可访问的自动完成组件的底层组件。
   - [react-final-form](https://final-form.org/react)
+  - [react-mentions](https://github.com/signavio/react-mentions)
 
 - 表格（Table）
   - [React Table](https://github.com/tannerlinsley/react-table)
@@ -276,6 +268,7 @@ _UI Design System, provides a base system for building a design system._
 
 - 编辑器（Editor）
   - [React Live](https://react-live.netlify.app/) - 交互式代码编辑器。
+  - [react-page](https://react-page.github.io/) - 可编辑页面。
 
 - 其它（Others）
   - [React PDF](https://projects.wojtekmaj.pl/react-pdf/) - pdf 文件预览组件。
@@ -292,6 +285,9 @@ _UI Design System, provides a base system for building a design system._
   - [kbar](https://kbar.vercel.app/) - 为页面添加键盘快捷键导航功能界面。
   - [react-svg](https://github.com/tanem/react-svg) - 页面注入 SVG。
   - [react-sketch-canvas](https://github.com/vinothpandian/react-sketch-canvas) - 使用 SVG 作为画布的 React 手绘矢量绘图组件。
+  - [react-syntax-highlighter](https://github.com/react-syntax-highlighter/react-syntax-highlighter) - 语法高亮组件。
+  - [planby](https://planby.netlify.app/) - 时间线组件。
+  - [boring-avatars](https://boringavatars.com/) - 随机生成基于 SVG 的自定义头像。
 
 [`Go Top ↑`](#awesome-reactjs-list)
 
