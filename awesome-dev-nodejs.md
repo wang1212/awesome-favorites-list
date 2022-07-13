@@ -341,9 +341,12 @@ _see also 👉  [JS-工具库](./awesome-dev-web-front-end.md#js-工具库) | [a
   - [node-windows](https://github.com/coreybutler/node-windows) - Windows 平台对 Node.js 脚本（守护程序，事件日志，UAC 等）的支持。
   - [systeminformation](https://github.com/sebhildebrandt/systeminformation) - 获取系统信息。
 
+- Git
+  - [nodegit](https://www.nodegit.org/)
+  - [simple-git](https://github.com/steveukx/git-js)
+
 - 其它（Others）
   - [ssh2](https://github.com/mscdex/ssh2) - SSH 客户端和服务器。
-  - [nodegit](https://www.nodegit.org/)
 
 [`Go Top ↑`](#awesome-nodejs-list)
 
