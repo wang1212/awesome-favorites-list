@@ -104,6 +104,7 @@
   - [BUNDLEPHOBIA](https://bundlephobia.com/) - 分析 npm 包大小和依赖关系。
   - [Package Phobia](https://packagephobia.com/) - 分析 npm 包大小。
   - [runpkg](https://www.runpkg.com/) - 在线浏览 npm 包内的文件内容。
+  - [pkg.land](https://pkg.land/) - 寻找替代模块（方案）。
 
 - [Monorepo](https://en.wikipedia.org/wiki/Monorepo) 工具（Monorepo Tools）
   - [_monorepo.tools_](https://monorepo.tools/)
