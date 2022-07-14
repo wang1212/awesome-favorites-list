@@ -58,6 +58,7 @@
 - [Node.js 中文网](http://nodejs.cn/) - 唯一与官方同步更新的 Node.js 中文文档。
 - [Node.js Best Practices](https://github.com/goldbergyoni/nodebestpractices) - Node.js 最佳实践。
 - [nodejs-integration-tests-best-practices](https://github.com/testjavascript/nodejs-integration-tests-best-practices) - Node.js 后端集成测试最佳实践。
+- [hackathon-starter](https://github.com/sahat/hackathon-starter) - Node.js Web 应用模板。
 
 [`Go Top ↑`](#awesome-nodejs-list)
 
