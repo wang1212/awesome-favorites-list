@@ -60,6 +60,7 @@
 - [Node.js Reference Architecture](https://github.com/nodeshift/nodejs-reference-architecture) - Node.js 参考架构。
 - [Tao of Node - Design, Architecture & Best Practices](https://alexkondov.com/tao-of-node/) - 设计、架构和最佳实践。
 - [nodejs-integration-tests-best-practices](https://github.com/testjavascript/nodejs-integration-tests-best-practices) - Node.js 后端集成测试最佳实践。
+- [Testing From A To Z](https://testjavascript.com/) - 全面详细的 Node.js 测试最佳实践。
 - [hackathon-starter](https://github.com/sahat/hackathon-starter) - Node.js Web 应用模板。
 
 [`Go Top ↑`](#awesome-nodejs-list)
