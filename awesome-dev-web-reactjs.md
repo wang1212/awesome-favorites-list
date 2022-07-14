@@ -50,6 +50,7 @@
   - [Reactime](https://reactime.io/) - 调试工具，组件快照记录，Chrome 扩展。
   - [React Sight](https://www.reactsight.com/) - 调试工具，可视化组件树，Chrome 扩展。
   - [why-did-you-render](https://github.com/welldone-software/why-did-you-render) - 探测应用重新渲染的部分的原因。
+  - [React Render Tracker](https://github.com/lahmatiy/react-render-tracker)
 
 - 构建（Build）
   - [Create React App](https://create-react-app.dev/) - 零配置的 React App 构建工具，**React 官方发布**。
