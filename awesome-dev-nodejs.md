@@ -130,14 +130,24 @@
 
 ## 构建工具
 
-*Build tools.*
+*Build toolchains for web frontend and node.js app development.*
 
-_see also 👉  [JS-构建工具](./awesome-dev-web-front-end.md#构建工具)_
+- 构建 Web 应用（Build Web Apps）
+  - [Create App](https://createapp.dev/) - 前端项目构建工具启动配置。
+  - [Modern Web](https://modern-web.dev/) - 现代 Web 开发的指南、工具和库。
+  - [Open Web Components](https://open-wc.org/) - 用于开发 Web 组件的指南、工具和库。
 
 - 文档（Doc）
   - [JSDoc](https://jsdoc.app/) - JavaScript 的 API 文档生成工具。
   - [ESDoc](https://esdoc.org/)
   - [typedoc](https://typedoc.org/) - 生成 TypeScript 项目文档。
+  - Code Highlighting
+    - [highlight.js](https://highlightjs.org/) - 页面代码高亮。
+    - [Prism.js](https://prismjs.com/) - 页面代码高亮。
+    - [Shiki](https://shiki.matsu.io/) - 页面代码高亮。
+  - Markdown Converter
+    - [markdown-styles](https://github.com/mixu/markdown-styles) - 命令行工具，将 Markdown 文件批量转换为特定主题样式的 HTML 文件。
+    - [github-markdown-css](https://github.com/sindresorhus/github-markdown-css) - 最小的 Github 风格的 Markdown 样式。
 
 - 配置（Config）
   - [dotenv](https://github.com/motdotla/dotenv) - 从 **.env** 文件为 Node.js 项目加载环境变量。
@@ -158,6 +168,10 @@ _see also 👉  [JS-构建工具](./awesome-dev-web-front-end.md#构建工具)_
 
 - 调试（Debug）
   - [debug](https://github.com/visionmedia/debug) - 打印 debug 日志。
+  - [Source Map](https://github.com/mozilla/source-map) - 生成和解析 `.map` 文件，调试压缩代码，**Mozilla 发布**。
+  - Mobile Debug
+    - [Eruda](https://eruda.liriliri.io/) - 移动端 Web 调试工具。
+    - [vConsole](https://github.com/Tencent/vConsole) - 移动端 Web 调试工具，腾讯（Tencent）出品。
   
 - 性能分析（profiling ）
   - [0x](https://github.com/davidmarkclements/0x)
@@ -170,6 +184,7 @@ _see also 👉  [JS-构建工具](./awesome-dev-web-front-end.md#构建工具)_
   - [supertest](https://github.com/visionmedia/supertest) - 基于 `superagent` 模块的 HTTP 断言。
   - [Sinon.JS](https://sinonjs.org/) - 对复杂功能进行模拟，以更好的完成单元测试。
   - [Polly.js](https://netflix.github.io/pollyjs/#/) - HTTP 模拟。
+  - [fuite](https://github.com/nolanlawson/fuite) - CLI 工具，发现 Web 应用的内存泄露问题。
 
 - 模拟 API（Mock API）
   - [JSON Server](https://github.com/typicode/json-server) - 可快速启动一个提供 REST API 的服务器，并返回指定测试数据。  
@@ -179,12 +194,6 @@ _see also 👉  [JS-构建工具](./awesome-dev-web-front-end.md#构建工具)_
   - [Mirage JS](https://miragejs.com/)
   - [faker.js](https://github.com/marak/faker.js) - 生成大量随机测试数据，可用来开发过程中进行 API 调试。
   - [Chance](https://chancejs.com/) - 生成随机的测试数据。
-  
-- 代码版本管理（Code version management ）
-  - [husky](https://github.com/typicode/husky) - 更容易的使用 [Git Hooks](https://git-scm.com/book/it/v2/Customizing-Git-Git-Hooks)。
-  - [lint-staged](https://www.npmjs.com/package/lint-staged) - 搭配 husky 使用，提交代码前进行 lint。
-  - [commitlint](https://commitlint.js.org/) - 校验 commit 信息。
-  - [commitizen](http://commitizen.github.io/cz-cli/) - 统一 commit 信息格式。
   
 - 进程管理（Process Manage） 
   - 热重载（Hot reload）
@@ -197,25 +206,78 @@ _see also 👉  [JS-构建工具](./awesome-dev-web-front-end.md#构建工具)_
     - [cluster-service](https://github.com/godaddy/node-cluster-service)
 
 - 编译器（Compiler）
-  - [TS Node](https://github.com/TypeStrong/ts-node) - Node.js 的 TypeScript 语言运行器和交互式解释器。
-  - [Neon](https://neon-bindings.com/) - Rust 的 Node.js 绑定，可用来编写快速、安全的原生模块。
-  - [Ruby](https://www.ruby-lang.org/) 2 JavaScript
-    - [Opal](https://opalrb.com/)
-    - [Ruby2JS](https://www.ruby2js.com/) - Ruby 到现代 JavaScript 代码的转换器。
-  - [Scala](https://www.scala-lang.org/) 2 JavaScript
-    - [Scala.js](https://www.scala-js.org/)
-  - [F#](https://fsharp.org/) 2 JavaScript
-    - [Fable](https://fable.io/) 
+  - JavaScript / TypeScript
+    - [Babel](https://babeljs.io/) - 编译工具，可将 TypeScript、ES6/7/8 代码编译为 JavaScript（ES5） 代码。
+    - [swc](https://swc.rs/) - Rust 编写的代码编译转换工具，可替代 Babel。
+    - [TS Node](https://github.com/TypeStrong/ts-node) - Node.js 的 TypeScript 语言运行器和交互式解释器。
+  - CSS / Less / Sass
+    - [Sass](https://sass-lang.com/) - CSS 预处理器，可提供类似编程语言的能力（变量、方法、作用域、嵌套）来编写 CSS。
+      - [Sass Guidelines](https://sass-guidelin.es/) - Sass 语法风格指南，**非官方**。
+    - [PostCSS](https://postcss.org/) - CSS 后处理器，提供众多插件来实现还未被广泛实现和标准化的 CSS 功能特性，最终将其编译为目标平台支持的 CSS 代码。
+      - [postcss-normalize](https://github.com/csstools/postcss-normalize)    
+    - CSS In JS
+      - [JSS](https://cssinjs.org) - 一种 CSS-in-JS 的解决方案。
+      - [styled components](https://www.styled-components.com) - 一种 CSS-in-JS 的解决方案。
+    - [modular-css](https://m-css.com/) - CSS 模块的扩展实现。
+  - Others
+    - [Neon](https://neon-bindings.com/) - Rust 的 Node.js 绑定，可用来编写快速、安全的原生模块。
+    - [Ruby](https://www.ruby-lang.org/) 2 JavaScript
+      - [Opal](https://opalrb.com/)
+      - [Ruby2JS](https://www.ruby2js.com/) - Ruby 到现代 JavaScript 代码的转换器。
+    - [Scala](https://www.scala-lang.org/) 2 JavaScript
+      - [Scala.js](https://www.scala-js.org/)
+    - [F#](https://fsharp.org/) 2 JavaScript
+      - [Fable](https://fable.io/) 
+
+- API 兼容性支持（API Polyfills）
+  - [Browserslist](https://github.com/browserslist/browserslist) - 社区主流的目标设备检测工具库。（👉 [browserslist.dev](https://browserslist.dev/)）
+  - HTML
+    - [html5shiv](https://github.com/aFarkas/html5shiv) - 在旧浏览器（IE9 以下）上提供对 HTML5 新标签（例如 footer、nav）的支持。
+  - CSS
+    - [Respond](https://github.com/scottjehl/Respond) - 在旧浏览器（IE 6-8）上提供对 CSS3 Media Queries（媒体查询）的支持。
+    - [selectivizr](http://selectivizr.com/) - 在旧浏览器（IE 6-8）上提供对 CSS3 新选择器的支持，注意 `style` 标签内样式不解析，动态生成的 DOM 也不解析。
+    - [css-paint-polyfill](https://github.com/GoogleChromeLabs/css-paint-polyfill) - [`CSS Paint API`](https://developers.google.com/web/updates/2018/01/paintapi) 。
+  - JavaScript
+    - [Polyfill.io](https://cdn.polyfill.io/) - Polyfills 服务。
+    - [core-js](https://github.com/zloirock/core-js) - 现代 JavaScript 标准库。
+    - [es-shims](https://github.com/es-shims) - ECMAScript 的 Polyfills 集合。
+    - [Promise Polyfill](https://github.com/taylorhakes/promise-polyfill) - 为浏览器提供 Promise API 支持。
+    - [webp-hero](https://github.com/chase-moskal/webp-hero) - 为浏览器提供 WebP 格式图片支持。
+    - [fetch](https://github.github.io/fetch/) - 提供 `window.fetch` API 的兼容性支持。
+    - [unfetch](https://github.com/developit/unfetch) - 提供简单的 Fetch API 支持。
+    - [smoothscroll-polyfill](https://iamdustan.com/smoothscroll/) - 提供平滑滚动的支持。
 
 - 打包工具（Bundler）
+  - [webpack](https://webpack.js.org/) - 打包工具，适合开发 Web 应用。
+    - [awesome-webpack](https://github.com/webpack-contrib/awesome-webpack) - Webpack 相关资源，**官方认证**。
   - [Rollup](http://rollupjs.org/) - 打包工具，适合开发库、框架。
+  - [Gulp](https://gulpjs.com/)
+  - [Grunt](https://gruntjs.com/)  
+  - [esbuild](https://esbuild.github.io/) - Go 编写的代码编译转换和打包工具。
+
+- 代码静态分析（Code Static Analysis）
+  - [ESLint](https://eslint.org/) - JavaScript 语法规则检查工具。
+  - [Prettier](https://prettier.io/) - 代码格式化工具，支持多种语言。
+  - [stylelint](https://stylelint.io/) - CSS 语法规则检查工具，支持 CSS/Sass/CSS-in-JS 等。
+  - [Flow](https://flow.org/) - Facebook 出品的 JavaScript 静态类型检查工具。
+  - [sonar.js](https://github.com/SonarSource/sonarjs) - 代码质量分析。
+
+- 代码版本管理（Code version management ）
+  - [husky](https://github.com/typicode/husky) - 更容易的使用 [Git Hooks](https://git-scm.com/book/it/v2/Customizing-Git-Git-Hooks)。
+  - [lint-staged](https://www.npmjs.com/package/lint-staged) - 搭配 husky 使用，提交代码前进行 lint。
+  - [commitlint](https://commitlint.js.org/) - 校验 commit 信息。
+  - [commitizen](http://commitizen.github.io/cz-cli/) - 统一 commit 信息格式。
+
+- 服务器（Server）
+  - [Browsersync](https://www.browsersync.io/) - 浏览器同步调式工具，功能非常强大。
+  - [live-server](https://github.com/tapio/live-server) - 具有实时重新加载页面功能的轻量静态资源 HTTP 服务器。
+  - [devcert](https://github.com/davewasmer/devcert) - 让 SSL 开发变得容易。
 
 - 其它（Others）
   - [esm](https://github.com/standard-things/esm) - 能够为 `.js` 文件提供 [ECMAScript Modules](https://tc39.es/ecma262/#sec-modules) 支持。
   - [envinfo](https://github.com/tabrindle/envinfo) - 生成开发环境信息报告。
   - [Madge](https://github.com/pahen/madge) - 生成可视化的模块依赖图。
-  - [devcert](https://github.com/davewasmer/devcert) - 让 SSL 开发变得容易。
-  - [live-server](https://github.com/tapio/live-server) - 具有实时重新加载页面功能的轻量静态资源 HTTP 服务器。
+  - [SystemJS](https://github.com/systemjs/systemjs) - 动态 ES Module 加载器。
 
 [`Go Top ↑`](#awesome-nodejs-list)
 
