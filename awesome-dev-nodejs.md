@@ -119,6 +119,7 @@
   - [Verdaccio](https://verdaccio.org/) - 开源的轻量级私有 npm 代理仓库。
   - [nrm](https://github.com/Pana/nrm) - npm 换源。
   - [npm-check-updates](https://github.com/tjunnone/npm-check-updates) - 项目依赖 npm 包批量更新工具。
+    - [npm-check](https://github.com/dylang/npm-check)
   - [depcheck](https://github.com/depcheck/depcheck) - 项目依赖检查。
   - [depp](https://github.com/CryogenicPlanet/depp) - 项目依赖检查，是否存在未使用或者重复的依赖。
   - [npkill](https://npkill.js.org/) - 搜索系统中的 *node_modules* 文件夹并清理。
