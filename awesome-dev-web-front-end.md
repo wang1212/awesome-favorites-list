@@ -625,22 +625,22 @@ _see also 👉  [Node.JS-工具库](./awesome-dev-nodejs.md#工具库)_
 
 - 其它（Others）
   - [NProgress](https://ricostacruz.com/nprogress/) - 页面顶部进度条，加载指示器。
-  - [PACE](https://codebyzach.github.io/pace/) - 页面加载指示器。
+    - [PACE](https://codebyzach.github.io/pace/) - 页面加载指示器。
   - [TOAST UI Calendar](https://github.com/nhn/tui.calendar) - 强大的日历日程组件。
-  - [FullCalendar](https://fullcalendar.io/) - 日历日程组件。
+    - [FullCalendar](https://fullcalendar.io/) - 日历日程组件。
   - [fullPage](https://alvarotrigo.com/fullPage/) - 全屏滚动页面。
   - [mailgo](https://mailgo.dev/) - 邮件和电话系统行为。
   - [PulltoRefresh](https://www.boxfactura.com/pulltorefresh.js/) - 下拉刷新。
-  - [Tweakpane](https://cocopon.github.io/tweakpane/) - 可快速创建跟踪值变化和调节的控制面板。
   - [Holder.js](http://holderjs.com/) - 图像占位符。
   - [simple-drawing-board.js](https://github.com/leader22/simple-drawing-board.js) - 简单画板。
   - [simple-keyboard](https://virtual-keyboard.js.org/) - 虚拟键盘。
   - [Tippy.js](https://atomiks.github.io/tippyjs/) - 工具提示组件。
   - [Smooth Scrollbar](https://idiotwu.github.io/smooth-scrollbar/) - 自定义滚动条，替代原生滚动事件。
-  - [OverlayScrollbars](https://github.com/KingSora/OverlayScrollbars) - 自定义滚动条。
+    - [OverlayScrollbars](https://github.com/KingSora/OverlayScrollbars) - 自定义滚动条。
   - [sharer.js/](https://ellisonleao.github.io/sharer.js/) - 创建社交网站分享按钮。
   - [ninja-keys](https://github.com/ssleptsov/ninja-keys) - 为页面添加键盘快捷键导航功能界面。
   - [InfiniteGrid](https://naver.github.io/egjs-infinitegrid/) - 无限网格布局。
+  - [Atropos](https://atroposjs.com/) - 轻量的用于创建 3D 悬停视差效果的组件。
 
 ### UI 模板
 
