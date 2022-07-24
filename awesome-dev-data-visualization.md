@@ -29,6 +29,7 @@ _Reference documentation._
     - [_WebGL2 Fundamentals_](https://webgl2fundamentals.org/) - _WebGL2 基础知识。_
     - [_Three.js Fundamentals_](https://threejs.org/manual/) - _Three.js 基础知识。_
   - [_WebGL Guide_](https://xem.github.io/articles/webgl-guide.html) - _WebGL 技术指南。_
+  - [Shadertoy](https://www.shadertoy.com/) - 着色器代码分享。
 
 [`Go Top ↑`](#awesome-data-visualization-list)
 
