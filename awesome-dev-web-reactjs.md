@@ -67,6 +67,7 @@
 
 - 其它（Other）
   - [html-react-parser](https://github.com/remarkablemark/html-react-parser) - HTML 转换为 React 元素。
+  - [svgr](https://react-svgr.com/) - 将 SVG 转换为 React 组件的一系列工具。
 
 [`Go Top ↑`](#awesome-reactjs-list)
 
