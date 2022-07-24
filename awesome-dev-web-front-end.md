@@ -619,6 +619,7 @@ _see also 👉  [Node.JS-工具库](./awesome-dev-nodejs.md#工具库)_
   - [mjml](https://mjml.io/)
 
 - 控制器面板（Controller Panel）
+  - [Tweakpane](https://cocopon.github.io/tweakpane/) 
   - [lil-gui](https://lil-gui.georgealways.com/)
   - [dat.gui](https://github.com/dataarts/dat.gui)
 
