@@ -438,7 +438,7 @@ _see also 👉  [JS-工具库](./awesome-dev-web-front-end.md#js-工具库) | [a
   - [prompts](https://github.com/terkelg/prompts) - 轻量、漂亮的交互式命令行提示。
   - [inquirer](https://github.com/SBoudrias/Inquirer.js) - 交互式命令行。
   - [readlineSync](https://github.com/anseki/readline-sync) - 同步版本的 `readline`，命令行对话式交互。
-  - [concurrently](https://github.com/kimmobrunfeldt/concurrently) - 并行执行多个命令。
+  - [concurrently](https://github.com/open-cli-tools/concurrently) - 并行执行多个命令。
   - [nve](https://github.com/ehmicky/nve) - 用指定版本的 Node 运行命令。
   - [shell.js](https://documentup.com/shelljs/shelljs) - 基于 NOde.js 的 Unix Shell 命令的可移植实现。
   - Progress / Loading
