@@ -354,6 +354,7 @@ _[ASCII Art](https://en.wikipedia.org/wiki/ASCII_art)._
 - [AIMP](http://www.aimp.ru/) - 专业级音频播放器，**免费软件**。
 - [HandBrake](https://handbrake.fr/) - 视频格式转换工具，**免费软件**。
 - [FFmpeg](http://ffmpeg.org/) - 命令行工具，完整的、跨平台的解决方案，用于记录、转换和流传输音频和视频，**开源软件**。
+- [foobar2000](https://www.foobar2000.org/) - 高级音频播放器，**免费软件**。
 
 #### 压缩文档
 
