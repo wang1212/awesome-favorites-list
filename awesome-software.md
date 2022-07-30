@@ -336,6 +336,7 @@ _[ASCII Art](https://en.wikipedia.org/wiki/ASCII_art)._
 - [qimgv](https://github.com/easymodo/qimgv) - 图片浏览器，支持视频预览，**开源软件**。
 - [qView](https://interversehq.com/qview/) - 图片浏览器，轻量、简单，**开源软件**。
 - [Picasa](https://picasa.google.com/) - 图片浏览器，Google 公司开发。（:warning: 停止支持）
+- [Honeyview](https://www.bandisoft.com/honeyview/) - 图片浏览器，**免费软件**。
 
 #### PDF
 
