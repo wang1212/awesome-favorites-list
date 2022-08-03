@@ -303,7 +303,6 @@ _see also 👉  [JS-工具库](./awesome-dev-web-front-end.md#js-工具库) | [a
   - [ajv](https://github.com/ajv-validator/ajv) - JSON Schema validator。
   - [joi](https://joi.dev/)
   - [yup](https://github.com/jquense/yup)
-  - [v8n](https://imbrn.github.io/v8n/)
   - [ow](https://sindresorhus.com/ow/) - 方法参数校验。
   - [v8n](https://imbrn.dev/v8n/)
   
