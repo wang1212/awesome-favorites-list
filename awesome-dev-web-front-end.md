@@ -425,6 +425,7 @@ _see also 👉  [Node.JS-工具库](./awesome-dev-nodejs.md#工具库)_
 - [typescript-cheatsheet](https://rmolinamir.github.io/typescript-cheatsheet/) - TypeScript 备忘单。
 - [TypeScript Deep Dive](https://basarat.gitbook.io/typescript/) - 深入理解 TypeScript 相关概念知识。
 - [TypeScriptToLua](https://typescripttolua.github.io/) - 用 TypeScript 编写 Lua。
+- [type-fest](https://github.com/sindresorhus/type-fest) - 包含一系列工具类型的库。
 
 [`Go Top ↑`](#awesome-web-front-end-list)
 
