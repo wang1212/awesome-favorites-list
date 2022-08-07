@@ -214,6 +214,7 @@ _UI Design System, provides a base system for building a design system._
 
 - 轮播（Carousel）
   - [react-slick](https://react-slick.neostack.com/)
+  - [embla-carousel](https://www.embla-carousel.com/) - 图片轮播组件。
 
 - 图片（Image）
   - [React Carousel Image Gallery](https://github.com/xiaolin/react-image-gallery) - 图片轮播组件。
@@ -290,6 +291,9 @@ _UI Design System, provides a base system for building a design system._
   - [react-syntax-highlighter](https://github.com/react-syntax-highlighter/react-syntax-highlighter) - 语法高亮组件。
   - [planby](https://planby.netlify.app/) - 时间线组件。
   - [boring-avatars](https://boringavatars.com/) - 随机生成基于 SVG 的自定义头像。
+  - [react-mosaic](https://github.com/nomcopter/react-mosaic) - 平铺窗口管理器。
+  - [react-chrono](https://react-chrono.prabhumurthy.com/) - 时间线组件。
+  - []()
 
 [`Go Top ↑`](#awesome-reactjs-list)
 
