@@ -749,6 +749,7 @@ _[Progressive web apps](https://developer.mozilla.org/en-US/docs/Web/Progressive
     - [JavaScript Visualizer 9000](https://www.jsv9000.app/) - 可视化脚本执行，任务队列，微任务队列，UI 更新的过程。
   - [JavaScript Event Loop vs Node JS Event Loop](https://blog.insiderattack.net/javascript-event-loop-vs-node-js-event-loop-aea2b1b85f5c) - 浏览器中的 JS 事件循环。
   - [ES modules: A cartoon deep-dive](https://hacks.mozilla.org/2018/03/es-modules-a-cartoon-deep-dive/) - ES module 的实现分析。
+    - [import-maps](https://github.com/WICG/import-maps) - `importmap` 规范。
 
 ### 抽象语法树
 
