@@ -226,6 +226,7 @@ _UI Design System, provides a base system for building a design system._
 
 - 颜色选择器（Color Picker）
   - [React Color](http://casesandberg.github.io/react-color/) - 颜色拾取器，支持十多种样式。
+  - [react-colorful](https://omgovich.github.io/react-colorful/) - 轻量的颜色拾取器。
 
 - 拖拽（Draggable）
   - [react-beautiful-dnd](https://react-beautiful-dnd.netlify.app/)
@@ -323,6 +324,7 @@ _UI Design System, provides a base system for building a design system._
   - [react-fast-compare](https://formidable.com/open-source/react-fast-compare/) - React 组件的高性能深度比较，可替代 `lodash.isEqual`。
   - [react-error-boundary](https://github.com/bvaughn/react-error-boundary) - 简单的可重用 React 错误边界组件。
   - [react-refetch](https://github.com/heroku/react-refetch) - 组件数据加载。
+  - [react-device-detect](https://github.com/duskload/react-device-detect) - 检测设备并渲染指定的视图。
 
 [`Go Top ↑`](#awesome-reactjs-list)
 
