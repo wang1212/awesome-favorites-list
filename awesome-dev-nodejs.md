@@ -575,7 +575,8 @@ _Engine / Runtime._
 *Article.*
 
 - [Write an Open Source JavaScript Library](https://github.com/sarbbottam/write-an-open-source-js-lib) - 如何编写开源 JavaScript 库，并且发布到 npm。
-- [Setting up multi-platform npm packages](https://2ality.com/2017/04/setting-up-multi-platform-packages.html) - 多平台支持的 npm 包配置。
+  - [Setting up multi-platform npm packages](https://2ality.com/2017/04/setting-up-multi-platform-packages.html) - 多平台支持的 npm 包配置。
+  - [Creating ESM-based shell scripts for Unix and Windows with Node.js](https://2ality.com/2022/07/nodejs-esm-shell-scripts.html) - 使用 esm 创建 shell 脚本。
 - [Deepal's Blog Articles on NodeJS](https://blog.insiderattack.net/node/home) - Deepal 的博客文章，Node.js 相关，比较有深度。
 - BFF（Backends For Frontends）
   - [BFF](https://www.thoughtworks.com/insights/blog/bff-soundcloud)
