@@ -332,6 +332,9 @@ _see also 👉  [Web 端软件资源](./awesome-software.md#浏览器端)_
   - [iHateRegex](https://ihateregex.io/)
   - [regexr](https://regexr.com/)
 
+- Converter
+  - [Excel to JSON](https://exceltojson.com/) - Excel 转 JSON 数据。
+
 ### 公共 API
 
 *Public api.*
