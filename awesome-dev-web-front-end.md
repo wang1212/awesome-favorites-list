@@ -690,6 +690,7 @@ _see also 👉  [Node.JS-工具库](./awesome-dev-nodejs.md#工具库)_
 - [Solid](https://www.solidjs.com/) - 纯粹的反应式框架，基于 React 的理念，底层实现不再使用虚拟 DOM。
 - [Alpine.js](https://alpinejs.dev/) - 轻量的 JavaScript 框架。
 - [Aurelia](https://aurelia.io/)
+- [Astro](https://astro.build/)
 
 [`Go Top ↑`](#awesome-web-front-end-list)
 
