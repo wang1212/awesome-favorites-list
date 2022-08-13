@@ -15,7 +15,6 @@
 - [期刊（Journal）](#期刊)
 - [论坛（Forum）](#论坛)
 - [书籍（Book）](#书籍)
-- [文章(Article)](#文章)
 - [更多（More）](#更多)
 
 ## 数据
@@ -156,7 +155,7 @@
 
 ## 书籍
 
-*Some classic, best-selling, high-quality books.*
+*Some classic, best-selling, high-quality books. (Also includes some related readings.)*
 
 ### 计算机技术
 
@@ -321,14 +320,6 @@ _Others._
 
 [`Go Top ↑`](#awesome-reading-list)
 
-## 文章
-
-*Some very useful articles.*
-
-- [Tools for better thinking](https://untools.co/) - 思维决策工具。
-
-[`Go Top ↑`](#awesome-reading-list)
-
 ## 更多
 
 *More other unclassified resources.*
@@ -336,5 +327,6 @@ _Others._
 - [xkcd](https://xkcd.com/) - 极客漫画。（:point_right: [中文站](https://xkcd.in/)）
 - [掘金翻译计划](https://github.com/xitu/gold-miner) - 掘金翻译计划，可能是世界最大最好的英译中技术社区，最懂读者和译者的翻译平台。
 - [Library of Congress](https://www.loc.gov/) - 美国国会图书馆。
+- [Tools for better thinking](https://untools.co/) - 思维决策工具。
   
 [`Go Top ↑`](#awesome-reading-list)
