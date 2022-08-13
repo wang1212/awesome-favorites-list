@@ -268,6 +268,7 @@
   - [lint-staged](https://www.npmjs.com/package/lint-staged) - 搭配 husky 使用，提交代码前进行 lint。
   - [commitlint](https://commitlint.js.org/) - 校验 commit 信息。
   - [commitizen](http://commitizen.github.io/cz-cli/) - 统一 commit 信息格式。
+  - [size-limit](https://github.com/ai/size-limit) - 检测每一次提交的资源大小限制，支持 CI。
 
 - 服务器（Server）
   - [Browsersync](https://www.browsersync.io/) - 浏览器同步调式工具，功能非常强大。
