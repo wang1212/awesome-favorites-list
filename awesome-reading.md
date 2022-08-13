@@ -165,6 +165,23 @@
 
 - [Programming Notes for Professionals books](https://goalkicker.com/)
 
+#### 数据结构与算法
+
+_Data Structures and Algorithms._
+
+- 《数据结构与算法分析：C语言描述》[美] Mark Allen Weiss
+- 《算法图解》[美] Aditya Bhargava
+  
+#### 软件架构设计
+
+_Software Architecture._ [:point_right: _Software Architecture Book_](https://github.com/mhadidg/software-architecture-books)
+
+- 《架构之美：行业思想领袖揭秘软件设计之美》[美] Diomidis Spinellis, Georgios Gousios
+- [《Kubernetes Handbook——Kubernetes 中文指南/云原生应用架构实践手册》](https://jimmysong.io/kubernetes-handbook/) - 云原生实践，**开源书籍**。
+- [Design Patterns for Humans](https://roadmap.sh/guides/design-patterns-for-humans) - 设计模式。
+- [Refactoring.Guru](https://refactoring.guru/) - 图文结合讲解软件工程、设计模式的知识。
+- [Awesome Software and Architectural Design Patterns](https://github.com/DovAmir/awesome-design-patterns)
+
 #### 网络与协议
 
 _Network and Protocol._
@@ -206,20 +223,6 @@ _Programming language._
 - Bash
   - [《Advanced Bash-Scripting Guide》](http://tldp.org/LDP/abs/html/) - 高级 Bash 脚本编程指南，**开源书籍**。
   - [《Introduction to Bash Scripting》](https://github.com/bobbyiliev/introduction-to-bash-scripting) - Bash 脚本介绍，**开源书籍**。
- 
-#### 数据算法
-
-_Data algorithm._
-
-- 《数据结构与算法分析：C语言描述》[美] Mark Allen Weiss
-- 《算法图解》[美] Aditya Bhargava
-  
-#### 软件架构
-
-_Software Architecture._ [:point_right: _Software Architecture Book_](https://github.com/mhadidg/software-architecture-books)
-
-- 《架构之美：行业思想领袖揭秘软件设计之美》[美] Diomidis Spinellis, Georgios Gousios
-- [《Kubernetes Handbook——Kubernetes 中文指南/云原生应用架构实践手册》](https://jimmysong.io/kubernetes-handbook/) - 云原生实践，**开源书籍**。
   
 #### Web 开发
 
@@ -231,6 +234,7 @@ _Web development._
 - 《CSS 揭秘》[希] Lea Verou
 - 《React 设计模式与最佳实践》[意] 米凯莱 贝尔托利
 - 《React 精髓》[英] Artemij Fedosejev
+- [《Patterns》](https://www.patterns.dev/) - 使用 JavaScript 和 React.js 构建出色 web 应用的架构设计和模式指南。
 
 #### 客户端开发
 
