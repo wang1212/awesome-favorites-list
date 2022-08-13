@@ -118,8 +118,9 @@
 
 ### 软件与架构设计
 
-*Software and architecture design. See also :point_right: [Awesome Software Architecture](https://mehdihadeli.github.io/awesome-software-architecture/)*
+*Software and architecture design. See also :point_right: [软件架构设计书籍](https://github.com/wang1212/awesome-favorites-list/blob/master/awesome-reading.md#%E8%BD%AF%E4%BB%B6%E6%9E%B6%E6%9E%84%E8%AE%BE%E8%AE%A1)*
 
+- [Awesome Software Architecture](https://mehdihadeli.github.io/awesome-software-architecture/)
 - [System Design Cheatsheet](https://gist.github.com/vasanthk/485d1c25737e8e72759f) - 系统设计备忘单。
 - [awesome-scalability](https://github.com/binhnguyennus/awesome-scalability) - 可伸缩、可扩展系统设计实践。
 - [https://12factor.net/](https://12factor.net/) - 开发应用的十二要素。
@@ -127,9 +128,6 @@
 - [The System Design Primer](https://github.com/donnemartin/system-design-primer) - 学习构建大型系统。
 - [Superhero.js](http://superherojs.com/) - 构建大型 JavaScript 项目的一些技巧。
 - [Command Line Interface Guidelines](https://clig.dev/) - 命令行接口指南。
-- [Awesome Software and Architectural Design Patterns](https://github.com/DovAmir/awesome-design-patterns)
-- [Design Patterns for Humans](https://roadmap.sh/guides/design-patterns-for-humans) - 设计模式。
-- [Refactoring.Guru](https://refactoring.guru/) - 图文结合讲解软件工程、设计模式的知识。
 
 ### 其它
 
@@ -147,7 +145,7 @@
 
 ## 技术参考资源
 
-*Some technical reference resources.*
+_Some technical reference resources._
 
 - [Awesome CTO](https://github.com/kuchin/awesome-cto) - 为首席技术官（CTO）准备的资源清单。
 - [Developer Roadmaps](https://roadmap.sh/) - 开发者路线图。
