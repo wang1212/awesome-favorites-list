@@ -48,7 +48,6 @@
   - [WSL（Windows Subsystem for Linux）](#wsl)
   - [实用工具（Utilities）](#实用工具)
 - [工具套件（Tool kit）](#工具套件)
-- [文档站点生成器（Documentation Site Generator）](#文档站点生成器)
 - [面试指南（Interview Guidelines）](#面试指南)
 - [更多（More）](#更多)
 
@@ -621,39 +620,47 @@ _Coding Statistics._
 *Tool kit.*
 
 - [free-for.dev](https://free-for.dev/) - **免费**的开发资源服务列表。
-- Web Statistical Analysis
+
+- Web 统计分析（Web Statistical Analysis）
   - [Ackee](https://ackee.electerious.com/) - 基于 Node.js 的站点分析工具，**开源可自托管**。
   - [Cube.js](https://cube.dev/) - Web 应用分析解决方案，**开源可自托管**。
   - [Counter](https://counter.dev/) - **开源免费**的 Web 站点统计分析平台。
   - [Splitbee](https://splitbee.io/) - Web 站点分析统计平台，个人项目免费。
-- [screego](https://screego.net/#/) - 屏幕共享服务器。
-- [netdata](https://www.netdata.cloud/) - 系统指标监控 Web 平台，**开源免费**。
-- [Skia](https://skia.org/) - 2D 渲染引擎，在 Chrome、Chrome OS、Android、Flutter、Mozilla Firefox 等产品中使用。
-- [nocodb](https://www.nocodb.com/) - NoCode 平台，将任何数据库转换为电子表格，Airtable 的开源替代品，**开源软件**。
-- [Talk](https://github.com/vasanthv/talk) - 点对点的 Web 视频会议和屏幕共享应用，**开源软件**。
-- [nb](https://xwmx.github.io/nb/) - 命令行和本地 Web 笔记、文档管理、检索应用程序。
-- [Web File Browser](https://filebrowser.org/) - 基于 Web 的云文件浏览器。
 
-- 抓包工具
+- 抓包工具（Packet Capture）
   - [WireShark](https://www.wireshark.org/) - 协议分析，**开源免费**。
   - [Fiddler Everywhere](https://www.telerik.com/fiddler) - **提供免费版本**。
   - [mitmproxy](https://www.mitmproxy.org/) - Python 开发的 HTTPS 代理，**开源免费**。
   - [whistle](https://wproxy.org/whistle/)
 
-[`Go Top ↑`](#awesome-development-resources)
+- Others
+  - [screego](https://screego.net/#/) - 屏幕共享服务器。
+  - [netdata](https://www.netdata.cloud/) - 系统指标监控 Web 平台，**开源免费**。
+  - [Skia](https://skia.org/) - 2D 渲染引擎，在 Chrome、Chrome OS、Android、Flutter、Mozilla Firefox 等产品中使用。
+  - [nocodb](https://www.nocodb.com/) - NoCode 平台，将任何数据库转换为电子表格，Airtable 的开源替代品，**开源软件**。
+  - [Talk](https://github.com/vasanthv/talk) - 点对点的 Web 视频会议和屏幕共享应用，**开源软件**。
+  - [nb](https://xwmx.github.io/nb/) - 命令行和本地 Web 笔记、文档管理、检索应用程序。
+  - [Web File Browser](https://filebrowser.org/) - 基于 Web 的云文件浏览器。
 
-## 文档站点生成器
+### 静态站点工具
 
-*Documentation Site Generator.*
+_Static site tool._
 
-- [Gatsby](https://www.gatsbyjs.org/) - 静态站点生成器，基于 React.js 的开源框架，可快速开发 Web 网站和应用。
-  - [docz](https://www.docz.site/)
-- [Docusaurus](https://v2.docusaurus.io/) - 快速构建优化、快速的网站，**Facebook 发布**。
-- [MkDocs](https://www.mkdocs.org/)
-- [Nextra](https://nextra.vercel.app/) - 基于 Next.js 的静态站点生成器。
-- [GitBook](https://www.gitbook.com/) - 对开源和非盈利团队免费。
-- [docsify](https://docsify.js.org/)
-- [VuePress](https://vuepress.vuejs.org/)
+- 静态站点生成器（Static Site Generator）
+  - [Gatsby](https://www.gatsbyjs.org/) - 静态站点生成器，基于 React.js 的开源框架，可快速开发 Web 网站和应用。
+    - [docz](https://www.docz.site/)
+  - [Docusaurus](https://v2.docusaurus.io/) - 快速构建优化、快速的网站，**Facebook 发布**。
+  - [MkDocs](https://www.mkdocs.org/)
+  - [Nextra](https://nextra.vercel.app/) - 基于 Next.js 的静态站点生成器。
+  - [GitBook](https://www.gitbook.com/) - 对开源和非盈利团队免费。
+  - [docsify](https://docsify.js.org/)
+  - [VuePress](https://vuepress.vuejs.org/)
+
+- 静态站点托管服务（Static Site Hosting Service）
+  - [vercel](https://vercel.com/)
+  - [render](https://render.com/)
+  - [netlify](https://www.netlify.com/)
+  - [surge](https://surge.sh/help/getting-started-with-surge)
 
 [`Go Top ↑`](#awesome-development-resources)
 
