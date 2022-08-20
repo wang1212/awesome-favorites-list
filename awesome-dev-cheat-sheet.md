@@ -18,6 +18,7 @@ _[Naming cheatsheet](https://github.com/kettanaito/naming-cheatsheet) & [CODELF]
 - [Emojipedia](https://emojipedia.org/) `codepoint` `shortcode`
 - [Emoji Cheat Sheet](https://www.webfx.com/tools/emoji-cheat-sheet/) `shortcode`
 - [Emoji Searcher](https://emoji.muan.co/)
+- [emoji-cheat-sheet](https://github.com/ikatyang/emoji-cheat-sheet) `github` `shortcode`
 - [github emoji markup](https://gist.github.com/rxaviers/7360908) `github` `shortcode`
 - [gitmoji](https://gitmoji.dev/) `git` `shortcode`
 
