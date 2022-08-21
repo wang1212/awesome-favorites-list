@@ -186,6 +186,14 @@
 - [Font Pair](https://fontpair.co/) - 排版工具。
 - [Everything Fonts](https://everythingfonts.com/) - 字体处理。
 
+#### 设计编辑器
+
+_Editor._
+
+- [FlexClip](https://www.flexclip.com/) - 动态视频短片编辑器。
+- [picsart](https://picsart.com/) - 海报设计。
+- [Greetings Island](https://www.greetingsisland.com/) - 邀请函设计。
+
 #### 图形绘制
 
 *Graphic drawing.*
