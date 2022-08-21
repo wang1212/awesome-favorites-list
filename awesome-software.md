@@ -111,7 +111,6 @@
   - [Speedtest](https://www.speedtest.net/) - 专业测速。
   - [SimilarSites](https://www.similarsites.com/) - 查询相似站点。（提供 Chrome 扩展）
   - [gifcap](https://gifcap.dev/) - 从屏幕录制制作 gif 动图。
-  - [WiteBoard](https://witeboard.com/) - 共享协作画板。
 
 ### 文件处理
 
@@ -168,6 +167,7 @@
 
 *Software interface design, prototype drawing design, etc.*
 
+- [Free Resources](https://cursorup.com/resources/) - 免费的设计资源。
 - [设计师网址导航](https://hao.uisdc.com/)
 - [设计导航](http://hao.shejidaren.com/index.html)
 - [Boss 设计](https://www.bossdesign.cn/) - 收集国内外设计素材资源的网站。
@@ -193,6 +193,7 @@
 - [diagrams.net](https://www.diagrams.net/) - 流程图、UML 图绘制工具，**开源软件**。（提供安装包版本）
 - [excalidraw](https://excalidraw.com/) - 在线的手绘风格图表绘图板，**开源软件**。
 - [PlantUML](https://plantuml.com/) - 快速使用简洁的文本描述生成 UML 图。
+- [WiteBoard](https://witeboard.com/) - 共享协作画板。
 
 #### ASCII Art
 
