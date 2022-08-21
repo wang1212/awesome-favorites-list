@@ -322,6 +322,12 @@ _Others._
 
 - 《苏菲的世界》[挪威] 乔斯坦·贾德
 
+### 设计
+
+_Design._
+
+- [Design Principles](https://principles.design/) - 设计原则及案例，**开源**。
+
 [`Go Top ↑`](#awesome-reading-list)
 
 ## 更多
