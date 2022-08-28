@@ -141,6 +141,7 @@ _Reference documentation._
 - JavaScript
   - 工具（Tools）
     - [bezier-easing](https://github.com/gre/bezier-easing) - Cubic Bezier Curve 缓动函数的实现。
+    - [Robert Penner's Easing](http://robertpenner.com/easing/) - Robert Penner's Easing Functions。
   - 动画引擎（Animation Engine） 
     - [GSAP](https://greensock.com/) - 现代化的高性能动画工具库。
     - [tween.js](http://tweenjs.github.io/tween.js/) - 用于简单动画的 JavaScript 补间引擎。
