@@ -68,6 +68,22 @@ _Reference documentation._
   - [Fabric.js](http://fabricjs.com/) - 2D 绘图库，支持 Canvas、SVG。
   - [Two.js](https://two.js.org/) - Web 2D 绘图工具库，基于 Canvas、Svg、WebGL。
 
+- 动画引擎（Animation Engine） 
+  - Tools
+    - [bezier-easing](https://github.com/gre/bezier-easing) - Cubic Bezier Curve 缓动函数的实现。
+    - [Robert Penner's Easing](http://robertpenner.com/easing/) - Robert Penner's Easing Functions。
+  - [tween.js](http://tweenjs.github.io/tween.js/) - 用于简单动画的 JavaScript 补间引擎。
+  - [GSAP](https://greensock.com/) - 现代化的高性能动画工具库。
+  - [Anime.js](https://animejs.com/) - 动画引擎，轻量的 JavaScript 动画工具库。
+  - [Velocity.js](http://velocityjs.org/) - 动画引擎，为元素提供动画效果。
+  - [motion](https://motion.dev/) - 轻量的，基于 [`Web Animations API`](https://developer.mozilla.org/en-US/docs/Web/API/Web_Animations_API) 的动画引擎。
+  - [mo.js](https://mojs.github.io/) - 丰富，强大的运动图形动画工具库。
+  - [KUTE.js](https://thednp.github.io/kute.js/) - 高性能动画引擎。
+  - [Popmotion](https://popmotion.io/) - 实用、灵活的 JavaScript 动画工具套件。
+    - [Framer Motion](https://www.framer.com/motion/) - 动画工具库，由 Popmotion 驱动。
+  - [tween.js](https://createjs.com/tweenjs) - 动画工具库。
+  - [Shifty](https://jeremyckahn.github.io/shifty/doc/index.html) - 轻量级、高性能的低级动画工具库。
+
 - Others
   - [Textures.js](https://riccardoscalco.it/textures/) - 创建 SVG 模式。
   - [ztext.js](https://bennettfeely.com/ztext/) - 实现文字 3D 效果。
@@ -140,21 +156,6 @@ _Reference documentation._
   - [lazy line painter](http://lazylinepainter.info/) - SVG 路径动画。
 
 - JavaScript
-  - 工具（Tools）
-    - [bezier-easing](https://github.com/gre/bezier-easing) - Cubic Bezier Curve 缓动函数的实现。
-    - [Robert Penner's Easing](http://robertpenner.com/easing/) - Robert Penner's Easing Functions。
-  - 动画引擎（Animation Engine） 
-    - [GSAP](https://greensock.com/) - 现代化的高性能动画工具库。
-    - [tween.js](http://tweenjs.github.io/tween.js/) - 用于简单动画的 JavaScript 补间引擎。
-    - [Anime.js](https://animejs.com/) - 动画引擎，轻量的 JavaScript 动画工具库。
-    - [Velocity.js](http://velocityjs.org/) - 动画引擎，为元素提供动画效果。
-    - [mo.js](https://mojs.github.io/) - 丰富，强大的运动图形动画工具库。
-    - [KUTE.js](https://thednp.github.io/kute.js/) - 高性能动画引擎。
-    - [Popmotion](https://popmotion.io/) - 实用、灵活的 JavaScript 动画工具套件。
-      - [Framer Motion](https://www.framer.com/motion/) - 动画工具库，由 Popmotion 驱动。
-    - [motion](https://motion.dev/) - 轻量的，基于 [`Web Animations API`](https://developer.mozilla.org/en-US/docs/Web/API/Web_Animations_API) 的动画引擎。
-    - [tween.js](https://createjs.com/tweenjs) - 动画工具库。
-    - [Shifty](https://jeremyckahn.github.io/shifty/doc/index.html) - 轻量级、高性能的低级动画工具库。
   - [ScrollReveal](https://scrollrevealjs.org/) - 为滚动进入视区的元素提供动画效果。
   - [lax.js](https://github.com/alexfoxy/laxxx) - 简单、轻量的工具库，创建平滑的滚动动画。
   - [Typed.js](https://github.com/mattboldt/typed.js) - 打字动画效果。
