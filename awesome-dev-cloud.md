@@ -34,13 +34,15 @@
     - [ctop](https://ctop.sh/) - 类似于 `top` 命令，容器性能指标监控工具。
     - [lazydocker](https://github.com/jesseduffield/lazydocker) - Docker 终端 UI 管理工具。
 
-- [Kubernetes](https://kubernetes.io/) - k8s，分布式容器自动化部署、管理。
+- [Kubernetes](https://kubernetes.io/) - k8s，分布式容器编排工具，自动化部署、管理，**CNCF 毕业**。
   - [kaniko](https://github.com/GoogleContainerTools/kaniko) - 在容器内构建镜像。
   - *Articles*
     - [*Kubernetes tools and resources*](https://learnk8s.io/kubernetes-resources) 
     - [*Graceful shutdown and zero downtime deployments in Kubernetes*](https://learnk8s.io/graceful-shutdown)
 
-- [OpenTelemetry](https://opentelemetry.io/) - 由 OpenTracing 和 OpenCensus 项目合并而成，性能数据、日志数据追踪、收集。
+- [OpenTelemetry](https://opentelemetry.io/) - 由 OpenTracing 和 OpenCensus 项目合并而成，性能数据、日志数据追踪、收集，**CNCF 孵化**。
+  - [Jaeger](https://www.jaegertracing.io/) - 分布式追踪系统，**Uber 开源，CNCF 毕业**。
+
 - [Grafana](https://grafana.com/oss/grafana/) - 监控数据可视化、图表、仪表盘面板。
 
 - CI/CD
