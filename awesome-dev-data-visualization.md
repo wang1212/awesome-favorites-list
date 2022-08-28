@@ -139,6 +139,8 @@ _Reference documentation._
   - [lazy line painter](http://lazylinepainter.info/) - SVG 路径动画。
 
 - JavaScript
+  - 工具（Tools）
+    - [bezier-easing](https://github.com/gre/bezier-easing) - Cubic Bezier Curve 缓动函数的实现。
   - 动画引擎（Animation Engine） 
     - [GSAP](https://greensock.com/) - 现代化的高性能动画工具库。
     - [tween.js](http://tweenjs.github.io/tween.js/) - 用于简单动画的 JavaScript 补间引擎。
