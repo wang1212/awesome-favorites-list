@@ -258,6 +258,7 @@ _see also 👉  [Node.JS-工具库](./awesome-dev-nodejs.md#工具库)_
   - [Remeda.js](https://remedajs.com/) - JavaScript 的工具函数库，专门针对于函数式编程，同时支持 "data-first" 和 "data-last" 的范式。
   - [ts-belt](https://mobily.github.io/ts-belt/) - JavaScript 的工具函数库，专门针对于函数式编程，更快、更现代化。
   - [RxJS](https://rxjs.dev/) - 响应式编程（Reactive Extensions）的 JavaScript 实现，对异步数据集合处理很方便。
+  - [deepmerge](https://github.com/TehShrike/deepmerge) - 对象的深度合并，可自定义合并策略。
 
 - UID
   - [uuid](https://github.com/uuidjs/uuid) - 生成随机唯一 id。
