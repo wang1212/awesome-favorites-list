@@ -78,6 +78,7 @@ _Reference documentation._
   - [P5.js](https://p5js.org/) - 可视化工具。
   - [Pts](https://ptsjs.org/) - 可视化工具。
   - [vis.js](https://visjs.org/) - 动态的，基于浏览器的可视化库。
+  - [gl-matrix](https://glmatrix.net/) - 为 WebGL 应用提供高性能的矩阵属性运算能力。
 
 #### 图表
 
