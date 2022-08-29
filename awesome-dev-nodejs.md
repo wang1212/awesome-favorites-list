@@ -229,7 +229,9 @@
       - [Scala.js](https://www.scala-js.org/)
     - [F#](https://fsharp.org/) 2 JavaScript
       - [Fable](https://fable.io/) 
-
+    - [Go](https://go.dev/) 2 JavaScript
+      - [GopherJS](https://github.com/gopherjs/gopherjs)
+    
 - API 兼容性支持（API Polyfills）
   - [Browserslist](https://github.com/browserslist/browserslist) - 社区主流的目标设备检测工具库。（👉 [browserslist.dev](https://browserslist.dev/)）
   - HTML
