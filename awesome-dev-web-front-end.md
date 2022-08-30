@@ -526,7 +526,7 @@ _see also 👉  [Node.JS-工具库](./awesome-dev-nodejs.md#工具库)_
   - [imask.js](https://imask.js.org/)
   - [tagify](https://yaireo.github.io/tagify/) - 标签输入框。
   - [flatpickr](https://flatpickr.js.org/) - 时间日期选择器。
-  - [layDate](https://www.layui.com/laydate/) - 时间日期选择器。
+  - [layDate](https://layuion.com/docs/modules/laydate.html) - 时间日期选择器。
   - [Choices.js](https://choices-js.github.io/Choices/) - 轻量的，可配置的输入框和选择器。
   - [PicMo](https://picmojs.com/) - Emoji 表情选择器。
 
