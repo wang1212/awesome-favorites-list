@@ -47,6 +47,9 @@ _Reference documentation._
 
 - 3D / WebGL
   - [_A collection of WebGL and WebGPU frameworks and libraries_](https://gist.github.com/dmnsgn/76878ba6903cf15789b712464875cfdc) 
+  - Tools
+    - [Draco](https://google.github.io/draco/) - 3D 数据压缩工具。
+    - [gl-matrix](https://glmatrix.net/) - 为 WebGL 应用提供高性能的矩阵属性运算能力。
   - [three.js](https://threejs.org/) - 3D 动画库，强大的 JavaScript 3D 动画库。
   - [stackgl](http://stack.gl/) - WebGL 引擎。
   - [PixiJS](https://www.pixijs.com/) - 2D WebGL 渲染引擎，高性能。
@@ -94,7 +97,6 @@ _Reference documentation._
   - [P5.js](https://p5js.org/) - 可视化工具。
   - [Pts](https://ptsjs.org/) - 可视化工具。
   - [vis.js](https://visjs.org/) - 动态的，基于浏览器的可视化库。
-  - [gl-matrix](https://glmatrix.net/) - 为 WebGL 应用提供高性能的矩阵属性运算能力。
 
 #### 图表
 
