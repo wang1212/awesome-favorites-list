@@ -50,7 +50,7 @@ _Reference documentation._
   - Tools
     - [Draco](https://google.github.io/draco/) - 3D 数据压缩工具。
     - [gl-matrix](https://glmatrix.net/) - 为 WebGL 应用提供高性能的矩阵属性运算能力。
-  - [three.js](https://threejs.org/) - 3D 动画库，强大的 JavaScript 3D 动画库。
+  - [three.js](https://threejs.org/) - 3D WebGL 渲染引擎。
   - [stackgl](http://stack.gl/) - WebGL 引擎。
   - [PixiJS](https://www.pixijs.com/) - 2D WebGL 渲染引擎，高性能。
   - [sigma.js](http://sigmajs.org/) - 可视化大数据量的关系节点。
