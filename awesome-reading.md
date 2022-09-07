@@ -249,6 +249,7 @@ _Client development._
 
 _Computer Graphics._
 
+- [《Learn OpenGL》](https://learnopengl.com/) - 学习 OpenGL，**可在线免费阅读**。
 - 《HTML5 Canvas 核心技术》[美] David Geary
 
 #### 数据库
