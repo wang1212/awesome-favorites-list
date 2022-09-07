@@ -267,6 +267,13 @@ _[ASCII Art](https://en.wikipedia.org/wiki/ASCII_art)._
 - [IconKitchen](https://icon.kitchen/) - App 图标设计工具。
 - [Iconduck](https://iconduck.com/) - **免费开源**的图标与插画素材。
 
+### 学习
+
+_Learning._
+
+- [GeoGebra](https://www.geogebra.org/) - 在线的数学教学软件，协作白板，**可免费使用**。
+- [Desmos](https://www.desmos.com/) - 在线的数学图形计算器，**可免费使用**。
+
 [`Go Top ↑`](#awesome-software)
 
 ## 安卓端
