@@ -51,6 +51,7 @@ _see also :point_right: [计算机图形学读物](https://github.com/wang1212/a
   - [_A collection of WebGL and WebGPU frameworks and libraries_](https://gist.github.com/dmnsgn/76878ba6903cf15789b712464875cfdc) 
   - Tools
     - [Draco](https://google.github.io/draco/) - 3D 数据压缩工具。
+    - [meshoptimizer](https://github.com/zeux/meshoptimizer) - 优化 glTF 文件的工具。
     - [gl-matrix](https://glmatrix.net/) - 为 WebGL 应用提供高性能的矩阵属性运算能力。
   - [three.js](https://threejs.org/) - 3D WebGL 渲染引擎。
   - [stackgl](http://stack.gl/) - WebGL 引擎。
