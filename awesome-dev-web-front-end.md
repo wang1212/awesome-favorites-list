@@ -482,6 +482,8 @@ _see also 👉  [Node.JS-工具库](./awesome-dev-nodejs.md#工具库)_
 
 *UI Component*
 
+_[Open UI](https://open-ui.org/)_
+
 [Bit](https://bit.dev/)，共享组件发布平台。
 
 #### 组件库
