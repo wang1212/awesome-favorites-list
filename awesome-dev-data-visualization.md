@@ -26,6 +26,7 @@ _see also :point_right: [计算机图形学读物](https://github.com/wang1212/a
   - [Google Material Design Data visualization](https://material.io/design/communication/data-visualization.html)
 
 - 学习资料（Docs）
+  - [OpenGL Wiki](https://www.khronos.org/opengl/wiki)   
   - [Graphics Related Lessons](https://github.com/gfxfundamentals)
     - [_WebGL Fundamentals_](https://webglfundamentals.org/) - _WebGL 基础知识。_
     - [_WebGL2 Fundamentals_](https://webgl2fundamentals.org/) - _WebGL2 基础知识。_
