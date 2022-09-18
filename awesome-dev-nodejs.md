@@ -283,6 +283,7 @@
   - [envinfo](https://github.com/tabrindle/envinfo) - 生成开发环境信息报告。
   - [Madge](https://github.com/pahen/madge) - 生成可视化的模块依赖图。
   - [SystemJS](https://github.com/systemjs/systemjs) - 动态 ES Module 加载器。
+  - [favicons](https://github.com/itgalaxy/favicons) - 网站图标生成器。
 
 [`Go Top ↑`](#awesome-nodejs-list)
 
