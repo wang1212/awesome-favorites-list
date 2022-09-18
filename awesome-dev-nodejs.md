@@ -126,6 +126,7 @@
   - [njt](https://njt.now.sh/) -  npm jump to，npm 包搜索并跳转到相应 npm 站点。
   - [patch-package](https://github.com/ds300/patch-package) - 对模块打补丁进行修复。
   - [qnm](https://github.com/ranyitz/qnm) - 搜索 `node_modules` 目录的工具。
+  - [npm-packlist](https://github.com/npm/npm-packlist) - 检查 npm 包发布后包含的所有文件。
 
 [`Go Top ↑`](#awesome-nodejs-list)
 
