@@ -109,6 +109,7 @@ _Available in browser（JavaScript）. **Tips:** Most of what is available in th
   - [TopoJSON Server](https://github.com/topojson/topojson-server) - TopoJSON 生成。
   - [TopoJSON Simplify](https://github.com/topojson/topojson-simplify) - TopoJSON 简化和过滤。
   - [TopoJSON Client](https://github.com/topojson/topojson-client) - TopoJSON 数据操作，例如合并、获取边界坐标等。
+- [H3](https://h3geo.org/) - 六边形分级地理空间索引系统。
 
 [`Go Top ↑`](#awesome-gis-list)
 
