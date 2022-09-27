@@ -57,6 +57,7 @@ _see also :point_right: [计算机图形学读物](https://github.com/wang1212/a
     - [meshoptimizer](https://github.com/zeux/meshoptimizer) - 优化 glTF 文件的工具。
     - [gl-matrix](https://glmatrix.net/) - 为 WebGL 应用提供高性能的矩阵属性运算能力。
   - [three.js](https://threejs.org/) - 3D WebGL 渲染引擎。
+    - [three-globe](https://github.com/vasturiano/three-globe) - 3D 地球组件工具库。
   - [stackgl](http://stack.gl/) - WebGL 引擎。
   - [PixiJS](https://www.pixijs.com/) - 2D WebGL 渲染引擎，高性能。
   - [sigma.js](http://sigmajs.org/) - 可视化大数据量的关系节点。
