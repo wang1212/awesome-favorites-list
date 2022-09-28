@@ -68,6 +68,7 @@
 
 - GitHub
   - [Fast Git](http://fastgit.org/)
+  - [http://hub.fgit.ml/](http://hub.fgit.ml/)
   - [https://github.com.cnpmjs.org/](https://github.com.cnpmjs.org/) - GitHub 镜像网站。
   - [GitClone](https://gitclone.com/) - GitHub 仓库缓存加速。
   - [GitHub Proxy](https://ghproxy.com/) - 文件代理加速下载。
