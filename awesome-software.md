@@ -461,6 +461,7 @@ _Virtual desktop, remote login._
 
 - [RustDesk](https://rustdesk.com/zh/) - **开源软件**。
 - [ToDesk](https://www.todesk.com/) - 个人用户免费。
+- [HopToDesk](https://www.hoptodesk.com/) - **免费开源软件**。
 
 ### 其它
 
