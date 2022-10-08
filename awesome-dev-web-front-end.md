@@ -413,6 +413,11 @@ _see also 👉  [Node.JS-工具库](./awesome-dev-nodejs.md#工具库)_
 - 国际化（i18n）
   - [Format.js](https://formatjs.io/)
 
+- 搜索（Search）
+  - [lunr.js](https://lunrjs.com/) - （:warning: 不再更新）
+  - [Stork](https://stork-search.net/)
+  - [lyra](https://lyrajs.io/)
+
 - 其它（Other）
   - [HyperFormula](https://handsontable.github.io/hyperformula/) - 计算引擎，商业产品 Handsontable 团队维护。
 
