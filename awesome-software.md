@@ -111,6 +111,7 @@
   - [Speedtest](https://www.speedtest.net/) - 专业测速。
   - [SimilarSites](https://www.similarsites.com/) - 查询相似站点。（提供 Chrome 扩展）
   - [gifcap](https://gifcap.dev/) - 从屏幕录制制作 gif 动图。
+  - [Deepl](https://www.deepl.com/translator) - 翻译。
 
 ### 文件处理
 
