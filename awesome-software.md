@@ -31,6 +31,7 @@
 - [OSDN](https://osdn.net/) - 开源软件下载。
 - [F-Droid.](https://f-droid.org/) - 安卓自由开源软件（FOSS）仓库。
 - [Product Hunt](https://www.producthunt.com/) - 最受欢迎的科技产品发布站点。
+- [PortableApps.com Platform](https://portableapps.com/) - 便携式应用平台和商店。
 
 [`Go Top ↑`](#awesome-software)
 
