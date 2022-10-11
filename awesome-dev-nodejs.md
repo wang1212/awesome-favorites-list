@@ -73,6 +73,7 @@
 - [nvm](https://github.com/nvm-sh/nvm) - Node 版本管理，**不支持 Windows 系统**。
 - [nvm-windows](https://github.com/coreybutler/nvm-windows) - Node 版本管理工具，**仅支持 Windows 系统**。
 - [fnm](https://github.com/Schniz/fnm) - Rust 编写的 Node 版本管理工具，支持 Windows/Linux/Mac 系统。
+- [Volta](https://volta.sh/) - Rust 编写的工具链版本管理工具。
 
 [`Go Top ↑`](#awesome-nodejs-list)
 
