@@ -68,7 +68,7 @@ _see also :point_right: [计算机图形学读物](https://github.com/wang1212/a
 
 - [Babylon.js](https://www.babylonjs.com/) - 游戏渲染引擎。
 
-- 2D Drawing Tools (Canvas/SVG)
+- 2D (Canvas/SVG)
   - [_Canvas Engines Comparison_](https://github.com/slaylines/canvas-engines-comparison) 
   - [Rough.js](https://roughjs.com/) - 创建具有手绘风格的草图图形。
   - [Konva](https://konvajs.org) - 用于桌面和移动应用程序的 HTML5 2D canvas 库。
@@ -77,6 +77,8 @@ _see also :point_right: [计算机图形学读物](https://github.com/wang1212/a
   - [EaselJS](https://createjs.com) - 工具套件，包含 Canvas、Web Audio 等工具库。
   - [Fabric.js](http://fabricjs.com/) - 2D 绘图库，支持 Canvas、SVG。
   - [Two.js](https://two.js.org/) - Web 2D 绘图工具库，基于 Canvas、Svg、WebGL。
+  - :point_right: React.js
+    - [react-digraph](https://github.com/uber/react-digraph) - 有向图编辑器。
 
 - 动画引擎（Animation Engine） 
   - Tools
