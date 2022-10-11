@@ -209,6 +209,7 @@ _Programming language._
   - [《Learning JavaScript Design Patterns》](https://addyosmani.com/resources/essentialjsdesignpatterns/book/) Addy Osmani - JavaScript 设计模式，**开源书籍**。
   - 《JavaScript 面向对象编程指南》[加拿大] Stoyan Stefanov 斯托扬
   - 《高性能 JavaScript》 [美] 尼古拉斯·泽卡斯
+  - [《Shell scripting with Node.js》](https://exploringjs.com/nodejs-shell-scripting/) Dr. Axel Rauschmayer - **免费书籍**。
 
 - Python
   - [_The best free Python resources_](https://pythonbooks.revolunet.com/) 
