@@ -204,6 +204,7 @@ _Editor._
 - [excalidraw](https://excalidraw.com/) - 在线的手绘风格图表绘图板，**开源软件**。
 - [PlantUML](https://plantuml.com/) - 快速使用简洁的文本描述生成 UML 图。
 - [WiteBoard](https://witeboard.com/) - 共享协作画板。
+- [svg-path-editor](https://yqnn.github.io/svg-path-editor/) - [svg `path`](https://developer.mozilla.org/en-US/docs/Web/SVG/Attribute/d) 编辑器。
 
 #### ASCII Art
 
