@@ -59,6 +59,7 @@ _see also :point_right: [计算机图形学读物](https://github.com/wang1212/a
   - [three.js](https://threejs.org/) - 3D WebGL 渲染引擎。
     - [three-globe](https://github.com/vasturiano/three-globe) - 3D 地球组件工具库。
   - [stackgl](http://stack.gl/) - WebGL 引擎。
+  - [A-Frame](https://aframe.io/) - 构建 3D/AR/VR 应用的框架。
   - [PixiJS](https://www.pixijs.com/) - 2D WebGL 渲染引擎，高性能。
   - [sigma.js](http://sigmajs.org/) - 可视化大数据量的关系节点。
     - [Graphology](https://graphology.github.io/)
