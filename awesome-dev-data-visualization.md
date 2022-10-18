@@ -50,7 +50,7 @@ _see also :point_right: [计算机图形学读物](https://github.com/wang1212/a
 
 - [D3](https://d3js.org/) - 可视化库，数据驱动的，非常著名，许多图表库基于此开发。
 
-- 3D / WebGL
+- 3D
   - [_A collection of WebGL and WebGPU frameworks and libraries_](https://gist.github.com/dmnsgn/76878ba6903cf15789b712464875cfdc) 
   - Tools
     - [Draco](https://google.github.io/draco/) - 3D 数据压缩工具。
@@ -60,7 +60,6 @@ _see also :point_right: [计算机图形学读物](https://github.com/wang1212/a
     - [three-globe](https://github.com/vasturiano/three-globe) - 3D 地球组件工具库。
   - [stackgl](http://stack.gl/) - WebGL 引擎。
   - [A-Frame](https://aframe.io/) - 构建 3D/AR/VR 应用的框架。
-  - [PixiJS](https://www.pixijs.com/) - 2D WebGL 渲染引擎，高性能。
   - [sigma.js](http://sigmajs.org/) - 可视化大数据量的关系节点。
     - [Graphology](https://graphology.github.io/)
   - [Zdog](https://zzz.dog/) - 圆形、扁平的设计师友好的伪 3D 引擎。
@@ -69,7 +68,7 @@ _see also :point_right: [计算机图形学读物](https://github.com/wang1212/a
 
 - [Babylon.js](https://www.babylonjs.com/) - 游戏渲染引擎。
 
-- 2D (Canvas/SVG)
+- 2D (Canvas/SVG/WebGL)
   - [_Canvas Engines Comparison_](https://github.com/slaylines/canvas-engines-comparison) 
   - [Rough.js](https://roughjs.com/) - 创建具有手绘风格的草图图形。
   - [Konva](https://konvajs.org) - 用于桌面和移动应用程序的 HTML5 2D canvas 库。
@@ -80,6 +79,7 @@ _see also :point_right: [计算机图形学读物](https://github.com/wang1212/a
   - [Two.js](https://two.js.org/) - Web 2D 绘图工具库，基于 Canvas、Svg、WebGL。
   - :point_right: React.js
     - [react-digraph](https://github.com/uber/react-digraph) - 有向图编辑器。
+  - [PixiJS](https://www.pixijs.com/) - 2D WebGL 渲染引擎，高性能。
 
 - 动画引擎（Animation Engine） 
   - Tools
