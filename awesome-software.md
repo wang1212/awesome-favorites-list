@@ -311,6 +311,7 @@ _Learning._
 - Keyboard Visualizer
   - [carnac](http://carnackeys.com/) - 在屏幕上显示按键信息，**免费开源软件**。（:warning: 停止维护）
   - [Keyviz](https://mularahul.github.io/keyviz/) - **免费开源软件**。
+- [sharing](https://github.com/parvardegr/sharing) - 命令行工具，支持局域网设备间文件扫码共享和上传，粘贴板共享。
 
 ### 浏览器
 
