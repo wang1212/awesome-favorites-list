@@ -79,5 +79,6 @@
   - [RFC Editor](https://www.rfc-editor.org/) - 网络相关标准规范文件。
     - [*rfc.fyi*](https://rfc.fyi/) - *用来搜索 RFC 文件的站点。*
   - [Khronos](https://www.khronos.org/) - 用于 3D 图形、虚拟和增强现实、并行计算、机器学习和视觉处理的 Khronos 免版税开放标准。
+  - [Opus Interactive Audio Codec](https://opus-codec.org/) - 交互式音频编解码器。
 
 [`Go Top ↑`](#awesome-development-technical-standard-specifications)
