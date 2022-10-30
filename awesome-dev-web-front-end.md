@@ -694,6 +694,7 @@ _[Open UI](https://open-ui.org/)_
   - [LitElement](https://lit-element.polymer-project.org/) - 用于创建 Web 组件的基类工具库。
   - [Hybrids](https://hybrids.js.org/) - 用于创建 Web 组件的 UI 库。
   - [Riot.js](https://riot.js.org/) - 基于组件的 UI 库。
+  - [stencil.js](https://stenciljs.com/)
 
 - [Marko](https://markojs.com/) - 声明式、响应式开发框架，流式渲染。
 - [Inferno](https://infernojs.org/) - 类 React API 的 UI 库。
