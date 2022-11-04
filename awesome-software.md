@@ -307,7 +307,9 @@ _Learning._
 - [uTools](http://www.u.tools/) - 生产力工具，包含许多小工具，**免费软件**。
 - [Module Art](https://moduleart.github.io/) - 软件集合，包含图片浏览器、录屏软件等，**开源软件**。
 - [Captura](https://mathewsachin.github.io/Captura/) - 轻量级、功能齐全的录屏、截屏软件，需安装 FFmpeg 依赖，**开源软件**。（:warning: 停止维护）
-- [ScreenToGif](https://www.screentogif.com/) - 带有集成编辑器的屏幕、网络摄像头和素描板录制器，**免费软件**。
+- Gif
+  - [ScreenToGif](https://www.screentogif.com/) - 带有集成编辑器的屏幕、网络摄像头和素描板录制器，**免费软件**。
+  - [LICEcap](https://www.cockos.com/licecap/) - 录屏并保存为 gif，**开源软件**。
 - Keyboard Visualizer
   - [carnac](http://carnackeys.com/) - 在屏幕上显示按键信息，**免费开源软件**。（:warning: 停止维护）
   - [Keyviz](https://mularahul.github.io/keyviz/) - **免费开源软件**。
