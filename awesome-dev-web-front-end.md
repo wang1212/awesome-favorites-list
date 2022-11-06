@@ -285,6 +285,7 @@ _see also 👉  [Node.JS-工具库](./awesome-dev-nodejs.md#工具库)_
       - [html2canvas](https://html2canvas.hertzen.com)
       - [rasterizeHTML.js](http://cburgmer.github.io/rasterizeHTML.js/)
     - [signature_pad](https://szimek.github.io/signature_pad/) - 手写签名。 
+  - [linkifyjs](https://github.com/Hypercontext/linkifyjs) - 处理文本中的链接、邮箱地址等，将其转为相应的 HTML 标签。
 
 - 事件（Event）
   - BOM / Browser
