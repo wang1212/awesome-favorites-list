@@ -353,6 +353,8 @@ _see also 👉  [JS-工具库](./awesome-dev-web-front-end.md#js-工具库) | [a
     - [CSV](https://csv.js.org/) - 功能全面的 csv 文件生成、解析、转换、序列化工具。     
   - docx
     - [officegen](https://github.com/Ziv-Barber/officegen) - 生成 Office 文档。 
+  - xlsx
+    - [xlsx-cli](https://github.com/SheetJS/sheetjs/tree/master/packages/xlsx-cli) - 处理 excel 文件的命令行工具，基于 [`xlsx`](https://sheetjs.com/)。
   - image
     - [sharp](https://sharp.pixelplumbing.com/) - 图像处理，拉伸、缩放、色彩提取等等，底层使用 [libvips](https://libvips.github.io/libvips/)，无需安装其它依赖，开箱即用，效率更高。
     - [gm](http://aheckmann.github.io/gm/) - 图像处理，需先安装 [GraphicsMagick](http://www.graphicsmagick.org/) 或 [ImageMagick](https://imagemagick.org/index.php)。
