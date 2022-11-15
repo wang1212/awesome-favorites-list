@@ -100,11 +100,13 @@ _see also :point_right: [计算机图形学读物](https://github.com/wang1212/a
   - [scene.js](https://daybrush.com/scenejs/release/latest/doc/index.html) - 支持 JavaScript 和 CSS 的动画库。
 
 - Others
+  - Text 2 Diagram
+    - [mermaid](https://github.com/mermaid-js/mermaid) - txt 文本生成流程图。
+    - [PlantUML](https://plantuml.com/) - 快速使用简洁的文本描述生成 UML 图。
+    - [Pintora](https://pintorajs.vercel.app/) - 利用可扩展的文本绘制成图表。
+    - [MathJax](https://www.mathjax.org/) - 浏览器中的数学公式可视化引擎。
   - [Textures.js](https://riccardoscalco.it/textures/) - 创建 SVG 模式。
   - [ztext.js](https://bennettfeely.com/ztext/) - 实现文字 3D 效果。
-  - [mermaid](https://github.com/mermaid-js/mermaid) - txt 文本生成流程图。
-  - [Pintora](https://pintorajs.vercel.app/) - 利用可扩展的文本绘制成图表。
-  - [MathJax](https://www.mathjax.org/) - 浏览器中的数学公式可视化引擎。
   - [P5.js](https://p5js.org/) - 可视化工具。
   - [Pts](https://ptsjs.org/) - 可视化工具。
   - [vis.js](https://visjs.org/) - 动态的，基于浏览器的可视化库。
