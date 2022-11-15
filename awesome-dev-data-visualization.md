@@ -102,7 +102,6 @@ _see also :point_right: [计算机图形学读物](https://github.com/wang1212/a
 - Others
   - [Textures.js](https://riccardoscalco.it/textures/) - 创建 SVG 模式。
   - [ztext.js](https://bennettfeely.com/ztext/) - 实现文字 3D 效果。
-  - [wordcloud2.js](https://github.com/timdream/wordcloud2.js) - 词云。
   - [mermaid](https://github.com/mermaid-js/mermaid) - txt 文本生成流程图。
   - [Pintora](https://pintorajs.vercel.app/) - 利用可扩展的文本绘制成图表。
   - [MathJax](https://www.mathjax.org/) - 浏览器中的数学公式可视化引擎。
@@ -143,6 +142,7 @@ _see also :point_right: [计算机图形学读物](https://github.com/wang1212/a
   - [Plotly](https://plotly.com/javascript/) - 丰富的图表，支持金融、科学相关图表。
   - [uPlot](https://github.com/leeoniya/uPlot) - 快速、轻量级的图表库。
   - [webdatarocks](https://www.webdatarocks.com/) - 创建透视表，**免费**。
+  - [wordcloud2.js](https://github.com/timdream/wordcloud2.js) - 词云。
   - :point_right: React.js
     - [reaviz](https://github.com/reaviz) - 一系列 React 数据可视化组件。
     - [react-flow](https://reactflow.dev/) - 可视化工具库，构建流程图等。
