@@ -97,6 +97,7 @@ _see also :point_right: [计算机图形学读物](https://github.com/wang1212/a
     - [Framer Motion](https://www.framer.com/motion/) - 动画工具库，由 Popmotion 驱动。
   - [tween.js](https://createjs.com/tweenjs) - 动画工具库。
   - [Shifty](https://jeremyckahn.github.io/shifty/doc/index.html) - 轻量级、高性能的低级动画工具库。
+  - [scene.js](https://daybrush.com/scenejs/release/latest/doc/index.html) - 支持 JavaScript 和 CSS 的动画库。
 
 - Others
   - [Textures.js](https://riccardoscalco.it/textures/) - 创建 SVG 模式。
