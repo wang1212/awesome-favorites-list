@@ -60,6 +60,7 @@ _see also :point_right: [计算机图形学读物](https://github.com/wang1212/a
     - [gl-matrix](https://glmatrix.net/) - 为 WebGL 应用提供高性能的矩阵属性运算能力。
   - [three.js](https://threejs.org/) - 3D WebGL 渲染引擎。
     - [three-globe](https://github.com/vasturiano/three-globe) - 3D 地球组件工具库。
+    - [View 3D](https://naver.github.io/egjs-view3d/) - 快速且可定制的 glTF 3D 模型查看器，功能齐全。
   - [A-Frame](https://aframe.io/) - 构建 3D/AR/VR 应用的框架。
   - [sigma.js](http://sigmajs.org/) - 可视化大数据量的关系节点。
     - [Graphology](https://graphology.github.io/)
