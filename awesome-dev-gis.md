@@ -43,7 +43,6 @@
 - [ESRI Shapefile Technical Description](https://www.esri.com/library/whitepapers/pdfs/shapefile.pdf) - ESRI Shapefile 白皮书，Shapefile 技术描述。
   - [ESRI Shapefile Info](https://www.loc.gov/preservation/digital/formats/fdd/fdd000280.shtml)
   - [Data File Header Structure for the dBASE Version 7 Table File](http://www.dbase.com/Knowledgebase/INT/db7_file_fmt.htm)
-- [glTF](https://github.com/KhronosGroup/glTF) - GL Transmission Format 规范，用于大型 3D 模型网络传输。
 - [3D Tiles](https://www.ogc.org/standards/3dtiles) - 3D Tiles 规范，用来流式传输大规模 3D 场景数据。
 - [GeoPackage](https://www.geopackage.org/) - 开放的地理空间信息数据格式。
 
