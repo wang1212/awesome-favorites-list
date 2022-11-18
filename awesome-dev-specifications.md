@@ -43,6 +43,8 @@
 
 - [Source Map](https://sourcemaps.info/spec.html)
 
+- [Conflict-free Replicated Data Type](https://crdt.tech/) - 一种数据结构，可简化分布式数据存储系统和多用户应用程序。
+
 ### 3D
 
 - [glTF](https://github.com/KhronosGroup/glTF)
@@ -54,7 +56,7 @@
     - [gltf-viewer](https://gltf-viewer.donmccurdy.com/)
     - [gltf-viewer(babylon.js)](https://sandbox.babylonjs.com/)
 
-- [Conflict-free Replicated Data Type](https://crdt.tech/) - 一种数据结构，可简化分布式数据存储系统和多用户应用程序。
+- [3D Tiles](https://www.ogc.org/standards/3dtiles) - 3D Tiles 规范，用来流式传输大规模 3D 场景数据。
 
 [`Go Top ↑`](#awesome-development-technical-standard-specifications)
 
