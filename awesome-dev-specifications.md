@@ -46,11 +46,13 @@
 ### 3D
 
 - [glTF](https://github.com/KhronosGroup/glTF)
-  - [gltf.report](https://gltf.report/) - glTF 模型查看、压缩。
-  - [gltf-viewer](https://gltf-viewer.donmccurdy.com/)
   - [gltfpack](https://github.com/zeux/meshoptimizer/tree/master/gltf) - 命令行工具，glTF 模型压缩工具。
   - [Draco](https://google.github.io/draco/) - 3D 数据压缩工具。
   - [glTF-Transform](https://gltf-transform.donmccurdy.com/index.html) - 处理 glTF 模型文件的 SDK。
+  - viewer
+    - [gltf.report](https://gltf.report/) - glTF 模型查看、压缩。
+    - [gltf-viewer](https://gltf-viewer.donmccurdy.com/)
+    - [gltf-viewer(babylon.js)](https://sandbox.babylonjs.com/)
 
 - [Conflict-free Replicated Data Type](https://crdt.tech/) - 一种数据结构，可简化分布式数据存储系统和多用户应用程序。
 
