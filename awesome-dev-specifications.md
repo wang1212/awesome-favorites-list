@@ -48,6 +48,7 @@
 - [glTF](https://github.com/KhronosGroup/glTF)
   - [gltf.report](https://gltf.report/) - glTF 模型查看、压缩。
   - [gltf-viewer](https://gltf-viewer.donmccurdy.com/)
+  - [gltfpack](https://github.com/zeux/meshoptimizer/tree/master/gltf) - 命令行工具，glTF 模型压缩工具。
 
 - [Conflict-free Replicated Data Type](https://crdt.tech/) - 一种数据结构，可简化分布式数据存储系统和多用户应用程序。
 
