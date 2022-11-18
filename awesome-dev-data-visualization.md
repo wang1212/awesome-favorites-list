@@ -54,9 +54,6 @@ _see also :point_right: [计算机图形学读物](https://github.com/wang1212/a
   - [_A collection of WebGL and WebGPU frameworks and libraries_](https://gist.github.com/dmnsgn/76878ba6903cf15789b712464875cfdc) 
   - Tools
     - [stackgl](http://stack.gl/) - 编写着色器代码的工具集。
-    - [Draco](https://google.github.io/draco/) - 3D 数据压缩工具。
-    - [meshoptimizer](https://github.com/zeux/meshoptimizer) - 优化 glTF 文件的工具。
-    - [glTF-Transform](https://gltf-transform.donmccurdy.com/index.html) - 处理 glTF 模型文件的 SDK。
     - [gl-matrix](https://glmatrix.net/) - 为 WebGL 应用提供高性能的矩阵属性运算能力。
   - [three.js](https://threejs.org/) - 3D WebGL 渲染引擎。
     - [three-globe](https://github.com/vasturiano/three-globe) - 3D 地球组件工具库。
