@@ -45,6 +45,8 @@
   - [Data File Header Structure for the dBASE Version 7 Table File](http://www.dbase.com/Knowledgebase/INT/db7_file_fmt.htm)
 - [GeoPackage](https://www.geopackage.org/) - 开放的地理空间信息数据格式。
 
+*More others 👉 [Awesome-Development-Technical-Standard-Specifications](awesome-dev-specifications.md)*
+
 [`Go Top ↑`](#awesome-gis-list)
 
 ## 技术参考文档
