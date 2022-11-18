@@ -207,6 +207,10 @@
     - [PM2](https://pm2.keymetrics.io/) - Node 应用生产环境进程管理工具，支持集群、负载、远程部署，提供收费服务的实时监控平台。
     - [StrongLoop-PM](http://strong-pm.io/) - Node 应用生产环境进程管理工具。（⚠️ 不再积极开发）
     - [cluster-service](https://github.com/godaddy/node-cluster-service)
+  - 进程安全关闭
+    - [terminus](https://github.com/godaddy/terminus)   
+    - [http-shutdown](https://github.com/thedillonb/http-shutdown) - （⚠️ 不再积极开发）
+    - [node-graceful-shutdown](https://github.com/ZitRos/node-graceful-shutdown)
 
 - 编译器（Compiler）
   - JavaScript / TypeScript
