@@ -28,11 +28,9 @@
 
 *Data Structure.*
 
-- YAML
-  - [YAML Specification](https://yaml.org/) - `.yaml` 文件数据格式规范。
+- [YAML](https://yaml.org/)
 
-- JSON
-  - [JSON Specification](http://www.json.org/) - `.json` 文件数据格式规范。
+- [JSON](http://www.json.org/)
   - [JSON Schema](http://json-schema.org/) - JSON 数据校验。
   - [JSON5 Specification](https://spec.json5.org/) - JSON5 数据格式规范，是对 JSON 格式的扩展，支持注释等特性。
   - [NDJSON Specification](http://ndjson.org/) - Newline Delimited JSON 数据格式规范。
@@ -43,8 +41,13 @@
   - [_Markdown Guide_](https://www.markdownguide.org/) - _Markdown 语法参考文档，**非官方**。_
   - [_MDX_](https://mdxjs.com/) - _组件时代的 Markdown。_
 
-- Source Map
-  - [Source Map Revision 3 Proposal](https://sourcemaps.info/spec.html) - `.map` 文件数据格式规范。
+- [Source Map](https://sourcemaps.info/spec.html)
+
+### 3D
+
+- [glTF](https://github.com/KhronosGroup/glTF)
+  - [gltf.report](https://gltf.report/) - glTF 模型查看、压缩。
+  - [gltf-viewer](https://gltf-viewer.donmccurdy.com/)
 
 - [Conflict-free Replicated Data Type](https://crdt.tech/) - 一种数据结构，可简化分布式数据存储系统和多用户应用程序。
 
