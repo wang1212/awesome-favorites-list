@@ -60,12 +60,15 @@
 
 *Daily tools, such as language translation, note application, etc.*
 
-- [Google 翻译](https://chrome.google.com/webstore/detail/google-translate/aapbdbdomjkkjkaonfhkkikfgjllcleb) - 可在页面上进行实时翻译，**官方扩展**。
-- [沙拉查词](https://saladict.crimx.com/download.html) - 网页翻译工具。
-- [GoFullPage](https://chrome.google.com/webstore/detail/gofullpage-full-page-scre/fdpohaocaechififmbbbbbknoalclacl) - 截屏工具。
-- [Awesome Screenshot](https://chrome.google.com/webstore/detail/awesome-screenshot-screen/nlipoenfbbikpbjkfpfillcgkoblgpmj) - 截屏工具。
-- [FireShot](https://chrome.google.com/webstore/detail/take-webpage-screenshots/mcbpblocgmgfnpjjppndjkmgjaogfceg) - 截屏工具。
-- [Screenity](https://github.com/alyssaxuu/screenity) - 录屏工具。
+- 翻译（Translation）
+  - [Google 翻译](https://chrome.google.com/webstore/detail/google-translate/aapbdbdomjkkjkaonfhkkikfgjllcleb) - 可在页面上进行实时翻译，**官方扩展**。
+  - [沙拉查词](https://saladict.crimx.com/download.html) - 网页翻译工具。
+  - [Relingo](https://relingo.net/en/index)
+- 截屏/录屏（Screenshots/Record）
+  - [GoFullPage](https://chrome.google.com/webstore/detail/gofullpage-full-page-scre/fdpohaocaechififmbbbbbknoalclacl) - 截屏工具。
+  - [Awesome Screenshot](https://chrome.google.com/webstore/detail/awesome-screenshot-screen/nlipoenfbbikpbjkfpfillcgkoblgpmj) - 截屏工具。
+  - [FireShot](https://chrome.google.com/webstore/detail/take-webpage-screenshots/mcbpblocgmgfnpjjppndjkmgjaogfceg) - 截屏工具。
+  - [Screenity](https://github.com/alyssaxuu/screenity) - 录屏工具。
 - [Infinity 新标签页 (Pro)](https://chrome.google.com/webstore/detail/infinity-new-tab-pro/nnnkddnnlpamobajfibfdgfnbcnkgngh) - 让浏览器的新标签页可定制化。
 - [Image Downloader](https://chrome.google.com/webstore/detail/image-downloader/cnpniohnfphhjihaiiggeabnkjhpaldj) - 网站图片批量下载。
 - [ColorPick Eyedropper](https://chrome.google.com/webstore/detail/colorpick-eyedropper/ohcpnigalekghcmgcdcenkpelffpdolg) - 方便好用的拾色器。
