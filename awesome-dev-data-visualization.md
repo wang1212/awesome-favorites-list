@@ -28,10 +28,11 @@ _see also :point_right: [计算机图形学读物](https://github.com/wang1212/a
 - 学习资料（Docs）
   - [OpenGL Wiki](https://www.khronos.org/opengl/wiki)   
   - [Graphics Related Lessons](https://github.com/gfxfundamentals)
-    - [_WebGL Fundamentals_](https://webglfundamentals.org/) - _WebGL 基础知识。_
-    - [_WebGL2 Fundamentals_](https://webgl2fundamentals.org/) - _WebGL2 基础知识。_
-    - [_Three.js Fundamentals_](https://threejs.org/manual/) - _Three.js 基础知识。_
-  - [_WebGL Guide_](https://xem.github.io/articles/webgl-guide.html) - _WebGL 技术指南。_
+    - [WebGL Fundamentals](https://webglfundamentals.org/) - WebGL 基础知识。
+    - [WebGL2 Fundamentals](https://webgl2fundamentals.org/) - WebGL2 基础知识。
+    - [Three.js Fundamentals](https://threejs.org/manual/) - Three.js 基础知识。
+    - [CS307：计算机图形学](https://cs.wellesley.edu/~cs307/index.html) - 公开课。
+  - [WebGL Guide](https://xem.github.io/articles/webgl-guide.html) - _WebGL 技术指南。_
   - [Advanced Graphics Algorithms](https://sites.google.com/site/csc8820/educational/course-overview) - 一些图形算法介绍。
   - [Discover three.js](https://discoverthreejs.com/book/) - 介绍了开始探索 3D Web 图形所需的所有重要概念和术语。
   - [Shadertoy](https://www.shadertoy.com/) - 着色器代码分享。
