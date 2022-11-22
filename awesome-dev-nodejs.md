@@ -326,6 +326,11 @@ _see also 👉  [JS-工具库](./awesome-dev-web-front-end.md#js-工具库) | [a
 - 数据加密、解密（Data encryption and decryption）
   - [bcrypt](https://github.com/kelektiv/node.bcrypt.js) - 生成密码哈希值。
   
+- 文本解析/模式匹配（Text parsing/Pattern matching） 
+  - [minimatch](https://github.com/isaacs/minimatch)
+  - [globby](https://github.com/sindresorhus/globby) - 基于 `fast-glob`，模式匹配。
+  - [braces](https://github.com/micromatch/braces) - 大括号模式匹配。
+  
 - 文件（File）
   - utils tools
     - [fs-extra](https://github.com/jprichardson/node-fs-extra) - 作为官方原生 [`fs`](https://nodejs.org/api/fs.html) 模块的补充和优化。
@@ -337,9 +342,6 @@ _see also 👉  [JS-工具库](./awesome-dev-web-front-end.md#js-工具库) | [a
     - [filesize.js](https://filesizejs.com/) - 测量文件大小并以人类可读的方式展示。
     - [fdir](https://thecodrr.github.io/fdir/) - 最快的目录搜索器。
     - [Tmp](https://github.com/raszi/node-tmp) - 生成临时文件和目录。
-    - matching 
-      - [minimatch](https://github.com/isaacs/minimatch)
-      - [globby](https://github.com/sindresorhus/globby) - 基于 `fast-glob`，模式匹配。
   - html/xml
     - [jsdom](https://github.com/jsdom/jsdom) - Web 标准的纯 JavaScript 实现。
     - [cheerio](https://cheerio.js.org/) - 包装了[parse5](https://github.com/inikulin/parse5) 和 [htmlparser2](https://github.com/fb55/htmlparser2/) 的轻量级 HTML 文档解析库，具有类 jQuery 的 api。
