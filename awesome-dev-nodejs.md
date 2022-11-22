@@ -483,6 +483,7 @@ _see also 👉  [JS-工具库](./awesome-dev-web-front-end.md#js-工具库) | [a
 - Concurrent / Parallel
   - [concurrently](https://github.com/open-cli-tools/concurrently) - 并行执行多个命令。
   - [npm-run-all](https://github.com/mysticatea/npm-run-all)
+  - [wireit](https://github.com/google/wireit) - 任务运行器。
 
 [`Go Top ↑`](#awesome-nodejs-list)
 
