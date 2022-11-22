@@ -318,6 +318,7 @@ _see also 👉  [Node.JS-工具库](./awesome-dev-nodejs.md#工具库)_
 
 - 深度相等判断（Equal depth）
   - [fast-deep-equal](https://github.com/epoberezkin/fast-deep-equal) - 高性能，支持比较 ES6 Map, Set 和 Typed arrays。（:warning: 不再更新）
+  - [dequal](https://github.com/lukeed/dequal)
   - [microdiff](https://github.com/AsyncBanana/microdiff) - 高性能数组与对象的相等比较。
   - [diff](https://github.com/kpdecker/jsdiff) - 文本差异算法。
 
