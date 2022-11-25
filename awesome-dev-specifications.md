@@ -51,6 +51,7 @@
   - [gltfpack](https://github.com/zeux/meshoptimizer/tree/master/gltf) - 命令行工具，glTF 模型压缩工具。
   - [Draco](https://google.github.io/draco/) - 3D 数据压缩工具。
   - [glTF-Transform](https://gltf-transform.donmccurdy.com/index.html) - 处理 glTF 模型文件的 SDK。
+  - [glTF Pipeline](https://github.com/CesiumGS/gltf-pipeline)
   - viewer
     - [gltf.report](https://gltf.report/) - glTF 模型查看、压缩。
     - [gltf-viewer](https://gltf-viewer.donmccurdy.com/)
