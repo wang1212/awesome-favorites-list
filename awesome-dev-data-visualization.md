@@ -20,12 +20,12 @@ _Reference documentation._
 
 _see also :point_right: [计算机图形学读物](https://github.com/wang1212/awesome-favorites-list/blob/master/awesome-reading.md#%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%9B%BE%E5%BD%A2%E5%AD%A6)_
 
-- 数据可视化
+- 数据可视化（Data Visualization）
   - [from Data to Viz](https://www.data-to-viz.com/) - 数据可视化决策工具。
   - [The Data Visualisation Catalogue](https://datavizcatalogue.com/) - 数据可视化目录。
   - [Google Material Design Data visualization](https://material.io/design/communication/data-visualization.html)
 
-- 学习资料（Docs）
+- 文档资料（Docs）
   - [OpenGL Wiki](https://www.khronos.org/opengl/wiki)   
   - [Graphics Related Lessons](https://github.com/gfxfundamentals)
     - [WebGL Fundamentals](https://webglfundamentals.org/) - WebGL 基础知识。
@@ -35,9 +35,9 @@ _see also :point_right: [计算机图形学读物](https://github.com/wang1212/a
   - [WebGL Guide](https://xem.github.io/articles/webgl-guide.html) - _WebGL 技术指南。_
   - [Advanced Graphics Algorithms](https://sites.google.com/site/csc8820/educational/course-overview) - 一些图形算法介绍。
   - [Discover three.js](https://discoverthreejs.com/book/) - 介绍了开始探索 3D Web 图形所需的所有重要概念和术语。
-  
+  - [High Dynamic Range Image Encodings](http://www.anyhere.com/gward/hdrenc/hdr_encodings.html)
 
-- 公共资源
+- 公共资源（Public Resource）
   - [Shadertoy](https://www.shadertoy.com/) - 着色器代码分享。
   - [ambientCG](https://ambientcg.com/) - 公共领域基于物理渲染的资源。
 
