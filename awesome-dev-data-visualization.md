@@ -40,6 +40,8 @@ _see also :point_right: [计算机图形学读物](https://github.com/wang1212/a
 - 公共资源（Public Resource）
   - [Shadertoy](https://www.shadertoy.com/) - 着色器代码分享。
   - [ambientCG](https://ambientcg.com/) - 公共领域基于物理渲染的资源。
+  - [CGAXIS](https://cgaxis.com/) - PBR 材质、3D 模型等资源。
+  - [textures.com](https://www.textures.com/) - 提供各种材质的纹理资源。
 
 [`Go Top ↑`](#awesome-data-visualization-list)
 
