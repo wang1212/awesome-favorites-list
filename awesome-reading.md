@@ -253,7 +253,10 @@ _Computer Graphics._
 - [《Learn OpenGL》](https://learnopengl.com/) - 学习 OpenGL，**可在线免费阅读**。
 - [《WebGL Insights》](https://webglinsights.github.io/index.html) - **免费阅读**。
 - 《HTML5 Canvas 核心技术》[美] David Geary
-- [《THE PBR GUIDE BY ALLEGORITHMIC》](https://substance3d.adobe.com/tutorials/courses/the-pbr-guide-part-1) - 基于物理的渲染（PBR）和着色理论。
+- PBR
+  - [《THE PBR GUIDE BY ALLEGORITHMIC》](https://substance3d.adobe.com/tutorials/courses/the-pbr-guide-part-1) - 基于物理的渲染（PBR）和着色理论。
+  - [Basic Theory of Physically-Based Rendering](https://marmoset.co/posts/basic-theory-of-physically-based-rendering/)
+  - [Physically-Based Rendering, And You Can Too!](https://marmoset.co/posts/physically-based-rendering-and-you-can-too/)
 
 #### 数据库
 
