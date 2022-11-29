@@ -22,17 +22,24 @@
 
 *Application store.*
 
-- [APKMirror](https://www.apkmirror.com/) - 安卓应用下载网站，更新较为及时。
-- [APKPure](https://apkpure.com/)
-- [APKLinker](https://www.apklinker.com/)
-- [Apk Follow](https://www.apkfollow.com/)
 - [softonic](https://en.softonic.com) - 覆盖全端软件的下载网站。
 - [SourceForge.net](https://sourceforge.net/)
 - [OSDN](https://osdn.net/) - 开源软件下载。
-- [F-Droid.](https://f-droid.org/) - 安卓自由开源软件（FOSS）仓库。
-- [Product Hunt](https://www.producthunt.com/) - 最受欢迎的科技产品发布站点。
-- [PortableApps.com Platform](https://portableapps.com/) - 便携式应用平台和商店。
-- [Windhawk](https://windhawk.net/) - Windows 程序的定制市场。
+- [softpedia](https://www.softpedia.com/)
+- PC
+  - [Windhawk](https://windhawk.net/) - Windows 程序的定制市场。
+- Portable Apps (PC)
+  - [PortableApps.com Platform](https://portableapps.com/) - 便携式应用平台和商店。
+  - [Portapps](https://portapps.io/)
+  - [Portable Freeware Collection](https://www.portablefreeware.com/)
+- Mobile Apps
+  - [APKMirror](https://www.apkmirror.com/) - 安卓应用下载网站，更新较为及时。
+  - [F-Droid.](https://f-droid.org/) - 安卓自由开源软件（FOSS）仓库。
+  - [APKPure](https://apkpure.com/)
+  - [APKLinker](https://www.apklinker.com/)
+  - [Apk Follow](https://www.apkfollow.com/)
+- Others
+  - [Product Hunt](https://www.producthunt.com/) - 最受欢迎的科技产品发布站点。
 
 [`Go Top ↑`](#awesome-software)
 
