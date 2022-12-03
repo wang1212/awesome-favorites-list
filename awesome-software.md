@@ -140,6 +140,7 @@
   - [iLoveIMG](https://www.iloveimg.com/zh-cn)
   - [Doka.Photo](https://doka.photo/) - 免费在线图片编辑工具。
   - [Online GIF tools](https://onlinegiftools.com/) - 在线 gif 工具。
+  - [Ezgif.com](https://ezgif.com/) - gif 制作工具和编辑工具集。
 
 - 图片压缩（Image Compression）
   - [Compress Image Online](https://compressimage.io/)
