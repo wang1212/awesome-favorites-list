@@ -91,6 +91,7 @@ _see also :point_right: [计算机图形学读物](https://github.com/wang1212/a
   - :point_right: React.js
     - [react-digraph](https://github.com/uber/react-digraph) - 有向图编辑器。
   - [PixiJS](https://www.pixijs.com/) - 2D WebGL 渲染引擎，高性能。
+  - [Vega-Lite](https://vega.github.io/vega-lite/) - 数据分析领域的交互式图形语法。
 
 - 动画引擎（Animation Engine） 
   - Tools
