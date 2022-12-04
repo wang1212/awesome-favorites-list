@@ -155,6 +155,7 @@ _see also :point_right: [计算机图形学读物](https://github.com/wang1212/a
   - [uPlot](https://github.com/leeoniya/uPlot) - 快速、轻量级的图表库。
   - [webdatarocks](https://www.webdatarocks.com/) - 创建透视表，**免费**。
   - [wordcloud2.js](https://github.com/timdream/wordcloud2.js) - 词云。
+  - [cal-heatmap](https://cal-heatmap.com/) - 日历热图。
   - :point_right: React.js
     - [reaviz](https://github.com/reaviz) - 一系列 React 数据可视化组件。
     - [react-flow](https://reactflow.dev/) - 可视化工具库，构建流程图等。
