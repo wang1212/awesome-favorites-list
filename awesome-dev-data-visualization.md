@@ -77,8 +77,6 @@ _see also :point_right: [计算机图形学读物](https://github.com/wang1212/a
     - [react-three-fiber](https://docs.pmnd.rs/react-three-fiber/getting-started/introduction) - 可视化库，React.js 的 Threejs 渲染器。
     - [React Unity WebGL](https://react-unity-webgl.dev/)
 
-- [Babylon.js](https://www.babylonjs.com/) - 游戏渲染引擎。
-
 - 2D (Canvas/SVG/WebGL)
   - [_Canvas Engines Comparison_](https://github.com/slaylines/canvas-engines-comparison) 
   - [Rough.js](https://roughjs.com/) - 创建具有手绘风格的草图图形。
@@ -88,10 +86,10 @@ _see also :point_right: [计算机图形学读物](https://github.com/wang1212/a
   - [EaselJS](https://createjs.com) - 工具套件，包含 Canvas、Web Audio 等工具库。
   - [Fabric.js](http://fabricjs.com/) - 2D 绘图库，支持 Canvas、SVG。
   - [Two.js](https://two.js.org/) - Web 2D 绘图工具库，基于 Canvas、Svg、WebGL。
-  - :point_right: React.js
-    - [react-digraph](https://github.com/uber/react-digraph) - 有向图编辑器。
   - [PixiJS](https://www.pixijs.com/) - 2D WebGL 渲染引擎，高性能。
   - [Vega-Lite](https://vega.github.io/vega-lite/) - 数据分析领域的交互式图形语法。
+  - :point_right: React.js
+    - [react-digraph](https://github.com/uber/react-digraph) - 有向图编辑器。
 
 - 动画引擎（Animation Engine） 
   - Tools
@@ -109,6 +107,10 @@ _see also :point_right: [计算机图形学读物](https://github.com/wang1212/a
   - [tween.js](https://createjs.com/tweenjs) - 动画工具库。
   - [Shifty](https://jeremyckahn.github.io/shifty/doc/index.html) - 轻量级、高性能的低级动画工具库。
   - [scene.js](https://daybrush.com/scenejs/release/latest/doc/index.html) - 支持 JavaScript 和 CSS 的动画库。
+
+- 游戏引擎（Game Engine） 
+  - [Babylon.js](https://www.babylonjs.com/) - 3D 游戏渲染引擎。
+  - [Little.JS](https://killedbyapixel.github.io/LittleJS/docs/)  - 轻量级 2D 游戏渲染引擎。
 
 - Others
   - Text 2 Diagram
