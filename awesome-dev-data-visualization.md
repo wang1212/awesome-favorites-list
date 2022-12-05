@@ -42,6 +42,7 @@ _see also :point_right: [计算机图形学读物](https://github.com/wang1212/a
   - [ambientCG](https://ambientcg.com/) - 公共领域基于物理渲染的资源。
   - [CGAXIS](https://cgaxis.com/) - PBR 材质、3D 模型等资源。
   - [textures.com](https://www.textures.com/) - 提供各种材质的纹理资源。
+  - [Dwitter.net](https://beta.dwitter.net/) - 用简短的代码实现各种有趣的效果。
 
 [`Go Top ↑`](#awesome-data-visualization-list)
 
