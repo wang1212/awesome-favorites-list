@@ -90,10 +90,11 @@
 - 包开发（Package Development）
   - `npm publish` 
     - [np](https://github.com/sindresorhus/np) - 让发布更优雅、安全。
-    - [standard-version](https://github.com/conventional-changelog/standard-version) - 自动化版本管理和变更日志生成。
+    - [standard-version](https://github.com/conventional-changelog/standard-version) - 自动化版本管理和变更日志生成。（:warning: 不再维护）
     - [release-it](https://github.com/release-it/release-it)
     - [semantic-release](https://semantic-release.gitbook.io/semantic-release/) - CI 自动化版本管理和包发布。
     - [auto](https://intuit.github.io/auto/index) - CI 自动化发布。
+    - [release-please](https://github.com/googleapis/release-please)
   - [Denoify](https://github.com/garronej/denoify) - 为 npm 模块作者提供 Deno 支持。
 
 - 包搜索（Package Search）
