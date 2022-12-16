@@ -23,7 +23,7 @@
 *Application store.*
 
 - [softonic](https://en.softonic.com) - 覆盖全端软件的下载网站。
-- [SourceForge.net](https://sourceforge.net/)
+- [SourceForge.net](https://sourceforge.net/) - 开源和商业软件服务平台。
 - [OSDN](https://osdn.net/) - 开源软件下载。
 - [softpedia](https://www.softpedia.com/)
 - PC
@@ -388,7 +388,6 @@ _Learning._
 - [Sumatra PDF](https://www.sumatrapdfreader.org/) - windows 平台 PDF、CHM 等文件浏览器，**开源软件**。
 - [PDFsam Basic](https://pdfsam.org/zh/pdfsam-basic/) - 多平台支持的 PDF 拆分、合并、提取等工具，**开源软件**。
 
-
 #### 多媒体
 
 *Multimedia.*
@@ -398,10 +397,12 @@ _Learning._
 - [MPC-HC](https://mpc-hc.org/) - Windows 平台轻量的媒体播放器，**开源软件**。（:warning: 不再更新）
 - [Open Broadcaster Software](https://obsproject.com/) - 具有强大的录屏、截屏、流媒体传输等功能，**开源软件**。
 - [AIMP](http://www.aimp.ru/) - 专业级音频播放器，**免费软件**。
-- [HandBrake](https://handbrake.fr/) - 视频格式转换工具，**免费软件**。
+- [foobar2000](https://www.foobar2000.org/) - 高级音频播放器，**免费软件**。
+- [MPlayer](http://www.mplayerhq.hu/) - 视频播放器，**开源软件**。
+- [HandBrake](https://handbrake.fr/) - 视频格式转换工具，**开源软件**。
 - [FFmpeg](http://ffmpeg.org/) - 命令行工具，完整的、跨平台的解决方案，用于记录、转换和流传输音频和视频，**开源软件**。
   - [editly](https://github.com/mifi/editly)
-- [foobar2000](https://www.foobar2000.org/) - 高级音频播放器，**免费软件**。
+- [Freemake](https://www.freemake.com/2/) - 视频格式转换和下载软件，**免费软件**。
 
 #### 压缩文档
 
