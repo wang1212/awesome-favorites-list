@@ -24,6 +24,7 @@ _see also :point_right: [计算机图形学读物](https://github.com/wang1212/a
   - [from Data to Viz](https://www.data-to-viz.com/) - 数据可视化决策工具。
   - [The Data Visualisation Catalogue](https://datavizcatalogue.com/) - 数据可视化目录。
   - [Google Material Design Data visualization](https://material.io/design/communication/data-visualization.html)
+  - [AnyChart - Chartopedia](https://www.anychart.com/chartopedia/usage-type/) - 图表百科。
 
 - 文档资料（Docs）
   - [OpenGL Wiki](https://www.khronos.org/opengl/wiki)   
