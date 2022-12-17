@@ -314,10 +314,6 @@ _Learning._
 
 - [ShareX](https://getsharex.com/) - 截屏、录屏、文本转换、DNS 更换等等，生产力工具，**开源软件**。
 - [Snipaste](https://www.snipaste.com/) - 截图小工具，**免费软件**。
-- Clipboard
-  - [CopyQ](https://hluk.github.io/CopyQ/) - 粘贴板管理工具，**开源软件**。
-  - [Ditto](https://ditto-cp.sourceforge.io/) - 粘贴板管理工具，**开源软件**。
-  - [PasteEx](https://github.com/huiyadanli/PasteEx) - 将粘贴板内容保存成文件，**开源软件**。
 - [CopyTranslator](https://github.com/CopyTranslator/CopyTranslator) - 桌面划词翻译，**免费开源软件**。
 - [Rainmeter](https://www.rainmeter.net/) - Windows 桌面自定义小工具，**开源软件**。
 - [uTools](http://www.u.tools/) - 生产力工具，包含许多小工具，**免费软件**。
@@ -330,6 +326,21 @@ _Learning._
   - [carnac](http://carnackeys.com/) - 在屏幕上显示按键信息，**免费开源软件**。（:warning: 停止维护）
   - [Keyviz](https://mularahul.github.io/keyviz/) - **免费开源软件**。
 - [sharing](https://github.com/parvardegr/sharing) - 命令行工具，支持局域网设备间文件扫码共享和上传，粘贴板共享。
+
+#### 粘贴板
+
+_Clipboard._
+
+- [CopyQ](https://hluk.github.io/CopyQ/) - 粘贴板管理工具，**开源软件**。
+- [Ditto](https://ditto-cp.sourceforge.io/) - 粘贴板管理工具，**开源软件**。
+- [PasteEx](https://github.com/huiyadanli/PasteEx) - 将粘贴板内容保存成文件，**开源软件**。
+
+#### 待办列表
+
+_To-DO List._
+
+- [Task Coach](https://www.taskcoach.org/index.html) - **开源软件**。
+- [sleek](https://github.com/ransome1/sleek) - UI 美观现代化，**开源软件**。
 
 ### 浏览器
 
