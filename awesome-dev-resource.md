@@ -466,6 +466,7 @@ _see also 👉  [Web 端软件资源](./awesome-software.md#浏览器端)_
   - [VSCodium](https://vscodium.com/) - 社区驱动、免费许可的 VS Code 版本。
   - [Create Your Own VS Code Themes](https://themes.vscode.one/) - 创建 VS Code 主题。
 - [Sublime Text](http://www.sublimetext.com/) - 一款开源的轻量级编辑器，功能很强大，是在 VS Code、Atom 出现之前最受开发者欢迎的编辑器。
+- [CudaText](https://cudatext.github.io/index.html) - 跨平台的代码编辑器，大文件性能较好，**开源软件**。
 - [Eclipse](https://www.eclipse.org/) - 开源的重量级编辑器，功能非常强大，是 Java 开发者中使用最多的 IDE，**开源软件**。
 - [UltraEdit](https://www.ultraedit.com/) - 文本编辑器，功能强大，性能较好，**商业软件**。
 - [EmEditor](https://www.emeditor.com/) - 文本编辑器，功能强大，浏览大文件性能很好，**商业软件**。
