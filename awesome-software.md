@@ -125,6 +125,14 @@
   - [gifcap](https://gifcap.dev/) - 从屏幕录制制作 gif 动图。
   - [Deepl](https://www.deepl.com/translator) - 翻译。
 
+### 任务看板
+
+_Task board._
+
+- [Kanboard](https://kanboard.org/) - PHP 后端，**开源软件**。
+- [WeKan](https://wekan.github.io/) - Node.js 后端，**开源软件**。
+- [Taiga](https://www.taiga.io/) - Python 后端，**开源软件**。
+
 ### 文件处理
 
 *File processing tools.*
