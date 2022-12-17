@@ -132,6 +132,7 @@ _Task board._
 - [Kanboard](https://kanboard.org/) - PHP 后端，**开源软件**。
 - [WeKan](https://wekan.github.io/) - Node.js 后端，**开源软件**。
 - [Taiga](https://www.taiga.io/) - Python 后端，**开源软件**。
+- [Planka](https://planka.app/) - Node.js 后端，**开源软件**。
 
 ### 文件处理
 
