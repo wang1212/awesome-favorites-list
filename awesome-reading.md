@@ -90,6 +90,7 @@
 
 *Others.*
 
+- [Our World In Data](https://ourworldindata.org/) - 全球各行各业数据可视化新闻。
 - [Worldometers](https://www.worldometers.info/) - 全球实时数据统计。
 - [DataEye](https://www.dataeye.com/report) - 游戏行业白皮书。
 - [易车指数](http://index.bitauto.com/)
