@@ -436,6 +436,12 @@ _To-DO List._
 - [LibreOffice](https://www.libreoffice.org/) - OpenOffice 分支项目，免费，**开源软件**。
 - [WPS Office](https://www.wps.cn/) - 国产软件，多端支持，移动端非常好用，个人使用免费，**商业软件**。
 
+### 思维导图
+
+_Mind Mapping._
+
+- [Freeplane](https://docs.freeplane.org/) - **开源软件**。
+
 ### 文本编辑
 
 *Text Editor.*
