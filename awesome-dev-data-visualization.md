@@ -28,6 +28,7 @@ _see also :point_right: [计算机图形学读物](https://github.com/wang1212/a
   - [Dataviz Inspiration](https://www.dataviz-inspiration.com/) - 数据可视化灵感，案例。
 
 - 文档资料（Docs）
+  - [InfoVis:Wiki](https://infovis-wiki.net/wiki/Main_Page) - 信息可视化社区平台。
   - [OpenGL Wiki](https://www.khronos.org/opengl/wiki)   
   - [Graphics Related Lessons](https://github.com/gfxfundamentals)
     - [WebGL Fundamentals](https://webglfundamentals.org/) - WebGL 基础知识。
