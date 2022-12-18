@@ -255,10 +255,11 @@ _Computer Graphics._
 - [《WebGL Insights》](https://webglinsights.github.io/index.html) - **免费阅读**。
 - 《HTML5 Canvas 核心技术》[美] David Geary
 - [《The Book of Shaders》](https://thebookofshaders.com/) - 着色器知识。
-- PBR
+- Physically Based Rendering (PBR)
   - [《THE PBR GUIDE BY ALLEGORITHMIC》](https://substance3d.adobe.com/tutorials/courses/the-pbr-guide-part-1) - 基于物理的渲染（PBR）和着色理论。
   - [Basic Theory of Physically-Based Rendering](https://marmoset.co/posts/basic-theory-of-physically-based-rendering/)
   - [Physically-Based Rendering, And You Can Too!](https://marmoset.co/posts/physically-based-rendering-and-you-can-too/)
+- [《Seeing Theory》](https://seeing-theory.brown.edu/index.html) Daniel Kunin - 视觉理论、统计学知识，**开源书籍**。
 
 #### 数据库
 
