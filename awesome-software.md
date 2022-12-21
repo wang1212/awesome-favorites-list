@@ -466,6 +466,7 @@ _Mind Mapping._
 - 笔记应用（Notes）
   - [Anki](https://apps.ankiweb.net/) - 便签记录学习工具，**开源软件**。
   - [Joplin](https://joplinapp.org/) - 笔记管理应用，可以同步、协作、分享，支持 Windows/macOS/Linux/Android/iOS 平台，**开源软件**。
+  - [eDiary](http://www.haoxg.net/ediary/index.html) - 本地笔记应用，功能丰富，**免费软件**。
 
 ### 设计工具
 
