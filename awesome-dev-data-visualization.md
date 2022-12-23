@@ -144,7 +144,7 @@ _see also :point_right: [计算机图形学读物](https://github.com/wang1212/a
   - [Frappe Charts](https://frappe.io/charts) - 基于 SVG 的高性能图表库。
   - [Charts.css](https://chartscss.org/) - CSS 图表库。
   - :point_right: React.js
-    - [React-Vis](https://uber.github.io/react-vis/) - 图表库，**Uber 团队开发**。
+    - [React-Vis](https://uber.github.io/react-vis/) - 图表库，**Uber 团队开发**。（:warning: 已被弃用）
     - [visx](https://airbnb.io/visx) - 图表库，基于 React.js 和 D3.js，**Airbnb 团队开发**。
     - [nivo](https://nivo.rocks/) - 图表库，基于 React.js 和 D3.js。
     - [Recharts](http://recharts.org/) - 图表库。
