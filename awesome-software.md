@@ -353,7 +353,11 @@ _Clipboard._
 - [Brave](https://brave.com/) - 安全为核心的浏览器。
 - [Vivaldi](https://vivaldi.com/) - 安全、隐私友好的浏览器。
 
-### 文件下载
+### 文件处理
+
+*File processing tools.*
+
+#### 下载工具
 
 *File download tool.*
 
@@ -365,11 +369,7 @@ _Clipboard._
 - [qBittorrent](https://www.qbittorrent.org/) - BitTorrent 下载工具，**开源软件**。
 - [aria2](https://aria2.github.io/) - 命令行工具，支持多协议、高速文件下载工具，**开源软件**。
 
-### 文件处理
-
-*File processing tools.*
-
-#### 文件管理工具
+#### 管理工具
 
 *File Management Tools.*
 
