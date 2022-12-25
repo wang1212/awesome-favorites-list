@@ -448,9 +448,24 @@ _To-DO List._
 
 #### 思维导图
 
-_Mind Mapping._
+_Mind mapping._
 
 - [Freeplane](https://docs.freeplane.org/) - **开源软件**。
+
+#### 设计工具
+
+*Software interface design, prototype drawing design, etc.*
+
+- 原型图（Prototype）
+  - [Pencil](http://pencil.evolus.vn/) - 原型图工具，**开源软件**。
+  - [Alva](https://meetalva.io/) - 原型图工具，**开源软件**。
+  - [axure](https://www.axure.com/) - 产品原型图设计，**商业软件**。
+  - [Sketch](https://www.sketch.com/) - 产品原型图设计，**商业软件**。
+  - [PxCook](https://www.fancynode.com.cn/pxcook) - 图片标注工具。
+
+- 图形设计（Graphics）
+  - [GIMP](https://www.gimp.org/) - 图像编辑器，**开源软件**。
+  - [Inkscape](https://inkscape.org/) - 设计工具，**免费软件**。
 
 ### 文本编辑
 
@@ -468,21 +483,6 @@ _Mind Mapping._
   - [Anki](https://apps.ankiweb.net/) - 便签记录学习工具，**开源软件**。
   - [Joplin](https://joplinapp.org/) - 笔记管理应用，可以同步、协作、分享，支持 Windows/macOS/Linux/Android/iOS 平台，**开源软件**。
   - [eDiary](http://www.haoxg.net/ediary/index.html) - 本地笔记应用，功能丰富，**免费软件**。
-
-### 设计工具
-
-*Software interface design, prototype drawing design, etc.*
-
-- 原型图（Prototype）
-  - [Pencil](http://pencil.evolus.vn/) - 原型图工具，**开源软件**。
-  - [Alva](https://meetalva.io/) - 原型图工具，**开源软件**。
-  - [axure](https://www.axure.com/) - 产品原型图设计，**商业软件**。
-  - [Sketch](https://www.sketch.com/) - 产品原型图设计，**商业软件**。
-  - [PxCook](https://www.fancynode.com.cn/pxcook) - 图片标注工具。
-
-- 图形设计（Graphics）
-  - [GIMP](https://www.gimp.org/) - 图像编辑器，**开源软件**。
-  - [Inkscape](https://inkscape.org/) - 设计工具，**免费软件**。
 
 ### 系统管理
 
@@ -502,7 +502,7 @@ _Mind Mapping._
 _Software application management._
 
 - [Geek Uninstaller](https://geekuninstaller.com/) - **提供免费版本**。
-- [IObit Uninstaller](https://www.iobit.com/en/advanceduninstaller.php) - **提供免费版本，有广告**。
+- [Bulk Crap Uninstaller](https://www.bcuninstaller.com/) - **开源软件**。
 
 #### USB Boot
 
