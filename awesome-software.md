@@ -344,13 +344,6 @@ _Clipboard._
 - [Ditto](https://ditto-cp.sourceforge.io/) - 粘贴板管理工具，**开源软件**。
 - [PasteEx](https://github.com/huiyadanli/PasteEx) - 将粘贴板内容保存成文件，**开源软件**。
 
-#### 待办列表
-
-_To-DO List._
-
-- [Task Coach](https://www.taskcoach.org/index.html) - **开源软件**。
-- [sleek](https://github.com/ransome1/sleek) - UI 美观现代化，**开源软件**。
-
 ### 浏览器
 
 *Browser.*
@@ -383,11 +376,12 @@ _To-DO List._
 - [Explorer++](https://explorerplusplus.com/) - 轻量级和快速的 Windows 文件管理器，**开源软件**。
 - [Listary](https://www.listary.com/) - 可快速搜索文件，打开应用软件，**个人用户免费**。
 - [Everything](https://www.voidtools.com/zh-cn/) - 文件快速搜索工具，**免费软件**。
-- [SpaceSniffer](http://www.uderzo.it/main_products/space_sniffer/index.html) - 磁盘扫描工具，可视化文件占比分析，**免费软件**。
-- Preview
+- 磁盘清理（Disk Cleanup）
+  - [SpaceSniffer](http://www.uderzo.it/main_products/space_sniffer/index.html) - 磁盘扫描工具，可视化文件占比分析，**免费软件**。
+  - [WizTree](https://wiztreefree.com/) - 磁盘空间分析工具，统计文件夹大小，**免费软件**。
+- 文件预览（Preview）
   - [QuickLook](https://pooi.moe/QuickLook/) - 文件内容预览工具，界面美观，**开源软件**。
   - [Seer](http://1218.io/) - 文件内容预览工具，界面较为简陋，**提供免费版本**。
-- [WizTree](https://wiztreefree.com/) - 磁盘空间分析工具，统计文件夹大小，**免费软件**。
 - [WinFR 界面版](https://www.disktool.cn/recovery/winfr.html) - 微软 [Windows File Recovery](https://apps.microsoft.com/store/detail/windows-file-recovery/9N26S50LN705) 的界面版，**非官方，免费软件**。
 - [PhotoRec](https://www.cgsecurity.org/wiki/PhotoRec) - 命令行工具，文件数据恢复软件，**开源软件**。
 - [Pandoc](https://pandoc.org/index.html) - 命令行工具，通用的文档转换器。
@@ -445,7 +439,14 @@ _To-DO List._
 - [LibreOffice](https://www.libreoffice.org/) - OpenOffice 分支项目，免费，**开源软件**。
 - [WPS Office](https://www.wps.cn/) - 国产软件，多端支持，移动端非常好用，个人使用免费，**商业软件**。
 
-### 思维导图
+#### 待办列表
+
+_To-DO List._
+
+- [Task Coach](https://www.taskcoach.org/index.html) - **开源软件**。
+- [sleek](https://github.com/ransome1/sleek) - UI 美观现代化，**开源软件**。
+
+#### 思维导图
 
 _Mind Mapping._
 
@@ -488,13 +489,20 @@ _Mind Mapping._
 *System management and maintenance tools.*
 
 - [CPU-Z](https://www.cpuid.com/softwares/cpu-z.html) - CPU 检测工具。
-- [LeoMoon CPU-V](https://leomoon.com/downloads/desktop-apps/leomoon-cpu-v/) - 检测 CPU 是否支持硬件虚拟化。
 - [GPU-Z](https://www.techpowerup.com/gpuz/) - GPU 检测工具。
+- [LeoMoon CPU-V](https://leomoon.com/downloads/desktop-apps/leomoon-cpu-v/) - 检测 CPU 是否支持硬件虚拟化。
 - [Dism++](https://www.chuyu.me/) - 实用的系统优化维护工具。
 - [WhatPulse](https://whatpulse.org/) - 记录 PC 活动情况，例如统计键盘热力图、带宽情况等等，**提供免费版本**。
 - [Dns Jumper](https://www.sordum.org/7952/dns-jumper-v2-2/) - 测速、快速切换 DNS 工具，**免费软件**。
 - [SwitchHosts](https://swh.app/) - 快速切换 hosts 方案的实用工具，**免费开源软件**。
 - [Process Lasso](https://bitsum.com/) - 实时的 CPU 资源自动调度，保证系统级别的响应能力，**提供免费版本**。
+
+#### 软件应用管理
+
+_Software application management._
+
+- [Geek Uninstaller](https://geekuninstaller.com/) - **提供免费版本**。
+- [IObit Uninstaller](https://www.iobit.com/en/advanceduninstaller.php) - **提供免费版本，有广告**。
 
 #### USB Boot
 
@@ -508,7 +516,7 @@ _Mind Mapping._
   - [UNetbootin](http://unetbootin.github.io/) - 制作 Linux Live USB。
   - [Etcher](https://www.balena.io/etcher) - 制作 Linux Live USB。
 
-### 远程桌面
+#### 远程桌面
 
 _Virtual desktop, remote login._
 
