@@ -26,6 +26,7 @@
 - [SourceForge.net](https://sourceforge.net/) - 开源和商业软件服务平台。
 - [OSDN](https://osdn.net/) - 开源软件下载。
 - [softpedia](https://www.softpedia.com/)
+- [AlternativeTo](https://alternativeto.net/) - 寻找替代软件。
 - PC
   - [Windhawk](https://windhawk.net/) - Windows 程序的定制市场。
 - Portable Apps (PC)
