@@ -67,6 +67,7 @@ _see also :point_right: [计算机图形学读物](https://github.com/wang1212/a
     - [stackgl](http://stack.gl/) - 编写着色器代码的工具集。
     - [gl-matrix](https://glmatrix.net/) - 为 WebGL 应用提供高性能的矩阵属性运算能力。
   - [three.js](https://threejs.org/) - 3D WebGL 渲染引擎。
+    - [three-stdlib](https://github.com/pmndrs/three-stdlib) - 用 TypeScript 重写的 [`threejs/examples/jsm`](https://github.com/mrdoob/three.js/tree/dev/examples/jsm) 的独立 npm 包。
     - [postprocessing](https://pmndrs.github.io/postprocessing/public/docs/) - 后处理效果工具库。
     - [meshline](https://github.com/pmndrs/meshline) - 替代 `THREE.Line` 绘制线，可设置线宽等。
     - [3D tiles](https://github.com/CesiumGS/3d-tiles/tree/main/specification)
