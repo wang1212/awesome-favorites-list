@@ -187,6 +187,7 @@ _UI Design System, provides a base system for building a design system._
 - [Prime React](https://www.primefaces.org/primereact/)
 - [react-desktop](http://reactdesktop.js.org/) - 桌面端 UI 组件库，基于 macOS Sierra 和 Windows 10 主题设计。
   - [react-windows-ui](https://virtualvivek.github.io/react-windows-ui/) - 构建 Windows 的 fluent UI 风格的 Web APP。
+  - [React95](https://github.com/react95-io/React95) - Windows 95 的 UI 组件。
 
 ### 独立组件
 
