@@ -453,6 +453,12 @@ _File sharing._
 - [LibreOffice](https://www.libreoffice.org/) - OpenOffice 分支项目，免费，**开源软件**。
 - [WPS Office](https://www.wps.cn/) - 国产软件，多端支持，移动端非常好用，个人使用免费，**商业软件**。
 
+#### 电子邮件
+
+_Email client._
+
+- [Thunderbird](https://www.thunderbird.net/) - 电子邮件客户端应用，支持插件，**开源软件**。
+
 #### 待办列表
 
 _To-DO List._
