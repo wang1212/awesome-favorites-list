@@ -422,6 +422,7 @@ _Screen recording and screenshots._
 - [MPlayer](http://www.mplayerhq.hu/) - 视频播放器，**开源软件**。
 - [HandBrake](https://handbrake.fr/) - 视频格式转换工具，**开源软件**。
 - [FFmpeg](http://ffmpeg.org/) - 命令行工具，完整的、跨平台的解决方案，用于记录、转换和流传输音频和视频，**开源软件**。
+  - [LosslessCut](https://github.com/mifi/lossless-cut) - GUI 客户端。
   - [editly](https://github.com/mifi/editly)
 
 #### 压缩文档
