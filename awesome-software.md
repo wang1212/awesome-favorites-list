@@ -327,7 +327,6 @@ _Learning._
 - [Rainmeter](https://www.rainmeter.net/) - Windows 桌面自定义小工具，**开源软件**。
 - [uTools](http://www.u.tools/) - 生产力工具，包含许多小工具，**免费软件**。
 - [Module Art](https://moduleart.github.io/) - 软件集合，包含图片浏览器、录屏软件等，**开源软件**。
-- [sharing](https://github.com/parvardegr/sharing) - 命令行工具，支持局域网设备间文件扫码共享和上传，粘贴板共享。
 
 #### 粘贴板
 
@@ -348,6 +347,13 @@ _Screen recording and screenshots._
 - [PicPick](https://picpick.app/zh/) - 全功能设计工具，支持截屏、录屏、白板、坐标测量、屏幕取色，**提供个人免费版本**。
 - [carnac](http://carnackeys.com/) - 在屏幕上显示按键信息，**免费开源软件**。（:warning: 停止维护）
 - [Keyviz](https://mularahul.github.io/keyviz/) - **免费开源软件**。
+
+#### 文件共享
+
+_File sharing._
+
+- [qrcp](https://github.com/claudiodangelis/qrcp) - 命令行工具，**开源软件**。
+- [sharing](https://github.com/parvardegr/sharing) - 命令行工具，支持局域网设备间文件扫码共享和上传，粘贴板共享。**开源软件**。
 
 ### 浏览器
 
