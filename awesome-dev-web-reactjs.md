@@ -253,7 +253,6 @@ _UI Design System, provides a base system for building a design system._
   - [React Move](https://react-move-docs.netlify.app/) - 动画工具。
   - [Renature](https://formidable.com/open-source/renature/) - 物理动画库。
   - [React Awesome Reveal](https://react-awesome-reveal.morello.dev/) - 基于 [Intersection Observer API](https://developer.mozilla.org/en-US/docs/Web/API/Intersection_Observer_API) 和 [Animate.css](https://animate.style/) 的动画库。
-  - [React Spinners](https://www.davidhu.io/react-spinners/) - 丰富的 Loading 动画。
   - [react-confetti](https://github.com/alampros/react-confetti) - 五彩纸屑动画。
   - [React DOM Confetti](https://daniel-lundin.github.io/react-dom-confetti/) - 五彩纸屑动画。
   - [react-number-easing](https://javier.xyz/react-number-easing/) - 数字滚动动画。
@@ -279,6 +278,10 @@ _UI Design System, provides a base system for building a design system._
   - [React Live](https://react-live.netlify.app/) - 交互式代码编辑器。
   - [react-page](https://react-page.github.io/) - 可编辑页面。
 
+- 加载器（Loading / Spinners）
+  - [React Spinners](https://www.davidhu.io/react-spinners/) - 丰富的 Loading 动画。
+  - [@uiball/loaders](https://uiball.com/loaders/) - loading 加载器。
+
 - 其它（Others）
   - [react-tooltip](https://react-tooltip.com/)  
   - [React PDF](https://projects.wojtekmaj.pl/react-pdf/) - pdf 文件预览组件。
@@ -290,7 +293,6 @@ _UI Design System, provides a base system for building a design system._
   - [react-responsive](https://github.com/contra/react-responsive) - 响应式 UI 工具组件。
   - [use-count-up](https://github.com/vydimitrov/use-count-up) - 计数器。
   - [react-markdown](https://remarkjs.github.io/react-markdown/) - markdown 渲染组件。
-  - [@uiball/loaders](https://uiball.com/loaders/) - loading 加载器。
   - [kbar](https://kbar.vercel.app/) - 为页面添加键盘快捷键导航功能界面。
   - [react-svg](https://github.com/tanem/react-svg) - 页面注入 SVG。
   - [react-sketch-canvas](https://github.com/vinothpandian/react-sketch-canvas) - 使用 SVG 作为画布的 React 手绘矢量绘图组件。
