@@ -179,10 +179,6 @@ _see also :point_right: [计算机图形学读物](https://github.com/wang1212/a
 - CSS
   - [Animate.css](https://daneden.github.io/animate.css/) - 丰富的 CSS 动画工具库。
   - [magic.css](https://www.minimamente.com/project/magic/)  - CSS3 动画。
-  - [Hover.css](http://ianlunn.github.io/Hover/) - 添加鼠标悬停动画效果。（:warning: 不再更新）
-  - [CSShake](https://elrumordelaluz.github.io/csshake/) - 抖动效果。
-  - [Imagehover.css](http://imagehover.io/) - 添加鼠标悬停，图片动画效果。（:warning: 不再更新）
-  - [Whirl](https://whirl.netlify.app/) - CSS Loading 动画。
   - [Transition.css](https://transition.style/) - CSS 过渡动画。
 
 - SVG
