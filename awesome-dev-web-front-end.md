@@ -184,6 +184,14 @@
   - [clsx](https://github.com/lukeed/clsx) - 非常轻量的 CSS 类名拼接工具。
   - [polished](https://polished.js.org/) - CSS 样式辅助工具。
 
+- 交互效果
+  - [Hover.css](http://ianlunn.github.io/Hover/) - 添加鼠标悬停动画效果。（:warning: 不再更新）
+  - [Imagehover.css](http://imagehover.io/) - 添加鼠标悬停，图片动画效果。（:warning: 不再更新）
+  - [CSShake](https://elrumordelaluz.github.io/csshake/) - 抖动效果。
+
+- 加载器（Loading / Spinners）
+  - [Whirl](https://whirl.netlify.app/) - CSS Loading 动画。
+
 [`Go Top ↑`](#awesome-web-front-end-list)
 
 ## JavaScript
