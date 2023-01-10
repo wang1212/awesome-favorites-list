@@ -637,6 +637,7 @@ _[Open UI](https://open-ui.org/)_
 - 窗口布局（Window layout）
   - [WinBox](https://nextapps-de.github.io/winbox/) - 窗口组件。
   - [golden-layout](http://golden-layout.com/) - 多窗口布局管理。
+  - [split.js](https://split.js.org/) - 可拆分调整大小的窗口布局。
 
 - HTML 邮件（HTML Email）
   - [mjml](https://mjml.io/)
