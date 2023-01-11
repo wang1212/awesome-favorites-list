@@ -493,7 +493,7 @@ _Mind mapping._
 
 - 编辑器（Editor）
   - [Zettlr](https://www.zettlr.com/) - Markdown 文本编辑器，很漂亮，功能很强大，**开源软件**。
-  - [Mark Text](https://marktext.app/) - Markdown 文本编辑器，支持所见即所得，**开源软件**。
+  - [Mark Text](https://github.com/marktext/marktext) - Markdown 文本编辑器，支持所见即所得，**开源软件**。
   - [Abricotine](http://abricotine.brrd.fr/) - Markdown 文本编辑器，**开源软件**。
   - [ghostwriter](https://wereturtle.github.io/ghostwriter/) - Markdown 文本编辑器，**开源软件**。
   - [remarkableapp](https://remarkableapp.github.io/index.html) - Markdown 文本编辑器，目前主要支持 Linux 平台，**开源软件**。
