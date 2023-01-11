@@ -125,6 +125,7 @@ _see also :point_right: [计算机图形学读物](https://github.com/wang1212/a
     - [PlantUML](https://plantuml.com/) - 快速使用简洁的文本描述生成 UML 图。
     - [Pintora](https://pintorajs.vercel.app/) - 利用可扩展的文本绘制成图表。
     - [MathJax](https://www.mathjax.org/) - 浏览器中的数学公式可视化引擎。
+    - [flowchart.js](http://flowchart.js.org/) - 流程图。
   - [Textures.js](https://riccardoscalco.it/textures/) - 创建 SVG 模式。
   - [ztext.js](https://bennettfeely.com/ztext/) - 实现文字 3D 效果。
   - [P5.js](https://p5js.org/) - 可视化工具。
