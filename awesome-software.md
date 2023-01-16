@@ -476,7 +476,7 @@ _Note application._
 - [Anki](https://apps.ankiweb.net/) - 便签记录学习工具，支持多个平台，**开源软件**。
 - [Joplin](https://joplinapp.org/) - 笔记管理应用，可以同步、协作、分享，支持 Windows/macOS/Linux/Android/iOS 平台，**开源软件**。
 - [eDiary](http://www.haoxg.net/ediary/index.html) - 本地笔记应用，功能丰富，**免费软件**。
-- [Lepton](https://hackjutsu.com/Lepton/) - 代码片段管理，有 GitHub Gist 驱动，**开源软件**。
+- [Lepton](https://hackjutsu.com/Lepton/) - 代码片段管理，由 GitHub Gist 驱动，**开源软件**。
 
 #### 思维导图
 
