@@ -135,12 +135,6 @@ _Task board._
 - [Taiga](https://www.taiga.io/) - Python 后端，**开源软件**。
 - [Planka](https://planka.app/) - Node.js 后端，**开源软件**。
 
-### 笔记应用
-
-_Note application._
-
-- [Trilium Notes](https://github.com/zadam/trilium) - 支持自托管的 Web 应用，也支持桌面端，**开源软件**。
-
 ### 文件处理
 
 *File processing tools.*
@@ -472,6 +466,15 @@ _To-DO List._
 - [Task Coach](https://www.taskcoach.org/index.html) - **开源软件**。
 - [sleek](https://github.com/ransome1/sleek) - UI 美观现代化，**开源软件**。
 
+#### 笔记应用
+
+_Note application._
+
+- [Trilium Notes](https://github.com/zadam/trilium) - 也支持自托管的 Web 应用，**开源软件**。
+- [Anki](https://apps.ankiweb.net/) - 便签记录学习工具，支持多个平台，**开源软件**。
+- [Joplin](https://joplinapp.org/) - 笔记管理应用，可以同步、协作、分享，支持 Windows/macOS/Linux/Android/iOS 平台，**开源软件**。
+- [eDiary](http://www.haoxg.net/ediary/index.html) - 本地笔记应用，功能丰富，**免费软件**。
+
 #### 思维导图
 
 _Mind mapping._
@@ -497,18 +500,12 @@ _Mind mapping._
 
 *Text Editor.*
 
-- 编辑器（Editor）
-  - [Zettlr](https://www.zettlr.com/) - Markdown 文本编辑器，很漂亮，功能很强大，**开源软件**。
-  - [Mark Text](https://github.com/marktext/marktext) - Markdown 文本编辑器，支持所见即所得，**开源软件**。
-  - [Abricotine](http://abricotine.brrd.fr/) - Markdown 文本编辑器，**开源软件**。
-  - [ghostwriter](https://wereturtle.github.io/ghostwriter/) - Markdown 文本编辑器，**开源软件**。
-  - [remarkableapp](https://remarkableapp.github.io/index.html) - Markdown 文本编辑器，目前主要支持 Linux 平台，**开源软件**。
-  - [Typora](https://www.typora.io/) - Markdown 文本编辑器，支持所见即所得，功能丰富，**测试版免费，1.0.0 开始收费**。
-
-- 笔记应用（Notes）
-  - [Anki](https://apps.ankiweb.net/) - 便签记录学习工具，**开源软件**。
-  - [Joplin](https://joplinapp.org/) - 笔记管理应用，可以同步、协作、分享，支持 Windows/macOS/Linux/Android/iOS 平台，**开源软件**。
-  - [eDiary](http://www.haoxg.net/ediary/index.html) - 本地笔记应用，功能丰富，**免费软件**。
+- [Zettlr](https://www.zettlr.com/) - Markdown 文本编辑器，很漂亮，功能很强大，**开源软件**。
+- [Mark Text](https://github.com/marktext/marktext) - Markdown 文本编辑器，支持所见即所得，**开源软件**。
+- [Abricotine](http://abricotine.brrd.fr/) - Markdown 文本编辑器，**开源软件**。
+- [ghostwriter](https://wereturtle.github.io/ghostwriter/) - Markdown 文本编辑器，**开源软件**。
+- [remarkableapp](https://remarkableapp.github.io/index.html) - Markdown 文本编辑器，目前主要支持 Linux 平台，**开源软件**。
+- [Typora](https://www.typora.io/) - Markdown 文本编辑器，支持所见即所得，功能丰富，**测试版免费，1.0.0 开始收费**。
 
 ### 系统管理
 
