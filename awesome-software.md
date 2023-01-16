@@ -135,6 +135,12 @@ _Task board._
 - [Taiga](https://www.taiga.io/) - Python 后端，**开源软件**。
 - [Planka](https://planka.app/) - Node.js 后端，**开源软件**。
 
+### 笔记应用
+
+_Note application._
+
+- [Trilium Notes](https://github.com/zadam/trilium)
+
 ### 文件处理
 
 *File processing tools.*
