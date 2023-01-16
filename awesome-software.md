@@ -470,7 +470,9 @@ _To-DO List._
 
 _Note application._
 
-- [Trilium Notes](https://github.com/zadam/trilium) - 也支持自托管的 Web 应用，**开源软件**。
+- [Trilium Notes](https://github.com/zadam/trilium) - 功能丰富的笔记应用，也支持自托管的 Web 应用，**开源软件**。
+- [Notable](https://notable.app/) - 基于 Markdown 的笔记应用，**开源软件**。
+- [VNote](https://app.vnote.fun/) - 简单的笔记应用，**开源软件**。
 - [Anki](https://apps.ankiweb.net/) - 便签记录学习工具，支持多个平台，**开源软件**。
 - [Joplin](https://joplinapp.org/) - 笔记管理应用，可以同步、协作、分享，支持 Windows/macOS/Linux/Android/iOS 平台，**开源软件**。
 - [eDiary](http://www.haoxg.net/ediary/index.html) - 本地笔记应用，功能丰富，**免费软件**。
