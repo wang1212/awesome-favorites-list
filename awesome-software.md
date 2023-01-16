@@ -139,7 +139,7 @@ _Task board._
 
 _Note application._
 
-- [Trilium Notes](https://github.com/zadam/trilium)
+- [Trilium Notes](https://github.com/zadam/trilium) - 支持自托管的 Web 应用，也支持桌面端，**开源软件**。
 
 ### 文件处理
 
