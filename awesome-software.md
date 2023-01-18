@@ -576,11 +576,12 @@ _[DistroWatch](https://distrowatch.com/) - 一个讨论开源操作系统的论�
         - [Rocky Linux](https://rockylinux.org/) - 基于 CentOS，企业级 Linux，**社区驱动，非 RedHat 官方**。
   - [openSUSE](https://www.opensuse.org/)
   - [Arch Linux](https://archlinux.org/) - 轻量和灵活的 Linux 系统。
-  - [Mint](https://www.linuxmint.com/) - 基于 Ubuntu 和 Debian，拥有现代化的 UI，适合新手。
-  - [Manjaro](https://manjaro.org/) - 拥有现代化的 UI，适合新手。
   - [mageia](https://www.mageia.org/)
   - [Gentoo](https://www.gentoo.org/)
   - [Alpine Linux](https://alpinelinux.org/) - 面向安全的轻量级 Linux 系统，不提供 UI 界面。
+  - Personal use with GUI
+    - [Mint](https://www.linuxmint.com/) - 基于 Ubuntu 和 Debian，拥有现代化的 UI，适合新手。
+    - [Manjaro](https://manjaro.org/) - 拥有现代化的 UI，适合新手。
 
 - [FreeBSD](https://www.freebsd.org/)
 
