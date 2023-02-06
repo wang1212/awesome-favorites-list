@@ -258,6 +258,7 @@ _Computer Graphics._
 - [《Open.GL tutorial》](https://open.gl/) - 学习 OpenGL，**可在线免费阅读**。
 - 《HTML5 Canvas 核心技术》[美] David Geary
 - Physically Based Rendering (PBR)
+  - [《Physically Based Rendering:From Theory To Implementation》](https://www.pbr-book.org/) - 关于 PBR 的理论知识，**可在线免费阅读**。
   - [《THE PBR GUIDE BY ALLEGORITHMIC》](https://substance3d.adobe.com/tutorials/courses/the-pbr-guide-part-1) - 基于物理的渲染（PBR）和着色理论。
   - [Basic Theory of Physically-Based Rendering](https://marmoset.co/posts/basic-theory-of-physically-based-rendering/)
   - [Physically-Based Rendering, And You Can Too!](https://marmoset.co/posts/physically-based-rendering-and-you-can-too/)
