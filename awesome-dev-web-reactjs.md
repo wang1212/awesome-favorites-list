@@ -98,6 +98,7 @@ _（Recommend）推荐一个其它的很棒的收藏列表，:point_right: [reho
   - [useWorker](https://useworker.js.org/) - 使用 Web Worker 运行复杂任务，创建非阻塞 UI。
   - [use-deep-compare-effect](https://github.com/kentcdodds/use-deep-compare-effect) - `useEffect` 的深比较模式。
   - [react-laag](https://www.react-laag.com/) - 创建工具提示或者弹出框。
+  - [React Hotkeys Hook](https://react-hotkeys-hook.vercel.app/) - 以声明方式使用热键。
 
 [`Go Top ↑`](#awesome-reactjs-list)
 
