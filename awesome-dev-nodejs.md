@@ -571,7 +571,6 @@ _see also 👉  [JS-工具库](./awesome-dev-web-front-end.md#js-工具库) | [a
 - [NodeGui](https://docs.nodegui.org/)
 - [robot.js](https://robotjs.io/) - 桌面端自动化库。
 - [tauri](https://tauri.studio/)
-- [nativefier](https://github.com/nativefier/nativefier) - 将 Web 应用打包为一个桌面端应用。
 
 [`Go Top ↑`](#awesome-nodejs-list)
 
