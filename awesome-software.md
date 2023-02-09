@@ -558,7 +558,9 @@ _Virtual desktop, remote login._
 
 - [Syncthing](https://syncthing.net/) - 跨平台、跨设备文件同步工具，**开源软件**。
 - [FreeFileSync](https://freefilesync.org/) - 跨平台文件同步工具，**开源软件**。
-- [HTTrack](https://www.httrack.com/) - Web 站点离线工具。
+- Web 站点离线工具（Copy Website to offline view）
+  - [Cyotek WebCopy](https://www.cyotek.com/cyotek-webcopy) - **免费软件**。
+  - [HTTrack](https://www.httrack.com/) - **免费软件**。（:warning: 不再更新）
 
 [`Go Top ↑`](#awesome-software)
 
