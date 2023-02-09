@@ -434,6 +434,7 @@ _see also 👉  [JS-工具库](./awesome-dev-web-front-end.md#js-工具库) | [a
 
 - 其它（Others）
   - [ssh2](https://github.com/mscdex/ssh2) - SSH 客户端和服务器。
+  - [odiff](https://github.com/dmtrKovalenko/odiff) - 逐像素图片差异对比工具。
 
 [`Go Top ↑`](#awesome-nodejs-list)
 
