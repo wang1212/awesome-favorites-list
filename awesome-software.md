@@ -391,9 +391,6 @@ _File sharing._
   - [Listary](https://www.listary.com/) - 可快速搜索文件，打开应用软件，**个人用户免费**。
   - [Everything](https://www.voidtools.com/zh-cn/) - 文件快速搜索工具，**免费软件**。
   - [Anytxt Searcher](https://anytxt.net/) - 桌面全文检索工具，**免费软件**。
-- 磁盘清理（Disk Cleanup）
-  - [SpaceSniffer](http://www.uderzo.it/main_products/space_sniffer/index.html) - 磁盘扫描工具，可视化文件占比分析，**免费软件**。
-  - [WizTree](https://wiztreefree.com/) - 磁盘空间分析工具，统计文件夹大小，**免费软件**。
 - 文件预览（Preview）
   - [QuickLook](https://pooi.moe/QuickLook/) - 文件内容预览工具，界面美观，**开源软件**。
   - [Seer](http://1218.io/) - 文件内容预览工具，界面较为简陋，**提供免费版本**。
@@ -524,6 +521,14 @@ _Mind mapping._
 - [Dns Jumper](https://www.sordum.org/7952/dns-jumper-v2-2/) - 测速、快速切换 DNS 工具，**免费软件**。
 - [SwitchHosts](https://swh.app/) - 快速切换 hosts 方案的实用工具，**免费开源软件**。
 - [Process Lasso](https://bitsum.com/) - 实时的 CPU 资源自动调度，保证系统级别的响应能力，**提供免费版本**。
+
+#### 磁盘清理
+
+_Disk cleanup._
+
+- [SpaceSniffer](http://www.uderzo.it/main_products/space_sniffer/index.html) - 磁盘扫描工具，可视化文件占比分析，**免费软件**。
+- [WizTree](https://wiztreefree.com/) - 磁盘空间分析工具，统计文件夹大小，**免费软件**。
+- [CCleaner Free](https://www.ccleaner.com/) - 系统清理工具，**商业软件，提供免费版本**。
 
 #### 软件应用管理
 
