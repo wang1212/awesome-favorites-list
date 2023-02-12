@@ -607,5 +607,6 @@ _[DistroWatch](https://distrowatch.com/) - 一个讨论开源操作系统的论�
   - [HelloWindows.cn](https://hellowindows.cn/) 
 - [Free All We Need](https://free.appnee.com/) - 软件注册工具下载。
 - [冰点软件](http://www.bingdian001.com/) - 很多实用小工具，尤其冰点文库相当好用。
+- [Listen 1](https://listen1.github.io/listen1/) - 音乐聚合搜索。
 
 [`Go Top ↑`](#awesome-software)
