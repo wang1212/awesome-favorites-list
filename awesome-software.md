@@ -534,6 +534,7 @@ _Disk cleanup._
 
 _Software application management._
 
+- [HiBit Uninstaller](https://hibitsoft.ir/Uninstaller.html) - **免费软件**。
 - [Geek Uninstaller](https://geekuninstaller.com/) - **提供免费版本**。
 - [Bulk Crap Uninstaller](https://www.bcuninstaller.com/) - **开源软件**。
 
