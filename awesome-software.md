@@ -354,7 +354,15 @@ _Screen recording and screenshots._
 _File sharing._
 
 - [qrcp](https://github.com/claudiodangelis/qrcp) - 命令行工具，**开源软件**。
-- [sharing](https://github.com/parvardegr/sharing) - 命令行工具，支持局域网设备间文件扫码共享和上传，粘贴板共享。**开源软件**。
+- [sharing](https://github.com/parvardegr/sharing) - 命令行工具，支持局域网设备间文件扫码共享和上传，粘贴板共享，**开源软件**。
+
+#### 密码管理器
+
+_Password manager._
+
+- [KeePass](https://keepass.info/) - **开源软件**。
+- [Swifty](https://getswifty.pro/) - **开源软件**。
+- [Bitwarden](https://bitwarden.com/) - **商业软件，可自托管**。
 
 ### 浏览器
 
