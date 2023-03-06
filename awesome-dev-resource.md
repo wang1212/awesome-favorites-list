@@ -78,6 +78,7 @@
 
 - Others
   - [思谋学术](https://ac.scmor.com/) - 谷歌学术源。
+  - [Watt Toolkit](https://steampp.net/) - Steam 游戏加速，可加速 Github。
 
 [`Go Top ↑`](#awesome-development-resources)
 
