@@ -129,6 +129,7 @@ _（Recommend）其它收藏列表 :point_right: [olegrjumin/awesome-react-state
 - [React-Router](https://reacttraining.com/react-router/)
 - [Reach Router](https://reach.tech/router)
 - [react-location](https://github.com/tannerlinsley/react-location)
+- [wouter](https://github.com/molefrog/wouter) - 微型路由，零依赖，轻量级。
 
 [`Go Top ↑`](#awesome-reactjs-list)
 
@@ -241,6 +242,7 @@ _UI Design System, provides a base system for building a design system._
   - [React DnD](https://react-dnd.github.io/react-dnd/)
   - [dnd kit](https://dndkit.com/) - 轻量、高性能的拖放组件。
   - [react-rnd](https://github.com/bokuweb/react-rnd)- 拖放，调整大小。
+  - [react-resizable-panels](https://react-resizable-panels.vercel.app/) - 可调整大小的面板。
 
 - 大量数据渲染（Large amount of data rendering）
   - [react-virtualized](https://bvaughn.github.io/react-virtualized/)
