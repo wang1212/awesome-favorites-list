@@ -692,7 +692,7 @@ _[Open UI](https://open-ui.org/)_
   - [Backbone.js](https://backbonejs.org/) - 为 Web 应用开发引入 MVC 模型概念。
 
 - MVVM
-  - [Knockout。js](https://knockoutjs.com/)
+  - [Knockout.js](https://knockoutjs.com/)
 
 - [Angular.js](https://angularjs.org/) - 一个比较重型的功能齐全的前端开发框架，Google 公司发布。（:warning: 不再更新）
   - [Angular](https://angular.io/) - Angular.js 的继承者，支持全平台开发。
