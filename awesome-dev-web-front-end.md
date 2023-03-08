@@ -443,6 +443,7 @@ _see also 👉  [Node.JS-工具库](./awesome-dev-nodejs.md#工具库)_
 - [TypeScriptToLua](https://typescripttolua.github.io/) - 用 TypeScript 编写 Lua。
 - [type-fest](https://github.com/sindresorhus/type-fest) - 包含一系列工具类型的库。
 - [api-extractor](https://api-extractor.com/) - 帮助更好的管理 TypeScript 编写的包。
+- [ts-reset](https://github.com/total-typescript/ts-reset) - 增强内置类型。
 
 [`Go Top ↑`](#awesome-web-front-end-list)
 
