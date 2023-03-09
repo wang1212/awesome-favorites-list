@@ -164,6 +164,7 @@
 
 *[List of Free Learning Resources](https://ebookfoundation.github.io/free-programming-books/)*
 
+- [FreeComputerBooks.com](https://freecomputerbooks.com/)
 - [Programming Notes for Professionals books](https://goalkicker.com/)
 
 #### 数据结构与算法
