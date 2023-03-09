@@ -225,7 +225,6 @@ _Coding skills._
 - [PaperWeekly](http://www.paperweekly.site/) - 一个推荐、解读、讨论和报道人工智能前沿论文成果的学术平台。
 - [freeCodeCamp Learning](https://www.freecodecamp.org/learn/)
 - [Hackr.io](https://hackr.io/) - 课程分享与学习。
-  - [慕课网](https://www.imooc.com/) - 国内一个提供计算机开发技术学习课程收费服务的网站，有大量免费优质学习资源。
 
 [`Go Top ↑`](#awesome-development-resources)
 
