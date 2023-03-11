@@ -460,7 +460,7 @@ _see also 👉  [JS-工具库](./awesome-dev-web-front-end.md#js-工具库) | [a
   - [prompts](https://github.com/terkelg/prompts) - 轻量、漂亮的交互式命令行提示。
   - [inquirer](https://github.com/SBoudrias/Inquirer.js) - 交互式命令行。
   - [readlineSync](https://github.com/anseki/readline-sync) - 同步版本的 `readline`，命令行对话式交互。
-  - [shell.js](https://documentup.com/shelljs/shelljs) - 基于 NOde.js 的 Unix Shell 命令的可移植实现。
+  - [shell.js](https://documentup.com/shelljs/shelljs) - 基于 Node.js 的 Unix Shell 命令的可移植实现。
   - Progress / Loading
     - [tasuku](https://github.com/privatenumber/tasuku) - 任务运行器，可在终端展示运行状态。
     - [ora](https://github.com/sindresorhus/ora) - 终端 spinner 效果。
