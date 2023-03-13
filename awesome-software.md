@@ -363,6 +363,7 @@ _Password manager._
 - [KeePass](https://keepass.info/) - **开源软件**。
 - [Swifty](https://getswifty.pro/) - **开源软件**。
 - [Bitwarden](https://bitwarden.com/) - **商业软件，可自托管**。
+  - [vaultwarden](https://github.com/dani-garcia/vaultwarden) - 非官方的 Bitwarden Server API 实现，**开源软件**。
 
 ### 浏览器
 
