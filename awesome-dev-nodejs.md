@@ -292,6 +292,7 @@
   - [Madge](https://github.com/pahen/madge) - 生成可视化的模块依赖图。
   - [SystemJS](https://github.com/systemjs/systemjs) - 动态 ES Module 加载器。
   - [favicons](https://github.com/itgalaxy/favicons) - 网站图标生成器。
+  - [quicktype](https://github.com/quicktype/quicktype) - 在多个语言之间共享类型，生成类型代码。
 
 [`Go Top ↑`](#awesome-nodejs-list)
 
