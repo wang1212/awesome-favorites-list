@@ -18,7 +18,7 @@
 - [数据库（Database）](#数据库)
 - [实用工具（Tools）](#实用工具)
   - [文档（Docs）](#文档)
-  - [命令行工具（CLI Tools）](#命令行工具)
+  - [命令行工具（CLI Tools）](./awesome-dev-resource.md#命令行工具)
 - [文章（Article）](#文章)
 - [更多（More）](#更多)
 
@@ -109,14 +109,6 @@ _Database Management System._
 ### 文档
 
 - [apiDoc](https://apidocjs.com/) - 生成 RESTful web APIs 文档，支持多种后端语言。
-
-### 命令行工具
-
-*Useful command line tools.*
-
-- [curl](https://curl.haxx.se/) - 发送 HTTP 请求。
-- [wget](https://www.gnu.org/software/wget/) - 文件下载。
-- [HTTPie](https://httpie.org/) - HTTP 客户端，类似 curl，人类可读。
 
 [`Go Top ↑`](#awesome-web-back-end-list)
 
