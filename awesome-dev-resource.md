@@ -162,6 +162,10 @@ _Statistics._
 - [TIOBE Index](https://www.tiobe.com/tiobe-index/) - 编程语言全球排名。
 - [DB-Engines](https://db-engines.com/) - 数据库排名信息。
 - [Database of Database](https://dbdb.io/) - 聚合全球数据库信息。
+- Open Source Project Discovery
+  - [Openbase](https://openbase.com/) - 开源项目讨论及评奖。
+  - [LibHunt](https://www.libhunt.com/) - 收集了各种库的网站。
+  - [Open Hub](https://www.openhub.net/)
 
 ### 参考文档
 
@@ -225,10 +229,6 @@ _Coding skills._
 - [PaperWeekly](http://www.paperweekly.site/) - 一个推荐、解读、讨论和报道人工智能前沿论文成果的学术平台。
 - [freeCodeCamp Learning](https://www.freecodecamp.org/learn/)
 - [Hackr.io](https://hackr.io/) - 课程分享与学习。
-- Open Source Project Discovery
-  - [Openbase](https://openbase.com/) - 开源项目讨论及评奖。
-  - [LibHunt](https://www.libhunt.com/) - 收集了各种库的网站。
-  - [Open Hub](https://www.openhub.net/)
 
 [`Go Top ↑`](#awesome-development-resources)
 
