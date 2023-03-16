@@ -523,6 +523,7 @@ _Coding Statistics._
 - [Postman](https://www.getpostman.com/) - 一个非常棒的 API 管理工具。
 - [Insomnia](https://insomnia.rest/) - API 接口测试工具。
 - [hoppscotch](https://hoppscotch.io/) - API 接口测试、管理，**开源软件**。
+- [HTTPie](https://httpie.org/) - HTTP 客户端，类似 curl，人类可读。
 
 ### 服务器远程管理
 
@@ -566,6 +567,7 @@ _Coding Statistics._
   - [bat](https://github.com/sharkdp/bat) - 类似于 `cat` 命令，支持语法高亮等特性。
   - [ripgrep ](https://github.com/BurntSushi/ripgrep) - 类似于 `grep` 命令。
   - [duf](https://github.com/muesli/duf) - 类似于 `df` 命令，查看硬盘使用情况的工具，支持多个平台。
+  - [curl](https://curl.se/) - 类似 `wget`，发送 HTTP 请求，支持多个平台。
 
 - [Bash](https://www.gnu.org/software/bash/)
   - [bash-it](https://bash-it.readthedocs.io/) - bash 工具集，提供主题等功能，类似 on-my-zsh。
@@ -582,6 +584,7 @@ _Coding Statistics._
 - [sslh](https://github.com/yrutschle/sslh) - 实现端口复用。
 - [BusyBox](https://www.busybox.net/) - 实用的 Linux 命令集合。
 - [LF](https://github.com/gokcehan/lf) - 终端文件管理工具命令包。
+- [wget](https://www.gnu.org/software/wget/) - 文件下载。
 
 #### 其它
 
