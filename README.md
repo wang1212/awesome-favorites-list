@@ -63,6 +63,11 @@
   - [Avast](https://www.avast.com/random-password-generator) - 防病毒软件 Avast 提供。
   - [1password](https://1password.com/password-generator/) - 二次验证工具 1password 提供。
 
+- 简历模板（Resume template）
+  - [Resumes & cover letters (Microsoft 365)](https://create.microsoft.com/en-us/templates/resumes-and-cover-letters)
+  - [Professional resume templates (Indeed)](https://www.indeed.com/profile/resume-templates)
+  - [Resume Templates (zety.com)](https://zety.com/resume-templates-1)
+  - [Resume templates (canva.com)](https://www.canva.com/resumes/templates/)
 
 [`Go Top ↑`](#awesome-favorites-list)
 
