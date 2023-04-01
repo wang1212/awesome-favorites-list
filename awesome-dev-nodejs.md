@@ -542,7 +542,6 @@ _see also 👉  [JS-工具库](./awesome-dev-web-front-end.md#js-工具库) | [a
   - [Passport.js](http://www.passportjs.org/) - 身份验证中间件，可在基于 Express 的 Node.js 框架中使用。
   
 - [Koa](https://koajs.com/) - 轻量级、高性能的 Web 框架，Express 团队开发。
-  - [AdminBro](https://adminbro.com/) - 应用管理面板，**Koa 官方提供插件支持**。
 
 - [Restify](http://restify.com/) - 可快速构建 RESTful API 的框架。
 - [Fastify](https://www.fastify.io/) - 高性能、低消耗的 Web 框架。
@@ -551,6 +550,12 @@ _see also 👉  [JS-工具库](./awesome-dev-web-front-end.md#js-工具库) | [a
 - [Feathers](https://feathersjs.com/) - 轻量的、面向服务的构建实时 Web 应用和 REST APIs 的框架。
 - [Sails.js](https://sailsjs.com/) - 实时的 MVC 框架。
 - [Adonis.js](https://adonisjs.com/) - 全栈 MVC 框架。
+
+- Full stack framework / CRUD App
+  - [Redwood](https://redwoodjs.com/)
+  - [refine](https://refine.dev/)
+  - [AdminJS](https://adminjs.co/)
+  - [react-admin](https://marmelab.com/react-admin/)
 
 [`Go Top ↑`](#awesome-nodejs-list)
 
@@ -623,6 +628,5 @@ _Engine / Runtime._
 - [Testing Library](https://testing-library.com/) - 包含了众多测试工具项目。
 - [awesome-nodejs-security](https://github.com/lirantal/awesome-nodejs-security) - Node.js 安全相关工具。
 - [NodeBB](https://github.com/NodeBB/NodeBB) - 开源论坛软件。
-- [AdminBro](https://adminbro.com/) - Node.js 应用管理面板系统。
 
 [`Go Top ↑`](#awesome-nodejs-list)
