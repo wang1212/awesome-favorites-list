@@ -65,6 +65,7 @@
 
 - 简历模板（Resume template）
   - [Resumes & cover letters (Microsoft 365)](https://create.microsoft.com/en-us/templates/resumes-and-cover-letters)
+  - [Resume Templates (resumegenius.com/)](https://resumegenius.com/resume-templates)
   - [Professional resume templates (Indeed)](https://www.indeed.com/profile/resume-templates)
   - [Resume Templates (zety.com)](https://zety.com/resume-templates-1)
   - [Resume templates (canva.com)](https://www.canva.com/resumes/templates/)
