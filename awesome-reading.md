@@ -265,6 +265,8 @@ _Computer Graphics._
   - [Basic Theory of Physically-Based Rendering](https://marmoset.co/posts/basic-theory-of-physically-based-rendering/)
   - [Physically-Based Rendering, And You Can Too!](https://marmoset.co/posts/physically-based-rendering-and-you-can-too/)
 - [《Seeing Theory》](https://seeing-theory.brown.edu/index.html) Daniel Kunin - 视觉理论、统计学知识，**开源书籍**。
+- Three.js
+  - [《Three.js Essentials》](http://informatics.edu.mn/three.js/files/book/ThreejsEssentials.pdf) Jos Dirksen - Three.js 基本概念和示例，**可在线免费阅读**。
 
 #### 数据库
 
