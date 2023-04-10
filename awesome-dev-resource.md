@@ -23,7 +23,7 @@
   - [软件与架构设计（Software and Architecture Design）](#软件与架构设计)
 - [技术参考资源（Technical Reference Resources）](#技术参考资源)
   - [统计信息（Statistics）](#统计信息)
-  - [参考文档（Reference Documentation）](#参考文档) 
+  - [技术文档（Technical Documentation）](#技术文档) 
   - [算法与数据结构（Algorithms and Data Structures）](#算法与数据结构) 
   - [编码技巧（Coding Skills）](#编码技巧)
 - [社区论坛（Community Forum）](#社区论坛)
@@ -167,12 +167,13 @@ _Statistics._
   - [LibHunt](https://www.libhunt.com/) - 收集了各种库的网站。
   - [Open Hub](https://www.openhub.net/)
 
-### 参考文档
+### 技术文档
 
-_Reference documentation._
+_Technical documentation._
 
 - [HTTP Status Codes](https://httpstatuses.com/) - HTTP 协议状态码列表。
 - [DevDocs](https://devdocs.io/) - 在线技术文档查询，freeCodeCamp 组织维护，**开源免费**。
+- [Zeal](https://zealdocs.org/) - 支持离线浏览的技术文档浏览器，**开源免费**。
 - [OWASP Cheat Sheet Series](https://cheatsheetseries.owasp.org/) - 技术安全相关备忘单，由 OWASP 基金会维护。
 
 ### 算法与数据结构
