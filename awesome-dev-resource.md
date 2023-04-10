@@ -172,9 +172,7 @@ _Statistics._
 _Reference documentation._
 
 - [HTTP Status Codes](https://httpstatuses.com/) - HTTP 协议状态码列表。
-- [lib4dev](http://www.lib4dev.in/) - 开源库分类查询。
-- [DevDocs](https://devdocs.io/) - 在线技术文档查询。
-- [4Dev.tools](https://4dev.tools/) - Web 开发人员开发资源。
+- [DevDocs](https://devdocs.io/) - 在线技术文档查询，freeCodeCamp 组织维护，**开源免费**。
 - [OWASP Cheat Sheet Series](https://cheatsheetseries.owasp.org/) - 技术安全相关备忘单，由 OWASP 基金会维护。
 
 ### 算法与数据结构
