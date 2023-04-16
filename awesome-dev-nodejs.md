@@ -204,6 +204,7 @@
   - 热重载（Hot reload）
     - [nodemon](https://nodemon.io)
     - [node-dev](https://github.com/fgnass/node-dev)
+    - [turbowatch](https://github.com/gajus/turbowatch/)
   - 生产部署
     - [Forever](https://github.com/foreversd/forever) - Node 应用生产环境进程管理工具，使用简单方便。
     - [PM2](https://pm2.keymetrics.io/) - Node 应用生产环境进程管理工具，支持集群、负载、远程部署，提供收费服务的实时监控平台。
