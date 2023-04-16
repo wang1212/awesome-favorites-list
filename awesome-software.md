@@ -297,8 +297,9 @@ _[ASCII Art](https://en.wikipedia.org/wiki/ASCII_art)._
   - [Icons8](https://icons8.com/) - 免费图标，设计工具。
 
 - 图标素材
+  - [icon hunt](https://www.iconhunt.site/) - 免费、开源的图标搜索引擎。
   - [Flat Icon](https://www.flaticon.com/) - 图标市场。
-  - [iconsax](https://iconsax.io/) - 可免费商用的图标库。
+  - [iconsax](https://iconsax.io/) - 可**免费商用**的图标库。
   - [Inspyr Icon](https://inspyr.io/) - SVG 图标。
   - [Iconduck](https://iconduck.com/) - 图标与插画素材，**免费开源**。
   - [Glyphs](https://glyphs.fyi/) - **开源**图标库。
