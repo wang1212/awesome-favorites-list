@@ -401,6 +401,7 @@ _see also 👉  [JS-工具库](./awesome-dev-web-front-end.md#js-工具库) | [a
   - corn 
     - [node-cron](https://nodecron.com/) - 简单的基于 `cron` 方式的作业调度器。
     - [cron](https://github.com/kelektiv/node-cron)
+    - [croner](https://github.com/hexagon/croner)
     - [cRonstrue](https://bradymholt.github.io/cRonstrue/) - 将 `corn` 表达式转换为人类可读的信息。
   - [bull](https://github.com/OptimalBits/bull) - 高性能队列。
   - [agenda](https://github.com/agenda/agenda)
