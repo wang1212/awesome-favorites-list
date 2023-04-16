@@ -616,6 +616,8 @@ _Coding Statistics._
 
 *Utils tools.*
 
+- [staticrypt](https://github.com/robinmoisson/staticrypt) - HTML 文件加密。
+
 - 幻灯片（Slideshow）
   - [Cleaver](http://jdan.github.io/cleaver/) - Markdown 文件生成幻灯片。
   - [nodeppt](https://github.com/ksky521/nodeppt) - Markdown 文件生成幻灯片。
