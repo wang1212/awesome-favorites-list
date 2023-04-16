@@ -659,6 +659,7 @@ _[Open UI](https://open-ui.org/)_
 - virtual DOM
   - [React.js](https://reactjs.org/) -  数据驱动的视图库，Facebook 公司发布。
     - [_Awesome-React.js_](./awesome-dev-web-reactjs.md)
+    - [htm](https://github.com/developit/htm) - 直接在浏览器中编写 React 组件。
   - [Vue.js](https://vuejs.org/)
   - [Million](https://million.js.org/) - 一个与库无关的虚拟 DOM 实现。
   - [Hyperapp](https://hyperapp.dev/) - 轻量的，纯函数式，声明式开发框架。
