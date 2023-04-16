@@ -252,6 +252,7 @@ _[ASCII Art](https://en.wikipedia.org/wiki/ASCII_art)._
 *Coloring scheme.*
 
 - [Colormind ](http://colormind.io/) - 利用深度学习生成配色方案。
+- [ColorMagic](https://colormagic.app/) - AI 调色板，通过关键字生成调色板。
 - [Open Color](https://yeun.github.io/open-color/)
 - [Color Hunt](https://colorhunt.co/)
 - [coolors](https://coolors.co/palettes/)
