@@ -457,34 +457,7 @@ _see also 👉  [Node.JS-工具库](./awesome-dev-nodejs.md#工具库)_
 
 ### 字体图标
 
-*Font icon, vector icon.*
-
-#### 字体
-
-*Font.*
-  
-- [fontfamily.io](http://fontfamily.io/) - 查看字体在各个平台的兼容性。
-  
-#### 图标
-
-*Icon.*
-
-- [Glyphs](https://glyphs.fyi/) - **开源**图标库。
-- [Bootstrap Icons](https://icons.getbootstrap.com/) - **开源**图标库，仅支持 SVG，**Twitter 公司发布**。
-- [Feather](https://feathericons.com/) - 简单漂亮的**开源**图标库，仅支持 SVG。
-- [Remix Icon](https://remixicon.com/) - 中性风格的**开源**图标库，支持 SVG 与 Web font。
-- [IonIcons](https://ionicons.com) - 精美的**开源**图标库，支持 SVG 与 Web font，**ionic 团队制作**。
-- [Material Icons](https://material.io/tools/icons/) - Material Design 风格的**开源**图标库，支持 SVG 与 Web font，**Google 官方发布**。
-- [Material Design Icons](http://materialdesignicons.com/) - Material Design 风格的**开源**图标库，支持 SVG 与 Web font**非官方，社区支持**。
-- [Octicons](https://octicons.github.com/) - GitHub **开源**图标库，**GitHub 官方发布**。
-- [Teenyicons](https://teenyicons.com/) - **开源**图标库，仅支持 SVG。
-- [Forge Icons](https://icons.theforgesmith.com/) - **免费**图标库，仅支持 SVG。
-- [Simple Icons](https://simpleicons.org/) - **免费**的品牌 logo 图标，仅支持 SVG。
-- [Fabric Icons](https://developer.microsoft.com/en-us/fabric#/styles/web/icons) - 图标库，仅支持 Web font，**Microsoft 官方发布**。
-- [Spectrum Icons](https://spectrum.adobe.com/page/icons/) - Adobe Spectrum 设计系统图标，**Adobe 官方发布**。
-- [Font Awesome](https://fontawesome.com/) - 丰富的图标库，提供**免费版**。
-- [IconPark](https://iconpark.bytedance.com/official) - **开源免费**的图标库，**字节跳动公司发布**。
-- [flag-icons](https://flagicons.lipis.dev/) - **开源**的世界各国国旗图标，支持 SVG 与 CSS。
+[_👉 设计工具 - 字体图标_](./awesome-software.md#字体图标)
 
 ### UI 设计系统
 
