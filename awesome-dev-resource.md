@@ -702,7 +702,7 @@ _Static site tool._
 *Interview questions.*
 
 - Generic
-  - [Awesome Interviews](https://github.com/DopplerHQ/awesome-interview-questions)
+  - [Awesome Interviews](https://github.com/DopplerHQ/awesome-interview-questions) - 计算机技术相关的面试题。（:warning: 不再更新）
 
 - Web Front-end
   - [Front-end Developer Interview Questions](https://h5bp.org/Front-end-Developer-Interview-Questions/) 
