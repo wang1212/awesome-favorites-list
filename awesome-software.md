@@ -298,26 +298,26 @@ _[ASCII Art](https://en.wikipedia.org/wiki/ASCII_art)._
 
 - 图标素材
   - [icon hunt](https://www.iconhunt.site/) - 免费、开源的图标搜索引擎。
-  - [Flat Icon](https://www.flaticon.com/) - 图标市场。
-  - [iconsax](https://iconsax.io/) - 可**免费商用**的图标库。
-  - [Inspyr Icon](https://inspyr.io/) - SVG 图标。
+  - [iconoir](https://iconoir.com/) - 图表库，**免费开源**。
   - [Iconduck](https://iconduck.com/) - 图标与插画素材，**免费开源**。
-  - [Glyphs](https://glyphs.fyi/) - **开源**图标库。
+  - [Glyphs](https://glyphs.fyi/) - 图标库，**开源**。
+  - [iconsax](https://iconsax.io/) - 图标库，**可免费商用**。
+  - [Simple Icons](https://simpleicons.org/) - 品牌 logo 图标，仅支持 SVG，**免费**。
+  - [Forge Icons](https://icons.theforgesmith.com/) - 图标库，仅支持 SVG，**可免费商用**。
+  - [Feather](https://feathericons.com/) - 简单漂亮的图标库，仅支持 SVG，**开源**。
+  - [flag-icons](https://flagicons.lipis.dev/) - 世界各国国旗图标，支持 SVG 与 CSS，**开源**。
+  - [Flat Icon](https://www.flaticon.com/) - 图标市场。
   - [Bootstrap Icons](https://icons.getbootstrap.com/) - **开源**图标库，仅支持 SVG，**Twitter 公司发布**。
-  - [Feather](https://feathericons.com/) - 简单漂亮的**开源**图标库，仅支持 SVG。
   - [Remix Icon](https://remixicon.com/) - 中性风格的**开源**图标库，支持 SVG 与 Web font。
   - [IonIcons](https://ionicons.com) - 精美的**开源**图标库，支持 SVG 与 Web font，**ionic 团队制作**。
   - [Material Icons](https://material.io/tools/icons/) - Material Design 风格的**开源**图标库，支持 SVG 与 Web font，**Google 官方发布**。
   - [Material Design Icons](http://materialdesignicons.com/) - Material Design 风格的**开源**图标库，支持 SVG 与 Web font**非官方，社区支持**。
   - [Octicons](https://octicons.github.com/) - GitHub **开源**图标库，**GitHub 官方发布**。
   - [Teenyicons](https://teenyicons.com/) - **开源**图标库，仅支持 SVG。
-  - [Forge Icons](https://icons.theforgesmith.com/) - **免费**图标库，仅支持 SVG。
-  - [Simple Icons](https://simpleicons.org/) - **免费**的品牌 logo 图标，仅支持 SVG。
   - [Fabric Icons](https://developer.microsoft.com/en-us/fabric#/styles/web/icons) - 图标库，仅支持 Web font，**Microsoft 官方发布**。
   - [Spectrum Icons](https://spectrum.adobe.com/page/icons/) - Adobe Spectrum 设计系统图标，**Adobe 官方发布**。
   - [Font Awesome](https://fontawesome.com/) - 丰富的图标库，提供**免费版**。
   - [IconPark](https://iconpark.bytedance.com/official) - **开源免费**的图标库，**字节跳动公司发布**。
-  - [flag-icons](https://flagicons.lipis.dev/) - **开源**的世界各国国旗图标，支持 SVG 与 CSS。
 
 ### 学习
 
