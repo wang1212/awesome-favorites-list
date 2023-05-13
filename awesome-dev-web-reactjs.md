@@ -356,6 +356,7 @@ _UI Design System, provides a base system for building a design system._
   - [In-depth explanation of state and props update in React](https://indepth.dev/posts/1009/in-depth-explanation-of-state-and-props-update-in-react)
 - [React Fiber Architecture](https://github.com/acdlite/react-fiber-architecture) - React Fiber 架构简介。
 - [Good advice on JSX conditionals](https://thoughtspile.github.io/2022/01/17/jsx-conditionals/) - 更好的使用 JSX 语法。
+- [bulletproof-react](https://github.com/alan2207/bulletproof-react) - 一个简单、可扩展且功能强大的参考项目架构，用于构建生产就绪的 React 应用程序。
 
 [`Go Top ↑`](#awesome-reactjs-list)
 
