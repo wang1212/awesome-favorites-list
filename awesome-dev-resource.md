@@ -228,6 +228,7 @@ _Coding skills._
 - [PaperWeekly](http://www.paperweekly.site/) - 一个推荐、解读、讨论和报道人工智能前沿论文成果的学术平台。
 - [freeCodeCamp Learning](https://www.freecodecamp.org/learn/)
 - [Hackr.io](https://hackr.io/) - 课程分享与学习。
+- [ui.dev](https://ui.dev/) - 交互式 JavaScript 教程。
 
 [`Go Top ↑`](#awesome-development-resources)
 
