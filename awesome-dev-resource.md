@@ -246,32 +246,40 @@ _Coding skills._
   - [Sidebar](https://sidebar.io/) - 日报，设计相关新闻。
   
 - 每周（Weekly）
-  - [StatusCode Weekly](https://weekly.statuscode.com/) - 周刊，软件开发、Web 技术、软件架构等。（Cooperpress 出版）
-  - [Web Tools Weekly](https://webtoolsweekly.com/) - 周刊，Web 开发工具资讯。
-  - [Mobile Dev Weekly](https://mobiledevweekly.com/) - 周刊，移动应用（Web 和 Native）开发技术。（Cooperpress 出版）
-  - [Android Weekly](https://androidweekly.net/) - 周刊，Android 技术。
-  - [Frontend Focus](https://frontendfoc.us/) - 周刊，Web 前端技术资讯。（Cooperpress 出版）
-  - [Frontend Weekly](https://frontendweekly.co/) - 周刊，Web 前端技术资讯。
-  - [JavaScript Weekly](https://javascriptweekly.com/) - 周刊，JavaScript 技术。（Cooperpress 出版）
-  - [JSK Weekly](https://javascriptkicks.com/) - 周刊，JavaScript 技术。
-  - [ES.next News](http://esnextnews.com/) 周刊，最新的 JavaScript 技术资讯。
-  - [CSS Weekly](https://css-weekly.com/) - 周刊，CSS 技术。
-  - [CSS Animation Weekly](https://cssanimation.rocks/weekly/) - 周刊，CSS 动画。
-  - [React Status](https://react.statuscode.com/) - 周刊，React.js 相关技术。（Cooperpress 出版）
-  - [React Newsletter](https://reactnewsletter.com/)
-  - [ReactWeekly](https://react.thisweekin.io/)
-  - [Node Weekly](https://nodeweekly.com/) - 周刊，Node.js 技术。（Cooperpress 出版）
-  - [npm Weekly](https://www.npmjs.com/npm-weekly) - 周刊，npm 新闻，**npm 官方**。（:warning: 停止更新）
-  - [Deno Weekly](https://denoweekly.com/) - 周刊，Deno 技术。（Cooperpress 出版）
-  - [Ruby Weekly](https://rubyweekly.com/) - 周刊，Ruby 技术。（Cooperpress 出版）
-  - [PyCoder’s Weekly](https://pycoders.com/) - 周刊，Python 技术。
-  - [Golang Weekly](https://golangweekly.com/) - 周刊，Go 技术。（Cooperpress 出版）
-  - [DB Weekly](https://dbweekly.com/) - 周刊，数据库技术。（Cooperpress 出版）
-  - [Postgres Weekly](https://postgresweekly.com/) - 周刊，PostgreSQL 技术。（Cooperpress 出版）
-  - [Serverless Status](https://serverless.email/) - 周刊，Serverless 和 FaaS 相关技术。（Cooperpress 出版）
-  - [iOS Dev Weekly](https://iosdevweekly.com/) - 周刊，iOS 开发者相关。
-  - [Smashing Magazine](https://www.smashingmagazine.com/) - 周刊，Web 前端与 UX 资讯。
-  - [GameDev.js Weekly](https://gamedevjsweekly.com/) - 周刊，HTML5 游戏开发资讯。
+  - CSS
+    - [CSS Weekly](https://css-weekly.com/) - 周刊，CSS 技术。
+    - [CSS Animation Weekly](https://cssanimation.rocks/weekly/) - 周刊，CSS 动画。
+  - JavaScript & Web Frontend
+    - [JavaScript Weekly](https://javascriptweekly.com/) - 周刊，JavaScript 技术。（Cooperpress 出版）
+    - [JSK Weekly](https://javascriptkicks.com/) - 周刊，JavaScript 技术。
+    - [ES.next News](http://esnextnews.com/) 周刊，最新的 JavaScript 技术资讯。
+    - [bytes.dev](https://bytes.dev/) - 周刊，JavaScript 技术。（ui.dev 出版）
+    - [Frontend Focus](https://frontendfoc.us/) - 周刊，Web 前端技术资讯。（Cooperpress 出版）
+    - [Frontend Weekly](https://frontendweekly.co/) - 周刊，Web 前端技术资讯。
+    - [Smashing Magazine](https://www.smashingmagazine.com/) - 周刊，Web 前端与 UX 资讯。
+    - [GameDev.js Weekly](https://gamedevjsweekly.com/) - 周刊，HTML5 游戏开发资讯。
+  - React.js
+    - [React Status](https://react.statuscode.com/) - 周刊，React.js 相关技术。（Cooperpress 出版）
+    - [React Newsletter](https://reactnewsletter.com/) - 周刊，React.js 相关技术。（ui.dev 出版）
+    - [ReactWeekly](https://react.thisweekin.io/)
+  - Mobile Native Client
+    - [Mobile Dev Weekly](https://mobiledevweekly.com/) - 周刊，移动应用（Web 和 Native）开发技术。（Cooperpress 出版）
+    - [Android Weekly](https://androidweekly.net/) - 周刊，Android 技术。
+    - [iOS Dev Weekly](https://iosdevweekly.com/) - 周刊，iOS 开发者相关。 
+  - Database
+    - [DB Weekly](https://dbweekly.com/) - 周刊，数据库技术。（Cooperpress 出版）
+    - [Postgres Weekly](https://postgresweekly.com/) - 周刊，PostgreSQL 技术。（Cooperpress 出版）
+  - Node.js & Deno
+    - [Node Weekly](https://nodeweekly.com/) - 周刊，Node.js 技术。（Cooperpress 出版）
+    - [npm Weekly](https://www.npmjs.com/npm-weekly) - 周刊，npm 新闻，**npm 官方**。（:warning: 停止更新）
+    - [Deno Weekly](https://denoweekly.com/) - 周刊，Deno 技术。（Cooperpress 出版）  
+  - Other
+    - [StatusCode Weekly](https://weekly.statuscode.com/) - 周刊，软件开发、Web 技术、软件架构等。（Cooperpress 出版）
+    - [Web Tools Weekly](https://webtoolsweekly.com/) - 周刊，Web 开发工具资讯。
+    - [Ruby Weekly](https://rubyweekly.com/) - 周刊，Ruby 技术。（Cooperpress 出版）
+    - [PyCoder’s Weekly](https://pycoders.com/) - 周刊，Python 技术。
+    - [Golang Weekly](https://golangweekly.com/) - 周刊，Go 技术。（Cooperpress 出版）
+    - [Serverless Status](https://serverless.email/) - 周刊，Serverless 和 FaaS 相关技术。（Cooperpress 出版）
   - [_Awesome Weekly_](https://github.com/jondot/awesome-weekly) - _更多周刊。_
 
 - 每月（Monthly）
