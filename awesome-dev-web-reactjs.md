@@ -310,6 +310,7 @@ _UI Design System, provides a base system for building a design system._
   - [react-mosaic](https://github.com/nomcopter/react-mosaic) - 平铺窗口管理器。
   - [react-chrono](https://react-chrono.prabhumurthy.com/) - 时间线组件。
   - [cmdk](https://github.com/pacocoursey/cmdk) - 命令菜单。
+  - [Editable](https://docs.editablejs.com/) - 可扩展的副文本编辑器框架。
 
 [`Go Top ↑`](#awesome-reactjs-list)
 
