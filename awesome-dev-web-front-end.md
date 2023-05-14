@@ -661,10 +661,10 @@ _[Open UI](https://open-ui.org/)_
     - [_Awesome-React.js_](./awesome-dev-web-reactjs.md)
     - [htm](https://github.com/developit/htm) - 直接在浏览器中编写 React 组件。
   - [Vue.js](https://vuejs.org/)
-  - [Million](https://million.js.org/) - 一个与库无关的虚拟 DOM 实现。
   - [Hyperapp](https://hyperapp.dev/) - 轻量的，纯函数式，声明式开发框架。
   - [Snabbdom](https://github.com/snabbdom/snabbdom) - 基于虚拟 DOM 机制，模块化、高性能开发框架。
   - [mithril.js](https://mithril.js.org/)
+  - [blockdom](https://github.com/ged-odoo/blockdom)
 
 - MVC
   - [Backbone.js](https://backbonejs.org/) - 为 Web 应用开发引入 MVC 模型概念。
