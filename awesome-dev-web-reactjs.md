@@ -341,6 +341,7 @@ _UI Design System, provides a base system for building a design system._
   - [react-error-boundary](https://github.com/bvaughn/react-error-boundary) - 简单的可重用 React 错误边界组件。
   - [react-refetch](https://github.com/heroku/react-refetch) - 组件数据加载。
   - [react-device-detect](https://github.com/duskload/react-device-detect) - 检测设备并渲染指定的视图。
+  - [Million](https://millionjs.org/) - 块虚拟 DOM 实现，增强虚拟 DOM 的性能。
 
 [`Go Top ↑`](#awesome-reactjs-list)
 
