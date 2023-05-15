@@ -41,6 +41,7 @@
   - [Apk Follow](https://www.apkfollow.com/)
 - Others
   - [Product Hunt](https://www.producthunt.com/) - 最受欢迎的科技产品发布站点。
+  - [All Things AI](https://allthingsai.com/) - 最新 AI 工具和服务的精选目录。
 
 [`Go Top ↑`](#awesome-software)
 
