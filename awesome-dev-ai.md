@@ -12,11 +12,20 @@
 *Resource navigation list.*
 
 - [社区（Community）](#社区)
+- [教程资源（Tutorial Resources）](#教程资源)
 
 ## 社区
 
 _Community._
 
 - [Hugging Face](https://huggingface.co/) - 协作共享开源 AI 模型社区。
+
+[`Go Top ↑`](#awesome-ai-dev-list)
+
+## 教程资源
+
+_Tutorial resources._
+
+- [Google Machine Learning Courses](https://developers.google.com/machine-learning)
 
 [`Go Top ↑`](#awesome-ai-dev-list)
