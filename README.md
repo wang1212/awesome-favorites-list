@@ -26,6 +26,7 @@
   - [:package: 开发资源（Development Resources）](awesome-dev-resource.md)
   - [数据可视化（Data Visualization）](awesome-dev-data-visualization.md)
   - [云开发（Cloud Development）](awesome-dev-cloud.md)
+  - [AI 技术（AI Technology）](awesome-dev-ai.md)
   - [Web 后端（Web Backend）](awesome-dev-web-back-end.md)
   - [Web 前端（Web Front-end）](awesome-dev-web-front-end.md)
     - [WebAssembly](awesome-dev-web-webassembly.md) 
