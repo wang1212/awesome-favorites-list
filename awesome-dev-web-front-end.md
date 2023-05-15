@@ -257,8 +257,6 @@ _see also 👉  [Node.JS-工具库](./awesome-dev-nodejs.md#工具库)_
   - [color](https://github.com/Qix-/color) - 颜色字符串解析、计算工具，更轻量。
   - [TinyColor](https://github.com/bgrins/TinyColor) - 颜色字符串解析、计算工具，更轻量一些。（:warning: 不再更新）
   - [one.color](https://github.com/One-com/one-color) - 颜色字符串解析、计算工具，支持 RGB, HSV, HSL, CMYK 等。
-  - [Fuse.js](https://fusejs.io/) - 模糊搜索工具。
-  - [fuzzysort](https://github.com/farzher/fuzzysort) - 模糊搜索并排序。
   - [normalizr](https://github.com/paularmstrong/normalizr) - 根据 Schema 将嵌套的 JSON 数据归一化。
   - [Anchorme.js](https://alexcorvi.github.io/anchorme.js/) - 将文本中的 URL/邮箱等转换为链接。
 
@@ -354,6 +352,15 @@ _see also 👉  [Node.JS-工具库](./awesome-dev-nodejs.md#工具库)_
   - [currency.js](https://currency.js.org/) - 轻量的货币计算工具库。
   - [Dinero.js](https://github.com/dinerojs/dinero.js) - 货币计算。
 
+- 搜索（Search）
+  - [lunr.js](https://lunrjs.com/) - （:warning: 不再更新）
+  - [fuzzy](https://github.com/mattyork/fuzzy) - （:warning: 不再更新）
+  - [Stork](https://stork-search.net/)
+  - [Orama Search](https://oramasearch.com/)
+  - [Fuse.js](https://fusejs.io/) - 模糊搜索工具。
+  - [fuzzysort](https://github.com/farzher/fuzzysort) - 模糊搜索并排序。
+  - [FlexSearch](https://github.com/nextapps-de/flexsearch)
+
 - 客户端数据库（Client Database）
   - [localForage](https://github.com/localForage/localForage) - 离线存储，对 IndexedDB、WebSQL、localStorage 的封装。
   - [SQL.js](https://sql.js.org/)
@@ -426,11 +433,6 @@ _see also 👉  [Node.JS-工具库](./awesome-dev-nodejs.md#工具库)_
 
 - 国际化（i18n）
   - [Format.js](https://formatjs.io/)
-
-- 搜索（Search）
-  - [lunr.js](https://lunrjs.com/) - （:warning: 不再更新）
-  - [Stork](https://stork-search.net/)
-  - [lyra](https://lyrajs.io/)
 
 - 其它（Other）
   - [HyperFormula](https://handsontable.github.io/hyperformula/) - 计算引擎，商业产品 Handsontable 团队维护。
