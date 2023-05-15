@@ -12,20 +12,32 @@
 *Resource navigation list.*
 
 - [社区（Community）](#社区)
-- [教程资源（Tutorial Resources）](#教程资源)
+- [资讯（News）](#资讯)
+- [教程（Tutorial）](#教程)
 
 ## 社区
 
 _Community._
 
 - [Hugging Face](https://huggingface.co/) - 协作共享开源 AI 模型社区。
+- [Kaggle](https://www.kaggle.com/) - 共享公开数据集。
 
 [`Go Top ↑`](#awesome-ai-dev-list)
 
-## 教程资源
+## 资讯
 
-_Tutorial resources._
+_News._
+
+- [Google AI Blog](https://ai.googleblog.com/)
+
+[`Go Top ↑`](#awesome-ai-dev-list)
+
+## 教程
+
+_Tutorial._
 
 - [Google Machine Learning Courses](https://developers.google.com/machine-learning)
+- [fast.ai](https://www.fast.ai/) - 深度学习教程。
+- [CS229 - Machine Learning](https://see.stanford.edu/Course/CS229)
 
 [`Go Top ↑`](#awesome-ai-dev-list)
