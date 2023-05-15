@@ -281,6 +281,7 @@ _Coding skills._
     - [PyCoder’s Weekly](https://pycoders.com/) - 周刊，Python 技术。
     - [Golang Weekly](https://golangweekly.com/) - 周刊，Go 技术。（Cooperpress 出版）
     - [Serverless Status](https://serverless.email/) - 周刊，Serverless 和 FaaS 相关技术。（Cooperpress 出版）
+    - [ByteByteGo Newsletter](https://blog.bytebytego.com/) - 周刊，系统设计相关内容。
   - [_Awesome Weekly_](https://github.com/jondot/awesome-weekly) - _更多周刊。_
 
 - 每月（Monthly）
