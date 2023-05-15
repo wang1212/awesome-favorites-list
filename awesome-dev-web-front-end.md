@@ -360,6 +360,7 @@ _see also 👉  [Node.JS-工具库](./awesome-dev-nodejs.md#工具库)_
   - [Fuse.js](https://fusejs.io/) - 模糊搜索工具。
   - [fuzzysort](https://github.com/farzher/fuzzysort) - 模糊搜索并排序。
   - [FlexSearch](https://github.com/nextapps-de/flexsearch)
+  - [search-index](https://github.com/fergiemcdowall/search-index)
 
 - 客户端数据库（Client Database）
   - [localForage](https://github.com/localForage/localForage) - 离线存储，对 IndexedDB、WebSQL、localStorage 的封装。
