@@ -718,6 +718,7 @@ _Static site tool._
   - [Front-end Developer Interview Questions](https://h5bp.org/Front-end-Developer-Interview-Questions/) 
   - [JavaScript Interview Questions & Answers](https://github.com/sudheerj/javascript-interview-questions) 
   - [React Interview Questions & Answers](https://github.com/sudheerj/reactjs-interview-questions)
+  - [GreatFrontEnd](https://www.greatfrontend.com/) - **部分付费**。
 
 ## 更多
 
