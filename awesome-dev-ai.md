@@ -7,6 +7,8 @@
 
 <br />
 
+_（Recommend） :point_right: [awesome-artificial-intelligence](https://github.com/owainlewis/awesome-artificial-intelligence)_
+
 ## 目录
 
 *Resource navigation list.*
