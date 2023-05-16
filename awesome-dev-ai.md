@@ -40,6 +40,7 @@ _Tutorial._
 
 - [Google Machine Learning Courses](https://developers.google.com/machine-learning)
 - [fast.ai](https://www.fast.ai/) - 深度学习教程。
-- [CS229 - Machine Learning](https://see.stanford.edu/Course/CS229)
+- [Stanford CS229 - Machine Learning](https://see.stanford.edu/Course/CS229)
+- [People + AI Guidebook](https://pair.withgoogle.com/guidebook) - 一套使用 AI 进行设计的方法、最佳实践和示例。
 
 [`Go Top ↑`](#awesome-ai-dev-list)
