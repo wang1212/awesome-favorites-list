@@ -42,7 +42,7 @@
 
 - [pip](https://pip.pypa.io/) - Python 官方包管理器，从 [PyPI](https://pypi.org/) 官方仓库安装包。
 - [Anaconda](https://www.anaconda.com/) - 包含 [Conda](https://docs.conda.io/) 包管理器和 Python 发行版，包含上百个科学计算和机器学习库，开箱即用。
-- [Miniconda](https://docs.conda.io/en/latest/miniconda.html) - Anaconda 微型版本，仅包含 Conda 和 Python 发行版和必要的依赖库。
+  - [Miniconda](https://docs.conda.io/en/latest/miniconda.html) - Anaconda 微型版本，仅包含 Conda 和 Python 发行版和必要的依赖库。
 
 [`Go Top ↑`](#awesome-python-list)
 
