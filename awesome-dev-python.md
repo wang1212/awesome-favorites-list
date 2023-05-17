@@ -50,8 +50,12 @@
 
 *Tool Library, some unofficial high-quality Python packages (or libraries).*
 
+- 构建工具（Build Tools）
+  - [pyenv](https://github.com/pyenv/pyenv) - Python 版本管理工具。
+  - [poetry](https://python-poetry.org/) - 支持虚拟环境管理、依赖管理、发布构建。
+  - [Pipenv](https://pipenv.pypa.io/) - Python 开发工作流工具，支持虚拟环境和依赖管理。
+
 - 实用工具（Utils）
-  - [Pipenv](https://pipenv.pypa.io/) - Python 开发工作流工具。
 
 - 测试（Test）
   - [pytest](https://docs.pytest.org/) - 单元测试框架。
