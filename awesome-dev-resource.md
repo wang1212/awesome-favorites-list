@@ -154,6 +154,7 @@ _Some technical reference resources._
 - [build-your-own-x](https://github.com/danistefanovic/build-your-own-x) - 构建某种技术的技术资料。
 - [RealWorld example apps](https://github.com/gothinkster/realworld) - 不同技术栈实现相同的前后端应用示例代码。
 - [TodoMVC](http://todomvc.com/) - 构建 MV* 应用的技术选型推荐。
+- [Interactive tutorial](https://www.learnshell.org/about) - 交互式教程。
 
 ### 统计信息
 
