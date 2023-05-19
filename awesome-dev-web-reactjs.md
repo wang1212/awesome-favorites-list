@@ -263,6 +263,7 @@ _UI Design System, provides a base system for building a design system._
   - [react-number-easing](https://javier.xyz/react-number-easing/) - 数字滚动动画。
   - [scrollex](https://scrollex-docs.vercel.app/) - 滚动动画效果。
   - [hamburger-react](https://hamburger-react.netlify.app/) - 动画汉堡菜单图标。
+  - [AutoAnimate](https://auto-animate.formkit.com/) - 为元素添加过渡动画。
   
 - 二维码（QR Code）
   - [qrcode.react](https://github.com/zpao/qrcode.react)
