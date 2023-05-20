@@ -200,7 +200,7 @@ _UI Design System, provides a base system for building a design system._
 - 表单（Form）
   - [Formik](https://jaredpalmer.com/formik/) - 表单自动验证，异步提交，提供 Hook API。
   - [React Select](https://react-select.com/) - 支持多选、自动完成、异步搜索选项等。
-  - [React Autosuggest](http://react-autosuggest.js.org/) - 输入建议，自动完成功能。
+  - [React Autosuggest](http://react-autosuggest.js.org/) - 输入建议，自动完成功能。（:warning: 自 2019 年不再更新）
   - [react-number-format](https://github.com/s-yadav/react-number-format) - 数字输入格式化。
   - [Downshift](https://www.downshift-js.com/) - 用来构建可访问的自动完成组件的底层组件。
   - [react-final-form](https://final-form.org/react)
