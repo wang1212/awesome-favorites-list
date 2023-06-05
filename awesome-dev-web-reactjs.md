@@ -285,6 +285,8 @@ _UI Design System, provides a base system for building a design system._
   - [React Live](https://react-live.netlify.app/) - 交互式代码编辑器。
   - [react-page](https://react-page.github.io/) - 可编辑页面。
   - [sandpack](https://sandpack.codesandbox.io/) - 实时代码编辑器，由 CodeSandbox 提供支持。
+  - [Editable](https://docs.editablejs.com/) - 可扩展的富文本编辑器框架。
+  - [BlockNote](https://www.blocknotejs.org/) - 基于块的富文本编辑器。
 
 - 加载器（Loading / Spinners）
   - [React Spinners](https://www.davidhu.io/react-spinners/) - 丰富的 Loading 动画。
@@ -310,7 +312,6 @@ _UI Design System, provides a base system for building a design system._
   - [react-mosaic](https://github.com/nomcopter/react-mosaic) - 平铺窗口管理器。
   - [react-chrono](https://react-chrono.prabhumurthy.com/) - 时间线组件。
   - [cmdk](https://github.com/pacocoursey/cmdk) - 命令菜单。
-  - [Editable](https://docs.editablejs.com/) - 可扩展的副文本编辑器框架。
 
 [`Go Top ↑`](#awesome-reactjs-list)
 
