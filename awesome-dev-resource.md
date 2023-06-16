@@ -269,7 +269,7 @@ _Coding skills._
     - [Android Weekly](https://androidweekly.net/) - 周刊，Android 技术。
     - [iOS Dev Weekly](https://iosdevweekly.com/) - 周刊，iOS 开发者相关。 
   - Database
-    - [DB Weekly](https://dbweekly.com/) - 周刊，数据库技术。（Cooperpress 出版）
+    - [DB Weekly](https://dbweekly.com/) - 周刊，数据库技术。（Cooperpress 出版）（:warning: 停止更新）
     - [Postgres Weekly](https://postgresweekly.com/) - 周刊，PostgreSQL 技术。（Cooperpress 出版）
   - Node.js & Deno
     - [Node Weekly](https://nodeweekly.com/) - 周刊，Node.js 技术。（Cooperpress 出版）
