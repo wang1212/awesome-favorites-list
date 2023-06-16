@@ -276,7 +276,7 @@ _Coding skills._
     - [npm Weekly](https://www.npmjs.com/npm-weekly) - 周刊，npm 新闻，**npm 官方**。（:warning: 停止更新）
     - [Deno Weekly](https://denoweekly.com/) - 周刊，Deno 技术。（Cooperpress 出版）  
   - Other
-    - [StatusCode Weekly](https://weekly.statuscode.com/) - 周刊，软件开发、Web 技术、软件架构等。（Cooperpress 出版）
+    - [StatusCode Weekly](https://weekly.statuscode.com/) - 周刊，软件开发、Web 技术、软件架构等。（Cooperpress 出版）（:warning: 停止更新）
     - [Web Tools Weekly](https://webtoolsweekly.com/) - 周刊，Web 开发工具资讯。
     - [Ruby Weekly](https://rubyweekly.com/) - 周刊，Ruby 技术。（Cooperpress 出版）
     - [PyCoder’s Weekly](https://pycoders.com/) - 周刊，Python 技术。
