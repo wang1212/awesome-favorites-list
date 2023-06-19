@@ -34,9 +34,9 @@
   - [JSON Schema](http://json-schema.org/) - JSON 数据校验。
   - [JSON5 Specification](https://spec.json5.org/) - JSON5 数据格式规范，是对 JSON 格式的扩展，支持注释等特性。
   - [BSON Specification](http://bsonspec.org/) - Binary JSON 数据格式规范。
-  - Newline-separated json dataset
+  - Newline-separated json dataset (`.jsonl`)
     - [NDJSON Specification](http://ndjson.org/) - Newline Delimited JSON 数据格式规范。
-    - [JSON Lines](https://jsonlines.org/) - `.jsonl` 格式。
+    - [JSON Lines](https://jsonlines.org/)
 
 - Markdown
   - [CommonMark](https://commonmark.org/) - 一个高度兼容，定义严格的 Markdown 规范。
