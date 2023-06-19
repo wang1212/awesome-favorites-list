@@ -16,6 +16,7 @@ _（Recommend） :point_right: [awesome-artificial-intelligence](https://github.
 - [社区（Community）](#社区)
 - [资讯（News）](#资讯)
 - [教程（Tutorial）](#教程)
+- [工具（Tools）](#工具)
 
 ## 社区
 
@@ -43,5 +44,14 @@ _Tutorial._
 - [Stanford CS229 - Machine Learning](https://see.stanford.edu/Course/CS229)
 - [People + AI Guidebook](https://pair.withgoogle.com/guidebook) - 一套使用 AI 进行设计的方法、最佳实践和示例。
 - [Prompt Engineering Guide](https://www.promptingguide.ai/)
+
+[`Go Top ↑`](#awesome-ai-dev-list)
+
+## 工具
+
+_Tools._
+
+- [Gradio](https://gradio.app/) - 快速构建机器学习应用。
+- [Streamlit](https://streamlit.io/) - 快速构建数据应用。
 
 [`Go Top ↑`](#awesome-ai-dev-list)
