@@ -55,6 +55,7 @@
 
 - [Chocolatey](https://chocolatey.org/)
 - [Scoop](https://scoop.sh/)
+- [WinGet](https://github.com/microsoft/winget-cli) - **微软官方发布**。
 
 [`Go Top ↑`](#awesome-software)
 
