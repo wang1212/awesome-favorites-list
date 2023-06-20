@@ -371,6 +371,8 @@ _see also 👉  [JS-工具库](./awesome-dev-web-front-end.md#js-工具库) | [a
     - [gm](http://aheckmann.github.io/gm/) - 图像处理，需先安装 [GraphicsMagick](http://www.graphicsmagick.org/) 或 [ImageMagick](https://imagemagick.org/index.php)。
   - svg
     - [SVGO](https://github.com/svg/svgo) - SVG 文件优化工具。
+  - json/jsonl
+    - [stream-json](https://github.com/uhop/stream-json) - 大型数据集的流式处理。
 
 - HTML 模板引擎（HTML Template Engines）
   - [EJS](https://ejs.co)
