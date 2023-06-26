@@ -342,7 +342,8 @@ _see also 👉  [Node.JS-工具库](./awesome-dev-nodejs.md#工具库)_
   - [Luxon](https://moment.github.io/luxon/) - 现代化、api 友好的日期、时间处理库，Moment.js 团队开发。
   - [date-fns](https://date-fns.org/)
   - [Day.js](https://github.com/iamkun/dayjs) - 现代化、轻量级日期、时间处理库。
-  - [ms](https://github.com/vercel/ms) - 毫秒格式化工具。
+  - [ms](https://github.com/vercel/ms) - 毫秒和人类可读字符串格式互相转换工具。
+  - [pretty-ms](https://github.com/sindresorhus/pretty-ms) - 毫秒转换为人类可读字符串。
 
 - 科学计算（Compute - Math && High precision && Scientific Computing）
   - [math.js](https://mathjs.org/) - 基本数学计算。
