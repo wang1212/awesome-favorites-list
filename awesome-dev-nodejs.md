@@ -344,9 +344,13 @@ _see also 👉  [JS-工具库](./awesome-dev-web-front-end.md#js-工具库) | [a
     - [memfs](https://github.com/streamich/memfs) - 内存文件系统。
     - [rotating-file-stream](https://github.com/iccicci/rotating-file-stream) - 文件流自动轮转，可用于日志文件分割，类似 UNIX `logrotate`。
     - [file-type](https://github.com/sindresorhus/file-type) - 探测文件类型。
-    - [filesize.js](https://filesizejs.com/) - 测量文件大小并以人类可读的方式展示。
     - [fdir](https://thecodrr.github.io/fdir/) - 最快的目录搜索器。
     - [Tmp](https://github.com/raszi/node-tmp) - 生成临时文件和目录。
+    - Size String Format
+      - [bytes.js](https://github.com/visionmedia/bytes.js)
+      - [pretty-bytes](https://github.com/sindresorhus/pretty-bytes)
+      - [filesize.js](https://filesizejs.com/) - 测量文件大小并以人类可读的方式展示。
+      - [byte-size](https://github.com/75lb/byte-size)
   - html/xml
     - [jsdom](https://github.com/jsdom/jsdom) - Web 标准的纯 JavaScript 实现。
     - [cheerio](https://cheerio.js.org/) - 包装了[parse5](https://github.com/inikulin/parse5) 和 [htmlparser2](https://github.com/fb55/htmlparser2/) 的轻量级 HTML 文档解析库，具有类 jQuery 的 api。
