@@ -498,7 +498,7 @@ _see also 👉  [JS-工具库](./awesome-dev-web-front-end.md#js-工具库) | [a
   - [nve](https://github.com/ehmicky/nve) - 用指定版本的 Node 运行命令。   
 - Concurrent / Parallel
   - [concurrently](https://github.com/open-cli-tools/concurrently) - 并行执行多个命令。
-  - [npm-run-all](https://github.com/mysticatea/npm-run-all)
+  - [npm-run-all](https://github.com/mysticatea/npm-run-all) - （⚠️ 不再更新）
   - [wireit](https://github.com/google/wireit) - 任务运行器。
 
 [`Go Top ↑`](#awesome-nodejs-list)
