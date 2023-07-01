@@ -191,6 +191,15 @@
   - [Polly.js](https://netflix.github.io/pollyjs/#/) - HTTP 模拟。
   - [fuite](https://github.com/nolanlawson/fuite) - CLI 工具，发现 Web 应用的内存泄露问题。
 
+- 数据校验（Data Validation）
+  - [ajv](https://github.com/ajv-validator/ajv) - JSON Schema validator。
+  - [joi](https://joi.dev/)
+  - [yup](https://github.com/jquense/yup)
+  - [ow](https://sindresorhus.com/ow/) - 方法参数校验。
+  - [v8n](https://imbrn.dev/v8n/)
+  - [validator](https://github.com/validatorjs/validator.js) - 字符串校验。
+  - [Zod](https://zod.dev/)
+
 - 模拟 API（Mock API）
   - [JSON Server](https://github.com/typicode/json-server) - 可快速启动一个提供 REST API 的服务器，并返回指定测试数据。  
   - [Nock](https://github.com/nock/nock) - 模拟 API 服务，响应指定测试数据。
@@ -302,39 +311,85 @@
 *Tool Library, some unofficial high-quality Node.js packages (or libraries).*
 
 _see also 👉  [awesome-nodejs](https://github.com/zerolab-fe/awesome-nodejs)_
-  
-- 异步操作（Asynchronous operation）
-  - [promise-fun](https://github.com/sindresorhus/promise-fun) - `Promise` 工具库集合。
-  
-- 多进程/线程编程（Multi-process/thread programming）
-  - 线程池
-    - [workerpool](https://github.com/josdejong/workerpool) - 轻量线程池工具，支持 Node.js 与 Web 浏览器环境。
-    - [piscina](https://github.com/piscinajs/piscina)
-    - [threads.js](https://threads.js.org/) - 在浏览器和 Node.js 环境中实现一致的 Web Worker API。
-  - 工具（Tools）
-    - [execa](https://github.com/sindresorhus/execa) - 对官方 [`child_process`](https://nodejs.org/api/child_process.html) 模块的改进。
-  
-- 数据校验（Data Validation）
-  - [ajv](https://github.com/ajv-validator/ajv) - JSON Schema validator。
-  - [joi](https://joi.dev/)
-  - [yup](https://github.com/jquense/yup)
-  - [ow](https://sindresorhus.com/ow/) - 方法参数校验。
-  - [v8n](https://imbrn.dev/v8n/)
-  - [validator](https://github.com/validatorjs/validator.js) - 字符串校验。
-  - [Zod](https://zod.dev/)
+
+- 实用工具（Utils）
+  - 颜色解析（Color）
+    - [chroma.js](https://vis4.net/chromajs/) - 颜色字符串解析、计算工具，功能很强大。
+    - [color](https://github.com/Qix-/color) - 颜色字符串解析、计算工具，更轻量。
+    - [TinyColor](https://github.com/bgrins/TinyColor) - 颜色字符串解析、计算工具，更轻量一些。（:warning: 不再更新）
+    - [one.color](https://github.com/One-com/one-color) - 颜色字符串解析、计算工具，支持 RGB, HSV, HSL, CMYK 等。   
+  - 异步操作（Asynchronous operation）
+    - [promise-fun](https://github.com/sindresorhus/promise-fun) - `Promise` 工具库集合。
+  - 其它（Others）
+    - [normalizr](https://github.com/paularmstrong/normalizr) - 根据 Schema 将嵌套的 JSON 数据归一化。
+    - [Anchorme.js](https://alexcorvi.github.io/anchorme.js/) - 将文本中的 URL/邮箱等转换为链接。
+
+- 实用函数库（utility library）
+  - 通用（Generic）   
+    - [Underscore](https://underscorejs.org/) - JavaScript 的工具函数库，提供了大量非常有用的工具函数。
+    - [Lodash](https://lodash.com/) - JavaScript 的工具函数库，参考自 Underscore，功能更丰富。
+    - [Ramda](https://ramdajs.com/) - JavaScript 的工具函数库，专门针对于函数式编程。
+      - [rambda](https://selfrefactor.github.io/rambda/#/) - Ramda 的更快、更轻量的替代方案。
+    - [Remeda.js](https://remedajs.com/) - JavaScript 的工具函数库，专门针对于函数式编程，同时支持 "data-first" 和 "data-last" 的范式。
+    - [ts-belt](https://mobily.github.io/ts-belt/) - JavaScript 的工具函数库，专门针对于函数式编程，更快、更现代化。
+    - [RxJS](https://rxjs.dev/) - 响应式编程（Reactive Extensions）的 JavaScript 实现，对异步数据集合处理很方便。
+    - [deepmerge](https://github.com/TehShrike/deepmerge) - 对象的深度合并，可自定义合并策略。
+  - 深度相等判断（Equal depth）
+    - [fast-deep-equal](https://github.com/epoberezkin/fast-deep-equal) - 高性能，支持比较 ES6 Map, Set 和 Typed arrays。（:warning: 不再更新）
+    - [dequal](https://github.com/lukeed/dequal)
+    - [microdiff](https://github.com/AsyncBanana/microdiff) - 高性能数组与对象的相等比较。
+    - [diff](https://github.com/kpdecker/jsdiff) - 文本差异算法。
+  - 函数记忆化（Function memoization）
+    - [mem](https://github.com/sindresorhus/mem) - 函数缓存，可控制缓存有效期等。
+    - [moize](https://planttheidea.github.io/moize/) - 函数缓存，功能丰富。
+    - [memoize-one](https://github.com/alexreardon/memoize-one) - 函数缓存，轻量级，仅缓存最后一次执行结果。
+
+- UID
+  - [uuid](https://github.com/uuidjs/uuid) - 生成随机唯一 id。
+  - [ulid](https://github.com/ulid/javascript) - 生成可排序的唯一 id。（:warning: 不再更新）
+  - [Nano ID](https://zelark.github.io/nano-id-cc/) - 生成唯一、URL 友好、安全的随机字符串。
+  - [cuid](https://github.com/ericelliott/cuid) - 生成防碰撞的随机 id。（:warning: 不再更新）
+
+- 日期时间（Date && Time）
+  - [Moment.js](https://momentjs.com/) - 功能强大的日期、时间处理库。
+  - [Luxon](https://moment.github.io/luxon/) - 现代化、api 友好的日期、时间处理库，Moment.js 团队开发。
+  - [date-fns](https://date-fns.org/)
+  - [Day.js](https://github.com/iamkun/dayjs) - 现代化、轻量级日期、时间处理库。
+  - [ms](https://github.com/vercel/ms) - 毫秒和人类可读字符串格式互相转换工具。
+  - [pretty-ms](https://github.com/sindresorhus/pretty-ms) - 毫秒转换为人类可读字符串。
+
+- 科学计算（Compute - Math && High precision && Scientific Computing）
+  - [math.js](https://mathjs.org/) - 基本数学计算。
+  - [big.js](https://mikemcl.github.io/big.js/) - 十进制数计算，还有相关的 [bignumber.js](https://mikemcl.github.io/bignumber.js/) 和 [decimal.js](https://mikemcl.github.io/decimal.js/)。
+  - [stdlib](https://stdlib.io/)
+  - [glMatrix](http://glmatrix.net/) - 矩阵和矢量运算。
+  - [currency.js](https://currency.js.org/) - 轻量的货币计算工具库。
+  - [Dinero.js](https://github.com/dinerojs/dinero.js) - 货币计算。
   
 - 数据操作（Data Manipulation）
   - [Danfo.js](https://danfo.jsdata.org/) - 处理结构化数据的工具库，类似 Python 的 [Pandas](https://pandas.pydata.org/pandas-docs/stable/index.html)。
   - [bson](https://github.com/mongodb/js-bson) - BSON 格式数据解析器，**MongoDB 官方发布**。
   - [construct-js](https://github.com/francisrstokes/construct-js) - Byte 级别数据操作工具库。
+  - [Buffer](https://github.com/feross/buffer) - 可在浏览器中使用与 [`Node.js Buffer API`](https://nodejs.org/api/buffer.html) 100% 相同的 API。
   
 - 数据加密、解密（Data encryption and decryption）
   - [bcrypt](https://github.com/kelektiv/node.bcrypt.js) - 生成密码哈希值。
+  - [crypto-js](https://github.com/brix/crypto-js) - JavaScript 加密库。
+  - [https://github.com/digitalbazaar/forge](https://www.npmjs.com/package/node-forge) - JavaScript 加密库。
+  - [md5.js](https://github.com/crypto-browserify/md5.js) - md5 哈希库。（:warning: 不再更新）
+  - [md5](https://github.com/pvorb/node-md5) - md5 哈希库。
+  - [object-hash](https://github.com/puleos/object-hash) - 对 JavaScript 对象进行 hash 处理。
+  - [crypto-browserify](https://github.com/crypto-browserify/crypto-browserify) - Node 中 `crypto` 模块在浏览器中的实现。（:warning: 不再更新）
+  - [SJCL](http://bitwiseshiftleft.github.io/sjcl/) - JavaScript 加密库。（:warning: 不再更新）
   
 - 文本解析/模式匹配（Text parsing/Pattern matching） 
   - [minimatch](https://github.com/isaacs/minimatch)
   - [globby](https://github.com/sindresorhus/globby) - 基于 `fast-glob`，模式匹配。
   - [braces](https://github.com/micromatch/braces) - 大括号模式匹配。
+
+- 二维码（QR Code）
+  - [node-qrcode](https://github.com/soldair/node-qrcode) - 二维码生成。
+  - [Awesome-qr.js](https://www.bitcat.cc/webapp/awesome-qr/index.html) - 个性化二维码生成。（:warning: 不再更新）
   
 - 文件（File）
   - utils tools
@@ -352,32 +407,48 @@ _see also 👉  [awesome-nodejs](https://github.com/zerolab-fe/awesome-nodejs)_
       - [filesize.js](https://filesizejs.com/) - 测量文件大小并以人类可读的方式展示。
       - [byte-size](https://github.com/75lb/byte-size)
   - html/xml
+    - [parse-xml](https://github.com/rgrove/parse-xml) - XML 解析器。
     - [jsdom](https://github.com/jsdom/jsdom) - Web 标准的纯 JavaScript 实现。
     - [cheerio](https://cheerio.js.org/) - 包装了[parse5](https://github.com/inikulin/parse5) 和 [htmlparser2](https://github.com/fb55/htmlparser2/) 的轻量级 HTML 文档解析库，具有类 jQuery 的 api。
   - markdown
-    - [Marked](https://marked.js.org/) - Markdown 解析器。（支持 Web）
-    - [markdown-it](https://github.com/markdown-it/markdown-it) - Markdown 解析器。（支持 Web）
+    - [Marked](https://marked.js.org/) - Markdown 解析器。
+    - [markdown-it](https://github.com/markdown-it/markdown-it) - Markdown 解析器。
     - [gray-matter](https://github.com/jonschlinkert/gray-matter) - 解析 [Front Matter](https://jekyllrb.com/docs/front-matter/)。
     - [front-matter](https://github.com/jxson/front-matter) - 解析 Front Matter。
+    - [Showdown](https://showdownjs.com/) - Markdown 到 HTML 的转换器。
+  - json/json5/jsonl
+    - [stream-json](https://github.com/uhop/stream-json) - 大型数据集的流式处理。
+    - [JSON5](https://json5.org/) - JSON5 格式数据解析、序列化。
   - yaml
     - [js-yaml](https://github.com/nodeca/js-yaml) - yaml 文件解析和生成。
-  - zip
-    - [ADM-ZIP](https://github.com/cthackers/adm-zip)
-    - [Archiver](https://www.archiverjs.com/) - 生成存档文件的流式接口。
-    - [node-stream-zip](https://github.com/antelle/node-stream-zip) - 支持大的 zip 文件。    
   - csv
-    - [CSV](https://csv.js.org/) - 功能全面的 csv 文件生成、解析、转换、序列化工具。     
-  - docx
-    - [officegen](https://github.com/Ziv-Barber/officegen) - 生成 Office 文档。 
+    - [CSV](https://csv.js.org/) - 功能全面的 csv 文件生成、解析、转换、序列化工具。
+    - [Papa Parse](https://www.papaparse.com/)
   - xlsx
-    - [xlsx-cli](https://github.com/SheetJS/sheetjs/tree/master/packages/xlsx-cli) - 处理 excel 文件的命令行工具，基于 [`xlsx`](https://www.npmjs.com/package/xlsx)。
+    - [exceljs](https://github.com/exceljs/exceljs) - 读、写 xlsx、csv 文件。  
+    - [xlsx](https://sheetjs.com/) - 读、写 xlsx、csv 文件（写功能部分特性不免费）。
+      - [xlsx-cli](https://github.com/SheetJS/sheetjs/tree/master/packages/xlsx-cli) - 处理 excel 文件的命令行工具，基于 [`xlsx`](https://www.npmjs.com/package/xlsx)。
+  - docx
+    - [officegen](https://github.com/Ziv-Barber/officegen) - 生成 Office 文档。
+    - [docx](https://github.com/dolanmiu/docx) - 生成 docx 文档。
+    - [mammoth](https://github.com/mwilliamson/mammoth.js) - docx 转换成 HTML。
+  - pptx
+    - [PptxGenJS](https://gitbrent.github.io/PptxGenJS/) - 生成 `pptx` 文件。
+  - pdf
+    - [PDF-LIB](https://pdf-lib.js.org/) - 解析和操作 PDF 文件。
+    - [jsPDF](https://github.com/MrRio/jsPDF) - Web 客户端生成 PDF 文件。
+    - [PDFKit](http://pdfkit.org/) - 生成 PDF 文件。
+    - [pdfmake](http://pdfmake.org/)
   - image
     - [sharp](https://sharp.pixelplumbing.com/) - 图像处理，拉伸、缩放、色彩提取等等，底层使用 [libvips](https://libvips.github.io/libvips/)，无需安装其它依赖，开箱即用，效率更高。
     - [gm](http://aheckmann.github.io/gm/) - 图像处理，需先安装 [GraphicsMagick](http://www.graphicsmagick.org/) 或 [ImageMagick](https://imagemagick.org/index.php)。
   - svg
     - [SVGO](https://github.com/svg/svgo) - SVG 文件优化工具。
-  - json/jsonl
-    - [stream-json](https://github.com/uhop/stream-json) - 大型数据集的流式处理。
+  - zip
+    - [JSZip](https://github.com/Stuk/jszip) - 创建/读写 zip 文件。
+    - [ADM-ZIP](https://github.com/cthackers/adm-zip)
+    - [Archiver](https://www.archiverjs.com/) - 生成存档文件的流式接口。
+    - [node-stream-zip](https://github.com/antelle/node-stream-zip) - 支持大的 zip 文件。
 
 - HTML 模板引擎（HTML Template Engines）
   - [EJS](https://ejs.co)
@@ -403,6 +474,14 @@ _see also 👉  [awesome-nodejs](https://github.com/zerolab-fe/awesome-nodejs)_
   - [WebSocket-Node](https://github.com/theturtle32/WebSocket-Node)
   - [ws](https://github.com/websockets/ws) - Node.js WebSocket 客户端和服务器。
   - [faye-websocket](https://github.com/faye/faye-websocket-node)
+
+- 多进程/线程编程（Multi-process/thread programming）
+  - 线程池
+    - [workerpool](https://github.com/josdejong/workerpool) - 轻量线程池工具，支持 Node.js 与 Web 浏览器环境。
+    - [piscina](https://github.com/piscinajs/piscina)
+    - [threads.js](https://threads.js.org/) - 在浏览器和 Node.js 环境中实现一致的 Web Worker API。
+  - 工具（Tools）
+    - [execa](https://github.com/sindresorhus/execa) - 对官方 [`child_process`](https://nodejs.org/api/child_process.html) 模块的改进。
 
 - 队列与作业调度（Queue & Job scheduling）
   - [node-schedule](https://github.com/node-schedule/node-schedule) - 支持 `cron` 方式。
