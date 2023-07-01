@@ -331,26 +331,12 @@ _see also 👉  [Node.JS-工具库](./awesome-dev-nodejs.md#工具库)_
   - svg
     - [Trianglify](https://github.com/qrohlf/trianglify) - 通过算法生成三角网 SCG 背景图。(:point_right: https://trianglify.io/)
 
-- HTTP 请求（HTTP - Ajax / Promise / fetch）
-  - [axios](https://github.com/axios/axios) - 基于 Promise 的 HTTP 客户端工具库。
-    - [axios-mock-adapter](https://github.com/ctimmerm/axios-mock-adapter) - Mock API。
-  - [Hyper Fetch](https://hyperfetch.bettertyped.com/) - 支持 WebScoket 协议。
-
 - 套接字（Socket / TCP）
   - [socket.io-client](https://socket.io/) - 优秀的实时通信客户端框架。
   - [sockjs-client](https://github.com/sockjs/sockjs-client) - 实时工具库，支持多种语言实现的后端。
 
 - WebRTC
   - [PeerJS](https://peerjs.com/) - 对 `WebRTC` API 的简单抽象。
-
-- OCR
-  - ['tesseract.js](https://github.com/naptha/tesseract.js) - 支持 100 种语言的图像文本识别。
-
-- 自然语言处理（NLP）
-  - [compromise](http://compromise.cool/)
-
-- 国际化（i18n）
-  - [Format.js](https://formatjs.io/)
 
 - 其它（Other）
   - [HyperFormula](https://handsontable.github.io/hyperformula/) - 计算引擎，商业产品 Handsontable 团队维护。
