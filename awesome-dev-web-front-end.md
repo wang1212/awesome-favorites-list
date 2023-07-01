@@ -420,6 +420,7 @@ _see also 👉  [Node.JS-工具库](./awesome-dev-nodejs.md#工具库)_
 - HTTP 请求（HTTP - Ajax / Promise / fetch）
   - [axios](https://github.com/axios/axios) - 基于 Promise 的 HTTP 客户端工具库。
     - [axios-mock-adapter](https://github.com/ctimmerm/axios-mock-adapter) - Mock API。
+  - [Hyper Fetch](https://hyperfetch.bettertyped.com/) - 支持 WebScoket 协议。
 
 - 套接字（Socket / TCP）
   - [socket.io-client](https://socket.io/) - 优秀的实时通信客户端框架。
