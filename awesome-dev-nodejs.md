@@ -25,7 +25,7 @@
 - [工具库（Tool Library）](#工具库)
 - [命令行工具（Command Line Tools）](#命令行工具)
 - [数据库（Database）](#数据库)
-- [Web 框架（Web Framework）](#web-框架)
+- [Web 服务器框架（Web Server Framework）](#web-server框架)
 - [内容管理系统（Content Management System）](#内容管理系统)
 - [桌面端开发（Desktop Development）](#桌面端开发)
 - [深入探索（Explore In Depth）](#深入探索)
@@ -463,11 +463,6 @@ _see also 👉  [awesome-nodejs](https://github.com/zerolab-fe/awesome-nodejs)_
   - [axios](https://github.com/axios/axios) - 基于 Promise 的 HTTP 客户端工具库。
     - [axios-mock-adapter](https://github.com/ctimmerm/axios-mock-adapter) - Mock API。
   - [Hyper Fetch](https://hyperfetch.bettertyped.com/) - 支持 WebScoket 协议。
-
-- HTTP 服务器（Static HTTP Server）
-  - [http-server](https://github.com/http-party/http-server) - 可快速启动一个轻量的 http 服务器。
-  - [serve](https://github.com/vercel/serve) - 轻量的 http 服务器。
-  - [CORS Anywhere](https://github.com/Rob--W/cors-anywhere) - 反向代理服务器。
   
 - 远程过程调用（RPC）
   - [Lounge](https://thelounge.chat/) - 现代的 Web RPC 客户端。
@@ -513,13 +508,6 @@ _see also 👉  [awesome-nodejs](https://github.com/zerolab-fe/awesome-nodejs)_
   - [testcafe](https://devexpress.github.io/testcafe/)
   - [Nightwatch.js](https://nightwatchjs.org/)
   - [Nightmare](http://www.nightmarejs.org/)
-
-- 系统组件（System Components）
-  - [node-notifier](https://github.com/mikaelbr/node-notifier) - 跨平台原生通知功能。
-
-- 原生 API（Native）
-  - [node-windows](https://github.com/coreybutler/node-windows) - Windows 平台对 Node.js 脚本（守护程序，事件日志，UAC 等）的支持。
-  - [systeminformation](https://github.com/sebhildebrandt/systeminformation) - 获取系统信息。
 
 - Git
   - [nodegit](https://www.nodegit.org/)
@@ -568,6 +556,10 @@ _see also 👉  [awesome-nodejs](https://github.com/zerolab-fe/awesome-nodejs)_
     - [ora](https://github.com/sindresorhus/ora) - 终端 spinner 效果。
     - [progress](https://github.com/visionmedia/node-progress) - 进度条。（⚠️ 不再积极开发）
     - [cli-progress](https://github.com/npkgz/cli-progress) - 进度条。
+  - Concurrent / Parallel
+    - [concurrently](https://github.com/open-cli-tools/concurrently) - 并行执行多个命令。
+    - [npm-run-all](https://github.com/mysticatea/npm-run-all) - （⚠️ 不再更新）
+    - [wireit](https://github.com/google/wireit) - 任务运行器。
   - [table](https://github.com/gajus/table) - 将数组数据打印成字符串表格。
 
 - 命令行应用开发框架（CLI App Dev）
@@ -588,10 +580,10 @@ _see also 👉  [awesome-nodejs](https://github.com/zerolab-fe/awesome-nodejs)_
 
 - Interpreter
   - [nve](https://github.com/ehmicky/nve) - 用指定版本的 Node 运行命令。   
-- Concurrent / Parallel
-  - [concurrently](https://github.com/open-cli-tools/concurrently) - 并行执行多个命令。
-  - [npm-run-all](https://github.com/mysticatea/npm-run-all) - （⚠️ 不再更新）
-  - [wireit](https://github.com/google/wireit) - 任务运行器。
+- HTTP 服务器（Static HTTP Server）
+  - [http-server](https://github.com/http-party/http-server) - 可快速启动一个轻量的 http 服务器。
+  - [serve](https://github.com/vercel/serve) - 轻量的 http 服务器。
+  - [CORS Anywhere](https://github.com/Rob--W/cors-anywhere) - 反向代理服务器。（⚠️ 不再更新）
 
 [`Go Top ↑`](#awesome-nodejs-list)
 
@@ -629,7 +621,7 @@ _see also 👉  [awesome-nodejs](https://github.com/zerolab-fe/awesome-nodejs)_
 
 [`Go Top ↑`](#awesome-nodejs-list)
 
-## Web 框架
+## Web Server 框架
 
 *Node.js-based server development framework.*
 
@@ -673,12 +665,20 @@ _see also 👉  [awesome-nodejs](https://github.com/zerolab-fe/awesome-nodejs)_
 
 *Desktop-side application development framework.*
 
-- [Electron](https://electronjs.org/) - 基于 Node.js 与 Chromium 技术的开源跨平台桌面端应用开发解决方案。
-- [NW.js](https://nwjs.io/) - 基于 Node.js 与 Chromium 技术的开源跨平台桌面端应用开发解决方案。
-- [Neutralino](https://neutralino.js.org/) - 轻量级跨平台桌面端应用开发框架。
-- [NodeGui](https://docs.nodegui.org/)
-- [robot.js](https://robotjs.io/) - 桌面端自动化库。
-- [tauri](https://tauri.studio/)
+- 系统组件（System Components）
+  - [node-notifier](https://github.com/mikaelbr/node-notifier) - 跨平台原生通知功能。
+
+- 原生 API（Native）
+  - [node-windows](https://github.com/coreybutler/node-windows) - Windows 平台对 Node.js 脚本（守护程序，事件日志，UAC 等）的支持。
+  - [systeminformation](https://github.com/sebhildebrandt/systeminformation) - 获取系统信息。
+
+- 开发框架（Development Framework）
+  - [Electron](https://electronjs.org/) - 基于 Node.js 与 Chromium 技术的开源跨平台桌面端应用开发解决方案。
+  - [NW.js](https://nwjs.io/) - 基于 Node.js 与 Chromium 技术的开源跨平台桌面端应用开发解决方案。
+  - [Neutralino](https://neutralino.js.org/) - 轻量级跨平台桌面端应用开发框架。
+  - [NodeGui](https://docs.nodegui.org/)
+  - [robot.js](https://robotjs.io/) - 桌面端自动化库。
+  - [tauri](https://tauri.studio/)
 
 [`Go Top ↑`](#awesome-nodejs-list)
 
