@@ -455,15 +455,19 @@ _see also 👉  [awesome-nodejs](https://github.com/zerolab-fe/awesome-nodejs)_
   - [Handlebars.js](http://handlebarsjs.com/)
   - [Jade](http://jade-lang.com/)
 
+- HTTP 请求（HTTP Request - Ajax / Promise / fetch）
+  - `multipart/form-data` 
+    - [form-data](https://github.com/form-data/form-data) - 创建 `multipart/form-data` 数据，并提供正确的 Headers。
+    - [formidable ](https://github.com/node-formidable/formidable) - 解析请求中的 `multipart/form-data` 数据。
+    - [Busboy](https://github.com/mscdex/busboy) -  解析请求中的 `multipart/form-data` 数据，支持流。
+  - [axios](https://github.com/axios/axios) - 基于 Promise 的 HTTP 客户端工具库。
+    - [axios-mock-adapter](https://github.com/ctimmerm/axios-mock-adapter) - Mock API。
+  - [Hyper Fetch](https://hyperfetch.bettertyped.com/) - 支持 WebScoket 协议。
+
 - HTTP 服务器（Static HTTP Server）
   - [http-server](https://github.com/http-party/http-server) - 可快速启动一个轻量的 http 服务器。
   - [serve](https://github.com/vercel/serve) - 轻量的 http 服务器。
   - [CORS Anywhere](https://github.com/Rob--W/cors-anywhere) - 反向代理服务器。
-
-- HTTP 请求（HTTP Request）
-  - [form-data](https://github.com/form-data/form-data) - 创建 `multipart/form-data` 数据，并提供正确的 Headers。
-  - [formidable ](https://github.com/node-formidable/formidable) - 解析请求中的 `multipart/form-data` 数据。
-  - [Busboy](https://github.com/mscdex/busboy) -  解析请求中的 `multipart/form-data` 数据，支持流。
   
 - 远程过程调用（RPC）
   - [Lounge](https://thelounge.chat/) - 现代的 Web RPC 客户端。
@@ -520,6 +524,15 @@ _see also 👉  [awesome-nodejs](https://github.com/zerolab-fe/awesome-nodejs)_
 - Git
   - [nodegit](https://www.nodegit.org/)
   - [simple-git](https://github.com/steveukx/git-js)
+
+- OCR
+  - ['tesseract.js](https://github.com/naptha/tesseract.js) - 支持 100 种语言的图像文本识别。
+
+- 自然语言处理（NLP）
+  - [compromise](http://compromise.cool/)
+
+- 国际化（i18n）
+  - [Format.js](https://formatjs.io/)
 
 - 其它（Others）
   - [ssh2](https://github.com/mscdex/ssh2) - SSH 客户端和服务器。
