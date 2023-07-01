@@ -253,28 +253,6 @@
 _see also 👉  [Node.JS-工具库](./awesome-dev-nodejs.md#工具库)_
 
 - 实用工具（Utils）
-  - [chroma.js](https://vis4.net/chromajs/) - 颜色字符串解析、计算工具，功能很强大。
-  - [color](https://github.com/Qix-/color) - 颜色字符串解析、计算工具，更轻量。
-  - [TinyColor](https://github.com/bgrins/TinyColor) - 颜色字符串解析、计算工具，更轻量一些。（:warning: 不再更新）
-  - [one.color](https://github.com/One-com/one-color) - 颜色字符串解析、计算工具，支持 RGB, HSV, HSL, CMYK 等。
-  - [normalizr](https://github.com/paularmstrong/normalizr) - 根据 Schema 将嵌套的 JSON 数据归一化。
-  - [Anchorme.js](https://alexcorvi.github.io/anchorme.js/) - 将文本中的 URL/邮箱等转换为链接。
-
-- 实用函数库（utility library）
-  - [Underscore](https://underscorejs.org/) - JavaScript 的工具函数库，提供了大量非常有用的工具函数。
-  - [Lodash](https://lodash.com/) - JavaScript 的工具函数库，参考自 Underscore，功能更丰富。
-  - [Ramda](https://ramdajs.com/) - JavaScript 的工具函数库，专门针对于函数式编程。
-    - [rambda](https://selfrefactor.github.io/rambda/#/) - Ramda 的更快、更轻量的替代方案。
-  - [Remeda.js](https://remedajs.com/) - JavaScript 的工具函数库，专门针对于函数式编程，同时支持 "data-first" 和 "data-last" 的范式。
-  - [ts-belt](https://mobily.github.io/ts-belt/) - JavaScript 的工具函数库，专门针对于函数式编程，更快、更现代化。
-  - [RxJS](https://rxjs.dev/) - 响应式编程（Reactive Extensions）的 JavaScript 实现，对异步数据集合处理很方便。
-  - [deepmerge](https://github.com/TehShrike/deepmerge) - 对象的深度合并，可自定义合并策略。
-
-- UID
-  - [uuid](https://github.com/uuidjs/uuid) - 生成随机唯一 id。
-  - [ulid](https://github.com/ulid/javascript) - 生成可排序的唯一 id。（:warning: 不再更新）
-  - [Nano ID](https://zelark.github.io/nano-id-cc/) - 生成唯一、URL 友好、安全的随机字符串。
-  - [cuid](https://github.com/ericelliott/cuid) - 生成防碰撞的随机 id。（:warning: 不再更新）
 
 - 文档对象模型（DOM）
   - [jQuery](https://jquery.com/) - 前几年非常流行的 DOM 操作工具库，处理了兼容性的细节问题。
@@ -314,44 +292,7 @@ _see also 👉  [Node.JS-工具库](./awesome-dev-nodejs.md#工具库)_
 
 - Cookie
   - [js-cookie](https://github.com/js-cookie/js-cookie) - 轻量的 Cookie 处理工具库。
-  - [universal-cookie](https://github.com/reactivestack/cookies/tree/master/packages/universal-cookie)
-
-- 数据与缓存（Data && Cache）
-  - [crypto-js](https://github.com/brix/crypto-js) - JavaScript 加密库。
-  - [https://github.com/digitalbazaar/forge](https://www.npmjs.com/package/node-forge) - JavaScript 加密库。
-  - [md5.js](https://github.com/crypto-browserify/md5.js) - md5 哈希库。（:warning: 不再更新）
-  - [md5](https://github.com/pvorb/node-md5) - md5 哈希库。
-  - [object-hash](https://github.com/puleos/object-hash) - 对 JavaScript 对象进行 hash 处理。
-  - [crypto-browserify](https://github.com/crypto-browserify/crypto-browserify) - Node 中 `crypto` 模块在浏览器中的实现。（:warning: 不再更新）
-  - [SJCL](http://bitwiseshiftleft.github.io/sjcl/) - JavaScript 加密库。（:warning: 不再更新）
-  - [Buffer](https://github.com/feross/buffer) - 可在浏览器中使用与 [`Node.js Buffer API`](https://nodejs.org/api/buffer.html) 100% 相同的 API。  
-
-- 深度相等判断（Equal depth）
-  - [fast-deep-equal](https://github.com/epoberezkin/fast-deep-equal) - 高性能，支持比较 ES6 Map, Set 和 Typed arrays。（:warning: 不再更新）
-  - [dequal](https://github.com/lukeed/dequal)
-  - [microdiff](https://github.com/AsyncBanana/microdiff) - 高性能数组与对象的相等比较。
-  - [diff](https://github.com/kpdecker/jsdiff) - 文本差异算法。
-
-- 函数记忆化（Function memoization）
-  - [mem](https://github.com/sindresorhus/mem) - 函数缓存，可控制缓存有效期等。
-  - [moize](https://planttheidea.github.io/moize/) - 函数缓存，功能丰富。
-  - [memoize-one](https://github.com/alexreardon/memoize-one) - 函数缓存，轻量级，仅缓存最后一次执行结果。
-
-- 日期时间（Date && Time）
-  - [Moment.js](https://momentjs.com/) - 功能强大的日期、时间处理库。
-  - [Luxon](https://moment.github.io/luxon/) - 现代化、api 友好的日期、时间处理库，Moment.js 团队开发。
-  - [date-fns](https://date-fns.org/)
-  - [Day.js](https://github.com/iamkun/dayjs) - 现代化、轻量级日期、时间处理库。
-  - [ms](https://github.com/vercel/ms) - 毫秒和人类可读字符串格式互相转换工具。
-  - [pretty-ms](https://github.com/sindresorhus/pretty-ms) - 毫秒转换为人类可读字符串。
-
-- 科学计算（Compute - Math && High precision && Scientific Computing）
-  - [math.js](https://mathjs.org/) - 基本数学计算。
-  - [big.js](https://mikemcl.github.io/big.js/) - 十进制数计算，还有相关的 [bignumber.js](https://mikemcl.github.io/bignumber.js/) 和 [decimal.js](https://mikemcl.github.io/decimal.js/)。
-  - [stdlib](https://stdlib.io/)
-  - [glMatrix](http://glmatrix.net/) - 矩阵和矢量运算。
-  - [currency.js](https://currency.js.org/) - 轻量的货币计算工具库。
-  - [Dinero.js](https://github.com/dinerojs/dinero.js) - 货币计算。
+  - [universal-cookie](https://github.com/reactivestack/cookies/tree/master/packages/universal-cookie)  
 
 - 搜索（Search）
   - [lunr.js](https://lunrjs.com/) - （:warning: 不再更新）
@@ -375,35 +316,10 @@ _see also 👉  [Node.JS-工具库](./awesome-dev-nodejs.md#工具库)_
   - [Comlink](https://github.com/GoogleChromeLabs/comlink) - 使 `Web Worker` 的使用更加简单、方便，**Chrome 实验室发布**。
   - [web-worker](https://github.com/developit/web-worker) - 跨平台的 `Web Worker` 实现， 支持 Node.js 与 Web 浏览器环境。
 
-- 二维码（QR Code）
-  - [node-qrcode](https://github.com/soldair/node-qrcode) - 二维码生成。
-  - [Awesome-qr.js](https://www.bitcat.cc/webapp/awesome-qr/index.html) - 个性化二维码生成。（:warning: 不再更新）
-
 - 文件（File）
   - utils
     - [FileSaver.js](https://github.com/eligrey/FileSaver.js/) - Web 浏览器客户端文件保存 api 实现。
     - [StreamSaver.js](https://github.com/jimmywarting/StreamSaver.js) - Web 浏览器客户端异步保存文件 api 实现，解决了 FileSaver 的大小限制问题。
-  - html/xml
-    - [parse-xml](https://github.com/rgrove/parse-xml) - XML 解析器。
-  - json5
-    - [JSON5](https://json5.org/) - JSON5 格式数据解析、序列化。
-  - zip
-    - [JSZip](https://github.com/Stuk/jszip) - 创建/读写 zip 文件。
-  - xlsx
-    - [exceljs](https://github.com/exceljs/exceljs) - 读、写 xlsx、csv 文件。  
-    - [xlsx](https://sheetjs.com/) - 读、写 xlsx、csv 文件（写功能部分特性不免费）。
-  - csv
-    - [Papa Parse](https://www.papaparse.com/)
-  - docx
-    - [docx](https://github.com/dolanmiu/docx) - 生成 docx 文档。
-    - [mammoth](https://github.com/mwilliamson/mammoth.js) - docx 转换成 HTML。
-  - pptx
-    - [PptxGenJS](https://gitbrent.github.io/PptxGenJS/) - 生成 `pptx` 文件。
-  - pdf
-    - [PDF-LIB](https://pdf-lib.js.org/) - 解析和操作 PDF 文件。
-    - [jsPDF](https://github.com/MrRio/jsPDF) - Web 客户端生成 PDF 文件。
-    - [PDFKit](http://pdfkit.org/) - 生成 PDF 文件。
-    - [pdfmake](http://pdfmake.org/)
   - image
     - [Pica](http://nodeca.github.io/pica/demo/) - 图片质量调整。
     - [merge-images](https://github.com/lukechilds/merge-images) - 图片拼接合并。
@@ -414,8 +330,6 @@ _see also 👉  [Node.JS-工具库](./awesome-dev-nodejs.md#工具库)_
     - [howler.js](https://howlerjs.com/) - 强大的音频处理工具库，支持所有的编解码器，跨浏览器支持。
   - svg
     - [Trianglify](https://github.com/qrohlf/trianglify) - 通过算法生成三角网 SCG 背景图。(:point_right: https://trianglify.io/)
-  - markdown
-    - [Showdown](https://showdownjs.com/) - Markdown 到 HTML 的转换器。
 
 - HTTP 请求（HTTP - Ajax / Promise / fetch）
   - [axios](https://github.com/axios/axios) - 基于 Promise 的 HTTP 客户端工具库。
