@@ -671,6 +671,7 @@ _see also 👉  [awesome-nodejs](https://github.com/zerolab-fe/awesome-nodejs)_
 - 原生 API（Native）
   - [node-windows](https://github.com/coreybutler/node-windows) - Windows 平台对 Node.js 脚本（守护程序，事件日志，UAC 等）的支持。
   - [systeminformation](https://github.com/sebhildebrandt/systeminformation) - 获取系统信息。
+  - [node-copy-paste](https://github.com/xavi-/node-copy-paste) - 访问系统粘贴板。
 
 - 开发框架（Development Framework）
   - [Electron](https://electronjs.org/) - 基于 Node.js 与 Chromium 技术的开源跨平台桌面端应用开发解决方案。
