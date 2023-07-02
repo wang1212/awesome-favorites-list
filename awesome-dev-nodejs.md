@@ -239,7 +239,9 @@
       - [styled components](https://www.styled-components.com) - 一种 CSS-in-JS 的解决方案。
     - [modular-css](https://m-css.com/) - CSS 模块的扩展实现。
   - Others
-    - [Neon](https://neon-bindings.com/) - Rust 的 Node.js 绑定，可用来编写快速、安全的原生模块。
+    - [Rust](https://www.rust-lang.org/) 
+      - [Neon](https://neon-bindings.com/) - Rust 的 Node.js 绑定，可用来编写快速、安全的原生模块。
+      - [NAPI-RS](https://napi.rs/) - 使用 Rust 编写预编译的 Node.js 插件的框架。
     - [Ruby](https://www.ruby-lang.org/) 2 JavaScript
       - [Opal](https://opalrb.com/)
       - [Ruby2JS](https://www.ruby2js.com/) - Ruby 到现代 JavaScript 代码的转换器。
