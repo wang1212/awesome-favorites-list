@@ -30,6 +30,8 @@
 
 - [YAML](https://yaml.org/)
 
+- [TOML](https://toml.io/en/)
+
 - [JSON](http://www.json.org/)
   - [JSON Schema](http://json-schema.org/) - JSON 数据校验。
   - [JSON5 Specification](https://spec.json5.org/) - JSON5 数据格式规范，是对 JSON 格式的扩展，支持注释等特性。
