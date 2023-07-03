@@ -44,6 +44,7 @@ _Tutorial._
 - [Stanford CS229 - Machine Learning](https://see.stanford.edu/Course/CS229)
 - [People + AI Guidebook](https://pair.withgoogle.com/guidebook) - 一套使用 AI 进行设计的方法、最佳实践和示例。
 - [Prompt Engineering Guide](https://www.promptingguide.ai/)
+- [Learn Prompting](https://learnprompting.org/)
 
 [`Go Top ↑`](#awesome-ai-dev-list)
 
