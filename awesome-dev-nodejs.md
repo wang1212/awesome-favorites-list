@@ -414,6 +414,7 @@ _see also 👉  [awesome-nodejs](https://github.com/zerolab-fe/awesome-nodejs)_
     - [parse-xml](https://github.com/rgrove/parse-xml) - XML 解析器。
     - [jsdom](https://github.com/jsdom/jsdom) - Web 标准的纯 JavaScript 实现。
     - [cheerio](https://cheerio.js.org/) - 包装了[parse5](https://github.com/inikulin/parse5) 和 [htmlparser2](https://github.com/fb55/htmlparser2/) 的轻量级 HTML 文档解析库，具有类 jQuery 的 api。
+    - [turndown](https://github.com/mixmark-io/turndown) - 将 HTML 内容转换为 Markdown 格式。
   - markdown
     - [Marked](https://marked.js.org/) - Markdown 解析器。
     - [markdown-it](https://github.com/markdown-it/markdown-it) - Markdown 解析器。
