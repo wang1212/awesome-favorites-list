@@ -17,6 +17,7 @@ _（Recommend） :point_right: [awesome-artificial-intelligence](https://github.
 - [资讯（News）](#资讯)
 - [教程（Tutorial）](#教程)
 - [工具（Tools）](#工具)
+- [开发框架（Development Framework）](#开发框架)
 
 ## 社区
 
@@ -54,5 +55,14 @@ _Tools._
 
 - [Gradio](https://gradio.app/) - 快速构建机器学习应用。
 - [Streamlit](https://streamlit.io/) - 快速构建数据应用。
+
+[`Go Top ↑`](#awesome-ai-dev-list)
+
+## 开发框架
+
+_Development Framework._
+
+- [LangChain](https://docs.langchain.com/) - 开发基于语言模型的应用程序。
+- [embedchain](https://github.com/embedchain/embedchain) - 在任何数据集上轻松创建 LLM 支持的机器人。
 
 [`Go Top ↑`](#awesome-ai-dev-list)
