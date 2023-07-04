@@ -56,6 +56,7 @@ _Tools._
 - [Gradio](https://gradio.app/) - 快速构建机器学习应用。
 - [Streamlit](https://streamlit.io/) - 快速构建数据应用。
 - [LocalAI](https://localai.io/) - 一种本地的离线 OpenAI REST API 替代品。
+- [jsonformer](https://github.com/1rgs/jsonformer) - 让大模型输出 JSON 结构化的数据格式。
 
 [`Go Top ↑`](#awesome-ai-dev-list)
 
