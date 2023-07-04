@@ -228,7 +228,6 @@
   - JavaScript / TypeScript
     - [Babel](https://babeljs.io/) - 编译工具，可将 TypeScript、ES6/7/8 代码编译为 JavaScript（ES5） 代码。
     - [swc](https://swc.rs/) - Rust 编写的代码编译转换工具，可替代 Babel。
-    - [TS Node](https://github.com/TypeStrong/ts-node) - Node.js 的 TypeScript 语言运行器和交互式解释器。
   - CSS / Less / Sass
     - [Sass](https://sass-lang.com/) - CSS 预处理器，可提供类似编程语言的能力（变量、方法、作用域、嵌套）来编写 CSS。
       - [Sass Guidelines](https://sass-guidelin.es/) - Sass 语法风格指南，**非官方**。
@@ -585,7 +584,8 @@ _see also 👉  [awesome-nodejs](https://github.com/zerolab-fe/awesome-nodejs)_
 ### 实用工具
 
 - Interpreter
-  - [nve](https://github.com/ehmicky/nve) - 用指定版本的 Node 运行命令。   
+  - [nve](https://github.com/ehmicky/nve) - 用指定版本的 Node 运行命令。
+  - [TS Node](https://github.com/TypeStrong/ts-node) - Node.js 的 TypeScript 语言运行器和交互式解释器。
 - HTTP 服务器（Static HTTP Server）
   - [http-server](https://github.com/http-party/http-server) - 可快速启动一个轻量的 http 服务器。
   - [serve](https://github.com/vercel/serve) - 轻量的 http 服务器。
