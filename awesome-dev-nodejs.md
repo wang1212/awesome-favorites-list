@@ -98,7 +98,7 @@
   - [Denoify](https://github.com/garronej/denoify) - 为 npm 模块作者提供 Deno 支持。
 
 - 包搜索（Package Search）
-  - [OpenBase JavaScript](https://openbase.com/) - npm 模块分类排名。
+  - [npm.io](https://npm.io/) - 聚合搜索引擎。
   - [Npm Trends](https://www.npmtrends.com/) - 可以查询对比多个 Npm 包的下载流量数据、star 数目等。
   - [Moiva](https://moiva.io/) - 比较 Github 和 npm 包下载趋势，关注度等等。
   - [PickBetterPack](https://pickbetterpack.com/) 根据 `package.json` 文件分析已安装包的相似的依赖包。
