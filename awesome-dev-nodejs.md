@@ -554,7 +554,6 @@ _see also 👉  [awesome-nodejs](https://github.com/zerolab-fe/awesome-nodejs)_
   - [yargs](https://yargs.js.org/) - 解析参数，构建交互式命令行程序。
   - [prompts](https://github.com/terkelg/prompts) - 轻量、漂亮的交互式命令行提示。
   - [inquirer](https://github.com/SBoudrias/Inquirer.js) - 交互式命令行。
-  - [readlineSync](https://github.com/anseki/readline-sync) - 同步版本的 `readline`，命令行对话式交互。
   - [shell.js](https://documentup.com/shelljs/shelljs) - 基于 Node.js 的 Unix Shell 命令的可移植实现。
   - Progress / Loading
     - [tasuku](https://github.com/privatenumber/tasuku) - 任务运行器，可在终端展示运行状态。
