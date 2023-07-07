@@ -18,6 +18,7 @@
 - [技术参考文档（Technical Reference Document）](#技术参考文档)
 - [Python 版本管理（Python Version Management）](#python-版本管理)
 - [Python 包管理（Python Package Manage）](#python-包管理)
+- [构建工具（Build Tool）](#构建工具)
 - [工具库（Tool Library）](#工具库)
 - [数据库（Database）](#数据库)
 - [Web 框架（Web Framework）](#web-框架)
@@ -57,6 +58,14 @@ _Python package (or library) manager._
 - 虚拟环境（Virtual Environment）
   - [poetry](https://python-poetry.org/) - 支持虚拟环境管理、依赖管理、发布构建。
   - [Pipenv](https://pipenv.pypa.io/) - Python 开发工作流工具，支持虚拟环境和依赖管理。
+
+[`Go Top ↑`](#awesome-python-list)
+
+## 构建工具
+
+_Some build tools that can be used to configure the environment, compile, type check, etc._
+
+- [Mypy](https://www.mypy-lang.org/) - 静态类型检查器。
 
 [`Go Top ↑`](#awesome-python-list)
 
