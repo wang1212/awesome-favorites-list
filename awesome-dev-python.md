@@ -16,7 +16,8 @@
 
 - [技术规范标准（Technical Specifications）](#技术规范标准)
 - [技术参考文档（Technical Reference Document）](#技术参考文档)
-- [包管理器（Package Manager）](#包管理器)
+- [Python 版本管理（Python Version Management）](#python-版本管理)
+- [Python 包管理（Python Package Manage）](#python-包管理)
 - [工具库（Tool Library）](#工具库)
 - [数据库（Database）](#数据库)
 - [Web 框架（Web Framework）](#web-框架)
@@ -36,24 +37,32 @@
 
 [`Go Top ↑`](#awesome-python-list)
 
-## 包管理器
+## Python 版本管理
 
-*Python package (or library) manager.*
+_Python version management._
 
-- [pip](https://pip.pypa.io/) - Python 官方包管理器，从 [PyPI](https://pypi.org/) 官方仓库安装包。
-- [Anaconda](https://www.anaconda.com/) - 包含 [Conda](https://docs.conda.io/) 包管理器和 Python 发行版，包含上百个科学计算和机器学习库，开箱即用。
-  - [Miniconda](https://docs.conda.io/en/latest/miniconda.html) - Anaconda 微型版本，仅包含 Conda 和 Python 发行版和必要的依赖库。
+- [pyenv](https://github.com/pyenv/pyenv) - Python 版本管理工具。
+
+[`Go Top ↑`](#awesome-python-list)
+
+## Python 包管理
+
+_Python package (or library) manager._
+
+- 包管理器（Packages Manageer）
+  - [pip](https://pip.pypa.io/) - Python 官方包管理器，从 [PyPI](https://pypi.org/) 官方仓库安装包。
+  - [Anaconda](https://www.anaconda.com/) - 包含 [Conda](https://docs.conda.io/) 包管理器和 Python 发行版，包含上百个科学计算和机器学习库，开箱即用。
+    - [Miniconda](https://docs.conda.io/en/latest/miniconda.html) - Anaconda 微型版本，仅包含 Conda 和 Python 发行版和必要的依赖库。
+
+- 虚拟环境（Virtual Environment）
+  - [poetry](https://python-poetry.org/) - 支持虚拟环境管理、依赖管理、发布构建。
+  - [Pipenv](https://pipenv.pypa.io/) - Python 开发工作流工具，支持虚拟环境和依赖管理。
 
 [`Go Top ↑`](#awesome-python-list)
 
 ## 工具库
 
 *Tool Library, some unofficial high-quality Python packages (or libraries).*
-
-- 构建工具（Build Tools）
-  - [pyenv](https://github.com/pyenv/pyenv) - Python 版本管理工具。
-  - [poetry](https://python-poetry.org/) - 支持虚拟环境管理、依赖管理、发布构建。
-  - [Pipenv](https://pipenv.pypa.io/) - Python 开发工作流工具，支持虚拟环境和依赖管理。
 
 - 实用工具（Utils）
 
