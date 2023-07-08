@@ -65,7 +65,12 @@ _Python package (or library) manager._
 
 _Some build tools that can be used to configure the environment, compile, type check, etc._
 
-- [Mypy](https://www.mypy-lang.org/) - 静态类型检查器。
+- 类型检查（Type Checking）
+  - [Mypy](https://www.mypy-lang.org/) - 静态类型检查器。
+
+- 测试（Test）
+  - [pytest](https://docs.pytest.org/) - 单元测试框架。
+  - [Faker](https://github.com/joke2k/faker) - 生成随机数据。
 
 [`Go Top ↑`](#awesome-python-list)
 
@@ -74,10 +79,6 @@ _Some build tools that can be used to configure the environment, compile, type c
 *Tool Library, some unofficial high-quality Python packages (or libraries).*
 
 - 实用工具（Utils）
-
-- 测试（Test）
-  - [pytest](https://docs.pytest.org/) - 单元测试框架。
-  - [Faker](https://github.com/joke2k/faker) - 生成随机数据。
 
 - 科学计算（Compute - Math & Scientific Computing & Analysis）
   - [NumPy](https://numpy.org/) - 最受欢迎的、强大的科学计算工具包。
