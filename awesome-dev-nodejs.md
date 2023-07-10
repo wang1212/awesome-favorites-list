@@ -566,6 +566,7 @@ _see also 👉  [awesome-nodejs](https://github.com/zerolab-fe/awesome-nodejs)_
     - [wireit](https://github.com/google/wireit) - 任务运行器。
   - [table](https://github.com/gajus/table) - 将数组数据打印成字符串表格。
   - [marked-terminal](https://github.com/mikaelbr/marked-terminal) - 利用 marked 将 Markdown 文件渲染到终端。
+  - [asciichart](https://github.com/kroitor/asciichart) - 控制台展示折线图。
 
 - 命令行应用开发框架（CLI App Dev）
   - [Ink](https://github.com/vadimdemedes/ink) - 用 React.js 开发命令行应用。
