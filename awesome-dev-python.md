@@ -20,6 +20,7 @@
 - [Python 包管理（Python Package Manage）](#python-包管理)
 - [构建工具（Build Tool）](#构建工具)
 - [工具库（Tool Library）](#工具库)
+- [命令行工具（Command Line Tools）](#命令行工具)
 - [数据库（Database）](#数据库)
 - [Web 框架（Web Framework）](#web-框架)
 - [更多（More）](#更多)
@@ -96,9 +97,24 @@ _Some build tools that can be used to configure the environment, compile, type c
 
 [`Go Top ↑`](#awesome-python-list)
 
+## 命令行工具
+
+_Command-line applications, build tools and utilities._
+
+### 构建工具
+
+### 实用工具
+
+- [plot-cli](https://plot-cli.readthedocs.io/en/stable/index.html) - 命令行数据可视化工具。（:warning: 不再更新）
+- [plotext](https://pypi.org/project/plotext/) - 终端绘图可视化。
+- [graph-cli](https://github.com/mcastorina/graph-cli) - 从 CSV 文件创建图表。
+- [termgraph](https://github.com/mkaz/termgraph) - 终端绘图可视化。（:warning: 不再更新）
+
+[`Go Top ↑`](#awesome-python-list)
+
 ## 数据库
 
-*Database.*
+_Database._
 
 - [SQLAlchemy](https://www.sqlalchemy.org/) - Python SQL 工具包和 ORM 库。
 
