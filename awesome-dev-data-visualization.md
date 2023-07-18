@@ -13,6 +13,8 @@
 
 - [参考文档（Reference documentation）](#参考文档)
 - [工具库（Tool Library）](#工具库)
+  - [JavaScript](#javascript)
+  - [Python](#python)  
 
 ## 参考文档
 
@@ -52,18 +54,6 @@ _see also :point_right: [计算机图形学读物](https://github.com/wang1212/a
 ## 工具库
 
 *Data visualization libraries, such as chart libraries, 3D engines, etc.*
-
-### Python
-
-#### 可视化工具
-
-_Data visualization tool library._
-
-- [Matplotlib](https://matplotlib.org/stable/index.html) - 创建静态、动画、交互式可视化的综合库。
-- [plot-cli](https://plot-cli.readthedocs.io/en/stable/index.html) - 命令行数据可视化工具。（:warning: 不再更新）
-- [plotext](https://pypi.org/project/plotext/) - 终端绘图可视化。
-- [graph-cli](https://github.com/mcastorina/graph-cli) - 命令行工具，从 CSV 文件创建图表。
-- [termgraph](https://github.com/mkaz/termgraph) - 终端绘图可视化。（:warning: 不再更新）
 
 ### JavaScript
 
@@ -220,6 +210,18 @@ _Data visualization tool library._
   - [Vanta.js](https://www.vantajs.com/) - 数款页面 WebGL 背景动画。
 
 - :point_right: React.js
+
+### Python
+
+#### 可视化工具
+
+_Data visualization tool library._
+
+- [Matplotlib](https://matplotlib.org/stable/index.html) - 创建静态、动画、交互式可视化的综合库。
+- [plot-cli](https://plot-cli.readthedocs.io/en/stable/index.html) - 命令行数据可视化工具。（:warning: 不再更新）
+- [plotext](https://pypi.org/project/plotext/) - 终端绘图可视化。
+- [graph-cli](https://github.com/mcastorina/graph-cli) - 命令行工具，从 CSV 文件创建图表。
+- [termgraph](https://github.com/mkaz/termgraph) - 终端绘图可视化。（:warning: 不再更新）
 
 [`Go Top ↑`](#awesome-data-visualization-list)
 
