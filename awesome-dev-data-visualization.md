@@ -53,11 +53,23 @@ _see also :point_right: [计算机图形学读物](https://github.com/wang1212/a
 
 *Data visualization libraries, such as chart libraries, 3D engines, etc.*
 
+### Python
+
+#### 可视化工具
+
+_Data visualization tool library._
+
+- [Matplotlib](https://matplotlib.org/stable/index.html) - 创建静态、动画、交互式可视化的综合库。
+- [plot-cli](https://plot-cli.readthedocs.io/en/stable/index.html) - 命令行数据可视化工具。（:warning: 不再更新）
+- [plotext](https://pypi.org/project/plotext/) - 终端绘图可视化。
+- [graph-cli](https://github.com/mcastorina/graph-cli) - 命令行工具，从 CSV 文件创建图表。
+- [termgraph](https://github.com/mkaz/termgraph) - 终端绘图可视化。（:warning: 不再更新）
+
 ### JavaScript
 
 #### 可视化工具
 
-*Data visualization tool library.*
+_Data visualization tool library._
 
 - [D3](https://d3js.org/) - 可视化库，数据驱动的，非常著名，许多图表库基于此开发。
 
