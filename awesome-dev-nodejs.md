@@ -374,6 +374,7 @@ _see also 👉  [awesome-nodejs](https://github.com/zerolab-fe/awesome-nodejs)_
   - [bson](https://github.com/mongodb/js-bson) - BSON 格式数据解析器，**MongoDB 官方发布**。
   - [construct-js](https://github.com/francisrstokes/construct-js) - Byte 级别数据操作工具库。
   - [Buffer](https://github.com/feross/buffer) - 可在浏览器中使用与 [`Node.js Buffer API`](https://nodejs.org/api/buffer.html) 100% 相同的 API。
+  - [Yjs](https://docs.yjs.dev/) - 一种高性能的 CRDT 实现，用于构建自动同步的协作应用程序。
   
 - 数据加密、解密（Data encryption and decryption）
   - [bcrypt](https://github.com/kelektiv/node.bcrypt.js) - 生成密码哈希值。
