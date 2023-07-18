@@ -105,11 +105,6 @@ _Command-line applications, build tools and utilities._
 
 ### 实用工具
 
-- [plot-cli](https://plot-cli.readthedocs.io/en/stable/index.html) - 命令行数据可视化工具。（:warning: 不再更新）
-- [plotext](https://pypi.org/project/plotext/) - 终端绘图可视化。
-- [graph-cli](https://github.com/mcastorina/graph-cli) - 从 CSV 文件创建图表。
-- [termgraph](https://github.com/mkaz/termgraph) - 终端绘图可视化。（:warning: 不再更新）
-
 [`Go Top ↑`](#awesome-python-list)
 
 ## 数据库
