@@ -510,6 +510,8 @@ _To-DO List._
 _Note application._
 
 - [Trilium Notes](https://github.com/zadam/trilium) - 功能丰富的笔记应用，也支持自托管的 Web 应用，**开源软件**。
+- [Logseq](https://logseq.com/) - 知识管理和协作平台，**开源软件**。
+- [Obsidian](https://obsidian.md/) - 功能丰富的笔记应用，知识管理工具，**商业软件，个人用户免费**。
 - [Notable](https://notable.app/) - 基于 Markdown 的笔记应用，**开源软件**。
 - [VNote](https://app.vnote.fun/) - 简单的笔记应用，**开源软件**。
 - [Anki](https://apps.ankiweb.net/) - 便签记录学习工具，支持多个平台，**开源软件**。
