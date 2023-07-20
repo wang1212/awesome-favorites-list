@@ -472,7 +472,6 @@ _see also 👉  [Web 端软件资源](./awesome-software.md#浏览器端)_
 - [JDoodle](https://www.jdoodle.com/)
 - [IdeOne](https://ideone.com/)
 - [OnlineGDB](https://www.onlinegdb.com/)
-- [Monaco Editor](https://microsoft.github.io/monaco-editor/)
 - [CodeSandbox](https://codesandbox.io/) - 支持预配置的目标，例如 React.js 等。
 - [CodePen](https://codepen.io/)
 - [JSFiddle](https://jsfiddle.net/)
