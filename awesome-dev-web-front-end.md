@@ -516,6 +516,7 @@ _[Open UI](https://open-ui.org/)_
   - [Editor.js](https://editorjs.io/)
   - [CodeMirror](https://codemirror.net/) - 代码编辑器。
   - [Ace Editor](https://ace.c9.io/) - 代码编辑器。
+  - [Monaco Editor](https://microsoft.github.io/monaco-editor/) - 代码编辑器，VSCode 底层编辑器。
   - [Lexical](https://lexical.dev/)
 
 - 窗口布局（Window layout）
