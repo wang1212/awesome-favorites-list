@@ -738,13 +738,6 @@ _Application architecture patterns._
   - [Varvy SEO tool](https://varvy.com/) - 一个在线网站 SEO、性能检测工具，提供优化建议和技巧。
   - [What Web Can Do](https://whatwebcando.today/) - 可以检测当前设备所支持的 Web API，主要检测硬件设备传感器等，**非官方网站**。
   
-- 在线 IDE、编辑器（IDE / Editor）
-  - [CodeSandbox](https://codesandbox.io/) - 支持预配置的目标，例如 React.js 等。
-  - [StackBlitz](https://stackblitz.com/) - 支持预配置的目标，例如 React.js 等。
-  - [CodePen](https://codepen.io/)
-  - [JSFiddle](https://jsfiddle.net/)
-  - [JSitor](https://jsitor.com/)
-  
 - 其它（Others）
   - [bit](https://bit.dev/) - 构建可重用组件的协作平台。
   - [Prettier Playground](https://prettier.io/playground/) - Prettier 代码格式化工具的在线版本。
