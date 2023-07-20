@@ -510,6 +510,7 @@ _[Open UI](https://open-ui.org/)_
   - [intro.js](https://introjs.com/) - **商业收费**。
    
 - 编辑器（Editor）
+  - [ProseMirror](https://prosemirror.net/) - 用来构建富文本编辑器的工具包。
   - [TOAST UI Editor](https://ui.toast.com/tui-editor/) - 所见即所得编辑器。
   - [slate](https://www.slatejs.org/)
   - [Quill](https://quilljs.com/)
