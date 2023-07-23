@@ -66,6 +66,9 @@ _Python package (or library) manager._
 
 _Some build tools that can be used to configure the environment, compile, type check, etc._
 
+- Linter
+  - [ruff](https://github.com/astral-sh/ruff)
+
 - 类型检查（Type Checking）
   - [Mypy](https://www.mypy-lang.org/) - 静态类型检查器。
 
