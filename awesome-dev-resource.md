@@ -122,6 +122,7 @@
 
 *Software and architecture design. See also :point_right: [软件架构设计书籍](https://github.com/wang1212/awesome-favorites-list/blob/master/awesome-reading.md#%E8%BD%AF%E4%BB%B6%E6%9E%B6%E6%9E%84%E8%AE%BE%E8%AE%A1)*
 
+- [Developer to Architect](https://developertoarchitect.com/)
 - [Awesome Software Architecture](https://mehdihadeli.github.io/awesome-software-architecture/)
 - [System Design Cheatsheet](https://gist.github.com/vasanthk/485d1c25737e8e72759f) - 系统设计备忘单。
 - [awesome-scalability](https://github.com/binhnguyennus/awesome-scalability) - 可伸缩、可扩展系统设计实践。
