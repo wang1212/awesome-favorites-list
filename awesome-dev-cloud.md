@@ -39,6 +39,7 @@
   - *Articles*
     - [*Kubernetes tools and resources*](https://learnk8s.io/kubernetes-resources) 
     - [*Graceful shutdown and zero downtime deployments in Kubernetes*](https://learnk8s.io/graceful-shutdown)
+  - [k3s](https://k3s.io/) - 轻量级，适用于边缘计算等场景的 Kubernetes 发行版。
 
 - [OpenTelemetry](https://opentelemetry.io/) - 由 OpenTracing 和 OpenCensus 项目合并而成，性能数据、日志数据追踪、收集，**CNCF 孵化**。
   - [Jaeger](https://www.jaegertracing.io/) - 分布式追踪系统，**Uber 开源，CNCF 毕业**。
