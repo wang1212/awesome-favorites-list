@@ -35,6 +35,7 @@
 
 - [React Developer Roadmap](https://roadmap.sh/react) - React 开发者路线图参考。
 - [React Developer Roadmap](https://github.com/adam-golab/react-developer-roadmap) - React 开发者路线图参考。（:warning: 自 2019 年不再更新）
+- [The React Handbook](https://reacthandbook.dev/)
 
 [`Go Top ↑`](#awesome-reactjs-list)
 
