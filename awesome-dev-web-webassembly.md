@@ -12,11 +12,12 @@
 *Resource navigation list.*
 
 - [技术标准规范（Technical Standard Specification）](#技术标准规范)
-- [工具链（Tool chain）](#工具链)
-- [运行时（Runtime）](#运行时)
-- [编辑器（Editor）](#编辑器)
-- [编译器（Compiler）](#编译器)
-
+- [构建工具（Build Tool）](#构建工具)
+  - [工具链（Tool chain）](#工具链)
+  - [编译器（Compiler）](#编译器)
+  - [运行时（Runtime）](#运行时)
+  - [编辑器（Editor）](#编辑器)
+- [工具库（Tool Library）](#工具库)
 
 ## 技术标准规范
 
@@ -28,7 +29,11 @@
 
 [`Go Top ↑`](#awesome-webassembly-list)
 
-## 工具链
+## 构建工具
+
+_Build tools._
+
+### 工具链
 
 *Tool chain.*
 
@@ -36,9 +41,11 @@
 - [Cheerp](https://www.leaningtech.com/cheerp/) - 与 Emscripten 类似。
 - [AssemblyScript](https://www.assemblyscript.org/) - 类似 TypeScript 的可编译为 WASM 的语言。
 
-[`Go Top ↑`](#awesome-webassembly-list)
+### 编译器
 
-## 运行时
+- [Pyodide](https://pyodide.org/en/stable/index.html#) - Python 到 WebAssembly 的编译器。
+
+### 运行时
 
 *Runtime.*
 
@@ -48,17 +55,17 @@
 - [Lunatic](https://lunatic.solutions/) - WebAssembly 运行时。
 - [wasm3](https://github.com/wasm3/wasm3)
 
-[`Go Top ↑`](#awesome-webassembly-list)
-
-## 编辑器
+### 编辑器
 
 - [WebAssembly Studio](https://webassembly.studio/) - 在线的 WebAssembly 编辑器，**Mozilla 发布**。
 - [WebAssembly Cloud](https://webassembly.cloud/)
 
 [`Go Top ↑`](#awesome-webassembly-list)
 
-## 编译器
+## 工具库
 
-- [Pyodide](https://pyodide.org/en/stable/index.html#) - Python 到 WebAssembly 的编译器。
+_Tool library._
+
+- [spin](https://github.com/fermyon/spin) - 构建基于 WebAssembly 的微服务框架。
 
 [`Go Top ↑`](#awesome-webassembly-list)
