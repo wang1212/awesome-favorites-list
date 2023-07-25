@@ -321,6 +321,9 @@ _see also 👉  [awesome-nodejs](https://github.com/zerolab-fe/awesome-nodejs)_
     - [one.color](https://github.com/One-com/one-color) - 颜色字符串解析、计算工具，支持 RGB, HSV, HSL, CMYK 等。   
   - 异步操作（Asynchronous operation）
     - [promise-fun](https://github.com/sindresorhus/promise-fun) - `Promise` 工具库集合。
+  - 对象操作（Object manipulation）
+    - [dot-prop](https://github.com/sindresorhus/dot-prop)
+    - [pathval](https://github.com/chaijs/pathval)
   - 其它（Others）
     - [normalizr](https://github.com/paularmstrong/normalizr) - 根据 Schema 将嵌套的 JSON 数据归一化。
     - [Anchorme.js](https://alexcorvi.github.io/anchorme.js/) - 将文本中的 URL/邮箱等转换为链接。
