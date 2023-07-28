@@ -94,7 +94,7 @@
     - [release-it](https://github.com/release-it/release-it)
     - [semantic-release](https://semantic-release.gitbook.io/semantic-release/) - CI 自动化版本管理和包发布。
     - [auto](https://intuit.github.io/auto/index) - CI 自动化发布。
-    - [release-please](https://github.com/googleapis/release-please)
+  - [release-please](https://github.com/googleapis/release-please) - 自动生成更新日志、版本更新、创建 Github Release。
   - [Denoify](https://github.com/garronej/denoify) - 为 npm 模块作者提供 Deno 支持。
 
 - 包搜索（Package Search）
