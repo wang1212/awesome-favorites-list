@@ -253,7 +253,9 @@
       - [GopherJS](https://github.com/gopherjs/gopherjs)
     
 - API 兼容性支持（API Polyfills）
-  - [Browserslist](https://github.com/browserslist/browserslist) - 社区主流的目标设备检测工具库。（👉 [browserslist.dev](https://browserslist.dev/)）
+  - [Browserslist](https://github.com/browserslist/browserslist) - 社区主流的目标设备检测工具库。
+    - [browsersl.ist](https://browsersl.ist/) - **官方**。
+    - [browserslist.dev](https://browserslist.dev/) - **非官方**。
   - HTML
     - [html5shiv](https://github.com/aFarkas/html5shiv) - 在旧浏览器（IE9 以下）上提供对 HTML5 新标签（例如 footer、nav）的支持。
   - CSS
