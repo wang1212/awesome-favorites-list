@@ -29,6 +29,8 @@ _see also :point_right: [计算机图形学读物](https://github.com/wang1212/a
   - [Google Material Design Data visualization](https://material.io/design/communication/data-visualization.html)
   - [AnyChart - Chartopedia](https://www.anychart.com/chartopedia/usage-type/) - 图表百科。
   - [Dataviz Inspiration](https://www.dataviz-inspiration.com/) - 数据可视化灵感，案例。
+  - [FlowingData Tutorials](https://flowingdata.com/category/tutorials/) - 可视化向导。
+  - [Visual Capitalist](https://www.visualcapitalist.com/) - 可视化经典案例。
 
 - 文档资料（Docs）
   - [InfoVis:Wiki](https://infovis-wiki.net/wiki/Main_Page) - 信息可视化社区平台。
