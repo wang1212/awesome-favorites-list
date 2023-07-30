@@ -67,5 +67,6 @@ _Development Framework._
 - [LangChain](https://docs.langchain.com/) - 开发基于语言模型的应用程序。
 - [embedchain](https://github.com/embedchain/embedchain) - 在任何数据集上轻松创建 LLM 支持的机器人。
 - [Haystack](https://haystack.deepset.ai/) - 端到端的 NLP 框架，可构建基于 LLMs、Transformer 模型等的 NLP 应用，例如智能文档检索系统。
+- [LlamaIndex](https://gpt-index.readthedocs.io/en/latest/index.html) - 数据框架，供 LLM 应用程序摄取、构建和访问私有或特定领域的数据。
 
 [`Go Top ↑`](#awesome-ai-dev-list)
