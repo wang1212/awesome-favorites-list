@@ -84,9 +84,11 @@ _Some build tools that can be used to configure the environment, compile, type c
 
 - 实用工具（Utils）
 
-- 科学计算（Compute - Math & Scientific Computing & Analysis）
+- 数据计算（Compute - Math & Scientific Computing & Analysis）
   - [NumPy](https://numpy.org/) - 最受欢迎的、强大的科学计算工具包。
   - [pandas](https://pandas.pydata.org/) - 强大的 Python 数据分析工具包。
+  - [Polars](https://www.pola.rs/) - 高性能数据分析工具。
+    - [polars-book](https://pola-rs.github.io/polars-book/)
 
 - HTTP
   - [Requests](https://requests.readthedocs.io/)
