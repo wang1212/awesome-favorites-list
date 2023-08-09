@@ -558,18 +558,27 @@ _Coding Statistics._
 
 *Command line tools.*
 
+#### 终端
+
+_Terminal, Console, Shell, and Command Line._
+
+- Multi-platform
+  - [hyper](https://hyper.is/)
+ 
+- Windows
+  - [Windows Terminal](https://github.com/microsoft/terminal)
+  - [ConEmu](https://conemu.github.io/)
+  - [Git Bash](https://gitforwindows.org/)
+  - [Clink](https://mridgers.github.io/clink/)
+  - [Cmder](https://cmder.app/) - 基于 ConEmu 和 Clink 特性，采用 Monokai 颜色主题，支持 Git 等。
+
 #### Windows
 
 *Used on Windows platform.*
 
-- [Git Bash](https://gitforwindows.org/)
 - [MSYS2](https://www.msys2.org/) - 基于 Cygwin 和 MinGW-w64 对 MSYS 的重写，支持 Bash、Git 等更多特性。
 - [MinGW](http://www.mingw.org/) - Minimalist GNU for Windows，不支持 POSIX。
 - [Cygwin](http://www.cygwin.com/) - GNU 和开源工具的集合，支持 POSIX。
-- [ConEmu](https://conemu.github.io/)
-- [Clink](https://mridgers.github.io/clink/)
-- [hyper](https://hyper.is/)
-- [Cmder](https://cmder.net/) - 基于 ConEmu 和 Clink 特性，采用 Monokai 颜色主题，支持 Git 等。
 - [Far Manager](https://www.farmanager.com/) - Windows 系统纯文本的文件管理器。
 - [watchman](https://facebook.github.io/watchman/) - 文件监视服务。
 
