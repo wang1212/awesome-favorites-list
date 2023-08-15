@@ -391,6 +391,8 @@ _Password manager._
 
 - [KeePass](https://keepass.info/) - **开源软件**。
 - [Swifty](https://github.com/swiftyapp/swifty) - **开源软件**。
+- [Microsoft Authenticator](https://www.microsoft.com/en-us/security/mobile-authenticator-app) - 可免费使用，**微软发布**。
+- [Authy](https://authy.com/) - 可免费使用。
 - [Bitwarden](https://bitwarden.com/) - **商业软件，可自托管**。
   - [vaultwarden](https://github.com/dani-garcia/vaultwarden) - 非官方的 Bitwarden Server API 实现，**开源软件**。
 
