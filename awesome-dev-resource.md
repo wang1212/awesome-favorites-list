@@ -523,6 +523,7 @@ _Coding Statistics._
   - [gitmoji](https://gitmoji.dev/) - Git 提交信息中的 emoji 表情。
   - 统计（statistics）
     - [git-stats](https://github.com/IonicaBizau/git-stats)
+    - [Gitinspector](https://github.com/ejwa/gitinspector) - 生成统计报告。
 
 - [Tortoise SVN](https://tortoisesvn.net/) - SVN 是一种传统的中心化管理的源代码版本控制工具，Tortoise SVN 提供了 GUI 来使用 SVN。
 
