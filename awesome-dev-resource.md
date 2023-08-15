@@ -524,6 +524,7 @@ _Coding Statistics._
   - 统计（statistics）
     - [git-stats](https://github.com/IonicaBizau/git-stats)
     - [Gitinspector](https://github.com/ejwa/gitinspector) - 生成统计报告。
+    - [git-quick-stats](https://github.com/arzzen/git-quick-stats)
 
 - [Tortoise SVN](https://tortoisesvn.net/) - SVN 是一种传统的中心化管理的源代码版本控制工具，Tortoise SVN 提供了 GUI 来使用 SVN。
 
