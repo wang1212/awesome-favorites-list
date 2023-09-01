@@ -357,5 +357,6 @@ _Design._
 - [掘金翻译计划](https://github.com/xitu/gold-miner) - 掘金翻译计划，可能是世界最大最好的英译中技术社区，最懂读者和译者的翻译平台。
 - [Library of Congress](https://www.loc.gov/) - 美国国会图书馆。
 - [Tools for better thinking](https://untools.co/) - 思维决策工具。
+- [Technical Writing Courses](https://developers.google.com/tech-writing) - 技术写作课程，**Google 出品**。
   
 [`Go Top ↑`](#awesome-reading-list)
