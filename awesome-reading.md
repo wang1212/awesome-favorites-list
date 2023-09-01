@@ -1,4 +1,4 @@
-![image](https://github.com/wang1212/awesome-favorites-list/assets/18679119/59159f8d-b8d8-44b8-acc5-c79d2791680b)<div align="center">
+<div align="center">
   <h1>Awesome-Reading-List</h1>
 
   <p>:heart: 收藏列表 - :+1: 很棒的读物，包括书籍、期刊、网站、论坛等。</p>
