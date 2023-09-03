@@ -556,6 +556,7 @@ _Coding Statistics._
   - [WinSCP](https://winscp.net/) - 使用 SSH 的图形化 SFTP 客户端，同时支持 SCP 协议，用于远程文件传输，**开源免费**。
   - [PuTTY](https://www.putty.org/) - 一个集 Telnet、SSH、rlogin、纯 TCP 以及串行接口连接软件，配合 WinSCP 可以很好的远程管理 Linux 服务器，也支持 Unix 平台，**开源免费**。
   - [Bitvise SSH Client](https://www.bitvise.com/ssh-client) - SSH 文件传输、终端、隧道，**免费软件**。
+  - [mRemoteNG](https://mremoteng.org/) - 多远程下一代连接管理器，mRemote 的分支，**开源免费**。
 
 - Linux/Unix
 
