@@ -513,6 +513,7 @@ _[Open UI](https://open-ui.org/)_
   - [ProseMirror](https://prosemirror.net/) - 用来构建富文本编辑器的工具包。
   - [TOAST UI Editor](https://ui.toast.com/tui-editor/) - 所见即所得编辑器。
   - [slate](https://www.slatejs.org/)
+    - [Platejs](https://platejs.org/)  
   - [Quill](https://quilljs.com/)
   - [Editor.js](https://editorjs.io/)
   - [CodeMirror](https://codemirror.net/) - 代码编辑器。
