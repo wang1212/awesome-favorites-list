@@ -300,6 +300,7 @@ _[ASCII Art](https://en.wikipedia.org/wiki/ASCII_art)._
   - [Free Favicon Maker](https://formito.com/tools/favicon) - SVG 图标制作。
   - [IconKitchen](https://icon.kitchen/) - App 图标设计工具。
   - [Icons8](https://icons8.com/) - 免费图标，设计工具。
+  - [iconbundler](https://iconbundler.com/) - 将 SVG 图标导出为 React、Vue、Svelte 组件。
 
 - 图标素材
   - [icon hunt](https://www.iconhunt.site/) - 免费、开源的图标搜索引擎。
