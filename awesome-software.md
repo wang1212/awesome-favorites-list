@@ -303,8 +303,9 @@ _[ASCII Art](https://en.wikipedia.org/wiki/ASCII_art)._
 
 - 图标素材
   - [icon hunt](https://www.iconhunt.site/) - 免费、开源的图标搜索引擎。
-  - [iconoir](https://iconoir.com/) - 图表库，**免费开源**。
+  - [iconoir](https://iconoir.com/) - 图标库，**免费开源**。
   - [Iconduck](https://iconduck.com/) - 图标与插画素材，**免费开源**。
+  - [tabler-icons](https://tabler-icons.io/) - **免费开源**。
   - [Glyphs](https://glyphs.fyi/) - 图标库，**开源**。
   - [iconsax](https://iconsax.io/) - 图标库，**可免费商用**。
   - [Simple Icons](https://simpleicons.org/) - 品牌 logo 图标，仅支持 SVG，**免费**。
