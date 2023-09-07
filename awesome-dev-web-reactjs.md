@@ -315,6 +315,7 @@ _UI Design System, provides a base system for building a design system._
   - [react-chrono](https://react-chrono.prabhumurthy.com/) - 时间线组件。
   - [cmdk](https://github.com/pacocoursey/cmdk) - 命令菜单。
   - [Vaul](https://vaul.emilkowal.ski/) - 抽屉组件，适配移动端手势。
+  - [react email](https://react.email/) - 邮件组件。
 
 [`Go Top ↑`](#awesome-reactjs-list)
 
