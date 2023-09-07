@@ -16,6 +16,7 @@
   - [JavaScript](#javascript)
   - [Python](#python)
   - [Ruby](#ruby)
+- [平台应用（Platform Application）](#平台应用)
 
 ## 参考文档
 
@@ -234,6 +235,15 @@ _Data visualization tool library._
 _Data visualization tool library._
 
 - [YouPlot](https://github.com/red-data-tools/YouPlot) - 命令行工具，终端绘制可视化图表。
+
+[`Go Top ↑`](#awesome-data-visualization-list)
+
+## 平台应用
+
+_Platform application._
+
+- [Tableau](https://www.tableau.com/) - 可视化分析平台，**商业软件**。
+  - [Graphic Walker](https://docs.kanaries.net/graphic-walker) - Tableau 的开源替代品。
 
 [`Go Top ↑`](#awesome-data-visualization-list)
 
