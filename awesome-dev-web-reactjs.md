@@ -194,6 +194,7 @@ _UI Design System, provides a base system for building a design system._
   - [react-windows-ui](https://virtualvivek.github.io/react-windows-ui/) - 构建 Windows 的 fluent UI 风格的 Web APP。
   - [React95](https://github.com/react95-io/React95) - Windows 95 的 UI 组件。
 - [tremor](https://www.tremor.so/) - 快速构建 dashboard 的 UI 组件库。
+- [Radix](https://www.radix-ui.com/)
 
 ### 独立组件
 
