@@ -409,6 +409,7 @@ _Password manager._
   - [Chrome](https://www.google.com/chrome/)
   - [Brave](https://brave.com/) - 安全为核心的浏览器。
   - [Vivaldi](https://vivaldi.com/) - 安全、隐私友好的浏览器。
+- [Station](https://getstation.com/) - 智能浏览器，**开源软件**。
 
 ### 文件处理
 
