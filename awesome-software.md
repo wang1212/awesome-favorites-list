@@ -510,14 +510,17 @@ _To-DO List._
 
 - [Task Coach](https://www.taskcoach.org/index.html) - **开源软件**。
 - [sleek](https://github.com/ransome1/sleek) - UI 美观现代化，**开源软件**。
+- [Super Productivity](https://super-productivity.com/) - 待办列表应用，可接入 Jira、Github、Gitlab 等，**开源软件**。
 
 #### 笔记应用
 
 _Note application._
 
-- [Trilium Notes](https://github.com/zadam/trilium) - 功能丰富的笔记应用，也支持自托管的 Web 应用，**开源软件**。
-- [Logseq](https://logseq.com/) - 知识管理和协作平台，**开源软件**。
-- [Obsidian](https://obsidian.md/) - 功能丰富的笔记应用，知识管理工具，**商业软件，个人用户免费**。
+- Knowledge base management
+  - [Logseq](https://logseq.com/) - 知识管理和协作平台，**开源软件**。
+  - [Obsidian](https://obsidian.md/) - 功能丰富的笔记应用，知识管理工具，**商业软件，个人用户免费**。
+  - [Trilium Notes](https://github.com/zadam/trilium) - 功能丰富的笔记应用，也支持自托管的 Web 应用，**开源软件**。
+  - [AppFlowy](https://appflowy.io/) - Notion 的开源替代品，**开源软件**。
 - [Notable](https://notable.app/) - 基于 Markdown 的笔记应用，**开源软件**。
 - [VNote](https://app.vnote.fun/) - 简单的笔记应用，**开源软件**。
 - [Anki](https://apps.ankiweb.net/) - 便签记录学习工具，支持多个平台，**开源软件**。
@@ -525,6 +528,7 @@ _Note application._
 - [Notesnook](https://notesnook.com/) - 开源的端到端加密的个人笔记应用，**开源软件**。
 - [eDiary](http://www.haoxg.net/ediary/index.html) - 本地笔记应用，功能丰富，**免费软件**。
 - [Lepton](https://hackjutsu.com/Lepton/) - 代码片段管理，由 GitHub Gist 驱动，**开源软件**。
+- [Xournal++](https://xournalpp.github.io/) - 手写笔记软件，**开源软件**。
 
 #### 思维导图
 
@@ -566,9 +570,10 @@ _Mind mapping._
 - [GPU-Z](https://www.techpowerup.com/gpuz/) - GPU 检测工具。
 - [LeoMoon CPU-V](https://leomoon.com/downloads/desktop-apps/leomoon-cpu-v/) - 检测 CPU 是否支持硬件虚拟化。
 - [Dism++](https://www.chuyu.me/) - 实用的系统优化维护工具。
+- [ActivityWatch](https://activitywatch.net/) - 跟踪设备时间进行统计，**开源软件**。
 - [WhatPulse](https://whatpulse.org/) - 记录 PC 活动情况，例如统计键盘热力图、带宽情况等等，**提供免费版本**。
 - [Dns Jumper](https://www.sordum.org/7952/dns-jumper-v2-2/) - 测速、快速切换 DNS 工具，**免费软件**。
-- [SwitchHosts](https://swh.app/) - 快速切换 hosts 方案的实用工具，**免费开源软件**。
+- [SwitchHosts](https://swh.app/) - 快速切换 hosts 方案的实用工具，**开源软件**。
 - [Process Lasso](https://bitsum.com/) - 实时的 CPU 资源自动调度，保证系统级别的响应能力，**提供免费版本**。
 
 #### 磁盘清理
