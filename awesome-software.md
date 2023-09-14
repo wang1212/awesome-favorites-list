@@ -354,11 +354,13 @@ _Learning._
 
 *Practical tools, such as software tools such as translation and notes.*
 
+- [Listary](https://www.listary.com/) - 可快速搜索文件，启动应用软件，**个人用户免费**。
 - [ShareX](https://getsharex.com/) - 截屏、录屏、文本转换、DNS 更换等等，生产力工具，**开源软件**。
-- [CopyTranslator](https://github.com/CopyTranslator/CopyTranslator) - 桌面划词翻译，**免费开源软件**。
+- [CopyTranslator](https://github.com/CopyTranslator/CopyTranslator) - 桌面划词翻译，**开源软件**。
 - [Rainmeter](https://www.rainmeter.net/) - Windows 桌面自定义小工具，**开源软件**。
 - [uTools](http://www.u.tools/) - 生产力工具，包含许多小工具，**免费软件**。
 - [Module Art](https://moduleart.github.io/) - 软件集合，包含图片浏览器、录屏软件等，**开源软件**。
+- [Flow Launcher](https://www.flowlauncher.com/) - 应用启动器，**开源软件**。
 
 #### 粘贴板
 
@@ -432,7 +434,6 @@ _Password manager._
   - [Explorer++](https://explorerplusplus.com/) - 轻量级和快速的 Windows 文件管理器，**开源软件**。
   - [Files](https://files.community/) - 现代化 UI 强大的 Windows 文件管理器，**开源软件**。
 - 文件搜索（File Search）
-  - [Listary](https://www.listary.com/) - 可快速搜索文件，打开应用软件，**个人用户免费**。
   - [Everything](https://www.voidtools.com/zh-cn/) - 文件快速搜索工具，**免费软件**。
   - [Anytxt Searcher](https://anytxt.net/) - 桌面全文检索工具，**免费软件**。
 - 文件预览（Preview）
