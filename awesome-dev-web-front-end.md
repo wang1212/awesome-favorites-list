@@ -278,7 +278,7 @@ _see also 👉  [Node.JS-工具库](./awesome-dev-nodejs.md#工具库)_
 - 事件（Event）
   - BOM / Browser
     - [history](https://github.com/remix-run/history) - 管理页面路由。
-    - [screenfull.js](https://sindresorhus.com/screenfull.js/) - 跨浏览器的 `Fullscreen API`。
+    - [screenfull.js](https://github.com/sindresorhus/screenfull) - 跨浏览器的 `Fullscreen API`。
   - Mobile Event / Gestures
     - [Hammer.js](http://hammerjs.github.io/) - 支持移动端触摸事件，以及手势操作、多点触控。（:warning: 不再维护）
     - [zingtouch](https://zingchart.github.io/zingtouch/) - （:warning: 不再维护）
