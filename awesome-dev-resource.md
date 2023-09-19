@@ -490,6 +490,7 @@ _see also 👉  [Web 端软件资源](./awesome-software.md#浏览器端)_
 - [Eclipse](https://www.eclipse.org/) - 开源的重量级编辑器，功能非常强大，是 Java 开发者中使用最多的 IDE，**开源软件**。
 - [UltraEdit](https://www.ultraedit.com/) - 文本编辑器，功能强大，性能较好，**商业软件**。
 - [EmEditor](https://www.emeditor.com/) - 文本编辑器，功能强大，浏览大文件性能很好，**商业软件**。
+- [neovim](https://neovim.io/) - 类 VIM 编辑器。
 
 #### 代码格式化
 
