@@ -524,6 +524,8 @@ _see also 👉  [awesome-nodejs](https://github.com/zerolab-fe/awesome-nodejs)_
 - Git
   - [nodegit](https://www.nodegit.org/)
   - [simple-git](https://github.com/steveukx/git-js)
+  - [node-gitlog](https://github.com/domharrington/node-gitlog)
+  - [git-parse](https://github.com/wayfair/git-parse)
 
 - OCR
   - ['tesseract.js](https://github.com/naptha/tesseract.js) - 支持 100 种语言的图像文本识别。
