@@ -558,6 +558,7 @@ _Coding Statistics._
   - [PuTTY](https://www.putty.org/) - 一个集 Telnet、SSH、rlogin、纯 TCP 以及串行接口连接软件，配合 WinSCP 可以很好的远程管理 Linux 服务器，也支持 Unix 平台，**开源免费**。
   - [Bitvise SSH Client](https://www.bitvise.com/ssh-client) - SSH 文件传输、终端、隧道，**免费软件**。
   - [mRemoteNG](https://mremoteng.org/) - 多远程下一代连接管理器，mRemote 的分支，**开源免费**。
+  - [FileZilla](https://filezilla-project.org/index.php) - FTP、FTPS、SFTP 客户端，**开源免费**。
 
 - Linux/Unix
 
