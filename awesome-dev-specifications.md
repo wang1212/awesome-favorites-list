@@ -85,9 +85,6 @@
 
 *Others.*
 
-- OAuth
-  - [OpenID Connect](https://openid.net/connect/)
-
 - *List of Uncategorized Resources.*
   - [AOMedia](https://aomedia.org/) - 下一代开源数字媒体技术标准。
   - [ONVIF](https://www.onvif.org/) - 安防行业开放组织，推出了标准化的开放接口协议 onvif。
