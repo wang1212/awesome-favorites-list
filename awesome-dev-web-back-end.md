@@ -29,6 +29,8 @@
 - [OpenAPI](https://www.openapis.org/) - 定义了一种 REST APIs 标准。
   - [OpenAPI.Tools](https://openapi.tools/)
 - [AsyncAPI](https://www.asyncapi.com/) - 事件驱动的 APIs 规范，改编自 OpenAPI。
+- [OAuth](https://oauth.net/)
+  - [OpenID Connect](https://openid.net/connect/)
 
 *More others 👉 [Awesome-Development-Technical-Standard-Specifications](awesome-dev-specifications.md)*
 
