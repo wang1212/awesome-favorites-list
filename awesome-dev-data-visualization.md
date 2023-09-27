@@ -119,9 +119,15 @@ _Data visualization tool library._
   - [KUTE.js](https://thednp.github.io/kute.js/) - 高性能动画引擎。
   - [Popmotion](https://popmotion.io/) - 实用、灵活的 JavaScript 动画工具套件。
     - [Framer Motion](https://www.framer.com/motion/) - 动画工具库，由 Popmotion 驱动。
-  - [tween.js](https://createjs.com/tweenjs) - 动画工具库。
+  - [tween.js](https://createjs.com/tweenjs) - 动画工具库。（:warning: 不再更新）
   - [Shifty](https://jeremyckahn.github.io/shifty/doc/index.html) - 轻量级、高性能的低级动画工具库。
   - [scene.js](https://daybrush.com/scenejs/release/latest/doc/index.html) - 支持 JavaScript 和 CSS 的动画库。
+  - SVG
+    - [vivus.js](https://github.com/maxwellito/vivus) - 为 SVG 提供动画效果。
+    - [SVG.js](https://svgjs.dev/) - 轻量级 SVG 动画库。
+    - [Snap.svg](http://snapsvg.io/)
+    - [bonsai.js](https://bonsaijs.org/) - SVG 渲染器。
+    - [lazy line painter](https://github.com/camoconnell/lazy-line-painter) - SVG 路径动画。
 
 - 游戏引擎（Game Engine） 
   - [Babylon.js](https://www.babylonjs.com/) - 3D 游戏渲染引擎。
@@ -190,13 +196,6 @@ _Data visualization tool library._
   - [Animate.css](https://daneden.github.io/animate.css/) - 丰富的 CSS 动画工具库。
   - [magic.css](https://www.minimamente.com/project/magic/)  - CSS3 动画。
   - [Transition.css](https://transition.style/) - CSS 过渡动画。
-
-- SVG
-  - [vivus.js](https://github.com/maxwellito/vivus) - 为 SVG 提供动画效果。
-  - [SVG.js](https://svgjs.dev/) - 轻量级 SVG 动画库。
-  - [Snap.svg](http://snapsvg.io/)
-  - [bonsai.js](https://bonsaijs.org/) - SVG 渲染器。
-  - [lazy line painter](http://lazylinepainter.info/) - SVG 路径动画。
 
 - JavaScript
   - [ScrollReveal](https://scrollrevealjs.org/) - 为滚动进入视区的元素提供动画效果。
