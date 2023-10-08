@@ -528,7 +528,7 @@ _see also 👉  [awesome-nodejs](https://github.com/zerolab-fe/awesome-nodejs)_
   - [git-parse](https://github.com/wayfair/git-parse)
 
 - OCR
-  - ['tesseract.js](https://github.com/naptha/tesseract.js) - 支持 100 种语言的图像文本识别。
+  - [tesseract.js](https://github.com/naptha/tesseract.js) - 支持 100 种语言的图像文本识别。
 
 - 自然语言处理（NLP）
   - [compromise](http://compromise.cool/)
@@ -665,6 +665,9 @@ _see also 👉  [awesome-nodejs](https://github.com/zerolab-fe/awesome-nodejs)_
   - [refine](https://refine.dev/)
   - [AdminJS](https://adminjs.co/)
   - [react-admin](https://marmelab.com/react-admin/)
+
+- 鉴权（Authentication）
+  - [jsonwebtoken](https://github.com/auth0/node-jsonwebtoken) - JSON Web Tokens 的 Node.js 实现。
 
 [`Go Top ↑`](#awesome-nodejs-list)
 
