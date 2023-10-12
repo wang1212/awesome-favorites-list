@@ -200,6 +200,7 @@
   - [v8n](https://imbrn.dev/v8n/)
   - [validator](https://github.com/validatorjs/validator.js) - 字符串校验。
   - [Zod](https://zod.dev/)
+  - [typebox](https://github.com/sinclairzx81/typebox) - 运行时类型构建器。
 
 - 模拟 API（Mock API）
   - [JSON Server](https://github.com/typicode/json-server) - 可快速启动一个提供 REST API 的服务器，并返回指定测试数据。  
