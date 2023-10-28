@@ -37,6 +37,7 @@
   - [Node.js](awesome-dev-nodejs.md)
   - [Python](awesome-dev-python.md)
   - [Go](awesome-dev-go.md)
+  - [Ruby](awesome-dev-ruby.md)
 - [更多（More）](#更多)
 - [收藏原则（Collection Principle）](#收藏原则)
 
