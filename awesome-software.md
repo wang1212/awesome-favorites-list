@@ -168,6 +168,7 @@ _Task board._
 
 - 图片转换（Image Converter）
   - [TEXT-IMAGE](https://www.text-image.com/) - 将图片转换为文本图片。
+  - [Vectorizer.AI](https://vectorizer.ai/) - 将栅格图转换为 SVG 矢量图。
 
 - 图片拼接（Image Collage）
   - [PhotoJoiner](https://www.photojoiner.com/)
