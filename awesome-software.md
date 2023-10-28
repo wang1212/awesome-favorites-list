@@ -584,7 +584,7 @@ _Mind mapping._
 
 _Disk cleanup._
 
-- [SpaceSniffer](http://www.uderzo.it/main_products/space_sniffer/index.html) - 磁盘扫描工具，可视化文件占比分析，**免费软件**。
+- [SpaceSniffer](http://www.uderzo.it/main_products/space_sniffer/index.html) - 磁盘扫描工具，可视化文件占比分析，**免费软件**。（:warning: 不再更新）
 - [WizTree](https://wiztreefree.com/) - 磁盘空间分析工具，统计文件夹大小，**免费软件**。
 - [CCleaner Free](https://www.ccleaner.com/) - 系统清理工具，**商业软件，提供免费版本**。
 
