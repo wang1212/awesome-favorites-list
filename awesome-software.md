@@ -393,6 +393,7 @@ _File sharing._
 
 - [qrcp](https://github.com/claudiodangelis/qrcp) - 命令行工具，**开源软件**。
 - [sharing](https://github.com/parvardegr/sharing) - 命令行工具，支持局域网设备间文件扫码共享和上传，粘贴板共享，**开源软件**。
+- [LocalSend](https://localsend.org/) - 文件共享，支持多个平台客户端，**开源软件**。
 
 #### 密码管理器
 
