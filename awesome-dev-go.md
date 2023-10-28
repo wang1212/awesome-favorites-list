@@ -43,7 +43,7 @@ _Package (or library) manager._
 
 ## 工具库
 
-_Tool Library, some unofficial high-quality Python packages (or libraries)._
+_Tool Library, some unofficial high-quality Go packages (or libraries)._
 
 [`Go Top ↑`](#awesome-python-list)
 
