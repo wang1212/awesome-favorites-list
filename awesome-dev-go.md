@@ -8,7 +8,7 @@
 
 > Go 是一个内置并发支持的语言，在云领域的产品中应用广泛，:point_right: https://go.dev/
 
-（Recommend）推荐一个其它的很棒的收藏列表，:point_right: 
+_（Recommend）推荐一个其它的很棒的收藏列表，:point_right:_
 
 ## 目录
 
