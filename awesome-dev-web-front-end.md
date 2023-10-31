@@ -548,6 +548,7 @@ _[Open UI](https://open-ui.org/)_
   - [Tippy.js](https://atomiks.github.io/tippyjs/) - 工具提示组件。
   - [Smooth Scrollbar](https://idiotwu.github.io/smooth-scrollbar/) - 自定义滚动条，替代原生滚动事件。
     - [OverlayScrollbars](https://github.com/KingSora/OverlayScrollbars) - 自定义滚动条。
+    - [BetterScroll](https://better-scroll.github.io/docs/en-US/)
   - [sharer.js](https://ellisonleao.github.io/sharer.js/) - 创建社交网站分享按钮。
   - [ninja-keys](https://github.com/ssleptsov/ninja-keys) - 为页面添加键盘快捷键导航功能界面。
   - [InfiniteGrid](https://naver.github.io/egjs-infinitegrid/) - 无限网格布局。
