@@ -111,12 +111,11 @@ _Data visualization tool library._
     - [bezier-easing](https://github.com/gre/bezier-easing) - Cubic Bezier Curve 缓动函数的实现。
     - [Robert Penner's Easing](http://robertpenner.com/easing/) - Robert Penner's Easing Functions。
   - [tween.js](http://tweenjs.github.io/tween.js/) - 用于简单动画的 JavaScript 补间引擎。
-  - [GSAP](https://greensock.com/) - 现代化的高性能动画工具库。
-  - [Anime.js](https://animejs.com/) - 动画引擎，轻量的 JavaScript 动画工具库。
+  - [GSAP](https://greensock.com/) - 现代化的高性能动画工具库，**部分插件收费**。
+  - [Anime.js](https://animejs.com/) - 动画引擎，轻量的 JavaScript 动画工具库，支持 SVG 形变动画。
   - [Velocity.js](http://velocityjs.org/) - 动画引擎，为元素提供动画效果。
   - [motion](https://motion.dev/) - 轻量的，基于 [`Web Animations API`](https://developer.mozilla.org/en-US/docs/Web/API/Web_Animations_API) 的动画引擎。
-  - [mo.js](https://mojs.github.io/) - 丰富，强大的运动图形动画工具库。
-  - [KUTE.js](https://thednp.github.io/kute.js/) - 高性能动画引擎。
+  - [KUTE.js](https://thednp.github.io/kute.js/) - 高性能动画引擎，支持 SVG 形变动画。
   - [Popmotion](https://popmotion.io/) - 实用、灵活的 JavaScript 动画工具套件。
     - [Framer Motion](https://www.framer.com/motion/) - 动画工具库，由 Popmotion 驱动。
   - [tween.js](https://createjs.com/tweenjs) - 动画工具库。（:warning: 不再更新）
@@ -128,6 +127,7 @@ _Data visualization tool library._
     - [Snap.svg](http://snapsvg.io/)
     - [bonsai.js](https://bonsaijs.org/) - SVG 渲染器。
     - [lazy line painter](https://github.com/camoconnell/lazy-line-painter) - SVG 路径动画。
+  - [mo.js](https://mojs.github.io/) - 丰富，强大的运动图形动画工具库。
 
 - 游戏引擎（Game Engine） 
   - [Babylon.js](https://www.babylonjs.com/) - 3D 游戏渲染引擎。
