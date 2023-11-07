@@ -12,6 +12,7 @@
 *Resource navigation list.*
 
 - [技术标准规范（Technical Standard Specification）](#技术标准规范)
+- [技术参考文档（Technical Reference Document）](#技术参考文档)
 - [构建工具（Build Tool）](#构建工具)
   - [工具链（Tool chain）](#工具链)
   - [编译器（Compiler）](#编译器)
@@ -26,6 +27,14 @@
 - [WebAssembly](https://webassembly.org/) - 新型字节码格式，可将其它语言编译后在 Web 浏览器中运行，**官方网站**。
 - [WASI](https://wasi.dev/) - WebAssembly 系统接口标准，致力于在浏览器之外的环境中运行 WebAssembly。
 - [Bytecode Alliance](https://bytecodealliance.org/) - 字节码联盟。
+
+[`Go Top ↑`](#awesome-webassembly-list)
+
+## 技术参考文档
+
+_Technical reference document._
+
+- [WebAssembly Guide](https://www.webassembly.guide/webassembly-guide/)
 
 [`Go Top ↑`](#awesome-webassembly-list)
 
