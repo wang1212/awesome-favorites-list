@@ -132,6 +132,7 @@
 - [Superhero.js](http://superherojs.com/) - 构建大型 JavaScript 项目的一些技巧。
 - [Command Line Interface Guidelines](https://clig.dev/) - 命令行接口指南。
 - [Awesome Diagramming](https://github.com/shubhamgrg04/awesome-diagramming) - 可用来画架构图的一些图表工具。
+- [System Design 101](https://github.com/ByteByteGoHq/system-design-101) - 用图表展示系统架构设计，**ByteByteGo 出品**。
 
 ### 其它
 
