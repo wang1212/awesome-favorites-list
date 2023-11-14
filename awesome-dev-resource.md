@@ -257,7 +257,7 @@ _Coding skills._
   - JavaScript & Web Frontend
     - [JavaScript Weekly](https://javascriptweekly.com/) - 周刊，JavaScript 技术。（Cooperpress 出版）
     - [JSK Weekly](https://javascriptkicks.com/) - 周刊，JavaScript 技术。
-    - [ES.next News](http://esnextnews.com/) 周刊，最新的 JavaScript 技术资讯。
+    - [ECMAScript News](http://esnextnews.com/) 周刊，最新的 JavaScript 技术资讯。
     - [bytes.dev](https://bytes.dev/) - 周刊，JavaScript 技术。（ui.dev 出版）
     - [Frontend Focus](https://frontendfoc.us/) - 周刊，Web 前端技术资讯。（Cooperpress 出版）
     - [Frontend Weekly](https://frontendweekly.co/) - 周刊，Web 前端技术资讯。
