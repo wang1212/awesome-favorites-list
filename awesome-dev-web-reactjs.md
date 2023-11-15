@@ -101,6 +101,7 @@ _（Recommend）推荐一个其它的很棒的收藏列表，:point_right: [reho
   - [use-deep-compare-effect](https://github.com/kentcdodds/use-deep-compare-effect) - `useEffect` 的深比较模式。
   - [react-laag](https://www.react-laag.com/) - 创建工具提示或者弹出框。
   - [React Hotkeys Hook](https://react-hotkeys-hook.vercel.app/) - 以声明方式使用热键。
+  - [use-debounce](https://github.com/xnimorz/use-debounce)
 
 [`Go Top ↑`](#awesome-reactjs-list)
 
