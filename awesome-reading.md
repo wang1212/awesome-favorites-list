@@ -11,27 +11,28 @@
 
 *Resource navigation list.*
 
-- [数据（Data）](#数据)
+- [数据与资讯（Data and Information）](#数据)
 - [期刊（Journal）](#期刊)
 - [论坛（Forum）](#论坛)
 - [书籍（Book）](#书籍)
 - [更多（More）](#更多)
 
-## 数据
+## 数据与资讯
 
-*More reliable consulting, data statistics, industry analysis and reporting platform.*
+*More reliable consulting, data statistics, industry analysis and reporting platform, as well as timely information.*
 
 ### 综合
 
 *Comprehensive Industry.*
 
-- [艾媒网](https://www.iimedia.cn/)
-- [移动观象台](http://mi.talkingdata.com/) - 全球领先免费公开数据实时查询平台。
-- [百度指数](http://index.baidu.com/)
-- [360 趋势](https://trends.so.com/)
-- [搜狗指数](http://index.sogou.com/)
-- [阿里指数](https://index.1688.com/)
-- [国家数据](http://data.stats.gov.cn/) - 国家统计局，**官方网站**。
+- 数据统计
+  - [艾媒网](https://www.iimedia.cn/)
+  - [移动观象台](http://mi.talkingdata.com/) - 全球领先免费公开数据实时查询平台。
+  - [百度指数](http://index.baidu.com/)
+  - [360 趋势](https://trends.so.com/)
+  - [搜狗指数](http://index.sogou.com/)
+  - [阿里指数](https://index.1688.com/)
+  - [国家数据](http://data.stats.gov.cn/) - 国家统计局，**官方网站**。
 
 ### IT 行业
 
@@ -53,6 +54,7 @@
   - [中国外汇交易中心](https://www.chinamoney.com.cn/)
 
 - 证券市场
+  - [Google 财经](https://www.google.com/finance/?hl=zh)
   - [finviz](https://finviz.com/) - 美股行情。
   - [披露易](https://www.hkexnews.hk/) - **港交所官方**上市企业信息披露平台。
   - [巨潮资讯](http://www.cninfo.com.cn/) - **中国证监会**指定的上市公司信息披露平台。
@@ -97,7 +99,6 @@
 
 - [Our World In Data](https://ourworldindata.org/) - 全球各行各业数据可视化新闻。
 - [Worldometers](https://www.worldometers.info/) - 全球实时数据统计。
-- [DataEye](https://www.dataeye.com/report) - 游戏行业白皮书。
 - [易车指数](http://index.bitauto.com/)
 - [房天下指数](https://fdc.fang.com/index/)
 - [高德地图](https://report.amap.com/) - 中国主要城市交通健康榜。
