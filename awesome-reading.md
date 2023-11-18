@@ -136,7 +136,7 @@
 
 *Computer technology and software development.*
 
-[:point_right: 去看](awesome-dev-resource.md#论坛)
+[:point_right: 去看](awesome-dev-resource.md#社区论坛)
 
 ### 文学
 
