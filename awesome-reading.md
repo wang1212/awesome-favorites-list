@@ -11,7 +11,7 @@
 
 *Resource navigation list.*
 
-- [数据与资讯（Data and Information）](#数据)
+- [数据与资讯（Data and Information）](#数据与资讯)
 - [期刊（Journal）](#期刊)
 - [论坛（Forum）](#论坛)
 - [书籍（Book）](#书籍)
