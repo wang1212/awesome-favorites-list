@@ -194,6 +194,7 @@ _UI Design System, provides a base system for building a design system._
 - [react-desktop](http://reactdesktop.js.org/) - 桌面端 UI 组件库，基于 macOS Sierra 和 Windows 10 主题设计。
   - [react-windows-ui](https://virtualvivek.github.io/react-windows-ui/) - 构建 Windows 的 fluent UI 风格的 Web APP。
   - [React95](https://github.com/react95-io/React95) - Windows 95 的 UI 组件。
+  - [React Winplaza 98](https://lisandro52.github.io/react-winplaza-98/)
 - [tremor](https://www.tremor.so/) - 快速构建 dashboard 的 UI 组件库。
 - [Radix](https://www.radix-ui.com/)
 
