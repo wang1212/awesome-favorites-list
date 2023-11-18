@@ -58,15 +58,19 @@
   - [巨潮资讯](http://www.cninfo.com.cn/) - **中国证监会**指定的上市公司信息披露平台。
   - [烯牛数据](http://www.xiniudata.com/)
   - [IT 桔子](https://www.itjuzi.com/) - 一级市场泛互联网行业投融资信息资源聚合平台。
-  - [金融界大盘云图](http://summary.jrj.com.cn/dpyt/)
+  - [金融界大盘云图](https://summary.jrj.com.cn/dataCenter/dpyt/)
 
 - 研究报告
   - [中国国际经济交流中心](http://www.cciee.org.cn/ktcg.aspx?clmId=2)
   - [皮书数据库](https://www.pishu.com.cn/)
   - [发现报告](https://www.fxbaogao.com/)
 
-- 数据资讯
-  - [金十数据中心](https://datacenter.jin10.com/)
+- 数据快讯
+  - [财联社-电报快讯](https://www.cls.cn/telegraph) 
+  - [东方财富-全球财经快讯](https://kuaixun.eastmoney.com/)
+  - [金十数据-市场快讯](https://www.jin10.com/)
+    - [金十数据中心](https://datacenter.jin10.com/)
+  - [华尔街见闻-快讯](https://wallstreetcn.com/live/global)
   - [泰伯网](http://www.3snews.net/) - 数字新经济，中国转型升级。
 
 ### 商业市场
