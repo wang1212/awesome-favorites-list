@@ -162,6 +162,7 @@ _Data visualization tool library._
   - [vizzu](https://github.com/vizzuhq/vizzu-lib) - 交互式动画图表。
   - [Frappe Charts](https://frappe.io/charts) - 基于 SVG 的高性能图表库。
   - [Charts.css](https://chartscss.org/) - CSS 图表库。
+  - [MetricsGraphics.js](https://github.com/metricsgraphics/metrics-graphics) - 为简洁的时间序列数据集可视化优化的图表库。
   - :point_right: React.js
     - [React-Vis](https://uber.github.io/react-vis/) - 图表库，**Uber 团队开发**。（:warning: 已被弃用）
     - [visx](https://airbnb.io/visx) - 图表库，基于 React.js 和 D3.js，**Airbnb 团队开发**。
