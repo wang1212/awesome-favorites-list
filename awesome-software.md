@@ -142,6 +142,9 @@ _Task board._
 
 *File processing tools.*
 
+- [ABCD Office Online Tools](https://abcdoffice.com/) - Office 文档相关处理工具。
+- [QaamGo](https://www.qaamgo.com/en/brands) - 文件转换、PDF 文档、图片、视频、文件元数据、OCR 等相关工具。
+
 #### 图片
 
 *Image.*
@@ -175,7 +178,7 @@ _Task board._
 
 #### PDF
 
-- [ABCD PDF](https://abcdpdf.com/zh-cn/)
+- [CleverPDF](https://www.cleverpdf.com/)
 - [PDF2Go](https://www.pdf2go.com/zh) - 100MB 文件上限限制，PDF 文件处理，还包含图片、音频、视频、电子书、OCR 处理等工具。
 - [iLovePDF](https://www.ilovepdf.com/zh-cn) - 15MB 文件上限限制。
 - [Smallpdf](https://smallpdf.com/cn) - 15MB 文件上限限制。
