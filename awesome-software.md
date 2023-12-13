@@ -362,6 +362,7 @@ _Learning._
 
 *Practical tools, such as software tools such as translation and notes.*
 
+- [PowerToys](https://github.com/microsoft/PowerToys) - 实用工具集，**微软出品，免费软件**。
 - [Listary](https://www.listary.com/) - 可快速搜索文件，启动应用软件，**个人用户免费**。
 - [ShareX](https://getsharex.com/) - 截屏、录屏、文本转换、DNS 更换等等，生产力工具，**开源软件**。
 - [CopyTranslator](https://github.com/CopyTranslator/CopyTranslator) - 桌面划词翻译，**开源软件**。
@@ -450,6 +451,8 @@ _Password manager._
 - 文件预览（Preview）
   - [QuickLook](https://pooi.moe/QuickLook/) - 文件内容预览工具，界面美观，**开源软件**。
   - [Seer](http://1218.io/) - 文件内容预览工具，界面较为简陋，**提供免费版本**。
+- 重命名（Rename）
+  - [Advanced Renamer](https://www.advancedrenamer.com/) - **免费软件**。
 - [WinFR 界面版](https://www.disktool.cn/recovery/winfr.html) - 微软 [Windows File Recovery](https://apps.microsoft.com/store/detail/windows-file-recovery/9N26S50LN705) 的界面版，**非官方，免费软件**。
 - [PhotoRec](https://www.cgsecurity.org/wiki/PhotoRec) - 命令行工具，文件数据恢复软件，**开源软件**。
 - [Pandoc](https://pandoc.org/index.html) - 命令行工具，通用的文档转换器。
