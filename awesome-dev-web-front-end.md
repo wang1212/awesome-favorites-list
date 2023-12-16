@@ -187,6 +187,7 @@
   - [Masonry](https://masonry.desandro.com/) - `grid` 布局工具。
   - [clsx](https://github.com/lukeed/clsx) - 非常轻量的 CSS 类名拼接工具。
   - [polished](https://polished.js.org/) - CSS 样式辅助工具。
+  - [Font Face Observer](https://github.com/bramstein/fontfaceobserver) - 使用 `@font-face` 加载第三方字体可用检测。
 
 - 交互效果
   - [Hover.css](http://ianlunn.github.io/Hover/) - 添加鼠标悬停动画效果。（:warning: 不再更新）
