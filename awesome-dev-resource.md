@@ -635,6 +635,7 @@ _Terminal, Console, Shell, and Command Line._
 - [subfinder](https://github.com/projectdiscovery/subfinder) - 查找子域名。
 - [dog](https://dns.lookup.dog/) - 命令行 DNS 客户端。
 - [nativefier](https://github.com/nativefier/nativefier) - 可将 Web 网站转换成本地应用。
+- [hotel](https://github.com/typicode/hotel) - 利用 Web 网页启动多个服务应用并使用本地域名或者 https 协议。
 
 ### WSL
 
