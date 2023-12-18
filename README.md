@@ -31,6 +31,7 @@
   - [Web 前端（Web Front-end）](awesome-dev-web-front-end.md)
     - [WebAssembly](awesome-dev-web-webassembly.md) 
     - [React.js](awesome-dev-web-reactjs.md)
+    - [Vue.js](awesome-dev-web-vuejs.md)
   - 移动应用（Mobile Application）
     - [混合应用（Hybrid App）](awesome-dev-hybrid-app.md)
   - [GIS 开发（GIS Development）](awesome-dev-gis.md)
