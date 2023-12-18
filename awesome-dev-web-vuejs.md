@@ -41,11 +41,15 @@
 
 *Vue application global state management and optimization.*
 
+- [Pinia](https://pinia.vuejs.org/) - **Vue.js 官方解决方案**。
+
 [`Go Top ↑`](#awesome-vuejs-list)
 
 ## 路由管理
 
 *Route management for SPA applications built with Vue.js.*
+
+- [Vue Router](https://router.vuejs.org/) - **Vue.js 官方解决方案**。
 
 [`Go Top ↑`](#awesome-vuejs-list)
 
@@ -67,6 +71,9 @@ _UI Design System, provides a base system for building a design system._
 
 *Independent UI components, only providing component modules that implement an interactive function.*
 
+- 虚拟列表&滚动器（Virtual List & Scroller）
+  - [Virtual scrolling solutions](https://vue-virtual-scroller-demo.netlify.app/)
+
 [`Go Top ↑`](#awesome-vuejs-list)
 
 ## 优化方案
@@ -84,6 +91,8 @@ _UI Design System, provides a base system for building a design system._
 ## 更多
 
 *More other unclassified resources.*
+
+- [VueUse](https://vueuse.org/) - 实用工具集。
 
 [`Go Top ↑`](#awesome-vuejs-list)
 
