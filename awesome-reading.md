@@ -186,9 +186,6 @@ _Software Architecture._ [:point_right: _Software Architecture Book_](https://gi
 
 - 《架构之美：行业思想领袖揭秘软件设计之美》[美] Diomidis Spinellis, Georgios Gousios
 - [《Kubernetes Handbook——Kubernetes 中文指南/云原生应用架构实践手册》](https://jimmysong.io/kubernetes-handbook/) - 云原生实践，**开源书籍**。
-- [Design Patterns for Humans](https://roadmap.sh/guides/design-patterns-for-humans) - 设计模式。
-- [Refactoring.Guru](https://refactoring.guru/) - 图文结合讲解软件工程、设计模式的知识。
-- [Awesome Software and Architectural Design Patterns](https://github.com/DovAmir/awesome-design-patterns)
 - 《设计原本》[美] Jr·Frederick P·Brooks
 
 #### 网络与协议
