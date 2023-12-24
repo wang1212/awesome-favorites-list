@@ -122,17 +122,26 @@
 
 *Software and architecture design. See also :point_right: [软件架构设计书籍](https://github.com/wang1212/awesome-favorites-list/blob/master/awesome-reading.md#%E8%BD%AF%E4%BB%B6%E6%9E%B6%E6%9E%84%E8%AE%BE%E8%AE%A1)*
 
-- [Developer to Architect](https://developertoarchitect.com/)
-- [Awesome Software Architecture](https://mehdihadeli.github.io/awesome-software-architecture/)
-- [System Design Cheatsheet](https://gist.github.com/vasanthk/485d1c25737e8e72759f) - 系统设计备忘单。
-- [awesome-scalability](https://github.com/binhnguyennus/awesome-scalability) - 可伸缩、可扩展系统设计实践。
-- [https://12factor.net/](https://12factor.net/) - 开发应用的十二要素。
-- [c4model](https://c4model.com/) - 用于软件架构的 C4 模型。
-- [The System Design Primer](https://github.com/donnemartin/system-design-primer) - 学习构建大型系统。
-- [Superhero.js](http://superherojs.com/) - 构建大型 JavaScript 项目的一些技巧。
-- [Command Line Interface Guidelines](https://clig.dev/) - 命令行接口指南。
-- [Awesome Diagramming](https://github.com/shubhamgrg04/awesome-diagramming) - 可用来画架构图的一些图表工具。
-- [System Design 101](https://github.com/ByteByteGoHq/system-design-101) - 用图表展示系统架构设计，**ByteByteGo 出品**。
+- 设计模式（Design Patterns） 
+  - [Awesome Software and Architectural Design Patterns](https://github.com/DovAmir/awesome-design-patterns)
+  - [Design Patterns for Humans](https://roadmap.sh/guides/design-patterns-for-humans) - 设计模式。
+  - [Refactoring.Guru](https://refactoring.guru/) - 图文结合讲解软件工程、设计模式的知识。
+  - [Software Design and Architectural Patterns](http://software-pattern.org/)
+
+- 系统架构（System Architecture Design）
+  - [Developer to Architect](https://developertoarchitect.com/)
+  - [Awesome Software Architecture](https://mehdihadeli.github.io/awesome-software-architecture/)
+  - [awesome-scalability](https://github.com/binhnguyennus/awesome-scalability) - 可伸缩、可扩展系统设计实践。
+  - [The System Design Primer](https://github.com/donnemartin/system-design-primer) - 学习构建大型系统。
+  - [System Design 101](https://github.com/ByteByteGoHq/system-design-101) - 用图表展示系统架构设计，**ByteByteGo 出品**。
+  - [System Design Cheatsheet](https://gist.github.com/vasanthk/485d1c25737e8e72759f) - 系统设计备忘单。
+    
+- 其它（Others）
+  - [https://12factor.net/](https://12factor.net/) - 开发应用的十二要素。
+  - [c4model](https://c4model.com/) - 用于软件架构的 C4 模型。
+  - [Superhero.js](http://superherojs.com/) - 构建大型 JavaScript 项目的一些技巧。
+  - [Command Line Interface Guidelines](https://clig.dev/) - 命令行接口指南。
+  - [Awesome Diagramming](https://github.com/shubhamgrg04/awesome-diagramming) - 可用来画架构图的一些图表工具。
 
 ### 其它
 
