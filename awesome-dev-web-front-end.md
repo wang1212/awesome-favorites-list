@@ -273,6 +273,7 @@ _see also 👉  [Node.JS-工具库](./awesome-dev-nodejs.md#工具库)_
     - [DOM to Image](https://github.com/tsayen/dom-to-image/) - 利用 HTML5 Canvas 生成 DOM 节点的快照图片。
       - [html2canvas](https://html2canvas.hertzen.com)
       - [rasterizeHTML.js](http://cburgmer.github.io/rasterizeHTML.js/)
+      - [html-to-image](https://github.com/bubkoo/html-to-image)
     - [signature_pad](https://szimek.github.io/signature_pad/) - 手写签名。 
   - [linkifyjs](https://github.com/Hypercontext/linkifyjs) - 处理文本中的链接、邮箱地址等，将其转为相应的 HTML 标签。
 
