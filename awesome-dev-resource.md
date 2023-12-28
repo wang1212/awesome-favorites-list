@@ -563,6 +563,8 @@ _Coding Statistics._
 
 *Server remote management tools, such as SSH client, etc.*
 
+- Multi-platform
+
 - Windows
   - [WinSCP](https://winscp.net/) - 使用 SSH 的图形化 SFTP 客户端，同时支持 SCP 协议，用于远程文件传输，**开源免费**。
   - [PuTTY](https://www.putty.org/) - 一个集 Telnet、SSH、rlogin、纯 TCP 以及串行接口连接软件，配合 WinSCP 可以很好的远程管理 Linux 服务器，也支持 Unix 平台，**开源免费**。
@@ -582,6 +584,8 @@ _Terminal, Console, Shell, and Command Line._
 
 - Multi-platform
   - [hyper](https://hyper.is/)
+  - [PowerShell](https://github.com/PowerShell/PowerShell)
+  - [Tabby](https://tabby.sh/)
  
 - Windows
   - [Windows Terminal](https://github.com/microsoft/terminal)
