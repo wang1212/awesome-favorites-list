@@ -686,7 +686,6 @@ _Terminal, Console, Shell, and Command Line._
   - [Splitbee](https://splitbee.io/) - Web 站点分析统计平台，个人项目免费。
 
 - 抓包工具（Packet Capture）
-  - [WireShark](https://www.wireshark.org/) - 协议分析，**开源免费**。
   - [Fiddler Everywhere](https://www.telerik.com/fiddler) - **提供免费版本**。
   - [mitmproxy](https://www.mitmproxy.org/) - Python 开发的 HTTPS 代理，**开源免费**。
   - [whistle](https://wproxy.org/whistle/)
