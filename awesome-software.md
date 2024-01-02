@@ -623,6 +623,7 @@ _Software application management._
 
 _Network Management._
 
+- [WireShark](https://www.wireshark.org/) - 协议分析，**开源免费**。
 - [Sniffnet](https://sniffnet.net/) - 网络流量监控，**开源软件**。
 
 #### 远程桌面
