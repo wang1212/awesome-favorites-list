@@ -267,7 +267,9 @@ _see also 👉  [Node.JS-工具库](./awesome-dev-nodejs.md#工具库)_
   - [Tether](http://tether.io/) - 元素跟踪定位工具。
     - [popper.js](https://popper.js.org/) - 元素定位工具。  
   - [Quicklink](https://getquick.link/) - 预请求视区内的资源，加快页面加载速度。
-  - [fastdom](https://github.com/wilsonpage/fastdom) - 批处理 DOM 操作。
+  - Dom operation
+    - [fastdom](https://github.com/wilsonpage/fastdom) - 批处理 DOM 操作。
+    - [morphdom](https://github.com/patrick-steele-idem/morphdom) - 以优化的方式更新 DOM。
   - Canvas
     - [print.js](https://printjs.crabbly.com/) - 网页打印工具。  
     - [DOM to Image](https://github.com/tsayen/dom-to-image/) - 利用 HTML5 Canvas 生成 DOM 节点的快照图片。
@@ -421,6 +423,7 @@ _[Open UI](https://open-ui.org/)_
 - [Skeleton](http://getskeleton.com/) - 简单的响应式 CSS 框架。（:warning: 不再更新）
 - [egjs](https://naver.github.io/egjs/) - 提供多个可用的独立组件。
 - [Theme UI](https://theme-ui.com/) - 设计图框架。
+- [shadcn/ui](https://ui.shadcn.com/)
 
 #### 独立组件
 
@@ -605,6 +608,7 @@ _[Open UI](https://open-ui.org/)_
 - [Alpine.js](https://alpinejs.dev/) - 轻量的 JavaScript 框架。
 - [Aurelia](https://aurelia.io/)
 - [Astro](https://astro.build/)
+- [htmx](https://htmx.org/) - 轻量级属性指令驱动 Web 开发。
 
 [`Go Top ↑`](#awesome-web-front-end-list)
 
