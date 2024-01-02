@@ -721,9 +721,10 @@ _Application architecture patterns._
   - [UNPKG](https://unpkg.com/)
   - [cdnjs](https://cdnjs.com/)
   - [Google Hosted Libraries](https://developers.google.com/speed/libraries/)
-  - [ESM](https://esm.sh/) - 用于 **ES Module** 格式。
-  - [Skypack](https://www.skypack.dev/)
-  - [jspm](https://jspm.org/)
+  - **ES Module** 格式
+    - [ESM](https://esm.sh/)
+    - [Skypack](https://www.skypack.dev/)
+    - [jspm](https://jspm.org/)
 
 - China
   - [BootCDN](https://www.bootcdn.cn/) - Bootstrap 中文网维护，cdnjs 的国内同步源。
