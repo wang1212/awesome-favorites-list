@@ -619,6 +619,12 @@ _Software application management._
   - [UNetbootin](http://unetbootin.github.io/) - 制作 Linux Live USB。
   - [Etcher](https://www.balena.io/etcher) - 制作 Linux Live USB。
 
+#### 网络管理
+
+_Network Management._
+
+- [Sniffnet](https://sniffnet.net/) - 网络流量监控，**开源软件**。
+
 #### 远程桌面
 
 _Virtual desktop, remote login._
