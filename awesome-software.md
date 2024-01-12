@@ -73,6 +73,8 @@
 
 - 翻译（Translation）
   - [Google 翻译](https://chrome.google.com/webstore/detail/google-translate/aapbdbdomjkkjkaonfhkkikfgjllcleb) - 可在页面上进行实时翻译，**官方扩展**。
+  - [沉浸式翻译](https://immersivetranslate.com/)
+  - [划词翻译](https://hcfy.app/)
   - [沙拉查词](https://saladict.crimx.com/download.html) - 网页翻译工具。
   - [DeepL翻译：阅读写作翻译器](https://chrome.google.com/webstore/detail/deepl-translate-reading-w/cofdbpoegempjloogbagkncekinflcnj)
   - [Relingo](https://relingo.net/en/index)
@@ -83,7 +85,6 @@
   - [Screenity](https://github.com/alyssaxuu/screenity) - 录屏工具。
 - [Infinity 新标签页 (Pro)](https://chrome.google.com/webstore/detail/infinity-new-tab-pro/nnnkddnnlpamobajfibfdgfnbcnkgngh) - 让浏览器的新标签页可定制化。
 - [Image Downloader](https://chrome.google.com/webstore/detail/image-downloader/cnpniohnfphhjihaiiggeabnkjhpaldj) - 网站图片批量下载。
-- [ColorPick Eyedropper](https://chrome.google.com/webstore/detail/colorpick-eyedropper/ohcpnigalekghcmgcdcenkpelffpdolg) - 方便好用的拾色器。
 - [Dark Reader](https://darkreader.org/) - 为网页提供黑暗模式以保护眼镜。
 
 ### 用户脚本
@@ -570,7 +571,7 @@
 *Text Editor.*
 
 - [Zettlr](https://www.zettlr.com/) - Markdown 文本编辑器，很漂亮，功能很强大，**开源软件**。
-- [Mark Text](https://github.com/marktext/marktext) - Markdown 文本编辑器，支持所见即所得，**开源软件**。
+- [Mark Text](https://github.com/marktext/marktext) - Markdown 文本编辑器，支持所见即所得，**开源软件**。（ :warning: 不再更新）
 - [Abricotine](http://abricotine.brrd.fr/) - Markdown 文本编辑器，**开源软件**。
 - [ghostwriter](https://wereturtle.github.io/ghostwriter/) - Markdown 文本编辑器，**开源软件**。
 - [remarkableapp](https://remarkableapp.github.io/index.html) - Markdown 文本编辑器，目前主要支持 Linux 平台，**开源软件**。
