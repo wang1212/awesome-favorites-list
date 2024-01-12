@@ -18,18 +18,18 @@
 - [镜像站（Mirror Site）](#镜像站)
 - [技术标准规范（Technical Standard Specification）](awesome-dev-specifications.md)
 - [技术实践规范（Technical Practice Specification）](#技术实践规范)
-  - [代码风格（Code Style）](#代码风格) 
+  - [代码风格（Code Style）](#代码风格)
   - [项目管理（Project Management）](#项目管理)
   - [软件与架构设计（Software and Architecture Design）](#软件与架构设计)
 - [技术参考资源（Technical Reference Resources）](#技术参考资源)
   - [统计信息（Statistics）](#统计信息)
-  - [技术文档（Technical Documentation）](#技术文档) 
-  - [算法与数据结构（Algorithms and Data Structures）](#算法与数据结构) 
+  - [技术文档（Technical Documentation）](#技术文档)
+  - [算法与数据结构（Algorithms and Data Structures）](#算法与数据结构)
   - [编码技巧（Coding Skills）](#编码技巧)
 - [社区论坛（Community Forum）](#社区论坛)
 - [技术期刊（Technical Journal）](#技术期刊)
-  - [技术博客（Technical Blog）](#技术博客) 
-- [在线资源（Online Resources）](#在线资源) 
+  - [技术博客（Technical Blog）](#技术博客)
+- [在线资源（Online Resources）](#在线资源)
   - [在线实用工具（Online utility）](#在线实用工具)
   - [公共 API（Public API）](#公共-api)
   - [设计工具（Design Tools）](#设计工具)
@@ -38,7 +38,7 @@
   - [徽章图标服务（Badge Icon Service）](#徽章图标服务)
 - [软件工具（Software Tools）](#软件工具)
   - [Emoji :smile:](#emoji)
-  - [Chrome 扩展程序（Chrome Extension）](#chrome-扩展程序) 
+  - [Chrome 扩展程序（Chrome Extension）](#chrome-扩展程序)
   - [测试（Test）](#测试)
   - [代码编辑器/IDE（Code editor/IDE）](#代码编辑器ide)
   - [源代码管理（Source Code Management）](#源代码管理)
@@ -73,7 +73,7 @@
   - [GitClone](https://gitclone.com/) - GitHub 仓库缓存加速。
   - [GitHub Proxy](https://ghproxy.com/) - 文件代理加速下载。
   - [https://d.serctl.com/](https://d.serctl.com/) - 文件代下服务。
-  - [GitHub & BitBucket HTML Preview](https://github.com/htmlpreview/htmlpreview.github.com) - 静态资源预览代理。 
+  - [GitHub & BitBucket HTML Preview](https://github.com/htmlpreview/htmlpreview.github.com) - 静态资源预览代理。
   - [FastGithub](https://github.com/dotnetcore/FastGithub) - 加速工具。
 
 - Others
@@ -103,9 +103,9 @@
   - [Creative Commons](https://creativecommons.org/choose/) - 知识共享协议许可。
 - [About READMEs](https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-readmes) - 项目自述文档。
   - [Make a README](https://www.makeareadme.com/)
-- [ARCHITECTURE.md](https://matklad.github.io/2021/02/06/ARCHITECTURE.md.html) - 建议在开源项目中加入 *ARCHITECTURE.md* 文件。
+- [ARCHITECTURE.md](https://matklad.github.io/2021/02/06/ARCHITECTURE.md.html) - 建议在开源项目中加入 _ARCHITECTURE.md_ 文件。
 - [Contributor Covenant](https://www.contributor-covenant.org/) - 贡献者契约，开源社区的行为准则声明。
-- [How to Build a CONTRIBUTING.md](https://mozillascience.github.io/working-open-workshop/contributing/) - 如何为开源项目构建 *CONTRIBUTING.md* 文件。
+- [How to Build a CONTRIBUTING.md](https://mozillascience.github.io/working-open-workshop/contributing/) - 如何为开源项目构建 _CONTRIBUTING.md_ 文件。
 - Git Workflow
   - [Git Flow](https://nvie.com/posts/a-successful-git-branching-model/)
   - [GitLab Flow](https://docs.gitlab.com/ee/topics/gitlab_flow.html)
@@ -114,7 +114,7 @@
   - [AngularJS Commit Message Format](https://github.com/angular/angular/blob/master/CONTRIBUTING.md#-commit-message-format) - AngularJS 提交信息格式约定，可作为参考。
 - [Software release life cycle](https://en.wikipedia.org/wiki/Software_release_life_cycle) - 软件发布的生命周期。
   - [Semantic Versioning](https://semver.org/) - 语义化版本控制。
-  - [keep a changelog](https://keepachangelog.com/) - 项目内应始终存在一个 *CHANGELOG.md* 文件，并遵循一定的规范。
+  - [keep a changelog](https://keepachangelog.com/) - 项目内应始终存在一个 _CHANGELOG.md_ 文件，并遵循一定的规范。
 - [Advantages of monorepos](https://danluu.com/monorepo/) - `monorepos` 模式代码仓库的优点。
   - [monorepo.tools](https://monorepo.tools/)
 
@@ -122,7 +122,7 @@
 
 *Software and architecture design. See also :point_right: [软件架构设计书籍](https://github.com/wang1212/awesome-favorites-list/blob/master/awesome-reading.md#%E8%BD%AF%E4%BB%B6%E6%9E%B6%E6%9E%84%E8%AE%BE%E8%AE%A1)*
 
-- 设计模式（Design Patterns） 
+- 设计模式（Design Patterns）
   - [Awesome Software and Architectural Design Patterns](https://github.com/DovAmir/awesome-design-patterns)
   - [Design Patterns for Humans](https://roadmap.sh/guides/design-patterns-for-humans) - 设计模式。
   - [Refactoring.Guru](https://refactoring.guru/) - 图文结合讲解软件工程、设计模式的知识。
@@ -135,7 +135,7 @@
   - [The System Design Primer](https://github.com/donnemartin/system-design-primer) - 学习构建大型系统。
   - [System Design 101](https://github.com/ByteByteGoHq/system-design-101) - 用图表展示系统架构设计，**ByteByteGo 出品**。
   - [System Design Cheatsheet](https://gist.github.com/vasanthk/485d1c25737e8e72759f) - 系统设计备忘单。
-    
+
 - 其它（Others）
   - [https://12factor.net/](https://12factor.net/) - 开发应用的十二要素。
   - [c4model](https://c4model.com/) - 用于软件架构的 C4 模型。
@@ -258,7 +258,7 @@ _Coding skills._
   - [Echo JS](https://www.echojs.com/) - 日报，Web 前端新闻。
   - [CSS-Tricks](https://css-tricks.com/) - 日报，CSS 技术文章。
   - [Sidebar](https://sidebar.io/) - 日报，设计相关新闻。
-  
+
 - 每周（Weekly）
   - CSS
     - [CSS Weekly](https://css-weekly.com/) - 周刊，CSS 技术。
@@ -279,16 +279,16 @@ _Coding skills._
   - Mobile Native Client
     - [Mobile Dev Weekly](https://mobiledevweekly.com/) - 周刊，移动应用（Web 和 Native）开发技术。（Cooperpress 出版）
     - [Android Weekly](https://androidweekly.net/) - 周刊，Android 技术。
-    - [iOS Dev Weekly](https://iosdevweekly.com/) - 周刊，iOS 开发者相关。 
+    - [iOS Dev Weekly](https://iosdevweekly.com/) - 周刊，iOS 开发者相关。
   - Database
-    - [DB Weekly](https://dbweekly.com/) - 周刊，数据库技术。（Cooperpress 出版）（:warning: 停止更新）
+    - [DB Weekly](https://dbweekly.com/) - 周刊，数据库技术。（Cooperpress 出版）（ :warning: 停止更新）
     - [Postgres Weekly](https://postgresweekly.com/) - 周刊，PostgreSQL 技术。（Cooperpress 出版）
   - Node.js & Deno
     - [Node Weekly](https://nodeweekly.com/) - 周刊，Node.js 技术。（Cooperpress 出版）
-    - [npm Weekly](https://www.npmjs.com/npm-weekly) - 周刊，npm 新闻，**npm 官方**。（:warning: 停止更新）
-    - [Deno Weekly](https://denoweekly.com/) - 周刊，Deno 技术。（Cooperpress 出版）  
+    - [npm Weekly](https://www.npmjs.com/npm-weekly) - 周刊，npm 新闻，**npm 官方**。（ :warning: 停止更新）
+    - [Deno Weekly](https://denoweekly.com/) - 周刊，Deno 技术。（Cooperpress 出版）
   - Other
-    - [StatusCode Weekly](https://weekly.statuscode.com/) - 周刊，软件开发、Web 技术、软件架构等。（Cooperpress 出版）（:warning: 停止更新）
+    - [StatusCode Weekly](https://weekly.statuscode.com/) - 周刊，软件开发、Web 技术、软件架构等。（Cooperpress 出版）（ :warning: 停止更新）
     - [Web Tools Weekly](https://webtoolsweekly.com/) - 周刊，Web 开发工具资讯。
     - [Ruby Weekly](https://rubyweekly.com/) - 周刊，Ruby 技术。（Cooperpress 出版）
     - [PyCoder’s Weekly](https://pycoders.com/) - 周刊，Python 技术。
@@ -331,7 +331,7 @@ _see also 👉  [Web 端软件资源](./awesome-software.md#浏览器端)_
   - [URL Encoder](https://www.urlencoder.org/) - URL 编解码，以及一系列小工具。
   - [SOCODE.PRO](https://socode.pro/) - 快速搜索开发文档，小工具等，**提供浏览器插件**。
   - [345Tool](https://www.345tool.com/) - 开发者工具集。
-  - [tool.lu](https://tool.lu/) - 开发者工具集。  
+  - [tool.lu](https://tool.lu/) - 开发者工具集。
   - [toolb.dev](https://www.toolb.dev/)
   - [Carbon](https://carbon.now.sh/) - 生成漂亮的源代码图片。
   - [FastIcon](https://fasticon.sawirstudio.com/) - 在线快速生成 Android 与 IOS 应用图标。
@@ -345,7 +345,7 @@ _see also 👉  [Web 端软件资源](./awesome-software.md#浏览器端)_
   - [IKnowWhatYouDownload](https://iknowwhatyoudownload.com/) - 查看 IP 下载过的 BT 资源。
 
 - Service
-  - [Web-Scale UUID as a Service](https://uuid.rocks/) - 在线生成 uuid。  
+  - [Web-Scale UUID as a Service](https://uuid.rocks/) - 在线生成 uuid。
 
 - Checker
   - [ShellCheck](https://www.shellcheck.net/) - shell 脚本 bug 检查工具。（支持本地安装）
@@ -452,7 +452,7 @@ _see also 👉  [Web 端软件资源](./awesome-software.md#浏览器端)_
 - [JSON-handle](https://chrome.google.com/webstore/detail/json-handle/iahnhfdhidomcpggpaimmmahffihkfnj) - JSON 文档的浏览器和编辑器。
 - [CSS Peeper](https://chrome.google.com/webstore/detail/css-peeper/mbnbehikldjhnfehhnaidhjhoofhpehk) - 页面 CSS 调试工具。
 - [Headless Recorder](https://chrome.google.com/webstore/detail/headless-recorder/djeegiggegleadkkbgopoonhjimgehda) - 录制页面交互，生成 JS 无头脚本代码。
-- Enhance the function of github. *(see also 👉 https://github.com/stefanbuck/awesome-browser-extensions-for-github)*
+- Enhance the function of github. *(see also 👉 <https://github.com/stefanbuck/awesome-browser-extensions-for-github>)*
   - [Refined GitHub](https://github.com/sindresorhus/refined-github) - 增强 GitHub 网站界面功能，在许多细节方面做了改进。
   - [Octotree](https://www.octotree.io/) - 生成代码文件树，方便浏览仓库文件。
   - [OctoLinker](https://octolinker.now.sh/) - 源代码中引用的依赖包信息预览，例如 `import`, `require` 语句。
@@ -469,10 +469,10 @@ _see also 👉  [Web 端软件资源](./awesome-software.md#浏览器端)_
 *Various testing tools.*
 
 - HTTP 基准测试（Benchmarks）
-  - [*HTTP(S) Benchmark Tools*](https://github.com/denji/awesome-http-benchmark#https-benchmark-tools) - *HTTP 基准测试工具集。*
-  - [*Web Frameworks Benchmark*](https://web-frameworks-benchmark.netlify.app/) - *Web 框架的公开基准测试，仅供参考。*
+  - [_HTTP(S) Benchmark Tools_](https://github.com/denji/awesome-http-benchmark#https-benchmark-tools) - *HTTP 基准测试工具集。*
+  - [_Web Frameworks Benchmark_](https://web-frameworks-benchmark.netlify.app/) - *Web 框架的公开基准测试，仅供参考。*
 
-### 代码编辑器/IDE 
+### 代码编辑器/IDE
 
 *Open source free IDE editor, and some commercial paid IDE.*
 
@@ -587,7 +587,7 @@ _Terminal, Console, Shell, and Command Line._
   - [hyper](https://hyper.is/)
   - [PowerShell](https://github.com/PowerShell/PowerShell)
   - [Tabby](https://tabby.sh/)
- 
+
 - Windows
   - [Windows Terminal](https://github.com/microsoft/terminal)
   - [ConEmu](https://conemu.github.io/)
@@ -615,7 +615,7 @@ _Terminal, Console, Shell, and Command Line._
   - [exa](https://the.exa.website/) - 类似于 `ls` 命令。
   - [fd](https://github.com/sharkdp/fd) -  类似于 `find` 命令，更简单好用。
   - [bat](https://github.com/sharkdp/bat) - 类似于 `cat` 命令，支持语法高亮等特性。
-  - [ripgrep ](https://github.com/BurntSushi/ripgrep) - 类似于 `grep` 命令。
+  - [ripgrep](https://github.com/BurntSushi/ripgrep) - 类似于 `grep` 命令。
   - [duf](https://github.com/muesli/duf) - 类似于 `df` 命令，查看硬盘使用情况的工具，支持多个平台。
   - [curl](https://curl.se/) - 类似 `wget`，发送 HTTP 请求，支持多个平台。
 
@@ -729,7 +729,7 @@ _Static site tool._
 - [Reverse interview](https://github.com/viraptor/reverse-interview) - 面试时候可以反问的一些问题。
 - [Coding Interview University](https://github.com/jwasham/coding-interview-university)
 - [Tech Interview Handbook](https://techinterviewhandbook.org/)
-- [System Design Interview](https://github.com/checkcheckzz/system-design-interview) - 系统设计面试。（:warning: 不再更新）
+- [System Design Interview](https://github.com/checkcheckzz/system-design-interview) - 系统设计面试。（ :warning: 不再更新）
 - [Front End Interview Handbook](https://www.frontendinterviewhandbook.com/) - 前端面试手册。
 
 [`Go Top ↑`](#awesome-development-resources)
@@ -749,11 +749,11 @@ _Static site tool._
 *Interview questions.*
 
 - Generic
-  - [Awesome Interviews](https://github.com/DopplerHQ/awesome-interview-questions) - 计算机技术相关的面试题。（:warning: 不再更新）
+  - [Awesome Interviews](https://github.com/DopplerHQ/awesome-interview-questions) - 计算机技术相关的面试题。（ :warning: 不再更新）
 
 - Web Front-end
-  - [Front-end Developer Interview Questions](https://h5bp.org/Front-end-Developer-Interview-Questions/) 
-  - [JavaScript Interview Questions & Answers](https://github.com/sudheerj/javascript-interview-questions) 
+  - [Front-end Developer Interview Questions](https://h5bp.org/Front-end-Developer-Interview-Questions/)
+  - [JavaScript Interview Questions & Answers](https://github.com/sudheerj/javascript-interview-questions)
   - [React Interview Questions & Answers](https://github.com/sudheerj/reactjs-interview-questions)
   - [GreatFrontEnd](https://www.greatfrontend.com/) - **部分付费**。
 
@@ -762,7 +762,7 @@ _Static site tool._
 *More uncategorized resources.*
 
 - [Learn Anything](https://learn-anything.xyz/) - 知识路径图谱。
-- [Perfection Kills](http://perfectionkills.com/)	
+- [Perfection Kills](http://perfectionkills.com/)
 
 _[Open Source Collective](https://opencollective.com/opensource)_
 

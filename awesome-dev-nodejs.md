@@ -7,11 +7,11 @@
 
 <br />
 
-> Node.js 是一个基于 Chrome V8 引擎的 JavaScript 运行环境，使用了一个事件驱动、非阻塞式 I/O 的模型，为 JavaScript 提供了一个服务器端应用程序开发平台，:point_right: https://nodejs.org/ / https://nodejs.dev/
+> Node.js 是一个基于 Chrome V8 引擎的 JavaScript 运行环境，使用了一个事件驱动、非阻塞式 I/O 的模型，为 JavaScript 提供了一个服务器端应用程序开发平台，:point_right: <https://nodejs.org/> / <https://nodejs.dev/>
 
 [OpenJS Foundation](https://openjsf.org/) - 开源 JS 基金会，由 Node 基金会和 JS 基金会合并而成。
 
-*（Recommend）推荐一个其它的很棒的收藏列表，:point_right: https://github.com/sindresorhus/awesome-nodejs*
+*（Recommend）推荐一个其它的很棒的收藏列表，:point_right: <https://github.com/sindresorhus/awesome-nodejs>*
 
 ## 目录
 
@@ -41,11 +41,11 @@
   - [CommonJS](http://www.commonjs.org/) - Node.js 默认采用的模块加载方式。
   - [AMD](https://github.com/amdjs/amdjs-api/blob/master/AMD.md) - 异步模块定义，适合浏览器端。
   - [Universal Module Definition](https://github.com/umdjs/umd) - 通用模块定义，兼容 AMD、CommonJS 以及全局变量方式。
-  
+
 - [Worker Runtimes](https://workers.js.org/) - 构建 HTTP 服务器的新标准。
-  
+
 *More others 👉 [Awesome-Development-Technical-Standard-Specifications](awesome-dev-specifications.md)*
-  
+
 [`Go Top ↑`](#awesome-nodejs-list)
 
 ## 技术参考文档
@@ -85,12 +85,12 @@
   - [npm](https://www.npmjs.com/) - Node.js 的官方包管理器。
   - [Yarn](https://www.yarnpkg.com/)
   - [pnpm](https://pnpm.js.org/) - 支持 **Monorepo** 仓库。
-  - [Bower](https://bower.io/) - （:warning: 不再积极维护）
+  - [Bower](https://bower.io/) - （ :warning: 不再积极维护）
 
 - 包开发（Package Development）
-  - `npm publish` 
+  - `npm publish`
     - [np](https://github.com/sindresorhus/np) - 让发布更优雅、安全。
-    - [standard-version](https://github.com/conventional-changelog/standard-version) - 自动化版本管理和变更日志生成。（:warning: 不再维护）
+    - [standard-version](https://github.com/conventional-changelog/standard-version) - 自动化版本管理和变更日志生成。（ :warning: 不再维护）
     - [release-it](https://github.com/release-it/release-it)
     - [semantic-release](https://semantic-release.gitbook.io/semantic-release/) - CI 自动化版本管理和包发布。
     - [auto](https://intuit.github.io/auto/index) - CI 自动化发布。
@@ -115,7 +115,7 @@
   - [publint](https://publint.dev/) - 发现包的发布错误，并给出建议。
 
 - [Monorepo](https://en.wikipedia.org/wiki/Monorepo) 工具（Monorepo Tools）
-  - [_monorepo.tools_](https://monorepo.tools/)
+  - [*monorepo.tools*](https://monorepo.tools/)
   - [Lerna](https://lerna.js.org/) - 管理 Monorepo 架构的 Node 模块代码库工具。
   - [Nx](https://nx.dev/) - 管理 Monorepo 架构的 Node 模块代码库工具。
 
@@ -126,8 +126,8 @@
     - [npm-check](https://github.com/dylang/npm-check)
   - [depcheck](https://github.com/depcheck/depcheck) - 项目依赖检查。
   - [depp](https://github.com/CryogenicPlanet/depp) - 项目依赖检查，是否存在未使用或者重复的依赖。
-  - [npkill](https://npkill.js.org/) - 搜索系统中的 _node_modules_ 文件夹并清理。
-  - [qnm](https://github.com/ranyitz/qnm) - 搜索 _node_modules_ 目录的工具。
+  - [npkill](https://npkill.js.org/) - 搜索系统中的 *node_modules* 文件夹并清理。
+  - [qnm](https://github.com/ranyitz/qnm) - 搜索 *node_modules* 目录的工具。
   - [njt](https://njt.now.sh/) -  npm jump to，npm 包搜索并跳转到相应 npm 站点。
   - [patch-package](https://github.com/ds300/patch-package) - 对模块打补丁进行修复。
   - [npm-packlist](https://github.com/npm/npm-packlist) - 检查 npm 包发布后包含的所有文件。
@@ -159,7 +159,7 @@
   - [dotenv](https://github.com/motdotla/dotenv) - 从 **.env** 文件为 Node.js 项目加载环境变量。
   - [node-config](https://github.com/lorenwest/node-config)
   - [cosmiconfig](https://github.com/davidtheclark/cosmiconfig) - 搜索并加载配置文件。
-  
+
 - 环境变量（Environment variable）
   - [cross-env](https://github.com/kentcdodds/cross-env) - 为 npm 脚本配置和使用环境变量提供跨平台支持。
   - [Envalid](https://github.com/af/envalid) - 环境变量校验。
@@ -178,7 +178,7 @@
   - Mobile Debug
     - [Eruda](https://eruda.liriliri.io/) - 移动端 Web 调试工具。
     - [vConsole](https://github.com/Tencent/vConsole) - 移动端 Web 调试工具，腾讯（Tencent）出品。
-  
+
 - 性能分析（profiling ）
   - [0x](https://github.com/davidmarkclements/0x)
   - [clinic.js](https://clinicjs.org/) - 性能分析、监控、指标收集。
@@ -203,15 +203,15 @@
   - [typebox](https://github.com/sinclairzx81/typebox) - 运行时类型构建器。
 
 - 模拟 API（Mock API）
-  - [JSON Server](https://github.com/typicode/json-server) - 可快速启动一个提供 REST API 的服务器，并返回指定测试数据。  
+  - [JSON Server](https://github.com/typicode/json-server) - 可快速启动一个提供 REST API 的服务器，并返回指定测试数据。
   - [Nock](https://github.com/nock/nock) - 模拟 API 服务，响应指定测试数据。
   - [Mock.js](http://mockjs.com/) - 模拟 API 服务，响应随机测试数据。
   - [Mock Service Worker](https://mswjs.io/) - 利用 `Service Worker` API 拦截请求并实现 Mock API。
   - [Mirage JS](https://miragejs.com/)
   - [faker.js](https://github.com/marak/faker.js) - 生成大量随机测试数据，可用来开发过程中进行 API 调试。
   - [Chance](https://chancejs.com/) - 生成随机的测试数据。
-  
-- 进程管理（Process Manage） 
+
+- 进程管理（Process Manage）
   - 热重载（Hot reload）
     - [nodemon](https://nodemon.io)
     - [node-dev](https://github.com/fgnass/node-dev)
@@ -222,7 +222,7 @@
     - [StrongLoop-PM](http://strong-pm.io/) - Node 应用生产环境进程管理工具。（⚠️ 不再积极开发）
     - [cluster-service](https://github.com/godaddy/node-cluster-service)
   - 进程安全关闭
-    - [terminus](https://github.com/godaddy/terminus)   
+    - [terminus](https://github.com/godaddy/terminus)
     - [http-shutdown](https://github.com/thedillonb/http-shutdown) - （⚠️ 不再积极开发）
     - [node-graceful-shutdown](https://github.com/ZitRos/node-graceful-shutdown)
 
@@ -234,13 +234,13 @@
     - [Sass](https://sass-lang.com/) - CSS 预处理器，可提供类似编程语言的能力（变量、方法、作用域、嵌套）来编写 CSS。
       - [Sass Guidelines](https://sass-guidelin.es/) - Sass 语法风格指南，**非官方**。
     - [PostCSS](https://postcss.org/) - CSS 后处理器，提供众多插件来实现还未被广泛实现和标准化的 CSS 功能特性，最终将其编译为目标平台支持的 CSS 代码。
-      - [postcss-normalize](https://github.com/csstools/postcss-normalize)    
+      - [postcss-normalize](https://github.com/csstools/postcss-normalize)
     - CSS In JS
       - [JSS](https://cssinjs.org) - 一种 CSS-in-JS 的解决方案。
       - [styled components](https://www.styled-components.com) - 一种 CSS-in-JS 的解决方案。
     - [modular-css](https://m-css.com/) - CSS 模块的扩展实现。
   - Others
-    - [Rust](https://www.rust-lang.org/) 
+    - [Rust](https://www.rust-lang.org/)
       - [Neon](https://neon-bindings.com/) - Rust 的 Node.js 绑定，可用来编写快速、安全的原生模块。
       - [NAPI-RS](https://napi.rs/) - 使用 Rust 编写预编译的 Node.js 插件的框架。
     - [Ruby](https://www.ruby-lang.org/) 2 JavaScript
@@ -249,10 +249,10 @@
     - [Scala](https://www.scala-lang.org/) 2 JavaScript
       - [Scala.js](https://www.scala-js.org/)
     - [F#](https://fsharp.org/) 2 JavaScript
-      - [Fable](https://fable.io/) 
+      - [Fable](https://fable.io/)
     - [Go](https://go.dev/) 2 JavaScript
       - [GopherJS](https://github.com/gopherjs/gopherjs)
-    
+
 - API 兼容性支持（API Polyfills）
   - [Browserslist](https://github.com/browserslist/browserslist) - 社区主流的目标设备检测工具库。
     - [browsersl.ist](https://browsersl.ist/) - **官方**。
@@ -278,7 +278,7 @@
     - [awesome-webpack](https://github.com/webpack-contrib/awesome-webpack) - Webpack 相关资源，**官方认证**。
   - [Rollup](http://rollupjs.org/) - 打包工具，适合开发库、框架。
   - [Gulp](https://gulpjs.com/)
-  - [Grunt](https://gruntjs.com/)  
+  - [Grunt](https://gruntjs.com/)
   - [esbuild](https://esbuild.github.io/) - Go 编写的代码编译转换和打包工具。
   - [Parcel](https://parceljs.org/)
 
@@ -315,14 +315,14 @@
 
 *Tool Library, some unofficial high-quality Node.js packages (or libraries).*
 
-_see also 👉  [awesome-nodejs](https://github.com/zerolab-fe/awesome-nodejs)_
+*see also 👉  [awesome-nodejs](https://github.com/zerolab-fe/awesome-nodejs)*
 
 - 实用工具（Utils）
   - 颜色解析（Color）
     - [chroma.js](https://vis4.net/chromajs/) - 颜色字符串解析、计算工具，功能很强大。
     - [color](https://github.com/Qix-/color) - 颜色字符串解析、计算工具，更轻量。
-    - [TinyColor](https://github.com/bgrins/TinyColor) - 颜色字符串解析、计算工具，更轻量一些。（:warning: 不再更新）
-    - [one.color](https://github.com/One-com/one-color) - 颜色字符串解析、计算工具，支持 RGB, HSV, HSL, CMYK 等。   
+    - [TinyColor](https://github.com/bgrins/TinyColor) - 颜色字符串解析、计算工具，更轻量一些。（ :warning: 不再更新）
+    - [one.color](https://github.com/One-com/one-color) - 颜色字符串解析、计算工具，支持 RGB, HSV, HSL, CMYK 等。
   - 异步操作（Asynchronous operation）
     - [promise-fun](https://github.com/sindresorhus/promise-fun) - `Promise` 工具库集合。
   - 对象操作（Object manipulation）
@@ -333,7 +333,7 @@ _see also 👉  [awesome-nodejs](https://github.com/zerolab-fe/awesome-nodejs)_
     - [Anchorme.js](https://alexcorvi.github.io/anchorme.js/) - 将文本中的 URL/邮箱等转换为链接。
 
 - 实用函数库（utility library）
-  - 通用（Generic）   
+  - 通用（Generic）
     - [Underscore](https://underscorejs.org/) - JavaScript 的工具函数库，提供了大量非常有用的工具函数。
     - [Lodash](https://lodash.com/) - JavaScript 的工具函数库，参考自 Underscore，功能更丰富。
     - [Ramda](https://ramdajs.com/) - JavaScript 的工具函数库，专门针对于函数式编程。
@@ -345,7 +345,7 @@ _see also 👉  [awesome-nodejs](https://github.com/zerolab-fe/awesome-nodejs)_
     - [simple-statistics](https://simple-statistics.github.io/) - 一些常用的统计方法。
     - [Radash](https://radash-docs.vercel.app/docs/getting-started) - 现代的、函数式工具库。
   - 深度相等判断（Equal depth）
-    - [fast-deep-equal](https://github.com/epoberezkin/fast-deep-equal) - 高性能，支持比较 ES6 Map, Set 和 Typed arrays。（:warning: 不再更新）
+    - [fast-deep-equal](https://github.com/epoberezkin/fast-deep-equal) - 高性能，支持比较 ES6 Map, Set 和 Typed arrays。（ :warning: 不再更新）
     - [dequal](https://github.com/lukeed/dequal)
     - [microdiff](https://github.com/AsyncBanana/microdiff) - 高性能数组与对象的相等比较。
     - [diff](https://github.com/kpdecker/jsdiff) - 文本差异算法。
@@ -356,9 +356,9 @@ _see also 👉  [awesome-nodejs](https://github.com/zerolab-fe/awesome-nodejs)_
 
 - UID
   - [uuid](https://github.com/uuidjs/uuid) - 生成随机唯一 id。
-  - [ulid](https://github.com/ulid/javascript) - 生成可排序的唯一 id。（:warning: 不再更新）
+  - [ulid](https://github.com/ulid/javascript) - 生成可排序的唯一 id。（ :warning: 不再更新）
   - [Nano ID](https://zelark.github.io/nano-id-cc/) - 生成唯一、URL 友好、安全的随机字符串。
-  - [cuid](https://github.com/ericelliott/cuid) - 生成防碰撞的随机 id。（:warning: 不再更新）
+  - [cuid](https://github.com/ericelliott/cuid) - 生成防碰撞的随机 id。（ :warning: 不再更新）
 
 - 日期时间（Date && Time）
   - [Moment.js](https://momentjs.com/) - 功能强大的日期、时间处理库。
@@ -375,33 +375,33 @@ _see also 👉  [awesome-nodejs](https://github.com/zerolab-fe/awesome-nodejs)_
   - [glMatrix](http://glmatrix.net/) - 矩阵和矢量运算。
   - [currency.js](https://currency.js.org/) - 轻量的货币计算工具库。
   - [Dinero.js](https://github.com/dinerojs/dinero.js) - 货币计算。
-  
+
 - 数据操作（Data Manipulation）
   - [Danfo.js](https://danfo.jsdata.org/) - 处理结构化数据的工具库，类似 Python 的 [Pandas](https://pandas.pydata.org/pandas-docs/stable/index.html)。
   - [bson](https://github.com/mongodb/js-bson) - BSON 格式数据解析器，**MongoDB 官方发布**。
   - [construct-js](https://github.com/francisrstokes/construct-js) - Byte 级别数据操作工具库。
   - [Buffer](https://github.com/feross/buffer) - 可在浏览器中使用与 [`Node.js Buffer API`](https://nodejs.org/api/buffer.html) 100% 相同的 API。
   - [Yjs](https://docs.yjs.dev/) - 一种高性能的 CRDT 实现，用于构建自动同步的协作应用程序。
-  
+
 - 数据加密、解密（Data encryption and decryption）
   - [bcrypt](https://github.com/kelektiv/node.bcrypt.js) - 生成密码哈希值。
   - [crypto-js](https://github.com/brix/crypto-js) - JavaScript 加密库。
   - [https://github.com/digitalbazaar/forge](https://www.npmjs.com/package/node-forge) - JavaScript 加密库。
-  - [md5.js](https://github.com/crypto-browserify/md5.js) - md5 哈希库。（:warning: 不再更新）
+  - [md5.js](https://github.com/crypto-browserify/md5.js) - md5 哈希库。（ :warning: 不再更新）
   - [md5](https://github.com/pvorb/node-md5) - md5 哈希库。
   - [object-hash](https://github.com/puleos/object-hash) - 对 JavaScript 对象进行 hash 处理。
-  - [crypto-browserify](https://github.com/crypto-browserify/crypto-browserify) - Node 中 `crypto` 模块在浏览器中的实现。（:warning: 不再更新）
-  - [SJCL](http://bitwiseshiftleft.github.io/sjcl/) - JavaScript 加密库。（:warning: 不再更新）
-  
-- 文本解析/模式匹配（Text parsing/Pattern matching） 
+  - [crypto-browserify](https://github.com/crypto-browserify/crypto-browserify) - Node 中 `crypto` 模块在浏览器中的实现。（ :warning: 不再更新）
+  - [SJCL](http://bitwiseshiftleft.github.io/sjcl/) - JavaScript 加密库。（ :warning: 不再更新）
+
+- 文本解析/模式匹配（Text parsing/Pattern matching）
   - [minimatch](https://github.com/isaacs/minimatch)
   - [globby](https://github.com/sindresorhus/globby) - 基于 `fast-glob`，模式匹配。
   - [braces](https://github.com/micromatch/braces) - 大括号模式匹配。
 
 - 二维码（QR Code）
   - [node-qrcode](https://github.com/soldair/node-qrcode) - 二维码生成。
-  - [Awesome-qr.js](https://www.bitcat.cc/webapp/awesome-qr/index.html) - 个性化二维码生成。（:warning: 不再更新）
-  
+  - [Awesome-qr.js](https://www.bitcat.cc/webapp/awesome-qr/index.html) - 个性化二维码生成。（ :warning: 不再更新）
+
 - 文件（File）
   - utils tools
     - [fs-extra](https://github.com/jprichardson/node-fs-extra) - 作为官方原生 [`fs`](https://nodejs.org/api/fs.html) 模块的补充和优化。
@@ -438,7 +438,7 @@ _see also 👉  [awesome-nodejs](https://github.com/zerolab-fe/awesome-nodejs)_
     - [CSV](https://csv.js.org/) - 功能全面的 csv 文件生成、解析、转换、序列化工具。
     - [Papa Parse](https://www.papaparse.com/)
   - xlsx
-    - [exceljs](https://github.com/exceljs/exceljs) - 读、写 xlsx、csv 文件。  
+    - [exceljs](https://github.com/exceljs/exceljs) - 读、写 xlsx、csv 文件。
     - [xlsx](https://sheetjs.com/) - 读、写 xlsx、csv 文件（写功能部分特性不免费）。
       - [xlsx-cli](https://github.com/SheetJS/sheetjs/tree/master/packages/xlsx-cli) - 处理 excel 文件的命令行工具，基于 [`xlsx`](https://www.npmjs.com/package/xlsx)。
   - docx
@@ -469,17 +469,17 @@ _see also 👉  [awesome-nodejs](https://github.com/zerolab-fe/awesome-nodejs)_
   - [Jade](http://jade-lang.com/)
 
 - HTTP 请求（HTTP Request - Ajax / Promise / fetch）
-  - `multipart/form-data` 
+  - `multipart/form-data`
     - [form-data](https://github.com/form-data/form-data) - 创建 `multipart/form-data` 数据，并提供正确的 Headers。
-    - [formidable ](https://github.com/node-formidable/formidable) - 解析请求中的 `multipart/form-data` 数据。
+    - [formidable](https://github.com/node-formidable/formidable) - 解析请求中的 `multipart/form-data` 数据。
     - [Busboy](https://github.com/mscdex/busboy) -  解析请求中的 `multipart/form-data` 数据，支持流。
   - [axios](https://github.com/axios/axios) - 基于 Promise 的 HTTP 客户端工具库。
     - [axios-mock-adapter](https://github.com/ctimmerm/axios-mock-adapter) - Mock API。
   - [Hyper Fetch](https://hyperfetch.bettertyped.com/) - 支持 WebScoket 协议。
-  
+
 - 远程过程调用（RPC）
   - [Lounge](https://thelounge.chat/) - 现代的 Web RPC 客户端。
-  
+
 - 套接字（Socket）
   - [Socket.IO](http://socket.io/) - 基于事件的实时通信框架，提供客户端（浏览器）和服务器实现。
   - [SockJS](https://github.com/sockjs/sockjs-node) - 提供客户端（浏览器）和服务器实现。
@@ -497,7 +497,7 @@ _see also 👉  [awesome-nodejs](https://github.com/zerolab-fe/awesome-nodejs)_
 
 - 队列与作业调度（Queue & Job scheduling）
   - [node-schedule](https://github.com/node-schedule/node-schedule) - 支持 `cron` 方式。
-  - corn 
+  - corn
     - [node-cron](https://nodecron.com/) - 简单的基于 `cron` 方式的作业调度器。
     - [cron](https://github.com/kelektiv/node-cron)
     - [croner](https://github.com/hexagon/croner)
@@ -507,7 +507,7 @@ _see also 👉  [awesome-nodejs](https://github.com/zerolab-fe/awesome-nodejs)_
   - [Bree](https://jobscheduler.net/)
 
 - 沙箱（Sandbox）
-  - [vm2](https://github.com/patriksimek/vm2) 
+  - [vm2](https://github.com/patriksimek/vm2)
   - [isolated-vm](https://github.com/laverdet/isolated-vm)
 
 - 邮件（SMTP）
@@ -556,10 +556,10 @@ _see also 👉  [awesome-nodejs](https://github.com/zerolab-fe/awesome-nodejs)_
 
 - 实用工具（Utils）
   - [chalk](https://github.com/chalk/chalk) - 终端输出字符串样式工具，支持全部的色彩。
-    - [chalk-animation](https://github.com/bokub/chalk-animation) 
+    - [chalk-animation](https://github.com/bokub/chalk-animation)
   - [configstore](https://github.com/yeoman/configstore) - 持久化命令行应用的配置。
-    - [conf](https://github.com/sindresorhus/conf) 
-  - [minimist](https://github.com/substack/minimist) - 命令行参数解析器。（_npm 官方解析器 [nopt](https://github.com/npm/nopt)_）
+    - [conf](https://github.com/sindresorhus/conf)
+  - [minimist](https://github.com/substack/minimist) - 命令行参数解析器。（*npm 官方解析器 [nopt](https://github.com/npm/nopt)*）
   - [commander](https://github.com/tj/commander.js) - 简单的命令行接口。
   - [yargs](https://yargs.js.org/) - 解析参数，构建交互式命令行程序。
   - [prompts](https://github.com/terkelg/prompts) - 轻量、漂亮的交互式命令行提示。
@@ -612,7 +612,7 @@ _see also 👉  [awesome-nodejs](https://github.com/zerolab-fe/awesome-nodejs)_
 
 - [mongodb](http://mongodb.github.io/node-mongodb-native/) - [MongoDB](https://www.mongodb.com/) 的 Node.js 驱动，**MongoDB 官方发布**。
   - [mongoose](https://mongoosejs.com/) - 对象文档映射（ODM），对 mongodb 的封装，提供模型 Schema，API 更简洁、易用。
-  
+
 - [mysql](https://github.com/mysqljs/mysql) - [MySQL](https://www.mysql.com/) 的 Node.js 驱动，**非官方发布**。
 
 - [sqlite3](https://github.com/mapbox/node-sqlite3) - [SQLite](https://sqlite.org/) 的 Node.js 驱动，异步、非阻塞，**非官方发布**。
@@ -650,7 +650,7 @@ _see also 👉  [awesome-nodejs](https://github.com/zerolab-fe/awesome-nodejs)_
   - [Multer](https://github.com/expressjs/multer) - Express 中间件，处理 `multipart/form-data` 表单数据，**官方发布**。
   - [morgan](https://github.com/expressjs/morgan) - Express 中间件，请求日志记录，**官方发布**。
   - [Passport.js](http://www.passportjs.org/) - 身份验证中间件，可在基于 Express 的 Node.js 框架中使用。
-  
+
 - [Koa](https://koajs.com/) - 轻量级、高性能的 Web 框架，Express 团队开发。
 
 - [Restify](http://restify.com/) - 可快速构建 RESTful API 的框架。
@@ -709,7 +709,7 @@ _see also 👉  [awesome-nodejs](https://github.com/zerolab-fe/awesome-nodejs)_
 
 ### 引擎/运行时
 
-_Engine / Runtime._
+*Engine / Runtime.*
 
 - 事件循环（Event Loop）
   - [The Node.js Event Loop](https://nodejs.dev/learn/the-nodejs-event-loop)

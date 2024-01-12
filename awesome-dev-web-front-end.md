@@ -7,7 +7,7 @@
 
 <br />
 
-（Recommend）推荐看看 W3C（World Wide Web Consortium，万维网联盟） 官方网站，:point_right: https://www.w3.org/
+（Recommend）推荐看看 W3C（World Wide Web Consortium，万维网联盟） 官方网站，:point_right: <https://www.w3.org/>
 
 ## 目录
 
@@ -44,7 +44,7 @@
 - [深入探索（Explore In Depth）](#深入探索)
 - [更多（More）](#更多)
   - [CDN](#cdn)
-  - [在线工具（Online Tools）](#在线工具) 
+  - [在线工具（Online Tools）](#在线工具)
   - [文章（Article）](#文章)
   - [其它（Others）](#其它)
 
@@ -118,7 +118,7 @@
 
 > [W3C CSS 官方规范标准（W3C CSS Official Specification Standard）](https://www.w3.org/Style/CSS/)
 
-- [_css-modules_](https://github.com/css-modules/css-modules) - _CSS 模块。（:warning: 没有被标准化）_
+- [*css-modules*](https://github.com/css-modules/css-modules) - *CSS 模块。（ :warning: 没有被标准化）*
 
 ### CSS 代码风格规范
 
@@ -166,7 +166,7 @@
 *CSS tool library, dealing with compatibility issues, etc.*
 
 - CSS 重置（CSS Reset）
-  - [Normalize.css](http://necolas.github.io/normalize.css/) - 现代化的 Reset CSS 工具库，统一浏览器默认样式。（:warning: 不再更新）
+  - [Normalize.css](http://necolas.github.io/normalize.css/) - 现代化的 Reset CSS 工具库，统一浏览器默认样式。（ :warning: 不再更新）
   - [@csstools/normalize.css](https://csstools.github.io/normalize.css/)
   - [modern-normalize](https://github.com/sindresorhus/modern-normalize)
   - [sanitize.css](https://csstools.github.io/sanitize.css/)
@@ -190,8 +190,8 @@
   - [Font Face Observer](https://github.com/bramstein/fontfaceobserver) - 使用 `@font-face` 加载第三方字体可用检测。
 
 - 交互效果
-  - [Hover.css](http://ianlunn.github.io/Hover/) - 添加鼠标悬停动画效果。（:warning: 不再更新）
-  - [Imagehover.css](http://imagehover.io/) - 添加鼠标悬停，图片动画效果。（:warning: 不再更新）
+  - [Hover.css](http://ianlunn.github.io/Hover/) - 添加鼠标悬停动画效果。（ :warning: 不再更新）
+  - [Imagehover.css](http://imagehover.io/) - 添加鼠标悬停，图片动画效果。（ :warning: 不再更新）
   - [CSShake](https://elrumordelaluz.github.io/csshake/) - 抖动效果。
 
 - 加载器（Loading / Spinners）
@@ -203,7 +203,7 @@
 
 > [ECMAScript 官方规范标准（ECMAScript Official Specification Standard）](https://www.ecma-international.org/publications/standards/Ecma-262.htm)
 
-*（Recommend）推荐一个其它的收藏库，:point_right: https://github.com/sorrycc/awesome-javascript*
+*（Recommend）推荐一个其它的收藏库，:point_right: <https://github.com/sorrycc/awesome-javascript>*
 
 - [TC39 ECMAScript proposals](https://github.com/tc39/proposals) - TC39 对 ECMAScript 标准制定提案的记录。
 - [OpenJS Foundation](https://openjsf.org/) - 开源 JS 基金会，由 Node 基金会和 JS 基金会合并而成。
@@ -251,32 +251,32 @@
 
 *JavaScript tool libraries (browser-side), such as file manipulation, Canvas drawing, HTTP requests, etc.*
 
-_see also 👉  [Node.JS-工具库](./awesome-dev-nodejs.md#工具库)_
+*see also 👉  [Node.JS-工具库](./awesome-dev-nodejs.md#工具库)*
 
 - 实用工具（Utils）
 
 - 文档对象模型（DOM）
   - [jQuery](https://jquery.com/) - 前几年非常流行的 DOM 操作工具库，处理了兼容性的细节问题。
-    - [_You might not need jQuery_](http://youmightnotneedjquery.com/) 
-    - [Zepto.js](https://zeptojs.com/) - 兼容 jQuery API 的轻量级工具库，适合移动端使用。（:warning: 不再更新）
+    - [*You might not need jQuery*](http://youmightnotneedjquery.com/)
+    - [Zepto.js](https://zeptojs.com/) - 兼容 jQuery API 的轻量级工具库，适合移动端使用。（ :warning: 不再更新）
     - [cash-dom](https://github.com/fabiospampinato/cash) - 轻量级 DOM 工具库，可作为 jQuery 的替代，但仅支持现代浏览器。
     - [Umbrella JS](https://umbrellajs.com/) - 可替代 jQuery 的轻量级工具库。
     - [Bliss.js](https://blissfuljs.com/index.html) - 基于原生 API 的轻量级工具库。
   - [Lozad.js](https://github.com/ApoorvSaxena/lozad.js) - 轻量、高性能图片懒加载工具，使用了 [Intersection Observer API](https://developer.mozilla.org/en-US/docs/Web/API/Intersection_Observer_API)。
   - [clipboard.js](https://clipboardjs.com/) - 现代的粘贴板工具库。
   - [Tether](http://tether.io/) - 元素跟踪定位工具。
-    - [popper.js](https://popper.js.org/) - 元素定位工具。  
+    - [popper.js](https://popper.js.org/) - 元素定位工具。
   - [Quicklink](https://getquick.link/) - 预请求视区内的资源，加快页面加载速度。
   - Dom operation
     - [fastdom](https://github.com/wilsonpage/fastdom) - 批处理 DOM 操作。
     - [morphdom](https://github.com/patrick-steele-idem/morphdom) - 以优化的方式更新 DOM。
   - Canvas
-    - [print.js](https://printjs.crabbly.com/) - 网页打印工具。  
+    - [print.js](https://printjs.crabbly.com/) - 网页打印工具。
     - [DOM to Image](https://github.com/tsayen/dom-to-image/) - 利用 HTML5 Canvas 生成 DOM 节点的快照图片。
       - [html2canvas](https://html2canvas.hertzen.com)
       - [rasterizeHTML.js](http://cburgmer.github.io/rasterizeHTML.js/)
       - [html-to-image](https://github.com/bubkoo/html-to-image)
-    - [signature_pad](https://szimek.github.io/signature_pad/) - 手写签名。 
+    - [signature_pad](https://szimek.github.io/signature_pad/) - 手写签名。
   - [linkifyjs](https://github.com/Hypercontext/linkifyjs) - 处理文本中的链接、邮箱地址等，将其转为相应的 HTML 标签。
 
 - 事件（Event）
@@ -284,8 +284,8 @@ _see also 👉  [Node.JS-工具库](./awesome-dev-nodejs.md#工具库)_
     - [history](https://github.com/remix-run/history) - 管理页面路由。
     - [screenfull.js](https://github.com/sindresorhus/screenfull) - 跨浏览器的 `Fullscreen API`。
   - Mobile Event / Gestures
-    - [Hammer.js](http://hammerjs.github.io/) - 支持移动端触摸事件，以及手势操作、多点触控。（:warning: 不再维护）
-    - [zingtouch](https://zingchart.github.io/zingtouch/) - （:warning: 不再维护）
+    - [Hammer.js](http://hammerjs.github.io/) - 支持移动端触摸事件，以及手势操作、多点触控。（ :warning: 不再维护）
+    - [zingtouch](https://zingchart.github.io/zingtouch/) - （ :warning: 不再维护）
     - [interact.js](https://interactjs.io/)
     - [@use-gesture/vanilla](https://use-gesture.netlify.app/) - 轻量级。
   - Keyboard Event
@@ -296,11 +296,11 @@ _see also 👉  [Node.JS-工具库](./awesome-dev-nodejs.md#工具库)_
 
 - Cookie
   - [js-cookie](https://github.com/js-cookie/js-cookie) - 轻量的 Cookie 处理工具库。
-  - [universal-cookie](https://github.com/reactivestack/cookies/tree/master/packages/universal-cookie)  
+  - [universal-cookie](https://github.com/reactivestack/cookies/tree/master/packages/universal-cookie)
 
 - 搜索（Search）
-  - [lunr.js](https://lunrjs.com/) - （:warning: 不再更新）
-  - [fuzzy](https://github.com/mattyork/fuzzy) - （:warning: 不再更新）
+  - [lunr.js](https://lunrjs.com/) - （ :warning: 不再更新）
+  - [fuzzy](https://github.com/mattyork/fuzzy) - （ :warning: 不再更新）
   - [Stork](https://stork-search.net/)
   - [Orama Search](https://oramasearch.com/)
   - [Fuse.js](https://fusejs.io/) - 模糊搜索工具。
@@ -333,7 +333,7 @@ _see also 👉  [Node.JS-工具库](./awesome-dev-nodejs.md#工具库)_
   - audio
     - [howler.js](https://howlerjs.com/) - 强大的音频处理工具库，支持所有的编解码器，跨浏览器支持。
   - svg
-    - [Trianglify](https://github.com/qrohlf/trianglify) - 通过算法生成三角网 SCG 背景图。(:point_right: https://trianglify.io/)
+    - [Trianglify](https://github.com/qrohlf/trianglify) - 通过算法生成三角网 SCG 背景图。( :point_right: <https://trianglify.io/>)
 
 - 套接字（Socket / TCP）
   - [socket.io-client](https://socket.io/) - 优秀的实时通信客户端框架。
@@ -367,7 +367,7 @@ _see also 👉  [Node.JS-工具库](./awesome-dev-nodejs.md#工具库)_
 
 ### 字体图标
 
-[_👉 设计工具 - 字体图标_](./awesome-software.md#字体图标)
+[*👉 设计工具 - 字体图标*](./awesome-software.md#字体图标)
 
 ### UI 设计系统
 
@@ -385,7 +385,7 @@ _see also 👉  [Node.JS-工具库](./awesome-dev-nodejs.md#工具库)_
 
 *UI Component*
 
-_[Open UI](https://open-ui.org/)_
+*[Open UI](https://open-ui.org/)*
 
 [Bit](https://bit.dev/)，共享组件发布平台。
 
@@ -401,7 +401,7 @@ _[Open UI](https://open-ui.org/)_
 
 ##### Material Design
 
-- [Material Design Lite](https://getmdl.io/) - 基于 Material Design 的轻量级 CSS UI 框架，**Google 官方发布**。（:warning: 不再更新）
+- [Material Design Lite](https://getmdl.io/) - 基于 Material Design 的轻量级 CSS UI 框架，**Google 官方发布**。（ :warning: 不再更新）
 - [Material Components Web](https://material.io/develop/) - 基于 Material Design 的 Web 组件库，**Google 官方实现**。
 - [Materialize](https://materializecss.com/) - 最流行的实现了 Google Material Design 的 CSS UI 框架。
 
@@ -419,8 +419,8 @@ _[Open UI](https://open-ui.org/)_
 - [Pure.CSS](https://purecss.io/) - 一组小的，响应式的 CSS 模块。
 - [Pico.css](https://picocss.com/) - 极小的针对语义化 HTML 的 CSS 框架。
 - [Layui](https://www.layui.com/) - 适合后端开发使用。
-- [Semantic UI](https://semantic-ui.com) - 很受欢迎的组件库。（:warning: 不再更新）
-- [Skeleton](http://getskeleton.com/) - 简单的响应式 CSS 框架。（:warning: 不再更新）
+- [Semantic UI](https://semantic-ui.com) - 很受欢迎的组件库。（ :warning: 不再更新）
+- [Skeleton](http://getskeleton.com/) - 简单的响应式 CSS 框架。（ :warning: 不再更新）
 - [egjs](https://naver.github.io/egjs/) - 提供多个可用的独立组件。
 - [Theme UI](https://theme-ui.com/) - 设计图框架。
 - [shadcn/ui](https://ui.shadcn.com/)
@@ -440,26 +440,26 @@ _[Open UI](https://open-ui.org/)_
 
 - 轮播（Carousel）
   - [Swiper](https://swiperjs.com/)
-  - [slick-carousel](https://kenwheeler.github.io/slick/) - 功能丰富的轮播组件。（:warning: 不再更新）
+  - [slick-carousel](https://kenwheeler.github.io/slick/) - 功能丰富的轮播组件。（ :warning: 不再更新）
   - [Glider.js](https://nickpiscitelli.github.io/Glider.js/) - 轻量级滑动组件。
   - [Flickity](https://flickity.metafizzy.co/)
-  - [lory.js](http://loryjs.github.io/lory/) - 轻量级滑动组件。（:warning: 不再更新）
+  - [lory.js](http://loryjs.github.io/lory/) - 轻量级滑动组件。（ :warning: 不再更新）
   - [keen-slider](https://keen-slider.io/) - 轻量级滑动组件。
-  - [Siema](https://pawelgrzybek.github.io/siema/) - 无任何依赖的轻量级轮播组件。（:warning: 不再维护）
+  - [Siema](https://pawelgrzybek.github.io/siema/) - 无任何依赖的轻量级轮播组件。（ :warning: 不再维护）
   - [Flicking](https://naver.github.io/egjs-flicking/)
   - [splide.js](https://splidejs.com/) - 轻量的轮播组件。
- 
+
 - Lightbox
   - [GLightbox](https://github.com/biati-digital/glightbox)
   - [spotlight](https://nextapps-de.github.io/spotlight/)
   - [lightGallery](https://www.lightgalleryjs.com/)
   - [Parvus](https://github.com/deoostfrees/Parvus)
- 
+
 - 模态框（Modal box）
-  - [SweetAlert](https://sweetalert.js.org/) - 浏览器 Alert 弹框的替代，更漂亮美观。（:warning: 不再更新）
+  - [SweetAlert](https://sweetalert.js.org/) - 浏览器 Alert 弹框的替代，更漂亮美观。（ :warning: 不再更新）
   - [SweetAlert2](https://sweetalert2.github.io/) - SweetAlert 的继承者。
-  - [Noty](https://ned.im/noty/) - 浏览器 Alert 弹框的替代，提供动画效果。（:warning: 不再更新）
-  
+  - [Noty](https://ned.im/noty/) - 浏览器 Alert 弹框的替代，提供动画效果。（ :warning: 不再更新）
+
 - 图片浏览（Image Browse）
   - [Viewer.js](https://fengyuanchen.github.io/viewerjs/) - 图片列表预览。
   - [Image Compare Viewer](https://image-compare-viewer.netlify.app/) - 图片对比预览。
@@ -488,7 +488,7 @@ _[Open UI](https://open-ui.org/)_
   - [shaka-player](https://github.com/google/shaka-player) - 视频播放器。
 
 - 文件上传（File Upload）
-  - [FilePond ](https://pqina.nl/filepond/) - 文件上传。
+  - [FilePond](https://pqina.nl/filepond/) - 文件上传。
   - [DropzoneJS](https://www.dropzonejs.com/) - 文件上传组件，支持拖放文件、图片预览功能。
 
 - 拖拽布局（Drag Layout）
@@ -499,26 +499,26 @@ _[Open UI](https://open-ui.org/)_
   - [plain-draggable](https://anseki.github.io/plain-draggable/)
   - [draggable](https://shopify.github.io/draggable/)
   - [DFlex](https://www.dflex.dev/)
-  
+
 - 列表（List）
   - [List.js](https://listjs.com/) - 为列表提供过滤、排序等功能。
-  - [Dragula](https://bevacqua.github.io/dragula/) - 支持拖放排序的列表组件。（:warning: 不再维护）
-  - [SortableJS](https://sortablejs.github.io/Sortable/) - 支持拖放排序的列表组件，支持 React.js、Vue.js 等。  
-  
+  - [Dragula](https://bevacqua.github.io/dragula/) - 支持拖放排序的列表组件。（ :warning: 不再维护）
+  - [SortableJS](https://sortablejs.github.io/Sortable/) - 支持拖放排序的列表组件，支持 React.js、Vue.js 等。
+
 - 过滤器（Filter）
   - [Isotope](https://isotope.metafizzy.co/) - 列表过滤动画。
   - [FilterizR](https://yiotis.net/filterizr/) - 过滤搜索动画。
-  
+
 - 用户引导（User guided tours）
   - [Driver.js](https://kamranahmed.info/driver.js/)
   - [Shepherd](https://shepherdjs.dev/)
   - [intro.js](https://introjs.com/) - **商业收费**。
-   
+
 - 编辑器（Editor）
   - [ProseMirror](https://prosemirror.net/) - 用来构建富文本编辑器的工具包。
   - [TOAST UI Editor](https://ui.toast.com/tui-editor/) - 所见即所得编辑器。
   - [slate](https://www.slatejs.org/)
-    - [Platejs](https://platejs.org/)  
+    - [Platejs](https://platejs.org/)
   - [Quill](https://quilljs.com/)
   - [Editor.js](https://editorjs.io/)
   - [CodeMirror](https://codemirror.net/) - 代码编辑器。
@@ -535,7 +535,7 @@ _[Open UI](https://open-ui.org/)_
   - [mjml](https://mjml.io/)
 
 - 控制器面板（Controller Panel）
-  - [Tweakpane](https://cocopon.github.io/tweakpane/) 
+  - [Tweakpane](https://cocopon.github.io/tweakpane/)
   - [lil-gui](https://lil-gui.georgealways.com/)
   - [dat.gui](https://github.com/dataarts/dat.gui)
 
@@ -573,7 +573,7 @@ _[Open UI](https://open-ui.org/)_
 
 - virtual DOM
   - [React.js](https://reactjs.org/) -  数据驱动的视图库，Facebook 公司发布。
-    - [_Awesome-React.js_](./awesome-dev-web-reactjs.md)
+    - [*Awesome-React.js*](./awesome-dev-web-reactjs.md)
     - [htm](https://github.com/developit/htm) - 直接在浏览器中编写 React 组件。
   - [Vue.js](https://vuejs.org/)
   - [Hyperapp](https://hyperapp.dev/) - 轻量的，纯函数式，声明式开发框架。
@@ -585,9 +585,9 @@ _[Open UI](https://open-ui.org/)_
   - [Backbone.js](https://backbonejs.org/) - 为 Web 应用开发引入 MVC 模型概念。
 
 - MVVM
-  - [Knockout.js](https://knockoutjs.com/) - （:warning: 不再更新）
+  - [Knockout.js](https://knockoutjs.com/) - （ :warning: 不再更新）
 
-- [Angular.js](https://angularjs.org/) - 一个比较重型的功能齐全的前端开发框架，Google 公司发布。（:warning: 不再更新）
+- [Angular.js](https://angularjs.org/) - 一个比较重型的功能齐全的前端开发框架，Google 公司发布。（ :warning: 不再更新）
   - [Angular](https://angular.io/) - Angular.js 的继承者，支持全平台开发。
 
 - [Ember.js](https://emberjs.com/) - 基于 Glimmer 引擎的 Web 全栈框架。
@@ -616,7 +616,7 @@ _[Open UI](https://open-ui.org/)_
 
 *Application state management tool for modern web application development.*
 
-（Recommend）Redux 生态技术，:point_right: https://github.com/markerikson/redux-ecosystem-links
+（Recommend）Redux 生态技术，:point_right: <https://github.com/markerikson/redux-ecosystem-links>
 
 - [Redux](https://redux.js.org/)
   - [Redux Thunk](https://github.com/reduxjs/redux-thunk) - 中间件，提供异步支持，**官方发布**。
@@ -628,7 +628,7 @@ _[Open UI](https://open-ui.org/)_
   - [Redux Toolkit](https://redux-toolkit.js.org/) - 集成大部分第三方库、预配置的工具套件，使 Redux 更易于使用，**官方发布**。
   - [Rematch](https://rematch.github.io/rematch/) - 对 Redux 进行了封装，提供更简单、更易理解、更容易使用的 API。
 - [MobX](https://mobx.js.org/)
-- [Flux](https://facebook.github.io/flux/) - 应用状态管理，**Facebook 公司发布**。（:warning: 不再积极更新）
+- [Flux](https://facebook.github.io/flux/) - 应用状态管理，**Facebook 公司发布**。（ :warning: 不再积极更新）
 - [xstate](https://github.com/statelyai/xstate) - 基于状态机模型。
 
 - Tools
@@ -639,9 +639,9 @@ _[Open UI](https://open-ui.org/)_
 
 ## PWA
 
-_[Progressive web apps](https://developer.mozilla.org/en-US/docs/Web/Progressive_web_apps)._
+*[Progressive web apps](https://developer.mozilla.org/en-US/docs/Web/Progressive_web_apps).*
 
-- [_PWA Inside_](https://pwainside.com/) - _PWA 应用资源和商店。_
+- [*PWA Inside*](https://pwainside.com/) - *PWA 应用资源和商店。*
 - [Progressive Web Apps](https://web.dev/progressive-web-apps/) - PWA 应用相关文章。
 - [Add a web app manifest](https://web.dev/add-manifest/) - PWA 应用 `manifest.webmanifest` 文件中建议的字段。
 - [What PWA Can Do Today](https://whatpwacando.today/) - 在线测试 PWA 应用可以调用的 Web API。
@@ -692,7 +692,7 @@ _[Progressive web apps](https://developer.mozilla.org/en-US/docs/Web/Progressive
 
 ### 应用架构
 
-_Application architecture patterns._
+*Application architecture patterns.*
 
 - [Jamstack](https://jamstack.org/) - 一种构建现代 Web 应用或网页的架构模式。
 - [Theoretical foundations for server-side rendering and static-rendering](https://htmlpreview.github.io/?https://github.com/lbke/ssr-theory/blob/main/readme.html)
@@ -748,7 +748,7 @@ _Application architecture patterns._
   - [Yellow Lab  Tools](https://yellowlab.tools/) - 站点分析优化工具。
   - [Varvy SEO tool](https://varvy.com/) - 一个在线网站 SEO、性能检测工具，提供优化建议和技巧。
   - [What Web Can Do](https://whatwebcando.today/) - 可以检测当前设备所支持的 Web API，主要检测硬件设备传感器等，**非官方网站**。
-  
+
 - 其它（Others）
   - [bit](https://bit.dev/) - 构建可重用组件的协作平台。
   - [Prettier Playground](https://prettier.io/playground/) - Prettier 代码格式化工具的在线版本。

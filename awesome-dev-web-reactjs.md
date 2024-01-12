@@ -7,9 +7,9 @@
 
 <br />
 
-> React.js 是 Facebook 出品的开源 Web 前端 UI 框架，其结合了组件化思想、数据驱动视图、Virtual DOM 技术等，提供了快速、轻量、高性能的 Web App 开发体验，官网为 https://reactjs.org/
+> React.js 是 Facebook 出品的开源 Web 前端 UI 框架，其结合了组件化思想、数据驱动视图、Virtual DOM 技术等，提供了快速、轻量、高性能的 Web App 开发体验，官网为 <https://reactjs.org/>
 
-（Recommend）推荐一个其它的很棒的收藏列表，:point_right: https://github.com/enaqx/awesome-react
+（Recommend）推荐一个其它的很棒的收藏列表，:point_right: <https://github.com/enaqx/awesome-react>
 
 ## 目录
 
@@ -34,7 +34,7 @@
 *Official and unofficial technical reference documents.*
 
 - [React Developer Roadmap](https://roadmap.sh/react) - React 开发者路线图参考。
-- [React Developer Roadmap](https://github.com/adam-golab/react-developer-roadmap) - React 开发者路线图参考。（:warning: 自 2019 年不再更新）
+- [React Developer Roadmap](https://github.com/adam-golab/react-developer-roadmap) - React 开发者路线图参考。（ :warning: 自 2019 年不再更新）
 - [The React Handbook](https://reacthandbook.dev/)
 
 [`Go Top ↑`](#awesome-reactjs-list)
@@ -60,7 +60,7 @@
 - 代码质量分析（Lint）
 
 - 测试（Test）
-  
+
 - 组件原型开发（UI Components Dev）
   - [React Cosmos](https://reactcosmos.org/)
 
@@ -77,7 +77,7 @@
 
 *Useful [React Hook](https://reactjs.org/docs/hooks-intro.html) tools.*
 
-_（Recommend）推荐一个其它的很棒的收藏列表，:point_right: [rehooks/awesome-react-hooks](https://github.com/rehooks/awesome-react-hooks)_
+*（Recommend）推荐一个其它的很棒的收藏列表，:point_right: [rehooks/awesome-react-hooks](https://github.com/rehooks/awesome-react-hooks)*
 
 - 资源请求（Resource Request）
   - [React Query](https://github.com/tannerlinsley/react-query) - 服务器端数据获取、缓存、异步更新。
@@ -87,7 +87,7 @@ _（Recommend）推荐一个其它的很棒的收藏列表，:point_right: [reho
 
 - 表单（Form）
   - [React Hook Form](https://react-hook-form.com/) - 表单处理。
-  - [Unform](https://unform.dev/) - 注重性能的表单处理工具。  
+  - [Unform](https://unform.dev/) - 注重性能的表单处理工具。
 
 - 事件（Events）
   - [React Swipeable](https://formidable.com/open-source/react-swipeable/) - 滑动事件处理。
@@ -109,7 +109,7 @@ _（Recommend）推荐一个其它的很棒的收藏列表，:point_right: [reho
 
 *React application global state management and optimization.*
 
-_（Recommend）其它收藏列表 :point_right: [olegrjumin/awesome-react-state-management](https://github.com/olegrjumin/awesome-react-state-management)_
+*（Recommend）其它收藏列表 :point_right: [olegrjumin/awesome-react-state-management](https://github.com/olegrjumin/awesome-react-state-management)*
 
 - [React-Redux](https://react-redux.js.org/) - 为 React 应用提供 Redux 支持，**Redux 官方实现**。
   - [Redux 工具链](./awesome-dev-web-front-end.md#应用状态管理)
@@ -139,7 +139,7 @@ _（Recommend）其它收藏列表 :point_right: [olegrjumin/awesome-react-state
 
 ## UI 设计系统
 
-_UI Design System, provides a base system for building a design system._
+*UI Design System, provides a base system for building a design system.*
 
 - [Rebass](https://rebassjs.org/)
 - [radix](https://www.radix-ui.com/)
@@ -152,7 +152,7 @@ _UI Design System, provides a base system for building a design system._
 
 *Feature-rich component library built on React.js.*
 
-*（Recommend）推荐一个其它的收藏列表，:point_right: https://github.com/brillout/awesome-react-components*
+*（Recommend）推荐一个其它的收藏列表，:point_right: <https://github.com/brillout/awesome-react-components>*
 
 ### 组件库
 
@@ -162,13 +162,13 @@ _UI Design System, provides a base system for building a design system._
 
 *Component library that implements [Google Material Design](https://www.material.io/).*
 
-- [MDC React](https://github.com/material-components/material-components-web-react) - 实现了 Google Material Design，**Google 官方实现**。（:warning: 不再维护）
+- [MDC React](https://github.com/material-components/material-components-web-react) - 实现了 Google Material Design，**Google 官方实现**。（ :warning: 不再维护）
 - [MUI](https://mui.com/) - 实现了 Google Material Design，组件非常丰富。
-- [Framework7-React](https://framework7.io/react/) - 跨平台 UI 组件库，支持 Android/ios/Desktop，且自适应相应平台设计风格。  
-- [React Toolbox](http://react-toolbox.io/) - 实现了 Google Material Design。（:warning: 不再更新）
-  
+- [Framework7-React](https://framework7.io/react/) - 跨平台 UI 组件库，支持 Android/ios/Desktop，且自适应相应平台设计风格。
+- [React Toolbox](http://react-toolbox.io/) - 实现了 Google Material Design。（ :warning: 不再更新）
+
 #### Bootstrap
-  
+
 *Based on [Bootstrap](https://getbootstrap.com/)*.
 
 - [reactstrap](https://reactstrap.github.io/) - 基于 Bootstrap 4，**非 Bootstrap 官方实现**。
@@ -205,7 +205,7 @@ _UI Design System, provides a base system for building a design system._
 - 表单（Form）
   - [Formik](https://jaredpalmer.com/formik/) - 表单自动验证，异步提交，提供 Hook API。
   - [React Select](https://react-select.com/) - 支持多选、自动完成、异步搜索选项等。
-  - [React Autosuggest](http://react-autosuggest.js.org/) - 输入建议，自动完成功能。（:warning: 自 2019 年不再更新）
+  - [React Autosuggest](http://react-autosuggest.js.org/) - 输入建议，自动完成功能。（ :warning: 自 2019 年不再更新）
   - [react-number-format](https://github.com/s-yadav/react-number-format) - 数字输入格式化。
   - [Downshift](https://www.downshift-js.com/) - 用来构建可访问的自动完成组件的底层组件。
   - [react-final-form](https://final-form.org/react)
@@ -217,7 +217,7 @@ _UI Design System, provides a base system for building a design system._
   - [RevoGrid](https://revolist.github.io/revogrid/)
   - [React Table Library](https://react-table-library.com/)
   - [Fixed Data Table 2](https://schrodinger.github.io/fixed-data-table-2/)
-  
+
 - 时间日期选择器（DatePicker & TimePicker）
   - [react-dates](https://github.com/airbnb/react-dates) - 国际化、移动端友好，**Airbnb 公司发布**。
   - [react-day-picker](http://react-day-picker.js.org/)
@@ -234,7 +234,7 @@ _UI Design System, provides a base system for building a design system._
   - [React Carousel Image Gallery](https://github.com/xiaolin/react-image-gallery) - 图片轮播组件。
   - [React Images](https://jossmac.github.io/react-images) - 图片点击原图查看、列表。
   - [React Image Lightbox](https://frontend-collective.github.io/react-image-lightbox/) - 图片点击原图查看、列表、缩放。
-  - [React lightbox component](https://github.com/jfcaiceo/react-lightbox-component) - 图片点击原图查看、列表、缩放、旋转。（:warning: 不再更新）
+  - [React lightbox component](https://github.com/jfcaiceo/react-lightbox-component) - 图片点击原图查看、列表、缩放、旋转。（ :warning: 不再更新）
   - [react-zmage](https://zmage.caldis.me/) - 图片点击原图查看、列表、旋转。
   - [react-easy-crop/](https://valentinh.github.io/react-easy-crop/) - 图片裁剪。
 
@@ -245,7 +245,7 @@ _UI Design System, provides a base system for building a design system._
 - 拖拽（Draggable）
   - [react-beautiful-dnd](https://react-beautiful-dnd.netlify.app/)
   - [react-grid-layout](https://github.com/react-grid-layout/react-grid-layout) - 拖放布局，调整大小。
-    - [React-Draggable](https://github.com/STRML/react-draggable) - 让组件位置可以被拖动调整布局。 
+    - [React-Draggable](https://github.com/STRML/react-draggable) - 让组件位置可以被拖动调整布局。
   - [React DnD](https://react-dnd.github.io/react-dnd/)
   - [dnd kit](https://dndkit.com/) - 轻量、高性能的拖放组件。
   - [react-rnd](https://github.com/bokuweb/react-rnd)- 拖放，调整大小。
@@ -270,7 +270,7 @@ _UI Design System, provides a base system for building a design system._
   - [scrollex](https://scrollex-docs.vercel.app/) - 滚动动画效果。
   - [hamburger-react](https://hamburger-react.netlify.app/) - 动画汉堡菜单图标。
   - [AutoAnimate](https://auto-animate.formkit.com/) - 为元素添加过渡动画。
-  
+
 - 二维码（QR Code）
   - [qrcode.react](https://github.com/zpao/qrcode.react)
   - [react-qr-code](https://github.com/rosskhanas/react-qr-code)
@@ -299,7 +299,7 @@ _UI Design System, provides a base system for building a design system._
   - [@uiball/loaders](https://uiball.com/loaders/) - loading 加载器。
 
 - 其它（Others）
-  - [react-tooltip](https://react-tooltip.com/)  
+  - [react-tooltip](https://react-tooltip.com/)
   - [React PDF](https://projects.wojtekmaj.pl/react-pdf/) - pdf 文件预览组件。
   - [react-big-calendar](http://jquense.github.io/react-big-calendar/) - 事件日历，日程表组件。
   - [React Diagrams](https://projectstorm.gitbook.io/react-diagrams/) - 流程图组件。
@@ -329,14 +329,14 @@ _UI Design System, provides a base system for building a design system._
 
 - 懒加载、代码分割（Lazy Load && Code Split）
   - [loadable-components](https://www.smooth-code.com/open-source/loadable-components/) - 实现组件懒加载功能，支持服务器端渲染（SSR）。
-  - [React-Loadable](https://github.com/jamiebuilds/react-loadable) - 基于 React 高阶组件，实现组件懒加载功能。（:warning: 不再更新）
+  - [React-Loadable](https://github.com/jamiebuilds/react-loadable) - 基于 React 高阶组件，实现组件懒加载功能。（ :warning: 不再更新）
 
 - CSS In JS
-  - [React-JSS](https://cssinjs.org/react-jss) - JSS 是 CSS-in-JS 的一种解决方案，这个是与 React 的集成方案。  
+  - [React-JSS](https://cssinjs.org/react-jss) - JSS 是 CSS-in-JS 的一种解决方案，这个是与 React 的集成方案。
 
 - 服务器端渲染（SSR，server side rendering）
   - [Next.js](https://nextjs.org) - React.js 服务器端渲染框架。
-  
+
 - 国际化（i18n）
   - [react-i18next](https://react.i18next.com/)
   - [react-intl](https://formatjs.io/docs/react-intl)

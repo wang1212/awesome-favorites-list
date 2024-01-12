@@ -68,7 +68,7 @@
   - [发现报告](https://www.fxbaogao.com/)
 
 - 数据快讯
-  - [财联社-电报快讯](https://www.cls.cn/telegraph) 
+  - [财联社-电报快讯](https://www.cls.cn/telegraph)
   - [东方财富-全球财经快讯](https://kuaixun.eastmoney.com/)
   - [金十数据-市场快讯](https://www.jin10.com/)
     - [金十数据中心](https://datacenter.jin10.com/)
@@ -148,7 +148,7 @@
 *Literature related forum sites.*
 
 - [~~句子迷~~](https://www.juzimi.com/)
-- [古诗文网](https://www.gushiwen.org/)	
+- [古诗文网](https://www.gushiwen.org/)
 
 ### 金融经济
 
@@ -175,14 +175,14 @@
 
 #### 数据结构与算法
 
-_Data Structures and Algorithms._
+*Data Structures and Algorithms.*
 
 - 《数据结构与算法分析：C语言描述》[美] Mark Allen Weiss
 - 《算法图解》[美] Aditya Bhargava
-  
+
 #### 软件架构设计
 
-_Software Architecture._ [:point_right: _Software Architecture Book_](https://github.com/mhadidg/software-architecture-books)
+*Software Architecture.* [:point_right: *Software Architecture Book*](https://github.com/mhadidg/software-architecture-books)
 
 - 《架构之美：行业思想领袖揭秘软件设计之美》[美] Diomidis Spinellis, Georgios Gousios
 - [《Kubernetes Handbook——Kubernetes 中文指南/云原生应用架构实践手册》](https://jimmysong.io/kubernetes-handbook/) - 云原生实践，**开源书籍**。
@@ -190,26 +190,26 @@ _Software Architecture._ [:point_right: _Software Architecture Book_](https://gi
 
 #### 网络与协议
 
-_Network and Protocol._
+*Network and Protocol.*
 
 - 《网络是怎样连接的》[日] 户根勤
 - 《图解 HTTP》[日] 上野 · 宣
-- 《图解 TCP/IP》[日] 竹下隆史 村山公保 荒井透 苅田幸雄  
+- 《图解 TCP/IP》[日] 竹下隆史 村山公保 荒井透 苅田幸雄
 - [《High Performance Browser Networking》](https://hpbn.co/) Ilya Grigorik - 高性能网络，**免费书籍**。
 
 #### 编程语言
 
-_Programming language._
+*Programming language.*
 
 - C
   - 《C 程序设计语言》[美] Dennis M. Ritchie, Brian W. Kernighan
 
 - JavaScript
-  - [_The best free JavaScript resources_](https://jsbooks.revolunet.com/) 
-  - [《你不知道的 JavaScript》](https://github.com/getify/You-Dont-Know-JS)[美] Kyle Simpson - 系列书籍，讲解 JavaScript 核心概念，**开源书籍**。
-  - [《Eloquent JavaScript》](https://eloquentjavascript.net/)[美] Marijn Haverbeke - JavaScript、Node.js 技术，**开源书籍**。
+  - [*The best free JavaScript resources*](https://jsbooks.revolunet.com/)
+  - [《你不知道的 JavaScript》][https://github.com/getify/You-Dont-Know-JS](美) Kyle Simpson - 系列书籍，讲解 JavaScript 核心概念，**开源书籍**。
+  - [《Eloquent JavaScript》][https://eloquentjavascript.net/](美) Marijn Haverbeke - JavaScript、Node.js 技术，**开源书籍**。
   - [《JavaScript for Data Science》](https://js4ds.org/) Maya Gans, Toby Hodges, Greg Wilson - **开源书籍**。
-  - [《JavaScript for impatient programmers》](https://exploringjs.com/impatient-js/index.html)[德] Axel Rauschmayer - 学习现代 JavaScript，**可在线免费阅读**。
+  - [《JavaScript for impatient programmers》][https://exploringjs.com/impatient-js/index.html](德) Axel Rauschmayer - 学习现代 JavaScript，**可在线免费阅读**。
   - [《Deep JavaScript: Theory and techniques》](https://exploringjs.com/deep-js/) [德] Axel Rauschmayer
   - [《JavaScript (ES2015+) Enlightenment》](https://frontendmasters.com/books/javascript-enlightenment/) Cody Linley - JavaScript 语言更新介绍，**开源书籍**。
   - [《Learning JavaScript Design Patterns》](https://addyosmani.com/resources/essentialjsdesignpatterns/book/) Addy Osmani - JavaScript 设计模式，**开源书籍**。
@@ -219,23 +219,23 @@ _Programming language._
   - [《JavaScript Allongé》](https://leanpub.com/javascriptallongesix) - 函数编程，**可在线免费阅读**。
 
 - Python
-  - [_The best free Python resources_](https://pythonbooks.revolunet.com/) 
-  - [《Python 101》](http://python101.pythonlibrary.org)[美] Mike Driscoll - 讲述 Python 3 初级编程的书籍。	
+  - [*The best free Python resources*](https://pythonbooks.revolunet.com/)
+  - [《Python 101》][http://python101.pythonlibrary.org](美) Mike Driscoll - 讲述 Python 3 初级编程的书籍。
   - 《Python 201》[美] Mike Driscoll - 讲述 Python 3 中级编程的书籍。
 
 - Ruby
   - 《Ruby 元编程》[意] Paolo Perrotta
-  - 《Ruby 基础教程》[日] 高桥征义 后藤裕藏  
-  - [《The Book Of Ruby》](http://www.sapphiresteel.com/ruby-programming/The-Book-Of-Ruby.html)[英] Huw Collingbourne - 关于 Ruby 编程的开源书籍，涉及知识概念很全面，**开源书籍**。:point_right: [简体中文翻译](https://wang1212.github.io/the-book-of-ruby/#/0-homepage.html)	
+  - 《Ruby 基础教程》[日] 高桥征义 后藤裕藏
+  - [《The Book Of Ruby》][http://www.sapphiresteel.com/ruby-programming/The-Book-Of-Ruby.html](英) Huw Collingbourne - 关于 Ruby 编程的开源书籍，涉及知识概念很全面，**开源书籍**。:point_right: [简体中文翻译](https://wang1212.github.io/the-book-of-ruby/#/0-homepage.html)
   - [《Ruby For Beginners》](https://ruby-for-beginners.rubymonstas.org/) - Ruby 初学者向导，**开源书籍**。
 
 - Bash
   - [《Advanced Bash-Scripting Guide》](http://tldp.org/LDP/abs/html/) - 高级 Bash 脚本编程指南，**开源书籍**。
   - [《Introduction to Bash Scripting》](https://github.com/bobbyiliev/introduction-to-bash-scripting) - Bash 脚本介绍，**开源书籍**。
-  
+
 #### Web 开发
 
-_Web development._
+*Web development.*
 
 - 《了不起的 Node.js：将 JavaScript 进行到底》[美] Guillermo Rauch
 - 《前端架构设计》[美] Micah Godbolt - 很好的 Web 前端工程化实践参考。
@@ -247,7 +247,7 @@ _Web development._
 
 #### 客户端开发
 
-_Client development._
+*Client development.*
 
 - 《React Native 开发指南》[美] 艾森曼
 
@@ -256,7 +256,7 @@ _Client development._
 
 #### 计算机图形学
 
-_Computer Graphics._
+*Computer Graphics.*
 
 - [《Learn OpenGL》](https://learnopengl.com/) - 学习 OpenGL，**可在线免费阅读**。
 - [《OpenGL Book》](https://openglbook.com/) - 学习 OpenGL，**可在线免费阅读**。
@@ -275,13 +275,13 @@ _Computer Graphics._
 
 #### 数据库
 
-_Database._
+*Database.*
 
 - 《SQL 基础教程》[日] MICK
 
 #### 其它
 
-_Others._
+*Others.*
 
 - 《计算机科学精粹》[巴西] Wladston Ferreira Filho - 讲述了常见的计算机概念，非常值得一读，拓宽自己的视野。
 - 《C++ API 设计》[美] Martin Redd
@@ -346,7 +346,7 @@ _Others._
 
 ### 设计
 
-_Design._
+*Design.*
 
 - [Design Principles](https://principles.design/) - 设计原则及案例，**开源**。
 
@@ -356,10 +356,10 @@ _Design._
 
 *More other unclassified resources.*
 
-- [xkcd](https://xkcd.com/) - 极客漫画。（:point_right: [中文站](https://xkcd.in/)）
+- [xkcd](https://xkcd.com/) - 极客漫画。（ :point_right: [中文站](https://xkcd.in/)）
 - [掘金翻译计划](https://github.com/xitu/gold-miner) - 掘金翻译计划，可能是世界最大最好的英译中技术社区，最懂读者和译者的翻译平台。
 - [Library of Congress](https://www.loc.gov/) - 美国国会图书馆。
 - [Tools for better thinking](https://untools.co/) - 思维决策工具。
 - [Technical Writing Courses](https://developers.google.com/tech-writing) - 技术写作课程，**Google 出品**。
-  
+
 [`Go Top ↑`](#awesome-reading-list)

@@ -63,7 +63,7 @@
 
 *[Chrome](https://www.google.com/chrome/) browser extension.*
 
-> 访问 Chrome 扩展商店：:point_right: https://chrome.google.com/webstore/category/extensions
+> 访问 Chrome 扩展商店：:point_right: <https://chrome.google.com/webstore/category/extensions>
 
 *（Recommend）国内可访问的**非官方**扩展商店，:point_right: [Extfans](https://www.extfans.com/) 或 [极简插件](https://chrome.zzzmh.cn/) 或 [crx4chrome](https://www.crx4chrome.com/)*
 
@@ -94,7 +94,7 @@
   - [Tampermonkey](https://www.tampermonkey.net/) - 免费，基本支持所有浏览器。
   - [Violentmonkey](https://violentmonkey.github.io/) - 开源的，基本支持所有浏览器。
   - [Greasemonkey](https://addons.mozilla.org/en-US/firefox/addon/greasemonkey/) - 仅支持 FireFox。
-  
+
 - 脚本资源（userscript resources）
   - [Greasy Fork](https://greasyfork.org/)
   - [OpenUserJS](https://openuserjs.org/)
@@ -115,9 +115,9 @@
 *Daily tools.*
 
 - 工具集（Toolset）
-  - https://onlinegiftools.com/
-  - https://www.img2go.com/
-  - https://www.online-convert.com/
+  - <https://onlinegiftools.com/>
+  - <https://www.img2go.com/>
+  - <https://www.online-convert.com/>
 
 - 搜索（Search）
   - [DuckDuckgo](https://duckduckgo.com/) - 安全、隐私友好的搜索引擎，**提供 Chrome 扩展程序。**
@@ -131,7 +131,7 @@
 
 ### 任务看板
 
-_Task board._
+*Task board.*
 
 - [Kanboard](https://kanboard.org/) - PHP 后端，**开源软件**。
 - [WeKan](https://wekan.github.io/) - Node.js 后端，**开源软件**。
@@ -223,7 +223,7 @@ _Task board._
 
 #### 设计编辑器
 
-_Editor._
+*Editor.*
 
 - [FlexClip](https://www.flexclip.com/) - 动态视频短片编辑器。
 - [picsart](https://picsart.com/) - 海报设计。
@@ -245,7 +245,7 @@ _Editor._
 
 #### ASCII Art
 
-_[ASCII Art](https://en.wikipedia.org/wiki/ASCII_art)._
+*[ASCII Art](https://en.wikipedia.org/wiki/ASCII_art).*
 
 - [ASCII Flow](https://asciiflow.com/) - 流程图绘制。
 - [Textik](https://textik.com/) - 绘图。
@@ -263,7 +263,7 @@ _[ASCII Art](https://en.wikipedia.org/wiki/ASCII_art)._
 
 *Coloring scheme.*
 
-- [Colormind ](http://colormind.io/) - 利用深度学习生成配色方案。
+- [Colormind](http://colormind.io/) - 利用深度学习生成配色方案。
 - [ColorMagic](https://colormagic.app/) - AI 调色板，通过关键字生成调色板。
 - [Open Color](https://yeun.github.io/open-color/)
 - [Color Hunt](https://colorhunt.co/)
@@ -336,7 +336,7 @@ _[ASCII Art](https://en.wikipedia.org/wiki/ASCII_art)._
 
 ### 学习
 
-_Learning._
+*Learning.*
 
 - [GeoGebra](https://www.geogebra.org/) - 在线的数学教学软件，协作白板，**可免费使用**。
 - [Desmos](https://www.desmos.com/) - 在线的数学图形计算器，**可免费使用**。
@@ -374,7 +374,7 @@ _Learning._
 
 #### 粘贴板
 
-_Clipboard._
+*Clipboard.*
 
 - [CopyQ](https://hluk.github.io/CopyQ/) - 粘贴板管理工具，**开源软件**。
 - [Ditto](https://ditto-cp.sourceforge.io/) - 粘贴板管理工具，**开源软件**。
@@ -382,19 +382,19 @@ _Clipboard._
 
 #### 录屏与截屏
 
-_Screen recording and screenshots._
+*Screen recording and screenshots.*
 
-- [Captura](https://mathewsachin.github.io/Captura/) - 轻量级、功能齐全的录屏、截屏软件，需安装 FFmpeg 依赖，**开源软件**。（:warning: 停止维护）
+- [Captura](https://mathewsachin.github.io/Captura/) - 轻量级、功能齐全的录屏、截屏软件，需安装 FFmpeg 依赖，**开源软件**。（ :warning: 停止维护）
 - [ScreenToGif](https://www.screentogif.com/) - 带有集成编辑器的屏幕、网络摄像头和素描板录制器，**免费软件**。
 - [LICEcap](https://www.cockos.com/licecap/) - 录屏并保存为 gif，**开源软件**。
 - [Snipaste](https://www.snipaste.com/) - 截图小工具，支持屏幕取色，**免费软件**。
 - [PicPick](https://picpick.app/zh/) - 全功能设计工具，支持截屏、录屏、白板、坐标测量、屏幕取色，**提供个人免费版本**。
-- [carnac](http://carnackeys.com/) - 在屏幕上显示按键信息，**免费开源软件**。（:warning: 停止维护）
+- [carnac](http://carnackeys.com/) - 在屏幕上显示按键信息，**免费开源软件**。（ :warning: 停止维护）
 - [Keyviz](https://mularahul.github.io/keyviz/) - **免费开源软件**。
 
 #### 文件共享
 
-_File sharing._
+*File sharing.*
 
 - [qrcp](https://github.com/claudiodangelis/qrcp) - 命令行工具，**开源软件**。
 - [sharing](https://github.com/parvardegr/sharing) - 命令行工具，支持局域网设备间文件扫码共享和上传，粘贴板共享，**开源软件**。
@@ -402,7 +402,7 @@ _File sharing._
 
 #### 密码管理器
 
-_Password manager._
+*Password manager.*
 
 - [KeePass](https://keepass.info/) - **开源软件**。
 - [Swifty](https://github.com/swiftyapp/swifty) - **开源软件**。
@@ -465,7 +465,7 @@ _Password manager._
 - [ImageGlass](https://imageglass.org/) - 非常轻量的图片浏览器，支持中文，**开源软件**。
 - [qimgv](https://github.com/easymodo/qimgv) - 图片浏览器，支持视频预览，**开源软件**。
 - [qView](https://interversehq.com/qview/) - 图片浏览器，轻量、简单，**开源软件**。
-- [Picasa](https://picasa.google.com/) - 图片浏览器，Google 公司开发。（:warning: 停止支持）
+- [Picasa](https://picasa.google.com/) - 图片浏览器，Google 公司开发。（ :warning: 停止支持）
 - [Honeyview](https://www.bandisoft.com/honeyview/) - 图片浏览器，**免费软件**。
 
 #### PDF
@@ -479,7 +479,7 @@ _Password manager._
 
 - [PotPlayer](https://daumpotplayer.com/) - 视频播放器，解码能力很强大，**免费软件**。
 - [VLC media player](http://www.videolan.org/vlc/) - 跨平台多媒体播放器及框架，可播放大多数多媒体文件，**开源软件**。
-- [MPC-HC](https://mpc-hc.org/) - Windows 平台轻量的媒体播放器，**开源软件**。（:warning: 不再更新）
+- [MPC-HC](https://mpc-hc.org/) - Windows 平台轻量的媒体播放器，**开源软件**。（ :warning: 不再更新）
 - [Open Broadcaster Software](https://obsproject.com/) - 具有强大的录屏、截屏、流媒体传输等功能，**开源软件**。
 - [AIMP](http://www.aimp.ru/) - 专业级音频播放器，**免费软件**。
 - [foobar2000](https://www.foobar2000.org/) - 高级音频播放器，**免费软件**。
@@ -514,13 +514,13 @@ _Password manager._
 
 #### 电子邮件
 
-_Email client._
+*Email client.*
 
 - [Thunderbird](https://www.thunderbird.net/) - 电子邮件客户端应用，支持插件，**开源软件**。
 
 #### 待办列表
 
-_To-DO List._
+*To-DO List.*
 
 - [Task Coach](https://www.taskcoach.org/index.html) - **开源软件**。
 - [sleek](https://github.com/ransome1/sleek) - UI 美观现代化，**开源软件**。
@@ -528,7 +528,7 @@ _To-DO List._
 
 #### 笔记应用
 
-_Note application._
+*Note application.*
 
 - Knowledge base management
   - [Logseq](https://logseq.com/) - 知识管理和协作平台，**开源软件**。
@@ -546,7 +546,7 @@ _Note application._
 
 #### 思维导图
 
-_Mind mapping._
+*Mind mapping.*
 
 - [Freeplane](https://docs.freeplane.org/) - **开源软件**。
 
@@ -592,16 +592,16 @@ _Mind mapping._
 
 #### 磁盘清理
 
-_Disk cleanup._
+*Disk cleanup.*
 
-- [SpaceSniffer](http://www.uderzo.it/main_products/space_sniffer/index.html) - 磁盘扫描工具，可视化文件占比分析，**免费软件**。（:warning: 不再更新）
+- [SpaceSniffer](http://www.uderzo.it/main_products/space_sniffer/index.html) - 磁盘扫描工具，可视化文件占比分析，**免费软件**。（ :warning: 不再更新）
 - [WinDirStat](https://windirstat.net/) - 文件分析工具，可视化文件占比，**免费软件**。
 - [WizTree](https://wiztreefree.com/) - 类似 WinDirStat，磁盘空间分析工具，统计文件夹大小，**个人用户免费**。
 - [CCleaner Free](https://www.ccleaner.com/) - 系统清理工具，**商业软件，提供免费版本**。
 
 #### 软件应用管理
 
-_Software application management._
+*Software application management.*
 
 - [HiBit Uninstaller](https://hibitsoft.ir/Uninstaller.html) - **免费软件**。
 - [Geek Uninstaller](https://geekuninstaller.com/) - **提供免费版本**。
@@ -621,14 +621,14 @@ _Software application management._
 
 #### 网络管理
 
-_Network Management._
+*Network Management.*
 
 - [WireShark](https://www.wireshark.org/) - 协议分析，**开源免费**。
 - [Sniffnet](https://sniffnet.net/) - 网络流量监控，**开源软件**。
 
 #### 远程桌面
 
-_Virtual desktop, remote login._
+*Virtual desktop, remote login.*
 
 - [RustDesk](https://rustdesk.com/zh/) - **开源软件**。
 - [ToDesk](https://www.todesk.com/) - 个人用户免费。
@@ -642,15 +642,15 @@ _Virtual desktop, remote login._
 - [FreeFileSync](https://freefilesync.org/) - 跨平台文件同步工具，**开源软件**。
 - Web 站点离线工具（Copy Website to offline view）
   - [Cyotek WebCopy](https://www.cyotek.com/cyotek-webcopy) - **免费软件**。
-  - [HTTrack](https://www.httrack.com/) - **免费软件**。（:warning: 不再更新）
+  - [HTTrack](https://www.httrack.com/) - **免费软件**。（ :warning: 不再更新）
 
 [`Go Top ↑`](#awesome-software)
 
 ## 操作系统
 
-_Operating system._
+*Operating system.*
 
-_[DistroWatch](https://distrowatch.com/) - 一个讨论开源操作系统的论坛网站，主要是 Linux 相关。_
+*[DistroWatch](https://distrowatch.com/) - 一个讨论开源操作系统的论坛网站，主要是 Linux 相关。*
 
 - [Linux](https://www.linux.org/)
   - [Debian](https://www.debian.org/)
@@ -681,7 +681,7 @@ _[DistroWatch](https://distrowatch.com/) - 一个讨论开源操作系统的论�
 - [Slant](https://www.slant.co/) - 搜索最佳实践。
 - [小众软件](https://www.appinn.com/) - 小众软件推荐网站。
 - [MSDN, I tell you](https://msdn.itellyou.cn/) - 可下载系统镜像文件。
-  - [HelloWindows.cn](https://hellowindows.cn/) 
+  - [HelloWindows.cn](https://hellowindows.cn/)
 - [Free All We Need](https://free.appnee.com/) - 软件注册工具下载。
 - [冰点软件](http://www.bingdian001.com/) - 很多实用小工具，尤其冰点文库相当好用。
 - [Listen 1](https://listen1.github.io/listen1/) - 音乐聚合搜索。

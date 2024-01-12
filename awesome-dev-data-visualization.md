@@ -20,9 +20,9 @@
 
 ## 参考文档
 
-_Reference documentation._
+*Reference documentation.*
 
-_see also :point_right: [计算机图形学读物](https://github.com/wang1212/awesome-favorites-list/blob/master/awesome-reading.md#%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%9B%BE%E5%BD%A2%E5%AD%A6)_
+*see also :point_right: [计算机图形学读物](https://github.com/wang1212/awesome-favorites-list/blob/master/awesome-reading.md#%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%9B%BE%E5%BD%A2%E5%AD%A6)*
 
 - 数据可视化（Data Visualization）
   - [from Data to Viz](https://www.data-to-viz.com/) - 数据可视化决策工具。
@@ -35,13 +35,13 @@ _see also :point_right: [计算机图形学读物](https://github.com/wang1212/a
 
 - 文档资料（Docs）
   - [InfoVis:Wiki](https://infovis-wiki.net/wiki/Main_Page) - 信息可视化社区平台。
-  - [OpenGL Wiki](https://www.khronos.org/opengl/wiki)   
+  - [OpenGL Wiki](https://www.khronos.org/opengl/wiki)
   - [Graphics Related Lessons](https://github.com/gfxfundamentals)
     - [WebGL Fundamentals](https://webglfundamentals.org/) - WebGL 基础知识。
     - [WebGL2 Fundamentals](https://webgl2fundamentals.org/) - WebGL2 基础知识。
     - [Three.js Fundamentals](https://threejs.org/manual/) - Three.js 基础知识。
     - [CS307: Computer Graphics](https://cs.wellesley.edu/~cs307/index.html) - 计算机图形学公开课。
-  - [WebGL Guide](https://xem.github.io/articles/webgl-guide.html) - _WebGL 技术指南。_
+  - [WebGL Guide](https://xem.github.io/articles/webgl-guide.html) - *WebGL 技术指南。*
   - [Advanced Graphics Algorithms](https://sites.google.com/site/csc8820/educational/course-overview) - 一些图形算法介绍。
   - [Discover three.js](https://discoverthreejs.com/book/) - 介绍了开始探索 3D Web 图形所需的所有重要概念和术语。
   - [High Dynamic Range Image Encodings](http://www.anyhere.com/gward/hdrenc/hdr_encodings.html)
@@ -63,12 +63,12 @@ _see also :point_right: [计算机图形学读物](https://github.com/wang1212/a
 
 #### 可视化工具
 
-_Data visualization tool library._
+*Data visualization tool library.*
 
 - [D3](https://d3js.org/) - 可视化库，数据驱动的，非常著名，许多图表库基于此开发。
 
 - 3D
-  - [_A collection of WebGL and WebGPU frameworks and libraries_](https://gist.github.com/dmnsgn/76878ba6903cf15789b712464875cfdc) 
+  - [*A collection of WebGL and WebGPU frameworks and libraries*](https://gist.github.com/dmnsgn/76878ba6903cf15789b712464875cfdc)
   - Tools
     - [stackgl](http://stack.gl/) - 编写着色器代码的工具集。
     - [gl-matrix](https://glmatrix.net/) - 为 WebGL 应用提供高性能的矩阵属性运算能力。
@@ -93,7 +93,7 @@ _Data visualization tool library._
     - [React Unity WebGL](https://react-unity-webgl.dev/)
 
 - 2D (Canvas/SVG/WebGL)
-  - [_Canvas Engines Comparison_](https://github.com/slaylines/canvas-engines-comparison) 
+  - [*Canvas Engines Comparison*](https://github.com/slaylines/canvas-engines-comparison)
   - [Rough.js](https://roughjs.com/) - 创建具有手绘风格的草图图形。
   - [Konva](https://konvajs.org) - 用于桌面和移动应用程序的 HTML5 2D canvas 库。
   - [Paper.js](http://paperjs.org/) - 矢量绘图工具。
@@ -106,7 +106,7 @@ _Data visualization tool library._
   - :point_right: React.js
     - [react-digraph](https://github.com/uber/react-digraph) - 有向图编辑器。
 
-- 动画引擎（Animation Engine） 
+- 动画引擎（Animation Engine）
   - Tools
     - [bezier-easing](https://github.com/gre/bezier-easing) - Cubic Bezier Curve 缓动函数的实现。
     - [Robert Penner's Easing](http://robertpenner.com/easing/) - Robert Penner's Easing Functions。
@@ -118,7 +118,7 @@ _Data visualization tool library._
   - [KUTE.js](https://thednp.github.io/kute.js/) - 高性能动画引擎，支持 SVG 形变动画。
   - [Popmotion](https://popmotion.io/) - 实用、灵活的 JavaScript 动画工具套件。
     - [Framer Motion](https://www.framer.com/motion/) - 动画工具库，由 Popmotion 驱动。
-  - [tween.js](https://createjs.com/tweenjs) - 动画工具库。（:warning: 不再更新）
+  - [tween.js](https://createjs.com/tweenjs) - 动画工具库。（ :warning: 不再更新）
   - [Shifty](https://jeremyckahn.github.io/shifty/doc/index.html) - 轻量级、高性能的低级动画工具库。
   - [scene.js](https://daybrush.com/scenejs/release/latest/doc/index.html) - 支持 JavaScript 和 CSS 的动画库。
   - SVG
@@ -129,7 +129,7 @@ _Data visualization tool library._
     - [lazy line painter](https://github.com/camoconnell/lazy-line-painter) - SVG 路径动画。
   - [mo.js](https://mojs.github.io/) - 丰富，强大的运动图形动画工具库。
 
-- 游戏引擎（Game Engine） 
+- 游戏引擎（Game Engine）
   - [Babylon.js](https://www.babylonjs.com/) - 3D 游戏渲染引擎。
   - [Little.JS](https://killedbyapixel.github.io/LittleJS/docs/)  - 轻量级 2D 游戏渲染引擎。
 
@@ -164,7 +164,7 @@ _Data visualization tool library._
   - [Charts.css](https://chartscss.org/) - CSS 图表库。
   - [MetricsGraphics.js](https://github.com/metricsgraphics/metrics-graphics) - 为简洁的时间序列数据集可视化优化的图表库。
   - :point_right: React.js
-    - [React-Vis](https://uber.github.io/react-vis/) - 图表库，**Uber 团队开发**。（:warning: 已被弃用）
+    - [React-Vis](https://uber.github.io/react-vis/) - 图表库，**Uber 团队开发**。（ :warning: 已被弃用）
     - [visx](https://airbnb.io/visx) - 图表库，基于 React.js 和 D3.js，**Airbnb 团队开发**。
     - [nivo](https://nivo.rocks/) - 图表库，基于 React.js 和 D3.js。
     - [Recharts](http://recharts.org/) - 图表库。
@@ -220,19 +220,19 @@ _Data visualization tool library._
 
 #### 可视化工具
 
-_Data visualization tool library._
+*Data visualization tool library.*
 
 - [Matplotlib](https://matplotlib.org/stable/index.html) - 创建静态、动画、交互式可视化的综合库。
-- [plot-cli](https://plot-cli.readthedocs.io/en/stable/index.html) - 命令行数据可视化工具。（:warning: 不再更新）
+- [plot-cli](https://plot-cli.readthedocs.io/en/stable/index.html) - 命令行数据可视化工具。（ :warning: 不再更新）
 - [plotext](https://pypi.org/project/plotext/) - 终端绘图可视化。
 - [graph-cli](https://github.com/mcastorina/graph-cli) - 命令行工具，从 CSV 文件创建图表。
-- [termgraph](https://github.com/mkaz/termgraph) - 终端绘图可视化。（:warning: 不再更新）
+- [termgraph](https://github.com/mkaz/termgraph) - 终端绘图可视化。（ :warning: 不再更新）
 
 ### Ruby
 
 #### 可视化工具
 
-_Data visualization tool library._
+*Data visualization tool library.*
 
 - [YouPlot](https://github.com/red-data-tools/YouPlot) - 命令行工具，终端绘制可视化图表。
 
@@ -240,11 +240,10 @@ _Data visualization tool library._
 
 ## 平台应用
 
-_Platform application._
+*Platform application.*
 
 - [Tableau](https://www.tableau.com/) - 可视化分析平台，**商业软件**。
   - [Rath](https://github.com/Kanaries/Rath) - 自动化的数据探索和可视化分析平台，**开源软件**。
   - [Graphic Walker](https://docs.kanaries.net/graphic-walker) - Tableau 的开源替代品。
 
 [`Go Top ↑`](#awesome-data-visualization-list)
-
