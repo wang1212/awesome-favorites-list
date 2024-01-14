@@ -58,6 +58,8 @@ _Command line tools and tools used to develop command line applications._
 
 _Server-side development framework - [Ruby on Rails](https://rubyonrails.org/)._
 
+- https://thoughtbot.com/blog/introducing-superglue - 在 RoR 中使用 React 构建前端。
+
 [`Go Top ↑`](#awesome-ruby-list)
 
 ## 更多
