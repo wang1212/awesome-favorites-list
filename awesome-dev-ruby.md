@@ -6,7 +6,7 @@
 
 <br />
 
-> Ruby 是一种动态的开源编程语言，注重简单性和生产力。它具有优雅的语法，易于阅读且易于编写。:point_right: https://www.ruby-lang.org/en/
+> Ruby 是一种动态的开源编程语言，注重简单性和生产力。它具有优雅的语法，易于阅读且易于编写。 :point_right: https://www.ruby-lang.org/en/
 
 _（Recommend）推荐一个其它的很棒的收藏列表，:point_right:_
 
