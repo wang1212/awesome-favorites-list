@@ -202,6 +202,9 @@
 
 *Independent UI components, only providing component modules that implement an interactive function.*
 
+- 图标（Icons）
+  - [react-icons](https://react-icons.github.io/react-icons/)
+
 - 表单（Form）
   - [Formik](https://jaredpalmer.com/formik/) - 表单自动验证，异步提交，提供 Hook API。
   - [React Select](https://react-select.com/) - 支持多选、自动完成、异步搜索选项等。
