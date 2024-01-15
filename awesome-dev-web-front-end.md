@@ -634,6 +634,7 @@
 - Tools
   - [Immutable.js](https://immutable-js.github.io/immutable-js/) - 不可变数据。
   - [Immer](https://immerjs.github.io/immer/) - 不可变数据。
+  - [Mutative](https://mutative.js.org/) - 比 Immer 性能更高。
 
 [`Go Top ↑`](#awesome-web-front-end-list)
 
