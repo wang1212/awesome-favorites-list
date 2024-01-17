@@ -529,12 +529,6 @@
   - [node-gitlog](https://github.com/domharrington/node-gitlog)
   - [git-parse](https://github.com/wayfair/git-parse)
 
-- OCR
-  - [tesseract.js](https://github.com/naptha/tesseract.js) - 支持 100 种语言的图像文本识别。
-
-- 自然语言处理（NLP）
-  - [compromise](http://compromise.cool/)
-
 - 国际化（i18n）
   - [Format.js](https://formatjs.io/)
 
