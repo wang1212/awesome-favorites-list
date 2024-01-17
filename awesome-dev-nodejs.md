@@ -11,7 +11,7 @@
 
 [OpenJS Foundation](https://openjsf.org/) - 开源 JS 基金会，由 Node 基金会和 JS 基金会合并而成。
 
-*（Recommend）推荐一个其它的很棒的收藏列表，:point_right: <https://github.com/sindresorhus/awesome-nodejs>*
+*（Recommend）推荐一个其它的很棒的收藏列表， :point_right: <https://github.com/sindresorhus/awesome-nodejs>*
 
 ## 目录
 
