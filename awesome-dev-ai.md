@@ -58,6 +58,17 @@ _Tools._
 - [LocalAI](https://localai.io/) - 一种本地的离线 OpenAI REST API 替代品。
 - [jsonformer](https://github.com/1rgs/jsonformer) - 让大模型输出 JSON 结构化的数据格式。
 
+### JavaScript
+
+- 模型加载（Models）
+  - [Transformers.js](https://xenova.github.io/transformers.js/)
+
+- 光学字符识别（OCR）
+  - [tesseract.js](https://github.com/naptha/tesseract.js) - 支持 100 种语言的图像文本识别。
+
+- 自然语言处理（NLP）
+  - [compromise](http://compromise.cool/)
+
 [`Go Top ↑`](#awesome-ai-dev-list)
 
 ## 开发框架
