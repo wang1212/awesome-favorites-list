@@ -182,6 +182,7 @@
 - 性能分析（profiling ）
   - [0x](https://github.com/davidmarkclements/0x)
   - [clinic.js](https://clinicjs.org/) - 性能分析、监控、指标收集。
+  - [Tinybench](https://github.com/tinylibs/tinybench) - 基准测试。
 
 - 测试（Test）
   - [Mocha](https://mochajs.org/)
