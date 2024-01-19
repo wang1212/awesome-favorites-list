@@ -102,7 +102,9 @@
   - [Fabric.js](http://fabricjs.com/) - 2D 绘图库，支持 Canvas、SVG。
   - [Two.js](https://two.js.org/) - Web 2D 绘图工具库，基于 Canvas、Svg、WebGL。
   - [PixiJS](https://www.pixijs.com/) - 2D WebGL 渲染引擎，高性能。
-  - [Vega-Lite](https://vega.github.io/vega-lite/) - 数据分析领域的交互式图形语法。
+  - 文本处理
+    - [canvas-txt](https://canvas-txt.geongeorge.com/)
+    - [canvas-hypertxt](https://github.com/glideapps/canvas-hypertxt)
   - :point_right: React.js
     - [react-digraph](https://github.com/uber/react-digraph) - 有向图编辑器。
 
@@ -163,6 +165,7 @@
   - [Frappe Charts](https://frappe.io/charts) - 基于 SVG 的高性能图表库。
   - [Charts.css](https://chartscss.org/) - CSS 图表库。
   - [MetricsGraphics.js](https://github.com/metricsgraphics/metrics-graphics) - 为简洁的时间序列数据集可视化优化的图表库。
+  - [Vega-Lite](https://vega.github.io/vega-lite/) - 数据分析领域的交互式图形语法。
   - :point_right: React.js
     - [React-Vis](https://uber.github.io/react-vis/) - 图表库，**Uber 团队开发**。（ :warning: 已被弃用）
     - [visx](https://airbnb.io/visx) - 图表库，基于 React.js 和 D3.js，**Airbnb 团队开发**。
