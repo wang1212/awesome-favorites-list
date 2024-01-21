@@ -542,7 +542,9 @@
 - [Joplin](https://joplinapp.org/) - 笔记管理应用，可以同步、协作、分享，支持 Windows/macOS/Linux/Android/iOS 平台，**开源软件**。
 - [Notesnook](https://notesnook.com/) - 开源的端到端加密的个人笔记应用，**开源软件**。
 - [eDiary](http://www.haoxg.net/ediary/index.html) - 本地笔记应用，功能丰富，**免费软件**。
-- [Lepton](https://hackjutsu.com/Lepton/) - 代码片段管理，由 GitHub Gist 驱动，**开源软件**。
+- Code
+  - [Lepton](https://hackjutsu.com/Lepton/) - 代码片段管理，由 GitHub Gist 驱动，**开源软件**。
+  - [heynote](https://heynote.com/) - 为开发者提供的专用便签本，**开源软件**。
 - [Xournal++](https://xournalpp.github.io/) - 手写笔记软件，**开源软件**。
 
 #### 思维导图
