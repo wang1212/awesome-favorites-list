@@ -352,6 +352,7 @@
 - [李跳跳](https://www.coolapk.com/apk/com.whatsbug.litiaotiao) - 屏蔽 App 启动广告，**免费软件**。
 - [SilentNotes](https://www.martinstoeckli.ch/silentnotes/) - 笔记便签软件，支持同步、加密，提供 Windows 平台支持，**开源软件**。
 - [JuiceSSH](https://www.juicessh.com/) - SSH 客户端，**提供免费版**。
+- [K-9 Mail](https://k9mail.app/) - 邮件客户端，**开源软件**。
 
 [`Go Top ↑`](#awesome-software)
 
