@@ -154,10 +154,11 @@
 *Chart library, such as line chart, column chart, etc.*
 
 - 常规图表（Regular Chart）
+  - Based on D3.js
+    - [C3](https://c3js.org/) - 基于 D3.js 的可重用图表库。
+    - [billboard.js](https://naver.github.io/billboard.js/) - 基于 D3.js 的图表库。    
   - [Chart.js](https://www.chartjs.org/) - 最流行的轻量级库。
   - [Echarts](http://echarts.apache.org/) - 国内百度团队开发，功能丰富。
-  - [C3](https://c3js.org/) - 基于 D3.js 的可重用图表库。
-  - [billboard.js](https://naver.github.io/billboard.js/) - 基于 D3.js 的图表库。
   - [Apexcharts](https://apexcharts.com/) - 图表库。
   - [carbon-charts](https://carbon-design-system.github.io/carbon-charts/) - 遵循 Carbon 风格，**IBM 公司发布**。
   - [roughViz](https://github.com/jwilber/roughViz) - 手绘风格图表。
@@ -167,9 +168,10 @@
   - [MetricsGraphics.js](https://github.com/metricsgraphics/metrics-graphics) - 为简洁的时间序列数据集可视化优化的图表库。
   - [Vega-Lite](https://vega.github.io/vega-lite/) - 数据分析领域的交互式图形语法。
   - :point_right: React.js
+    - Based on D3.js
+      - [visx](https://airbnb.io/visx) - 图表库，基于 React.js 和 D3.js，**Airbnb 团队开发**。
+      - [nivo](https://nivo.rocks/) - 图表库，基于 React.js 和 D3.js。
     - [React-Vis](https://uber.github.io/react-vis/) - 图表库，**Uber 团队开发**。（ :warning: 已被弃用）
-    - [visx](https://airbnb.io/visx) - 图表库，基于 React.js 和 D3.js，**Airbnb 团队开发**。
-    - [nivo](https://nivo.rocks/) - 图表库，基于 React.js 和 D3.js。
     - [Recharts](http://recharts.org/) - 图表库。
     - [React Charts](https://react-charts.js.org/) - 图表库。
     - [Victory](https://formidable.com/open-source/victory/) - 图表库。
