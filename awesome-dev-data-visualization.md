@@ -155,8 +155,9 @@
 
 - 常规图表（Regular Chart）
   - Based on D3.js
+    - [Plot](https://observablehq.com/plot/) - 可探索性图表库，**D3.js 官方发布**。
     - [C3](https://c3js.org/) - 基于 D3.js 的可重用图表库。
-    - [billboard.js](https://naver.github.io/billboard.js/) - 基于 D3.js 的图表库。    
+    - [billboard.js](https://naver.github.io/billboard.js/) - 基于 D3.js 的图表库。
   - [Chart.js](https://www.chartjs.org/) - 最流行的轻量级库。
   - [Echarts](http://echarts.apache.org/) - 国内百度团队开发，功能丰富。
   - [Apexcharts](https://apexcharts.com/) - 图表库。
