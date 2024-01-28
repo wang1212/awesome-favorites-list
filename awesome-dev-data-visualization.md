@@ -251,4 +251,6 @@
   - [Rath](https://github.com/Kanaries/Rath) - 自动化的数据探索和可视化分析平台，**开源软件**。
   - [Graphic Walker](https://docs.kanaries.net/graphic-walker) - Tableau 的开源替代品。
 
+- [Grafana](https://grafana.com/oss/grafana/) - 数据可视化和监控解决方案，**开源软件**。
+
 [`Go Top ↑`](#awesome-data-visualization-list)
