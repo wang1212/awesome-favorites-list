@@ -65,8 +65,6 @@
 
 *Data visualization tool library.*
 
-- [D3](https://d3js.org/) - 可视化库，数据驱动的，非常著名，许多图表库基于此开发。
-
 - 3D
   - [*A collection of WebGL and WebGPU frameworks and libraries*](https://gist.github.com/dmnsgn/76878ba6903cf15789b712464875cfdc)
   - Tools
@@ -93,6 +91,7 @@
     - [React Unity WebGL](https://react-unity-webgl.dev/)
 
 - 2D (Canvas/SVG/WebGL)
+  - [D3](https://d3js.org/) - 可视化库，数据驱动的，非常著名，许多图表库基于此开发。
   - [*Canvas Engines Comparison*](https://github.com/slaylines/canvas-engines-comparison)
   - [Rough.js](https://roughjs.com/) - 创建具有手绘风格的草图图形。
   - [Konva](https://konvajs.org) - 用于桌面和移动应用程序的 HTML5 2D canvas 库。
