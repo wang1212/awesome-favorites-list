@@ -360,10 +360,13 @@
 - [TypeScript Performance Tips](https://github.com/microsoft/TypeScript/wiki/Performance) - TypeScript 性能优化，**官方**。
 - [typescript-cheatsheet](https://rmolinamir.github.io/typescript-cheatsheet/) - TypeScript 备忘单。
 - [TypeScript Deep Dive](https://basarat.gitbook.io/typescript/) - 深入理解 TypeScript 相关概念知识。
-- [TypeScriptToLua](https://typescripttolua.github.io/) - 用 TypeScript 编写 Lua。
-- [type-fest](https://github.com/sindresorhus/type-fest) - 包含一系列工具类型的库。
-- [api-extractor](https://api-extractor.com/) - 帮助更好的管理 TypeScript 编写的包。
-- [ts-reset](https://github.com/total-typescript/ts-reset) - 增强内置类型。
+- [type-challenges](https://github.com/type-challenges/type-challenges)
+  
+- 工具（Tools）
+  - [TypeScriptToLua](https://typescripttolua.github.io/) - 用 TypeScript 编写 Lua。
+  - [type-fest](https://github.com/sindresorhus/type-fest) - 包含一系列工具类型的库。
+  - [api-extractor](https://api-extractor.com/) - 帮助更好的管理 TypeScript 编写的包。
+  - [ts-reset](https://github.com/total-typescript/ts-reset) - 增强内置类型。
 
 [`Go Top ↑`](#awesome-web-front-end-list)
 
