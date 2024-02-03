@@ -96,6 +96,7 @@ _Others._
 - [flowise](https://flowiseai.com/) - 开源 UI 可视化工具，用于构建定制的 LLM 编排流程和 AI 代理。
 - [Tabby](https://tabby.tabbyml.com/) - 开源、自托管的 AI 编码助手。
 - [AnythingLLM](https://github.com/Mintplex-Labs/anything-llm) - 可自托管的全栈应用程序，用来构建私有数据集的 AI 知识库应用。
+- [AgentGPT](https://github.com/reworkd/AgentGPT) - 部署自托管的 AI 代理。
 - Open source pre-trained models
   - [FinGPT](https://github.com/AI4Finance-Foundation/FinGPT) - 金融领域的预训练模型。
 
