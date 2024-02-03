@@ -18,6 +18,7 @@ _（Recommend） :point_right: [awesome-artificial-intelligence](https://github.
 - [教程（Tutorial）](#教程)
 - [工具（Tools）](#工具)
 - [开发框架（Development Framework）](#开发框架)
+- [其它（Others）](#其它)
 
 ## 社区
 
@@ -69,15 +70,33 @@ _Tools._
 - 自然语言处理（NLP）
   - [compromise](http://compromise.cool/)
 
+### Python
+
+- [OpenLLM](https://github.com/bentoml/OpenLLM) - 大模型的微调、部署、监控等。
+
 [`Go Top ↑`](#awesome-ai-dev-list)
 
 ## 开发框架
 
 _Development Framework._
 
-- [LangChain](https://docs.langchain.com/) - 开发基于语言模型的应用程序。
-- [embedchain](https://github.com/embedchain/embedchain) - 在任何数据集上轻松创建 LLM 支持的机器人。
+- [LangChain](https://docs.langchain.com/) - 开发基于 LLMs 的应用程序。
+- [Vercel AI SDK](https://sdk.vercel.ai/docs) - 开发对话流应用的 SDK。
+- [embedchain](https://github.com/embedchain/embedchain) - 构建 RAG 应用的框架。
 - [Haystack](https://haystack.deepset.ai/) - 端到端的 NLP 框架，可构建基于 LLMs、Transformer 模型等的 NLP 应用，例如智能文档检索系统。
 - [LlamaIndex](https://gpt-index.readthedocs.io/en/latest/index.html) - 数据框架，供 LLM 应用程序摄取、构建和访问私有或特定领域的数据。
+- [PrivateGPT](https://docs.privategpt.dev/overview) - 构建私有 RAG 应用的 SDK。
+
+[`Go Top ↑`](#awesome-ai-dev-list)
+
+## 其它
+
+_Others._
+
+- [flowise](https://flowiseai.com/) - 开源 UI 可视化工具，用于构建定制的 LLM 编排流程和 AI 代理。
+- [Tabby](https://tabby.tabbyml.com/) - 开源、自托管的 AI 编码助手。
+- [AnythingLLM](https://github.com/Mintplex-Labs/anything-llm) - 可自托管的全栈应用程序，用来构建私有数据集的 AI 知识库应用。
+- Open source pre-trained models
+  - [FinGPT](https://github.com/AI4Finance-Foundation/FinGPT) - 金融领域的预训练模型。
 
 [`Go Top ↑`](#awesome-ai-dev-list)
