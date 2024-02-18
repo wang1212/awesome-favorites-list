@@ -234,6 +234,7 @@
 - [plotext](https://pypi.org/project/plotext/) - 终端绘图可视化。
 - [graph-cli](https://github.com/mcastorina/graph-cli) - 命令行工具，从 CSV 文件创建图表。
 - [termgraph](https://github.com/mkaz/termgraph) - 终端绘图可视化。（ :warning: 不再更新）
+- [Diagrams](https://diagrams.mingrammer.com/) - 用 Python 代码绘制架构图。
 
 ### Ruby
 
