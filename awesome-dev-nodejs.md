@@ -661,6 +661,7 @@
   - [refine](https://refine.dev/)
   - [AdminJS](https://adminjs.co/)
   - [react-admin](https://marmelab.com/react-admin/)
+  - [wasp](https://wasp-lang.dev/)
 
 - 鉴权（Authentication）
   - [jsonwebtoken](https://github.com/auth0/node-jsonwebtoken) - JSON Web Tokens 的 Node.js 实现。
