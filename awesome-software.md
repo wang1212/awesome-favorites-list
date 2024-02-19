@@ -538,6 +538,7 @@
   - [Obsidian](https://obsidian.md/) - 功能丰富的笔记应用，知识管理工具，**商业软件，个人用户免费**。
   - [Trilium Notes](https://github.com/zadam/trilium) - 功能丰富的笔记应用，也支持自托管的 Web 应用，**开源软件**。
   - [AppFlowy](https://appflowy.io/) - Notion 的开源替代品，**开源软件**。
+  - [memos](https://www.usememos.com/) - 可自托管的 Web 笔记应用，**开源软件**。
 - [Notable](https://notable.app/) - 基于 Markdown 的笔记应用，**开源软件**。
 - [VNote](https://app.vnote.fun/) - 简单的笔记应用，**开源软件**。
 - [Anki](https://apps.ankiweb.net/) - 便签记录学习工具，支持多个平台，**开源软件**。
