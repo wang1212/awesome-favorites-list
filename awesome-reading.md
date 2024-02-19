@@ -43,6 +43,7 @@
 - [艾瑞数据](https://data.iresearch.com.cn/) - 艾瑞汇集多家大型互联网企业数据，共同打造的互联网行业信息情报分析系统。
 - [statcounter GlobalStats](http://gsa.statcounter.com/) - 全球浏览器、屏幕分辨率等市场份额统计。
 - [HTTP Archive](https://httparchive.org/) - 互联网 Web 站点统计数据。
+- [TechCrunch](https://techcrunch.com/) - 硅谷创投公司资讯。
 
 ### 经济金融
 
