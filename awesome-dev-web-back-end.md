@@ -66,6 +66,7 @@
 *Containers that run server-side programs and provide static resource services.*
   
 - [Nginx](http://nginx.org/en/) - 轻量级、高性能、高并发的 Web 服务器，主要作为负载均衡、反向代理、静态资源服务的前端服务器。
+  - [Free Nginx](https://freenginx.org/) - 社区驱动的开源分支。
   - [OpenResty](http://openresty.org/) - 算是 Nginx + Lua 的开发平台，提供了很多优质的 Nginx 插件。
   - [Kong](https://konghq.com/) - 现代 API 服务平台，提供诸如 API 网关等功能，其本身也利用了 OpenResty，是一个 Lua 模块 Nginx 插件。
   - [ngxtop](https://github.com/lebinh/ngxtop) - Python 编写的工具，实时分析 nginx 的运行指标。
