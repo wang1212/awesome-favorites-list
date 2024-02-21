@@ -44,6 +44,7 @@
 - [statcounter GlobalStats](http://gsa.statcounter.com/) - 全球浏览器、屏幕分辨率等市场份额统计。
 - [HTTP Archive](https://httparchive.org/) - 互联网 Web 站点统计数据。
 - [TechCrunch](https://techcrunch.com/) - 硅谷创投公司资讯。
+- [电子发烧友](https://www.elecfans.com/) - IT 行业资讯。
 
 ### 经济金融
 
