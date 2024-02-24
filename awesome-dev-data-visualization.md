@@ -67,6 +67,9 @@
 
 - 3D
   - [*A collection of WebGL and WebGPU frameworks and libraries*](https://gist.github.com/dmnsgn/76878ba6903cf15789b712464875cfdc)
+  - Model Web Viewer
+    - [Model Viewer](https://modelviewer.dev/)
+    - [View 3D](https://naver.github.io/egjs-view3d/) - 快速且可定制的 glTF 3D 模型查看器，功能齐全。
   - Tools
     - [stackgl](http://stack.gl/) - 编写着色器代码的工具集。
     - [gl-matrix](https://glmatrix.net/) - 为 WebGL 应用提供高性能的矩阵属性运算能力。
@@ -81,7 +84,6 @@
       - [3d-tiles-renderer](https://github.com/NASA-AMMOS/3DTilesRendererJS)
       - [three-loader-3dtiles](https://github.com/nytimes/three-loader-3dtiles)
     - [three-globe](https://github.com/vasturiano/three-globe) - 3D 地球组件工具库。
-    - [View 3D](https://naver.github.io/egjs-view3d/) - 快速且可定制的 glTF 3D 模型查看器，功能齐全。
   - [A-Frame](https://aframe.io/) - 构建 3D/AR/VR 应用的框架。
   - [sigma.js](http://sigmajs.org/) - 可视化大数据量的关系节点。
     - [Graphology](https://graphology.github.io/)
