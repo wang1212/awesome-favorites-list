@@ -166,6 +166,8 @@
 
 *Some classic, best-selling, high-quality books. (Also includes some related readings.)*
 
+- [Z-Library](https://singlelogin.re/) - 数字图书馆。（**可在维基百科查找最新官方链接**）
+
 ### 计算机技术
 
 *Computer Technology Related Books.*
