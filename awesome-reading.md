@@ -166,7 +166,11 @@
 
 *Some classic, best-selling, high-quality books. (Also includes some related readings.)*
 
+- [Anna’s Archive](https://annas-archive.org/) - 开放的数字图书馆，镜像 Sci-Hub 和 LibGen，抓取并开源 Z-Lib、OpenLib 等。
 - [Z-Library](https://go-to-zlibrary.se/) - 数字图书馆。（**可在维基百科查找最新官方链接**）
+- [Sci-Hub](https://sci-hub.ru/) - 检索论文。
+- [Open Library](https://openlibrary.org/)
+- [arXiv](https://arxiv.org/) - 免费的论文预印本分享平台。
 
 ### 计算机技术
 
