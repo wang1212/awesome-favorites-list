@@ -369,6 +369,7 @@
   - [type-fest](https://github.com/sindresorhus/type-fest) - 包含一系列工具类型的库。
   - [api-extractor](https://api-extractor.com/) - 帮助更好的管理 TypeScript 编写的包。
   - [ts-reset](https://github.com/total-typescript/ts-reset) - 增强内置类型。
+  - [tsdiagram](https://tsdiagram.com/) - 可视化类型定义。
 
 [`Go Top ↑`](#awesome-web-front-end-list)
 
