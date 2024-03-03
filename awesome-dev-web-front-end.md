@@ -622,6 +622,9 @@
 - [Astro](https://astro.build/)
 - [htmx](https://htmx.org/) - 轻量级属性指令驱动 Web 开发。
 
+- Web 浏览器扩展（Web Browser Extension）
+  - [WXT](https://wxt.dev/)
+
 [`Go Top ↑`](#awesome-web-front-end-list)
 
 ## 应用状态管理
