@@ -83,6 +83,7 @@ _Some build tools that can be used to configure the environment, compile, type c
 *Tool Library, some unofficial high-quality Python packages (or libraries).*
 
 - 实用工具（Utils）
+  - [pydeps](https://github.com/thebjorn/pydeps) - 生成包依赖的可视化图。
 
 - 数据计算（Compute - Math & Scientific Computing & Analysis）
   - [NumPy](https://numpy.org/) - 最受欢迎的、强大的科学计算工具包。
