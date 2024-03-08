@@ -109,6 +109,7 @@
     - [canvas-hypertxt](https://github.com/glideapps/canvas-hypertxt)
   - :point_right: React.js
     - [react-digraph](https://github.com/uber/react-digraph) - 有向图编辑器。
+    - [uvcanvas](https://uvcanvas.com/) - 着色器动画画布。
 
 - 动画引擎（Animation Engine）
   - Tools
