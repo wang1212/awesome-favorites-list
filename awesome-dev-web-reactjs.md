@@ -278,6 +278,9 @@
   - [qrcode.react](https://github.com/zpao/qrcode.react)
   - [react-qr-code](https://github.com/rosskhanas/react-qr-code)
 
+- 条形码（Bar Code）
+  - [react-barcode](https://kciter.so/react-barcode/)
+
 - 用户引导（User guided tours）
   - [React Joyride](https://react-joyride.com/)
   - [Reactour](https://reactour.js.org/)
