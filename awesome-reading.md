@@ -214,10 +214,10 @@
 
 - JavaScript
   - [*The best free JavaScript resources*](https://jsbooks.revolunet.com/)
-  - [《你不知道的 JavaScript》][https://github.com/getify/You-Dont-Know-JS](美) Kyle Simpson - 系列书籍，讲解 JavaScript 核心概念，**开源书籍**。
-  - [《Eloquent JavaScript》][https://eloquentjavascript.net/](美) Marijn Haverbeke - JavaScript、Node.js 技术，**开源书籍**。
+  - [《你不知道的 JavaScript》](https://github.com/getify/You-Dont-Know-JS) (美) Kyle Simpson - 系列书籍，讲解 JavaScript 核心概念，**开源书籍**。
+  - [《Eloquent JavaScript》](https://eloquentjavascript.net/) (美) Marijn Haverbeke - JavaScript、Node.js 技术，**开源书籍**。
   - [《JavaScript for Data Science》](https://js4ds.org/) Maya Gans, Toby Hodges, Greg Wilson - **开源书籍**。
-  - [《JavaScript for impatient programmers》][https://exploringjs.com/impatient-js/index.html](德) Axel Rauschmayer - 学习现代 JavaScript，**可在线免费阅读**。
+  - [《JavaScript for impatient programmers》](https://exploringjs.com/impatient-js/index.html) (德) Axel Rauschmayer - 学习现代 JavaScript，**可在线免费阅读**。
   - [《Deep JavaScript: Theory and techniques》](https://exploringjs.com/deep-js/) [德] Axel Rauschmayer
   - [《JavaScript (ES2015+) Enlightenment》](https://frontendmasters.com/books/javascript-enlightenment/) Cody Linley - JavaScript 语言更新介绍，**开源书籍**。
   - [《Learning JavaScript Design Patterns》](https://addyosmani.com/resources/essentialjsdesignpatterns/book/) Addy Osmani - JavaScript 设计模式，**开源书籍**。
@@ -234,7 +234,7 @@
 - Ruby
   - 《Ruby 元编程》[意] Paolo Perrotta
   - 《Ruby 基础教程》[日] 高桥征义 后藤裕藏
-  - [《The Book Of Ruby》](http://www.sapphiresteel.com/ruby-programming/The-Book-Of-Ruby.html) (英) Huw Collingbourne - 关于 Ruby 编程的开源书籍，涉及知识概念很全面，**开源书籍**。:point_right: [简体中文翻译](https://wang1212.github.io/the-book-of-ruby/#/0-homepage.html)
+  - [《The Book Of Ruby》](http://www.sapphiresteel.com/ruby-programming/The-Book-Of-Ruby.html) (英) Huw Collingbourne - 关于 Ruby 编程的开源书籍，涉及知识概念很全面，**开源书籍**。 :point_right: [简体中文翻译](https://wang1212.github.io/the-book-of-ruby/#/0-homepage.html)
   - [《Ruby For Beginners》](https://ruby-for-beginners.rubymonstas.org/) - Ruby 初学者向导，**开源书籍**。
 
 - Bash
