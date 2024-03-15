@@ -91,6 +91,7 @@
 - [RethinkDB](https://rethinkdb.com/) - 构建实时 Web 应用的数据库，**开源**。
 - [SQLite](https://www.sqlite.org/)
   - [sqlite-viewer](http://inloop.github.io/sqlite-viewer/) - 在线浏览器工具。
+  - [libSQL](https://github.com/tursodatabase/libsql) - 开源社区版本，**非 SQLite 官方发布**。
 
 ### 数据库管理系统
 
