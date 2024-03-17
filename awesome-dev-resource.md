@@ -360,6 +360,7 @@ _see also 👉  [Web 端软件资源](./awesome-software.md#浏览器端)_
 
 - Converter
   - [Excel to JSON](https://exceltojson.com/) - Excel 转 JSON 数据。
+  - [transform](https://transform.tools/) - 多语言转换器。
 
 ### 公共 API
 
