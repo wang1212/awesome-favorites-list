@@ -286,6 +286,7 @@
       - [rasterizeHTML.js](http://cburgmer.github.io/rasterizeHTML.js/)
       - [html-to-image](https://github.com/bubkoo/html-to-image)
     - [signature_pad](https://szimek.github.io/signature_pad/) - 手写签名。
+    - [atrament](https://github.com/jakubfiala/atrament) - 手绘。
   - [linkifyjs](https://github.com/Hypercontext/linkifyjs) - 处理文本中的链接、邮箱地址等，将其转为相应的 HTML 标签。
 
 - 事件（Event）
