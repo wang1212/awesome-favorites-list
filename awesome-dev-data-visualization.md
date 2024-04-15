@@ -84,6 +84,7 @@
       - [3d-tiles-renderer](https://github.com/NASA-AMMOS/3DTilesRendererJS)
       - [three-loader-3dtiles](https://github.com/nytimes/three-loader-3dtiles)
     - [three-globe](https://github.com/vasturiano/three-globe) - 3D 地球组件工具库。
+    - [neat](https://neat.camberi.com/) - 3D 渐变。
   - [A-Frame](https://aframe.io/) - 构建 3D/AR/VR 应用的框架。
   - [sigma.js](http://sigmajs.org/) - 可视化大数据量的关系节点。
     - [Graphology](https://graphology.github.io/)
