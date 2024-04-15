@@ -573,6 +573,7 @@
   - [ninja-keys](https://github.com/ssleptsov/ninja-keys) - 为页面添加键盘快捷键导航功能界面。
   - [InfiniteGrid](https://naver.github.io/egjs-infinitegrid/) - 无限网格布局。
   - [Atropos](https://atroposjs.com/) - 轻量的用于创建 3D 悬停视差效果的组件。
+  - [Barba.js](https://barba.js.org/) - 在页面之间创建平滑的过渡动画。
 
 ### UI 模板
 
