@@ -50,6 +50,7 @@ _Tutorial._
 - [Prompt Engineering Guide](https://www.promptingguide.ai/)
 - [Learn Prompting](https://learnprompting.org/)
 - [Awesome-LLM](https://github.com/Hannibal046/Awesome-LLM) - 大语言模型相关的论文资讯等。
+- [ML-YouTube-Courses](https://github.com/dair-ai/ML-YouTube-Courses) - 机器学习相关的视频课程。
 
 [`Go Top ↑`](#awesome-ai-dev-list)
 
