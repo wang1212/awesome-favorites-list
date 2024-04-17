@@ -24,6 +24,8 @@
 
 *see also :point_right: [计算机图形学读物](https://github.com/wang1212/awesome-favorites-list/blob/master/awesome-reading.md#%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%9B%BE%E5%BD%A2%E5%AD%A6)*
 
+_[AWESOME DATA SCIENCE](https://github.com/academic/awesome-datascience)_
+
 - 数据可视化（Data Visualization）
   - [from Data to Viz](https://www.data-to-viz.com/) - 数据可视化决策工具。
   - [The Data Visualisation Catalogue](https://datavizcatalogue.com/) - 数据可视化目录。
