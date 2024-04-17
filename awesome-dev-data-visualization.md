@@ -53,6 +53,9 @@
   - [textures.com](https://www.textures.com/) - 提供各种材质的纹理资源。
   - [Dwitter.net](https://beta.dwitter.net/) - 用简短的代码实现各种有趣的效果。
 
+- 教程
+  - [Data Science for Beginners](https://microsoft.github.io/Data-Science-For-Beginners/) - 数据科学入门，**Microsoft 发布**。
+
 [`Go Top ↑`](#awesome-data-visualization-list)
 
 ## 工具库
