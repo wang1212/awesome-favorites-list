@@ -11,7 +11,12 @@
 
 _Cheat sheet._
 
-_[Naming cheatsheet](https://github.com/kettanaito/naming-cheatsheet) & [CODELF](https://unbug.github.io/codelf/)_
+_[CODELF](https://unbug.github.io/codelf/)_
+
+### :bookmark: Naming
+
+- [Naming cheatsheet](https://github.com/kettanaito/naming-cheatsheet)
+- [classnames](https://classnames.paulrobertlloyd.com/)
 
 ### :bookmark: Emoji :smile:
 
