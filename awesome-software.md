@@ -151,6 +151,7 @@
 *Image.*
 
 - [Image Extractor](https://extract.pics/) - 导出公共网站的图片。
+- [SVG Encoder](https://svgencode.com/) - SVG 处理工具集。
 
 - 图片工具集（Image Toolset）
   - [Img2Go](https://www.img2go.com/zh) - 图片处理，还包含 PDF、音频、视频、电子书、OCR 处理等工具。
