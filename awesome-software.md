@@ -310,7 +310,7 @@
 - 字体资源
   - [Google Fonts](https://fonts.google.com/) - 免费开源的字体集合。
   - [Google Noto Fonts](https://www.google.com/get/noto/) - 免费可供所有人使用的，支持全球大部分语言的字体，**Google 发布**。
-  - [Fontshare](https://www.fontshare.com/) - 可免费商用的字体集合。   
+  - [Fontshare](https://www.fontshare.com/) - 可免费商用的字体集合。
 
 - 图标工具
   - [Free Favicon Maker](https://formito.com/tools/favicon) - SVG 图标制作。
