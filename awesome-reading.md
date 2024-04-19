@@ -287,6 +287,18 @@
 
 - 《SQL 基础教程》[日] MICK
 
+#### AI
+
+_Artificial Intelligence._
+
+- [Hugging Face Learn](https://huggingface.co/learn) - AI 领域相关教程，**Hugging Face 发布**。
+- [Google Machine Learning Courses](https://developers.google.com/machine-learning) - 机器学习课程，**Google 发布**。
+- [fast.ai](https://www.fast.ai/) - 深度学习教程。
+- [Artificial Intelligence for Beginners](https://microsoft.github.io/AI-For-Beginners/) - AI 入门，**Microsoft 发布**。
+- [Generative AI for Beginners](https://microsoft.github.io/generative-ai-for-beginners/) - 生成式 AI 入门，**Microsoft 发布**。
+- [Stanford CS229 - Machine Learning](https://see.stanford.edu/Course/CS229)
+- [ML-YouTube-Courses](https://github.com/dair-ai/ML-YouTube-Courses) - 机器学习相关的视频课程。
+
 #### 其它
 
 *Others.*
