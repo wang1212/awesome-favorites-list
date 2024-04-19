@@ -68,6 +68,10 @@ const config: Config = {
       {
         hashed: true,
         language: ['en', 'zh'],
+        docsRouteBasePath: '/',
+        indexBlog: false,
+        docsDir: '../',
+        ignoreFiles: ['website'],
       },
     ],
   ],
