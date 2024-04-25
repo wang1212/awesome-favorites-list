@@ -290,7 +290,9 @@ _Coding skills._
     - [Deno Weekly](https://denoweekly.com/) - 周刊，Deno 技术。（Cooperpress 出版）
   - AI (Machine Learning)
     - [Latent.Space](https://www.latent.space/) - 周刊，AI 工程师播客。
-    - [NLP Newsletter](https://nlp.elvissaravia.com/) - 周刊，机器学习论文。 
+    - [NLP Newsletter](https://nlp.elvissaravia.com/) - 周刊，机器学习论文。
+    - [Interconnects](https://www.interconnects.ai/) - 周刊，人工智能资讯。
+    - [Deep (Learning) Focus](https://cameronrwolfe.substack.com/) - 周刊，人工智能领域主题。
   - Other
     - [StatusCode Weekly](https://weekly.statuscode.com/) - 周刊，软件开发、Web 技术、软件架构等。（Cooperpress 出版）（ :warning: 停止更新）
     - [Web Tools Weekly](https://webtoolsweekly.com/) - 周刊，Web 开发工具资讯。
