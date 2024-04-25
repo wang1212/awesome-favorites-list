@@ -78,12 +78,24 @@ _Tools._
 
 _Development Framework._
 
-- [LangChain](https://docs.langchain.com/) - 开发基于 LLMs 的应用程序。
-- [Vercel AI SDK](https://sdk.vercel.ai/docs) - 开发对话流应用的 SDK。
-- [embedchain](https://github.com/embedchain/embedchain) - 构建 RAG 应用的框架。
-- [Haystack](https://haystack.deepset.ai/) - 端到端的 NLP 框架，可构建基于 LLMs、Transformer 模型等的 NLP 应用，例如智能文档检索系统。
-- [LlamaIndex](https://gpt-index.readthedocs.io/en/latest/index.html) - 数据框架，供 LLM 应用程序摄取、构建和访问私有或特定领域的数据。
-- [PrivateGPT](https://docs.privategpt.dev/overview) - 构建私有 RAG 应用的 SDK。
+- Common
+  - [LangChain](https://docs.langchain.com/) - 开发基于 LLMs 的应用程序。
+  - [Haystack](https://haystack.deepset.ai/) - 端到端的 NLP 框架，可构建基于 LLMs、Transformer 模型等的 NLP 应用，例如智能文档检索系统。
+
+- RAG
+  - [LlamaIndex](https://gpt-index.readthedocs.io/en/latest/index.html) - 数据框架，供 LLM 应用程序摄取、构建和访问私有或特定领域的数据。
+  - [embedchain](https://github.com/embedchain/embedchain) - 构建 RAG 应用的框架。
+  - [PrivateGPT](https://docs.privategpt.dev/overview) - 构建私有 RAG 应用的 SDK。
+
+- Chatbot
+  - [Lobe Chat](https://github.com/lobehub/lobe-chat)
+  - [Chatbot UI](https://github.com/mckaywrigley/chatbot-ui)
+
+- Low Code
+  - [flowise](https://flowiseai.com/) - 开源 UI 可视化工具，用于构建定制的 LLM 编排流程和 AI 代理。
+
+- Others
+  - [Vercel AI SDK](https://sdk.vercel.ai/docs) - 开发对话流应用的 SDK。
 
 [`Go Top ↑`](#awesome-ai-dev-list)
 
@@ -91,7 +103,6 @@ _Development Framework._
 
 _Others._
 
-- [flowise](https://flowiseai.com/) - 开源 UI 可视化工具，用于构建定制的 LLM 编排流程和 AI 代理。
 - [Tabby](https://tabby.tabbyml.com/) - 开源、自托管的 AI 编码助手。
 - [AnythingLLM](https://github.com/Mintplex-Labs/anything-llm) - 可自托管的全栈应用程序，用来构建私有数据集的 AI 知识库应用。
 - [AgentGPT](https://github.com/reworkd/AgentGPT) - 部署自托管的 AI 代理。
