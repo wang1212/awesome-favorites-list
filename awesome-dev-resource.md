@@ -261,6 +261,18 @@ _Coding skills._
   - [Sidebar](https://sidebar.io/) - 日报，设计相关新闻。
 
 - 每周（Weekly）
+  - System Design
+    - [StatusCode Weekly](https://weekly.statuscode.com/) - 周刊，软件开发、Web 技术、软件架构等。（Cooperpress 出版）（ :warning: 停止更新）
+    - [ByteByteGo Newsletter](https://blog.bytebytego.com/) - 周刊，系统设计相关内容。
+    - [System Design Newsletter](https://newsletter.systemdesign.one/) - 周刊，系统设计相关内容。
+  - Database
+    - [DB Weekly](https://dbweekly.com/) - 周刊，数据库技术。（Cooperpress 出版）（ :warning: 停止更新）
+    - [Postgres Weekly](https://postgresweekly.com/) - 周刊，PostgreSQL 技术。（Cooperpress 出版）
+  - AI (Machine Learning)
+    - [Latent.Space](https://www.latent.space/) - 周刊，AI 工程师播客。
+    - [NLP Newsletter](https://nlp.elvissaravia.com/) - 周刊，机器学习论文。
+    - [Interconnects](https://www.interconnects.ai/) - 周刊，人工智能资讯。
+    - [Deep (Learning) Focus](https://cameronrwolfe.substack.com/) - 周刊，人工智能领域主题。
   - CSS
     - [CSS Weekly](https://css-weekly.com/) - 周刊，CSS 技术。
     - [CSS Animation Weekly](https://cssanimation.rocks/weekly/) - 周刊，CSS 动画。
@@ -281,26 +293,17 @@ _Coding skills._
     - [Mobile Dev Weekly](https://mobiledevweekly.com/) - 周刊，移动应用（Web 和 Native）开发技术。（Cooperpress 出版）
     - [Android Weekly](https://androidweekly.net/) - 周刊，Android 技术。
     - [iOS Dev Weekly](https://iosdevweekly.com/) - 周刊，iOS 开发者相关。
-  - Database
-    - [DB Weekly](https://dbweekly.com/) - 周刊，数据库技术。（Cooperpress 出版）（ :warning: 停止更新）
-    - [Postgres Weekly](https://postgresweekly.com/) - 周刊，PostgreSQL 技术。（Cooperpress 出版）
   - Node.js & Deno
     - [Node Weekly](https://nodeweekly.com/) - 周刊，Node.js 技术。（Cooperpress 出版）
     - [npm Weekly](https://www.npmjs.com/npm-weekly) - 周刊，npm 新闻，**npm 官方**。（ :warning: 停止更新）
     - [Deno Weekly](https://denoweekly.com/) - 周刊，Deno 技术。（Cooperpress 出版）
-  - AI (Machine Learning)
-    - [Latent.Space](https://www.latent.space/) - 周刊，AI 工程师播客。
-    - [NLP Newsletter](https://nlp.elvissaravia.com/) - 周刊，机器学习论文。
-    - [Interconnects](https://www.interconnects.ai/) - 周刊，人工智能资讯。
-    - [Deep (Learning) Focus](https://cameronrwolfe.substack.com/) - 周刊，人工智能领域主题。
   - Other
-    - [StatusCode Weekly](https://weekly.statuscode.com/) - 周刊，软件开发、Web 技术、软件架构等。（Cooperpress 出版）（ :warning: 停止更新）
     - [Web Tools Weekly](https://webtoolsweekly.com/) - 周刊，Web 开发工具资讯。
     - [Ruby Weekly](https://rubyweekly.com/) - 周刊，Ruby 技术。（Cooperpress 出版）
     - [PyCoder’s Weekly](https://pycoders.com/) - 周刊，Python 技术。
     - [Golang Weekly](https://golangweekly.com/) - 周刊，Go 技术。（Cooperpress 出版）
     - [Serverless Status](https://serverless.email/) - 周刊，Serverless 和 FaaS 相关技术。（Cooperpress 出版）
-    - [ByteByteGo Newsletter](https://blog.bytebytego.com/) - 周刊，系统设计相关内容。
+
   - [_Awesome Weekly_](https://github.com/jondot/awesome-weekly) - _更多周刊。_
 
 - 每月（Monthly）
