@@ -737,9 +737,9 @@ _Static site tool._
 
 *Interview guidelines.*
 
+- [Tech Interview Handbook](https://techinterviewhandbook.org/) - 通用的技术面试指南。
 - [Reverse interview](https://github.com/viraptor/reverse-interview) - 面试时候可以反问的一些问题。
 - [Coding Interview University](https://github.com/jwasham/coding-interview-university)
-- [Tech Interview Handbook](https://techinterviewhandbook.org/)
 - [System Design Interview](https://github.com/checkcheckzz/system-design-interview) - 系统设计面试。（ :warning: 不再更新）
 - [Front End Interview Handbook](https://www.frontendinterviewhandbook.com/) - 前端面试手册。
 
