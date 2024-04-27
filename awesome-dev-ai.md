@@ -88,6 +88,7 @@ _Development Framework._
   - [PrivateGPT](https://docs.privategpt.dev/overview) - 构建私有 RAG 应用的 SDK。
 
 - Chatbot
+  - [Every front-end GUI client for ChatGPT API](https://github.com/billmei/every-chatgpt-gui) 
   - [Lobe Chat](https://github.com/lobehub/lobe-chat)
   - [Chatbot UI](https://github.com/mckaywrigley/chatbot-ui)
 
