@@ -253,7 +253,6 @@
   - [React DnD](https://react-dnd.github.io/react-dnd/)
   - [dnd kit](https://dndkit.com/) - 轻量、高性能的拖放组件。
   - [react-rnd](https://github.com/bokuweb/react-rnd)- 拖放，调整大小。
-  - [react-resizable-panels](https://react-resizable-panels.vercel.app/) - 可调整大小的面板。
 
 - 大量数据渲染（Large amount of data rendering）
   - [react-virtualized](https://bvaughn.github.io/react-virtualized/)
@@ -306,6 +305,11 @@
   - [React Spinners](https://www.davidhu.io/react-spinners/) - 丰富的 Loading 动画。
   - [@uiball/loaders](https://uiball.com/loaders/) - loading 加载器。
 
+- 窗口布局（Window Layout）
+  - [react-mosaic](https://github.com/nomcopter/react-mosaic) - 平铺窗口管理器。
+  - [react-resizable-panels](https://react-resizable-panels.vercel.app/) - 可调整大小的面板。
+  - [React Spaces](https://allaneagle.com/projects/react-spaces) 
+
 - 其它（Others）
   - [react-tooltip](https://react-tooltip.com/)
   - [React PDF](https://projects.wojtekmaj.pl/react-pdf/) - pdf 文件预览组件。
@@ -323,7 +327,6 @@
   - [react-syntax-highlighter](https://github.com/react-syntax-highlighter/react-syntax-highlighter) - 语法高亮组件。
   - [planby](https://planby.netlify.app/) - 时间线组件。
   - [boring-avatars](https://boringavatars.com/) - 随机生成基于 SVG 的自定义头像。
-  - [react-mosaic](https://github.com/nomcopter/react-mosaic) - 平铺窗口管理器。
   - [react-chrono](https://react-chrono.prabhumurthy.com/) - 时间线组件。
   - [cmdk](https://github.com/pacocoursey/cmdk) - 命令菜单。
   - [Vaul](https://vaul.emilkowal.ski/) - 抽屉组件，适配移动端手势。
