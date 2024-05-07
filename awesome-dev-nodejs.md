@@ -655,6 +655,7 @@
 - [Feathers](https://feathersjs.com/) - 轻量的、面向服务的构建实时 Web 应用和 REST APIs 的框架。
 - [Sails.js](https://sailsjs.com/) - 实时的 MVC 框架。
 - [Adonis.js](https://adonisjs.com/) - 全栈 MVC 框架。
+- [Hono](https://hono.dev/)
 
 - Full stack framework / CRUD App
   - [Redwood](https://redwoodjs.com/)
