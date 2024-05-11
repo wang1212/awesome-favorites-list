@@ -95,6 +95,12 @@ _Development Framework._
 - Low Code
   - [flowise](https://flowiseai.com/) - 开源 UI 可视化工具，用于构建定制的 LLM 编排流程和 AI 代理。
 
+- Agent
+  - [@huggingface/agents](https://huggingface.co/blog/agents-js)
+  - [AutoGen](https://microsoft.github.io/autogen/)
+  - [SuperAGI](https://github.com/TransformerOptimus/SuperAGI)
+  - [Langroid](https://langroid.github.io/langroid/)
+
 - Others
   - [Vercel AI SDK](https://sdk.vercel.ai/docs) - 开发对话流应用的 SDK。
   - [LMQL](https://lmql.ai/) - LLMs 编程语言。
