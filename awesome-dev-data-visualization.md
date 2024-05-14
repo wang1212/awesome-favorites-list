@@ -70,6 +70,9 @@ _[AWESOME DATA SCIENCE](https://github.com/academic/awesome-datascience)_
 
 *Data visualization tool library.*
 
+- 数据算法（Data Algorithm）
+  - [Largest-Triangle-Three-Buckets(LTTB)](https://github.com/sveinn-steinarsson/flot-downsample) - 一种时间序列的数据集降采样算法。
+
 - 3D
   - [*A collection of WebGL and WebGPU frameworks and libraries*](https://gist.github.com/dmnsgn/76878ba6903cf15789b712464875cfdc)
   - Model Web Viewer
