@@ -302,6 +302,7 @@ _Artificial Intelligence._
 - [Generative AI for Beginners](https://microsoft.github.io/generative-ai-for-beginners/) - 生成式 AI 入门，**Microsoft 发布**。
 - [Stanford CS229 - Machine Learning](https://see.stanford.edu/Course/CS229)
 - [ML-YouTube-Courses](https://github.com/dair-ai/ML-YouTube-Courses) - 机器学习相关的视频课程。
+- [StatQuest](https://statquest.org/) - 用动画解释统计学和机器学习。
 
 #### 其它
 
