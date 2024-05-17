@@ -145,6 +145,8 @@
 
 [:point_right: 去看](awesome-dev-resource.md#社区论坛)
 
+- [code.org](https://code.org/) - k-12 计算机课程，非营利性组织。
+
 ### 文学
 
 *Literature related forum sites.*
