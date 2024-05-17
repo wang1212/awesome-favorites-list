@@ -132,6 +132,7 @@
 
 - [StackExchange](https://stackexchange.com/sites) - 一个链接多种类型问答社区的网络。
 - [Medium](https://medium.com/) - 一个写作阅读平台。
+- [Khan Academy](https://www.khanacademy.org/) - 各种学习课程，**非营利性组织**。
 
 ### 数学
 
@@ -145,7 +146,7 @@
 
 [:point_right: 去看](awesome-dev-resource.md#社区论坛)
 
-- [code.org](https://code.org/) - k-12 计算机课程，非营利性组织。
+- [code.org](https://code.org/) - k-12 计算机课程，**非营利性组织**。
 
 ### 文学
 
@@ -170,9 +171,10 @@
 
 - [Anna’s Archive](https://annas-archive.org/) - 开放的数字图书馆，镜像 Sci-Hub 和 LibGen，抓取并开源 Z-Lib、OpenLib 等。
 - [Z-Library](https://go-to-zlibrary.se/) - 数字图书馆。（**可在维基百科查找最新官方链接**）
-- [Sci-Hub](https://sci-hub.ru/) - 检索论文。
 - [Open Library](https://openlibrary.org/)
-- [arXiv](https://arxiv.org/) - 免费的论文预印本分享平台。
+- [Google Scholar search](https://scholar.google.com/) - 谷歌学术搜索，**非营利性**。
+- [Sci-Hub](https://sci-hub.ru/) - 检索论文，**非营利性**。
+- [arXiv](https://arxiv.org/) - 学术论文预印本发布平台，**非盈利性**。
 
 ### 计算机技术
 
