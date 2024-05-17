@@ -35,6 +35,8 @@ _News._
 
 - [Hugging Face Blog](https://huggingface.co/blog/)
 - [Google AI Blog](https://ai.googleblog.com/)
+- [Dr. Andrew Ng](https://www.andrewng.org/) - 吴恩达的博客。
+- [ruder.io](https://www.ruder.io/)
 
 [`Go Top ↑`](#awesome-ai-dev-list)
 
