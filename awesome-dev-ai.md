@@ -44,6 +44,7 @@ _News._
 
 _Tutorial._
 
+- [AI GUIDE](https://ai-guide.future.mozilla.org/) - AI 指南，**Mozilla 发布**。
 - [People + AI Guidebook](https://pair.withgoogle.com/guidebook) - 一套使用 AI 进行设计的方法、最佳实践和示例。
 - [Prompt Engineering Guide](https://www.promptingguide.ai/)
 - [Awesome-LLM](https://github.com/Hannibal046/Awesome-LLM) - 大语言模型相关的论文资讯等。
