@@ -44,7 +44,7 @@ _[AWESOME DATA SCIENCE](https://github.com/academic/awesome-datascience)_
     - [Three.js Fundamentals](https://threejs.org/manual/) - Three.js 基础知识。
     - [CS307: Computer Graphics](https://cs.wellesley.edu/~cs307/index.html) - 计算机图形学公开课。
   - [WebGL Guide](https://xem.github.io/articles/webgl-guide.html) - *WebGL 技术指南。*
-  - [Advanced Graphics Algorithms](https://sites.google.com/site/csc8820/educational/course-overview) - 一些图形算法介绍。
+  - [CSC8820 Advanced Graphics Algorithms](https://slideplayer.com/slide/12894894/) - 一些图形算法介绍。
   - [Discover three.js](https://discoverthreejs.com/book/) - 介绍了开始探索 3D Web 图形所需的所有重要概念和术语。
   - [High Dynamic Range Image Encodings](http://www.anyhere.com/gward/hdrenc/hdr_encodings.html)
 
