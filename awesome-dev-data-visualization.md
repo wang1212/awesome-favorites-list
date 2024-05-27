@@ -73,6 +73,7 @@ _[AWESOME DATA SCIENCE](https://github.com/academic/awesome-datascience)_
 - 数据算法（Data Algorithm）
   - [Largest-Triangle-Three-Buckets(LTTB)](https://github.com/sveinn-steinarsson/flot-downsample) - 一种时间序列的数据集降采样算法。
   - [Flatbush](https://github.com/mourner/flatbush) - 2D 点空间索引算法，希尔伯特 R 树算法。
+  - [The Use of Context in Pattern Recognition](https://www.bic.mni.mcgill.ca/~mallar/CS-644B/Home.html)
 
 - 3D
   - [*A collection of WebGL and WebGPU frameworks and libraries*](https://gist.github.com/dmnsgn/76878ba6903cf15789b712464875cfdc)
