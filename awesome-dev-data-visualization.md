@@ -72,6 +72,7 @@ _[AWESOME DATA SCIENCE](https://github.com/academic/awesome-datascience)_
 
 - 数据算法（Data Algorithm）
   - [Largest-Triangle-Three-Buckets(LTTB)](https://github.com/sveinn-steinarsson/flot-downsample) - 一种时间序列的数据集降采样算法。
+  - [Flatbush](https://github.com/mourner/flatbush) - 2D 点空间索引算法，希尔伯特 R 树算法。
 
 - 3D
   - [*A collection of WebGL and WebGPU frameworks and libraries*](https://gist.github.com/dmnsgn/76878ba6903cf15789b712464875cfdc)
@@ -112,7 +113,6 @@ _[AWESOME DATA SCIENCE](https://github.com/academic/awesome-datascience)_
   - [Fabric.js](http://fabricjs.com/) - 2D 绘图库，支持 Canvas、SVG。
   - [Two.js](https://two.js.org/) - Web 2D 绘图工具库，基于 Canvas、Svg、WebGL。
   - [PixiJS](https://www.pixijs.com/) - 2D WebGL 渲染引擎，高性能。
-  - [Flatbush](https://github.com/mourner/flatbush) - 2D 点空间索引算法。
   - 文本处理
     - [canvas-txt](https://canvas-txt.geongeorge.com/)
     - [canvas-hypertxt](https://github.com/glideapps/canvas-hypertxt)
