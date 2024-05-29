@@ -245,6 +245,9 @@
   - [《Advanced Bash-Scripting Guide》](http://tldp.org/LDP/abs/html/) - 高级 Bash 脚本编程指南，**开源书籍**。
   - [《Introduction to Bash Scripting》](https://github.com/bobbyiliev/introduction-to-bash-scripting) - Bash 脚本介绍，**开源书籍**。
 
+- Others
+  - [Crafting Interpreters](http://craftinginterpreters.com/) - 制作解释器，**可在线免费阅读**。
+
 #### Web 开发
 
 *Web development.*
