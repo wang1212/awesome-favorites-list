@@ -164,6 +164,7 @@
   - [Compress Image Online](https://compressimage.io/)
   - [Squoosh](https://squoosh.app/)
   - [Compress PNG](https://compresspng.com/)
+  - [WebsitePlanet - Image Compressor](https://www.websiteplanet.com/webtools/imagecompressor/)
   - [Picdiet](https://www.picdiet.com/)
   - [TinyPNG](https://tinypng.com/)
   - [Optimizilla](https://imagecompressor.com/)
