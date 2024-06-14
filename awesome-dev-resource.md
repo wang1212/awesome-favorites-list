@@ -338,6 +338,7 @@ _see also 👉  [Web 端软件资源](./awesome-software.md#浏览器端)_
 - [free-for.dev](https://free-for.dev/) - 软件开发人员可用的免费 SaaS、PaaS、IaaS 等服务。
 
 - Toolset
+  - [JSON Diff](https://www.jsondiff.com/) - 对比 JSON 数据差异。
   - [URL Encoder](https://www.urlencoder.org/) - URL 编解码，以及一系列小工具。
   - [SOCODE.PRO](https://socode.pro/) - 快速搜索开发文档，小工具等，**提供浏览器插件**。
   - [345Tool](https://www.345tool.com/) - 开发者工具集。
