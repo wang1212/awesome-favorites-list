@@ -246,6 +246,7 @@
   - [tldraw](https://www.tldraw.com/) - 虚拟白板，支持协作，**开源软件**。
   - [WiteBoard](https://witeboard.com/) - 共享协作画板。
   - [OkSo](https://okso.app/) - 虚拟白板，支持嵌入跳转。
+  - [DGM](https://dgm.sh/)
 
 #### ASCII Art
 
