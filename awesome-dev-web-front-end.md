@@ -280,6 +280,7 @@
     - [Lozad.js](https://github.com/ApoorvSaxena/lozad.js) - 轻量、高性能图片懒加载工具，使用了 [Intersection Observer API](https://developer.mozilla.org/en-US/docs/Web/API/Intersection_Observer_API)。
     - [unlazy](https://unlazy.byjohann.dev/)
   - [clipboard.js](https://clipboardjs.com/) - 现代的粘贴板工具库。
+  - [share-url](https://nigelotoole.github.io/share-url/) - 现代的链接分享。
   - [Tether](http://tether.io/) - 元素跟踪定位工具。
     - [popper.js](https://popper.js.org/) - 元素定位工具。
   - [Quicklink](https://getquick.link/) - 预请求视区内的资源，加快页面加载速度。
