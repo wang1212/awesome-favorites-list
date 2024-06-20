@@ -111,6 +111,7 @@
 
 - [HTML Reference](https://htmlreference.io/) - HTML 指南。
 - [HTML DOM](https://htmldom.dev/) - 有用的 HTML 代码片段。
+- [Entity Code](https://entitycode.com/) - 快速的实体代码索引查询。
 
 ### HTML 工具库
 
