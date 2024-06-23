@@ -94,6 +94,10 @@
 - [Google Style Guides](https://google.github.io/styleguide/) - Google 代码风格指南。
 - [Specs vs. Tests](https://sites.google.com/site/unclebobconsultingllc/specs-vs-tests) - 如何看待测试。
 - [What is Better Specs](https://www.betterspecs.org/) - 编写更好的测试。
+- 命名（Naming）
+  - [_CODELF_](https://unbug.github.io/codelf/) - 根据关键词查找开源项目中变量命名。
+  - [Naming cheatsheet](https://github.com/kettanaito/naming-cheatsheet) - 变量命名指南。
+  - [classnames](https://classnames.paulrobertlloyd.com/)
 
 ### 项目管理
 
@@ -208,8 +212,6 @@ _Technical documentation._
 
 _Coding skills._
 
-- [Naming cheatsheet](https://github.com/kettanaito/naming-cheatsheet) - 变量命名指南。
-  - [CODELF](https://unbug.github.io/codelf/) - 根据关键词查找开源项目中变量命名。
 - [The Art of Command Line](https://github.com/jlevy/the-art-of-command-line) - 命令行的艺术，技巧。
 - [COMMANDLINEFU.COM](https://www.commandlinefu.com/commands/browse) - 汇集了很多优秀的、充满智慧的、简洁的命令行命令。
 - [Bash Pitfalls](http://mywiki.wooledge.org/BashPitfalls) - 此页面汇总了 Bash 用户常犯的编程错误。
