@@ -324,6 +324,7 @@ _Technical blog._
 
 - [2ality](https://2ality.com/archive.html) - JavaScript、Web 开发、移动计算相关。
 - [Bob Nystrom](https://journal.stuffwithstuff.com/) - 游戏开发、编程语言。
+- [The Design System Guide](https://thedesignsystem.guide/) - 设计系统指南。
 
 [`Go Top ↑`](#awesome-development-resources)
 
