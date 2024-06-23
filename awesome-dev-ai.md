@@ -99,6 +99,7 @@ _Development Framework._
   - [Every front-end GUI client for ChatGPT API](https://github.com/billmei/every-chatgpt-gui) 
   - [Lobe Chat](https://github.com/lobehub/lobe-chat)
   - [Chatbot UI](https://github.com/mckaywrigley/chatbot-ui)
+  - [nlux](https://docs.nlkit.com/nlux)
 
 - Low Code
   - [flowise](https://flowiseai.com/) - 开源 UI 可视化工具，用于构建定制的 LLM 编排流程和 AI 代理。
