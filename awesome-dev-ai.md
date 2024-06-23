@@ -48,6 +48,7 @@ _Tutorial._
 - [People + AI Guidebook](https://pair.withgoogle.com/guidebook) - 一套使用 AI 进行设计的方法、最佳实践和示例。
 - [Prompt Engineering Guide](https://www.promptingguide.ai/)
 - [Awesome-LLM](https://github.com/Hannibal046/Awesome-LLM) - 大语言模型相关的论文资讯等。
+- [Elicit Machine Learning Reading List](https://github.com/elicit/machine-learning-list) - 学习机器学习背景知识。
 
 [`Go Top ↑`](#awesome-ai-dev-list)
 
