@@ -49,6 +49,7 @@ _Tutorial._
 - [Prompt Engineering Guide](https://www.promptingguide.ai/)
 - [Awesome-LLM](https://github.com/Hannibal046/Awesome-LLM) - 大语言模型相关的论文资讯等。
 - [Elicit Machine Learning Reading List](https://github.com/elicit/machine-learning-list) - 学习机器学习背景知识。
+- [LeeDL-Tutorial](https://github.com/datawhalechina/leedl-tutorial) - 台湾大学李宏毅教授的深度学习教程。
 
 [`Go Top ↑`](#awesome-ai-dev-list)
 
