@@ -404,6 +404,9 @@
   - [node-qrcode](https://github.com/soldair/node-qrcode) - 二维码生成。
   - [Awesome-qr.js](https://www.bitcat.cc/webapp/awesome-qr/index.html) - 个性化二维码生成。（ :warning: 不再更新）
 
+- 条形码（BarCode）
+  - [bwip-js](https://github.com/metafloor/bwip-js) 
+
 - 文件（File）
   - utils tools
     - [fs-extra](https://github.com/jprichardson/node-fs-extra) - 作为官方原生 [`fs`](https://nodejs.org/api/fs.html) 模块的补充和优化。
