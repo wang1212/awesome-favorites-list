@@ -288,6 +288,7 @@
 - Three.js
   - [《Three.js Essentials》](http://informatics.edu.mn/three.js/files/book/ThreejsEssentials.pdf) Jos Dirksen - Three.js 基本概念和示例，**可在线免费阅读**。
 - [Game Programming Patterns](https://gameprogrammingpatterns.com/) - 游戏编程模式，**可在线免费阅读**。
+- [Introduction to Computer Graphics](https://math.hws.edu/graphicsbook/) - 计算机图形学概论，**可在线免费阅读**。
 
 #### 数据库
 
