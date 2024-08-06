@@ -346,6 +346,7 @@
     - [deepmerge](https://github.com/TehShrike/deepmerge) - 对象的深度合并，可自定义合并策略。
     - [simple-statistics](https://simple-statistics.github.io/) - 一些常用的统计方法。
     - [Radash](https://radash-docs.vercel.app/docs/getting-started) - 现代的、函数式工具库。
+    - [es-toolkit](https://es-toolkit.slash.page/)
   - 深度相等判断（Equal depth）
     - [fast-deep-equal](https://github.com/epoberezkin/fast-deep-equal) - 高性能，支持比较 ES6 Map, Set 和 Typed arrays。（ :warning: 不再更新）
     - [dequal](https://github.com/lukeed/dequal)
