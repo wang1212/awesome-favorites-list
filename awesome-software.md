@@ -57,6 +57,10 @@
 - [Scoop](https://scoop.sh/)
 - [WinGet](https://github.com/microsoft/winget-cli) - **微软官方发布**。
 
+### Others
+
+- [Homebrew](https://brew.sh/) - macOS / Linux。
+
 [`Go Top ↑`](#awesome-software)
 
 ## Chrome 扩展程序
