@@ -700,9 +700,10 @@
 
 - [Slant](https://www.slant.co/) - 搜索最佳实践。
 - [小众软件](https://www.appinn.com/) - 小众软件推荐网站。
-- [MSDN, I tell you](https://msdn.itellyou.cn/) - 可下载系统镜像文件。
+- [MSDN, I tell you](https://msdn.itellyou.cn/) - 可下载系统镜像文件，**非微软官方站点**。
   - [HelloWindows.cn](https://hellowindows.cn/)
 - [Free All We Need](https://free.appnee.com/) - 软件注册工具下载。
+- [MIUIver](https://miuiver.com/) - MIUI 历史版本包下载，**非小米官方站点**。
 - [冰点软件](http://www.bingdian001.com/) - 很多实用小工具，尤其冰点文库相当好用。
 - [Listen 1](https://listen1.github.io/listen1/) - 音乐聚合搜索。
 
