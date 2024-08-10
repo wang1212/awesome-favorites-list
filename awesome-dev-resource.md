@@ -599,6 +599,8 @@ _Coding Statistics._
 
 _Terminal, Console, Shell, and Command Line._
 
+_see also 👉 https://github.com/cdleon/awesome-terminals_
+
 - Multi-platform
   - [hyper](https://hyper.is/)
   - [PowerShell](https://github.com/PowerShell/PowerShell)
