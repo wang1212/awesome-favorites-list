@@ -570,10 +570,10 @@ _Coding Statistics._
 
 *API document management and testing.*
 
-- [Postman](https://www.getpostman.com/) - 一个非常棒的 API 管理工具。
-- [Insomnia](https://insomnia.rest/) - API 接口测试工具。
+- [Postman](https://www.getpostman.com/) - 一个非常棒的 API 管理工具，**商业软件，提供免费版本**。
+- [Insomnia](https://insomnia.rest/) - API 接口测试工具，**商业软件**。
 - [hoppscotch](https://hoppscotch.io/) - API 接口测试、管理，**开源软件**。
-- [HTTPie](https://httpie.org/) - HTTP 客户端，类似 curl，人类可读。
+- [HTTPie](https://httpie.org/) - HTTP 客户端，类似 curl，人类可读，**开源软件**。
 - [Mockoon](https://mockoon.com/) - Mock API 服务，**开源软件**。
 
 ### 服务器远程管理
