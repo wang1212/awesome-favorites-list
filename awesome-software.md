@@ -380,16 +380,18 @@
 
 *Practical tools, such as software tools such as translation and notes.*
 
-- [PowerToys](https://github.com/microsoft/PowerToys) - 实用工具集，**微软出品，免费软件**。
-- [Listary](https://www.listary.com/) - 可快速搜索文件，启动应用软件，**个人用户免费**。
-- [ShareX](https://getsharex.com/) - 截屏、录屏、文本转换、DNS 更换等等，生产力工具，**开源软件**。
-- [CopyTranslator](https://github.com/CopyTranslator/CopyTranslator) - 桌面划词翻译，**开源软件**。
-- [Rainmeter](https://www.rainmeter.net/) - Windows 桌面自定义小工具，**开源软件**。
-- [uTools](http://www.u.tools/) - 生产力工具，包含许多小工具，**免费软件**。
-- [Module Art](https://moduleart.github.io/) - 软件集合，包含图片浏览器、录屏软件等，**开源软件**。
-- [Flow Launcher](https://www.flowlauncher.com/) - 应用启动器，**开源软件**。
-- [Gitify](https://www.gitify.io/) - Github 通知提醒，**开源软件**。
-- [Ice](https://github.com/jordanbaird/Ice) - 菜单栏管理工具，**开源软件**。`MacOS`
+- Toolbox
+  - [PowerToys](https://github.com/microsoft/PowerToys) - 实用工具集，**微软出品，开源软件**。
+  - [ShareX](https://getsharex.com/) - 截屏、录屏、文本转换、DNS 更换等等，生产力工具，**开源软件**。
+  - [uTools](http://www.u.tools/) - 生产力工具，包含许多小工具，**免费软件**。
+  - [DevToys](https://github.com/DevToys-app/DevToys) - 开发生产力工具箱，**开源软件**。
+  
+- Others
+  - [Listary](https://www.listary.com/) - 可快速搜索文件，启动应用软件，**个人用户免费**。
+  - [CopyTranslator](https://github.com/CopyTranslator/CopyTranslator) - 桌面划词翻译，**开源软件**。
+  - [Module Art](https://moduleart.github.io/) - 软件集合，包含图片浏览器、录屏软件等，**开源软件**。
+  - [Flow Launcher](https://www.flowlauncher.com/) - 应用启动器，**开源软件**。
+  - [Gitify](https://www.gitify.io/) - Github 通知提醒，**开源软件**。
 
 #### 粘贴板
 
@@ -613,6 +615,8 @@
 - [SwitchHosts](https://swh.app/) - 快速切换 hosts 方案的实用工具，**开源软件**。
 - [Process Lasso](https://bitsum.com/) - 实时的 CPU 资源自动调度，保证系统级别的响应能力，**提供免费版本**。
 - [stats](https://github.com/exelban/stats) - 系统信息监视器，**开源软件**。`MacOS`
+- [Rainmeter](https://www.rainmeter.net/) - Windows 桌面自定义小工具，**开源软件**。
+- [Ice](https://github.com/jordanbaird/Ice) - 菜单栏管理工具，**开源软件**。`MacOS`
 
 #### 磁盘清理
 
