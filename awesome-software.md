@@ -11,7 +11,7 @@
 
 - [应用程序商店（Application store）](#应用程序商店)
 - [软件包管理器（Software Package Manager）](#软件包管理器)
-- [Chrome 扩展程序（Chrome Extension）](#chrome-扩展程序)
+- [Chrome 扩展应用（Chrome Extension）](#chrome-扩展应用)
 - [浏览器端（Web && PWA）](#浏览器端)
 - [安卓端（Android）](#安卓端)
 - [桌面端（Desktop）](#桌面端)
@@ -42,6 +42,7 @@
 - Others
   - [Product Hunt](https://www.producthunt.com/) - 最受欢迎的科技产品发布站点。
   - [All Things AI](https://allthingsai.com/) - 最新 AI 工具和服务的精选目录。
+  - _[Awesome macOS open source applications](https://github.com/serhii-londar/open-source-mac-os-apps#window-management) - 出色的 MacOS 开源应用列表。_
 
 [`Go Top ↑`](#awesome-software)
 
@@ -63,7 +64,7 @@
 
 [`Go Top ↑`](#awesome-software)
 
-## Chrome 扩展程序
+## Chrome 扩展应用
 
 *[Chrome](https://www.google.com/chrome/) browser extension.*
 
@@ -455,6 +456,7 @@
 - [Xtreme Download Manager](https://subhra74.github.io/xdm/) - 提供了很多浏览器插件支持，支持视频格式转换，**开源软件**。
 - [qBittorrent](https://www.qbittorrent.org/) - BitTorrent 下载工具，**开源软件**。
 - [aria2](https://aria2.github.io/) - 命令行工具，支持多协议、高速文件下载工具，**开源软件**。
+- [motrix](https://motrix.app/) - 全功能下载管理工具，**开源软件**。
 
 #### 管理工具
 
