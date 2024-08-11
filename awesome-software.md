@@ -388,6 +388,7 @@
 - [Module Art](https://moduleart.github.io/) - 软件集合，包含图片浏览器、录屏软件等，**开源软件**。
 - [Flow Launcher](https://www.flowlauncher.com/) - 应用启动器，**开源软件**。
 - [Gitify](https://www.gitify.io/) - Github 通知提醒，**开源软件**。
+- [Ice](https://github.com/jordanbaird/Ice) - 菜单栏管理工具，**开源软件**。`MacOS`
 
 #### 粘贴板
 
