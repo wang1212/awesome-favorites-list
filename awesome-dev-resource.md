@@ -630,7 +630,7 @@ _see also 👉 https://github.com/cdleon/awesome-terminals_
 - [Modern Unix](https://github.com/ibraheemdev/modern-unix) - 常见 Unix 命令更好的替代品。
   - [tldr](https://tldr.sh/) - 类似于 `man` 命令，简化版的命令手册文档。
   - [htop](https://htop.dev/) - 类似于 `top` 命令，交互式进程浏览器。
-  - [exa](https://the.exa.website/) - 类似于 `ls` 命令。
+  - [eza](https://github.com/eza-community/eza) - 类似于 `ls` 命令。
   - [fd](https://github.com/sharkdp/fd) -  类似于 `find` 命令，更简单好用。
   - [bat](https://github.com/sharkdp/bat) - 类似于 `cat` 命令，支持语法高亮等特性。
   - [ripgrep](https://github.com/BurntSushi/ripgrep) - 类似于 `grep` 命令。
