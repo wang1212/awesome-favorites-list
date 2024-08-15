@@ -608,13 +608,14 @@
 *System management and maintenance tools.*
 
 - [CPU-Z](https://www.cpuid.com/softwares/cpu-z.html) - CPU 检测工具。
-- [GPU-Z](https://www.techpowerup.com/gpuz/) - GPU 检测工具。
-- [LeoMoon CPU-V](https://leomoon.com/downloads/desktop-apps/leomoon-cpu-v/) - 检测 CPU 是否支持硬件虚拟化。
+  - [GPU-Z](https://www.techpowerup.com/gpuz/) - GPU 检测工具。
+  - [LeoMoon CPU-V](https://leomoon.com/downloads/desktop-apps/leomoon-cpu-v/) - 检测 CPU 是否支持硬件虚拟化。
 - [Dism++](https://www.chuyu.me/) - 实用的系统优化维护工具。
 - [ActivityWatch](https://activitywatch.net/) - 跟踪设备时间进行统计，**开源软件**。
 - [WhatPulse](https://whatpulse.org/) - 记录 PC 活动情况，例如统计键盘热力图、带宽情况等等，**提供免费版本**。
 - [Dns Jumper](https://www.sordum.org/7952/dns-jumper-v2-2/) - 测速、快速切换 DNS 工具，**免费软件**。
 - [SwitchHosts](https://github.com/oldj/SwitchHosts) - 快速切换 hosts 方案的实用工具，**开源软件**。
+  - [HostsX](https://github.com/ZzzM/HostsX) - 切换 hosts 配置，**开源软件**。`MacOS`
 - [Process Lasso](https://bitsum.com/) - 实时的 CPU 资源自动调度，保证系统级别的响应能力，**提供免费版本**。
 - [stats](https://github.com/exelban/stats) - 系统信息监视器，**开源软件**。`MacOS`
 - [Rainmeter](https://www.rainmeter.net/) - Windows 桌面自定义小工具，**开源软件**。
