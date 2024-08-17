@@ -312,6 +312,7 @@
     - [Hotkeys](https://wangchujiang.com/hotkeys/) - 处理键盘事件。
     - [Hotkey](https://github.com/github/hotkey) - 处理键盘事件。
   - [Selecto.js](https://github.com/daybrush/selecto) - 拖动选择元素，支持鼠标和触摸事件。
+  - [Swapy](https://swapy.tahazsh.com/) - 使布局支持拖动交换。
 
 - Cookie
   - [js-cookie](https://github.com/js-cookie/js-cookie) - 轻量的 Cookie 处理工具库。
