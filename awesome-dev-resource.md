@@ -371,6 +371,8 @@ _see also 👉  [Web 端软件资源](./awesome-software.md#浏览器端)_
   - [RegEx Pal Tester](https://www.regexpal.com/)
   - [iHateRegex](https://ihateregex.io/)
   - [regexr](https://regexr.com/)
+  - [RegexLearn](https://regexlearn.com/)
+  - [RegexOne](https://regexone.com/)
 
 - Converter
   - [Excel to JSON](https://exceltojson.com/) - Excel 转 JSON 数据。
