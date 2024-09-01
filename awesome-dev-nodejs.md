@@ -97,6 +97,7 @@
   - [release-please](https://github.com/googleapis/release-please) - 自动生成更新日志、版本更新、创建 Github Release。
   - [Denoify](https://github.com/garronej/denoify) - 为 npm 模块作者提供 Deno 支持。
   - [auto-changelog](https://github.com/CookPete/auto-changelog) - 根据提交记录和标签生成更新日志。
+  - [yalc](https://www.npmjs.com/package/yalc) - 类似 `npm link` 的工具。
 
 - 包搜索（Package Search）
   - [npm.io](https://npm.io/) - 聚合搜索引擎。
