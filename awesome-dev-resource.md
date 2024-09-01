@@ -390,6 +390,7 @@ _see also 👉  [Web 端软件资源](./awesome-software.md#浏览器端)_
 - 其它（Others）
   - [Public APIs](https://github.com/public-apis/public-apis) - 免费的公共 API 集合。
   - [Administrative-divisions-of-China](https://github.com/modood/Administrative-divisions-of-China) - 中华人民共和国行政区划（五级）名称数据。
+  - [Free Public APIs](https://www.freepublicapis.com/)
 
 ### 设计工具
 
