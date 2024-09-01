@@ -140,6 +140,7 @@
   - [The System Design Primer](https://github.com/donnemartin/system-design-primer) - 学习构建大型系统。
   - [System Design 101](https://github.com/ByteByteGoHq/system-design-101) - 用图表展示系统架构设计，**ByteByteGo 出品**。
   - [System Design Cheatsheet](https://gist.github.com/vasanthk/485d1c25737e8e72759f) - 系统设计备忘单。
+  - [system-design](https://github.com/systemdesign42/system-design)
 
 - 其它（Others）
   - [https://12factor.net/](https://12factor.net/) - 开发应用的十二要素。
