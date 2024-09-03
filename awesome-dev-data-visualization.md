@@ -66,6 +66,8 @@ _[AWESOME DATA SCIENCE](https://github.com/academic/awesome-datascience)_
 
 ### JavaScript
 
+- [fpsmeter](https://github.com/darsain/fpsmeter) - FPS 监视器。
+
 #### 可视化工具
 
 *Data visualization tool library.*
