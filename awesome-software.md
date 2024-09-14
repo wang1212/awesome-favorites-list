@@ -399,8 +399,9 @@
 
 *Clipboard.*
 
+- [Clipy](https://clipy-app.com/) - 粘贴板历史记录工具，**开源软件**。`MacOS`
+- [Ditto](https://ditto-cp.sourceforge.io/) - 粘贴板历史记录工具，**开源软件**。`Windows`
 - [CopyQ](https://hluk.github.io/CopyQ/) - 粘贴板管理工具，**开源软件**。
-- [Ditto](https://ditto-cp.sourceforge.io/) - 粘贴板管理工具，**开源软件**。
 - [PasteEx](https://github.com/huiyadanli/PasteEx) - 将粘贴板内容保存成文件，**开源软件**。
 
 #### 录屏与截屏
