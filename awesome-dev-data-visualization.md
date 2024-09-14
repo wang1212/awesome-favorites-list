@@ -67,6 +67,7 @@ _[AWESOME DATA SCIENCE](https://github.com/academic/awesome-datascience)_
 ### JavaScript
 
 - [fpsmeter](https://github.com/darsain/fpsmeter) - FPS 监视器。
+- [canvas-size](https://github.com/jhildenbiddle/canvas-size) - 判断底层实现对 Canvas 大小的限制。
 
 #### 可视化工具
 
