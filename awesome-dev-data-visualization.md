@@ -85,6 +85,7 @@ _[AWESOME DATA SCIENCE](https://github.com/academic/awesome-datascience)_
     - [View 3D](https://naver.github.io/egjs-view3d/) - 快速且可定制的 glTF 3D 模型查看器，功能齐全。
   - Tools
     - [stackgl](http://stack.gl/) - 编写着色器代码的工具集。
+    - [glslify](https://github.com/glslify/glslify) - Node.js 风格的模块化 GLSL。
     - [gl-matrix](https://glmatrix.net/) - 为 WebGL 应用提供高性能的矩阵属性运算能力。
   - [three.js](https://threejs.org/) - 3D WebGL 渲染引擎。
     - [three-stdlib](https://github.com/pmndrs/three-stdlib) - 用 TypeScript 重写的 [`threejs/examples/jsm`](https://github.com/mrdoob/three.js/tree/dev/examples/jsm) 的独立 npm 包。
