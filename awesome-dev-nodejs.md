@@ -291,6 +291,9 @@
   - [stylelint](https://stylelint.io/) - CSS 语法规则检查工具，支持 CSS/Sass/CSS-in-JS 等。
   - [Flow](https://flow.org/) - Facebook 出品的 JavaScript 静态类型检查工具。
   - [sonar.js](https://github.com/SonarSource/sonarjs) - 代码质量分析。
+  - AST - Abstract Syntax Tree
+    - [acorn](https://github.com/acornjs/acorn) - JavaScript AST 解析工具。
+    - [ts-morph](https://ts-morph.com/) - TypeScript AST 解析工具。
 
 - 代码版本管理（Code version management ）
   - [husky](https://github.com/typicode/husky) - 更容易的使用 [Git Hooks](https://git-scm.com/book/it/v2/Customizing-Git-Git-Hooks)。
