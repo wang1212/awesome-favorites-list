@@ -382,7 +382,6 @@
   - [api-extractor](https://api-extractor.com/) - 帮助更好的管理 TypeScript 编写的包。
   - [ts-reset](https://github.com/total-typescript/ts-reset) - 增强内置类型。
   - [tsdiagram](https://tsdiagram.com/) - 可视化类型定义。
-  - [ts-ast-viewer](https://ts-ast-viewer.com/) - 语法抽象树查看器。
 
 [`Go Top ↑`](#awesome-web-front-end-list)
 
@@ -709,6 +708,7 @@
 
 - [Read JavaScript Source Code, Using an AST](https://www.digitalocean.com/community/tutorials/js-traversing-ast) - 文章，通过 AST 了解 JavaScript 源码。
 - [AST Explorer](https://astexplorer.net/) - 在线预览 JavaScript 代码片段的 AST。
+- [ts-ast-viewer](https://ts-ast-viewer.com/) - 语法抽象树查看器。
 
 ### 性能分析
 
