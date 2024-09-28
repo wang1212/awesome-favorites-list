@@ -722,6 +722,9 @@
   - [Perfume.js](https://zizzamia.github.io/perfume/) - 性能监控工具。
   - [stats.js](http://mrdoob.github.io/stats.js/) - 性能监控调试面板。
 
+- 其它（Others）
+  - [Maybe you don't need Rust and WASM to speed up your JS](https://mrale.ph/blog/2018/02/03/maybe-you-dont-need-rust-to-speed-up-your-js.html)
+
 ### 应用架构
 
 *Application architecture patterns.*
