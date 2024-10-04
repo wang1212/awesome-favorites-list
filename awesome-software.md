@@ -720,6 +720,8 @@
 - [MIUIver](https://miuiver.com/) - MIUI 历史版本包下载，**非小米官方站点**。
 - [冰点软件](http://www.bingdian001.com/) - 很多实用小工具，尤其冰点文库相当好用。
 - [Listen 1](https://listen1.github.io/listen1/) - 音乐聚合搜索。
-- [iptv-sources](https://github.com/HerbertHe/iptv-sources) - 自动更新 iptv 源。
+- IPTV
+  - [iptv](https://github.com/iptv-org/iptv)
+  - [iptv-sources](https://github.com/HerbertHe/iptv-sources) - 自动更新 iptv 源。
 
 [`Go Top ↑`](#awesome-software)
