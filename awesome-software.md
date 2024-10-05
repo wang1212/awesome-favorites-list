@@ -15,6 +15,7 @@
 - [浏览器端（Web && PWA）](#浏览器端)
 - [安卓端（Android）](#安卓端)
 - [桌面端（Desktop）](#桌面端)
+- [电视端（TV）](#电视端)
 - [操作系统（Operating System）](#操作系统)
 - [更多（More）](#更多)
 
@@ -680,6 +681,15 @@
 
 [`Go Top ↑`](#awesome-software)
 
+## 电视端
+
+_TV._
+
+> :point_right: https://github.com/iptv-org/awesome-iptv
+
+- [iptv](https://github.com/iptv-org/iptv) - 来自世界各地的公开 IPTV 频道集合。
+- [iptv-sources](https://github.com/HerbertHe/iptv-sources) - 自动更新 iptv 源。
+
 ## 操作系统
 
 *Operating system.*
@@ -720,8 +730,5 @@
 - [MIUIver](https://miuiver.com/) - MIUI 历史版本包下载，**非小米官方站点**。
 - [冰点软件](http://www.bingdian001.com/) - 很多实用小工具，尤其冰点文库相当好用。
 - [Listen 1](https://listen1.github.io/listen1/) - 音乐聚合搜索。
-- IPTV
-  - [iptv](https://github.com/iptv-org/iptv)
-  - [iptv-sources](https://github.com/HerbertHe/iptv-sources) - 自动更新 iptv 源。
 
 [`Go Top ↑`](#awesome-software)
