@@ -186,6 +186,7 @@
   - [clinic.js](https://clinicjs.org/) - 性能分析、监控、指标收集。
   - [Tinybench](https://github.com/tinylibs/tinybench) - 基准测试。
   - [mitata](https://github.com/evanwashere/mitata) - 基准测试，支持自动 GC，可视化结果。
+  - [autocannon](https://github.com/mcollina/autocannon) - HTTP 请求基准测试。
 
 - 测试（Test）
   - [Mocha](https://mochajs.org/)
