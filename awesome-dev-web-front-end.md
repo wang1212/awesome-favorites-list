@@ -345,11 +345,13 @@
     - [FileSaver.js](https://github.com/eligrey/FileSaver.js/) - Web 浏览器客户端文件保存 api 实现。
     - [StreamSaver.js](https://github.com/jimmywarting/StreamSaver.js) - Web 浏览器客户端异步保存文件 api 实现，解决了 FileSaver 的大小限制问题。
   - image
+    - [Jimp](https://jimp-dev.github.io/jimp/) - 图片操作库。
     - [Pica](http://nodeca.github.io/pica/demo/) - 图片质量调整。
     - [merge-images](https://github.com/lukechilds/merge-images) - 图片拼接合并。
     - [blurify](https://github.com/JustClear/blurify) - 图片模糊化。
     - [Compressor.js](https://fengyuanchen.github.io/compressorjs/) - 图片压缩。
     - [Lena.js](https://fellipe.com/demos/lena-js/) - 图片滤镜。
+    - [image-js](https://github.com/image-js/image-js) - 图片数据科学处理。
   - audio
     - [howler.js](https://howlerjs.com/) - 强大的音频处理工具库，支持所有的编解码器，跨浏览器支持。
   - svg
