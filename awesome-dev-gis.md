@@ -216,5 +216,7 @@ _Available in browser（JavaScript）. **Tips:** Most of what is available in th
 - [GeoJSON.io](http://geojson.io/)
 - [Geospatial Data Cloud](http://www.gscloud.cn/)
 - [mapscii](https://github.com/rastapasta/mapscii) - 地图命令行渲染器，支持交互。
+- 文章（Article）
+  - [How to use OpenStreetMap and OS digital maps](https://www.cumbriasoaringclub.co.uk/kb/osm.php)
 
 [`Go Top ↑`](#awesome-gis-list)
