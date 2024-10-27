@@ -201,10 +201,13 @@ _Technical documentation._
 
 - [Big-O Cheat Sheet](https://www.bigocheatsheet.com/)
 - [The Algorithms](https://the-algorithms.com/) - 学习算法和数据结构及其在多个语言中的实现。
-- [VisuAlgo](https://visualgo.net/zh) - 可视化算法过程。
-- [Pathfinding Visualizer](https://josephprichard.github.io/Pathfinder/) - 寻路算法可视化工具。
-- [Data Structure Visualizations](https://www.cs.usfca.edu/~galles/visualization/) - 数据结构可视化。
-- [Hello 算法](https://www.hello-algo.com/) - 图解算法。
+
+- 算法可视化（Algorithm Visualization）
+  - [VisuAlgo](https://visualgo.net/zh) - 可视化算法过程。
+  - [Pathfinding Visualizer](https://josephprichard.github.io/Pathfinder/) - 寻路算法可视化工具。
+  - [Data Structure Visualizations](https://www.cs.usfca.edu/~galles/visualization/) - 数据结构可视化。
+  - [Hello 算法](https://www.hello-algo.com/) - 图解算法。
+  - [algoviz](https://www.algoviz.app/)
 
 - JavaScript
   - [JavaScript Algorithms and Data Structures](https://github.com/trekhleb/javascript-algorithms) - 算法和数据结构。
