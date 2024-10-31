@@ -723,6 +723,7 @@
 - 工具（Tools）
   - [Perfume.js](https://zizzamia.github.io/perfume/) - 性能监控工具。
   - [stats.js](http://mrdoob.github.io/stats.js/) - 性能监控调试面板。
+  - [fpsmeter](https://github.com/darsain/fpsmeter) - FPS 监视器。
 
 - 其它（Others）
   - [Maybe you don't need Rust and WASM to speed up your JS](https://mrale.ph/blog/2018/02/03/maybe-you-dont-need-rust-to-speed-up-your-js.html)
