@@ -100,6 +100,7 @@ _Development Framework._
   - [Lobe Chat](https://github.com/lobehub/lobe-chat)
   - [Chatbot UI](https://github.com/mckaywrigley/chatbot-ui)
   - [nlux](https://docs.nlkit.com/nlux)
+  - [assistant-ui](https://github.com/Yonom/assistant-ui)
 
 - Low Code
   - [flowise](https://flowiseai.com/) - 开源 UI 可视化工具，用于构建定制的 LLM 编排流程和 AI 代理。
