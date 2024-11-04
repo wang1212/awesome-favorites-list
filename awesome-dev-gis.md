@@ -8,7 +8,7 @@
 
 > 地理信息系统（Geographic Information System或 Geo－Information system，GIS）有时又称为“地学信息系统”。它是一种特定的十分重要的空间信息系统。它是在计算机硬、软件系统支持下，对整个或部分地球表层（包括大气层）空间中的有关地理分布数据进行采集、储存、管理、运算、分析、显示和描述的技术系统。
 
-（Recommend）推荐一个其它的很棒的收藏列表，:point_right: https://github.com/sshuair/awesome-gis
+（Recommend）推荐一个其它的很棒的收藏列表， :point_right: https://github.com/sshuair/awesome-gis
 
 ## 目录
 
