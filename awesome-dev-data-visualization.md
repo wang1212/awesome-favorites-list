@@ -37,7 +37,8 @@ _[AWESOME DATA SCIENCE](https://github.com/academic/awesome-datascience)_
 
 - 文档资料（Docs）
   - [InfoVis:Wiki](https://infovis-wiki.net/wiki/Main_Page) - 信息可视化社区平台。
-  - [OpenGL Wiki](https://www.khronos.org/opengl/wiki)
+  - OpenGL
+    - [OpenGL.org](https://www.opengl.org/) - OpenGL 标准、资源，**官方站点**。
     - [docs.GL](https://docs.gl/) - OpenGL API 文档，**非官方**。
   - [Graphics Related Lessons](https://github.com/gfxfundamentals)
     - [WebGL Fundamentals](https://webglfundamentals.org/) - WebGL 基础知识。
