@@ -40,6 +40,8 @@ _[AWESOME DATA SCIENCE](https://github.com/academic/awesome-datascience)_
   - OpenGL
     - [OpenGL.org](https://www.opengl.org/) - OpenGL 标准、资源，**官方站点**。
     - [docs.GL](https://docs.gl/) - OpenGL API 文档，**非官方**。
+  - Vulkan
+    - [Vulkan.org](https://www.vulkan.org/) - **官方站点**。
   - WebGL
     - [WebGL Guide](https://xem.github.io/articles/webgl-guide.html) - _WebGL 技术指南。_
     - [WebGL Fundamentals](https://webglfundamentals.org/) - WebGL 基础知识。
