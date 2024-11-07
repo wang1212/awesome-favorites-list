@@ -40,13 +40,14 @@ _[AWESOME DATA SCIENCE](https://github.com/academic/awesome-datascience)_
   - OpenGL
     - [OpenGL.org](https://www.opengl.org/) - OpenGL 标准、资源，**官方站点**。
     - [docs.GL](https://docs.gl/) - OpenGL API 文档，**非官方**。
-  - [Graphics Related Lessons](https://github.com/gfxfundamentals)
+  - WebGL
+    - [WebGL Guide](https://xem.github.io/articles/webgl-guide.html) - _WebGL 技术指南。_
     - [WebGL Fundamentals](https://webglfundamentals.org/) - WebGL 基础知识。
     - [WebGL2 Fundamentals](https://webgl2fundamentals.org/) - WebGL2 基础知识。
     - [Three.js Fundamentals](https://threejs.org/manual/) - Three.js 基础知识。
+  - [_Graphics Related Lessons_](https://github.com/gfxfundamentals)
     - [CS307: Computer Graphics](https://cs.wellesley.edu/~cs307/index.html) - 计算机图形学公开课。
-  - [WebGL Guide](https://xem.github.io/articles/webgl-guide.html) - *WebGL 技术指南。*
-  - [CSC8820 Advanced Graphics Algorithms](https://slideplayer.com/slide/12894894/) - 一些图形算法介绍。
+    - [CSC8820 Advanced Graphics Algorithms](https://slideplayer.com/slide/12894894/) - 一些图形算法介绍。
   - [Discover three.js](https://discoverthreejs.com/book/) - 介绍了开始探索 3D Web 图形所需的所有重要概念和术语。
   - [High Dynamic Range Image Encodings](http://www.anyhere.com/gward/hdrenc/hdr_encodings.html)
 
