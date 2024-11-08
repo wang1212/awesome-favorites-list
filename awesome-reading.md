@@ -273,8 +273,8 @@
 
 *Computer Graphics.*
 
-- [Real-Time Rendering](https://www.realtimerendering.com/)
-  - [Real-Time-Rendering-4th-CN](https://github.com/Morakito/Real-Time-Rendering-4th-CN) - 中文翻译，**可在线免费阅读，非官方**。
+- [《Real-Time Rendering》](https://www.realtimerendering.com/)
+  - [《Real-Time-Rendering-4th-CN》](https://github.com/Morakito/Real-Time-Rendering-4th-CN) - 中文翻译，**可在线免费阅读，非官方**。
 - [《Learn OpenGL》](https://learnopengl.com/) - 学习 OpenGL，**可在线免费阅读**。
 - [《OpenGL Book》](https://openglbook.com/) - 学习 OpenGL，**可在线免费阅读**。
 - [《WebGL Insights》](https://webglinsights.github.io/index.html) - WebGL 技术实践，**免费阅读**。
