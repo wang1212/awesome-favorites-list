@@ -785,7 +785,7 @@
   - [webhint](https://webhint.io/) - 类似 Lighthouse，**OpenJS 基金会**项目。
   - [Waterfaller](https://waterfaller.dev/) - 用来分析站点网络请求并提供优化建议的工具。
   - [Yellow Lab  Tools](https://yellowlab.tools/) - 站点分析优化工具。
-  - [Varvy SEO tool](https://varvy.com/) - 一个在线网站 SEO、性能检测工具，提供优化建议和技巧。
+  - [Varvy SEO tool](https://varvys.com/) - 一个在线网站 SEO、性能检测工具，提供优化建议和技巧。
   - [What Web Can Do](https://whatwebcando.today/) - 可以检测当前设备所支持的 Web API，主要检测硬件设备传感器等，**非官方网站**。
 
 - 其它（Others）
