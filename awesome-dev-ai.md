@@ -47,6 +47,7 @@ _Tutorial._
 - [AI GUIDE](https://ai-guide.future.mozilla.org/) - AI 指南，**Mozilla 发布**。
 - [People + AI Guidebook](https://pair.withgoogle.com/guidebook) - 一套使用 AI 进行设计的方法、最佳实践和示例。
 - [Prompt Engineering Guide](https://www.promptingguide.ai/)
+  - [Thinking-Claude](https://github.com/richards199999/Thinking-Claude) - 让 Claude 思考后再回答。
 - [Awesome-LLM](https://github.com/Hannibal046/Awesome-LLM) - 大语言模型相关的论文资讯等。
 - [Elicit Machine Learning Reading List](https://github.com/elicit/machine-learning-list) - 学习机器学习背景知识。
 - [LeeDL-Tutorial](https://github.com/datawhalechina/leedl-tutorial) - 台湾大学李宏毅教授的深度学习教程。
