@@ -76,5 +76,6 @@ _Build tools._
 _Tool library._
 
 - [spin](https://github.com/fermyon/spin) - 构建基于 WebAssembly 的微服务框架。
+- [extism](https://extism.org/) - 跨语言框架。
 
 [`Go Top ↑`](#awesome-webassembly-list)
