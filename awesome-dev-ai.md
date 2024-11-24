@@ -91,6 +91,7 @@ _Development Framework._
   - [LangChain](https://docs.langchain.com/) - 开发基于 LLMs 的应用程序。
   - [Haystack](https://haystack.deepset.ai/) - 端到端的 NLP 框架，可构建基于 LLMs、Transformer 模型等的 NLP 应用，例如智能文档检索系统。
   - [mastra](https://mastra.ai/)
+  - [pipecat](https://www.pipecat.ai/) - 语音和多模态会话人工智能应用的开发框架。
 
 - RAG
   - [LlamaIndex](https://gpt-index.readthedocs.io/en/latest/index.html) - 数据框架，供 LLM 应用程序摄取、构建和访问私有或特定领域的数据。
