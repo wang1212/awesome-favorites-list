@@ -53,6 +53,7 @@ _[AWESOME DATA SCIENCE](https://github.com/academic/awesome-datascience)_
   - [Discover three.js](https://discoverthreejs.com/book/) - 介绍了开始探索 3D Web 图形所需的所有重要概念和术语。
   - [High Dynamic Range Image Encodings](http://www.anyhere.com/gward/hdrenc/hdr_encodings.html)
   - [Life of a Pixel](https://docs.google.com/presentation/d/1boPxbgNrTU0ddsc144rcXayGA_WF53k96imRH8Mp34Y/edit#slide=id.ga884fe665f_64_6) - 像素渲染的原理解析。
+  - [AAA - Analytical Anti-Aliasing](https://blog.frost.kiwi/analytical-anti-aliasing/) - 分析抗锯齿技术。
 
 - 公共资源（Public Resource）
   - [Shadertoy](https://www.shadertoy.com/) - 着色器代码分享。
