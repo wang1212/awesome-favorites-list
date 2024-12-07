@@ -59,6 +59,7 @@
     - [CRACO](https://craco.js.org/) - Create React App 的包装层，简化自定义配置。
 
 - 代码质量分析（Lint）
+  - [Million Lint](https://million.dev/)
 
 - 测试（Test）
 
