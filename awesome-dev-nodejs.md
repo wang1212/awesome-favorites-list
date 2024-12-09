@@ -115,6 +115,7 @@
   - [pkg.land](https://pkg.land/) - 寻找替代模块（方案）。
   - [publint](https://publint.dev/) - 发现包的发布错误，并给出建议。
   - [npm graph](https://npmgraph.js.org/) - 以树图分析 npm 包依赖。
+  - [npmpackage.info](https://npmpackage.info/)
 
 - [Monorepo](https://en.wikipedia.org/wiki/Monorepo) 工具（Monorepo Tools）
   - [*monorepo.tools*](https://monorepo.tools/)
