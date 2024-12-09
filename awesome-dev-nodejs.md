@@ -377,6 +377,7 @@
   - [Day.js](https://github.com/iamkun/dayjs) - 现代化、轻量级日期、时间处理库。
   - [ms](https://github.com/vercel/ms) - 毫秒和人类可读字符串格式互相转换工具。
   - [pretty-ms](https://github.com/sindresorhus/pretty-ms) - 毫秒转换为人类可读字符串。
+  - [spacetime](https://github.com/spencermountain/spacetime) - 日期计算器。
 
 - 科学计算（Compute - Math && High precision && Scientific Computing）
   - [math.js](https://mathjs.org/) - 基本数学计算。
