@@ -328,6 +328,7 @@
   - [FlexSearch](https://github.com/nextapps-de/flexsearch)
   - [search-index](https://github.com/fergiemcdowall/search-index)
   - [MiniSearch](https://lucaong.github.io/minisearch/)
+  - [pagefind](https://pagefind.app/) - 页面搜索工具。
 
 - 客户端数据库（Client Database）
   - [localForage](https://github.com/localForage/localForage) - 离线存储，对 IndexedDB、WebSQL、localStorage 的封装。
