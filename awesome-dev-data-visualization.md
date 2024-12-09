@@ -125,6 +125,7 @@ _[AWESOME DATA SCIENCE](https://github.com/academic/awesome-datascience)_
   - [Fabric.js](http://fabricjs.com/) - 2D 绘图库，支持 Canvas、SVG。
   - [Two.js](https://two.js.org/) - Web 2D 绘图工具库，基于 Canvas、Svg、WebGL。
   - [PixiJS](https://www.pixijs.com/) - 2D WebGL 渲染引擎，高性能。
+  - [Skia Canvas](https://skia-canvas.org/) - 非浏览器环境下基于 skia 的画布实现。
   - 文本处理
     - [canvas-txt](https://canvas-txt.geongeorge.com/)
     - [canvas-hypertxt](https://github.com/glideapps/canvas-hypertxt)
