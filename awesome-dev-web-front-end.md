@@ -450,6 +450,7 @@
 - [egjs](https://naver.github.io/egjs/) - 提供多个可用的独立组件。
 - [Theme UI](https://theme-ui.com/) - 设计图框架。
 - [shadcn/ui](https://ui.shadcn.com/)
+- [Spark UI](https://spark-ui.dev/) - 动画组件。
 
 #### 独立组件
 
