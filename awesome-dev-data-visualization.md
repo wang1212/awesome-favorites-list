@@ -169,6 +169,7 @@ _[AWESOME DATA SCIENCE](https://github.com/academic/awesome-datascience)_
     - [flowchart.js](http://flowchart.js.org/) - 流程图。
     - [markmap.js](https://markmap.js.org/) - Markdown 转思维导图。
     - [Penrose](https://penrose.cs.cmu.edu/)
+    - [markwhen](https://markwhen.com/) - 用 markdown 生成时间线图表。
   - [Textures.js](https://riccardoscalco.it/textures/) - 创建 SVG 模式。
   - [ztext.js](https://bennettfeely.com/ztext/) - 实现文字 3D 效果。
   - [P5.js](https://p5js.org/) - 可视化工具。
