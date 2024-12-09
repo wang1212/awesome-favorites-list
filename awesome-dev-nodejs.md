@@ -86,6 +86,7 @@
   - [Yarn](https://www.yarnpkg.com/)
   - [pnpm](https://pnpm.js.org/) - 支持 **Monorepo** 仓库。
   - [Bower](https://bower.io/) - （ :warning: 不再积极维护）
+  - [vlt](https://www.vlt.sh/client)
 
 - 包开发（Package Development）
   - `npm publish`
