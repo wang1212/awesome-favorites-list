@@ -154,6 +154,7 @@ _[AWESOME DATA SCIENCE](https://github.com/academic/awesome-datascience)_
     - [bonsai.js](https://bonsaijs.org/) - SVG 渲染器。
     - [lazy line painter](https://github.com/camoconnell/lazy-line-painter) - SVG 路径动画。
   - [mo.js](https://mojs.github.io/) - 丰富，强大的运动图形动画工具库。
+  - [Kinesis](https://kinesisjs.com/) - 复杂的动画工具。
 
 - 游戏引擎（Game Engine）
   - [Babylon.js](https://www.babylonjs.com/) - 3D 游戏渲染引擎。
