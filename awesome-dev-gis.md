@@ -46,6 +46,7 @@
   - [Data File Header Structure for the dBASE Version 7 Table File](http://www.dbase.com/Knowledgebase/INT/db7_file_fmt.htm)
 - [GeoPackage](https://www.geopackage.org/) - 开放的地理空间信息数据格式。
 - [COG](https://cogeo.org/) - 云优化的 GeoTIFF 格式。
+- [SpatioTemporal Asset Catalogs](https://stacspec.org/en) - 时空资产目录，统一交付时空数据集。
 
 *More others 👉 [Awesome-Development-Technical-Standard-Specifications](awesome-dev-specifications.md)*
 
@@ -137,6 +138,7 @@ _Available in browser（JavaScript）. **Tips:** Most of what is available in th
   
 - Python
   - [TileStache](http://tilestache.org/) - 基于 Python、Mapnik 的地图瓦片服务器。
+  - [titiler](https://github.com/developmentseed/titiler) - 建立在 FastAPI 和 Rasterio/GDAL 之上的现代动态切片服务器。
 
 - Others
   - [ArcGIS Server](https://enterprise.arcgis.com/) - 性能很好，**ESRI 公司开发的商业软件**。
@@ -198,6 +200,7 @@ _Available in browser（JavaScript）. **Tips:** Most of what is available in th
 *GIS System Platform.*
 
 - [OpenStreetMap](https://www.openstreetmap.org/) - 一个**开放**的全球地图数据平台。
+  - [Protomaps](https://protomaps.com/) - 单文件世界地图。
 - [QGIS](https://www.qgis.org/) - 开源数据可视化，编辑，分析工具平台，**OSGeo 项目**。
 - [OpenDroneMap](https://www.opendronemap.org/) - 无人机航片拼图工具平台，**开源。**
 - [MapTiler](https://www.maptiler.com/) - 一个提供地图设计，地图托管工具，地图服务等资源的平台，**开源。**
