@@ -37,6 +37,8 @@ _News._
 - [Google AI Blog](https://ai.googleblog.com/)
 - [Dr. Andrew Ng](https://www.andrewng.org/) - 吴恩达的博客。
 - [ruder.io](https://www.ruder.io/)
+- [aigc.cn](https://www.aigc.cn/) - AI 相关产品导航。
+- [AIGCRank.cn](https://aigcrank.cn/) - 榜单。
 
 [`Go Top ↑`](#awesome-ai-dev-list)
 
