@@ -44,6 +44,8 @@
   - [ESRI Shapefile Info](https://www.loc.gov/preservation/digital/formats/fdd/fdd000280.shtml)
   - [Data File Header Structure for the dBASE Version 7 Table File](http://www.dbase.com/Knowledgebase/INT/db7_file_fmt.htm)
 - [GeoPackage](https://www.geopackage.org/) - 开放的地理空间信息数据格式。
+- [COG](https://cogeo.org/) - 云优化的 GeoTIFF 格式。
+- [PMTiles](https://github.com/protomaps/PMTiles) - 单文件瓦片数据存档。
 
 *More others 👉 [Awesome-Development-Technical-Standard-Specifications](awesome-dev-specifications.md)*
 
@@ -73,8 +75,6 @@
 ## 地理空间库
 
 *Geospatial libraries, some libraries or modules that support manipulation of geospatial data.*
-
-- [PMTiles](https://github.com/protomaps/PMTiles) - 单文件瓦片数据存档。
 
 ### C++
 
