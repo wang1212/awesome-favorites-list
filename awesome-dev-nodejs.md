@@ -292,6 +292,7 @@
 - 代码静态分析（Code Static Analysis）
   - [ESLint](https://eslint.org/) - JavaScript 语法规则检查工具。
   - [Prettier](https://prettier.io/) - 代码格式化工具，支持多种语言。
+  - [Biome](https://biomejs.dev/) - 快速格式化程序，兼容 ESLint/Prettier。
   - [stylelint](https://stylelint.io/) - CSS 语法规则检查工具，支持 CSS/Sass/CSS-in-JS 等。
   - [Flow](https://flow.org/) - Facebook 出品的 JavaScript 静态类型检查工具。
   - [sonar.js](https://github.com/SonarSource/sonarjs) - 代码质量分析。
