@@ -586,6 +586,7 @@ _Coding Statistics._
 - [hoppscotch](https://hoppscotch.io/) - API 接口测试、管理，**开源软件**。
 - [HTTPie](https://httpie.org/) - HTTP 客户端，类似 curl，人类可读，**开源软件**。
 - [Mockoon](https://mockoon.com/) - Mock API 服务，**开源软件**。
+- [Bruno](https://docs.usebruno.com/) - Git 友好的 HTTP 客户端，**开源软件**。
 
 ### 服务器远程管理
 
