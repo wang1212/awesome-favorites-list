@@ -78,10 +78,13 @@ _Tools._
  
 - 数据转换（Data conversion）
   - [Markdowner](https://md.dhr.wtf/) - 将网页转换为适合大语言模型处理的 Markdown 格式。
+ 
+- 其它（Others）
 
 ### Python
 
 - [OpenLLM](https://github.com/bentoml/OpenLLM) - 大模型的微调、部署、监控等。
+- [browser-use](https://github.com/browser-use/browser-use) - 将 AI 代理与浏览器连接。
 
 [`Go Top ↑`](#awesome-ai-dev-list)
 
