@@ -39,7 +39,7 @@
 - [数据可视化（Data Visualization）](./awesome-dev-data-visualization.md#javascript)
 - [开发框架（Framework）](#开发框架)
 - [应用状态管理（Application State Management）](#应用状态管理)
-- [Progressive web apps](#pwa)
+- [渐进式 Web 应用（Progressive Web Apps）](#pwa)
 - [WebAssembly](awesome-dev-web-webassembly.md)
 - [深入探索（Explore In Depth）](#深入探索)
 - [更多（More）](#更多)
