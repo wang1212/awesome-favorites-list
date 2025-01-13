@@ -17,6 +17,7 @@
 - [技术规范标准（Technical Specifications）](#技术规范标准)
 - [技术参考文档（Technical Reference Document）](#技术参考文档)
 - [论坛社区（Forum Community）](#论坛社区)
+- [在线工具](#在线工具)
 - [地理空间库（Geospatial Library）](#地理空间库)
 - [空间数据库（Spatial Database）](#空间数据库)
 - [地图服务器（Map Server）](#地图服务器)
@@ -70,6 +71,25 @@
 - [ArcGIS 知乎](http://zhihu.geoscene.cn/) - 由 Esri 中国创办。
 - [GeospatialOnline](https://www.geospatialonline.com/)
 - [GIS Lounge](https://www.gislounge.com/)
+
+[`Go Top ↑`](#awesome-gis-list)
+
+## 在线工具
+
+*Online geographic data tools.*
+
+- 在线数据（Online Data）
+  - [GeoConverter](https://geoconverter.infs.ch/) - 通过 Web 在线地图服务导出 GeoTiff 数据。
+  - [Geospatial Data Cloud](http://www.gscloud.cn/) - 在线数据下载。
+
+- 坐标转换（Coordinate Transformation）
+  - [坐标系转换](https://www.lddgo.net/base/class?classID=8)
+  - [gdal3.js](https://gdal3.js.org/) - 栅格矢量数据转换。
+  - [MyGeodata](https://mygeodata.cloud/) - 在线地理数据转换工具。
+
+- 数据预览、编辑（Data Preview and Editing）
+  - [TileJSON.io](https://tilejson.io/)
+  - [GeoJSON.io](http://geojson.io/) - 一个快速、简单的工具，用于创建、查看和共享地图。
 
 [`Go Top ↑`](#awesome-gis-list)
 
@@ -217,13 +237,9 @@ _Available in browser（JavaScript）. **Tips:** Most of what is available in th
 - [ESRI](https://www.esri.com/) - GIS 行业商业巨头，ArcGIS 发布者的官网。
 - [Mapillary](https://www.mapillary.com/) - 街景地图平台。
 - [Mapzen](https://www.mapzen.com/)
-- [mygeodata](https://mygeodata.cloud/converter/) - 在线地理数据转换工具。
-- [GeoConverter](https://geoconverter.hsr.ch/) - 通过 Web 在线地图服务导出 GeoTiff 数据。
-- [TileJSON.io](https://tilejson.io/)
-- [GeoJSON.io](http://geojson.io/)
-- [Geospatial Data Cloud](http://www.gscloud.cn/)
 - [mapscii](https://github.com/rastapasta/mapscii) - 地图命令行渲染器，支持交互。
 - 文章（Article）
   - [How to use OpenStreetMap and OS digital maps](https://www.cumbriasoaringclub.co.uk/kb/osm.php)
+- [DipperMap](https://nav.dippermap.com/) - 地图资源导航站。
 
 [`Go Top ↑`](#awesome-gis-list)
