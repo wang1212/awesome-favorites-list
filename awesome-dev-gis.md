@@ -227,6 +227,7 @@ _Available in browser（JavaScript）. **Tips:** Most of what is available in th
 - [OpenMapTiler](https://openmaptiles.org/) - 基于 OSM 数据，提供**全套开源**工具以进行全球地图样式设计和自托管地图服务。
 - [ArcGIS](https://www.arcgis.com/) - GIS 行业商业巨头，其商业软件几乎为行业标准，**商业软件**。
 - [carto](https://carto.com/) - 空间数据分析平台。
+- [Felt](https://felt.com/product) - 在线制作个性化地图和应用。
 
 [`Go Top ↑`](#awesome-gis-list)
 
