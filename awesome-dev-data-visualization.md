@@ -248,6 +248,7 @@ _[AWESOME DATA SCIENCE](https://github.com/academic/awesome-datascience)_
   - [dom-confetti](https://github.com/daniel-lundin/dom-confetti) - 五彩纸屑动画。
   - [Canvas Confetti](https://www.kirilv.com/canvas-confetti/) - 五彩纸屑动画。
   - [Vanta.js](https://www.vantajs.com/) - 数款页面 WebGL 背景动画。
+  - [Wavesurfer.js](https://wavesurfer.xyz/) - 开源音频可视化库，用于创建交互式、可自定义的波形。
 
 - :point_right: React.js
 
