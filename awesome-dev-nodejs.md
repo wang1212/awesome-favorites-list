@@ -462,6 +462,7 @@
     - [officegen](https://github.com/Ziv-Barber/officegen) - 生成 Office 文档。
     - [docx](https://github.com/dolanmiu/docx) - 生成 docx 文档。
     - [mammoth](https://github.com/mwilliamson/mammoth.js) - docx 转换成 HTML。
+    - [docxtemplater](https://docxtemplater.com/docs/goals/) - 根据模板生成 docx、pptx、xlsx 文档。
   - pptx
     - [PptxGenJS](https://gitbrent.github.io/PptxGenJS/) - 生成 `pptx` 文件。
   - pdf
