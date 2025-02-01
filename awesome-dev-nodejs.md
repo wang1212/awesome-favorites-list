@@ -214,6 +214,7 @@
   - [Nock](https://github.com/nock/nock) - 模拟 API 服务，响应指定测试数据。
   - [Mock.js](http://mockjs.com/) - 模拟 API 服务，响应随机测试数据。
   - [Mock Service Worker](https://mswjs.io/) - 利用 `Service Worker` API 拦截请求并实现 Mock API。
+  - [Mentoss](https://mentoss.dev/) - 模拟 fetch 请求。
   - [Mirage JS](https://miragejs.com/)
   - [faker.js](https://github.com/marak/faker.js) - 生成大量随机测试数据，可用来开发过程中进行 API 调试。
   - [Chance](https://chancejs.com/) - 生成随机的测试数据。
