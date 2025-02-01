@@ -80,6 +80,7 @@ _Tools._
   - [Markdowner](https://md.dhr.wtf/) - 将网页转换为适合大语言模型处理的 Markdown 格式。
  
 - 其它（Others）
+  - [jscanify](https://colonelparrot.github.io/jscanify/) - 文档扫描库，能够检测和突出显示文档图像。
 
 ### Python
 
