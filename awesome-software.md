@@ -516,7 +516,8 @@
 - [HandBrake](https://handbrake.fr/) - 视频格式转换工具，**开源软件**。
 - [FFmpeg](http://ffmpeg.org/) - 命令行工具，完整的、跨平台的解决方案，用于记录、转换和流传输音频和视频，**开源软件**。
   - [LosslessCut](https://github.com/mifi/lossless-cut) - GUI 客户端。
-  - [editly](https://github.com/mifi/editly)
+  - [editly](https://github.com/mifi/editly) - 使用 node.js 和 ffmpeg 的声明性 NLE（非线性视频编辑）的工具和框架。
+  - [FFmpeg By Example](https://ffmpegbyexample.com/) - 一个文档网站，可展示使用FFMPEG的所有独特和不同的方法。
 
 #### 压缩文档
 
