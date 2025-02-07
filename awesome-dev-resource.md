@@ -721,7 +721,7 @@ _see also 👉 https://github.com/cdleon/awesome-terminals_
   - [mitmproxy](https://www.mitmproxy.org/) - Python 开发的 HTTPS 代理，**开源免费**。
   - [whistle](https://wproxy.org/whistle/)
 
-- Others
+- 其它（Others）
   - [screego](https://screego.net/#/) - 屏幕共享服务器。
   - [netdata](https://www.netdata.cloud/) - 系统指标监控 Web 平台，**开源免费**。
   - [Skia](https://skia.org/) - 2D 渲染引擎，在 Chrome、Chrome OS、Android、Flutter、Mozilla Firefox 等产品中使用。
@@ -750,6 +750,11 @@ _Static site tool._
   - [render](https://render.com/)
   - [netlify](https://www.netlify.com/)
   - [surge](https://surge.sh/help/getting-started-with-surge)
+
+- 评论系统（Comment System）
+  - [gitalk](https://github.com/gitalk/gitalk) - 基于 github 的 issues。
+  - [utterances](https://github.com/utterance/utterances) - 基于 github 的 issues。
+  - [giscus](https://giscus.app/) - 基于 github 的 Discussions。
 
 [`Go Top ↑`](#awesome-development-resources)
 
