@@ -576,6 +576,7 @@ _Coding Statistics._
     - GitHub Apps
       - [imgbot](https://github.com/marketplace/imgbot) - 图片压缩优化。
       - [Renovate](https://github.com/renovatebot/renovate) - 依赖自动管理。
+      - [Mend](https://github.com/marketplace/whitesource-bolt) - 漏洞扫描和修复。
   - [GitLab](https://about.gitlab.com/) - 支持本地部署。
   - [Bitbucket](https://bitbucket.org/)
   - [Gitee](https://gitee.com/) - 码云，国内[开源中国](https://www.oschina.net/)推出。
