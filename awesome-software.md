@@ -383,7 +383,12 @@
 
 *Practical tools, such as software tools such as translation and notes.*
 
-- Toolbox
+- 启动器（Launcher）
+  - [Listary](https://www.listary.com/) - 可快速搜索文件，启动应用软件，**个人用户免费**。
+  - [Flow Launcher](https://www.flowlauncher.com/) - 应用启动器，**开源软件**。`Windows`
+  - [Raycast](https://www.raycast.com/) - **可免费使用**。`MacOS`
+ 
+- 工具箱（Toolbox）
   - [PowerToys](https://github.com/microsoft/PowerToys) - 实用工具集，**微软出品，开源软件**。
   - [ShareX](https://getsharex.com/) - 截屏、录屏、文本转换、DNS 更换等等，生产力工具，**开源软件**。
   - [uTools](http://www.u.tools/) - 生产力工具，包含许多小工具，**免费软件**。
@@ -394,10 +399,8 @@
   - [neat](https://neat.run/) - **开源软件**。
   
 - Others
-  - [Listary](https://www.listary.com/) - 可快速搜索文件，启动应用软件，**个人用户免费**。
   - [CopyTranslator](https://github.com/CopyTranslator/CopyTranslator) - 桌面划词翻译，**开源软件**。
   - [Module Art](https://moduleart.github.io/) - 软件集合，包含图片浏览器、录屏软件等，**开源软件**。
-  - [Flow Launcher](https://www.flowlauncher.com/) - 应用启动器，**开源软件**。
   - [rime](https://rime.im/) - 输入法算法框架，**开源软件**。
 
 #### 粘贴板
