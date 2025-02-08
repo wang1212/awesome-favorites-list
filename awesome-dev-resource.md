@@ -569,6 +569,10 @@ _Coding Statistics._
 - 公共代码托管平台（Public code hosting platform）
   - [GitHub](https://github.com/)
     - [github1s](https://github.com/conwnet/github1s) - 可直接在浏览器的 VS Code 中打开 GitHub 仓库代码。
+    - GitHub Action
+      - [checkout](https://github.com/actions/checkout)
+      - [super-linter](https://github.com/super-linter/super-linter)
+      - [stale](https://github.com/actions/stale)
   - [GitLab](https://about.gitlab.com/) - 支持本地部署。
   - [Bitbucket](https://bitbucket.org/)
   - [Gitee](https://gitee.com/) - 码云，国内[开源中国](https://www.oschina.net/)推出。
