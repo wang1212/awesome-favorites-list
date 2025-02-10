@@ -152,7 +152,7 @@
   - [cssdb](https://cssdb.org/) - CSS 新特性列表。
   - [CSS Triggers](https://csstriggers.com/) - 一些改变会导致重绘、重布局的 CSS 属性。
     - [What forces layout / reflow](https://gist.github.com/paulirish/5d52fb081b3570c81e3a) - 一些会导致重绘、重布局的 DOM 操作。
-  - [CSS Reference](https://cssreference.io/) - CSS 视觉指南。
+  - [CSS Reference](https://cssreference.io/) - CSS 视觉指南，通过示例直观的学习 css。
 
 - 工具（Tools）
   - [CSS Layout](https://csslayout.io/) - 流行的 CSS 布局方案参考。
