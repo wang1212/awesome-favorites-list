@@ -247,7 +247,9 @@
 - [diagrams.net](https://www.diagrams.net/) - 流程图、UML 图绘制工具，**开源软件**。（提供安装包版本）
 - [mermaid.live](https://mermaid.live/) - [mermaid](https://mermaid-js.github.io/mermaid/) 实时编辑器，**开源软件**。
 - [PlantUML](https://plantuml.com/) - 快速使用简洁的文本描述生成 UML 图。
-- [svg-path-editor](https://yqnn.github.io/svg-path-editor/) - [svg `path`](https://developer.mozilla.org/en-US/docs/Web/SVG/Attribute/d) 编辑器。
+- SVG Viewer & Editor
+  - [SVGViewer](https://www.svgviewer.dev/)
+  - [svg-path-editor](https://yqnn.github.io/svg-path-editor/) - [svg `path`](https://developer.mozilla.org/en-US/docs/Web/SVG/Attribute/d) 编辑器。
 - 虚拟白板（virtual whiteboard）
   - [excalidraw](https://excalidraw.com/) - 虚拟手绘风格白板，支持协作，**开源软件**。
   - [tldraw](https://www.tldraw.com/) - 虚拟白板，支持协作，**开源软件**。
