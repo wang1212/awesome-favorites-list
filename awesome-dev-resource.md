@@ -488,6 +488,7 @@ _see also 👉  [Web 端软件资源](./awesome-software.md#浏览器端)_
   - [GitHub Dark](https://github.com/StylishThemes/GitHub-Dark) - GitHub 网站界面黑夜模式。
   - [GitHub Hovercard](https://justineo.github.io/github-hovercard/) - 悬浮卡片。
 - [CodeCopy](https://github.com/zenorocha/codecopy) - 为网站上的代码块提供复制到粘贴板按钮。
+- [ModHeader](https://modheader.com/) - 用于修改 HTTP 请求和响应标头。
 - [daily.dev | The Homepage Developers Deserve](https://daily.dev/) - 开发者新闻汇总。
 
 ### 测试
