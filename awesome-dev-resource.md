@@ -412,7 +412,7 @@ _see also 👉  [Web 端软件资源](./awesome-software.md#浏览器端)_
 
 *Placeholder image service.*
 
-- [Placeholder.com](https://placeholder.com/) - 图片、灰度图、文本。
+- [Placeholder.com](https://placehold.co/) - 图片、灰度图、文本。
 - [Fake images please?](https://fakeimg.pl/) - 灰度图、文本，**免费开源**。
 - [Dynamic Dummy Image Generator](https://dummyimage.com/) - 灰度图、文本。
 - [Lorem Picsum](https://picsum.photos/) - 图片。
