@@ -7,7 +7,7 @@
 
 <br />
 
-（Recommend）推荐看看 W3C（World Wide Web Consortium，万维网联盟） 官方网站，:point_right: <https://www.w3.org/>
+（Recommend）推荐看看 W3C（World Wide Web Consortium，万维网联盟） 官方网站， :point_right: <https://www.w3.org/>
 
 ## 目录
 
