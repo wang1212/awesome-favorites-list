@@ -383,6 +383,8 @@
 - [React Fiber Architecture](https://github.com/acdlite/react-fiber-architecture) - React Fiber 架构简介。
 - [Good advice on JSX conditionals](https://thoughtspile.github.io/2022/01/17/jsx-conditionals/) - 更好的使用 JSX 语法。
 - [bulletproof-react](https://github.com/alan2207/bulletproof-react) - 一个简单、可扩展且功能强大的参考项目架构，用于构建生产就绪的 React 应用程序。
+- [The Interactive Guide to Rendering in React](https://ui.dev/why-react-renders) - 用动画解释 React 中的渲染模式。
+  - [react visualized](https://react.gg/visualized)
 
 [`Go Top ↑`](#awesome-reactjs-list)
 
