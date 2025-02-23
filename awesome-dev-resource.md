@@ -555,6 +555,7 @@ _Coding Statistics._
   - [Resources to learn Git](http://try.github.io/) - 学习 Git 的文档。
   - [Git Explorer](https://gitexplorer.com/) - Git 命令参考。
   - [Learn Git Branching](https://learngitbranching.js.org/) - 在线 Git 命令互动式学习。
+  - [Beej's Guide to Git](https://beej.us/guide/bggit/html/split/)
   - [A collection of .gitignore templates](https://github.com/github/gitignore) - 不同类型项目的 `.gitignore` 文件模板。
     - [gitignore.io](https://www.toptal.com/developers/gitignore) - 根据关键词生成 `.gitignore` 文件模板。
   - [Sourcetree](https://www.sourcetreeapp.com/) - 免费的 Git 客户端，支持 Windows 和 Mac。
