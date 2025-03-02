@@ -122,6 +122,7 @@ _Development Framework._
 
 - Others
   - [Vercel AI SDK](https://sdk.vercel.ai/docs) - 开发对话流应用的 SDK。
+  - [mastra](https://mastra.ai/) - 开发 Agent 应用，支持工具调用、工作流、RAG 等等。
   - [LMQL](https://lmql.ai/) - LLMs 编程语言。
 
 [`Go Top ↑`](#awesome-ai-dev-list)
