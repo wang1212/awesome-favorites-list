@@ -83,6 +83,7 @@ _Open datasets available for free use._
   - [Protomaps](https://protomaps.com/) - 单文件世界地图。
 - [GeoNames](https://www.geonames.org/) - 地理位置名称数据集。
 - [Administrative-divisions-of-China](https://github.com/modood/Administrative-divisions-of-China) - 中华人民共和国行政区划（五级）名称数据。
+- [Geospatial Data Cloud](http://www.gscloud.cn/) - 在线数据下载，中国科学院提供。
 
 [`Go Top ↑`](#awesome-gis-list)
 
@@ -92,7 +93,6 @@ _Open datasets available for free use._
 
 - 在线数据（Online Data）
   - [GeoConverter](https://geoconverter.infs.ch/) - 通过 Web 在线地图服务导出 GeoTiff 数据。
-  - [Geospatial Data Cloud](http://www.gscloud.cn/) - 在线数据下载。
 
 - 坐标转换（Coordinate Transformation）
   - [坐标系转换](https://www.lddgo.net/base/class?classID=8)
