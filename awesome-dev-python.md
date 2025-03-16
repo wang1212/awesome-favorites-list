@@ -76,6 +76,9 @@ _Some build tools that can be used to configure the environment, compile, type c
   - [pytest](https://docs.pytest.org/) - 单元测试框架。
   - [Faker](https://github.com/joke2k/faker) - 生成随机数据。
 
+- 命令行应用（CLIs）
+  - [Typer](https://typer.tiangolo.com/)
+
 [`Go Top ↑`](#awesome-python-list)
 
 ## 工具库
@@ -115,6 +118,7 @@ _Command-line applications, build tools and utilities._
 _Database._
 
 - [SQLAlchemy](https://www.sqlalchemy.org/) - Python SQL 工具包和 ORM 库。
+- [SQLModel](https://sqlmodel.tiangolo.com/)
 
 [`Go Top ↑`](#awesome-python-list)
 
