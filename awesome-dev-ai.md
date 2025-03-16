@@ -81,6 +81,7 @@ _Tools._
  
 - 其它（Others）
   - [jscanify](https://colonelparrot.github.io/jscanify/) - 文档扫描库，能够检测和突出显示文档图像。
+  - [stagehand](https://github.com/browserbase/stagehand) - 人工智能网页浏览工具，兼容 Playwright。
 
 ### Python
 
