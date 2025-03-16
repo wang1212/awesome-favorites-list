@@ -16,6 +16,7 @@ _（Recommend） :point_right: [awesome-artificial-intelligence](https://github.
 - [社区（Community）](#社区)
 - [资讯（News）](#资讯)
 - [教程（Tutorial）](#教程)
+- [AI 编程应用（AI Native Programming Tool Application）](#ai编程应用)
 - [工具（Tools）](#工具)
 - [开发框架（Development Framework）](#开发框架)
 - [其它（Others）](#其它)
@@ -53,6 +54,14 @@ _Tutorial._
 - [Awesome-LLM](https://github.com/Hannibal046/Awesome-LLM) - 大语言模型相关的论文资讯等。
 - [Elicit Machine Learning Reading List](https://github.com/elicit/machine-learning-list) - 学习机器学习背景知识。
 - [LeeDL-Tutorial](https://github.com/datawhalechina/leedl-tutorial) - 台湾大学李宏毅教授的深度学习教程。
+
+[`Go Top ↑`](#awesome-ai-dev-list)
+
+## AI 编程应用
+
+_AI native programming tool application._
+
+- [bolt](https://bolt.new/) - 通过 AI 直接生成页面应用项目代码。
 
 [`Go Top ↑`](#awesome-ai-dev-list)
 
