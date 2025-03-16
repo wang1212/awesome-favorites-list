@@ -143,6 +143,7 @@ _Development Framework._
   - [AutoGen](https://microsoft.github.io/autogen/)
   - [SuperAGI](https://github.com/TransformerOptimus/SuperAGI)
   - [Langroid](https://langroid.github.io/langroid/)
+  - [openai-agents](https://github.com/openai/openai-agents-python) - 构建多智能体工作流。
 
 - Others
   - [Vercel AI SDK](https://sdk.vercel.ai/docs) - 开发对话流应用的 SDK。
