@@ -66,20 +66,22 @@ _AI native programming tool application._
 
 - [bolt](https://bolt.new/) - 通过 AI 直接生成页面应用项目代码。
 
+- 非结构化数据集管理（Unstructured Dataset Management）
+  - [Nomic Atlas](https://atlas.nomic.ai/) - 非结构化数据集的探索、管理、检索和搜索。
+  - [jina](https://jina.ai/) - 非结构化数据集搜索。
+
 [`Go Top ↑`](#awesome-ai-dev-list)
 
 ## 工具
 
 _Tools._
 
-- [Gradio](https://gradio.app/) - 快速构建机器学习应用。
-- [Streamlit](https://streamlit.io/) - 快速构建数据应用。
 - [LocalAI](https://localai.io/) - 一种本地的离线 OpenAI REST API 替代品。
 - [jsonformer](https://github.com/1rgs/jsonformer) - 让大模型输出 JSON 结构化的数据格式。
 
 ### JavaScript
 
-- 模型加载（Models）
+- 模型加载（Backend and Model Access）
   - [Transformers.js](https://xenova.github.io/transformers.js/)
 
 - 光学字符识别（OCR）
@@ -100,6 +102,10 @@ _Tools._
 - [OpenLLM](https://github.com/bentoml/OpenLLM) - 大模型的微调、部署、监控等。
 - [browser-use](https://github.com/browser-use/browser-use) - 将 AI 代理与浏览器连接。
 
+- 模型加载（Backend and Model Access）
+  - [transformers](https://github.com/huggingface/transformers)
+  - [ollama](https://ollama.com/) - 启动并运行大型语言模型。
+
 [`Go Top ↑`](#awesome-ai-dev-list)
 
 ## 开发框架
@@ -108,14 +114,19 @@ _Development Framework._
 
 - Common
   - [LangChain](https://docs.langchain.com/) - 开发基于 LLMs 的应用程序。
+  - [Metaflow](https://metaflow.org/) - 构建 AI/ML 系统的框架。
   - [Haystack](https://haystack.deepset.ai/) - 端到端的 NLP 框架，可构建基于 LLMs、Transformer 模型等的 NLP 应用，例如智能文档检索系统。
   - [mastra](https://mastra.ai/)
   - [pipecat](https://www.pipecat.ai/) - 语音和多模态会话人工智能应用的开发框架。
+  - [Gradio](https://gradio.app/) - 快速构建机器学习应用。
+  - [Streamlit](https://streamlit.io/) - 快速构建数据应用。
 
 - RAG
   - [LlamaIndex](https://gpt-index.readthedocs.io/en/latest/index.html) - 数据框架，供 LLM 应用程序摄取、构建和访问私有或特定领域的数据。
+  - [cognita](https://github.com/truefoundry/cognita) - 组件化、模块化方案。
   - [embedchain](https://github.com/embedchain/embedchain) - 构建 RAG 应用的框架。
   - [PrivateGPT](https://docs.privategpt.dev/overview) - 构建私有 RAG 应用的 SDK。
+  - [llmware](https://llmware-ai.github.io/llmware/)
 
 - Chatbot
   - [Every front-end GUI client for ChatGPT API](https://github.com/billmei/every-chatgpt-gui) 
