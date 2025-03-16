@@ -396,13 +396,15 @@ _see also 👉  [Web 端软件资源](./awesome-software.md#浏览器端)_
 
 - 天气（Weather）
   - [OpenWeather](https://openweathermap.org/) - 全球城市天气预报。
-  - [visualcrossing](https://www.visualcrossing.com/)
+  - [Visual Crossing](https://www.visualcrossing.com/)
   - [Weatherbit.io](https://www.weatherbit.io/)
+  - [Open-Meteo](https://open-meteo.com/) - 天气服务，**开源**。
 
 - 其它（Others）
   - [Public APIs](https://github.com/public-apis/public-apis) - 免费的公共 API 集合。
   - [Free Public APIs](https://www.freepublicapis.com/)
   - [GIS Datasets](awesome-dev-gis.md#开放数据) - 开放地理数据集。
+  - [QR Code Generator](https://goqr.me/api/) - 二维码生成。
 
 ### 设计工具
 
