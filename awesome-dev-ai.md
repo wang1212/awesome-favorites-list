@@ -16,7 +16,7 @@ _（Recommend） :point_right: [awesome-artificial-intelligence](https://github.
 - [社区（Community）](#社区)
 - [资讯（News）](#资讯)
 - [教程（Tutorial）](#教程)
-- [AI 编程应用（AI Native Programming Tool Application）](#ai编程应用)
+- [AI 编程应用（AI Native Programming Tool Application）](#ai-编程应用)
 - [工具（Tools）](#工具)
 - [开发框架（Development Framework）](#开发框架)
 - [其它（Others）](#其它)
