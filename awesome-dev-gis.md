@@ -17,6 +17,7 @@
 - [技术规范标准（Technical Specifications）](#技术规范标准)
 - [技术参考文档（Technical Reference Document）](#技术参考文档)
 - [论坛社区（Forum Community）](#论坛社区)
+- [开放数据（Open Datasets）](#开放数据)
 - [在线工具（Online Tools）](#在线工具)
 - [地理空间库（Geospatial Library）](#地理空间库)
 - [空间数据库（Spatial Database）](#空间数据库)
@@ -71,6 +72,17 @@
 - [ArcGIS 知乎](http://zhihu.geoscene.cn/) - 由 Esri 中国创办。
 - [GeospatialOnline](https://www.geospatialonline.com/)
 - [GIS Lounge](https://www.gislounge.com/)
+
+[`Go Top ↑`](#awesome-gis-list)
+
+## 开放数据
+
+_Open datasets available for free use._
+
+- [Planet OSM](https://planet.openstreetmap.org/) - OpenStreetMap 全球开放的地图数据集。
+  - [Protomaps](https://protomaps.com/) - 单文件世界地图。
+- [GeoNames](https://www.geonames.org/) - 地理位置名称数据集。
+- [Administrative-divisions-of-China](https://github.com/modood/Administrative-divisions-of-China) - 中华人民共和国行政区划（五级）名称数据。
 
 [`Go Top ↑`](#awesome-gis-list)
 
@@ -218,9 +230,7 @@ _Available in browser（JavaScript）. **Tips:** Most of what is available in th
 ## GIS 系统平台
 
 *GIS System Platform.*
-
-- [OpenStreetMap](https://www.openstreetmap.org/) - 一个**开放**的全球地图数据平台。
-  - [Protomaps](https://protomaps.com/) - 单文件世界地图。
+  
 - [QGIS](https://www.qgis.org/) - 开源数据可视化，编辑，分析工具平台，**OSGeo 项目**。
 - [OpenDroneMap](https://www.opendronemap.org/) - 无人机航片拼图工具平台，**开源。**
 - [MapTiler](https://www.maptiler.com/) - 一个提供地图设计，地图托管工具，地图服务等资源的平台，**开源。**
