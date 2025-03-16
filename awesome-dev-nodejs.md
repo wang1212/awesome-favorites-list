@@ -528,6 +528,7 @@
 - 沙箱（Sandbox）
   - [vm2](https://github.com/patriksimek/vm2)
   - [isolated-vm](https://github.com/laverdet/isolated-vm)
+  - [QuickJS](https://github.com/sebastianwessel/quickjs)
 
 - 邮件（SMTP）
   - [Nodemailer](https://nodemailer.com/) - 邮件发送。
