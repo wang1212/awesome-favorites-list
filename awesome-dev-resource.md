@@ -389,9 +389,6 @@ _see also 👉  [Web 端软件资源](./awesome-software.md#浏览器端)_
 *Public api.*
 
 - 数据集（Dataset）
-  - [Planet OSM](https://planet.openstreetmap.org/) - OpenStreetMap 开放地图数据集。
-  - [GeoNames](https://www.geonames.org/) - 地理位置名称数据集。
-  - [Administrative-divisions-of-China](https://github.com/modood/Administrative-divisions-of-China) - 中华人民共和国行政区划（五级）名称数据。
   - [NASA API](https://api.nasa.gov/) - NASA 的开放 APIs。
     - [Explore NASA Imagery and Data](https://nasa-api-explorer.vercel.app/) - 可在线浏览 NASA 数据。
   - [World Bank API](https://documents.worldbank.org/en/publication/documents-reports/api) - 世界银行的开放 APIs。
@@ -405,6 +402,7 @@ _see also 👉  [Web 端软件资源](./awesome-software.md#浏览器端)_
 - 其它（Others）
   - [Public APIs](https://github.com/public-apis/public-apis) - 免费的公共 API 集合。
   - [Free Public APIs](https://www.freepublicapis.com/)
+  - [GIS Datasets](awesome-dev-gis.md#开放数据) - 开放地理数据集。
 
 ### 设计工具
 
