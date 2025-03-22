@@ -41,6 +41,7 @@ _News._
 - [Anthropic News](https://www.anthropic.com/news)
 - [Dr. Andrew Ng](https://www.andrewng.org/) - 吴恩达的博客。
 - [ruder.io](https://www.ruder.io/)
+- [AI + a16z](https://a16z.com/ai/)
 - [aigc.cn](https://www.aigc.cn/) - AI 相关产品导航。
 - [AIGCRank.cn](https://aigcrank.cn/) - 榜单。
 
