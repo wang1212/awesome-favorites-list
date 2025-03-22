@@ -117,6 +117,7 @@ _Development Framework._
   - [Metaflow](https://metaflow.org/) - 构建 AI/ML 系统的框架。
   - [Haystack](https://haystack.deepset.ai/) - 端到端的 NLP 框架，可构建基于 LLMs、Transformer 模型等的 NLP 应用，例如智能文档检索系统。
   - [mastra](https://mastra.ai/) - 开发 Agent 应用，支持工具调用、工作流、RAG 等等。
+  - [OpenAI Agents SDK](https://openai.github.io/openai-agents-python/)
   - [pipecat](https://www.pipecat.ai/) - 语音和多模态会话人工智能应用的开发框架。
   - [Gradio](https://gradio.app/) - 快速构建机器学习应用。
   - [Streamlit](https://streamlit.io/) - 快速构建数据应用。
