@@ -211,6 +211,7 @@
 
 - 加载器（Loading / Spinners）
   - [Whirl](https://whirl.netlify.app/) - CSS Loading 动画。
+  - [loadership](https://www.loadership.com/)
 
 [`Go Top ↑`](#awesome-web-front-end-list)
 
