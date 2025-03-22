@@ -155,6 +155,7 @@
     - [highlight.js](https://highlightjs.org/) - 页面代码高亮。
     - [Prism.js](https://prismjs.com/) - 页面代码高亮。
     - [Shiki](https://shiki.matsu.io/) - 页面代码高亮。
+      - [shiki-stream](https://github.com/antfu/shiki-stream) - 支持流式输出高亮。
   - Markdown Converter
     - [markdown-styles](https://github.com/mixu/markdown-styles) - 命令行工具，将 Markdown 文件批量转换为特定主题样式的 HTML 文件。
     - [github-markdown-css](https://github.com/sindresorhus/github-markdown-css) - 最小的 Github 风格的 Markdown 样式。
