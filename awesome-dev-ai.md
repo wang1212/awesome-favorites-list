@@ -146,6 +146,9 @@ _Development Framework._
   - [SuperAGI](https://github.com/TransformerOptimus/SuperAGI)
   - [Langroid](https://langroid.github.io/langroid/)
   - [openai-agents](https://github.com/openai/openai-agents-python) - 构建多智能体工作流。
+  - Protocol
+    - [Model Context Protocol](https://modelcontextprotocol.io/)
+    - [agents.json](https://docs.wild-card.ai/agentsjson/introduction)
 
 - Others
   - [Vercel AI SDK](https://sdk.vercel.ai/docs) - 开发对话流应用的 SDK。
@@ -157,6 +160,7 @@ _Development Framework._
 
 _Others._
 
+- [llmstxt](https://llmstxt.org/) - 一种大模型友好的网站描述，类似 robots.txt。
 - [Tabby](https://tabby.tabbyml.com/) - 开源、自托管的 AI 编码助手。
 - [AnythingLLM](https://github.com/Mintplex-Labs/anything-llm) - 可自托管的全栈应用程序，用来构建私有数据集的 AI 知识库应用。
 - [AgentGPT](https://github.com/reworkd/AgentGPT) - 部署自托管的 AI 代理。
