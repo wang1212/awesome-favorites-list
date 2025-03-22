@@ -41,9 +41,9 @@ _News._
 - [Anthropic News](https://www.anthropic.com/news)
 - [Dr. Andrew Ng](https://www.andrewng.org/) - 吴恩达的博客。
 - [ruder.io](https://www.ruder.io/)
-- [AI + a16z](https://a16z.com/ai/)
+- [AI + a16z](https://a16z.com/ai/) - 全球风投机构 a16z 对 AI 领域的关注。
+  - [The Top 100 Gen AI Apps](https://a16z.com/100-gen-ai-apps/) - 全球前 100 名生成式 AI 应用榜单，每 6 个月更新一次。
 - [aigc.cn](https://www.aigc.cn/) - AI 相关产品导航。
-- [AIGCRank.cn](https://aigcrank.cn/) - 榜单。
 
 [`Go Top ↑`](#awesome-ai-dev-list)
 
