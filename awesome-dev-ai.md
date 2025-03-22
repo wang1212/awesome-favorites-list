@@ -116,7 +116,7 @@ _Development Framework._
   - [LangChain](https://docs.langchain.com/) - 开发基于 LLMs 的应用程序。
   - [Metaflow](https://metaflow.org/) - 构建 AI/ML 系统的框架。
   - [Haystack](https://haystack.deepset.ai/) - 端到端的 NLP 框架，可构建基于 LLMs、Transformer 模型等的 NLP 应用，例如智能文档检索系统。
-  - [mastra](https://mastra.ai/)
+  - [mastra](https://mastra.ai/) - 开发 Agent 应用，支持工具调用、工作流、RAG 等等。
   - [pipecat](https://www.pipecat.ai/) - 语音和多模态会话人工智能应用的开发框架。
   - [Gradio](https://gradio.app/) - 快速构建机器学习应用。
   - [Streamlit](https://streamlit.io/) - 快速构建数据应用。
@@ -147,7 +147,6 @@ _Development Framework._
 
 - Others
   - [Vercel AI SDK](https://sdk.vercel.ai/docs) - 开发对话流应用的 SDK。
-  - [mastra](https://mastra.ai/) - 开发 Agent 应用，支持工具调用、工作流、RAG 等等。
   - [LMQL](https://lmql.ai/) - LLMs 编程语言。
 
 [`Go Top ↑`](#awesome-ai-dev-list)
