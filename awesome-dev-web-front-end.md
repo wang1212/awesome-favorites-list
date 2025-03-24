@@ -436,6 +436,16 @@
 - [Material Components Web](https://material.io/develop/) - 基于 Material Design 的 Web 组件库，**Google 官方实现**。
 - [Materialize](https://materializecss.com/) - 最流行的实现了 Google Material Design 的 CSS UI 框架。
 
+#### Animation Components
+
+- [Magic UI](https://github.com/magicuidesign/magicui) - 动画组件。
+- [Spark UI](https://spark-ui.dev/) - 动画组件。
+- [Aceternity UI](https://ui.aceternity.com/)
+
+#### AI Chat
+
+- [LangUI](https://www.langui.dev/)
+
 ##### 其它（Others）
 
 - [UIkit](https://getuikit.com/) - 轻量级的现代化前端模块化 CSS 框架。
@@ -455,8 +465,6 @@
 - [egjs](https://naver.github.io/egjs/) - 提供多个可用的独立组件。
 - [Theme UI](https://theme-ui.com/) - 设计图框架。
 - [shadcn/ui](https://ui.shadcn.com/)
-- [Spark UI](https://spark-ui.dev/) - 动画组件。
-- [Magic UI](https://github.com/magicuidesign/magicui) - 动画组件。
 
 #### 独立组件
 
