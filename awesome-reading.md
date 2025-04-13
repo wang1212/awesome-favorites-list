@@ -115,6 +115,7 @@
 *Some classic and well-known journals, newspapers and magazines.*
 
 - [IEEE Spectrum](https://spectrum.ieee.org/) - IEEE 旗舰杂志和网站。
+- [Substack](https://substack.com/) - 知识订阅社区。
 
 ### 计算机技术
 
