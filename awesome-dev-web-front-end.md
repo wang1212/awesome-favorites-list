@@ -441,6 +441,7 @@
 - [Magic UI](https://github.com/magicuidesign/magicui) - 动画组件。
 - [Spark UI](https://spark-ui.dev/) - 动画组件。
 - [Aceternity UI](https://ui.aceternity.com/)
+- [Animate UI](https://animate-ui.com/)
 
 #### AI Chat
 
