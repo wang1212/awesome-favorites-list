@@ -55,12 +55,14 @@
 - 标准实现状态（Standard implementation status）
   - [compatibility table](https://node.green/) - 可查询 ECMAScript API 在各个版本 Node.js 实现的状态，**非官方网站**。
 
-- [Node.js 中文网](http://nodejs.cn/) - 唯一与官方同步更新的 Node.js 中文文档。
+- 测试（Test）
+  - [Testing From A To Z](https://testjavascript.com/) - 全面详细的 Node.js 测试最佳实践。
+  - [Nodejs Testing Best Practices](https://github.com/goldbergyoni/nodejs-testing-best-practices)
+
 - [Node.js Best Practices](https://github.com/goldbergyoni/nodebestpractices) - Node.js 最佳实践。
 - [Node.js Reference Architecture](https://github.com/nodeshift/nodejs-reference-architecture) - Node.js 参考架构。
 - [Tao of Node - Design, Architecture & Best Practices](https://alexkondov.com/tao-of-node/) - 设计、架构和最佳实践。
 - [nodejs-integration-tests-best-practices](https://github.com/testjavascript/nodejs-integration-tests-best-practices) - Node.js 后端集成测试最佳实践。
-- [Testing From A To Z](https://testjavascript.com/) - 全面详细的 Node.js 测试最佳实践。
 - [hackathon-starter](https://github.com/sahat/hackathon-starter) - Node.js Web 应用模板。
 
 [`Go Top ↑`](#awesome-nodejs-list)
