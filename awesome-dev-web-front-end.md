@@ -449,6 +449,7 @@
 
 ##### 其它（Others）
 
+- [shadcn/ui](https://ui.shadcn.com/)
 - [UIkit](https://getuikit.com/) - 轻量级的现代化前端模块化 CSS 框架。
 - [Framework7](https://framework7.io/) - 跨平台 UI 库，支持 Android/ios/Desktop 平台，且主题样式设计适配相应平台。
   - [Tailwind Mobile](https://tailwind-mobile.com/)
@@ -465,7 +466,7 @@
 - [Skeleton](http://getskeleton.com/) - 简单的响应式 CSS 框架。（ :warning: 不再更新）
 - [egjs](https://naver.github.io/egjs/) - 提供多个可用的独立组件。
 - [Theme UI](https://theme-ui.com/) - 设计图框架。
-- [shadcn/ui](https://ui.shadcn.com/)
+- [WebTUI](https://webtui.ironclad.sh/) - 命令行终端风格。
 
 #### 独立组件
 
