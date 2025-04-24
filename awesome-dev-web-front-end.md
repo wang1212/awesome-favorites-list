@@ -550,6 +550,7 @@
   - [Dragula](https://bevacqua.github.io/dragula/) - 支持拖放排序的列表组件。（ :warning: 不再维护）
   - [SortableJS](https://sortablejs.github.io/Sortable/) - 支持拖放排序的列表组件，支持 React.js、Vue.js 等。
   - [InfiniteGrid](https://naver.github.io/egjs-infinitegrid/) - 无限网格布局。
+  - [Masonry](https://github.com/desandro/masonry) - 堆砌、瀑布流布局。
 
 - 过滤器（Filter）
   - [Isotope](https://isotope.metafizzy.co/) - 列表过滤动画。
