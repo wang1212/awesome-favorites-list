@@ -281,6 +281,7 @@
   - Lazy load
     - [Lozad.js](https://github.com/ApoorvSaxena/lozad.js) - 轻量、高性能图片懒加载工具，使用了 [Intersection Observer API](https://developer.mozilla.org/en-US/docs/Web/API/Intersection_Observer_API)。
     - [unlazy](https://unlazy.byjohann.dev/)
+    - [imagesloaded](https://github.com/desandro/imagesloaded) - 检测图片何时加载完成。
   - [clipboard.js](https://clipboardjs.com/) - 现代的粘贴板工具库。
   - [share-url](https://nigelotoole.github.io/share-url/) - 现代的链接分享。
   - [Tether](http://tether.io/) - 元素跟踪定位工具。
@@ -535,13 +536,13 @@
   - [DropzoneJS](https://www.dropzonejs.com/) - 文件上传组件，支持拖放文件、图片预览功能。
 
 - 拖拽布局（Drag Layout）
-  - [Muuri](https://muuri.dev/) - 支持拖放布局、过滤动画等。
-  - [Packery](https://packery.metafizzy.co/) - 需**商业许可**。
+  - [Muuri](https://muuri.dev/) - 支持拖放布局、过滤动画等。（ :warning: 不再维护）
+  - [Packery](https://packery.metafizzy.co/)
   - [gridstack.js](https://gridstackjs.com/)
   - [DragSelect](https://dragselect.com/) - 拖放布局，拖拽框选。
   - [plain-draggable](https://anseki.github.io/plain-draggable/)
   - [draggable](https://shopify.github.io/draggable/)
-  - [DFlex](https://www.dflex.dev/)
+  - [DFlex](https://github.com/dflex-js/dflex)
 
 - 列表（List）
   - [List.js](https://listjs.com/) - 为列表提供过滤、排序等功能。
