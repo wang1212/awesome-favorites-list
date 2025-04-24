@@ -282,6 +282,7 @@
     - [Lozad.js](https://github.com/ApoorvSaxena/lozad.js) - 轻量、高性能图片懒加载工具，使用了 [Intersection Observer API](https://developer.mozilla.org/en-US/docs/Web/API/Intersection_Observer_API)。
     - [unlazy](https://unlazy.byjohann.dev/)
     - [imagesloaded](https://github.com/desandro/imagesloaded) - 检测图片何时加载完成。
+    - [infinite-scroll](https://infinite-scroll.com/) - 无限滚动。
   - [clipboard.js](https://clipboardjs.com/) - 现代的粘贴板工具库。
   - [share-url](https://nigelotoole.github.io/share-url/) - 现代的链接分享。
   - [Tether](http://tether.io/) - 元素跟踪定位工具。
@@ -544,10 +545,11 @@
   - [draggable](https://shopify.github.io/draggable/)
   - [DFlex](https://github.com/dflex-js/dflex)
 
-- 列表（List）
+- 列表与网格（List & Grid）
   - [List.js](https://listjs.com/) - 为列表提供过滤、排序等功能。
   - [Dragula](https://bevacqua.github.io/dragula/) - 支持拖放排序的列表组件。（ :warning: 不再维护）
   - [SortableJS](https://sortablejs.github.io/Sortable/) - 支持拖放排序的列表组件，支持 React.js、Vue.js 等。
+  - [InfiniteGrid](https://naver.github.io/egjs-infinitegrid/) - 无限网格布局。
 
 - 过滤器（Filter）
   - [Isotope](https://isotope.metafizzy.co/) - 列表过滤动画。
@@ -601,7 +603,6 @@
     - [BetterScroll](https://better-scroll.github.io/docs/en-US/)
   - [sharer.js](https://ellisonleao.github.io/sharer.js/) - 创建社交网站分享按钮。
   - [ninja-keys](https://github.com/ssleptsov/ninja-keys) - 为页面添加键盘快捷键导航功能界面。
-  - [InfiniteGrid](https://naver.github.io/egjs-infinitegrid/) - 无限网格布局。
   - [Atropos](https://atroposjs.com/) - 轻量的用于创建 3D 悬停视差效果的组件。
   - [Barba.js](https://barba.js.org/) - 在页面之间创建平滑的过渡动画。
 
