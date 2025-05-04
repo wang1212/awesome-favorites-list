@@ -32,7 +32,7 @@ _Community._
 
 ## 资讯
 
-_News._
+_News, also see 👉 [journals](awesome-dev-resource.md#技术期刊)._
 
 - [Hugging Face Blog](https://huggingface.co/blog/)
 - [OpenAI News](https://openai.com/news/)
