@@ -321,7 +321,9 @@
   - [React Diagrams](https://projectstorm.gitbook.io/react-diagrams/) - 流程图组件。
   - [React Sortable Tree](https://github.com/frontend-collective/react-sortable-tree) - 树形列表，支持拖拽。
   - [React Measure](https://github.com/souporserious/react-measure) - 组件尺寸测量。
-  - [Emoji Mart](https://missive.github.io/emoji-mart/) - emoji 表情选择组件。
+  - Emoji
+    - [Emoji Mart](https://missive.github.io/emoji-mart/) - emoji 表情选择组件。
+    - [Frimousse](https://frimousse.liveblocks.io/)
   - [react-responsive](https://github.com/contra/react-responsive) - 响应式 UI 工具组件。
   - [use-count-up](https://github.com/vydimitrov/use-count-up) - 计数器。
   - [react-markdown](https://remarkjs.github.io/react-markdown/) - markdown 渲染组件。
