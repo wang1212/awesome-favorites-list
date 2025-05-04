@@ -267,6 +267,7 @@ _Coding skills._
   - [Echo JS](https://www.echojs.com/) - 日报，Web 前端新闻。
   - [CSS-Tricks](https://css-tricks.com/) - 日报，CSS 技术文章。
   - [Sidebar](https://sidebar.io/) - 日报，设计相关新闻。
+  - [AINews](https://news.smol.ai/) - 日报，汇总全网的 AI 新闻资讯。
 
 - 每周（Weekly）
   - System Design
