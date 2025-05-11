@@ -67,6 +67,11 @@ _AI native programming tool application._
 
 - [bolt](https://bolt.new/) - 通过 AI 直接生成页面应用项目代码。
 
+- AI IDE
+  - [cursor](https://www.cursor.com/)
+  - [windsurf](https://windsurf.com/editor)
+  - [void](https://voideditor.com/) - 开源版本。
+
 - 非结构化数据集管理（Unstructured Dataset Management）
   - [Nomic Atlas](https://atlas.nomic.ai/) - 非结构化数据集的探索、管理、检索和搜索。
   - [jina](https://jina.ai/) - 非结构化数据集搜索。
