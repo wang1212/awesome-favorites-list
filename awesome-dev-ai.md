@@ -145,7 +145,7 @@ _Development Framework._
 - Low Code
   - [flowise](https://flowiseai.com/) - 开源 UI 可视化工具，用于构建定制的 LLM 编排流程和 AI 代理。
 
-- Agent
+- Agent _[Multi-Agent Frameworks Comparison](https://multiagentbook.com/labs/frameworks/)_
   - [@huggingface/agents](https://huggingface.co/blog/agents-js)
   - [AutoGen](https://microsoft.github.io/autogen/)
   - [SuperAGI](https://github.com/TransformerOptimus/SuperAGI)
