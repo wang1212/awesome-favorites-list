@@ -102,6 +102,7 @@ _Open datasets available for free use._
 - 数据预览、编辑（Data Preview and Editing）
   - [TileJSON.io](https://tilejson.io/)
   - [GeoJSON.io](http://geojson.io/) - 一个快速、简单的工具，用于创建、查看和共享地图。
+  - [mapshaper](https://mapshaper.org/) - 数据编辑，支持 Shapefile、GeoJSON、TopoJSON、DBF 和 CSV 格式，可在线预览转换，支持命令行，不提供坐标转换（支持 Node.js）。
 
 [`Go Top ↑`](#awesome-gis-list)
 
@@ -135,7 +136,6 @@ _Available in browser（JavaScript）. **Tips:** Most of what is available in th
 - [Turf.js](http://turfjs.org/) - 高级空间分析的工具库（支持 Node.js）。
 - [JSTS](https://github.com/bjornharrtell/jsts) - 开源的空间分析库。
 - [proj4js](http://proj4js.org/) - PROJ 的 JavaScript 实现，可进行坐标系统转换（支持 Node.js）。
-- [mapshaper](https://mapshaper.org/) - 数据编辑，支持 Shapefile、GeoJSON、TopoJSON、DBF 和 CSV 格式，可在线预览转换，支持命令行，不提供坐标转换（支持 Node.js）。
 - [shapefile](https://github.com/mbostock/shapefile) - Shapefile 转 GeoJSON，支持命令行（支持 Node.js）。
 - [shp2geojson.js](https://github.com/gipong/shp2geojson.js) - Shapefile 转 GeoJSON，可在线预览转换，支持坐标系转换。
 - [Geobuf](https://github.com/mapbox/geobuf) - 对 GeoJSON 数据进行 [protocol buffers](https://developers.google.com/protocol-buffers) 编/解码，大幅减小体积，加快网络传输速度，**Mapbox 公司发布**（支持 Node.js）。
@@ -146,6 +146,7 @@ _Available in browser（JavaScript）. **Tips:** Most of what is available in th
   - [TopoJSON Client](https://github.com/topojson/topojson-client) - TopoJSON 数据操作，例如合并、获取边界坐标等。
 - [H3](https://h3geo.org/) - 六边形分级地理空间索引系统。
 - [SuperCluster](https://github.com/mapbox/supercluster) - 点聚合算法。
+- [geojson-rewind](https://github.com/mapbox/geojson-rewind) - 对 GeoJSON 强制执行多边形环缠绕顺序。
 
 [`Go Top ↑`](#awesome-gis-list)
 
