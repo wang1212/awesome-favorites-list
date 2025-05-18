@@ -19,6 +19,7 @@ _（Recommend） :point_right: [awesome-artificial-intelligence](https://github.
 - [AI 编程应用（AI Native Programming Tool Application）](#ai-编程应用)
 - [工具（Tools）](#工具)
 - [开发框架（Development Framework）](#开发框架)
+- [MCP（Model Context Protocol）](#model-context-protocol)
 - [其它（Others）](#其它)
 
 ## 社区
@@ -160,6 +161,18 @@ _Development Framework._
   - [LMQL](https://lmql.ai/) - LLMs 编程语言。
 
 [`Go Top ↑`](#awesome-ai-dev-list)
+
+## Model Context Protocol
+
+_[Model Context Protocol](https://modelcontextprotocol.io/introduction) Resources._
+
+- Awesome
+  - [awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers)
+  - [awesome-mcp-clients](https://github.com/punkpeye/awesome-mcp-clients/)
+
+- Marketplace
+  - [Smithery](https://smithery.ai/) - mcp servers.
+  - [Glama MCP](https://glama.ai/mcp) - mcp clients、servers.
 
 ## 其它
 
