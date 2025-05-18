@@ -389,6 +389,7 @@
   - [api-extractor](https://api-extractor.com/) - 帮助更好的管理 TypeScript 编写的包。
   - [ts-reset](https://github.com/total-typescript/ts-reset) - 增强内置类型。
   - [tsdiagram](https://tsdiagram.com/) - 可视化类型定义。
+  - [tsc-alias](https://github.com/justkey007/tsc-alias) - 支持为生成的 js 文件添加扩展名。
 
 [`Go Top ↑`](#awesome-web-front-end-list)
 
