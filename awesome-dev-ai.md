@@ -28,6 +28,7 @@ _Community._
 
 - [Hugging Face](https://huggingface.co/) - 协作共享开源 AI 模型社区。
 - [Kaggle](https://www.kaggle.com/) - 共享公开数据集。
+- [OpenRouter](https://openrouter.ai/) - 以统一的接口提供不同 LLM 的服务。
 
 [`Go Top ↑`](#awesome-ai-dev-list)
 
