@@ -36,6 +36,7 @@
   - [图像工具（Image Tools）](#图像工具)
   - [编程字体（Programming Font）](#编程字体)
   - [徽章图标服务（Badge Icon Service）](#徽章图标服务)
+- [AI 编程工具（AI Native Programming Tools）](#ai-编程工具)
 - [软件工具（Software Tools）](#软件工具)
   - [Emoji :smile:](#emoji)
   - [Chrome 扩展程序（Chrome Extension）](#chrome-扩展程序)
@@ -459,6 +460,29 @@ _see also 👉  [Web 端软件资源](./awesome-software.md#浏览器端)_
   - [gh-profile-readme-generator](https://rahuldkjain.github.io/gh-profile-readme-generator/) - 根据配置自动生成个人自述文档。
   - [Awesome GitHub Profile READMEs](https://zzetao.github.io/awesome-github-profile/)
 - [repography](https://repography.com/) - 可视化 github 仓库的贡献者、commit 等信息。
+
+[`Go Top ↑`](#awesome-development-resources)
+
+## AI 编程工具
+
+_AI native programming tools._
+
+- AI COding Agent - IDE Extension
+  - [cline](https://github.com/cline/cline)
+  - [qodo gen](https://www.qodo.ai/)
+  - [cody](https://sourcegraph.com/docs/cody)
+
+- AI IDE
+  - [cursor](https://www.cursor.com/)
+  - [windsurf](https://windsurf.com/editor) - 可免费使用，也提供 VSCode 扩展插件。
+  - [void](https://voideditor.com/) - 开源版本。
+
+- Vibe Coding
+  - [bolt](https://bolt.new/) - 通过 AI 直接生成页面应用项目代码。
+
+- 非结构化数据集管理（Unstructured Dataset Management）
+  - [Nomic Atlas](https://atlas.nomic.ai/) - 非结构化数据集的探索、管理、检索和搜索。
+  - [jina](https://jina.ai/) - 非结构化数据集搜索。
 
 [`Go Top ↑`](#awesome-development-resources)
 
