@@ -467,7 +467,7 @@ _see also 👉  [Web 端软件资源](./awesome-software.md#浏览器端)_
 
 _AI native programming tools._
 
-- AI COding Agent - IDE Extension
+- AI Coding Agent - IDE Extension
   - [cline](https://github.com/cline/cline)
   - [qodo gen](https://www.qodo.ai/)
   - [cody](https://sourcegraph.com/docs/cody)
