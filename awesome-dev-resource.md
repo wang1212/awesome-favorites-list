@@ -471,6 +471,7 @@ _AI native programming tools._
   - [cline](https://github.com/cline/cline)
   - [qodo gen](https://www.qodo.ai/)
   - [cody](https://sourcegraph.com/docs/cody)
+  - [Roo Code](https://roocode.com/)
 
 - AI IDE
   - [cursor](https://www.cursor.com/)
