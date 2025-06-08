@@ -584,6 +584,7 @@
   - [Lepton](https://hackjutsu.com/Lepton/) - 代码片段管理，由 GitHub Gist 驱动，**开源软件**。
   - [heynote](https://heynote.com/) - 为开发者提供的专用便签本，**开源软件**。
 - [Xournal++](https://xournalpp.github.io/) - 手写笔记软件，**开源软件**。
+- [zotero](https://www.zotero.org/)
 
 #### 思维导图
 
