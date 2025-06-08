@@ -40,9 +40,12 @@
   - [APKPure](https://apkpure.com/)
   - [APKLinker](https://www.apklinker.com/)
   - [Apk Follow](https://www.apkfollow.com/)
+- AI Native
+  - [All Things AI](https://allthingsai.com/) - 最新 AI 工具和服务的精选目录。
+  - [AI Agents Directory](https://aiagentslist.com/) - AI 智能体应用目录。
+  - [AI Agent Marketplace](https://aiagentstore.ai/) - AI 智能体应用市场。
 - Others
   - [Product Hunt](https://www.producthunt.com/) - 最受欢迎的科技产品发布站点。
-  - [All Things AI](https://allthingsai.com/) - 最新 AI 工具和服务的精选目录。
   - _[Awesome macOS open source applications](https://github.com/serhii-londar/open-source-mac-os-apps#window-management) - 出色的 MacOS 开源应用列表。_
     - _[awesome-open-source-mac-apps](https://indiegoodies.com/awesome-open-source-mac-apps)_
 
