@@ -61,6 +61,7 @@ _Tutorial._
 - [LeeDL-Tutorial](https://github.com/datawhalechina/leedl-tutorial) - 台湾大学李宏毅教授的深度学习教程。
 - [CL4R1T4S](https://github.com/elder-plinius/CL4R1T4S) - 包含多个平台的完整系统提示词、指南和工具。
   - [L1B3RT4S](https://github.com/elder-plinius/L1B3RT4S) - LLMs 的越狱提示。
+- [free-llm-api-resources](https://github.com/cheahjs/free-llm-api-resources) - 免费的 LLMs API 测试资源。
 
 [`Go Top ↑`](#awesome-ai-dev-list)
 
