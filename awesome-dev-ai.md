@@ -99,7 +99,11 @@ _Tools._
   - [transformers](https://github.com/huggingface/transformers)
   - [ollama](https://ollama.com/) - 启动并运行大型语言模型。
 
-### CLI
+### C/C++
+
+- [llama.cpp](https://github.com/ggml-org/llama.cpp) - 在本地运行 LLMs，并提供推理服务。
+
+### CLIs
 
 - [llm](https://github.com/simonw/llm) - 从命令行访问 LLMs，进行测试。
 
