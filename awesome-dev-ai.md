@@ -59,9 +59,11 @@ _Tutorial._
 - [Awesome-LLM](https://github.com/Hannibal046/Awesome-LLM) - 大语言模型相关的论文资讯等。
 - [Elicit Machine Learning Reading List](https://github.com/elicit/machine-learning-list) - 学习机器学习背景知识。
 - [LeeDL-Tutorial](https://github.com/datawhalechina/leedl-tutorial) - 台湾大学李宏毅教授的深度学习教程。
-- [CL4R1T4S](https://github.com/elder-plinius/CL4R1T4S) - 包含多个平台的完整系统提示词、指南和工具。
-  - [L1B3RT4S](https://github.com/elder-plinius/L1B3RT4S) - LLMs 的越狱提示。
 - [free-llm-api-resources](https://github.com/cheahjs/free-llm-api-resources) - 免费的 LLMs API 测试资源。
+- System Prompt
+  - [CL4R1T4S](https://github.com/elder-plinius/CL4R1T4S) - 包含多个平台的完整系统提示词、指南和工具。
+    - [L1B3RT4S](https://github.com/elder-plinius/L1B3RT4S) - LLMs 的越狱提示。
+  - [system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools)
 
 [`Go Top ↑`](#awesome-ai-dev-list)
 
