@@ -468,18 +468,20 @@ _see also 👉  [Web 端软件资源](./awesome-software.md#浏览器端)_
 _AI native programming tools._
 
 - AI Coding Agent - IDE Extension
+  - [windsurf](https://windsurf.com/plugins) - **基础功能可以免费使用**。
+  - [blackbox Agent](https://www.blackbox.ai/) - **基础功能可以免费使用**。
   - [cline](https://github.com/cline/cline)
+  - [Roo Code](https://roocode.com/)
   - [qodo gen](https://www.qodo.ai/)
   - [cody](https://sourcegraph.com/docs/cody)
-  - [Roo Code](https://roocode.com/)
 
 - AI IDE
   - [cursor](https://www.cursor.com/)
-  - [windsurf](https://windsurf.com/editor) - 可免费使用，也提供 VSCode 扩展插件。
-  - [void](https://voideditor.com/) - 开源版本。
+  - [windsurf](https://windsurf.com/editor) - 同时提供 VSCode 扩展插件，**可免费使用**。
+  - [void](https://voideditor.com/) - **开源软件**。
 
 - Vibe Coding
-  - [bolt](https://bolt.new/) - 通过 AI 直接生成页面应用项目代码。
+  - [bolt](https://bolt.new/) - 通过 AI 直接生成页面应用项目代码，可免费使用。
 
 - 非结构化数据集管理（Unstructured Dataset Management）
   - [Nomic Atlas](https://atlas.nomic.ai/) - 非结构化数据集的探索、管理、检索和搜索。
