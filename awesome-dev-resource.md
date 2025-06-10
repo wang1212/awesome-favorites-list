@@ -477,6 +477,7 @@ _AI native programming tools._
 
 - AI IDE
   - [cursor](https://www.cursor.com/)
+    - [dotcursorrules](https://dotcursorrules.com/)  
   - [windsurf](https://windsurf.com/editor) - 同时提供 VSCode 扩展插件，**可免费使用**。
   - [void](https://voideditor.com/) - **开源软件**。
 
