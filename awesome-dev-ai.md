@@ -73,7 +73,6 @@ _Tools._
 
 - [LocalAI](https://localai.io/) - 一种本地的离线 OpenAI REST API 替代品。
 - [jsonformer](https://github.com/1rgs/jsonformer) - 让大模型输出 JSON 结构化的数据格式。
-- [Context7](https://context7.com/) - 为代码仓库提供最新的文档服务。
 
 ### JavaScript
 
