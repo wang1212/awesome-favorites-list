@@ -170,6 +170,7 @@ _[Model Context Protocol](https://modelcontextprotocol.io/introduction) Resource
 - Marketplace
   - [Smithery](https://smithery.ai/) - mcp servers.
   - [Glama MCP](https://glama.ai/mcp) - mcp clients、servers.
+  - [MCP.so](https://mcp.so/)
 
 ## 其它
 
