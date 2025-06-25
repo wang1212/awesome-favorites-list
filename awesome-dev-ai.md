@@ -74,6 +74,17 @@ _Tools._
 - [LocalAI](https://localai.io/) - 一种本地的离线 OpenAI REST API 替代品。
 - [jsonformer](https://github.com/1rgs/jsonformer) - 让大模型输出 JSON 结构化的数据格式。
 
+### Docs
+
+- [Context7](https://context7.com/) - 为代码仓库提供最新的文档 MCP 服务。
+- [docfork](https://github.com/docfork/docfork-mcp) - 为代码仓库提供最新的文档 MCP 服务。
+- [deepwiki](https://deepwiki.org/) - 在线为开源仓库提供文档 AI 问答服务。
+  - [deepwiki-open](https://github.com/AsyncFuncAI/deepwiki-open)
+
+### CLIs
+
+- [llm](https://github.com/simonw/llm) - 从命令行访问 LLMs，进行测试。
+
 ### JavaScript
 
 - 模型加载（Backend and Model Access）
@@ -104,10 +115,6 @@ _Tools._
 ### C/C++
 
 - [llama.cpp](https://github.com/ggml-org/llama.cpp) - 在本地运行 LLMs，并提供推理服务。
-
-### CLIs
-
-- [llm](https://github.com/simonw/llm) - 从命令行访问 LLMs，进行测试。
 
 [`Go Top ↑`](#awesome-ai-dev-list)
 
