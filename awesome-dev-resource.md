@@ -299,6 +299,7 @@ _Coding skills._
     - [React Status](https://react.statuscode.com/) - 周刊，React.js 相关技术。（Cooperpress 出版）
     - [React Newsletter](https://reactnewsletter.com/) - 周刊，React.js 相关技术。（ui.dev 出版）
     - [ReactWeekly](https://react.thisweekin.io/)
+    - [React Digest](https://reactdigest.net/)
   - Mobile Native Client
     - [Mobile Dev Weekly](https://mobiledevweekly.com/) - 周刊，移动应用（Web 和 Native）开发技术。（Cooperpress 出版）
     - [Android Weekly](https://androidweekly.net/) - 周刊，Android 技术。
