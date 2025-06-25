@@ -467,11 +467,6 @@ _see also 👉  [Web 端软件资源](./awesome-software.md#浏览器端)_
 
 _AI native programming tools._
 
-- Docs
-  - [Context7](https://context7.com/) - 为代码仓库提供最新的文档 MCP 服务。
-  - [docfork](https://github.com/docfork/docfork-mcp) - 为代码仓库提供最新的文档 MCP 服务。
-  - [deepwiki](https://deepwiki.org/) - 在线为开源仓库提供文档 AI 问答服务。
-
 - AI Coding Agent - IDE Extension
   - [windsurf](https://windsurf.com/plugins) - **基础功能可以免费使用**。
   - [blackbox Agent](https://www.blackbox.ai/) - **基础功能可以免费使用**。
