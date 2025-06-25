@@ -451,6 +451,7 @@
     - [front-matter](https://github.com/jxson/front-matter) - 解析 Front Matter。
     - [Showdown](https://showdownjs.com/) - Markdown 到 HTML 的转换器。
     - [Markdoc](https://markdoc.dev/) - 一种基于 Markdown 的语法和工具链，用于创建自定义文档站点。
+    - [markdown-link-check](https://github.com/tcort/markdown-link-check) - 死链检查。
   - json/json5/jsonl
     - [stream-json](https://github.com/uhop/stream-json) - 大型数据集的流式处理。
     - [JSON5](https://json5.org/) - JSON5 格式数据解析、序列化。
