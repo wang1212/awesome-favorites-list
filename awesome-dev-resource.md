@@ -477,6 +477,10 @@ _AI native programming tools._
   - [qodo gen](https://www.qodo.ai/)
   - [cody](https://sourcegraph.com/docs/cody)
 
+- AI Coding Agent - CLI
+  - [Gemini CLI](https://github.com/google-gemini/gemini-cli) - Google 发布，提供免费版本。
+  - [OpenAI Codex CLI](https://github.com/openai/codex) - OpenAI 发布，支持多个模型供应商，需提供 Key 才能使用。
+
 - AI IDE
   - [cursor](https://www.cursor.com/)
     - [dotcursorrules](https://dotcursorrules.com/)  
