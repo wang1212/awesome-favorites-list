@@ -36,6 +36,7 @@
   - [图像工具（Image Tools）](#图像工具)
   - [编程字体（Programming Font）](#编程字体)
   - [徽章图标服务（Badge Icon Service）](#徽章图标服务)
+- [AI 编程工具（AI Native Programming Tools）](#ai-编程工具)
 - [软件工具（Software Tools）](#软件工具)
   - [Emoji :smile:](#emoji)
   - [Chrome 扩展程序（Chrome Extension）](#chrome-扩展程序)
@@ -94,6 +95,10 @@
 - [Google Style Guides](https://google.github.io/styleguide/) - Google 代码风格指南。
 - [Specs vs. Tests](https://sites.google.com/site/unclebobconsultingllc/specs-vs-tests) - 如何看待测试。
 - [What is Better Specs](https://www.betterspecs.org/) - 编写更好的测试。
+- 命名（Naming）
+  - [_CODELF_](https://unbug.github.io/codelf/) - 根据关键词查找开源项目中变量命名。
+  - [Naming cheatsheet](https://github.com/kettanaito/naming-cheatsheet) - 变量命名指南。
+  - [classnames](https://classnames.paulrobertlloyd.com/)
 
 ### 项目管理
 
@@ -103,6 +108,7 @@
   - [Creative Commons](https://creativecommons.org/choose/) - 知识共享协议许可。
 - [About READMEs](https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-readmes) - 项目自述文档。
   - [Make a README](https://www.makeareadme.com/)
+- [Diátaxis](https://diataxis.fr/) - 技术文档编写指南。
 - [ARCHITECTURE.md](https://matklad.github.io/2021/02/06/ARCHITECTURE.md.html) - 建议在开源项目中加入 _ARCHITECTURE.md_ 文件。
 - [Contributor Covenant](https://www.contributor-covenant.org/) - 贡献者契约，开源社区的行为准则声明。
 - [How to Build a CONTRIBUTING.md](https://mozillascience.github.io/working-open-workshop/contributing/) - 如何为开源项目构建 _CONTRIBUTING.md_ 文件。
@@ -135,6 +141,7 @@
   - [The System Design Primer](https://github.com/donnemartin/system-design-primer) - 学习构建大型系统。
   - [System Design 101](https://github.com/ByteByteGoHq/system-design-101) - 用图表展示系统架构设计，**ByteByteGo 出品**。
   - [System Design Cheatsheet](https://gist.github.com/vasanthk/485d1c25737e8e72759f) - 系统设计备忘单。
+  - [system-design](https://github.com/systemdesign42/system-design)
 
 - 其它（Others）
   - [https://12factor.net/](https://12factor.net/) - 开发应用的十二要素。
@@ -195,10 +202,13 @@ _Technical documentation._
 
 - [Big-O Cheat Sheet](https://www.bigocheatsheet.com/)
 - [The Algorithms](https://the-algorithms.com/) - 学习算法和数据结构及其在多个语言中的实现。
-- [VisuAlgo](https://visualgo.net/zh) - 可视化算法过程。
-- [Pathfinding Visualizer](https://josephprichard.github.io/Pathfinder/) - 寻路算法可视化工具。
-- [Data Structure Visualizations](https://www.cs.usfca.edu/~galles/visualization/) - 数据结构可视化。
-- [Hello 算法](https://www.hello-algo.com/) - 图解算法。
+
+- 算法可视化（Algorithm Visualization）
+  - [VisuAlgo](https://visualgo.net/zh) - 可视化算法过程。
+  - [Pathfinding Visualizer](https://josephprichard.github.io/Pathfinder/) - 寻路算法可视化工具。
+  - [Data Structure Visualizations](https://www.cs.usfca.edu/~galles/visualization/) - 数据结构可视化。
+  - [Hello 算法](https://www.hello-algo.com/) - 图解算法。
+  - [algoviz](https://www.algoviz.app/)
 
 - JavaScript
   - [JavaScript Algorithms and Data Structures](https://github.com/trekhleb/javascript-algorithms) - 算法和数据结构。
@@ -207,8 +217,6 @@ _Technical documentation._
 
 _Coding skills._
 
-- [Naming cheatsheet](https://github.com/kettanaito/naming-cheatsheet) - 变量命名指南。
-  - [CODELF](https://unbug.github.io/codelf/) - 根据关键词查找开源项目中变量命名。
 - [The Art of Command Line](https://github.com/jlevy/the-art-of-command-line) - 命令行的艺术，技巧。
 - [COMMANDLINEFU.COM](https://www.commandlinefu.com/commands/browse) - 汇集了很多优秀的、充满智慧的、简洁的命令行命令。
 - [Bash Pitfalls](http://mywiki.wooledge.org/BashPitfalls) - 此页面汇总了 Bash 用户常犯的编程错误。
@@ -243,6 +251,7 @@ _Coding skills._
 - [freeCodeCamp Learning](https://www.freecodecamp.org/learn/)
 - [Hackr.io](https://hackr.io/) - 课程分享与学习。
 - [ui.dev](https://ui.dev/) - 交互式 JavaScript 教程。
+- [Hello GitHub](https://hellogithub.com/) - 一个发现和分享有趣、入门级开源项目的平台。
 
 [`Go Top ↑`](#awesome-development-resources)
 
@@ -259,6 +268,7 @@ _Coding skills._
   - [Echo JS](https://www.echojs.com/) - 日报，Web 前端新闻。
   - [CSS-Tricks](https://css-tricks.com/) - 日报，CSS 技术文章。
   - [Sidebar](https://sidebar.io/) - 日报，设计相关新闻。
+  - [AINews](https://news.smol.ai/) - 日报，汇总全网的 AI 新闻资讯。
 
 - 每周（Weekly）
   - System Design
@@ -289,6 +299,7 @@ _Coding skills._
     - [React Status](https://react.statuscode.com/) - 周刊，React.js 相关技术。（Cooperpress 出版）
     - [React Newsletter](https://reactnewsletter.com/) - 周刊，React.js 相关技术。（ui.dev 出版）
     - [ReactWeekly](https://react.thisweekin.io/)
+    - [React Digest](https://reactdigest.net/)
   - Mobile Native Client
     - [Mobile Dev Weekly](https://mobiledevweekly.com/) - 周刊，移动应用（Web 和 Native）开发技术。（Cooperpress 出版）
     - [Android Weekly](https://androidweekly.net/) - 周刊，Android 技术。
@@ -321,6 +332,7 @@ _Technical blog._
 
 - [2ality](https://2ality.com/archive.html) - JavaScript、Web 开发、移动计算相关。
 - [Bob Nystrom](https://journal.stuffwithstuff.com/) - 游戏开发、编程语言。
+- [The Design System Guide](https://thedesignsystem.guide/) - 设计系统指南。
 
 [`Go Top ↑`](#awesome-development-resources)
 
@@ -338,11 +350,9 @@ _see also 👉  [Web 端软件资源](./awesome-software.md#浏览器端)_
 - [free-for.dev](https://free-for.dev/) - 软件开发人员可用的免费 SaaS、PaaS、IaaS 等服务。
 
 - Toolset
+  - [JSON Diff](https://www.jsondiff.com/) - 对比 JSON 数据差异。
   - [URL Encoder](https://www.urlencoder.org/) - URL 编解码，以及一系列小工具。
-  - [SOCODE.PRO](https://socode.pro/) - 快速搜索开发文档，小工具等，**提供浏览器插件**。
-  - [345Tool](https://www.345tool.com/) - 开发者工具集。
   - [tool.lu](https://tool.lu/) - 开发者工具集。
-  - [toolb.dev](https://www.toolb.dev/)
   - [Carbon](https://carbon.now.sh/) - 生成漂亮的源代码图片。
   - [FastIcon](https://fasticon.sawirstudio.com/) - 在线快速生成 Android 与 IOS 应用图标。
   - [Understand your dependencies](https://deps.dev/) - 在线分析开源模块，了解依赖代码的安全性、许可证等信息，**Google Cloud 提供**。
@@ -367,23 +377,35 @@ _see also 👉  [Web 端软件资源](./awesome-software.md#浏览器端)_
   - [iHateRegex](https://ihateregex.io/)
   - [regexr](https://regexr.com/)
   - [pyrexp](https://pythonium.net/regex)
+  - [RegexLearn](https://regexlearn.com/)
+  - [RegexOne](https://regexone.com/)
 
 - Converter
   - [Excel to JSON](https://exceltojson.com/) - Excel 转 JSON 数据。
   - [transform](https://transform.tools/) - 多语言转换器。
+  - [json-to-excel](https://tableconvert.com/json-to-excel) - 表格数据转换器。
 
 ### 公共 API
 
 *Public api.*
 
+- 数据集（Dataset）
+  - [NASA API](https://api.nasa.gov/) - NASA 的开放 APIs。
+    - [Explore NASA Imagery and Data](https://nasa-api-explorer.vercel.app/) - 可在线浏览 NASA 数据。
+  - [World Bank API](https://documents.worldbank.org/en/publication/documents-reports/api) - 世界银行的开放 APIs。
+  - [Open Library API](https://openlibrary.org/developers/api) - 开放图书馆的 APIs。
+
 - 天气（Weather）
   - [OpenWeather](https://openweathermap.org/) - 全球城市天气预报。
-  - [visualcrossing](https://www.visualcrossing.com/)
+  - [Visual Crossing](https://www.visualcrossing.com/)
   - [Weatherbit.io](https://www.weatherbit.io/)
+  - [Open-Meteo](https://open-meteo.com/) - 天气服务，**开源**。
 
 - 其它（Others）
   - [Public APIs](https://github.com/public-apis/public-apis) - 免费的公共 API 集合。
-  - [Administrative-divisions-of-China](https://github.com/modood/Administrative-divisions-of-China) - 中华人民共和国行政区划（五级）名称数据。
+  - [Free Public APIs](https://www.freepublicapis.com/)
+  - [GIS Datasets](awesome-dev-gis.md#开放数据) - 开放地理数据集。
+  - [QR Code Generator](https://goqr.me/api/) - 二维码生成。
 
 ### 设计工具
 
@@ -399,7 +421,7 @@ _see also 👉  [Web 端软件资源](./awesome-software.md#浏览器端)_
 
 *Placeholder image service.*
 
-- [Placeholder.com](https://placeholder.com/) - 图片、灰度图、文本。
+- [Placeholder.com](https://placehold.co/) - 图片、灰度图、文本。
 - [Fake images please?](https://fakeimg.pl/) - 灰度图、文本，**免费开源**。
 - [Dynamic Dummy Image Generator](https://dummyimage.com/) - 灰度图、文本。
 - [Lorem Picsum](https://picsum.photos/) - 图片。
@@ -439,6 +461,34 @@ _see also 👉  [Web 端软件资源](./awesome-software.md#浏览器端)_
 - GitHub Profile READMEs
   - [gh-profile-readme-generator](https://rahuldkjain.github.io/gh-profile-readme-generator/) - 根据配置自动生成个人自述文档。
   - [Awesome GitHub Profile READMEs](https://zzetao.github.io/awesome-github-profile/)
+- [repography](https://repography.com/) - 可视化 github 仓库的贡献者、commit 等信息。
+
+[`Go Top ↑`](#awesome-development-resources)
+
+## AI 编程工具
+
+_AI native programming tools._
+
+- AI Coding Agent - IDE Extension
+  - [windsurf](https://windsurf.com/plugins) - **基础功能可以免费使用**。
+  - [blackbox Agent](https://www.blackbox.ai/) - **基础功能可以免费使用**。
+  - [cline](https://github.com/cline/cline)
+  - [Roo Code](https://roocode.com/)
+  - [qodo gen](https://www.qodo.ai/)
+  - [cody](https://sourcegraph.com/docs/cody)
+
+- AI IDE
+  - [cursor](https://www.cursor.com/)
+    - [dotcursorrules](https://dotcursorrules.com/)  
+  - [windsurf](https://windsurf.com/editor) - 同时提供 VSCode 扩展插件，**可免费使用**。
+  - [void](https://voideditor.com/) - **开源软件**。
+
+- Vibe Coding
+  - [bolt](https://bolt.new/) - 通过 AI 直接生成页面应用项目代码，可免费使用。
+
+- 非结构化数据集管理（Unstructured Dataset Management）
+  - [Nomic Atlas](https://atlas.nomic.ai/) - 非结构化数据集的探索、管理、检索和搜索。
+  - [jina](https://jina.ai/) - 非结构化数据集搜索。
 
 [`Go Top ↑`](#awesome-development-resources)
 
@@ -474,6 +524,7 @@ _see also 👉  [Web 端软件资源](./awesome-software.md#浏览器端)_
   - [GitHub Dark](https://github.com/StylishThemes/GitHub-Dark) - GitHub 网站界面黑夜模式。
   - [GitHub Hovercard](https://justineo.github.io/github-hovercard/) - 悬浮卡片。
 - [CodeCopy](https://github.com/zenorocha/codecopy) - 为网站上的代码块提供复制到粘贴板按钮。
+- [ModHeader](https://modheader.com/) - 用于修改 HTTP 请求和响应标头。
 - [daily.dev | The Homepage Developers Deserve](https://daily.dev/) - 开发者新闻汇总。
 
 ### 测试
@@ -507,12 +558,14 @@ _see also 👉  [Web 端软件资源](./awesome-software.md#浏览器端)_
 - [VS Code](https://code.visualstudio.com/) - 一款轻量级开发工具，功能很强大，深受开发者的青睐，是 Web 前端开发者的工作利器，**开源软件**。
   - [VSCodium](https://vscodium.com/) - 社区驱动、免费许可的 VS Code 版本。
   - [Create Your Own VS Code Themes](https://themes.vscode.one/) - 创建 VS Code 主题。
+  - [Open VSX](https://open-vsx.org/) - 开源扩展注册表。
 - [Sublime Text](http://www.sublimetext.com/) - 一款开源的轻量级编辑器，功能很强大，是在 VS Code、Atom 出现之前最受开发者欢迎的编辑器。
 - [CudaText](https://cudatext.github.io/index.html) - 跨平台的代码编辑器，大文件性能较好，**开源软件**。
 - [Eclipse](https://www.eclipse.org/) - 开源的重量级编辑器，功能非常强大，是 Java 开发者中使用最多的 IDE，**开源软件**。
 - [UltraEdit](https://www.ultraedit.com/) - 文本编辑器，功能强大，性能较好，**商业软件**。
 - [EmEditor](https://www.emeditor.com/) - 文本编辑器，功能强大，浏览大文件性能很好，**商业软件**。
 - [neovim](https://neovim.io/) - 类 VIM 编辑器。
+- [helix](https://helix-editor.com/)
 
 #### 代码格式化
 
@@ -520,6 +573,7 @@ _see also 👉  [Web 端软件资源](./awesome-software.md#浏览器端)_
 
 - [Prettier](https://prettier.io/)
 - [EditorConfig](https://editorconfig.org/)
+- [dprint](https://github.com/dprint/dprint)
 
 #### 编码统计
 
@@ -539,6 +593,7 @@ _Coding Statistics._
   - [Resources to learn Git](http://try.github.io/) - 学习 Git 的文档。
   - [Git Explorer](https://gitexplorer.com/) - Git 命令参考。
   - [Learn Git Branching](https://learngitbranching.js.org/) - 在线 Git 命令互动式学习。
+  - [Beej's Guide to Git](https://beej.us/guide/bggit/html/split/)
   - [A collection of .gitignore templates](https://github.com/github/gitignore) - 不同类型项目的 `.gitignore` 文件模板。
     - [gitignore.io](https://www.toptal.com/developers/gitignore) - 根据关键词生成 `.gitignore` 文件模板。
   - [Sourcetree](https://www.sourcetreeapp.com/) - 免费的 Git 客户端，支持 Windows 和 Mac。
@@ -548,12 +603,21 @@ _Coding Statistics._
     - [git-stats](https://github.com/IonicaBizau/git-stats)
     - [Gitinspector](https://github.com/ejwa/gitinspector) - 生成统计报告。
     - [git-quick-stats](https://github.com/arzzen/git-quick-stats)
+    - [git-sizer](https://github.com/github/git-sizer)
 
 - [Tortoise SVN](https://tortoisesvn.net/) - SVN 是一种传统的中心化管理的源代码版本控制工具，Tortoise SVN 提供了 GUI 来使用 SVN。
 
 - 公共代码托管平台（Public code hosting platform）
   - [GitHub](https://github.com/)
     - [github1s](https://github.com/conwnet/github1s) - 可直接在浏览器的 VS Code 中打开 GitHub 仓库代码。
+    - GitHub Actions
+      - [checkout](https://github.com/actions/checkout) - 拉取仓库代码。
+      - [super-linter](https://github.com/super-linter/super-linter)
+      - [stale](https://github.com/actions/stale)
+    - GitHub Apps
+      - [imgbot](https://github.com/marketplace/imgbot) - 图片压缩优化。
+      - [Renovate](https://github.com/renovatebot/renovate) - 依赖自动管理。
+      - [Mend](https://github.com/marketplace/whitesource-bolt) - 漏洞扫描和修复。
   - [GitLab](https://about.gitlab.com/) - 支持本地部署。
   - [Bitbucket](https://bitbucket.org/)
   - [Gitee](https://gitee.com/) - 码云，国内[开源中国](https://www.oschina.net/)推出。
@@ -566,11 +630,12 @@ _Coding Statistics._
 
 *API document management and testing.*
 
-- [Postman](https://www.getpostman.com/) - 一个非常棒的 API 管理工具。
-- [Insomnia](https://insomnia.rest/) - API 接口测试工具。
+- [Postman](https://www.getpostman.com/) - 一个非常棒的 API 管理工具，**商业软件，提供免费版本**。
+- [Insomnia](https://insomnia.rest/) - API 接口测试工具，**商业软件**。
 - [hoppscotch](https://hoppscotch.io/) - API 接口测试、管理，**开源软件**。
-- [HTTPie](https://httpie.org/) - HTTP 客户端，类似 curl，人类可读。
+- [HTTPie](https://httpie.org/) - HTTP 客户端，类似 curl，人类可读，**开源软件**。
 - [Mockoon](https://mockoon.com/) - Mock API 服务，**开源软件**。
+- [Bruno](https://docs.usebruno.com/) - Git 友好的 HTTP 客户端，**开源软件**。
 
 ### 服务器远程管理
 
@@ -594,6 +659,8 @@ _Coding Statistics._
 #### 终端
 
 _Terminal, Console, Shell, and Command Line._
+
+_see also 👉 https://github.com/cdleon/awesome-terminals_
 
 - Multi-platform
   - [hyper](https://hyper.is/)
@@ -624,7 +691,7 @@ _Terminal, Console, Shell, and Command Line._
 - [Modern Unix](https://github.com/ibraheemdev/modern-unix) - 常见 Unix 命令更好的替代品。
   - [tldr](https://tldr.sh/) - 类似于 `man` 命令，简化版的命令手册文档。
   - [htop](https://htop.dev/) - 类似于 `top` 命令，交互式进程浏览器。
-  - [exa](https://the.exa.website/) - 类似于 `ls` 命令。
+  - [eza](https://github.com/eza-community/eza) - 类似于 `ls` 命令。
   - [fd](https://github.com/sharkdp/fd) -  类似于 `find` 命令，更简单好用。
   - [bat](https://github.com/sharkdp/bat) - 类似于 `cat` 命令，支持语法高亮等特性。
   - [ripgrep](https://github.com/BurntSushi/ripgrep) - 类似于 `grep` 命令。
@@ -662,6 +729,8 @@ _Terminal, Console, Shell, and Command Line._
 - [dog](https://dns.lookup.dog/) - 命令行 DNS 客户端。
 - [nativefier](https://github.com/nativefier/nativefier) - 可将 Web 网站转换成本地应用。
 - [hotel](https://github.com/typicode/hotel) - 利用 Web 网页启动多个服务应用并使用本地域名或者 https 协议。
+- File
+  - [csvkit](https://csvkit.readthedocs.io/en/latest/index.html) - 命令行处理 csv 文件。
 
 ### WSL
 
@@ -703,7 +772,7 @@ _Terminal, Console, Shell, and Command Line._
   - [mitmproxy](https://www.mitmproxy.org/) - Python 开发的 HTTPS 代理，**开源免费**。
   - [whistle](https://wproxy.org/whistle/)
 
-- Others
+- 其它（Others）
   - [screego](https://screego.net/#/) - 屏幕共享服务器。
   - [netdata](https://www.netdata.cloud/) - 系统指标监控 Web 平台，**开源免费**。
   - [Skia](https://skia.org/) - 2D 渲染引擎，在 Chrome、Chrome OS、Android、Flutter、Mozilla Firefox 等产品中使用。
@@ -732,6 +801,11 @@ _Static site tool._
   - [render](https://render.com/)
   - [netlify](https://www.netlify.com/)
   - [surge](https://surge.sh/help/getting-started-with-surge)
+
+- 评论系统（Comment System）
+  - [gitalk](https://github.com/gitalk/gitalk) - 基于 github 的 issues。
+  - [utterances](https://github.com/utterance/utterances) - 基于 github 的 issues。
+  - [giscus](https://giscus.app/) - 基于 github 的 Discussions。
 
 [`Go Top ↑`](#awesome-development-resources)
 

@@ -76,5 +76,10 @@ _Build tools._
 _Tool library._
 
 - [spin](https://github.com/fermyon/spin) - 构建基于 WebAssembly 的微服务框架。
+- [extism](https://extism.org/) - 跨语言框架。
+- [WebVM](https://github.com/leaningtech/webvm) - 在浏览器中运行 Linux 系统。
+
+- 数据库（Database）
+  - [PGlite](https://pglite.dev/) - 在 Web 浏览器中运行 Postgres 数据库。
 
 [`Go Top ↑`](#awesome-webassembly-list)

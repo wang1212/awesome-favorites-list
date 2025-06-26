@@ -37,16 +37,23 @@ _[AWESOME DATA SCIENCE](https://github.com/academic/awesome-datascience)_
 
 - 文档资料（Docs）
   - [InfoVis:Wiki](https://infovis-wiki.net/wiki/Main_Page) - 信息可视化社区平台。
-  - [OpenGL Wiki](https://www.khronos.org/opengl/wiki)
-  - [Graphics Related Lessons](https://github.com/gfxfundamentals)
+  - OpenGL
+    - [OpenGL.org](https://www.opengl.org/) - OpenGL 标准、资源，**官方站点**。
+    - [docs.GL](https://docs.gl/) - OpenGL API 文档，**非官方**。
+  - Vulkan
+    - [Vulkan.org](https://www.vulkan.org/) - **官方站点**。
+  - WebGL
+    - [WebGL Guide](https://xem.github.io/articles/webgl-guide.html) - _WebGL 技术指南。_
     - [WebGL Fundamentals](https://webglfundamentals.org/) - WebGL 基础知识。
     - [WebGL2 Fundamentals](https://webgl2fundamentals.org/) - WebGL2 基础知识。
     - [Three.js Fundamentals](https://threejs.org/manual/) - Three.js 基础知识。
+  - [_Graphics Related Lessons_](https://github.com/gfxfundamentals)
     - [CS307: Computer Graphics](https://cs.wellesley.edu/~cs307/index.html) - 计算机图形学公开课。
-  - [WebGL Guide](https://xem.github.io/articles/webgl-guide.html) - *WebGL 技术指南。*
-  - [CSC8820 Advanced Graphics Algorithms](https://slideplayer.com/slide/12894894/) - 一些图形算法介绍。
+    - [CSC8820 Advanced Graphics Algorithms](https://slideplayer.com/slide/12894894/) - 一些图形算法介绍。
   - [Discover three.js](https://discoverthreejs.com/book/) - 介绍了开始探索 3D Web 图形所需的所有重要概念和术语。
   - [High Dynamic Range Image Encodings](http://www.anyhere.com/gward/hdrenc/hdr_encodings.html)
+  - [Life of a Pixel](https://docs.google.com/presentation/d/1boPxbgNrTU0ddsc144rcXayGA_WF53k96imRH8Mp34Y/edit#slide=id.ga884fe665f_64_6) - 像素渲染的原理解析。
+  - [AAA - Analytical Anti-Aliasing](https://blog.frost.kiwi/analytical-anti-aliasing/) - 分析抗锯齿技术。
 
 - 公共资源（Public Resource）
   - [Shadertoy](https://www.shadertoy.com/) - 着色器代码分享。
@@ -66,6 +73,8 @@ _[AWESOME DATA SCIENCE](https://github.com/academic/awesome-datascience)_
 
 ### JavaScript
 
+- [canvas-size](https://github.com/jhildenbiddle/canvas-size) - 判断底层实现对 Canvas 大小的限制。
+
 #### 可视化工具
 
 *Data visualization tool library.*
@@ -73,6 +82,7 @@ _[AWESOME DATA SCIENCE](https://github.com/academic/awesome-datascience)_
 - 数据算法（Data Algorithm）
   - [Largest-Triangle-Three-Buckets(LTTB)](https://github.com/sveinn-steinarsson/flot-downsample) - 一种时间序列的数据集降采样算法。
   - [Flatbush](https://github.com/mourner/flatbush) - 2D 点空间索引算法，希尔伯特 R 树算法。
+  - [rbush](https://github.com/mourner/rbush) -  2D 点和矩形空间索引算法，R 树算法。
   - [The Use of Context in Pattern Recognition](https://www.bic.mni.mcgill.ca/~mallar/CS-644B/Home.html)
 
 - 3D
@@ -82,6 +92,7 @@ _[AWESOME DATA SCIENCE](https://github.com/academic/awesome-datascience)_
     - [View 3D](https://naver.github.io/egjs-view3d/) - 快速且可定制的 glTF 3D 模型查看器，功能齐全。
   - Tools
     - [stackgl](http://stack.gl/) - 编写着色器代码的工具集。
+    - [glslify](https://github.com/glslify/glslify) - Node.js 风格的模块化 GLSL。
     - [gl-matrix](https://glmatrix.net/) - 为 WebGL 应用提供高性能的矩阵属性运算能力。
   - [three.js](https://threejs.org/) - 3D WebGL 渲染引擎。
     - [three-stdlib](https://github.com/pmndrs/three-stdlib) - 用 TypeScript 重写的 [`threejs/examples/jsm`](https://github.com/mrdoob/three.js/tree/dev/examples/jsm) 的独立 npm 包。
@@ -114,6 +125,7 @@ _[AWESOME DATA SCIENCE](https://github.com/academic/awesome-datascience)_
   - [Fabric.js](http://fabricjs.com/) - 2D 绘图库，支持 Canvas、SVG。
   - [Two.js](https://two.js.org/) - Web 2D 绘图工具库，基于 Canvas、Svg、WebGL。
   - [PixiJS](https://www.pixijs.com/) - 2D WebGL 渲染引擎，高性能。
+  - [Skia Canvas](https://skia-canvas.org/) - 非浏览器环境下基于 skia 的画布实现。
   - 文本处理
     - [canvas-txt](https://canvas-txt.geongeorge.com/)
     - [canvas-hypertxt](https://github.com/glideapps/canvas-hypertxt)
@@ -143,6 +155,7 @@ _[AWESOME DATA SCIENCE](https://github.com/academic/awesome-datascience)_
     - [bonsai.js](https://bonsaijs.org/) - SVG 渲染器。
     - [lazy line painter](https://github.com/camoconnell/lazy-line-painter) - SVG 路径动画。
   - [mo.js](https://mojs.github.io/) - 丰富，强大的运动图形动画工具库。
+  - [Kinesis](https://kinesisjs.com/) - 复杂的动画工具。
 
 - 游戏引擎（Game Engine）
   - [Babylon.js](https://www.babylonjs.com/) - 3D 游戏渲染引擎。
@@ -157,11 +170,13 @@ _[AWESOME DATA SCIENCE](https://github.com/academic/awesome-datascience)_
     - [flowchart.js](http://flowchart.js.org/) - 流程图。
     - [markmap.js](https://markmap.js.org/) - Markdown 转思维导图。
     - [Penrose](https://penrose.cs.cmu.edu/)
+    - [markwhen](https://markwhen.com/) - 用 markdown 生成时间线图表。
   - [Textures.js](https://riccardoscalco.it/textures/) - 创建 SVG 模式。
   - [ztext.js](https://bennettfeely.com/ztext/) - 实现文字 3D 效果。
   - [P5.js](https://p5js.org/) - 可视化工具。
   - [Pts](https://ptsjs.org/) - 可视化工具。
   - [vis.js](https://visjs.org/) - 动态的，基于浏览器的可视化库。
+  - [Motion Canvas](https://motioncanvas.io/) - Canvas 动画视频编辑器。
 
 #### 图表
 
@@ -172,6 +187,7 @@ _[AWESOME DATA SCIENCE](https://github.com/academic/awesome-datascience)_
     - [Plot](https://observablehq.com/plot/) - 可探索性图表库，**D3.js 官方发布**。
     - [C3](https://c3js.org/) - 基于 D3.js 的可重用图表库。
     - [billboard.js](https://naver.github.io/billboard.js/) - 基于 D3.js 的图表库。
+  - [Plotly](https://plotly.com/javascript/) - 构建在 d3.js 和 stack.gl 之上，丰富的图表，支持金融、科学相关图表。
   - [Chart.js](https://www.chartjs.org/) - 最流行的轻量级库。
   - [Echarts](http://echarts.apache.org/) - 国内百度团队开发，功能丰富。
   - [Apexcharts](https://apexcharts.com/) - 图表库。
@@ -198,7 +214,6 @@ _[AWESOME DATA SCIENCE](https://github.com/academic/awesome-datascience)_
 - 其它（Others）
   - [Frappe Gantt](https://frappe.io/gantt) - 甘特图。
   - [Perspective](https://perspective.finos.org/) - 基于 C++ 的 wasm 高性能数据可视化组件。
-  - [Plotly](https://plotly.com/javascript/) - 丰富的图表，支持金融、科学相关图表。
   - [uPlot](https://github.com/leeoniya/uPlot) - 快速、轻量级的图表库。
   - [webdatarocks](https://www.webdatarocks.com/) - 创建透视表，**免费**。
   - [wordcloud2.js](https://github.com/timdream/wordcloud2.js) - 词云。
@@ -233,6 +248,7 @@ _[AWESOME DATA SCIENCE](https://github.com/academic/awesome-datascience)_
   - [dom-confetti](https://github.com/daniel-lundin/dom-confetti) - 五彩纸屑动画。
   - [Canvas Confetti](https://www.kirilv.com/canvas-confetti/) - 五彩纸屑动画。
   - [Vanta.js](https://www.vantajs.com/) - 数款页面 WebGL 背景动画。
+  - [Wavesurfer.js](https://wavesurfer.xyz/) - 开源音频可视化库，用于创建交互式、可自定义的波形。
 
 - :point_right: React.js
 

@@ -55,12 +55,14 @@
 - 标准实现状态（Standard implementation status）
   - [compatibility table](https://node.green/) - 可查询 ECMAScript API 在各个版本 Node.js 实现的状态，**非官方网站**。
 
-- [Node.js 中文网](http://nodejs.cn/) - 唯一与官方同步更新的 Node.js 中文文档。
+- 测试（Test）
+  - [Testing From A To Z](https://testjavascript.com/) - 全面详细的 Node.js 测试最佳实践。
+  - [Nodejs Testing Best Practices](https://github.com/goldbergyoni/nodejs-testing-best-practices)
+
 - [Node.js Best Practices](https://github.com/goldbergyoni/nodebestpractices) - Node.js 最佳实践。
 - [Node.js Reference Architecture](https://github.com/nodeshift/nodejs-reference-architecture) - Node.js 参考架构。
 - [Tao of Node - Design, Architecture & Best Practices](https://alexkondov.com/tao-of-node/) - 设计、架构和最佳实践。
 - [nodejs-integration-tests-best-practices](https://github.com/testjavascript/nodejs-integration-tests-best-practices) - Node.js 后端集成测试最佳实践。
-- [Testing From A To Z](https://testjavascript.com/) - 全面详细的 Node.js 测试最佳实践。
 - [hackathon-starter](https://github.com/sahat/hackathon-starter) - Node.js Web 应用模板。
 
 [`Go Top ↑`](#awesome-nodejs-list)
@@ -86,6 +88,7 @@
   - [Yarn](https://www.yarnpkg.com/)
   - [pnpm](https://pnpm.js.org/) - 支持 **Monorepo** 仓库。
   - [Bower](https://bower.io/) - （ :warning: 不再积极维护）
+  - [vlt](https://www.vlt.sh/client)
 
 - 包开发（Package Development）
   - `npm publish`
@@ -97,6 +100,7 @@
   - [release-please](https://github.com/googleapis/release-please) - 自动生成更新日志、版本更新、创建 Github Release。
   - [Denoify](https://github.com/garronej/denoify) - 为 npm 模块作者提供 Deno 支持。
   - [auto-changelog](https://github.com/CookPete/auto-changelog) - 根据提交记录和标签生成更新日志。
+  - [yalc](https://www.npmjs.com/package/yalc) - 类似 `npm link` 的工具。
 
 - 包搜索（Package Search）
   - [npm.io](https://npm.io/) - 聚合搜索引擎。
@@ -113,6 +117,8 @@
   - [runpkg](https://www.runpkg.com/) - 在线浏览 npm 包内的文件内容。
   - [pkg.land](https://pkg.land/) - 寻找替代模块（方案）。
   - [publint](https://publint.dev/) - 发现包的发布错误，并给出建议。
+  - [npm graph](https://npmgraph.js.org/) - 以树图分析 npm 包依赖。
+  - [npmpackage.info](https://npmpackage.info/)
 
 - [Monorepo](https://en.wikipedia.org/wiki/Monorepo) 工具（Monorepo Tools）
   - [*monorepo.tools*](https://monorepo.tools/)
@@ -151,6 +157,7 @@
     - [highlight.js](https://highlightjs.org/) - 页面代码高亮。
     - [Prism.js](https://prismjs.com/) - 页面代码高亮。
     - [Shiki](https://shiki.matsu.io/) - 页面代码高亮。
+      - [shiki-stream](https://github.com/antfu/shiki-stream) - 支持流式输出高亮。
   - Markdown Converter
     - [markdown-styles](https://github.com/mixu/markdown-styles) - 命令行工具，将 Markdown 文件批量转换为特定主题样式的 HTML 文件。
     - [github-markdown-css](https://github.com/sindresorhus/github-markdown-css) - 最小的 Github 风格的 Markdown 样式。
@@ -183,6 +190,8 @@
   - [0x](https://github.com/davidmarkclements/0x)
   - [clinic.js](https://clinicjs.org/) - 性能分析、监控、指标收集。
   - [Tinybench](https://github.com/tinylibs/tinybench) - 基准测试。
+  - [mitata](https://github.com/evanwashere/mitata) - 基准测试，支持自动 GC，可视化结果。
+  - [autocannon](https://github.com/mcollina/autocannon) - HTTP 请求基准测试。
 
 - 测试（Test）
   - [Mocha](https://mochajs.org/)
@@ -208,6 +217,7 @@
   - [Nock](https://github.com/nock/nock) - 模拟 API 服务，响应指定测试数据。
   - [Mock.js](http://mockjs.com/) - 模拟 API 服务，响应随机测试数据。
   - [Mock Service Worker](https://mswjs.io/) - 利用 `Service Worker` API 拦截请求并实现 Mock API。
+  - [Mentoss](https://mentoss.dev/) - 模拟 fetch 请求。
   - [Mirage JS](https://miragejs.com/)
   - [faker.js](https://github.com/marak/faker.js) - 生成大量随机测试数据，可用来开发过程中进行 API 调试。
   - [Chance](https://chancejs.com/) - 生成随机的测试数据。
@@ -286,9 +296,13 @@
 - 代码静态分析（Code Static Analysis）
   - [ESLint](https://eslint.org/) - JavaScript 语法规则检查工具。
   - [Prettier](https://prettier.io/) - 代码格式化工具，支持多种语言。
+  - [Biome](https://biomejs.dev/) - 快速格式化程序，兼容 ESLint/Prettier。
   - [stylelint](https://stylelint.io/) - CSS 语法规则检查工具，支持 CSS/Sass/CSS-in-JS 等。
   - [Flow](https://flow.org/) - Facebook 出品的 JavaScript 静态类型检查工具。
   - [sonar.js](https://github.com/SonarSource/sonarjs) - 代码质量分析。
+  - AST - Abstract Syntax Tree
+    - [acorn](https://github.com/acornjs/acorn) - JavaScript AST 解析工具。
+    - [ts-morph](https://ts-morph.com/) - TypeScript AST 解析工具。
 
 - 代码版本管理（Code version management ）
   - [husky](https://github.com/typicode/husky) - 更容易的使用 [Git Hooks](https://git-scm.com/book/it/v2/Customizing-Git-Git-Hooks)。
@@ -346,6 +360,7 @@
     - [deepmerge](https://github.com/TehShrike/deepmerge) - 对象的深度合并，可自定义合并策略。
     - [simple-statistics](https://simple-statistics.github.io/) - 一些常用的统计方法。
     - [Radash](https://radash-docs.vercel.app/docs/getting-started) - 现代的、函数式工具库。
+    - [es-toolkit](https://es-toolkit.slash.page/)
   - 深度相等判断（Equal depth）
     - [fast-deep-equal](https://github.com/epoberezkin/fast-deep-equal) - 高性能，支持比较 ES6 Map, Set 和 Typed arrays。（ :warning: 不再更新）
     - [dequal](https://github.com/lukeed/dequal)
@@ -369,6 +384,7 @@
   - [Day.js](https://github.com/iamkun/dayjs) - 现代化、轻量级日期、时间处理库。
   - [ms](https://github.com/vercel/ms) - 毫秒和人类可读字符串格式互相转换工具。
   - [pretty-ms](https://github.com/sindresorhus/pretty-ms) - 毫秒转换为人类可读字符串。
+  - [spacetime](https://github.com/spencermountain/spacetime) - 日期计算器。
 
 - 科学计算（Compute - Math && High precision && Scientific Computing）
   - [math.js](https://mathjs.org/) - 基本数学计算。
@@ -404,6 +420,9 @@
   - [node-qrcode](https://github.com/soldair/node-qrcode) - 二维码生成。
   - [Awesome-qr.js](https://www.bitcat.cc/webapp/awesome-qr/index.html) - 个性化二维码生成。（ :warning: 不再更新）
 
+- 条形码（BarCode）
+  - [bwip-js](https://github.com/metafloor/bwip-js) 
+
 - 文件（File）
   - utils tools
     - [fs-extra](https://github.com/jprichardson/node-fs-extra) - 作为官方原生 [`fs`](https://nodejs.org/api/fs.html) 模块的补充和优化。
@@ -424,6 +443,7 @@
     - [jsdom](https://github.com/jsdom/jsdom) - Web 标准的纯 JavaScript 实现。
     - [cheerio](https://cheerio.js.org/) - 包装了[parse5](https://github.com/inikulin/parse5) 和 [htmlparser2](https://github.com/fb55/htmlparser2/) 的轻量级 HTML 文档解析库，具有类 jQuery 的 api。
     - [turndown](https://github.com/mixmark-io/turndown) - 将 HTML 内容转换为 Markdown 格式。
+    - [html-entities](https://github.com/mdevils/html-entities) - html 实体转义字符编码、解码。
   - markdown
     - [Marked](https://marked.js.org/) - Markdown 解析器。
     - [markdown-it](https://github.com/markdown-it/markdown-it) - Markdown 解析器。
@@ -431,6 +451,7 @@
     - [front-matter](https://github.com/jxson/front-matter) - 解析 Front Matter。
     - [Showdown](https://showdownjs.com/) - Markdown 到 HTML 的转换器。
     - [Markdoc](https://markdoc.dev/) - 一种基于 Markdown 的语法和工具链，用于创建自定义文档站点。
+    - [markdown-link-check](https://github.com/tcort/markdown-link-check) - 死链检查。
   - json/json5/jsonl
     - [stream-json](https://github.com/uhop/stream-json) - 大型数据集的流式处理。
     - [JSON5](https://json5.org/) - JSON5 格式数据解析、序列化。
@@ -447,6 +468,7 @@
     - [officegen](https://github.com/Ziv-Barber/officegen) - 生成 Office 文档。
     - [docx](https://github.com/dolanmiu/docx) - 生成 docx 文档。
     - [mammoth](https://github.com/mwilliamson/mammoth.js) - docx 转换成 HTML。
+    - [docxtemplater](https://docxtemplater.com/docs/goals/) - 根据模板生成 docx、pptx、xlsx 文档。
   - pptx
     - [PptxGenJS](https://gitbrent.github.io/PptxGenJS/) - 生成 `pptx` 文件。
   - pdf
@@ -511,6 +533,7 @@
 - 沙箱（Sandbox）
   - [vm2](https://github.com/patriksimek/vm2)
   - [isolated-vm](https://github.com/laverdet/isolated-vm)
+  - [QuickJS](https://github.com/sebastianwessel/quickjs)
 
 - 邮件（SMTP）
   - [Nodemailer](https://nodemailer.com/) - 邮件发送。

@@ -55,6 +55,7 @@ _Python package (or library) manager._
   - [pip](https://pip.pypa.io/) - Python 官方包管理器，从 [PyPI](https://pypi.org/) 官方仓库安装包。
   - [Anaconda](https://www.anaconda.com/) - 包含 [Conda](https://docs.conda.io/) 包管理器和 Python 发行版，包含上百个科学计算和机器学习库，开箱即用。
     - [Miniconda](https://docs.conda.io/en/latest/miniconda.html) - Anaconda 微型版本，仅包含 Conda 和 Python 发行版和必要的依赖库。
+  - [uv](https://docs.astral.sh/uv/) - 一个用 Rust 编写的极快的 Python 包和项目管理器。
 
 - 虚拟环境（Virtual Environment）
   - [poetry](https://python-poetry.org/) - 支持虚拟环境管理、依赖管理、发布构建。
@@ -75,6 +76,9 @@ _Some build tools that can be used to configure the environment, compile, type c
 - 测试（Test）
   - [pytest](https://docs.pytest.org/) - 单元测试框架。
   - [Faker](https://github.com/joke2k/faker) - 生成随机数据。
+
+- 命令行应用（CLIs）
+  - [Typer](https://typer.tiangolo.com/)
 
 [`Go Top ↑`](#awesome-python-list)
 
@@ -115,6 +119,7 @@ _Command-line applications, build tools and utilities._
 _Database._
 
 - [SQLAlchemy](https://www.sqlalchemy.org/) - Python SQL 工具包和 ORM 库。
+- [SQLModel](https://sqlmodel.tiangolo.com/)
 
 [`Go Top ↑`](#awesome-python-list)
 

@@ -115,6 +115,7 @@
 *Some classic and well-known journals, newspapers and magazines.*
 
 - [IEEE Spectrum](https://spectrum.ieee.org/) - IEEE 旗舰杂志和网站。
+- [Substack](https://substack.com/) - 知识订阅社区。
 
 ### 计算机技术
 
@@ -273,6 +274,8 @@
 
 *Computer Graphics.*
 
+- [《Real-Time Rendering》](https://www.realtimerendering.com/)
+  - [《Real-Time-Rendering-4th-CN》](https://github.com/Morakito/Real-Time-Rendering-4th-CN) - 中文翻译，**可在线免费阅读，非官方**。
 - [《Learn OpenGL》](https://learnopengl.com/) - 学习 OpenGL，**可在线免费阅读**。
 - [《OpenGL Book》](https://openglbook.com/) - 学习 OpenGL，**可在线免费阅读**。
 - [《WebGL Insights》](https://webglinsights.github.io/index.html) - WebGL 技术实践，**免费阅读**。
@@ -288,6 +291,7 @@
 - Three.js
   - [《Three.js Essentials》](http://informatics.edu.mn/three.js/files/book/ThreejsEssentials.pdf) Jos Dirksen - Three.js 基本概念和示例，**可在线免费阅读**。
 - [Game Programming Patterns](https://gameprogrammingpatterns.com/) - 游戏编程模式，**可在线免费阅读**。
+- [Introduction to Computer Graphics](https://math.hws.edu/graphicsbook/) - 计算机图形学概论，**可在线免费阅读**。
 
 #### 数据库
 

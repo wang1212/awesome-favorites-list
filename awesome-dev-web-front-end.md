@@ -7,7 +7,7 @@
 
 <br />
 
-（Recommend）推荐看看 W3C（World Wide Web Consortium，万维网联盟） 官方网站，:point_right: <https://www.w3.org/>
+（Recommend）推荐看看 W3C（World Wide Web Consortium，万维网联盟） 官方网站， :point_right: <https://www.w3.org/>
 
 ## 目录
 
@@ -39,7 +39,7 @@
 - [数据可视化（Data Visualization）](./awesome-dev-data-visualization.md#javascript)
 - [开发框架（Framework）](#开发框架)
 - [应用状态管理（Application State Management）](#应用状态管理)
-- [Progressive web apps](#pwa)
+- [渐进式 Web 应用（Progressive Web Apps）](#pwa)
 - [WebAssembly](awesome-dev-web-webassembly.md)
 - [深入探索（Explore In Depth）](#深入探索)
 - [更多（More）](#更多)
@@ -65,12 +65,19 @@
 *Official and unofficial technical reference documents.*
 
 - 标准实现状态（Standard implementation status）
-  - [Chrome Blink status](https://www.chromestatus.com/) - Google Chrome 的 Blink 引擎功能特性的官方实现和标准化的开发状态查询列表，**官方网站**。
-  - [Firefox status](https://platform-status.mozilla.org/) - Firefox 的 Web 平台功能的官方实现和标准化路线图查询列表，**官方网站**。
-  - [Webkit](https://webkit.org/) - Webkit 浏览器引擎的官方网站，可查询其功能特性的实现和标准化状态，**官方网站**。
-  - [Can I use](https://caniuse.com/) - 可以查询特定 Web API（H5、CSS3）在各个浏览器平台的实现和标准化状态，**非官方网站**。
-  - [Can I email](https://www.caniemail.com/) - 可以查询特定 Web API（H5、CSS3）在各个邮件客户端平台的实现和标准化状态，**非官方网站**。
-  - [compatibility table](https://kangax.github.io/compat-table/) - 可以查询 ECMAScript API 在各平台实现的状态，**非官方网站**。
+  - 官方（Official） 
+    - [Chrome Blink status](https://www.chromestatus.com/) - Google Chrome 的 Blink 引擎功能特性的官方实现和标准化的开发状态查询列表，**官方网站**。
+    - [Firefox status](https://platform-status.mozilla.org/) - Firefox 的 Web 平台功能的官方实现和标准化路线图查询列表，**官方网站**。
+    - [Webkit](https://webkit.org/) - Webkit 浏览器引擎的官方网站，可查询其功能特性的实现和标准化状态，**官方网站**。
+  - 社区（Community）
+    - [Can I use](https://caniuse.com/) - 可以查询特定 Web API（H5、CSS3）在各个浏览器平台的实现和标准化状态，**非官方网站**。
+    - [Web Platform Status](https://webstatus.dev/)
+    - [Can I email](https://www.caniemail.com/) - 可以查询特定 Web API（H5、CSS3）在各个邮件客户端平台的实现和标准化状态，**非官方网站**。
+    - [compatibility table](https://kangax.github.io/compat-table/) - 可以查询 ECMAScript API 在各平台实现的状态，**非官方网站**。
+    - [web-platform-tests](https://wpt.fyi/)
+    - Dataset
+      - [browser-compat-data](https://github.com/mdn/browser-compat-data/) - MDN 网站上的 Web 技术兼容性数据。
+      - [web-features](https://github.com/web-platform-dx/web-features) 
 
 - 开发文档（Dev docs）
   - [MDN Developer Document](https://developer.mozilla.org/en-US/) - MDN Web Docs 网站提供开放网络（Open Web）技术有关的信息，包括用于网站和渐进式网络应用的 HTML、CSS 和 API，是提供给 Web 开发者最好的学习资料和技术文档，**可作为官方标准参阅学习**。
@@ -104,6 +111,7 @@
 
 - [HTML Reference](https://htmlreference.io/) - HTML 指南。
 - [HTML DOM](https://htmldom.dev/) - 有用的 HTML 代码片段。
+- [Entity Code](https://entitycode.com/) - 快速的实体代码索引查询。
 
 ### HTML 工具库
 
@@ -144,7 +152,7 @@
   - [cssdb](https://cssdb.org/) - CSS 新特性列表。
   - [CSS Triggers](https://csstriggers.com/) - 一些改变会导致重绘、重布局的 CSS 属性。
     - [What forces layout / reflow](https://gist.github.com/paulirish/5d52fb081b3570c81e3a) - 一些会导致重绘、重布局的 DOM 操作。
-  - [CSS Reference](https://cssreference.io/) - CSS 视觉指南。
+  - [CSS Reference](https://cssreference.io/) - CSS 视觉指南，通过示例直观的学习 css。
 
 - 工具（Tools）
   - [CSS Layout](https://csslayout.io/) - 流行的 CSS 布局方案参考。
@@ -203,6 +211,7 @@
 
 - 加载器（Loading / Spinners）
   - [Whirl](https://whirl.netlify.app/) - CSS Loading 动画。
+  - [loadership](https://www.loadership.com/)
 
 [`Go Top ↑`](#awesome-web-front-end-list)
 
@@ -272,7 +281,10 @@
   - Lazy load
     - [Lozad.js](https://github.com/ApoorvSaxena/lozad.js) - 轻量、高性能图片懒加载工具，使用了 [Intersection Observer API](https://developer.mozilla.org/en-US/docs/Web/API/Intersection_Observer_API)。
     - [unlazy](https://unlazy.byjohann.dev/)
+    - [imagesloaded](https://github.com/desandro/imagesloaded) - 检测图片何时加载完成。
+    - [infinite-scroll](https://infinite-scroll.com/) - 无限滚动。
   - [clipboard.js](https://clipboardjs.com/) - 现代的粘贴板工具库。
+  - [share-url](https://nigelotoole.github.io/share-url/) - 现代的链接分享。
   - [Tether](http://tether.io/) - 元素跟踪定位工具。
     - [popper.js](https://popper.js.org/) - 元素定位工具。
   - [Quicklink](https://getquick.link/) - 预请求视区内的资源，加快页面加载速度。
@@ -287,6 +299,7 @@
       - [html-to-image](https://github.com/bubkoo/html-to-image)
     - [signature_pad](https://szimek.github.io/signature_pad/) - 手写签名。
     - [atrament](https://github.com/jakubfiala/atrament) - 手绘。
+  - [satori](https://github.com/vercel/satori) - 将 HTML 和 CSS 转换为 SVG。
   - [linkifyjs](https://github.com/Hypercontext/linkifyjs) - 处理文本中的链接、邮箱地址等，将其转为相应的 HTML 标签。
 
 - 事件（Event）
@@ -303,6 +316,7 @@
     - [Hotkeys](https://wangchujiang.com/hotkeys/) - 处理键盘事件。
     - [Hotkey](https://github.com/github/hotkey) - 处理键盘事件。
   - [Selecto.js](https://github.com/daybrush/selecto) - 拖动选择元素，支持鼠标和触摸事件。
+  - [Swapy](https://swapy.tahazsh.com/) - 使布局支持拖动交换。
 
 - Cookie
   - [js-cookie](https://github.com/js-cookie/js-cookie) - 轻量的 Cookie 处理工具库。
@@ -318,6 +332,7 @@
   - [FlexSearch](https://github.com/nextapps-de/flexsearch)
   - [search-index](https://github.com/fergiemcdowall/search-index)
   - [MiniSearch](https://lucaong.github.io/minisearch/)
+  - [pagefind](https://pagefind.app/) - 页面搜索工具。
 
 - 客户端数据库（Client Database）
   - [localForage](https://github.com/localForage/localForage) - 离线存储，对 IndexedDB、WebSQL、localStorage 的封装。
@@ -335,11 +350,13 @@
     - [FileSaver.js](https://github.com/eligrey/FileSaver.js/) - Web 浏览器客户端文件保存 api 实现。
     - [StreamSaver.js](https://github.com/jimmywarting/StreamSaver.js) - Web 浏览器客户端异步保存文件 api 实现，解决了 FileSaver 的大小限制问题。
   - image
+    - [Jimp](https://jimp-dev.github.io/jimp/) - 图片操作库。
     - [Pica](http://nodeca.github.io/pica/demo/) - 图片质量调整。
     - [merge-images](https://github.com/lukechilds/merge-images) - 图片拼接合并。
     - [blurify](https://github.com/JustClear/blurify) - 图片模糊化。
     - [Compressor.js](https://fengyuanchen.github.io/compressorjs/) - 图片压缩。
     - [Lena.js](https://fellipe.com/demos/lena-js/) - 图片滤镜。
+    - [image-js](https://github.com/image-js/image-js) - 图片数据科学处理。
   - audio
     - [howler.js](https://howlerjs.com/) - 强大的音频处理工具库，支持所有的编解码器，跨浏览器支持。
   - svg
@@ -372,12 +389,15 @@
   - [api-extractor](https://api-extractor.com/) - 帮助更好的管理 TypeScript 编写的包。
   - [ts-reset](https://github.com/total-typescript/ts-reset) - 增强内置类型。
   - [tsdiagram](https://tsdiagram.com/) - 可视化类型定义。
+  - [tsc-alias](https://github.com/justkey007/tsc-alias) - 支持为生成的 js 文件添加扩展名。
 
 [`Go Top ↑`](#awesome-web-front-end-list)
 
 ## UI 资源
 
 *UI resources.*
+
+[21st.dev](https://21st.dev/) - 为设计师提供的 npm 平台。
 
 ### 字体图标
 
@@ -419,8 +439,20 @@
 - [Material Components Web](https://material.io/develop/) - 基于 Material Design 的 Web 组件库，**Google 官方实现**。
 - [Materialize](https://materializecss.com/) - 最流行的实现了 Google Material Design 的 CSS UI 框架。
 
+#### Animation Components
+
+- [Magic UI](https://github.com/magicuidesign/magicui) - 动画组件。
+- [Spark UI](https://spark-ui.dev/) - 动画组件。
+- [Aceternity UI](https://ui.aceternity.com/)
+- [Animate UI](https://animate-ui.com/)
+
+#### AI Chat
+
+- [LangUI](https://www.langui.dev/)
+
 ##### 其它（Others）
 
+- [shadcn/ui](https://ui.shadcn.com/)
 - [UIkit](https://getuikit.com/) - 轻量级的现代化前端模块化 CSS 框架。
 - [Framework7](https://framework7.io/) - 跨平台 UI 库，支持 Android/ios/Desktop 平台，且主题样式设计适配相应平台。
   - [Tailwind Mobile](https://tailwind-mobile.com/)
@@ -437,7 +469,7 @@
 - [Skeleton](http://getskeleton.com/) - 简单的响应式 CSS 框架。（ :warning: 不再更新）
 - [egjs](https://naver.github.io/egjs/) - 提供多个可用的独立组件。
 - [Theme UI](https://theme-ui.com/) - 设计图框架。
-- [shadcn/ui](https://ui.shadcn.com/)
+- [WebTUI](https://webtui.ironclad.sh/) - 命令行终端风格。
 
 #### 独立组件
 
@@ -506,18 +538,20 @@
   - [DropzoneJS](https://www.dropzonejs.com/) - 文件上传组件，支持拖放文件、图片预览功能。
 
 - 拖拽布局（Drag Layout）
-  - [Muuri](https://muuri.dev/) - 支持拖放布局、过滤动画等。
-  - [Packery](https://packery.metafizzy.co/) - 需**商业许可**。
+  - [Muuri](https://muuri.dev/) - 支持拖放布局、过滤动画等。（ :warning: 不再维护）
+  - [Packery](https://packery.metafizzy.co/)
   - [gridstack.js](https://gridstackjs.com/)
   - [DragSelect](https://dragselect.com/) - 拖放布局，拖拽框选。
   - [plain-draggable](https://anseki.github.io/plain-draggable/)
   - [draggable](https://shopify.github.io/draggable/)
-  - [DFlex](https://www.dflex.dev/)
+  - [DFlex](https://github.com/dflex-js/dflex)
 
-- 列表（List）
+- 列表与网格（List & Grid）
   - [List.js](https://listjs.com/) - 为列表提供过滤、排序等功能。
   - [Dragula](https://bevacqua.github.io/dragula/) - 支持拖放排序的列表组件。（ :warning: 不再维护）
   - [SortableJS](https://sortablejs.github.io/Sortable/) - 支持拖放排序的列表组件，支持 React.js、Vue.js 等。
+  - [InfiniteGrid](https://naver.github.io/egjs-infinitegrid/) - 无限网格布局。
+  - [Masonry](https://github.com/desandro/masonry) - 堆砌、瀑布流布局。
 
 - 过滤器（Filter）
   - [Isotope](https://isotope.metafizzy.co/) - 列表过滤动画。
@@ -571,7 +605,6 @@
     - [BetterScroll](https://better-scroll.github.io/docs/en-US/)
   - [sharer.js](https://ellisonleao.github.io/sharer.js/) - 创建社交网站分享按钮。
   - [ninja-keys](https://github.com/ssleptsov/ninja-keys) - 为页面添加键盘快捷键导航功能界面。
-  - [InfiniteGrid](https://naver.github.io/egjs-infinitegrid/) - 无限网格布局。
   - [Atropos](https://atroposjs.com/) - 轻量的用于创建 3D 悬停视差效果的组件。
   - [Barba.js](https://barba.js.org/) - 在页面之间创建平滑的过渡动画。
 
@@ -698,6 +731,7 @@
 
 - [Read JavaScript Source Code, Using an AST](https://www.digitalocean.com/community/tutorials/js-traversing-ast) - 文章，通过 AST 了解 JavaScript 源码。
 - [AST Explorer](https://astexplorer.net/) - 在线预览 JavaScript 代码片段的 AST。
+- [ts-ast-viewer](https://ts-ast-viewer.com/) - 语法抽象树查看器。
 
 ### 性能分析
 
@@ -710,6 +744,10 @@
 - 工具（Tools）
   - [Perfume.js](https://zizzamia.github.io/perfume/) - 性能监控工具。
   - [stats.js](http://mrdoob.github.io/stats.js/) - 性能监控调试面板。
+  - [fpsmeter](https://github.com/darsain/fpsmeter) - FPS 监视器。
+
+- 其它（Others）
+  - [Maybe you don't need Rust and WASM to speed up your JS](https://mrale.ph/blog/2018/02/03/maybe-you-dont-need-rust-to-speed-up-your-js.html)
 
 ### 应用架构
 
@@ -726,6 +764,7 @@
 - [The complete guide to CSS media queries](https://polypane.app/blog/the-complete-guide-to-css-media-queries/)
 - [Web Applications 101](https://www.robinwieruch.de/web-applications/)
 - [The Super Tiny Compiler](https://github.com/jamiebuilds/the-super-tiny-compiler) - 了解一些编译原理。
+- [Client-side Rendering](https://github.com/theninthsky/client-side-rendering) - 客户端渲染案例研究。
 
 [`Go Top ↑`](#awesome-web-front-end-list)
 
@@ -767,7 +806,7 @@
   - [webhint](https://webhint.io/) - 类似 Lighthouse，**OpenJS 基金会**项目。
   - [Waterfaller](https://waterfaller.dev/) - 用来分析站点网络请求并提供优化建议的工具。
   - [Yellow Lab  Tools](https://yellowlab.tools/) - 站点分析优化工具。
-  - [Varvy SEO tool](https://varvy.com/) - 一个在线网站 SEO、性能检测工具，提供优化建议和技巧。
+  - [Varvy SEO tool](https://varvys.com/) - 一个在线网站 SEO、性能检测工具，提供优化建议和技巧。
   - [What Web Can Do](https://whatwebcando.today/) - 可以检测当前设备所支持的 Web API，主要检测硬件设备传感器等，**非官方网站**。
 
 - 其它（Others）

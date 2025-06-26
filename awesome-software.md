@@ -11,10 +11,11 @@
 
 - [应用程序商店（Application store）](#应用程序商店)
 - [软件包管理器（Software Package Manager）](#软件包管理器)
-- [Chrome 扩展程序（Chrome Extension）](#chrome-扩展程序)
+- [Chrome 扩展应用（Chrome Extension）](#chrome-扩展应用)
 - [浏览器端（Web && PWA）](#浏览器端)
 - [安卓端（Android）](#安卓端)
 - [桌面端（Desktop）](#桌面端)
+- [电视端（TV）](#电视端)
 - [操作系统（Operating System）](#操作系统)
 - [更多（More）](#更多)
 
@@ -39,9 +40,14 @@
   - [APKPure](https://apkpure.com/)
   - [APKLinker](https://www.apklinker.com/)
   - [Apk Follow](https://www.apkfollow.com/)
+- AI Native
+  - [All Things AI](https://allthingsai.com/) - 最新 AI 工具和服务的精选目录。
+  - [AI Agents Directory](https://aiagentslist.com/) - AI 智能体应用目录。
+  - [AI Agent Marketplace](https://aiagentstore.ai/) - AI 智能体应用市场。
 - Others
   - [Product Hunt](https://www.producthunt.com/) - 最受欢迎的科技产品发布站点。
-  - [All Things AI](https://allthingsai.com/) - 最新 AI 工具和服务的精选目录。
+  - _[Awesome macOS open source applications](https://github.com/serhii-londar/open-source-mac-os-apps#window-management) - 出色的 MacOS 开源应用列表。_
+    - _[awesome-open-source-mac-apps](https://indiegoodies.com/awesome-open-source-mac-apps)_
 
 [`Go Top ↑`](#awesome-software)
 
@@ -57,9 +63,13 @@
 - [Scoop](https://scoop.sh/)
 - [WinGet](https://github.com/microsoft/winget-cli) - **微软官方发布**。
 
+### Others
+
+- [Homebrew](https://brew.sh/) - macOS / Linux。
+
 [`Go Top ↑`](#awesome-software)
 
-## Chrome 扩展程序
+## Chrome 扩展应用
 
 *[Chrome](https://www.google.com/chrome/) browser extension.*
 
@@ -164,6 +174,7 @@
   - [Compress Image Online](https://compressimage.io/)
   - [Squoosh](https://squoosh.app/)
   - [Compress PNG](https://compresspng.com/)
+  - [WebsitePlanet - Image Compressor](https://www.websiteplanet.com/webtools/imagecompressor/)
   - [Picdiet](https://www.picdiet.com/)
   - [TinyPNG](https://tinypng.com/)
   - [Optimizilla](https://imagecompressor.com/)
@@ -239,12 +250,15 @@
 - [diagrams.net](https://www.diagrams.net/) - 流程图、UML 图绘制工具，**开源软件**。（提供安装包版本）
 - [mermaid.live](https://mermaid.live/) - [mermaid](https://mermaid-js.github.io/mermaid/) 实时编辑器，**开源软件**。
 - [PlantUML](https://plantuml.com/) - 快速使用简洁的文本描述生成 UML 图。
-- [svg-path-editor](https://yqnn.github.io/svg-path-editor/) - [svg `path`](https://developer.mozilla.org/en-US/docs/Web/SVG/Attribute/d) 编辑器。
+- SVG Viewer & Editor
+  - [SVGViewer](https://www.svgviewer.dev/)
+  - [svg-path-editor](https://yqnn.github.io/svg-path-editor/) - [svg `path`](https://developer.mozilla.org/en-US/docs/Web/SVG/Attribute/d) 编辑器。
 - 虚拟白板（virtual whiteboard）
   - [excalidraw](https://excalidraw.com/) - 虚拟手绘风格白板，支持协作，**开源软件**。
   - [tldraw](https://www.tldraw.com/) - 虚拟白板，支持协作，**开源软件**。
   - [WiteBoard](https://witeboard.com/) - 共享协作画板。
   - [OkSo](https://okso.app/) - 虚拟白板，支持嵌入跳转。
+  - [DGM](https://dgm.sh/)
 
 #### ASCII Art
 
@@ -306,6 +320,7 @@
 - 字体工具
   - [fontfamily.io](http://fontfamily.io/) - 查看字体在各个平台的兼容性。
   - [Modern Font Stacks](https://modernfontstacks.com/) - 现代字体堆栈。
+  - [uifonts](https://www.uifonts.app/) - 实时预览字体效果。
 
 - 字体资源
   - [Google Fonts](https://fonts.google.com/) - 免费开源的字体集合。
@@ -373,22 +388,34 @@
 
 *Practical tools, such as software tools such as translation and notes.*
 
-- [PowerToys](https://github.com/microsoft/PowerToys) - 实用工具集，**微软出品，免费软件**。
-- [Listary](https://www.listary.com/) - 可快速搜索文件，启动应用软件，**个人用户免费**。
-- [ShareX](https://getsharex.com/) - 截屏、录屏、文本转换、DNS 更换等等，生产力工具，**开源软件**。
-- [CopyTranslator](https://github.com/CopyTranslator/CopyTranslator) - 桌面划词翻译，**开源软件**。
-- [Rainmeter](https://www.rainmeter.net/) - Windows 桌面自定义小工具，**开源软件**。
-- [uTools](http://www.u.tools/) - 生产力工具，包含许多小工具，**免费软件**。
-- [Module Art](https://moduleart.github.io/) - 软件集合，包含图片浏览器、录屏软件等，**开源软件**。
-- [Flow Launcher](https://www.flowlauncher.com/) - 应用启动器，**开源软件**。
-- [Gitify](https://www.gitify.io/) - Github 通知提醒，**开源软件**。
+- 启动器（Launcher）
+  - [Listary](https://www.listary.com/) - 可快速搜索文件，启动应用软件，**个人用户免费**。
+  - [Flow Launcher](https://www.flowlauncher.com/) - 应用启动器，**开源软件**。`Windows`
+  - [Raycast](https://www.raycast.com/) - **可免费使用**。`MacOS`
+ 
+- 工具箱（Toolbox）
+  - [PowerToys](https://github.com/microsoft/PowerToys) - 实用工具集，**微软出品，开源软件**。
+  - [ShareX](https://getsharex.com/) - 截屏、录屏、文本转换、DNS 更换等等，生产力工具，**开源软件**。
+  - [uTools](http://www.u.tools/) - 生产力工具，包含许多小工具，**免费软件**。
+  - [DevToys](https://github.com/DevToys-app/DevToys) - 开发生产力工具箱，**开源软件**。
+
+- Github Notifications
+  - [Gitify](https://www.gitify.io/) - **开源软件**。
+  - [neat](https://neat.run/) - **开源软件**。
+  
+- Others
+  - [CopyTranslator](https://github.com/CopyTranslator/CopyTranslator) - 桌面划词翻译，**开源软件**。
+  - [Module Art](https://moduleart.github.io/) - 软件集合，包含图片浏览器、录屏软件等，**开源软件**。
+  - [rime](https://rime.im/) - 输入法算法框架，**开源软件**。
 
 #### 粘贴板
 
 *Clipboard.*
 
+- [Clipy](https://clipy-app.com/) - 粘贴板历史记录工具，**开源软件**。`MacOS`
+- [Ditto](https://ditto-cp.sourceforge.io/) - 粘贴板历史记录工具，**开源软件**。`Windows`
 - [CopyQ](https://hluk.github.io/CopyQ/) - 粘贴板管理工具，**开源软件**。
-- [Ditto](https://ditto-cp.sourceforge.io/) - 粘贴板管理工具，**开源软件**。
+- [Maccy](https://maccy.app/) - 极简粘贴板管理工具，**开源软件**。`MacOS`
 - [PasteEx](https://github.com/huiyadanli/PasteEx) - 将粘贴板内容保存成文件，**开源软件**。
 
 #### 录屏与截屏
@@ -396,10 +423,11 @@
 *Screen recording and screenshots.*
 
 - [Captura](https://mathewsachin.github.io/Captura/) - 轻量级、功能齐全的录屏、截屏软件，需安装 FFmpeg 依赖，**开源软件**。（ :warning: 停止维护）
-- [ScreenToGif](https://www.screentogif.com/) - 带有集成编辑器的屏幕、网络摄像头和素描板录制器，**免费软件**。
+- [ScreenToGif](https://www.screentogif.com/) - 带有集成编辑器的屏幕、网络摄像头和素描板录制器，**免费软件**。`Windows`
+- [Kap](https://getkap.co/) - 屏幕录制工具，**开源软件**。`MacOS`
 - [LICEcap](https://www.cockos.com/licecap/) - 录屏并保存为 gif，**开源软件**。
 - [Snipaste](https://www.snipaste.com/) - 截图小工具，支持屏幕取色，**免费软件**。
-- [PicPick](https://picpick.app/zh/) - 全功能设计工具，支持截屏、录屏、白板、坐标测量、屏幕取色，**提供个人免费版本**。
+- [PicPick](https://picpick.app/zh/) - 全功能设计工具，支持截屏、录屏、白板、坐标测量、屏幕取色，**提供个人免费版本**。`Windows`
 - [carnac](http://carnackeys.com/) - 在屏幕上显示按键信息，**免费开源软件**。（ :warning: 停止维护）
 - [Keyviz](https://mularahul.github.io/keyviz/) - **免费开源软件**。
 
@@ -448,6 +476,7 @@
 - [Xtreme Download Manager](https://subhra74.github.io/xdm/) - 提供了很多浏览器插件支持，支持视频格式转换，**开源软件**。
 - [qBittorrent](https://www.qbittorrent.org/) - BitTorrent 下载工具，**开源软件**。
 - [aria2](https://aria2.github.io/) - 命令行工具，支持多协议、高速文件下载工具，**开源软件**。
+- [motrix](https://motrix.app/) - 全功能下载管理工具，**开源软件**。
 
 #### 管理工具
 
@@ -498,7 +527,8 @@
 - [HandBrake](https://handbrake.fr/) - 视频格式转换工具，**开源软件**。
 - [FFmpeg](http://ffmpeg.org/) - 命令行工具，完整的、跨平台的解决方案，用于记录、转换和流传输音频和视频，**开源软件**。
   - [LosslessCut](https://github.com/mifi/lossless-cut) - GUI 客户端。
-  - [editly](https://github.com/mifi/editly)
+  - [editly](https://github.com/mifi/editly) - 使用 node.js 和 ffmpeg 的声明性 NLE（非线性视频编辑）的工具和框架。
+  - [FFmpeg By Example](https://ffmpegbyexample.com/) - 一个文档网站，可展示使用FFMPEG的所有独特和不同的方法。
 
 #### 压缩文档
 
@@ -557,6 +587,7 @@
   - [Lepton](https://hackjutsu.com/Lepton/) - 代码片段管理，由 GitHub Gist 驱动，**开源软件**。
   - [heynote](https://heynote.com/) - 为开发者提供的专用便签本，**开源软件**。
 - [Xournal++](https://xournalpp.github.io/) - 手写笔记软件，**开源软件**。
+- [zotero](https://www.zotero.org/)
 
 #### 思维导图
 
@@ -595,14 +626,18 @@
 *System management and maintenance tools.*
 
 - [CPU-Z](https://www.cpuid.com/softwares/cpu-z.html) - CPU 检测工具。
-- [GPU-Z](https://www.techpowerup.com/gpuz/) - GPU 检测工具。
-- [LeoMoon CPU-V](https://leomoon.com/downloads/desktop-apps/leomoon-cpu-v/) - 检测 CPU 是否支持硬件虚拟化。
+  - [GPU-Z](https://www.techpowerup.com/gpuz/) - GPU 检测工具。
+  - [LeoMoon CPU-V](https://leomoon.com/downloads/desktop-apps/leomoon-cpu-v/) - 检测 CPU 是否支持硬件虚拟化。
 - [Dism++](https://www.chuyu.me/) - 实用的系统优化维护工具。
 - [ActivityWatch](https://activitywatch.net/) - 跟踪设备时间进行统计，**开源软件**。
 - [WhatPulse](https://whatpulse.org/) - 记录 PC 活动情况，例如统计键盘热力图、带宽情况等等，**提供免费版本**。
 - [Dns Jumper](https://www.sordum.org/7952/dns-jumper-v2-2/) - 测速、快速切换 DNS 工具，**免费软件**。
-- [SwitchHosts](https://swh.app/) - 快速切换 hosts 方案的实用工具，**开源软件**。
+- [SwitchHosts](https://github.com/oldj/SwitchHosts) - 快速切换 hosts 方案的实用工具，**开源软件**。
+  - [HostsX](https://github.com/ZzzM/HostsX) - 切换 hosts 配置，**开源软件**。`MacOS`
 - [Process Lasso](https://bitsum.com/) - 实时的 CPU 资源自动调度，保证系统级别的响应能力，**提供免费版本**。
+- [stats](https://github.com/exelban/stats) - 系统信息监视器，**开源软件**。`MacOS`
+- [Rainmeter](https://www.rainmeter.net/) - Windows 桌面自定义小工具，**开源软件**。
+- [Ice](https://github.com/jordanbaird/Ice) - 菜单栏管理工具，**开源软件**。`MacOS`
 
 #### 磁盘清理
 
@@ -660,6 +695,15 @@
 
 [`Go Top ↑`](#awesome-software)
 
+## 电视端
+
+_TV._
+
+> :point_right: https://github.com/iptv-org/awesome-iptv
+
+- [iptv](https://github.com/iptv-org/iptv) - 来自世界各地的公开 IPTV 频道集合。
+- [iptv-sources](https://github.com/HerbertHe/iptv-sources) - 自动更新 iptv 源。
+
 ## 操作系统
 
 *Operating system.*
@@ -694,9 +738,10 @@
 
 - [Slant](https://www.slant.co/) - 搜索最佳实践。
 - [小众软件](https://www.appinn.com/) - 小众软件推荐网站。
-- [MSDN, I tell you](https://msdn.itellyou.cn/) - 可下载系统镜像文件。
+- [MSDN, I tell you](https://msdn.itellyou.cn/) - 可下载系统镜像文件，**非微软官方站点**。
   - [HelloWindows.cn](https://hellowindows.cn/)
 - [Free All We Need](https://free.appnee.com/) - 软件注册工具下载。
+- [MIUIver](https://miuiver.com/) - MIUI 历史版本包下载，**非小米官方站点**。
 - [冰点软件](http://www.bingdian001.com/) - 很多实用小工具，尤其冰点文库相当好用。
 - [Listen 1](https://listen1.github.io/listen1/) - 音乐聚合搜索。
 

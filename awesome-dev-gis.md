@@ -8,7 +8,7 @@
 
 > 地理信息系统（Geographic Information System或 Geo－Information system，GIS）有时又称为“地学信息系统”。它是一种特定的十分重要的空间信息系统。它是在计算机硬、软件系统支持下，对整个或部分地球表层（包括大气层）空间中的有关地理分布数据进行采集、储存、管理、运算、分析、显示和描述的技术系统。
 
-（Recommend）推荐一个其它的很棒的收藏列表，:point_right: https://github.com/sshuair/awesome-gis
+（Recommend）推荐一个其它的很棒的收藏列表， :point_right: https://github.com/sshuair/awesome-gis
 
 ## 目录
 
@@ -17,6 +17,8 @@
 - [技术规范标准（Technical Specifications）](#技术规范标准)
 - [技术参考文档（Technical Reference Document）](#技术参考文档)
 - [论坛社区（Forum Community）](#论坛社区)
+- [开放数据（Open Datasets）](#开放数据)
+- [在线工具（Online Tools）](#在线工具)
 - [地理空间库（Geospatial Library）](#地理空间库)
 - [空间数据库（Spatial Database）](#空间数据库)
 - [地图服务器（Map Server）](#地图服务器)
@@ -33,17 +35,20 @@
 - [OGC](http://www.opengeospatial.org/) - 开放地理空间联盟（OGC）是一个致力于为全球地理空间社区制定高质量开放标准的国际非营利组织。
 - [OSGeo](https://www.osgeo.org/) - 开源空间信息基金会，一个全球性非营利性组织，目标是支持全球性的合作，建立和推广高品质的空间信息开源软件。
   - [OSGeo 中国中心](https://www.osgeo.cn/)
-- [EPSG](http://www.epsg.org/) - EPSG 的维护组织 IOGP 官网。
+- [EPSG](https://epsg.org/home.html) - EPSG 的维护组织 IOGP 官网。
 - [GeoJSON Specification](https://geojson.org/) - GeoJSON 规范。:point_right: [简体中文翻译](https://www.oschina.net/translate/geojson-spec?cmp)
 - [TopoJSON Specification](https://github.com/topojson/topojson-specification) - TopoJSON 规范，是 GeoJSON 的扩展，优化了数据结构和效率。
 - [Mapbox Vector Tile Specification](https://github.com/mapbox/vector-tile-spec) - Mapbox 矢量瓦片规范，（MVT）。
-- [MBTiles Specification](https://github.com/mapbox/mbtiles-spec) - MBTiles 规范。
-- [UTFGrid Specification](https://github.com/mapbox/utfgrid-spec) - UTFGrid 规范。
+- [MBTiles Specification](https://github.com/mapbox/mbtiles-spec) - MBTiles 规范，在 SQLite 数据库中存储瓦片数据。
+- [UTFGrid Specification](https://github.com/mapbox/utfgrid-spec) - UTFGrid 规范，栅格化交互数据。
+- [PMTiles](https://github.com/protomaps/PMTiles) - 单文件瓦片数据存档。
 - [TileJSON Specification](https://github.com/mapbox/tilejson-spec) - 用来描述切片地图集的 JSON 格式规范。
 - [ESRI Shapefile Technical Description](https://www.esri.com/library/whitepapers/pdfs/shapefile.pdf) - ESRI Shapefile 白皮书，Shapefile 技术描述。
   - [ESRI Shapefile Info](https://www.loc.gov/preservation/digital/formats/fdd/fdd000280.shtml)
   - [Data File Header Structure for the dBASE Version 7 Table File](http://www.dbase.com/Knowledgebase/INT/db7_file_fmt.htm)
 - [GeoPackage](https://www.geopackage.org/) - 开放的地理空间信息数据格式。
+- [COG](https://cogeo.org/) - 云优化的 GeoTIFF 格式。
+- [SpatioTemporal Asset Catalogs](https://stacspec.org/en) - 时空资产目录，统一交付时空数据集。
 
 *More others 👉 [Awesome-Development-Technical-Standard-Specifications](awesome-dev-specifications.md)*
 
@@ -67,6 +72,37 @@
 - [ArcGIS 知乎](http://zhihu.geoscene.cn/) - 由 Esri 中国创办。
 - [GeospatialOnline](https://www.geospatialonline.com/)
 - [GIS Lounge](https://www.gislounge.com/)
+
+[`Go Top ↑`](#awesome-gis-list)
+
+## 开放数据
+
+_Open datasets available for free use._
+
+- [Planet OSM](https://planet.openstreetmap.org/) - OpenStreetMap 全球开放的地图数据集。
+  - [Protomaps](https://protomaps.com/) - 单文件世界地图。
+- [GeoNames](https://www.geonames.org/) - 地理位置名称数据集。
+- [Administrative-divisions-of-China](https://github.com/modood/Administrative-divisions-of-China) - 中华人民共和国行政区划（五级）名称数据。
+- [Geospatial Data Cloud](http://www.gscloud.cn/) - 在线数据下载，中国科学院提供。
+
+[`Go Top ↑`](#awesome-gis-list)
+
+## 在线工具
+
+*Online geographic data tools.*
+
+- 在线数据（Online Data）
+  - [GeoConverter](https://geoconverter.infs.ch/) - 通过 Web 在线地图服务导出 GeoTiff 数据。
+
+- 坐标转换（Coordinate Transformation）
+  - [坐标系转换](https://www.lddgo.net/base/class?classID=8)
+  - [gdal3.js](https://gdal3.js.org/) - 栅格矢量数据转换。
+  - [MyGeodata](https://mygeodata.cloud/) - 在线地理数据转换工具。
+
+- 数据预览、编辑（Data Preview and Editing）
+  - [TileJSON.io](https://tilejson.io/)
+  - [GeoJSON.io](http://geojson.io/) - 一个快速、简单的工具，用于创建、查看和共享地图。
+  - [mapshaper](https://mapshaper.org/) - 数据编辑，支持 Shapefile、GeoJSON、TopoJSON、DBF 和 CSV 格式，可在线预览转换，支持命令行，不提供坐标转换（支持 Node.js）。
 
 [`Go Top ↑`](#awesome-gis-list)
 
@@ -100,7 +136,6 @@ _Available in browser（JavaScript）. **Tips:** Most of what is available in th
 - [Turf.js](http://turfjs.org/) - 高级空间分析的工具库（支持 Node.js）。
 - [JSTS](https://github.com/bjornharrtell/jsts) - 开源的空间分析库。
 - [proj4js](http://proj4js.org/) - PROJ 的 JavaScript 实现，可进行坐标系统转换（支持 Node.js）。
-- [mapshaper](https://mapshaper.org/) - 数据编辑，支持 Shapefile、GeoJSON、TopoJSON、DBF 和 CSV 格式，可在线预览转换，支持命令行，不提供坐标转换（支持 Node.js）。
 - [shapefile](https://github.com/mbostock/shapefile) - Shapefile 转 GeoJSON，支持命令行（支持 Node.js）。
 - [shp2geojson.js](https://github.com/gipong/shp2geojson.js) - Shapefile 转 GeoJSON，可在线预览转换，支持坐标系转换。
 - [Geobuf](https://github.com/mapbox/geobuf) - 对 GeoJSON 数据进行 [protocol buffers](https://developers.google.com/protocol-buffers) 编/解码，大幅减小体积，加快网络传输速度，**Mapbox 公司发布**（支持 Node.js）。
@@ -110,6 +145,8 @@ _Available in browser（JavaScript）. **Tips:** Most of what is available in th
   - [TopoJSON Simplify](https://github.com/topojson/topojson-simplify) - TopoJSON 简化和过滤。
   - [TopoJSON Client](https://github.com/topojson/topojson-client) - TopoJSON 数据操作，例如合并、获取边界坐标等。
 - [H3](https://h3geo.org/) - 六边形分级地理空间索引系统。
+- [SuperCluster](https://github.com/mapbox/supercluster) - 点聚合算法。
+- [geojson-rewind](https://github.com/mapbox/geojson-rewind) - 对 GeoJSON 强制执行多边形环缠绕顺序。
 
 [`Go Top ↑`](#awesome-gis-list)
 
@@ -134,6 +171,7 @@ _Available in browser（JavaScript）. **Tips:** Most of what is available in th
   
 - Python
   - [TileStache](http://tilestache.org/) - 基于 Python、Mapnik 的地图瓦片服务器。
+  - [titiler](https://github.com/developmentseed/titiler) - 建立在 FastAPI 和 Rasterio/GDAL 之上的现代动态切片服务器。
 
 - Others
   - [ArcGIS Server](https://enterprise.arcgis.com/) - 性能很好，**ESRI 公司开发的商业软件**。
@@ -179,7 +217,7 @@ _Available in browser（JavaScript）. **Tips:** Most of what is available in th
 - [MapillaryJS](https://mapillary.github.io/mapillary-js/) - 街景地图引擎，可与众多地图引擎（Leaflet/Openlayers/Mapbox GL 等）搭配使用。
 
 - [iTowns](http://www.itowns-project.org/) - 3D 地理数据可视化引擎。
-- [procedural-gl.js](https://www.procedural.eu/) - 基于 WebGL 构建 3D 地图的框架。
+- [procedural-gl.js](https://www.procedural.eu/) - 基于 WebGL 构建 3D 地图的框架。 (⚠️ 不再维护)
 
 ### 移动 GIS
 
@@ -193,13 +231,14 @@ _Available in browser（JavaScript）. **Tips:** Most of what is available in th
 ## GIS 系统平台
 
 *GIS System Platform.*
-
-- [OpenStreetMap](https://www.openstreetmap.org/) - 一个**开放**的全球地图数据平台。
+  
 - [QGIS](https://www.qgis.org/) - 开源数据可视化，编辑，分析工具平台，**OSGeo 项目**。
 - [OpenDroneMap](https://www.opendronemap.org/) - 无人机航片拼图工具平台，**开源。**
 - [MapTiler](https://www.maptiler.com/) - 一个提供地图设计，地图托管工具，地图服务等资源的平台，**开源。**
 - [OpenMapTiler](https://openmaptiles.org/) - 基于 OSM 数据，提供**全套开源**工具以进行全球地图样式设计和自托管地图服务。
 - [ArcGIS](https://www.arcgis.com/) - GIS 行业商业巨头，其商业软件几乎为行业标准，**商业软件**。
+- [carto](https://carto.com/) - 空间数据分析平台。
+- [Felt](https://felt.com/product) - 在线制作个性化地图和应用。
 
 [`Go Top ↑`](#awesome-gis-list)
 
@@ -210,11 +249,9 @@ _Available in browser（JavaScript）. **Tips:** Most of what is available in th
 - [ESRI](https://www.esri.com/) - GIS 行业商业巨头，ArcGIS 发布者的官网。
 - [Mapillary](https://www.mapillary.com/) - 街景地图平台。
 - [Mapzen](https://www.mapzen.com/)
-- [mygeodata](https://mygeodata.cloud/converter/) - 在线地理数据转换工具。
-- [GeoConverter](https://geoconverter.hsr.ch/) - 通过 Web 在线地图服务导出 GeoTiff 数据。
-- [TileJSON.io](https://tilejson.io/)
-- [GeoJSON.io](http://geojson.io/)
-- [Geospatial Data Cloud](http://www.gscloud.cn/)
 - [mapscii](https://github.com/rastapasta/mapscii) - 地图命令行渲染器，支持交互。
+- 文章（Article）
+  - [How to use OpenStreetMap and OS digital maps](https://www.cumbriasoaringclub.co.uk/kb/osm.php)
+- [DipperMap](https://nav.dippermap.com/) - 地图资源导航站。
 
 [`Go Top ↑`](#awesome-gis-list)

@@ -52,12 +52,14 @@
   - [React Sight](https://www.reactsight.com/) - 调试工具，可视化组件树，Chrome 扩展。
   - [why-did-you-render](https://github.com/welldone-software/why-did-you-render) - 探测应用重新渲染的部分的原因。
   - [React Render Tracker](https://github.com/lahmatiy/react-render-tracker)
+  - [React Scan](https://github.com/aidenybai/react-scan) - 扫描应用中出现的渲染问题。
 
 - 构建（Build）
   - [Create React App](https://create-react-app.dev/) - 零配置的 React App 构建工具，**React 官方发布**。
     - [CRACO](https://craco.js.org/) - Create React App 的包装层，简化自定义配置。
 
 - 代码质量分析（Lint）
+  - [Million Lint](https://million.dev/)
 
 - 测试（Test）
 
@@ -269,10 +271,12 @@
   - [React Awesome Reveal](https://react-awesome-reveal.morello.dev/) - 基于 [Intersection Observer API](https://developer.mozilla.org/en-US/docs/Web/API/Intersection_Observer_API) 和 [Animate.css](https://animate.style/) 的动画库。
   - [react-confetti](https://github.com/alampros/react-confetti) - 五彩纸屑动画。
   - [React DOM Confetti](https://daniel-lundin.github.io/react-dom-confetti/) - 五彩纸屑动画。
-  - [react-number-easing](https://javier.xyz/react-number-easing/) - 数字滚动动画。
   - [scrollex](https://scrollex-docs.vercel.app/) - 滚动动画效果。
   - [hamburger-react](https://hamburger-react.netlify.app/) - 动画汉堡菜单图标。
   - [AutoAnimate](https://auto-animate.formkit.com/) - 为元素添加过渡动画。
+  - Number
+    - [react-number-easing](https://javier.xyz/react-number-easing/) - 数字滚动动画。
+    - [number-flow](https://github.com/barvian/number-flow)
 
 - 二维码（QR Code）
   - [qrcode.react](https://github.com/zpao/qrcode.react)
@@ -317,7 +321,9 @@
   - [React Diagrams](https://projectstorm.gitbook.io/react-diagrams/) - 流程图组件。
   - [React Sortable Tree](https://github.com/frontend-collective/react-sortable-tree) - 树形列表，支持拖拽。
   - [React Measure](https://github.com/souporserious/react-measure) - 组件尺寸测量。
-  - [Emoji Mart](https://missive.github.io/emoji-mart/) - emoji 表情选择组件。
+  - Emoji
+    - [Emoji Mart](https://missive.github.io/emoji-mart/) - emoji 表情选择组件。
+    - [Frimousse](https://frimousse.liveblocks.io/)
   - [react-responsive](https://github.com/contra/react-responsive) - 响应式 UI 工具组件。
   - [use-count-up](https://github.com/vydimitrov/use-count-up) - 计数器。
   - [react-markdown](https://remarkjs.github.io/react-markdown/) - markdown 渲染组件。
@@ -379,6 +385,8 @@
 - [React Fiber Architecture](https://github.com/acdlite/react-fiber-architecture) - React Fiber 架构简介。
 - [Good advice on JSX conditionals](https://thoughtspile.github.io/2022/01/17/jsx-conditionals/) - 更好的使用 JSX 语法。
 - [bulletproof-react](https://github.com/alan2207/bulletproof-react) - 一个简单、可扩展且功能强大的参考项目架构，用于构建生产就绪的 React 应用程序。
+- [The Interactive Guide to Rendering in React](https://ui.dev/why-react-renders) - 用动画解释 React 中的渲染模式。
+  - [react visualized](https://react.gg/visualized)
 
 [`Go Top ↑`](#awesome-reactjs-list)
 
