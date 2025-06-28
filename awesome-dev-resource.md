@@ -476,6 +476,7 @@ _AI native programming tools._
   - [Roo Code](https://roocode.com/)
   - [qodo gen](https://www.qodo.ai/)
   - [cody](https://sourcegraph.com/docs/cody)
+  - [Continue](https://www.continue.dev/)
 
 - AI Coding Agent - CLI
   - [Gemini CLI](https://github.com/google-gemini/gemini-cli) - Google 发布，提供免费版本。
