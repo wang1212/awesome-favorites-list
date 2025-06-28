@@ -540,6 +540,9 @@ _AI native programming tools._
   - [_HTTP(S) Benchmark Tools_](https://github.com/denji/awesome-http-benchmark#https-benchmark-tools) - *HTTP 基准测试工具集。*
   - [_Web Frameworks Benchmark_](https://web-frameworks-benchmark.netlify.app/) - *Web 框架的公开基准测试，仅供参考。*
 
+- Others
+  - [hurl](https://github.com/Orange-OpenSource/hurl) - 一个命令行工具，可以运行以简单的纯文本格式定义的 HTTP 请求。
+
 ### 代码编辑器/IDE
 
 *Open source free IDE editor, and some commercial paid IDE.*
