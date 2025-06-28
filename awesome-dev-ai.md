@@ -76,6 +76,7 @@ _Tools._
 
 ### Docs
 
+- [llms.txt](https://llmstxt.org/) - 为网站生成 LLM 可读的上下文内容。
 - [Context7](https://context7.com/) - 为代码仓库提供最新的文档 MCP 服务。
 - [docfork](https://github.com/docfork/docfork-mcp) - 为代码仓库提供最新的文档 MCP 服务。
 - [deepwiki](https://deepwiki.org/) - 在线为开源仓库提供文档 AI 问答服务。
