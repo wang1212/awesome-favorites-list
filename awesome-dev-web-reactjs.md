@@ -87,6 +87,7 @@
   - [SWR](https://swr.now.sh/) - 用于远程数据获取，更轻量。
   - [axios-hooks](https://github.com/simoneb/axios-hooks) - 数据请求、缓存管理，**非 axios 官方发布**。
   - [React Async](https://docs.react-async.com/)
+  - [use-mcp](https://github.com/modelcontextprotocol/use-mcp) - 快速连接 MCP Server 并使用工具。
 
 - 表单（Form）
   - [React Hook Form](https://react-hook-form.com/) - 表单处理。
