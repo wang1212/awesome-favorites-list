@@ -57,6 +57,7 @@ _[AWESOME DATA SCIENCE](https://github.com/academic/awesome-datascience)_
 
 - 公共资源（Public Resource）
   - [Shadertoy](https://www.shadertoy.com/) - 着色器代码分享。
+  - [ComputeToys](https://compute.toys/)
   - [ambientCG](https://ambientcg.com/) - 公共领域基于物理渲染的资源。
   - [CGAXIS](https://cgaxis.com/) - PBR 材质、3D 模型等资源。
   - [textures.com](https://www.textures.com/) - 提供各种材质的纹理资源。
