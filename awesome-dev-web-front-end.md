@@ -574,6 +574,7 @@
   - [Monaco Editor](https://microsoft.github.io/monaco-editor/) - 代码编辑器，VSCode 底层编辑器。
   - [Lexical](https://lexical.dev/)
   - [Trix](https://trix-editor.org/) - 富文本编辑器。
+  - [BlockNote](https://www.blocknotejs.org/) - 基于块的富文本编辑器。
 
 - 窗口布局（Window layout）
   - [WinBox](https://nextapps-de.github.io/winbox/) - 窗口组件。
