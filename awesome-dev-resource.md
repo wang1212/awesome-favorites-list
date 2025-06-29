@@ -543,6 +543,7 @@ _AI native programming tools._
 
 - Others
   - [hurl](https://github.com/Orange-OpenSource/hurl) - 一个命令行工具，可以运行以简单的纯文本格式定义的 HTTP 请求。
+  - [Browser MCP](https://browsermcp.io/) - 将 AI 应用程序连接到你的浏览器以自动执行测试和任务。
 
 ### 代码编辑器/IDE
 
