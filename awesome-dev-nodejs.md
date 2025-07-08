@@ -124,6 +124,7 @@
   - [*monorepo.tools*](https://monorepo.tools/)
   - [Lerna](https://lerna.js.org/) - 管理 Monorepo 架构的 Node 模块代码库工具。
   - [Nx](https://nx.dev/) - 管理 Monorepo 架构的 Node 模块代码库工具。
+  - [changesets](https://github.com/changesets/changesets) - 处理相互依赖的多个包版本变更。
 
 - 工具（Tools）
   - [Verdaccio](https://verdaccio.org/) - 开源的轻量级私有 npm 代理仓库。
