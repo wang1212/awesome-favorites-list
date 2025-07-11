@@ -475,7 +475,6 @@ _AI native programming tools._
   - [cline](https://github.com/cline/cline)
   - [Roo Code](https://roocode.com/)
   - [qodo gen](https://www.qodo.ai/)
-  - [cody](https://sourcegraph.com/docs/cody)
   - [Continue](https://www.continue.dev/)
 
 - AI Coding Agent - CLI
