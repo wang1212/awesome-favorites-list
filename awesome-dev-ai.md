@@ -72,7 +72,6 @@ _Tutorial._
 
 _Tools._
 
-- [LocalAI](https://localai.io/) - 一种本地的离线 OpenAI REST API 替代品。
 - [jsonformer](https://github.com/1rgs/jsonformer) - 让大模型输出 JSON 结构化的数据格式。
 
 ### Docs
@@ -82,10 +81,17 @@ _Tools._
 - [docfork](https://github.com/docfork/docfork-mcp) - 为代码仓库提供最新的文档 MCP 服务。
 - [deepwiki](https://deepwiki.org/) - 在线为开源仓库提供文档 AI 问答服务。
   - [deepwiki-open](https://github.com/AsyncFuncAI/deepwiki-open)
+- [Repomix](https://repomix.com/) - 将整个代码库打包成一个 AI 友好的文件。
 
 ### CLIs
 
 - [llm](https://github.com/simonw/llm) - 从命令行访问 LLMs，进行测试。
+
+### Run LLMs Locally
+
+- [ollama](https://ollama.com/)
+- [LocalAI](https://localai.io/)
+- [BrowserAI](https://github.com/sauravpanda/BrowserAI) - 在浏览器中借助 WebGPU 运行 LLMs。
 
 ### JavaScript
 
@@ -112,7 +118,6 @@ _Tools._
 
 - 模型加载（Backend and Model Access）
   - [transformers](https://github.com/huggingface/transformers)
-  - [ollama](https://ollama.com/) - 启动并运行大型语言模型。
 
 ### C/C++
 
@@ -187,7 +192,6 @@ _[Model Context Protocol](https://modelcontextprotocol.io/introduction) Resource
 
 _Others._
 
-- [llmstxt](https://llmstxt.org/) - 一种大模型友好的网站描述，类似 robots.txt。
 - [Tabby](https://tabby.tabbyml.com/) - 开源、自托管的 AI 编码助手。
 - [AnythingLLM](https://github.com/Mintplex-Labs/anything-llm) - 可自托管的全栈应用程序，用来构建私有数据集的 AI 知识库应用。
 - [AgentGPT](https://github.com/reworkd/AgentGPT) - 部署自托管的 AI 代理。
