@@ -312,6 +312,7 @@
     - [zingtouch](https://zingchart.github.io/zingtouch/) - （ :warning: 不再维护）
     - [interact.js](https://interactjs.io/)
     - [@use-gesture/vanilla](https://use-gesture.netlify.app/) - 轻量级。
+    - [panzoom](https://github.com/anvaka/panzoom) - 平移缩放。
   - Keyboard Event
     - [Mousetrap](https://github.com/ccampbell/mousetrap) - 处理键盘事件。
     - [Hotkeys](https://wangchujiang.com/hotkeys/) - 处理键盘事件。
