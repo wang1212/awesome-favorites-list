@@ -16,7 +16,7 @@
   - [JavaScript](#javascript)
   - [Python](#python)
   - [Ruby](#ruby)
-- [平台应用（Platform Application）](#平台应用)
+- [工具与产品（Tools & Products）](#工具与产品)
 
 ## 参考文档
 
@@ -279,9 +279,9 @@ _[AWESOME DATA SCIENCE](https://github.com/academic/awesome-datascience)_
 
 [`Go Top ↑`](#awesome-data-visualization-list)
 
-## 平台应用
+## 工具与产品
 
-*Platform application.*
+*Tools & Products.*
 
 - [Tableau](https://www.tableau.com/) - 可视化分析平台，**商业软件**。
   - [Rath](https://github.com/Kanaries/Rath) - 自动化的数据探索和可视化分析平台，**开源软件**。
@@ -289,5 +289,6 @@ _[AWESOME DATA SCIENCE](https://github.com/academic/awesome-datascience)_
 
 - [Grafana](https://grafana.com/oss/grafana/) - 数据可视化和监控解决方案，**开源软件**。
 - [Cosmograph](https://cosmograph.app/) - 使用 WebGPU 可视化大型图数据集。
+- [vs](https://github.com/anvaka/vs) - 可视化谷歌搜索的的自动完成建议。
 
 [`Go Top ↑`](#awesome-data-visualization-list)
