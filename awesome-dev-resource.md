@@ -479,16 +479,22 @@ _AI native programming tools._
   - [qodo gen](https://www.qodo.ai/)
   - [Continue](https://www.continue.dev/)
 
-- AI Coding Agent - CLI
+- AI Coding Agent - Terminal
   - [Gemini CLI](https://github.com/google-gemini/gemini-cli) - Google 发布，提供免费版本。
   - [OpenAI Codex CLI](https://github.com/openai/codex) - OpenAI 发布，支持多个模型供应商，需提供 Key 才能使用。
+  - [claude-code](https://www.anthropic.com/claude-code) - Anthropic 发布。
   - [Aider](https://github.com/Aider-AI/aider)
+  - [Warp](https://www.warp.dev/)
+  - [OpenCode](https://github.com/sst/opencode)
 
-- AI IDE
+-  AI Coding Agent - IDE
   - [cursor](https://www.cursor.com/)
     - [dotcursorrules](https://dotcursorrules.com/)  
   - [windsurf](https://windsurf.com/editor) - 同时提供 VSCode 扩展插件，**可免费使用**。
   - [void](https://voideditor.com/) - **开源软件**。
+
+- AI Coding Agent - Others
+  - [goose](https://github.com/block/goose)
 
 - Vibe Coding
   - [bolt](https://bolt.new/) - 通过 AI 直接生成页面应用项目代码，可免费使用。
