@@ -692,6 +692,9 @@
 - 鉴权（Authentication）
   - [jsonwebtoken](https://github.com/auth0/node-jsonwebtoken) - JSON Web Tokens 的 Node.js 实现。
 
+- MCP
+  - [xmcp](https://xmcp.dev/) - 在 Next.js 或者 Express 应用中创建 MCP 服务。
+
 [`Go Top ↑`](#awesome-nodejs-list)
 
 ## 内容管理系统
