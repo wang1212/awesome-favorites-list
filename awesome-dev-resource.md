@@ -384,6 +384,7 @@ _see also 👉  [Web 端软件资源](./awesome-software.md#浏览器端)_
   - [Excel to JSON](https://exceltojson.com/) - Excel 转 JSON 数据。
   - [transform](https://transform.tools/) - 多语言转换器。
   - [json-to-excel](https://tableconvert.com/json-to-excel) - 表格数据转换器。
+  - [URL to Any](https://www.urltoany.com/) - 将链接转换为多种形式。
 
 ### 公共 API
 
