@@ -297,6 +297,7 @@
       - [html2canvas](https://html2canvas.hertzen.com)
       - [rasterizeHTML.js](http://cburgmer.github.io/rasterizeHTML.js/)
       - [html-to-image](https://github.com/bubkoo/html-to-image)
+      - [SnapDOM](https://zumerlab.github.io/snapdom/)
     - [signature_pad](https://szimek.github.io/signature_pad/) - 手写签名。
     - [atrament](https://github.com/jakubfiala/atrament) - 手绘。
   - [satori](https://github.com/vercel/satori) - 将 HTML 和 CSS 转换为 SVG。
