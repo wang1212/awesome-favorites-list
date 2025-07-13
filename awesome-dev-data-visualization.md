@@ -288,5 +288,6 @@ _[AWESOME DATA SCIENCE](https://github.com/academic/awesome-datascience)_
   - [Graphic Walker](https://docs.kanaries.net/graphic-walker) - Tableau 的开源替代品。
 
 - [Grafana](https://grafana.com/oss/grafana/) - 数据可视化和监控解决方案，**开源软件**。
+- [Cosmograph](https://cosmograph.app/) - 使用 WebGPU 可视化大型图数据集。
 
 [`Go Top ↑`](#awesome-data-visualization-list)
