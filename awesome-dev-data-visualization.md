@@ -109,8 +109,6 @@ _[AWESOME DATA SCIENCE](https://github.com/academic/awesome-datascience)_
     - [three-globe](https://github.com/vasturiano/three-globe) - 3D 地球组件工具库。
     - [neat](https://neat.camberi.com/) - 3D 渐变。
   - [A-Frame](https://aframe.io/) - 构建 3D/AR/VR 应用的框架。
-  - [sigma.js](http://sigmajs.org/) - 可视化大数据量的关系节点。
-    - [Graphology](https://graphology.github.io/)
   - [Zdog](https://zzz.dog/) - 圆形、扁平的设计师友好的伪 3D 引擎。
   - :point_right: React.js
     - [react-three-fiber](https://docs.pmnd.rs/react-three-fiber/getting-started/introduction) - 可视化库，React.js 的 Threejs 渲染器。
@@ -211,7 +209,10 @@ _[AWESOME DATA SCIENCE](https://github.com/academic/awesome-datascience)_
     - [react-chartjs-2](https://github.com/reactchartjs/react-chartjs-2) - 图表库，基于 Chart.js 的图表组件。
 
 - 关系图（Relation Chart）
+  - [sigma.js](http://sigmajs.org/) - 可视化大数据量的关系节点。
+    - [Graphology](https://graphology.github.io/)
   - [Cytoscape.js](https://js.cytoscape.org/) - 用于可视化和分析的图论（网络）库。
+  - [ngraph](https://github.com/anvaka/ngraph)
 
 - 其它（Others）
   - [Frappe Gantt](https://frappe.io/gantt) - 甘特图。
