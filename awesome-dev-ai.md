@@ -15,6 +15,7 @@ _（Recommend） :point_right: [awesome-artificial-intelligence](https://github.
 
 - [社区（Community）](#社区)
 - [资讯（News）](#资讯)
+- [资源（Resources）](#资源)
 - [教程（Tutorial）](#教程)
 - [工具（Tools）](#工具)
 - [开发框架（Development Framework）](#开发框架)
@@ -27,7 +28,6 @@ _Community._
 
 - [Hugging Face](https://huggingface.co/) - 协作共享开源 AI 模型社区。
 - [Kaggle](https://www.kaggle.com/) - 共享公开数据集。
-- [OpenRouter](https://openrouter.ai/) - 以统一的接口提供不同 LLM 的服务。
 - [terminal-bench](https://www.tbench.ai/) - 终端环境中人工智能代理的基准测试。
 
 [`Go Top ↑`](#awesome-ai-dev-list)
@@ -49,7 +49,11 @@ _News, also see 👉 [journals](awesome-dev-resource.md#技术期刊)._
 
 [`Go Top ↑`](#awesome-ai-dev-list)
 
-## 教程
+## 资源
+
+_Resources._
+
+### 教程
 
 _Tutorial._
 
@@ -65,6 +69,18 @@ _Tutorial._
   - [CL4R1T4S](https://github.com/elder-plinius/CL4R1T4S) - 包含多个平台的完整系统提示词、指南和工具。
     - [L1B3RT4S](https://github.com/elder-plinius/L1B3RT4S) - LLMs 的越狱提示。
   - [system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools)
+
+### 云服务商
+
+_Cloud Service Provider._
+
+- [OpenRouter](https://openrouter.ai/) - 以统一的接口提供不同 LLM 的服务。
+
+### 其它
+
+- [models.dev](https://models.dev/) - 不同 AI 模型的信息与能力统计。
+
+_Others._
 
 [`Go Top ↑`](#awesome-ai-dev-list)
 
