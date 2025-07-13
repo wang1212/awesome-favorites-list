@@ -65,6 +65,7 @@ _[AWESOME DATA SCIENCE](https://github.com/academic/awesome-datascience)_
 
 - 教程
   - [Data Science for Beginners](https://microsoft.github.io/Data-Science-For-Beginners/) - 数据科学入门，**Microsoft 发布**。
+  - [3blue1brown](https://www.3blue1brown.com/) - 通过动画理解数学。
 
 [`Go Top ↑`](#awesome-data-visualization-list)
 
