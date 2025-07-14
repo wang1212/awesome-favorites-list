@@ -28,7 +28,6 @@ _Community._
 
 - [Hugging Face](https://huggingface.co/) - 协作共享开源 AI 模型社区。
 - [Kaggle](https://www.kaggle.com/) - 共享公开数据集。
-- [terminal-bench](https://www.tbench.ai/) - 终端环境中人工智能代理的基准测试。
 
 [`Go Top ↑`](#awesome-ai-dev-list)
 
@@ -59,16 +58,18 @@ _Tutorial._
 
 - [AI GUIDE](https://ai-guide.future.mozilla.org/) - AI 指南，**Mozilla 发布**。
 - [People + AI Guidebook](https://pair.withgoogle.com/guidebook) - 一套使用 AI 进行设计的方法、最佳实践和示例。
-- [Prompt Engineering Guide](https://www.promptingguide.ai/)
-  - [Thinking-Claude](https://github.com/richards199999/Thinking-Claude) - 让 Claude 思考后再回答。
 - [Awesome-LLM](https://github.com/Hannibal046/Awesome-LLM) - 大语言模型相关的论文资讯等。
 - [Elicit Machine Learning Reading List](https://github.com/elicit/machine-learning-list) - 学习机器学习背景知识。
 - [LeeDL-Tutorial](https://github.com/datawhalechina/leedl-tutorial) - 台湾大学李宏毅教授的深度学习教程。
 - [free-llm-api-resources](https://github.com/cheahjs/free-llm-api-resources) - 免费的 LLMs API 测试资源。
-- System Prompt
-  - [CL4R1T4S](https://github.com/elder-plinius/CL4R1T4S) - 包含多个平台的完整系统提示词、指南和工具。
-    - [L1B3RT4S](https://github.com/elder-plinius/L1B3RT4S) - LLMs 的越狱提示。
-  - [system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools)
+
+- Prompt Engineering & Context Engineering
+  - [Prompt Engineering Guide](https://www.promptingguide.ai/)
+  - [Thinking-Claude](https://github.com/richards199999/Thinking-Claude) - 让 Claude 思考后再回答。
+  - System Prompt
+    - [CL4R1T4S](https://github.com/elder-plinius/CL4R1T4S) - 包含多个平台的完整系统提示词、指南和工具。
+      - [L1B3RT4S](https://github.com/elder-plinius/L1B3RT4S) - LLMs 的越狱提示。
+    - [system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools)
 
 ### 云服务商
 
@@ -78,9 +79,10 @@ _Cloud Service Provider._
 
 ### 其它
 
-- [models.dev](https://models.dev/) - 不同 AI 模型的信息与能力统计。
-
 _Others._
+
+- [models.dev](https://models.dev/) - 不同 AI 模型的信息与能力统计。
+- [terminal-bench](https://www.tbench.ai/) - 终端环境中人工智能代理的基准测试。
 
 [`Go Top ↑`](#awesome-ai-dev-list)
 
