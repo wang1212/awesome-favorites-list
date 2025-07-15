@@ -202,6 +202,9 @@
   - [Sinon.JS](https://sinonjs.org/) - 对复杂功能进行模拟，以更好的完成单元测试。
   - [Polly.js](https://netflix.github.io/pollyjs/#/) - HTTP 模拟。
   - [fuite](https://github.com/nolanlawson/fuite) - CLI 工具，发现 Web 应用的内存泄露问题。
+  - 视觉回归测试（Visual Regression Testing）
+    - [odiff](https://github.com/dmtrKovalenko/odiff) - 高性能逐像素图片差异对比工具。
+    - [pixelmatch](https://github.com/mapbox/pixelmatch)
 
 - 数据校验（Data Validation）
   - [ajv](https://github.com/ajv-validator/ajv) - JSON Schema validator。
@@ -559,7 +562,6 @@
 
 - 其它（Others）
   - [ssh2](https://github.com/mscdex/ssh2) - SSH 客户端和服务器。
-  - [odiff](https://github.com/dmtrKovalenko/odiff) - 逐像素图片差异对比工具。
 
 [`Go Top ↑`](#awesome-nodejs-list)
 
