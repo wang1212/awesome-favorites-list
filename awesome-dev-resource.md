@@ -462,6 +462,7 @@ _see also 👉  [Web 端软件资源](./awesome-software.md#浏览器端)_
 - GitHub Profile READMEs
   - [gh-profile-readme-generator](https://rahuldkjain.github.io/gh-profile-readme-generator/) - 根据配置自动生成个人自述文档。
   - [Awesome GitHub Profile READMEs](https://zzetao.github.io/awesome-github-profile/)
+  - [profile-readme-generator](https://github.com/maurodesouza/profile-readme-generator)
 - [repography](https://repography.com/) - 可视化 github 仓库的贡献者、commit 等信息。
 - [repobeats](https://repobeats.axiom.co/) - 可视化 github 仓库的贡献者、issues 变化等信息。
 
