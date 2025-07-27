@@ -619,6 +619,7 @@ _Coding Statistics._
   - [Sourcetree](https://www.sourcetreeapp.com/) - 免费的 Git 客户端，支持 Windows 和 Mac。
   - [git-open](https://github.com/paulirish/git-open) - git 命令行工具，可直接在浏览器中打开仓库页面。
   - [gitmoji](https://gitmoji.dev/) - Git 提交信息中的 emoji 表情。
+  - [gut](https://gut-cli.dev/) - 通过直观的命令和简化的工作流程，简化了使用 Git 复杂系统的过程，让您专注于代码。
   - 统计（statistics）
     - [git-stats](https://github.com/IonicaBizau/git-stats)
     - [Gitinspector](https://github.com/ejwa/gitinspector) - 生成统计报告。
