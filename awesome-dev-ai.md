@@ -77,6 +77,7 @@ _Tutorial._
 _Cloud Service Provider._
 
 - [OpenRouter](https://openrouter.ai/) - 以统一的接口提供不同 LLM 的服务。
+- [chutes](https://chutes.ai/)
 
 ### 其它
 
