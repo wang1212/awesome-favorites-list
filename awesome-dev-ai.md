@@ -135,10 +135,18 @@ _Tools._
 
 - [OpenLLM](https://github.com/bentoml/OpenLLM) - 大模型的微调、部署、监控等。
 - [browser-use](https://github.com/browser-use/browser-use) - 将 AI 代理与浏览器连接。
-- [langextract](https://github.com/google/langextract) - 文本提取。
 
 - 模型加载（Backend and Model Access）
   - [transformers](https://github.com/huggingface/transformers)
+
+- 文本处理（Text Processing）
+  - [nltk](https://www.nltk.org/)
+  - [spacy](https://spacy.io/)
+
+- 信息抽取 (Information Extraction, IE)
+  - [langExtract](https://github.com/google/langextract) - 文本提取，命名实体识别、关系提取、位置跟踪。
+  - [OpenNRE](https://github.com/thunlp/OpenNRE) - 关系提取。
+  - [flair](https://github.com/flairNLP/flair) - 命名实体识别、情感分析。
 
 ### C/C++
 
