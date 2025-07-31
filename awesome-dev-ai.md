@@ -135,6 +135,7 @@ _Tools._
 
 - [OpenLLM](https://github.com/bentoml/OpenLLM) - 大模型的微调、部署、监控等。
 - [browser-use](https://github.com/browser-use/browser-use) - 将 AI 代理与浏览器连接。
+- [langextract](https://github.com/google/langextract) - 文本提取。
 
 - 模型加载（Backend and Model Access）
   - [transformers](https://github.com/huggingface/transformers)
