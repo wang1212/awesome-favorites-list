@@ -112,6 +112,7 @@ _Tools._
 - [ollama](https://ollama.com/)
 - [LocalAI](https://localai.io/)
 - [BrowserAI](https://github.com/sauravpanda/BrowserAI) - 在浏览器中借助 WebGPU 运行 LLMs。
+- [LM Studio](https://lmstudio.ai/)
 
 ### JavaScript
 
