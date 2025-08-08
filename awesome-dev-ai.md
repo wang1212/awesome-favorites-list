@@ -101,6 +101,7 @@ _Tools._
 - [docfork](https://github.com/docfork/docfork-mcp) - 为代码仓库提供最新的文档 MCP 服务。
 - [deepwiki](https://deepwiki.org/) - 在线为开源仓库提供文档 AI 问答服务。
   - [deepwiki-open](https://github.com/AsyncFuncAI/deepwiki-open)
+- [zread.ai](https://zread.ai/)
 - [Repomix](https://repomix.com/) - 将整个代码库打包成一个 AI 友好的文件。
 
 ### CLIs
