@@ -88,9 +88,10 @@ _（Recommend）国内可访问的**非官方**扩展商店：_
 - 翻译（Translation）
   - [Google 翻译](https://chrome.google.com/webstore/detail/google-translate/aapbdbdomjkkjkaonfhkkikfgjllcleb) - 可在页面上进行实时翻译，**官方扩展**。
   - [沉浸式翻译](https://immersivetranslate.com/)
+  - [Trancy](https://www.trancy.org/)
   - [划词翻译](https://hcfy.app/)
-  - [沙拉查词](https://saladict.crimx.com/download.html) - 网页翻译工具。
-  - [DeepL翻译：阅读写作翻译器](https://chrome.google.com/webstore/detail/deepl-translate-reading-w/cofdbpoegempjloogbagkncekinflcnj)
+  - [沙拉查词](https://saladict.crimx.com/download.html)
+  - [DeepL](https://www.deepl.com/)
   - [Relingo](https://relingo.net/en/index)
 - 截屏/录屏（Screenshots/Record）
   - [GoFullPage](https://chrome.google.com/webstore/detail/gofullpage-full-page-scre/fdpohaocaechififmbbbbbknoalclacl) - 截屏工具。
