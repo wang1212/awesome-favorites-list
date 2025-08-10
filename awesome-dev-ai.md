@@ -57,12 +57,12 @@ _Resources._
 
 _Tutorial._
 
+- [Hugging Face Learn](https://huggingface.co/learn) - Hugging Face 发布的高质量教程。
 - [AI GUIDE](https://ai-guide.future.mozilla.org/) - AI 指南，**Mozilla 发布**。
 - [People + AI Guidebook](https://pair.withgoogle.com/guidebook) - 一套使用 AI 进行设计的方法、最佳实践和示例。
 - [Awesome-LLM](https://github.com/Hannibal046/Awesome-LLM) - 大语言模型相关的论文资讯等。
 - [Elicit Machine Learning Reading List](https://github.com/elicit/machine-learning-list) - 学习机器学习背景知识。
 - [LeeDL-Tutorial](https://github.com/datawhalechina/leedl-tutorial) - 台湾大学李宏毅教授的深度学习教程。
-- [free-llm-api-resources](https://github.com/cheahjs/free-llm-api-resources) - 免费的 LLMs API 测试资源。
 
 - Prompt Engineering & Context Engineering
   - [Prompt Engineering Guide](https://www.promptingguide.ai/)
@@ -76,6 +76,7 @@ _Tutorial._
 
 _Cloud Service Provider._
 
+- [free-llm-api-resources](https://github.com/cheahjs/free-llm-api-resources) - 免费的 LLMs API 测试资源。
 - [OpenRouter](https://openrouter.ai/) - 以统一的接口提供不同 LLM 的服务。
 - [chutes](https://chutes.ai/)
 
