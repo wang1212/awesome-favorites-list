@@ -104,6 +104,7 @@ _Tools._
   - [deepwiki-open](https://github.com/AsyncFuncAI/deepwiki-open)
 - [zread.ai](https://zread.ai/)
 - [Repomix](https://repomix.com/) - 将整个代码库打包成一个 AI 友好的文件。
+- [AGENTS.md](https://agentsmd.net/) - 指导 Code Agent 理解代码库。
 
 ### CLIs
 
