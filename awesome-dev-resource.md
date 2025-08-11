@@ -499,6 +499,7 @@ _AI native programming tools._
 
 - AI Coding Agent - Others
   - [goose](https://github.com/block/goose)
+  - [jules](https://jules.google.com/) - 异步编码代理，**Google 发布**。
 
 - Vibe Coding
   - [bolt](https://bolt.new/) - 通过 AI 直接生成页面应用项目代码，可免费使用。
