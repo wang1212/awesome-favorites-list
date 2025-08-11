@@ -491,7 +491,7 @@ _AI native programming tools._
   - [Warp](https://www.warp.dev/)
   - [OpenCode](https://github.com/sst/opencode)
 
--  AI Coding Agent - IDE
+- AI Coding Agent - IDE
   - [cursor](https://www.cursor.com/)
     - [dotcursorrules](https://dotcursorrules.com/)  
   - [windsurf](https://windsurf.com/editor) - 同时提供 VSCode 扩展插件，**可免费使用**。
@@ -501,8 +501,10 @@ _AI native programming tools._
   - [goose](https://github.com/block/goose)
   - [jules](https://jules.google.com/) - 异步编码代理，**Google 发布**。
 
-- Vibe Coding
+- Vibe Coding - Web
   - [bolt](https://bolt.new/) - 通过 AI 直接生成页面应用项目代码，可免费使用。
+  - [lovable](https://lovable.dev/)
+  - [replit](https://replit.com/)
 
 - 非结构化数据集管理（Unstructured Dataset Management）
   - [Nomic Atlas](https://atlas.nomic.ai/) - 非结构化数据集的探索、管理、检索和搜索。
