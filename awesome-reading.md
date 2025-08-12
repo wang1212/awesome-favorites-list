@@ -107,6 +107,7 @@
 - [百度地图慧眼](https://huiyan.baidu.com/)
 - [奥维云网](http://www.avc-mr.com/html/sjbg/) - 智慧家庭领域数据报告。
 - [全历史](https://www.allhistory.com/) - 全球各个国家历史资料记录。
+- [traffic.cv](https://traffic.cv/) - 网站流量分析。
 
 [`Go Top ↑`](#awesome-reading-list)
 
