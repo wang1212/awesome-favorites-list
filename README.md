@@ -46,7 +46,8 @@
 
 *Online tools, tools that can be used directly on the web page.*
 
-[全球时间（TIME.IS）](https://time.is/)
+- [全球时间（TIME.IS）](https://time.is/)
+- [Downdetector](https://downdetector.com/) - 全球服务实时监控。
 
 - 实用工具（Utils）
   - [Google Fonts](https://fonts.google.com/) - 免费开源的字体集合。
