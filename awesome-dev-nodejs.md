@@ -620,6 +620,7 @@
 - Interpreter
   - [nve](https://github.com/ehmicky/nve) - 用指定版本的 Node 运行命令。
   - [TS Node](https://github.com/TypeStrong/ts-node) - Node.js 的 TypeScript 语言运行器和交互式解释器。
+  - [tsx](https://tsx.is/)
 - HTTP 服务器（Static HTTP Server）
   - [http-server](https://github.com/http-party/http-server) - 可快速启动一个轻量的 http 服务器。
   - [serve](https://github.com/vercel/serve) - 轻量的 http 服务器。
