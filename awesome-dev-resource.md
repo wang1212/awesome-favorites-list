@@ -81,6 +81,9 @@
   - [思谋学术](https://ac.scmor.com/) - 谷歌学术源。
   - [Watt Toolkit](https://steampp.net/) - Steam 游戏加速，可加速 Github。
 
+- Tools
+  - [chsrc](https://github.com/RubyMetric/chsrc) - 换源工具。
+
 [`Go Top ↑`](#awesome-development-resources)
 
 ## 技术实践规范
