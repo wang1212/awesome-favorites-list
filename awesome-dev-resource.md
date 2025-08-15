@@ -189,6 +189,7 @@ _Statistics._
   - [Openbase](https://openbase.com/) - 开源项目讨论及评奖。
   - [LibHunt](https://www.libhunt.com/) - 收集了各种库的网站。
   - [Open Hub](https://www.openhub.net/)
+- [GitHub Innovation Graph](https://innovationgraph.github.com/) - GitHub 全球统计数据趋势。
 
 ### 技术文档
 
