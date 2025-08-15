@@ -46,6 +46,7 @@ _News, also see 👉 [journals](awesome-dev-resource.md#技术期刊)._
   - [The Top 100 Gen AI Apps](https://a16z.com/100-gen-ai-apps/) - 全球前 100 名生成式 AI 应用榜单，每 6 个月更新一次。
 - [aigc.cn](https://www.aigc.cn/) - AI 相关产品导航。
 - [猫目](https://maomu.com/) - AI 相关产品资讯，排行榜等等。
+- [The 2025 AI Index Report](https://hai.stanford.edu/ai-index/2025-ai-index-report)
 
 [`Go Top ↑`](#awesome-ai-dev-list)
 
