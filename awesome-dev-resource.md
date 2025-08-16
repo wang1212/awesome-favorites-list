@@ -474,6 +474,7 @@ _see also 👉  [Web 端软件资源](./awesome-software.md#浏览器端)_
   - [GitHub Stats Visualization](https://github.com/jstrieb/github-stats) - 显示个人 GitHub 仓库统计信息。
   - [GitHub Profile Trophy](https://github.com/ryo-ma/github-profile-trophy) - 添加奖杯。
   - [algora.io](https://algora.io/profile/wang1212) - 开源简历。
+  - [github-breakout](https://github.com/cyprieng/github-breakout)
 
 [`Go Top ↑`](#awesome-development-resources)
 
