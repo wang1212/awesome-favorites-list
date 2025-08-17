@@ -101,11 +101,14 @@ _Tools._
 - [llms.txt](https://llmstxt.org/) - 为网站生成 LLM 可读的上下文内容。
 - [Context7](https://context7.com/) - 为代码仓库提供最新的文档 MCP 服务。
 - [docfork](https://github.com/docfork/docfork-mcp) - 为代码仓库提供最新的文档 MCP 服务。
-- [deepwiki](https://deepwiki.org/) - 在线为开源仓库提供文档 AI 问答服务。
-  - [deepwiki-open](https://github.com/AsyncFuncAI/deepwiki-open)
-- [zread.ai](https://zread.ai/)
-- [Repomix](https://repomix.com/) - 将整个代码库打包成一个 AI 友好的文件。
 - [AGENTS.md](https://agentsmd.net/) - 指导 Code Agent 理解代码库。
+- Codebase 2 Prompt
+  - [Repomix](https://repomix.com/) - 将整个代码库打包成一个 AI 友好的文件。
+  - [code2prompt](https://github.com/mufeedvh/code2prompt)
+- Codebase Analysis
+  - [deepwiki](https://deepwiki.org/) - 在线为开源仓库提供文档 AI 问答服务。
+    - [deepwiki-open](https://github.com/AsyncFuncAI/deepwiki-open)
+  - [zread.ai](https://zread.ai/)
 
 ### CLIs
 
