@@ -38,6 +38,7 @@
 
 *Information Technology Industry.*
 
+- [similarweb](https://www.similarweb.com/) - 提供网站和移动应用数据分析服务。
 - [199IT](http://www.199it.com/)
 - [IDC](https://www.idc.com/) - 国际数据公司（IDC）是面向信息技术，电信和消费者技术市场的市场情报，咨询服务和活动的全球领先提供商。
 - [艾瑞数据](https://data.iresearch.com.cn/) - 艾瑞汇集多家大型互联网企业数据，共同打造的互联网行业信息情报分析系统。
