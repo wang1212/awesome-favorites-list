@@ -482,6 +482,13 @@ _see also 👉  [Web 端软件资源](./awesome-software.md#浏览器端)_
 
 _AI native programming tools._
 
+- Agent Config
+  - [agent.md](https://agent.md/) - 通用代理配置文件。
+  - [Agent Rules](https://github.com/steipete/agent-rules)
+  - [ai-prompts](https://github.com/instructa/ai-prompts)
+  - [GPT-Prompt-Hub](https://github.com/LichAmnesia/GPT-Prompt-Hub/)
+  - [ruler](https://github.com/intellectronica/ruler) - 统一管理 agent 规则配置。
+
 - AI Coding Agent - IDE Extension
   - [windsurf](https://windsurf.com/plugins) - **基础功能可以免费使用**。
   - [blackbox Agent](https://www.blackbox.ai/) - **基础功能可以免费使用**。
