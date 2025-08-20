@@ -482,7 +482,7 @@ _see also 👉  [Web 端软件资源](./awesome-software.md#浏览器端)_
 
 _AI native programming tools._
 
-- Agent Config
+- [AGENTS.md](https://github.com/openai/agents.md)
   - [agent.md](https://agent.md/) - 通用代理配置文件。
   - [Agent Rules](https://github.com/steipete/agent-rules)
   - [ai-prompts](https://github.com/instructa/ai-prompts)
