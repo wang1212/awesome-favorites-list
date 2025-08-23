@@ -29,6 +29,7 @@ _Community._
 - [Hugging Face](https://huggingface.co/) - 全球领先的协作共享开源 AI 模型社区。
   - [TensorFlow Hub](https://www.tensorflow.org/hub)
   - [魔搭](https://modelscope.cn/)
+  - [飞桨](https://aistudio.baidu.com/)
 - Image and Video generation models
   - [civitai](https://civitai.com/) - 一个致力于让人们分享和协作改进 Stable Diffusion 模型的开源平台。
   - [liblib](https://www.liblib.art/)
