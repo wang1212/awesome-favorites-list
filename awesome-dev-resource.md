@@ -627,23 +627,28 @@ _Coding Statistics._
 *Source code version management system and building tools.*
 
 - [Git](https://git-scm.com/) - 目前最受欢迎的，使用最广泛的分布式源代码版本控制工具。
-  - [Resources to learn Git](http://try.github.io/) - 学习 Git 的文档。
-  - [Git Explorer](https://gitexplorer.com/) - Git 命令参考。
-  - [Learn Git Branching](https://learngitbranching.js.org/) - 在线 Git 命令互动式学习。
-  - [Beej's Guide to Git](https://beej.us/guide/bggit/html/split/)
+  - Learn
+    - [Resources to learn Git](http://try.github.io/) - 学习 Git 的文档。
+    - [Git Explorer](https://gitexplorer.com/) - Git 命令参考。
+    - [Learn Git Branching](https://learngitbranching.js.org/) - 在线 Git 命令互动式学习。
+    - [Beej's Guide to Git](https://beej.us/guide/bggit/html/split/)
+  - Client
+    - [Sourcetree](https://www.sourcetreeapp.com/) - 免费的 Git 客户端，支持 Windows 和 Mac。
   - [A collection of .gitignore templates](https://github.com/github/gitignore) - 不同类型项目的 `.gitignore` 文件模板。
     - [gitignore.io](https://www.toptal.com/developers/gitignore) - 根据关键词生成 `.gitignore` 文件模板。
-  - [Sourcetree](https://www.sourcetreeapp.com/) - 免费的 Git 客户端，支持 Windows 和 Mac。
-  - [git-open](https://github.com/paulirish/git-open) - git 命令行工具，可直接在浏览器中打开仓库页面。
-  - [gitmoji](https://gitmoji.dev/) - Git 提交信息中的 emoji 表情。
-  - [gut](https://gut-cli.dev/) - 通过直观的命令和简化的工作流程，简化了使用 Git 复杂系统的过程，让您专注于代码。
-  - [difit](https://github.com/yoshiko-pg/difit) - 以 GitHub 的风格查看本地 Git 提交变更。
+  - CLIs
+    - [git-open](https://github.com/paulirish/git-open) - git 命令行工具，可直接在浏览器中打开仓库页面。
+    - [gut](https://gut-cli.dev/) - 通过直观的命令和简化的工作流程，简化了使用 Git 复杂系统的过程，让您专注于代码。
+    - [git-cliff](https://github.com/orhun/git-cliff) - 通过 Commits 记录自动生成 Changelog 内容。
   - 统计（statistics）
     - [git-stats](https://github.com/IonicaBizau/git-stats)
     - [Gitinspector](https://github.com/ejwa/gitinspector) - 生成统计报告。
     - [git-quick-stats](https://github.com/arzzen/git-quick-stats)
     - [git-sizer](https://github.com/github/git-sizer)
     - [Map of GitHub](https://github.com/anvaka/map-of-github) - 用地图呈现多个 Github 项目之间共同关注者的信息。
+  - Others
+    - [difit](https://github.com/yoshiko-pg/difit) - 以 GitHub 的风格查看本地 Git 提交变更。
+    - [gitmoji](https://gitmoji.dev/) - Git 提交信息中的 emoji 表情。
 
 - [Tortoise SVN](https://tortoisesvn.net/) - SVN 是一种传统的中心化管理的源代码版本控制工具，Tortoise SVN 提供了 GUI 来使用 SVN。
 
