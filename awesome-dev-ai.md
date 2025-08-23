@@ -16,18 +16,25 @@ _（Recommend） :point_right: [awesome-artificial-intelligence](https://github.
 - [社区（Community）](#社区)
 - [资讯（News）](#资讯)
 - [资源（Resources）](#资源)
-- [教程（Tutorial）](#教程)
+  - [云服务商（AI Model Cloud Service Provider）](#云服务商)
+  - [MCP（Model Context Protocol）](#model-context-protocol)
 - [工具（Tools）](#工具)
 - [开发框架（Development Framework）](#开发框架)
-- [MCP（Model Context Protocol）](#model-context-protocol)
 - [其它（Others）](#其它)
 
 ## 社区
 
 _Community._
 
-- [Hugging Face](https://huggingface.co/) - 协作共享开源 AI 模型社区。
-- [Kaggle](https://www.kaggle.com/) - 共享公开数据集。
+- [Hugging Face](https://huggingface.co/) - 全球领先的协作共享开源 AI 模型社区。
+  - [TensorFlow Hub](https://www.tensorflow.org/hub)
+  - [魔搭](https://modelscope.cn/)
+- Image and Video generation models
+  - [civitai](https://civitai.com/) - 一个致力于让人们分享和协作改进 Stable Diffusion 模型的开源平台。
+  - [liblib](https://www.liblib.art/)
+- Datasets, Experiments, and Competitions
+  - [Kaggle](https://www.kaggle.com/)
+  - [OpenML](https://www.openml.org/)
 
 [`Go Top ↑`](#awesome-ai-dev-list)
 
@@ -76,11 +83,27 @@ _Tutorial._
 
 ### 云服务商
 
-_Cloud Service Provider._
+_AI Model Cloud Service Provider._
 
 - [free-llm-api-resources](https://github.com/cheahjs/free-llm-api-resources) - 免费的 LLMs API 测试资源。
 - [OpenRouter](https://openrouter.ai/) - 以统一的接口提供不同 LLM 的服务。
 - [chutes](https://chutes.ai/)
+
+### Model Context Protocol
+
+_[Model Context Protocol](https://modelcontextprotocol.io/introduction) Resources._
+
+- Awesome
+  - [awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers)
+  - [awesome-mcp-clients](https://github.com/punkpeye/awesome-mcp-clients/)
+
+- Marketplace
+  - [Smithery](https://smithery.ai/) - mcp servers.
+  - [Glama MCP](https://glama.ai/mcp) - mcp clients、servers.
+  - [MCP.so](https://mcp.so/)
+
+- Tools
+  - [Supergateway](https://github.com/supercorp-ai/supergateway) - 使用一个命令通过 SSE 或 WebSockets 运行基于 MCP stdio 的服务器。
 
 ### 其它
 
@@ -209,22 +232,6 @@ _Development Framework._
   - [LMQL](https://lmql.ai/) - LLMs 编程语言。
 
 [`Go Top ↑`](#awesome-ai-dev-list)
-
-## Model Context Protocol
-
-_[Model Context Protocol](https://modelcontextprotocol.io/introduction) Resources._
-
-- Awesome
-  - [awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers)
-  - [awesome-mcp-clients](https://github.com/punkpeye/awesome-mcp-clients/)
-
-- Marketplace
-  - [Smithery](https://smithery.ai/) - mcp servers.
-  - [Glama MCP](https://glama.ai/mcp) - mcp clients、servers.
-  - [MCP.so](https://mcp.so/)
-
-- Tools
-  - [Supergateway](https://github.com/supercorp-ai/supergateway) - 使用一个命令通过 SSE 或 WebSockets 运行基于 MCP stdio 的服务器。
 
 ## 其它
 
