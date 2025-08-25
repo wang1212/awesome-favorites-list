@@ -219,6 +219,9 @@ _Available in browser（JavaScript）. **Tips:** Most of what is available in th
 - [iTowns](http://www.itowns-project.org/) - 3D 地理数据可视化引擎。
 - [procedural-gl.js](https://www.procedural.eu/) - 基于 WebGL 构建 3D 地图的框架。 (⚠️ 不再维护)
 
+- Jupyter (Python)
+  - [Leafmap](https://leafmap.org/)
+
 ### 移动 GIS
 
 *Mobile GIS, native map framework for mobile devices such as Android and IOS.*
@@ -239,6 +242,7 @@ _Available in browser（JavaScript）. **Tips:** Most of what is available in th
 - [ArcGIS](https://www.arcgis.com/) - GIS 行业商业巨头，其商业软件几乎为行业标准，**商业软件**。
 - [carto](https://carto.com/) - 空间数据分析平台。
 - [Felt](https://felt.com/product) - 在线制作个性化地图和应用。
+- [GeoAI](https://opengeoai.org/) - 用于将人工智能与地理空间数据分析和可视化集成。
 
 [`Go Top ↑`](#awesome-gis-list)
 
