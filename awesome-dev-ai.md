@@ -86,9 +86,13 @@ _Tutorial._
 
 _AI Model Cloud Service Provider._
 
-- [free-llm-api-resources](https://github.com/cheahjs/free-llm-api-resources) - 免费的 LLMs API 测试资源。
-- [OpenRouter](https://openrouter.ai/) - 以统一的接口提供不同 LLM 的服务。
-- [chutes](https://chutes.ai/)
+- General LLMs
+  - [free-llm-api-resources](https://github.com/cheahjs/free-llm-api-resources) - 免费的 LLMs API 测试资源。
+  - [OpenRouter](https://openrouter.ai/) - 以统一的接口提供不同 LLM 的服务。
+  - [chutes](https://chutes.ai/)
+
+- Image and Video generation models
+  - [fal.ai](https://fal.ai/)
 
 ### Model Context Protocol
 
