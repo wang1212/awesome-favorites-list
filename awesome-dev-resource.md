@@ -603,6 +603,7 @@ _AI native programming tools._
 - [EmEditor](https://www.emeditor.com/) - 文本编辑器，功能强大，浏览大文件性能很好，**商业软件**。
 - [neovim](https://neovim.io/) - 类 VIM 编辑器。
 - [helix](https://helix-editor.com/)
+- [zed](https://zed.dev/) - Rust 编写的高性能编辑器。
 
 #### 代码格式化
 
