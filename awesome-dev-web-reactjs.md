@@ -317,6 +317,10 @@
   - [react-resizable-panels](https://react-resizable-panels.vercel.app/) - 可调整大小的面板。
   - [React Spaces](https://allaneagle.com/projects/react-spaces) 
 
+- Markdown
+  - [react-markdown](https://remarkjs.github.io/react-markdown/) - markdown 渲染组件。
+  - [streamdown](https://github.com/vercel/streamdown) - 流式 markdown 渲染，转为 AI 聊天应用构建。
+
 - 其它（Others）
   - [react-tooltip](https://react-tooltip.com/)
   - [React PDF](https://projects.wojtekmaj.pl/react-pdf/) - pdf 文件预览组件。
@@ -329,7 +333,6 @@
     - [Frimousse](https://frimousse.liveblocks.io/)
   - [react-responsive](https://github.com/contra/react-responsive) - 响应式 UI 工具组件。
   - [use-count-up](https://github.com/vydimitrov/use-count-up) - 计数器。
-  - [react-markdown](https://remarkjs.github.io/react-markdown/) - markdown 渲染组件。
   - [kbar](https://kbar.vercel.app/) - 为页面添加键盘快捷键导航功能界面。
   - [react-svg](https://github.com/tanem/react-svg) - 页面注入 SVG。
   - [react-sketch-canvas](https://github.com/vinothpandian/react-sketch-canvas) - 使用 SVG 作为画布的 React 手绘矢量绘图组件。
