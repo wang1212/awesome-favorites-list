@@ -83,6 +83,7 @@
 
 - Tools
   - [chsrc](https://github.com/RubyMetric/chsrc) - 换源工具。
+  - [Xget](https://github.com/xixu-me/Xget) - 资源加速。
 
 [`Go Top ↑`](#awesome-development-resources)
 
