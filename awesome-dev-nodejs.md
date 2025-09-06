@@ -534,6 +534,7 @@
   - [bull](https://github.com/OptimalBits/bull) - 高性能队列。
   - [agenda](https://github.com/agenda/agenda)
   - [Bree](https://jobscheduler.net/)
+  - [sidequest](https://github.com/sidequestjs/sidequest)
 
 - 沙箱（Sandbox）
   - [vm2](https://github.com/patriksimek/vm2)
