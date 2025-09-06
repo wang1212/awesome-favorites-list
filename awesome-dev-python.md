@@ -112,6 +112,8 @@ _Command-line applications, build tools and utilities._
 
 ### 实用工具
 
+- [Streamdown](https://github.com/day50-dev/Streamdown) - 流式 Markdown 渲染。
+
 [`Go Top ↑`](#awesome-python-list)
 
 ## 数据库
