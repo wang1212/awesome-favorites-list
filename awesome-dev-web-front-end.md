@@ -174,6 +174,7 @@
 
 - 其它（Others）
   - [CSS Script](https://www.cssscript.com/) - 设计现代 Web 的 CSS 脚本。
+  - [cursor-effects](https://tholman.com/cursor-effects/) - 一些鼠标光标效果。
  
 ### CSS 工具库
 
@@ -577,6 +578,7 @@
   - [Lexical](https://lexical.dev/)
   - [Trix](https://trix-editor.org/) - 富文本编辑器。
   - [BlockNote](https://www.blocknotejs.org/) - 基于块的富文本编辑器。
+  - [overtype](https://github.com/panphora/overtype)
 
 - 窗口布局（Window layout）
   - [WinBox](https://nextapps-de.github.io/winbox/) - 窗口组件。
