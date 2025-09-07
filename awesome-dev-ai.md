@@ -36,6 +36,7 @@ _Community._
 - Datasets, Experiments, and Competitions
   - [Kaggle](https://www.kaggle.com/)
   - [OpenML](https://www.openml.org/)
+  - [_Awesome-Scientific-Datasets-and-LLMs_](https://github.com/open-sciencelab/Awesome-Scientific-Datasets-and-LLMs)
 
 [`Go Top ↑`](#awesome-ai-dev-list)
 
