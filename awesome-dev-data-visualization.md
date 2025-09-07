@@ -108,6 +108,7 @@ _[AWESOME DATA SCIENCE](https://github.com/academic/awesome-datascience)_
       - [three-loader-3dtiles](https://github.com/nytimes/three-loader-3dtiles)
     - [three-globe](https://github.com/vasturiano/three-globe) - 3D 地球组件工具库。
     - [neat](https://neat.camberi.com/) - 3D 渐变。
+    - [Stable Fluids with three.js](https://mofu-dev.com/en/blog/stable-fluids/) - 实时渲染的流体效果。
   - [A-Frame](https://aframe.io/) - 构建 3D/AR/VR 应用的框架。
   - [Zdog](https://zzz.dog/) - 圆形、扁平的设计师友好的伪 3D 引擎。
   - :point_right: React.js
