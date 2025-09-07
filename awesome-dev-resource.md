@@ -779,6 +779,7 @@ _see also 👉 https://github.com/cdleon/awesome-terminals_
 - [hotel](https://github.com/typicode/hotel) - 利用 Web 网页启动多个服务应用并使用本地域名或者 https 协议。
 - File
   - [csvkit](https://csvkit.readthedocs.io/en/latest/index.html) - 命令行处理 csv 文件。
+- [Lazyssh](https://github.com/Adembc/lazyssh) - 终端 SSH 管理工具。
 
 ### WSL
 
