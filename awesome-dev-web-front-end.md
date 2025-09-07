@@ -360,8 +360,9 @@
     - [Compressor.js](https://fengyuanchen.github.io/compressorjs/) - 图片压缩。
     - [Lena.js](https://fellipe.com/demos/lena-js/) - 图片滤镜。
     - [image-js](https://github.com/image-js/image-js) - 图片数据科学处理。
-  - audio
+  - audio / video
     - [howler.js](https://howlerjs.com/) - 强大的音频处理工具库，支持所有的编解码器，跨浏览器支持。
+    - [Mediabunny](https://github.com/Vanilagy/mediabunny)
   - svg
     - [Trianglify](https://github.com/qrohlf/trianglify) - 通过算法生成三角网 SCG 背景图。( :point_right: <https://trianglify.io/>)
 
