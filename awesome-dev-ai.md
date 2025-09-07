@@ -81,6 +81,9 @@ _Tutorial._
     - [CL4R1T4S](https://github.com/elder-plinius/CL4R1T4S) - 包含多个平台的完整系统提示词、指南和工具。
       - [L1B3RT4S](https://github.com/elder-plinius/L1B3RT4S) - LLMs 的越狱提示。
     - [system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools)
+  - [Prompting guide 101](https://services.google.com/fh/files/misc/gemini-for-google-workspace-prompting-guide-101.pdf)
+    - [Generative AI prompt samples](https://cloud.google.com/vertex-ai/generative-ai/docs/prompt-gallery)
+    - [How to prompt Gemini 2.5 Flash Image Generation for the best results](https://drive.google.com/file/d/1Pl9aeG1XuqQyvXBQhdpdY-iI4-XQR3wU/view?pli=1)
 
 ### 云服务商
 
