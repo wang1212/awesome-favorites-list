@@ -481,6 +481,7 @@
     - [jsPDF](https://github.com/MrRio/jsPDF) - Web 客户端生成 PDF 文件。
     - [PDFKit](http://pdfkit.org/) - 生成 PDF 文件。
     - [pdfmake](http://pdfmake.org/)
+    - [embed-pdf-viewer](https://github.com/embedpdf/embed-pdf-viewer) - 文件预览。
   - image
     - [sharp](https://sharp.pixelplumbing.com/) - 图像处理，拉伸、缩放、色彩提取等等，底层使用 [libvips](https://libvips.github.io/libvips/)，无需安装其它依赖，开箱即用，效率更高。
     - [gm](http://aheckmann.github.io/gm/) - 图像处理，需先安装 [GraphicsMagick](http://www.graphicsmagick.org/) 或 [ImageMagick](https://imagemagick.org/index.php)。
