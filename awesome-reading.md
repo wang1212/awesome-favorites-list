@@ -178,6 +178,7 @@
 - [Google Scholar search](https://scholar.google.com/) - 谷歌学术搜索，**非营利性**。
 - [Sci-Hub](https://sci-hub.ru/) - 检索论文，**非营利性**。
 - [arXiv](https://arxiv.org/) - 学术论文预印本发布平台，**非盈利性**。
+- [core](https://core.ac.uk/) - 世界学术文献的综合书目数据库，**非盈利性**。
 
 ### 计算机技术
 
