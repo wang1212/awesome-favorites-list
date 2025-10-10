@@ -57,6 +57,7 @@ _Community._
   - [liblib](https://www.liblib.art/)
   - [ComfyUI](https://www.comfy.org/) - 开源的基于节点的生成式人工智能应用工作流构建工具。
   - [ml4a - Machine Learning for Art](https://ml4a.net/) - ml4a 是一系列工具和教育资源，将机器学习技术应用于艺术和创造力。
+  - [Fooocus](https://github.com/lllyasviel/Fooocus) - 操作简化的图像生成应用，专注于提示和生成。
 
 - Datasets, Experiments, and Competitions
   - [Kaggle](https://www.kaggle.com/)
