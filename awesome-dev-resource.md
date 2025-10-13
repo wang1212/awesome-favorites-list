@@ -525,6 +525,9 @@ _AI native programming tools._
   - [Nomic Atlas](https://atlas.nomic.ai/) - 非结构化数据集的探索、管理、检索和搜索。
   - [jina](https://jina.ai/) - 非结构化数据集搜索。
 
+- Spec Coding
+  - [spec-kit](https://github.com/github/spec-kit)
+
 [`Go Top ↑`](#awesome-development-resources)
 
 ## 软件工具
