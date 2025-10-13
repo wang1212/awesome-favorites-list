@@ -875,6 +875,7 @@ _Static site tool._
 *Some coding exercises and challenges website.*
 
 - [LeetCode](https://leetcode-cn.com/) - 在线笔试算法题练习。
+  - [LeetGPU](https://leetgpu.com/) - GPU 编程练习。
 - [InterviewBit](https://www.interviewbit.com/) - 计算机知识学习，模拟面试平台。
   - [Technical Interview Questions](https://www.interviewbit.com/technical-interview-questions/) - 面试指南。
 - [Codewars](https://www.codewars.com/) - 通过挑战解决代码问题提高编码水平。
