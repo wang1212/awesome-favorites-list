@@ -268,6 +268,8 @@
       - [Fable](https://fable.io/)
     - [Go](https://go.dev/) 2 JavaScript
       - [GopherJS](https://github.com/gopherjs/gopherjs)
+    - [Python](https://www.python.org/)
+      - [pyodide](https://pyodide.org/en/stable/) - 在浏览器中运行 python 代码。
 
 - API 兼容性支持（API Polyfills）
   - [Browserslist](https://github.com/browserslist/browserslist) - 社区主流的目标设备检测工具库。
