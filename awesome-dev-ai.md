@@ -257,6 +257,7 @@ _Development Framework._
   - [VoltAgent](https://voltagent.dev/)
   - [mastra](https://github.com/mastra-ai/mastra)
   - [Agent Development Kit](https://google.github.io/adk-docs/) - **Google 发布**。
+  - [Genkit](https://github.com/firebase/genkit) - **Google 发布**。
 
 - Others
   - [Vercel AI SDK](https://sdk.vercel.ai/docs) - 开发对话流应用的 SDK。
