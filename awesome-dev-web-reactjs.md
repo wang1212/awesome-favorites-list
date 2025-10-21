@@ -321,6 +321,9 @@
   - [react-markdown](https://remarkjs.github.io/react-markdown/) - markdown 渲染组件。
   - [streamdown](https://github.com/vercel/streamdown) - 流式 markdown 渲染，转为 AI 聊天应用构建。
 
+- Code Preview
+  - [react-syntax-highlighter](https://github.com/react-syntax-highlighter/react-syntax-highlighter) 
+
 - 其它（Others）
   - [react-tooltip](https://react-tooltip.com/)
   - [React PDF](https://projects.wojtekmaj.pl/react-pdf/) - pdf 文件预览组件。
