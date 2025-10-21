@@ -310,6 +310,7 @@
   - AST - Abstract Syntax Tree
     - [acorn](https://github.com/acornjs/acorn) - JavaScript AST 解析工具。
     - [ts-morph](https://ts-morph.com/) - TypeScript AST 解析工具。
+  - [jscpd](https://github.com/kucherenko/jscpd) - 重复代码检测。
 
 - 代码版本管理（Code version management ）
   - [husky](https://github.com/typicode/husky) - 更容易的使用 [Git Hooks](https://git-scm.com/book/it/v2/Customizing-Git-Git-Hooks)。
