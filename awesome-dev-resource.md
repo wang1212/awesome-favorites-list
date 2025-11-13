@@ -717,6 +717,8 @@ _see also 👉 https://github.com/cdleon/awesome-terminals_
   - [hyper](https://hyper.is/)
   - [PowerShell](https://github.com/PowerShell/PowerShell)
   - [Tabby](https://tabby.sh/)
+  - [WezTerm](https://wezterm.org/)
+  - [Alacritty](https://github.com/alacritty/alacritty)
 
 - Windows
   - [Windows Terminal](https://github.com/microsoft/terminal)
