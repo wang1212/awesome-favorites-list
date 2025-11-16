@@ -258,6 +258,7 @@ _Coding skills._
 - [Hackr.io](https://hackr.io/) - 课程分享与学习。
 - [ui.dev](https://ui.dev/) - 交互式 JavaScript 教程。
 - [Hello GitHub](https://hellogithub.com/) - 一个发现和分享有趣、入门级开源项目的平台。
+- [linux.do](https://linux.do/)
 
 [`Go Top ↑`](#awesome-development-resources)
 
