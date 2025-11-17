@@ -413,6 +413,7 @@ _see also 👉  [Web 端软件资源](./awesome-software.md#浏览器端)_
 - 其它（Others）
   - [Public APIs](https://github.com/public-apis/public-apis) - 免费的公共 API 集合。
   - [Free Public APIs](https://www.freepublicapis.com/)
+  - [Awesome Public Real-Time Datasets and Sources](https://github.com/bytewax/awesome-public-real-time-datasets) - 
   - [GIS Datasets](awesome-dev-gis.md#开放数据) - 开放地理数据集。
   - [QR Code Generator](https://goqr.me/api/) - 二维码生成。
 
