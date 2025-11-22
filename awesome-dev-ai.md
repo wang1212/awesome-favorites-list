@@ -274,5 +274,7 @@ _Others._
 - [AgentGPT](https://github.com/reworkd/AgentGPT) - 部署自托管的 AI 代理。
 - Open source pre-trained models
   - [FinGPT](https://github.com/AI4Finance-Foundation/FinGPT) - 金融领域的预训练模型。
+- Articals
+  - [post-training-101](https://tokens-for-thoughts.notion.site/post-training-101)
 
 [`Go Top ↑`](#awesome-ai-dev-list)
