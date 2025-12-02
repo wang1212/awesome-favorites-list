@@ -98,7 +98,6 @@ _（Recommend）国内可访问的**非官方**扩展商店：_
   - [Awesome Screenshot](https://chrome.google.com/webstore/detail/awesome-screenshot-screen/nlipoenfbbikpbjkfpfillcgkoblgpmj) - 截屏工具。
   - [FireShot](https://chrome.google.com/webstore/detail/take-webpage-screenshots/mcbpblocgmgfnpjjppndjkmgjaogfceg) - 截屏工具。
   - [Screenity](https://github.com/alyssaxuu/screenity) - 录屏工具。
-- [Infinity 新标签页 (Pro)](https://chrome.google.com/webstore/detail/infinity-new-tab-pro/nnnkddnnlpamobajfibfdgfnbcnkgngh) - 让浏览器的新标签页可定制化。
 - [Image Downloader](https://chrome.google.com/webstore/detail/image-downloader/cnpniohnfphhjihaiiggeabnkjhpaldj) - 网站图片批量下载。
 - [Dark Reader](https://darkreader.org/) - 为网页提供黑暗模式以保护眼镜。
 
