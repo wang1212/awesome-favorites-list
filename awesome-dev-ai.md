@@ -259,6 +259,9 @@ _Development Framework._
   - [Agent Development Kit](https://google.github.io/adk-docs/) - **Google 发布**。
   - [Genkit](https://github.com/firebase/genkit) - **Google 发布**。
 
+- MCP Server
+  - [FastMCP](https://gofastmcp.com/) - Python 用来构建标准 MCP 应用的框架。
+
 - Others
   - [Vercel AI SDK](https://sdk.vercel.ai/docs) - 开发对话流应用的 SDK。
   - [LMQL](https://lmql.ai/) - LLMs 编程语言。
