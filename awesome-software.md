@@ -170,6 +170,7 @@ _（Recommend）国内可访问的**非官方**扩展商店：_
 - 图片工具集（Image Toolset）
   - [Img2Go](https://www.img2go.com/zh) - 图片处理，还包含 PDF、音频、视频、电子书、OCR 处理等工具。
   - [iLoveIMG](https://www.iloveimg.com/zh-cn)
+  - [Photopea](https://www.photopea.com/) - 免费在线图片编辑工具。
   - [Doka.Photo](https://doka.photo/) - 免费在线图片编辑工具。
   - [Online GIF tools](https://onlinegiftools.com/) - 在线 gif 工具。
   - [Ezgif.com](https://ezgif.com/) - gif 制作工具和编辑工具集。
