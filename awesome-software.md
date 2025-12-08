@@ -751,5 +751,6 @@ _TV._
 - [MIUIver](https://miuiver.com/) - MIUI 历史版本包下载，**非小米官方站点**。
 - [冰点软件](http://www.bingdian001.com/) - 很多实用小工具，尤其冰点文库相当好用。
 - [Listen 1](https://listen1.github.io/listen1/) - 音乐聚合搜索。
+- [FMHY](https://github.com/fmhy/edit) - 互联网免费资源合集。
 
 [`Go Top ↑`](#awesome-software)
