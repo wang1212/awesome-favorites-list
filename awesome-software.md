@@ -28,6 +28,7 @@
 - [OSDN](https://osdn.net/) - 开源软件下载。
 - [softpedia](https://www.softpedia.com/)
 - [AlternativeTo](https://alternativeto.net/) - 寻找替代软件。
+  - [Open Source Alternatives](https://openalternative.co/) - 寻找流行软件的开源替代。
 - PC
   - [Windhawk](https://windhawk.net/) - Windows 程序的定制市场。
 - Portable Apps (PC)
