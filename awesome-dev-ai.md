@@ -85,6 +85,7 @@ _[Model Context Protocol](https://modelcontextprotocol.io/introduction) Resource
 
 - Tools
   - [Supergateway](https://github.com/supercorp-ai/supergateway) - 使用一个命令通过 SSE 或 WebSockets 运行基于 MCP stdio 的服务器。
+  - [MCP Bundles (MCPB)](https://github.com/modelcontextprotocol/mcpb) - 包含本地 MCP 服务器和描述服务器及其功能的压缩包。
 
 ### 其它
 
