@@ -124,6 +124,7 @@ _Tutorial._
   - [Prompting guide 101](https://services.google.com/fh/files/misc/gemini-for-google-workspace-prompting-guide-101.pdf)
     - [Generative AI prompt samples](https://cloud.google.com/vertex-ai/generative-ai/docs/prompt-gallery)
     - [How to prompt Gemini 2.5 Flash Image Generation for the best results](https://drive.google.com/file/d/1Pl9aeG1XuqQyvXBQhdpdY-iI4-XQR3wU/view?pli=1)
+  - [god of prompt](https://www.godofprompt.ai/) - 不同领域的提示词模板。
 
 ### 云服务商
 
