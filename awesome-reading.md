@@ -315,6 +315,7 @@ _Artificial Intelligence._
 - [Stanford CS229 - Machine Learning](https://see.stanford.edu/Course/CS229)
 - [ML-YouTube-Courses](https://github.com/dair-ai/ML-YouTube-Courses) - 机器学习相关的视频课程。
 - [StatQuest](https://statquest.org/) - 用动画解释统计学和机器学习。
+- [How to Scale Your Model](https://jax-ml.github.io/scaling-book/) - 解释模型训练相关知识，**可在线免费阅读**。
 
 #### 其它
 
