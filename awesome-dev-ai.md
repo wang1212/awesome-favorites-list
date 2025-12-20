@@ -74,6 +74,9 @@ _Protocol._
 
 _[Model Context Protocol](https://modelcontextprotocol.io/introduction) Resources._
 
+- Extension
+  - [MCP-UI](https://mcpui.dev/) - 基于 MCP 的交互式 UI 组件。
+
 - Awesome
   - [awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers)
   - [awesome-mcp-clients](https://github.com/punkpeye/awesome-mcp-clients/)
@@ -150,8 +153,6 @@ _Others._
 ## 工具
 
 _Tools._
-
-[_App on ChatGPT_](https://www.appsonchatgpt.com/ecosystem) _- 构建 AI 应用的生态工具。_
 
 - [jsonformer](https://github.com/1rgs/jsonformer) - 让大模型输出 JSON 结构化的数据格式。
 
