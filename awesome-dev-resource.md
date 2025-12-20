@@ -515,6 +515,7 @@ _AI native programming tools._
   - [windsurf](https://windsurf.com/editor) - 同时提供 VSCode 扩展插件，**可免费使用**。
   - [void](https://voideditor.com/) - **开源软件**。
   - [qoder](https://qoder.com/)
+  - [Antigravity](https://antigravity.google/) - 个人用户周限制。
 
 - AI Coding Agent - Others
   - [goose](https://github.com/block/goose)
