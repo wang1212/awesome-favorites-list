@@ -151,7 +151,7 @@ _Others._
 
 _Tools._
 
-[App on ChatGPT](https://www.appsonchatgpt.com/ecosystem) _- 构建 AI 应用的生态工具。_
+[_App on ChatGPT_](https://www.appsonchatgpt.com/ecosystem) _- 构建 AI 应用的生态工具。_
 
 - [jsonformer](https://github.com/1rgs/jsonformer) - 让大模型输出 JSON 结构化的数据格式。
 
