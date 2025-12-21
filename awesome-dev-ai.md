@@ -31,6 +31,7 @@ _News, also see 👉 [journals](awesome-dev-resource.md#技术期刊)._
 - [OpenAI News](https://openai.com/news/)
 - [Google Research Blog](https://ai.googleblog.com/)
   - [Google Products News - Gemini](https://blog.google/products/gemini/)
+  - [Google Developers](https://developers.google.com/)
 - [Anthropic News](https://www.anthropic.com/news)
 - [TestingCatalog News](https://www.testingcatalog.com/) - AI 领域资讯。
 - [Dr. Andrew Ng](https://www.andrewng.org/) - 吴恩达的博客。
