@@ -101,6 +101,7 @@ _Others._
 - [SKILL.md](https://agentskills.io/) - 一种轻量级的开放格式，可通过专业知识和工作流程扩展 AI 代理的功能。
 - [Agent2Agent (A2A) Protocol](https://a2a-protocol.org/) - 旨在实现 AI 代理之间的无缝通信和协作，**Google 发起**。
   - [Agent Payments Protocol (AP2)](https://ap2-protocol.org/) - 旨在为开发者、商家和支付行业提供安全、可靠且可互操作的代理交易能力，**Google 发起**。
+- [A2UI](https://github.com/google/A2UI/) - 一个面向代理的生成式 UI 的标准协议，**Google 发起**。
 - [Agent–User Interaction (AG-UI) Protocol](https://docs.ag-ui.com/) - 开放、轻量级、基于事件的协议，它标准化了 AI 代理连接到面向用户的应用程序的方式。
 - [Agent Client Protocol (ACP)](https://agentclientprotocol.com/) - 标准化了代码编辑器（IDE、文本编辑器等）和编码代理（使用生成式 AI 自主修改代码的程序）之间的通信。
 - [agents.json](https://docs.wild-card.ai/agentsjson/introduction)
