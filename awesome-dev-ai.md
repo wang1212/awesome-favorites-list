@@ -48,6 +48,8 @@ _News, also see 👉 [journals](awesome-dev-resource.md#技术期刊)._
 
 _Community._
 
+- [Agentic AI Foundation](https://aaif.io/) - 开源智能体 AI 生态，非营利性组织。
+
 - [Hugging Face](https://huggingface.co/) - 全球领先的协作共享开源 AI 模型社区。
   - [TensorFlow Hub](https://www.tensorflow.org/hub)
   - [魔搭](https://modelscope.cn/)
@@ -264,6 +266,7 @@ _Development Framework._
   - [mastra](https://github.com/mastra-ai/mastra)
   - [Agent Development Kit](https://google.github.io/adk-docs/) - **Google 发布**。
   - [Genkit](https://github.com/firebase/genkit) - **Google 发布**。
+  - [goose](https://block.github.io/goose/) - 本地优先的智能体开发框架。
 
 - MCP Server
   - [FastMCP](https://gofastmcp.com/) - Python 用来构建标准 MCP 应用的框架。
