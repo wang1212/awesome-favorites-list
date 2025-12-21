@@ -17,6 +17,7 @@ _（Recommend） :point_right: [awesome-artificial-intelligence](https://github.
 - [社区（Community）](#社区)
 - [协议（Protocol）](#协议)
   - [MCP（Model Context Protocol）](#model-context-protocol)
+  - [Skills](#skills)
 - [资源（Resources）](#资源)
   - [云服务商（AI Model Cloud Service Provider）](#云服务商)
 - [工具（Tools）](#工具)
@@ -78,27 +79,54 @@ _Protocol._
 _[Model Context Protocol](https://modelcontextprotocol.io/introduction) Resources._
 
 - Extension
-  - [MCP-UI](https://mcpui.dev/) - 基于 MCP 的交互式 UI 组件。
+  - [MCP-UI](https://mcpui.dev/) - 基于 MCP 的交互式 UI 组件，**Anthropic 发起**。
 
 - Awesome
   - [awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers)
   - [awesome-mcp-clients](https://github.com/punkpeye/awesome-mcp-clients/)
 
-- Marketplace
+- Tools
+  - [Supergateway](https://github.com/supercorp-ai/supergateway) - 使用一个命令通过 SSE 或 WebSockets 运行基于 MCP stdio 的服务器。
+  - [MCP Bundles (MCPB)](https://github.com/modelcontextprotocol/mcpb) - 包含本地 MCP 服务器和描述服务器及其功能的压缩包。
+
+<details>
+  <summary>Marketplace</summary>
+
   - [Smithery](https://smithery.ai/) - mcp servers.
   - [Glama MCP](https://glama.ai/mcp) - mcp clients、servers.
   - [MCP.so](https://mcp.so/)
 
+</details>
+
+### Skills
+
+_[SKILL.md](https://agentskills.io/) Resources._
+
+- [skills](https://github.com/anthropics/skills) - 官方的案例。
+- [oai-skills](https://github.com/eliasjudin/oai-skills) - OpenAI 泄露的官方技能。
+
 - Tools
-  - [Supergateway](https://github.com/supercorp-ai/supergateway) - 使用一个命令通过 SSE 或 WebSockets 运行基于 MCP stdio 的服务器。
-  - [MCP Bundles (MCPB)](https://github.com/modelcontextprotocol/mcpb) - 包含本地 MCP 服务器和描述服务器及其功能的压缩包。
+  - [Skill_Seekers](https://github.com/yusufkaraaslan/Skill_Seekers) - 将文档网站、GitHub 存储库和 PDF 文件转换为 Claude AI 技能。
+
+<details>
+  <summary>Marketplace</summary>
+
+  - [superpowers](https://github.com/obra/superpowers)
+  - https://github.com/ComposioHQ/awesome-claude-skills
+  - https://github.com/BehiSecc/awesome-claude-skills
+  - https://github.com/VoltAgent/awesome-claude-skills
+  - https://github.com/travisvn/awesome-claude-skills
+  - https://github.com/K-Dense-AI/claude-scientific-skills
+  - https://github.com/huggingface/skills
+
+</details>
 
 ### 其它
 
 _Others._
 
 - [AGENTS.md](https://agents.md/) - 一种简单、开放的编码代理指导格式，**AAIF 项目**。
-- [SKILL.md](https://agentskills.io/) - 一种轻量级的开放格式，可通过专业知识和工作流程扩展 AI 代理的功能。
+
 - [Agent2Agent (A2A) Protocol](https://a2a-protocol.org/) - 旨在实现 AI 代理之间的无缝通信和协作，**Google 发起**。
   - [Agent Payments Protocol (AP2)](https://ap2-protocol.org/) - 旨在为开发者、商家和支付行业提供安全、可靠且可互操作的代理交易能力，**Google 发起**。
 - [A2UI](https://github.com/google/A2UI/) - 一个面向代理的生成式 UI 的标准协议，**Google 发起**。
