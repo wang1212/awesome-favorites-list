@@ -256,9 +256,7 @@ _Development Framework._
   - [Chatbot UI](https://github.com/mckaywrigley/chatbot-ui)
   - [nlux](https://docs.nlkit.com/nlux)
   - [assistant-ui](https://github.com/Yonom/assistant-ui)
-
-- Low Code
-  - [flowise](https://flowiseai.com/) - 开源 UI 可视化工具，用于构建定制的 LLM 编排流程和 AI 代理。
+  - [Vercel AI SDK](https://sdk.vercel.ai/docs) - 开发对话流应用的 SDK。
 
 - Agent _[Multi-Agent Frameworks Comparison](https://multiagentbook.com/labs/frameworks/)_
   - [@huggingface/agents](https://huggingface.co/blog/agents-js)
@@ -271,12 +269,15 @@ _Development Framework._
   - [Agent Development Kit](https://google.github.io/adk-docs/) - **Google 发布**。
   - [Genkit](https://github.com/firebase/genkit) - **Google 发布**。
   - [goose](https://block.github.io/goose/) - 本地优先的智能体开发框架，**AAIF 项目**。
+  - [CopilotKit](https://www.copilotkit.ai/) - 构建传统应用中的 AI 智能体助理的框架。
 
 - MCP Server
   - [FastMCP](https://gofastmcp.com/) - Python 用来构建标准 MCP 应用的框架。
 
+- Low Code
+  - [flowise](https://flowiseai.com/) - 开源 UI 可视化工具，用于构建定制的 LLM 编排流程和 AI 代理。
+
 - Others
-  - [Vercel AI SDK](https://sdk.vercel.ai/docs) - 开发对话流应用的 SDK。
   - [LMQL](https://lmql.ai/) - LLMs 编程语言。
 
 [`Go Top ↑`](#awesome-ai-dev-list)
