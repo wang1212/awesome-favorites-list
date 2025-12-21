@@ -97,6 +97,8 @@ _[Model Context Protocol](https://modelcontextprotocol.io/introduction) Resource
 
 _Others._
 
+- [AGENTS.md](https://agents.md/) - 一种简单、开放的编码代理指导格式，**AAIF 项目**。
+- [SKILL.md](https://agentskills.io/) - 一种轻量级的开放格式，可通过专业知识和工作流程扩展 AI 代理的功能。
 - [Agent2Agent (A2A) Protocol](https://a2a-protocol.org/) - 旨在实现 AI 代理之间的无缝通信和协作，**Google 发起**。
   - [Agent Payments Protocol (AP2)](https://ap2-protocol.org/) - 旨在为开发者、商家和支付行业提供安全、可靠且可互操作的代理交易能力，**Google 发起**。
 - [Agent–User Interaction (AG-UI) Protocol](https://docs.ag-ui.com/) - 开放、轻量级、基于事件的协议，它标准化了 AI 代理连接到面向用户的应用程序的方式。
@@ -131,6 +133,7 @@ _Tutorial._
     - [Generative AI prompt samples](https://cloud.google.com/vertex-ai/generative-ai/docs/prompt-gallery)
     - [How to prompt Gemini 2.5 Flash Image Generation for the best results](https://drive.google.com/file/d/1Pl9aeG1XuqQyvXBQhdpdY-iI4-XQR3wU/view?pli=1)
   - [god of prompt](https://www.godofprompt.ai/) - 不同领域的提示词模板。
+  - [Fabric](https://github.com/danielmiessler/Fabric) - 提示词/模式集合。
 
 ### 云服务商
 
@@ -266,7 +269,7 @@ _Development Framework._
   - [mastra](https://github.com/mastra-ai/mastra)
   - [Agent Development Kit](https://google.github.io/adk-docs/) - **Google 发布**。
   - [Genkit](https://github.com/firebase/genkit) - **Google 发布**。
-  - [goose](https://block.github.io/goose/) - 本地优先的智能体开发框架。
+  - [goose](https://block.github.io/goose/) - 本地优先的智能体开发框架，**AAIF 项目**。
 
 - MCP Server
   - [FastMCP](https://gofastmcp.com/) - Python 用来构建标准 MCP 应用的框架。
