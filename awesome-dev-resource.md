@@ -831,7 +831,7 @@ _see also 👉 https://github.com/cdleon/awesome-terminals_
 - 抓包工具（Packet Capture）
   - [Fiddler Everywhere](https://www.telerik.com/fiddler) - **提供免费版本**。
   - [mitmproxy](https://www.mitmproxy.org/) - Python 开发的 HTTPS 代理，**开源免费**。
-  - [whistle](https://wproxy.org/whistle/)
+  - [whistle](https://wproxy.org/whistle/) - 支持 HTTP/HTTPS/SOCKS/反向代理，**开源免费**。
 
 - 其它（Others）
   - [screego](https://screego.net/#/) - 屏幕共享服务器。
