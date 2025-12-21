@@ -544,6 +544,7 @@
   - [vm2](https://github.com/patriksimek/vm2)
   - [isolated-vm](https://github.com/laverdet/isolated-vm)
   - [QuickJS](https://github.com/sebastianwessel/quickjs)
+  - [sandbox-runtime](https://github.com/anthropic-experimental/sandbox-runtime) - 从操作系统级别隔离网络和文件操作。
 
 - 邮件（SMTP）
   - [Nodemailer](https://nodemailer.com/) - 邮件发送。
