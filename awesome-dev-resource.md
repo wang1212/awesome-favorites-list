@@ -496,15 +496,16 @@ _AI native programming tools._
 - AI Coding Agent - IDE Extension
   - [windsurf](https://windsurf.com/plugins) - **基础功能可以免费使用**。
   - [blackbox Agent](https://www.blackbox.ai/) - **基础功能可以免费使用**。
-  - [cline](https://github.com/cline/cline)
-  - [Roo Code](https://roocode.com/)
+  - [Kilo Code](https://kilo.ai/)
+    - [cline](https://github.com/cline/cline)
+    - [Roo Code](https://roocode.com/)
   - [qodo gen](https://www.qodo.ai/)
   - [Continue](https://www.continue.dev/)
 
 - AI Coding Agent - Terminal
-  - [Gemini CLI](https://github.com/google-gemini/gemini-cli) - Google 发布，提供免费版本。
-  - [OpenAI Codex CLI](https://github.com/openai/codex) - OpenAI 发布，支持多个模型供应商，需提供 Key 才能使用。
-  - [claude-code](https://www.anthropic.com/claude-code) - Anthropic 发布。
+  - [Gemini CLI](https://github.com/google-gemini/gemini-cli) - **提供免费额度，Google 发布**。
+  - [OpenAI Codex CLI](https://github.com/openai/codex) - 支持多个模型供应商，需提供 Key 才能使用，**OpenAI 发布**。
+  - [Claude Code](https://www.anthropic.com/claude-code) - **Anthropic 发布**。
   - [Aider](https://github.com/Aider-AI/aider)
   - [Warp](https://www.warp.dev/)
   - [OpenCode](https://github.com/sst/opencode)
@@ -512,14 +513,13 @@ _AI native programming tools._
 - AI Coding Agent - IDE
   - [cursor](https://www.cursor.com/)
     - [dotcursorrules](https://dotcursorrules.com/)  
-  - [windsurf](https://windsurf.com/editor) - 同时提供 VSCode 扩展插件，**可免费使用**。
+  - [windsurf](https://windsurf.com/editor) - 同时提供 VSCode 扩展插件，**提供免费模型**。
   - [void](https://voideditor.com/) - **开源软件**。
-  - [qoder](https://qoder.com/)
-  - [Antigravity](https://antigravity.google/) - 个人用户周限制。
+  - [qoder](https://qoder.com/) - **提供免费模型**。
+  - [Antigravity](https://antigravity.google/) - **免费额度周刷新。**
 
-- AI Coding Agent - Others
-  - [goose](https://github.com/block/goose)
-  - [jules](https://jules.google.com/) - 异步编码代理，**Google 发布**。
+- AI Coding Agent - Async Task
+  - [jules](https://jules.google.com/) - 异步编码代理，**每天 15 个免费任务额度，Google 发布**。
 
 - Vibe Coding - Web
   - [bolt](https://bolt.new/) - 通过 AI 直接生成页面应用项目代码，可免费使用。
