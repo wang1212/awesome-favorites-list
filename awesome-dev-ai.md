@@ -163,6 +163,7 @@ _Tutorial._
     - [How to prompt Gemini 2.5 Flash Image Generation for the best results](https://drive.google.com/file/d/1Pl9aeG1XuqQyvXBQhdpdY-iI4-XQR3wU/view?pli=1)
   - [god of prompt](https://www.godofprompt.ai/) - 不同领域的提示词模板。
   - [Fabric](https://github.com/danielmiessler/Fabric) - 提示词/模式集合。
+  - [toon](https://github.com/toon-format/toon) - 面向标记的对象表示法 (TOON)，用于 LLM 提示的紧凑、易读、模式感知的 JSON。
 
 ### 云服务商
 
