@@ -95,6 +95,7 @@ _[Model Context Protocol](https://modelcontextprotocol.io/introduction) Resource
   - [Smithery](https://smithery.ai/) - mcp servers.
   - [Glama MCP](https://glama.ai/mcp) - mcp clients、servers.
   - [MCP.so](https://mcp.so/)
+  - [Awesome MCP Servers](https://mcpservers.org/)
 
 </details>
 
@@ -308,6 +309,7 @@ _Development Framework._
 
 - Others
   - [LMQL](https://lmql.ai/) - LLMs 编程语言。
+  - [Awesome AI Memory](https://github.com/topoteretes/awesome-ai-memory)
 
 [`Go Top ↑`](#awesome-ai-dev-list)
 
