@@ -147,7 +147,7 @@ _Available in browser（JavaScript）. **Tips:** Most of what is available in th
 - [H3](https://h3geo.org/) - 六边形分级地理空间索引系统。
 - [SuperCluster](https://github.com/mapbox/supercluster) - 点聚合算法。
 - [geojson-rewind](https://github.com/mapbox/geojson-rewind) - 对 GeoJSON 强制执行多边形环缠绕顺序。
-- [coordtransform](https://github.com/wandergis/coordtransform) - 中国地区的火星坐标、GCJ02 坐标到 WGS84 坐标的转换工具。 
+- [coordtransform](https://github.com/wandergis/coordtransform) - 中国地区的百度坐标、GCJ02 坐标到 WGS84 坐标的转换工具。 
 
 [`Go Top ↑`](#awesome-gis-list)
 
