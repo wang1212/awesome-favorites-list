@@ -400,6 +400,7 @@ _（Recommend）国内可访问的**非官方**扩展商店：_
   - [Listary](https://www.listary.com/) - 可快速搜索文件，启动应用软件，**个人用户免费**。
   - [Flow Launcher](https://www.flowlauncher.com/) - 应用启动器，**开源软件**。`Windows`
   - [Raycast](https://www.raycast.com/) - **可免费使用**。`MacOS`
+  - [Launchie](https://www.launchie.app/) - macOS 的 Launchpad 替代品。`MacOS`
  
 - 工具箱（Toolbox）
   - [PowerToys](https://github.com/microsoft/PowerToys) - 实用工具集，**微软出品，开源软件**。
