@@ -320,6 +320,7 @@ _Others._
 - [Tabby](https://tabby.tabbyml.com/) - 开源、自托管的 AI 编码助手。
 - [AnythingLLM](https://github.com/Mintplex-Labs/anything-llm) - 可自托管的全栈应用程序，用来构建私有数据集的 AI 知识库应用。
 - [AgentGPT](https://github.com/reworkd/AgentGPT) - 部署自托管的 AI 代理。
+- [SillyTavern](https://github.com/SillyTavern/SillyTavern) - 一个功能强大的开源大语言模型（LLM）前端界面。
 - Open source pre-trained models
   - [FinGPT](https://github.com/AI4Finance-Foundation/FinGPT) - 金融领域的预训练模型。
 - Articals
