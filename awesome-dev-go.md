@@ -54,6 +54,7 @@ _Command line tools and tools used to develop command line applications._
 ### 构建工具
 
 - [cobra](https://cobra.dev/) - 命令行 App 开发框架。
+- [Charm](https://charm.land/) - 构建终端 UI 的套件。
 
 ### 实用工具
 
