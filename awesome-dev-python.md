@@ -79,6 +79,7 @@ _Some build tools that can be used to configure the environment, compile, type c
 
 - 命令行应用（CLIs）
   - [Typer](https://typer.tiangolo.com/)
+  - [Textual](https://github.com/Textualize/textual)
 
 [`Go Top ↑`](#awesome-python-list)
 
