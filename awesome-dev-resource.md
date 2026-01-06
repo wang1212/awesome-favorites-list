@@ -505,12 +505,12 @@ _AI native programming tools._
 
 - AI Coding Agent - Terminal
   - _[cc-switch](https://github.com/farion1231/cc-switch) - 跨平台的配置管理工具。_
+  - [Claude Code](https://www.anthropic.com/claude-code) - **Anthropic 发布**。
   - [Gemini CLI](https://github.com/google-gemini/gemini-cli) - **提供免费额度，Google 发布**。
   - [OpenAI Codex CLI](https://github.com/openai/codex) - 支持多个模型供应商，需提供 Key 才能使用，**OpenAI 发布**。
-  - [Claude Code](https://www.anthropic.com/claude-code) - **Anthropic 发布**。
+  - [OpenCode](https://github.com/anomalyco/opencode) - **开源**。
   - [Aider](https://github.com/Aider-AI/aider)
   - [Warp](https://www.warp.dev/)
-  - [OpenCode](https://github.com/sst/opencode)
 
 - AI Coding Agent - IDE
   - [cursor](https://www.cursor.com/)
@@ -518,7 +518,7 @@ _AI native programming tools._
   - [windsurf](https://windsurf.com/editor) - 同时提供 VSCode 扩展插件，**提供免费模型**。
   - [void](https://voideditor.com/) - **开源软件**。
   - [qoder](https://qoder.com/) - **提供免费模型**。
-  - [Antigravity](https://antigravity.google/) - **免费额度周刷新。**
+  - [Antigravity](https://antigravity.google/) - 免费额度周刷新，**Google 发布**。
 
 - AI Coding Agent - Async Task
   - [jules](https://jules.google.com/) - 异步编码代理，**每天 15 个免费任务额度，Google 发布**。
@@ -534,6 +534,9 @@ _AI native programming tools._
 
 - Spec Coding
   - [spec-kit](https://github.com/github/spec-kit)
+ 
+- Skills
+  - [superpowers](https://github.com/obra/superpowers) - 一个完整的软件开发工作流程。
 
 [`Go Top ↑`](#awesome-development-resources)
 
@@ -781,7 +784,7 @@ _see also 👉 https://github.com/cdleon/awesome-terminals_
 
 *Others.*
 
-- [glow](https://github.com/charmbracelet/glow) - 在命令行渲染 Markdown 文档。
+- [glow](https://github.com/charmbracelet/glow) - 在命令行预览 Markdown 文档。
 - [Certbot](https://certbot.eff.org/) - 管理 [Let's Encrypt](https://letsencrypt.org/) 证书工具，为网站启用 HTTPS，**开源软件**。
 - [gron](https://github.com/tomnomnom/gron) - 使 JSON 数据更易读，**开源软件**。
 - [fx](https://github.com/antonmedv/fx) - 命令行 JSON 处理工具，**开源软件**。
