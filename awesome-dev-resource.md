@@ -371,6 +371,7 @@ _see also 👉  [Web 端软件资源](./awesome-software.md#浏览器端)_
   - [Resolve.rs](https://resolve.rs/tools.html) - 查询本机 IP、DNS 服务器等。
   - [FreeSSL](https://freessl.org/) - 免费 SSL 证书在线申请。
   - [IKnowWhatYouDownload](https://iknowwhatyoudownload.com/) - 查看 IP 下载过的 BT 资源。
+  - [Web Check](https://web-check.xyz/)
 
 - Service
   - [Web-Scale UUID as a Service](https://uuid.rocks/) - 在线生成 uuid。
