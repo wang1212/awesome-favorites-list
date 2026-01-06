@@ -609,12 +609,13 @@
 
 - 命令行应用开发框架（CLI App Dev）
   - [Ink](https://github.com/vadimdemedes/ink) - 用 React.js 开发命令行应用。
+  - [clack](https://github.com/bombshell-dev/clack)
   - [Caporal](https://github.com/mattallty/Caporal.js) - 全功能命令行应用开发框架。
   - [oclif](https://oclif.io/) - 命令行工具开发框架。
   - [meow](https://github.com/sindresorhus/meow) - 命令行应用开发工具包。
   - [Gluegun](https://infinitered.github.io/gluegun/) - 命令行应用开发工具包。
   - [Terminal Kit](https://github.com/cronvel/terminal-kit) - 编写命令行程序的工具包。
-  - [blessed](https://github.com/chjj/blessed) - 高级终端接口库。
+  - [blessed](https://github.com/chjj/blessed) - 高级终端接口库。（⚠️ 不再维护）
     - [blessed-contrib](https://github.com/yaronn/blessed-contrib) - 仪表面板工具库。
 
 - 可执行程序（Executable）
