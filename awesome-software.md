@@ -11,6 +11,7 @@
 
 - [应用程序商店（Application store）](#应用程序商店)
 - [软件包管理器（Software Package Manager）](#软件包管理器)
+- [AI Native](#ai-native)
 - [Chrome 扩展应用（Chrome Extension）](#chrome-扩展应用)
 - [浏览器端（Web && PWA）](#浏览器端)
 - [安卓端（Android）](#安卓端)
@@ -67,6 +68,15 @@
 ### Others
 
 - [Homebrew](https://brew.sh/) - macOS / Linux。
+
+[`Go Top ↑`](#awesome-software)
+
+## AI Native
+
+_AI native apps._
+
+- [NotebookLM](https://notebooklm.google.com/) - 知识理解与多模态资源生成。
+- [Stitch](https://stitch.withgoogle.com/) - 设计稿生成。
 
 [`Go Top ↑`](#awesome-software)
 
