@@ -495,8 +495,6 @@ _AI native programming tools._
   - [ruler](https://github.com/intellectronica/ruler) - 统一管理 agent 规则配置。
 
 - AI Coding Agent - IDE Extension
-  - [windsurf](https://windsurf.com/plugins) - **基础功能可以免费使用**。
-  - [blackbox Agent](https://www.blackbox.ai/) - **基础功能可以免费使用**。
   - [Kilo Code](https://kilo.ai/)
     - [cline](https://github.com/cline/cline)
     - [Roo Code](https://roocode.com/)
@@ -515,10 +513,11 @@ _AI native programming tools._
 - AI Coding Agent - IDE
   - [cursor](https://www.cursor.com/)
     - [dotcursorrules](https://dotcursorrules.com/)  
-  - [windsurf](https://windsurf.com/editor) - 同时提供 VSCode 扩展插件，**提供免费模型**。
-  - [void](https://voideditor.com/) - **开源软件**。
-  - [qoder](https://qoder.com/) - **提供免费模型**。
+  - [windsurf](https://windsurf.com/editor) - **提供免费模型**。
   - [Antigravity](https://antigravity.google/) - 免费额度周刷新，**Google 发布**。
+  - [Blackbox AI](https://www.blackbox.ai/) - 提供 VSCode 插件/IDE/CLI/Remote Agent，**提供免费模型**。
+  - [qoder](https://qoder.com/) - 提供 IDE/CLI，**提供免费模型**。
+  - [void](https://voideditor.com/) - **开源软件**。
 
 - AI Coding Agent - Async Task
   - [jules](https://jules.google.com/) - 异步编码代理，**每天 15 个免费任务额度，Google 发布**。
