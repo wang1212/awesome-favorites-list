@@ -28,6 +28,7 @@ _（Recommend） :point_right: [awesome-artificial-intelligence](https://github.
 
 _News, also see 👉 [journals](awesome-dev-resource.md#技术期刊)._
 
+- [Artificial Analysis](https://artificialanalysis.ai/) - AI 模型与服务供应商评测分析。
 - [Hugging Face Blog](https://huggingface.co/blog/)
 - [OpenAI News](https://openai.com/news/)
 - [Google Research Blog](https://ai.googleblog.com/)
