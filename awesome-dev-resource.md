@@ -153,6 +153,7 @@
   - [Superhero.js](http://superherojs.com/) - 构建大型 JavaScript 项目的一些技巧。
   - [Command Line Interface Guidelines](https://clig.dev/) - 命令行接口指南。
   - [Awesome Diagramming](https://github.com/shubhamgrg04/awesome-diagramming) - 可用来画架构图的一些图表工具。
+  - [Guidelines](https://vercel.com/design/guidelines) - UI 设计指南，**Vercel 发布**。
 
 ### 其它
 
