@@ -54,6 +54,7 @@
   - [why-did-you-render](https://github.com/welldone-software/why-did-you-render) - 探测应用重新渲染的部分的原因。
   - [React Render Tracker](https://github.com/lahmatiy/react-render-tracker)
   - [React Scan](https://github.com/aidenybai/react-scan) - 扫描应用中出现的渲染问题。
+  - [bippy](https://github.com/aidenybai/bippy) - 查看 React 组件内部细节状态。
 
 - 构建（Build）
   - [Create React App](https://create-react-app.dev/) - 零配置的 React App 构建工具，**React 官方发布**。
