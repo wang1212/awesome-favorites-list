@@ -421,9 +421,12 @@ _（Recommend）国内可访问的**非官方**扩展商店：_
 - Github Notifications
   - [Gitify](https://www.gitify.io/) - **开源软件**。
   - [neat](https://neat.run/) - **开源软件**。
-  
-- Others
+
+- Translate
   - [CopyTranslator](https://github.com/CopyTranslator/CopyTranslator) - 桌面划词翻译，**开源软件**。
+  - [MTranServer](https://github.com/xxnuo/MTranServer) - 可私有部署的离线翻译模型服务。
+
+- Others
   - [Module Art](https://moduleart.github.io/) - 软件集合，包含图片浏览器、录屏软件等，**开源软件**。
   - [rime](https://rime.im/) - 输入法算法框架，**开源软件**。
 
