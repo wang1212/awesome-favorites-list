@@ -538,6 +538,9 @@ _AI native programming tools._
 - Skills
   - [superpowers](https://github.com/obra/superpowers) - 一个完整的软件开发工作流程。
 
+- Others
+  - [Tabby](https://tabby.tabbyml.com/) - 开源、自托管的 AI 编码引擎服务。
+
 [`Go Top ↑`](#awesome-development-resources)
 
 ## 软件工具
