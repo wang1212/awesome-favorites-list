@@ -282,11 +282,6 @@ _Development Framework._
   - [PrivateGPT](https://docs.privategpt.dev/overview) - 构建私有 RAG 应用的 SDK。
   - [llmware](https://llmware-ai.github.io/llmware/)
 
-- Chatbot App
-  - [Every front-end GUI client for ChatGPT API](https://github.com/billmei/every-chatgpt-gui) 
-  - [Lobe Chat](https://github.com/lobehub/lobe-chat)
-  - [Chatbot UI](https://github.com/mckaywrigley/chatbot-ui)
-
 - Chatbot UI
   - [assistant-ui](https://github.com/Yonom/assistant-ui)
     - [Tool UI](https://www.tool-ui.com/)
@@ -323,10 +318,6 @@ _Development Framework._
 
 _Others._
 
-- [Tabby](https://tabby.tabbyml.com/) - 开源、自托管的 AI 编码助手。
-- [AnythingLLM](https://github.com/Mintplex-Labs/anything-llm) - 可自托管的全栈应用程序，用来构建私有数据集的 AI 知识库应用。
-- [AgentGPT](https://github.com/reworkd/AgentGPT) - 部署自托管的 AI 代理。
-- [SillyTavern](https://github.com/SillyTavern/SillyTavern) - 一个功能强大的开源大语言模型（LLM）前端界面。
 - Open source pre-trained models
   - [FinGPT](https://github.com/AI4Finance-Foundation/FinGPT) - 金融领域的预训练模型。
 - Articals
