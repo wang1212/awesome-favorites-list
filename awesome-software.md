@@ -78,6 +78,19 @@ _AI native apps._
 - [NotebookLM](https://notebooklm.google.com/) - 知识理解与多模态资源生成。
 - [Stitch](https://stitch.withgoogle.com/) - 设计稿生成。
 
+- Local ChatGPT 
+  - [Every front-end GUI client for ChatGPT API](https://github.com/billmei/every-chatgpt-gui)
+  - [Open WebUI](https://github.com/open-webui/open-webui)
+  - [LibreChat](https://github.com/danny-avila/LibreChat)
+  - [NextChat](https://github.com/ChatGPTNextWeb/NextChat)
+  - [Lobe Chat](https://github.com/lobehub/lobe-chat)
+  - [Chatbot UI](https://github.com/mckaywrigley/chatbot-ui)
+  - [AnythingLLM](https://github.com/Mintplex-Labs/anything-llm)
+  - [SillyTavern](https://github.com/SillyTavern/SillyTavern) - 一个功能强大的开源大语言模型（LLM）前端界面。
+
+- Local Agent
+  - [AgentGPT](https://github.com/reworkd/AgentGPT) - 部署自托管的 AI 代理。
+
 [`Go Top ↑`](#awesome-software)
 
 ## Chrome 扩展应用
