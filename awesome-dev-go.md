@@ -40,7 +40,7 @@ _Official and unofficial technical reference documents._
 
 _Go version management._
 
-- [goenv](https://github.com/l3x/goenv)
+- [goenv](https://github.com/go-nv/goenv)
 
 [`Go Top ↑`](#awesome-go-list)
 
