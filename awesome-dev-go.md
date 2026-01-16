@@ -6,9 +6,9 @@
 
 <br />
 
-> Go 是一个内置并发支持的语言，在云领域的产品中应用广泛，:point_right: https://go.dev/
+> Go 是一个内置并发支持的语言，在云领域的产品中应用广泛， :point_right: https://go.dev/
 
-_（Recommend）推荐一个其它的很棒的收藏列表，:point_right:_
+_（Recommend）推荐一个其它的很棒的收藏列表， :point_right:_
 
 ## 目录
 
@@ -16,6 +16,7 @@ _Resource navigation list._
 
 - [技术规范标准（Technical Specifications）](#技术规范标准)
 - [技术参考文档（Technical Reference Document）](#技术参考文档)
+- [Go 版本管理（Go Version Management）](#go-版本管理)
 - [包管理器（Package Manager）](#包管理器)
 - [工具库（Tool Library）](#工具库)
 - [命令行工具（Command Line Tools）](#命令行工具)
@@ -32,6 +33,14 @@ _Official technical specifications._
 ## 技术参考文档
 
 _Official and unofficial technical reference documents._
+
+[`Go Top ↑`](#awesome-go-list)
+
+## Go 版本管理
+
+_Go version management._
+
+- [goenv](https://github.com/l3x/goenv)
 
 [`Go Top ↑`](#awesome-go-list)
 
