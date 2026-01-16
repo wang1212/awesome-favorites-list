@@ -814,6 +814,7 @@ _see also 👉 https://github.com/cdleon/awesome-terminals_
 
 *Utils tools.*
 
+- [asdf](https://github.com/asdf-vm/asdf) - 可扩展的版本管理器，支持 Ruby、Node.js、Elixir、Erlang 等多种语言。
 - [staticrypt](https://github.com/robinmoisson/staticrypt) - HTML 文件加密。
 
 - 幻灯片（Slideshow）
