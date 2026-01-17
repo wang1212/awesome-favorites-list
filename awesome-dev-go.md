@@ -24,6 +24,8 @@ _Resource navigation list._
 - [Web 框架（Web Framework）](#web-框架)
 - [更多（More）](#更多)
 
+_镜像源 [Goproxy.cn](https://goproxy.cn/)_
+
 ## 技术规范标准
 
 _Official technical specifications._
