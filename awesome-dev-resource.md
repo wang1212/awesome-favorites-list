@@ -765,6 +765,7 @@ _see also 👉 https://github.com/cdleon/awesome-terminals_
   - [ripgrep](https://github.com/BurntSushi/ripgrep) - 类似于 `grep` 命令。
   - [duf](https://github.com/muesli/duf) - 类似于 `df` 命令，查看硬盘使用情况的工具，支持多个平台。
   - [curl](https://curl.se/) - 类似 `wget`，发送 HTTP 请求，支持多个平台。
+  - [zoxide](https://github.com/ajeetdsouza/zoxide) - 类似 `cd`，更智能的记录常用目录。
 
 - [Bash](https://www.gnu.org/software/bash/)
   - [bash-it](https://bash-it.readthedocs.io/) - bash 工具集，提供主题等功能，类似 on-my-zsh。
@@ -772,6 +773,7 @@ _see also 👉 https://github.com/cdleon/awesome-terminals_
 
 - [Z-Shell](https://www.zsh.org/)
   - [on-my-zsh](https://ohmyz.sh/) - 管理 Z-Shell 配置的框架。
+  - [powerlevel10k](https://github.com/romkatv/powerlevel10k) - zsh 主题。
 
 - [The Fuck](https://github.com/nvbn/thefuck) - 命令行错误命令纠正工具（多平台支持）。
 - [screenFetch](https://github.com/KittyKatt/screenFetch) - 显示系统详细信息。
@@ -782,6 +784,7 @@ _see also 👉 https://github.com/cdleon/awesome-terminals_
 - [BusyBox](https://www.busybox.net/) - 实用的 Linux 命令集合。
 - [LF](https://github.com/gokcehan/lf) - 终端文件管理工具命令包。
 - [wget](https://www.gnu.org/software/wget/) - 文件下载。
+- [atuin](https://github.com/atuinsh/atuin) - shell 历史查询、搜索。
 
 #### 其它
 
