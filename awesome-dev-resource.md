@@ -508,6 +508,7 @@ _AI native programming tools._
   - [Gemini CLI](https://github.com/google-gemini/gemini-cli) - **提供免费额度，Google 发布**。
   - [OpenAI Codex CLI](https://github.com/openai/codex) - 支持多个模型供应商，需提供 Key 才能使用，**OpenAI 发布**。
   - [OpenCode](https://github.com/anomalyco/opencode) - **开源**。
+    - [oh-my-opencode](https://github.com/code-yeongyu/oh-my-opencode) - 提供多种编码智能体技能。
   - [Aider](https://github.com/Aider-AI/aider)
   - [Warp](https://www.warp.dev/)
 
@@ -534,9 +535,13 @@ _AI native programming tools._
 
 - Spec Coding
   - [spec-kit](https://github.com/github/spec-kit)
- 
-- Skills
-  - [superpowers](https://github.com/obra/superpowers) - 一个完整的软件开发工作流程。
+
+- Tools
+  - MCP Server
+    - [Chrome DevTools MCP](https://github.com/ChromeDevTools/chrome-devtools-mcp) - Chrome DevTools 自动化调用调试分析。
+  - Skills
+    - [superpowers](https://github.com/obra/superpowers) - 一个完整的软件开发工作流程。
+    - [vercel-labs/agent-skills](https://github.com/vercel-labs/agent-skills) - React 应用开发和 Web UI 审查。
 
 - Others
   - [Tabby](https://tabby.tabbyml.com/) - 开源、自托管的 AI 编码引擎服务。
