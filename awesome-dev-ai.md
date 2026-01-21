@@ -110,7 +110,7 @@ _[SKILL.md](https://agentskills.io/) Resources._
 
 - Tools
   - [Skill_Seekers](https://github.com/yusufkaraaslan/Skill_Seekers) - 将文档网站、GitHub 存储库和 PDF 文件转换为 Claude AI 技能。
-  - [add-skill](https://github.com/vercel-labs/add-skill) - 从任何 git 仓库将 Skills 一键安装到本地的多个编码代理。
+  - [skills.sh](https://skills.sh/) - 从任何 git 仓库将 Skills 一键安装到本地的多个编码代理。
 
 <details>
   <summary>Marketplace</summary>
