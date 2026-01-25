@@ -510,7 +510,7 @@ _AI native programming tools._
   - [OpenCode](https://github.com/anomalyco/opencode) - **开源**。
     - [oh-my-opencode](https://github.com/code-yeongyu/oh-my-opencode) - 提供多种编码智能体技能。
   - [Aider](https://github.com/Aider-AI/aider)
-  - [Warp](https://www.warp.dev/)
+  - [amp](https://ampcode.com/) - 提供每日免费额度，Sourcegraph 发布。
 
 - AI Coding Agent - IDE
   - [cursor](https://www.cursor.com/)
@@ -713,6 +713,7 @@ _Coding Statistics._
 *Server remote management tools, such as SSH client, etc.*
 
 - Multi-platform
+  - [termius](https://termius.com/) - 现代化 SSH 客户端，提供免费版本，**商业产品**。
 
 - Windows
   - [WinSCP](https://winscp.net/) - 使用 SSH 的图形化 SFTP 客户端，同时支持 SCP 协议，用于远程文件传输，**开源免费**。
@@ -734,11 +735,13 @@ _Terminal, Console, Shell, and Command Line._
 _see also 👉 https://github.com/cdleon/awesome-terminals_
 
 - Multi-platform
-  - [hyper](https://hyper.is/)
+  - [hyper](https://hyper.is/) - 基于开放的 Web 标准，为命令行界面用户打造美观且可扩展的用户体验。
+  - [Tabby](https://tabby.sh/) - 全功能跨平台终端应用。
+  - [WezTerm](https://wezterm.org/) - Rust 编写的全功能高性能终端。
+  - [Alacritty](https://github.com/alacritty/alacritty) - Rust 编写的极简高性能终端。
+  - [Wave](https://www.waveterm.dev/) - AI-Native，集成了文件预览、文件编辑、人工智能、网页浏览和工作区组织。
   - [PowerShell](https://github.com/PowerShell/PowerShell)
-  - [Tabby](https://tabby.sh/)
-  - [WezTerm](https://wezterm.org/)
-  - [Alacritty](https://github.com/alacritty/alacritty)
+  - [Warp](https://www.warp.dev/) - 添加了 AI 功能的强大终端，**商业产品**。
 
 - Windows
   - [Windows Terminal](https://github.com/microsoft/terminal)
@@ -790,6 +793,10 @@ _see also 👉 https://github.com/cdleon/awesome-terminals_
 - [LF](https://github.com/gokcehan/lf) - 终端文件管理工具命令包。
 - [wget](https://www.gnu.org/software/wget/) - 文件下载。
 - [atuin](https://github.com/atuinsh/atuin) - shell 历史查询、搜索。
+
+#### Android
+
+- [termux](https://termux.dev/) - 一款 Android 终端模拟器和 Linux 环境应用 ，无需 root 权限或任何设置即可直接使用。
 
 #### 其它
 
