@@ -90,6 +90,7 @@ _AI native apps._
 
 - Local Agent
   - [AgentGPT](https://github.com/reworkd/AgentGPT) - 部署自托管的 AI 代理。
+  - [Clawdbot](https://clawd.bot/) - 个人私有化助理。
 
 [`Go Top ↑`](#awesome-software)
 
