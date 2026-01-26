@@ -775,6 +775,7 @@ _see also 👉 https://github.com/cdleon/awesome-terminals_
   - [duf](https://github.com/muesli/duf) - 类似于 `df` 命令，查看硬盘使用情况的工具，支持多个平台。
   - [curl](https://curl.se/) - 类似 `wget`，发送 HTTP 请求，支持多个平台。
   - [zoxide](https://github.com/ajeetdsouza/zoxide) - 类似 `cd`，更智能的记录常用目录。
+  - [witr](https://github.com/pranshuparmar/witr) - 聚合 `ps`/`top` 等命令的输出，探查系统进程为何会运行。
 
 - [Bash](https://www.gnu.org/software/bash/)
   - [bash-it](https://bash-it.readthedocs.io/) - bash 工具集，提供主题等功能，类似 on-my-zsh。
