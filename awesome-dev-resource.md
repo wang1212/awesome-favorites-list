@@ -505,6 +505,7 @@ _AI native programming tools._
 - AI Coding Agent - Terminal
   - _[cc-switch](https://github.com/farion1231/cc-switch) - 跨平台的配置管理工具。_
   - [Claude Code](https://www.anthropic.com/claude-code) - **Anthropic 发布**。
+    - [everything-claude-code](https://github.com/affaan-m/everything-claude-code) - 最佳实践。
   - [Gemini CLI](https://github.com/google-gemini/gemini-cli) - **提供免费额度，Google 发布**。
   - [OpenAI Codex CLI](https://github.com/openai/codex) - 支持多个模型供应商，需提供 Key 才能使用，**OpenAI 发布**。
   - [OpenCode](https://github.com/anomalyco/opencode) - **开源**。
