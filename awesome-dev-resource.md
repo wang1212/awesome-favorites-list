@@ -547,6 +547,13 @@ _AI native programming tools._
 - Others
   - [Tabby](https://tabby.tabbyml.com/) - 开源、自托管的 AI 编码引擎服务。
 
+### AI Coding Workspace
+
+- [Warp](https://www.warp.dev/) - **商业产品**。
+- [supacode](https://supacode.sh/)
+- [Conductor](https://www.conductor.build/)
+- [Commander](https://commanderai.app/)
+
 [`Go Top ↑`](#awesome-development-resources)
 
 ## 软件工具
@@ -739,10 +746,10 @@ _see also 👉 https://github.com/cdleon/awesome-terminals_
   - [hyper](https://hyper.is/) - 基于开放的 Web 标准，为命令行界面用户打造美观且可扩展的用户体验。
   - [Tabby](https://tabby.sh/) - 全功能跨平台终端应用。
   - [WezTerm](https://wezterm.org/) - Rust 编写的全功能高性能终端。
+  - [Ghostty](https://github.com/ghostty-org/ghostty) - 极高性能的终端模拟器。
   - [Alacritty](https://github.com/alacritty/alacritty) - Rust 编写的极简高性能终端。
   - [Wave](https://www.waveterm.dev/) - AI-Native，集成了文件预览、文件编辑、人工智能、网页浏览和工作区组织。
   - [PowerShell](https://github.com/PowerShell/PowerShell)
-  - [Warp](https://www.warp.dev/) - 添加了 AI 功能的强大终端，**商业产品**。
 
 - Windows
   - [Windows Terminal](https://github.com/microsoft/terminal)
