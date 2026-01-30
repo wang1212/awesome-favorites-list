@@ -85,6 +85,7 @@
 
 - 包管理器（Packages Manageer）
   - [npm](https://www.npmjs.com/) - Node.js 的官方包管理器。
+    - [npmx](https://npmx.dev/)
   - [Yarn](https://www.yarnpkg.com/)
   - [pnpm](https://pnpm.js.org/) - 支持 **Monorepo** 仓库。
   - [Bower](https://bower.io/) - （ :warning: 不再积极维护）
