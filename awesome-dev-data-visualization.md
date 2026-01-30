@@ -165,6 +165,7 @@ _[AWESOME DATA SCIENCE](https://github.com/academic/awesome-datascience)_
 - Others
   - Text 2 Diagram
     - [mermaid](https://github.com/mermaid-js/mermaid) - txt 文本生成流程图。
+      - [beautiful-mermaid](https://github.com/lukilabs/beautiful-mermaid) - SVG 和 ASCII 艺术。
     - [PlantUML](https://plantuml.com/) - 快速使用简洁的文本描述生成 UML 图。
     - [Pintora](https://pintorajs.vercel.app/) - 利用可扩展的文本绘制成图表。
     - [MathJax](https://www.mathjax.org/) - 浏览器中的数学公式可视化引擎。
