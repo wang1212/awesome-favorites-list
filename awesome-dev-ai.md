@@ -44,6 +44,7 @@ _News, also see 👉 [journals](awesome-dev-resource.md#技术期刊)._
 - [The 2025 AI Index Report](https://hai.stanford.edu/ai-index/2025-ai-index-report)
 - [aigc.cn](https://www.aigc.cn/) - AI 相关产品导航。
 - [猫目](https://maomu.com/) - AI 相关产品资讯，排行榜等等。
+- [Simon Willison’s Weblog](https://simonwillison.net/) - AI 相关技术博客。
 
 [`Go Top ↑`](#awesome-ai-dev-list)
 
