@@ -102,31 +102,6 @@ _[Model Context Protocol](https://modelcontextprotocol.io/introduction) Resource
 
 </details>
 
-### Skills
-
-_[SKILL.md](https://agentskills.io/) Resources._
-
-- [skills](https://github.com/anthropics/skills) - 官方的案例。
-- [oai-skills](https://github.com/eliasjudin/oai-skills) - OpenAI 泄露的官方技能。
-
-- Tools
-  - [Skill_Seekers](https://github.com/yusufkaraaslan/Skill_Seekers) - 将文档网站、GitHub 存储库和 PDF 文件转换为 Claude AI 技能。
-  - [skills.sh](https://skills.sh/) - 从任何 git 仓库将 Skills 一键安装到本地的多个编码代理。
-  - [OpenSkills](https://github.com/numman-ali/openskills) - 为所有编码代理提供 Claude Skills 支持。
-
-<details>
-  <summary>Marketplace</summary>
-
-  - [superpowers](https://github.com/obra/superpowers)
-  - https://github.com/ComposioHQ/awesome-claude-skills
-  - https://github.com/BehiSecc/awesome-claude-skills
-  - https://github.com/VoltAgent/awesome-claude-skills
-  - https://github.com/travisvn/awesome-claude-skills
-  - https://github.com/K-Dense-AI/claude-scientific-skills
-  - https://github.com/huggingface/skills
-
-</details>
-
 ### 其它
 
 _Others._
@@ -316,6 +291,31 @@ _Development Framework._
   - [Awesome AI Memory](https://github.com/topoteretes/awesome-ai-memory)
 
 [`Go Top ↑`](#awesome-ai-dev-list)
+
+## Plugin / Skills 
+
+_[SKILL.md](https://agentskills.io/) Resources._
+
+- [skills](https://github.com/anthropics/skills) - 官方的案例。
+- [oai-skills](https://github.com/eliasjudin/oai-skills) - OpenAI 泄露的官方技能。
+
+- Tools
+  - [skills.sh](https://skills.sh/) - 从任何 git 仓库将 Skills 一键安装到本地的多个编码代理，并进行管理和更新。
+  - [Skill_Seekers](https://github.com/yusufkaraaslan/Skill_Seekers) - 将文档网站、GitHub 存储库和 PDF 文件转换为 Claude AI 技能。
+  - [OpenSkills](https://github.com/numman-ali/openskills) - 为所有编码代理提供 Claude Skills 支持。
+
+<details>
+  <summary>Marketplace</summary>
+
+  - [superpowers](https://github.com/obra/superpowers)
+  - https://github.com/ComposioHQ/awesome-claude-skills
+  - https://github.com/BehiSecc/awesome-claude-skills
+  - https://github.com/VoltAgent/awesome-claude-skills
+  - https://github.com/travisvn/awesome-claude-skills
+  - https://github.com/K-Dense-AI/claude-scientific-skills
+  - https://github.com/huggingface/skills
+
+</details>
 
 ## 其它
 
