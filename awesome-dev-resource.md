@@ -853,6 +853,9 @@ _Network Proxy._
 
 - Windows
   - [v2rayN](https://github.com/2dust/v2rayN) - **开源**。
+
+- MacOS
+  - [ClashMac](https://clashmac.app/) - **开源**。
  
 - Android
   - [v2rayNG](https://github.com/2dust/v2rayNG) - **开源**。
