@@ -179,7 +179,9 @@ _[AWESOME DATA SCIENCE](https://github.com/academic/awesome-datascience)_
   - [P5.js](https://p5js.org/) - 可视化工具。
   - [Pts](https://ptsjs.org/) - 可视化工具。
   - [vis.js](https://visjs.org/) - 动态的，基于浏览器的可视化库。
-  - [Motion Canvas](https://motioncanvas.io/) - Canvas 动画视频编辑器。
+  - Video
+    - [remotion](https://www.remotion.dev/) - 使用 React 创建真正的 MP4 视频。
+    - [Motion Canvas](https://motioncanvas.io/) - Canvas 动画视频编辑器。
 
 #### 图表
 
