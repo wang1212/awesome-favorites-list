@@ -668,6 +668,7 @@ _Coding Statistics._
     - [Beej's Guide to Git](https://beej.us/guide/bggit/html/split/)
   - Client
     - [Sourcetree](https://www.sourcetreeapp.com/) - 免费的 Git 客户端，支持 Windows 和 Mac。
+    - [GitButler](https://github.com/gitbutlerapp/gitbutler) - 为现代人工智能驱动的工作流程而从零开始构建的版本控制工具，**开源**。
   - [A collection of .gitignore templates](https://github.com/github/gitignore) - 不同类型项目的 `.gitignore` 文件模板。
     - [gitignore.io](https://www.toptal.com/developers/gitignore) - 根据关键词生成 `.gitignore` 文件模板。
   - CLIs
