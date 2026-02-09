@@ -19,6 +19,7 @@
 - [实用工具（Tools）](#实用工具)
   - [文档（Docs）](#文档)
   - [命令行工具（CLI Tools）](./awesome-dev-resource.md#命令行工具)
+- [数据平台服务（Data platform services）](#数据平台服务)
 - [文章（Article）](#文章)
 - [更多（More）](#更多)
 
@@ -115,6 +116,16 @@ _Database Management System._
 
 - [apiDoc](https://apidocjs.com/) - 生成 RESTful web APIs 文档，支持多种后端语言。
 - [Swagger](https://swagger.io/tools/open-source/) - **开源**。
+
+[`Go Top ↑`](#awesome-web-back-end-list)
+
+## 数据平台服务
+
+_Data platform services._
+
+- User data analysis
+  - [umami](https://github.com/umami-software/umami) - 轻量的 Google Analytics 替代品。
+  - [PostHog](https://github.com/PostHog/posthog)
 
 [`Go Top ↑`](#awesome-web-back-end-list)
 
