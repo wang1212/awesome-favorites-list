@@ -76,7 +76,6 @@
 _AI native apps._
 
 - [NotebookLM](https://notebooklm.google.com/) - 知识理解与多模态资源生成。
-- [Stitch](https://stitch.withgoogle.com/) - 设计稿生成。
 
 - Local ChatGPT 
   - [Every front-end GUI client for ChatGPT API](https://github.com/billmei/every-chatgpt-gui)
