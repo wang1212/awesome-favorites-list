@@ -32,8 +32,6 @@
 - [在线资源（Online Resources）](#在线资源)
   - [在线实用工具（Online utility）](#在线实用工具)
   - [公共 API（Public API）](#公共-api)
-  - [设计工具（Design Tools）](#设计工具)
-  - [图像工具（Image Tools）](#图像工具)
   - [编程字体（Programming Font）](#编程字体)
   - [徽章图标服务（Badge Icon Service）](#徽章图标服务)
 - [AI 编程工具（AI Native Programming Tools）](#ai-编程工具)
@@ -419,31 +417,6 @@ _see also 👉  [Web 端软件资源](./awesome-software.md#浏览器端)_
   - [GIS Datasets](awesome-dev-gis.md#开放数据) - 开放地理数据集。
   - [QR Code Generator](https://goqr.me/api/) - 二维码生成。
   - [free-for.dev](https://free-for.dev/) - 免费开发资源。
-
-### 设计工具
-
-*Design Tools.*
-
-- [Code My UI](https://codemyui.com/) - Web UI 设计相关的代码片段。
-
-### 图像工具
-
-*Image tool.*
-
-#### 占位图像服务
-
-*Placeholder image service.*
-
-- [Placeholder.com](https://placehold.co/) - 图片、灰度图、文本。
-- [Fake images please?](https://fakeimg.pl/) - 灰度图、文本，**免费开源**。
-- [Dynamic Dummy Image Generator](https://dummyimage.com/) - 灰度图、文本。
-- [Lorem Picsum](https://picsum.photos/) - 图片。
-- [PlaceIMG](https://placeimg.com/) - 图片。
-- [Ipsum Image](https://ipsumimage.appspot.com/) - 灰度图、文本。
-
-#### 动画
-
-- [LottieFiles](https://lottiefiles.com/) - 动画文件，适用于 Web 与移动客户端开发。
 
 ### 编程字体
 
