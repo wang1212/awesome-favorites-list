@@ -335,6 +335,9 @@
   - Emoji
     - [Emoji Mart](https://missive.github.io/emoji-mart/) - emoji 表情选择组件。
     - [Frimousse](https://frimousse.liveblocks.io/)
+  - Avatars
+    - [boring-avatars](https://boringavatars.com/) - 随机生成基于 SVG 的自定义头像。
+    - [react-nice-avatar](https://github.com/dapi-labs/react-nice-avatar) - SVG 头像。（ :warning: 不再更新）
   - [react-responsive](https://github.com/contra/react-responsive) - 响应式 UI 工具组件。
   - [use-count-up](https://github.com/vydimitrov/use-count-up) - 计数器。
   - [kbar](https://kbar.vercel.app/) - 为页面添加键盘快捷键导航功能界面。
@@ -342,7 +345,6 @@
   - [react-sketch-canvas](https://github.com/vinothpandian/react-sketch-canvas) - 使用 SVG 作为画布的 React 手绘矢量绘图组件。
   - [react-syntax-highlighter](https://github.com/react-syntax-highlighter/react-syntax-highlighter) - 语法高亮组件。
   - [planby](https://planby.netlify.app/) - 时间线组件。
-  - [boring-avatars](https://boringavatars.com/) - 随机生成基于 SVG 的自定义头像。
   - [react-chrono](https://react-chrono.prabhumurthy.com/) - 时间线组件。
   - [cmdk](https://github.com/pacocoursey/cmdk) - 命令菜单。
   - [Vaul](https://vaul.emilkowal.ski/) - 抽屉组件，适配移动端手势。
