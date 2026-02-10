@@ -19,6 +19,7 @@
 - [在线工具（Online Tools）](#在线工具)
 - [阅读（Reading）](awesome-reading.md)
 - [软件（Software）](awesome-software.md)
+- [设计（Design）](awesome-design.md)
 - 软件开发（Software Development）
   - [:+1: 开源软件开发团队（Development Team）](awesome-dev-team.md)
   - [:page_facing_up: 开发备忘单（Development Cheat Sheet）](awesome-dev-cheat-sheet.md)
