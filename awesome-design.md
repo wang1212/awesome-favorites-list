@@ -12,6 +12,7 @@
 _Resource navigation list._
 
 - [在线资源（Online Resources）](#在线资源)
+  - [设计原则（Design Principles）](#设计原则)
   - [设计工具（Design Tools）](#设计工具)
   - [配色方案（Color Scheme）](#配色方案)
   - [图像工具（Image Tools）](#图像工具)
@@ -22,29 +23,32 @@ _Resource navigation list._
 
 _Online Resources._
 
+### 设计原则
+
+_Design Principles._
+
+- [Design Systems Database](https://designsystems.surf/) - 一流的设计系统，其组件和基础参考来自顶级科技公司和领先的 UI 团队。
+- [lawsofux](https://lawsofux.com/) - 构建用户界面时可以参考的最佳实践。
+
 ### 设计工具
 
 *Design Tools.*
 
-- [Design Systems Database](https://designsystems.surf/) - 一流的设计系统，其组件和基础参考来自顶级科技公司和领先的 UI 团队。
+- [Dribbble](https://dribbble.com/) - 设计风格参考。
+- [lapa](https://www.lapa.ninja/) - 主流的落地页设计参考。
+- [refero](https://refero.design/) - 最大的网页和 iOS UI/UX 设计灵感库。
+- [Untitled UI](https://www.untitledui.com/) - 全球最大的 Figma UI 工具包和 React 组件库。
 - [Free Resources](https://cursorup.com/resources/) - 免费的设计资源。
 - [设计师网址导航](https://hao.uisdc.com/)
 - [设计导航](http://hao.shejidaren.com/index.html)
 - [Boss 设计](https://www.bossdesign.cn/) - 收集国内外设计素材资源的网站。
-- [Dribbble](https://dribbble.com/)
 - [UI 中国用户体验设计平台](https://www.ui.cn/)
 - [花瓣网](https://huaban.com/) - 设计素材网站。
 - [Zoomstock](https://zoomstock.com/) - 搜索引擎，可索引来自免费顶级图片网站的数百万张照片和插图。
-- [BGJar](https://bgjar.com/) - 在线 SVG 背景图生成。
-- [Trianglify.io](https://trianglify.io/) - 生成三角网 SVG 背景图。
-- [Hero Patterns](http://www.heropatterns.com/) - 一些 SVG 背景图。
-- [Get Waves](https://getwaves.io/) - 生成波浪 SVG 背景图。
-- [Cool Backgrounds](https://coolbackgrounds.io/) - 利用渐变，生成 PNG 背景图。
 - [namelix](https://namelix.com/) - 输入关键字，利用人工智能生成品牌名称。
 - [hatchful](https://hatchful.shopify.com/) - logo 设计。
 - [logofury](https://www.logofury.com/) - logo 设计。
 - [Font Pair](https://fontpair.co/) - 排版工具。
-- [Everything Fonts](https://everythingfonts.com/) - 字体处理。
 - [CG Society](https://cgsociety.org/)
 - [Code My UI](https://codemyui.com/) - Web UI 设计相关的代码片段。
 
@@ -79,6 +83,14 @@ _Online Resources._
 #### 动画
 
 - [LottieFiles](https://lottiefiles.com/) - 动画文件，适用于 Web 与移动客户端开发。
+
+#### 其它
+
+- [BGJar](https://bgjar.com/) - 在线 SVG 背景图生成。
+- [Trianglify.io](https://trianglify.io/) - 生成三角网 SVG 背景图。
+- [Hero Patterns](http://www.heropatterns.com/) - 一些 SVG 背景图。
+- [Get Waves](https://getwaves.io/) - 生成波浪 SVG 背景图。
+- [Cool Backgrounds](https://coolbackgrounds.io/) - 利用渐变，生成 PNG 背景图。
 
 ### 素材资源
 
@@ -116,6 +128,7 @@ _Material Resources._
   - [fontfamily.io](http://fontfamily.io/) - 查看字体在各个平台的兼容性。
   - [Modern Font Stacks](https://modernfontstacks.com/) - 现代字体堆栈。
   - [uifonts](https://www.uifonts.app/) - 实时预览字体效果。
+  - [Everything Fonts](https://everythingfonts.com/) - 字体处理。
 
 - 字体资源
   - [Google Fonts](https://fonts.google.com/) - 免费开源的字体集合。
@@ -163,6 +176,7 @@ _Software interface design, prototype drawing design, etc._
 - UI/UX
   - [Stitch](https://stitch.withgoogle.com/) - AI Native 设计稿生成，**Google 发布**。
   - [pencil](https://www.pencil.dev/)
+  - [figma](https://www.figma.com/)
 
 - 原型图（Prototype）
   - [Pencil](http://pencil.evolus.vn/) - 原型图工具，**开源软件**。
