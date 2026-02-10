@@ -97,6 +97,7 @@
 - 事件（Events）
   - [React Swipeable](https://formidable.com/open-source/react-swipeable/) - 滑动事件处理。
   - [react-idle-timer](https://idletimer.dev/) - 用户交互检测。
+  - [facehash](https://www.facehash.dev/)
 
 - 其它（Others）
   - [react-use](https://github.com/streamich/react-use) - 一套 hook 工具包。
