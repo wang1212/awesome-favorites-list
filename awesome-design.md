@@ -129,6 +129,7 @@ _Material Resources._
   - [Modern Font Stacks](https://modernfontstacks.com/) - 现代字体堆栈。
   - [uifonts](https://www.uifonts.app/) - 实时预览字体效果。
   - [Everything Fonts](https://everythingfonts.com/) - 字体处理。
+  - [cn-font-split](https://github.com/KonghaYao/cn-font-split) - 字体分割工具。
 
 - 字体资源
   - [Google Fonts](https://fonts.google.com/) - 免费开源的字体集合。
