@@ -457,6 +457,7 @@
 ##### 其它（Others）
 
 - [shadcn/ui](https://ui.shadcn.com/)
+  - [tweakcn.com](https://tweakcn.com/) - 设计 shadcn/ui 主题。
 - [UIkit](https://getuikit.com/) - 轻量级的现代化前端模块化 CSS 框架。
 - [Framework7](https://framework7.io/) - 跨平台 UI 库，支持 Android/ios/Desktop 平台，且主题样式设计适配相应平台。
   - [Tailwind Mobile](https://tailwind-mobile.com/)
