@@ -188,6 +188,7 @@ _[SKILL.md](https://agentskills.io/) Resources._
 <details>
   <summary>Marketplace</summary>
 
+  - [skillsmp](https://skillsmp.com/)
   - [superpowers](https://github.com/obra/superpowers)
   - https://github.com/ComposioHQ/awesome-claude-skills
   - https://github.com/BehiSecc/awesome-claude-skills
