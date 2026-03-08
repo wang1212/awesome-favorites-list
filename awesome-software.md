@@ -73,7 +73,7 @@
 
 ## AI Native
 
-_AI native apps._
+_AI native apps. see also [awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps)_
 
 - [NotebookLM](https://notebooklm.google.com/) - 知识理解与多模态资源生成。
 
