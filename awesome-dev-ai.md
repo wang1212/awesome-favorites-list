@@ -22,6 +22,7 @@ _（Recommend） :point_right: [awesome-artificial-intelligence](https://github.
 - [工具（Tools）](#工具)
   - [Skills](#skills)
 - [开发框架（Development Framework）](#开发框架)
+- [智能体系统（Agent System）](#智能体系统)
 - [其它（Others）](#其它)
 
 ## 资讯
@@ -317,6 +318,11 @@ _Development Framework._
   - [Awesome AI Memory](https://github.com/topoteretes/awesome-ai-memory)
 
 [`Go Top ↑`](#awesome-ai-dev-list)
+
+## 智能体系统
+
+- [openclaw](https://github.com/openclaw/openclaw)
+- [hermes-agent](https://github.com/nousresearch/hermes-agent)
 
 ## 其它
 
