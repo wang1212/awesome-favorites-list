@@ -18,6 +18,7 @@
 - [数据库（Database）](#数据库)
 - [实用工具（Tools）](#实用工具)
   - [文档（Docs）](#文档)
+  - [日志（Logs）](#日志)
   - [命令行工具（CLI Tools）](./awesome-dev-resource.md#命令行工具)
 - [数据平台服务（Data platform services）](#数据平台服务)
 - [文章（Article）](#文章)
@@ -116,6 +117,10 @@ _Database Management System._
 
 - [apiDoc](https://apidocjs.com/) - 生成 RESTful web APIs 文档，支持多种后端语言。
 - [Swagger](https://swagger.io/tools/open-source/) - **开源**。
+
+### 日志
+
+- [logdy](https://logdy.dev/)
 
 [`Go Top ↑`](#awesome-web-back-end-list)
 
