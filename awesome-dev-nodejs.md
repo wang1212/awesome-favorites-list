@@ -311,6 +311,7 @@
   - AST - Abstract Syntax Tree
     - [acorn](https://github.com/acornjs/acorn) - JavaScript AST 解析工具。
     - [ts-morph](https://ts-morph.com/) - TypeScript AST 解析工具。
+    - [meriyah](https://github.com/meriyah/meriyah) - 高性能轻量级 AST 解析。
   - [jscpd](https://github.com/kucherenko/jscpd) - 重复代码检测。
 
 - 代码版本管理（Code version management ）
@@ -424,6 +425,7 @@
   - [minimatch](https://github.com/isaacs/minimatch)
   - [globby](https://github.com/sindresorhus/globby) - 基于 `fast-glob`，模式匹配。
   - [braces](https://github.com/micromatch/braces) - 大括号模式匹配。
+  - [picomatch](https://github.com/micromatch/picomatch) - 完全支持标准和扩展的 Bash glob 功能，包括花括号、extglobs、POSIX 括号和正则表达式。
 
 - 二维码（QR Code）
   - [node-qrcode](https://github.com/soldair/node-qrcode) - 二维码生成。
