@@ -330,12 +330,14 @@
   - [fuzzy](https://github.com/mattyork/fuzzy) - （ :warning: 不再更新）
   - [Stork](https://stork-search.net/)
   - [Orama Search](https://oramasearch.com/)
-  - [Fuse.js](https://fusejs.io/) - 模糊搜索工具。
+  - [Fuse.js](https://fusejs.io/) - 支持多字段搜索、加权搜索、以及高度可定制的模糊匹配算法。
   - [fuzzysort](https://github.com/farzher/fuzzysort) - 模糊搜索并排序。
   - [FlexSearch](https://github.com/nextapps-de/flexsearch)
   - [search-index](https://github.com/fergiemcdowall/search-index)
   - [MiniSearch](https://lucaong.github.io/minisearch/)
   - [pagefind](https://pagefind.app/) - 页面搜索工具。
+  - [uFuzzy](https://github.com/leeoniya/uFuzzy) - 轻量、高效的模糊搜索。
+  - [match-sorter](https://github.com/kentcdodds/match-sorter) - 
 
 - 客户端数据库（Client Database）
   - [localForage](https://github.com/localForage/localForage) - 离线存储，对 IndexedDB、WebSQL、localStorage 的封装。
