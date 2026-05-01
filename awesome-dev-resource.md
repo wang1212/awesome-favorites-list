@@ -409,6 +409,7 @@ _see also 👉  [Web 端软件资源](./awesome-software.md#浏览器端)_
   - [Visual Crossing](https://www.visualcrossing.com/)
   - [Weatherbit.io](https://www.weatherbit.io/)
   - [Open-Meteo](https://open-meteo.com/) - 天气服务，**开源**。
+  - [wttr.in](https://github.com/chubin/wttr.in) - 一个面向控制台的天气预报服务。
 
 - 其它（Others）
   - [Public APIs](https://github.com/public-apis/public-apis) - 免费的公共 API 集合。
