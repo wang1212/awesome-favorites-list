@@ -55,6 +55,7 @@
   - [世界银行公开数据](https://data.worldbank.org.cn/)
   - [中国人民银行](http://www.pbc.gov.cn/)
   - [中国外汇交易中心](https://www.chinamoney.com.cn/)
+  - [China Data Portal](https://chinadata.live/) - 最全面的中国官方数据英文门户网站——涵盖海关贸易流量、经济指标、能源、人口统计等。所有数据均免费，且均可引用。
 
 - 证券市场
   - [Google 财经](https://www.google.com/finance/?hl=zh)
