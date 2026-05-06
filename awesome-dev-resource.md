@@ -32,6 +32,7 @@
 - [在线资源（Online Resources）](#在线资源)
   - [在线实用工具（Online utility）](#在线实用工具)
   - [公共 API（Public API）](#公共-api)
+  - [开放数据集（Open Dataset）](#开放数据集)
   - [编程字体（Programming Font）](#编程字体)
   - [徽章图标服务（Badge Icon Service）](#徽章图标服务)
 - [AI 编程工具（AI Native Programming Tools）](#ai-编程工具)
@@ -414,10 +415,17 @@ _see also 👉  [Web 端软件资源](./awesome-software.md#浏览器端)_
 - 其它（Others）
   - [Public APIs](https://github.com/public-apis/public-apis) - 免费的公共 API 集合。
   - [Free Public APIs](https://www.freepublicapis.com/)
-  - [Awesome Public Real-Time Datasets and Sources](https://github.com/bytewax/awesome-public-real-time-datasets) - 
+  - [Awesome Public Real-Time Datasets and Sources](https://github.com/bytewax/awesome-public-real-time-datasets)
   - [GIS Datasets](awesome-dev-gis.md#开放数据) - 开放地理数据集。
   - [QR Code Generator](https://goqr.me/api/) - 二维码生成。
   - [free-for.dev](https://free-for.dev/) - 免费开发资源。
+
+### 开放数据集
+
+_Open dataset._
+
+- [Hipo/university-domains-list](https://github.com/Hipo/university-domains-list) - 大学域名和名称数据列表及 API。
+- [NateScarlet/holiday-cn](https://github.com/NateScarlet/holiday-cn) - 中国法定节假日数据。
 
 ### 编程字体
 
