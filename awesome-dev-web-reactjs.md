@@ -98,6 +98,9 @@
   - [React Swipeable](https://formidable.com/open-source/react-swipeable/) - 滑动事件处理。
   - [react-idle-timer](https://idletimer.dev/) - 用户交互检测。
   - [facehash](https://www.facehash.dev/)
+ 
+- Web API
+  - [react-speech-recognition](https://github.com/JamesBrill/react-speech-recognition) - [Web Speech API.](https://developer.mozilla.org/en-US/docs/Web/API/SpeechRecognition) Hook API。
 
 - 其它（Others）
   - [react-use](https://github.com/streamich/react-use) - 一套 hook 工具包。
