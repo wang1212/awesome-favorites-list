@@ -312,6 +312,7 @@
   - [Editable](https://docs.editablejs.com/) - 可扩展的富文本编辑器框架。
   - [BlockNote](https://www.blocknotejs.org/) - 基于块的富文本编辑器。
   - [MDXEditor](https://mdxeditor.dev/) - Markdown 编辑器。
+  - [@monaco-editor/react](https://github.com/suren-atoyan/monaco-react) - [monaco-editor](https://microsoft.github.io/monaco-editor/) 的 React 封装，直接可用，无需构建。
 
 - 加载器（Loading / Spinners）
   - [React Spinners](https://www.davidhu.io/react-spinners/) - 丰富的 Loading 动画。
