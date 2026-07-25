@@ -300,6 +300,7 @@
   - [Grunt](https://gruntjs.com/)
   - [esbuild](https://esbuild.github.io/) - Go 编写的代码编译转换和打包工具。
   - [Parcel](https://parceljs.org/)
+  - [lightningcss](https://github.com/parcel-bundler/lightningcss) - Rust 编写的高性能 CSS 编译、打包工具。
 
 - 代码静态分析（Code Static Analysis）
   - [ESLint](https://eslint.org/) - JavaScript 语法规则检查工具。
