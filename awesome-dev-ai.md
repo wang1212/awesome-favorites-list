@@ -209,6 +209,7 @@ _[SKILL.md](https://agentskills.io/) Resources._
 - Codebase 2 Prompt
   - [Repomix](https://repomix.com/) - 将整个代码库打包成一个 AI 友好的文件。
   - [code2prompt](https://github.com/mufeedvh/code2prompt)
+  - [DevProjex](https://github.com/Avazbek22/DevProjex) - 通过快速的 GUI 和 CLI，使用目录树、文件内容、Token 统计、Smart Ignore、预览和多格式导出，构建整洁且适用于 AI 的项目上下文。
 - Codebase Analysis
   - [deepwiki](https://deepwiki.org/) - 在线为开源仓库提供文档 AI 问答服务。
     - [deepwiki-open](https://github.com/AsyncFuncAI/deepwiki-open)
