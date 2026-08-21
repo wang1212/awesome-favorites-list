@@ -51,6 +51,7 @@ _Design Principles._
 - [Font Pair](https://fontpair.co/) - 排版工具。
 - [CG Society](https://cgsociety.org/)
 - [Code My UI](https://codemyui.com/) - Web UI 设计相关的代码片段。
+- [Codex Theme Builder](https://codextheme.tools) - 免费的浏览器 CSS 主题生成器，用于 OpenAI Codex CLI。
 
 ### 配色方案
 
@@ -91,6 +92,7 @@ _Design Principles._
 - [Hero Patterns](http://www.heropatterns.com/) - 一些 SVG 背景图。
 - [Get Waves](https://getwaves.io/) - 生成波浪 SVG 背景图。
 - [Cool Backgrounds](https://coolbackgrounds.io/) - 利用渐变，生成 PNG 背景图。
+- [Image to Crochet Pattern](https://imagetocrochetpattern.com) - 把照片转成钩针图样的免费浏览器工具。
 
 ### 素材资源
 

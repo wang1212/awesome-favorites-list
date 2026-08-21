@@ -51,6 +51,11 @@
 - [Downdetector](https://downdetector.com/) - 全球服务实时监控。
 
 - 实用工具（Utils）
+  - [WattsCalc](https://wattscalc.com) - 免费电器功耗与电费计算器，无需注册。
+  - [Lawn Mowing Cost Calculator](https://lawnmowingcalculator.com) - 按面积和单价估算割草费用。
+  - [Embroidery Pricing Calculator](https://embroiderypricingcalculator.com) - 按针数估算刺绣报价。
+  - [Pressure Washer Fix](https://pressurewasherfix.com) - 高压清洗机故障排查与配件查询。
+  - [SkyCOTL Tools](https://skycotl.tools) - Sky: Children of the Light 免费在线助手。
   - [Google Fonts](https://fonts.google.com/) - 免费开源的字体集合。
   - [Google Noto Fonts](https://www.google.com/get/noto/) - 免费可供所有人使用的，支持全球大部分语言的字体，**Google 发布**。
   - [Fontshare](https://www.fontshare.com/) - 可免费商用的字体集合。
