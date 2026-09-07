@@ -73,6 +73,7 @@
   - [Resume Templates (resumegenius.com)](https://resumegenius.com/resume-templates)
   - [Professional resume templates (Indeed)](https://www.indeed.com/profile/resume-templates)
   - [Resume Templates (zety.com)](https://zety.com/resume-templates-1)
+  - [ResumeAI](https://withresumeai.com/) — AI resume builder + free ATS checker (3/day anonymous, 10/day free account); State of ATS 2026
   - [Resume templates (canva.com)](https://www.canva.com/resumes/templates/)
 
 [`Go Top ↑`](#awesome-favorites-list)
