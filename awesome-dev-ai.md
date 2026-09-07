@@ -290,6 +290,7 @@ _Development Framework._
 - Chatbot UI
   - [assistant-ui](https://github.com/Yonom/assistant-ui)
     - [Tool UI](https://www.tool-ui.com/)
+  - [Markstream](https://github.com/Simon-He95/markstream-vue) - 面向 AI 对话流式输出的 Markdown 渲染器，支持 Vue、React、Svelte、Angular，内置 Mermaid、KaTeX 与代码高亮。
   - [Vercel AI SDK - AI Elements](https://ai-sdk.dev/elements)
   - [nlux](https://docs.nlkit.com/nlux)
 
