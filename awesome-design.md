@@ -91,6 +91,7 @@ _Design Principles._
 - [Hero Patterns](http://www.heropatterns.com/) - 一些 SVG 背景图。
 - [Get Waves](https://getwaves.io/) - 生成波浪 SVG 背景图。
 - [Cool Backgrounds](https://coolbackgrounds.io/) - 利用渐变，生成 PNG 背景图。
+- [小鹿 Image（DeerImage）](https://deerimage.com/) - 免费免登录的浏览器端图片工具，支持压缩、格式转换、调整尺寸和证件照制作，图片本地处理不上传。
 
 ### 素材资源
 
