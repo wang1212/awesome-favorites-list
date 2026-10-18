@@ -327,6 +327,7 @@ _（Recommend）国内可访问的**非官方**扩展商店：_
 - Others
   - [Module Art](https://moduleart.github.io/) - 软件集合，包含图片浏览器、录屏软件等，**开源软件**。
   - [rime](https://rime.im/) - 输入法算法框架，**开源软件**。
+  - [AltTab](https://alt-tab.app/) - 让 Mac 像 Windows 应用切换窗口。`MacOS`
 
 #### 粘贴板
 
