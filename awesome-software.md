@@ -547,7 +547,8 @@ _（Recommend）国内可访问的**非官方**扩展商店：_
 - [Process Lasso](https://bitsum.com/) - 实时的 CPU 资源自动调度，保证系统级别的响应能力，**提供免费版本**。
 - [stats](https://github.com/exelban/stats) - 系统信息监视器，**开源软件**。`MacOS`
 - [Rainmeter](https://www.rainmeter.net/) - Windows 桌面自定义小工具，**开源软件**。
-- [Ice](https://github.com/jordanbaird/Ice) - 菜单栏管理工具，**开源软件**。`MacOS`
+- [Ice](https://github.com/jordanbaird/Ice) - 菜单栏管理工具，**开源软件**。`MacOS`（ :warning: 不再更新）
+- [Thaw](github.com/thaw-app/) - 菜单栏管理工具，**开源软件**。`MacOS`
 
 #### 磁盘清理
 
