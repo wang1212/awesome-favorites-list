@@ -59,6 +59,7 @@
   - [DocTranslator](https://www.onlinedoctranslator.com/zh-CN/) - 在线文档翻译工具，以及 PDF 转 Word 无水印等。
   - [HiPDF](https://www.hipdf.com/) - PDF 在线处理工具。
   - [Smallpdf](https://smallpdf.com/cn) - PDF 在线处理工具，**提供 Chrome 扩展**。
+  - [FileOnTap](https://fileontap.com/heic-to-png/) - 免费在线图片格式转换（HEIC 转 PNG），浏览器端处理，文件不上传。
   - [AudioMass](https://audiomass.co/) - 音频文件在线编辑软件。
   - [ProductHunt](https://www.producthunt.com/) - 产品发布分享。
   - [Slant](https://www.slant.co/) - 搜索最佳实践。
