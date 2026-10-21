@@ -74,6 +74,7 @@
     - [Web Platform Status](https://webstatus.dev/)
     - [Can I email](https://www.caniemail.com/) - 可以查询特定 Web API（H5、CSS3）在各个邮件客户端平台的实现和标准化状态，**非官方网站**。
     - [compatibility table](https://kangax.github.io/compat-table/) - 可以查询 ECMAScript API 在各平台实现的状态，**非官方网站**。
+    - [OpenPWA 兼容性表](https://openpwa.net/zh/compatibility/) - 按能力逐项列出 PWA 相关 Web API 在各浏览器的支持情况，中英双语，**非官方网站**。
     - [web-platform-tests](https://wpt.fyi/)
     - Dataset
       - [browser-compat-data](https://github.com/mdn/browser-compat-data/) - MDN 网站上的 Web 技术兼容性数据。
@@ -707,6 +708,7 @@
 - [Progressive Web Apps](https://web.dev/progressive-web-apps/) - PWA 应用相关文章。
 - [Add a web app manifest](https://web.dev/add-manifest/) - PWA 应用 `manifest.webmanifest` 文件中建议的字段。
 - [What PWA Can Do Today](https://whatpwacando.today/) - 在线测试 PWA 应用可以调用的 Web API。
+- [OpenPWA](https://openpwa.net/zh/) - 渐进式 Web 应用技术参考站：兼容性表、各平台（iOS Safari 等）安装与推送行为说明、开发指南，中英双语。
 - [Progressier](https://progressier.com/) - 轻松创建 PWA。
 - [WorkBox](https://developers.google.com/web/tools/workbox/) - Google 专门为构建 PWA （Progressive Web App，渐进式 Web 应用）提供的一套开发工具，支持多个平台，并提供了方便的 webpack 插件。
 
