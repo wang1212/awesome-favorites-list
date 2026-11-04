@@ -168,6 +168,7 @@ _Material Resources._
   - [Font Awesome](https://fontawesome.com/) - 丰富的图标库，提供**免费版**。
   - [IconPark](https://iconpark.bytedance.com/official) - **开源免费**的图标库，**字节跳动公司发布**。
   - [theSVG](https://thesvg.org/) - 一个包，所有品牌图标。
+  - [Koboyo Icons](https://koboyo.com/icons) - 手绘风格图标。
 
 [`Go Top ↑`](#awesome-design-list)
 
