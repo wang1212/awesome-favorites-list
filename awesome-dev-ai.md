@@ -31,12 +31,17 @@ _News, also see 👉 [journals](awesome-dev-resource.md#技术期刊)._
 
 - [Artificial Analysis](https://artificialanalysis.ai/) - AI 模型与服务供应商评测分析。
 - [Hugging Face Blog](https://huggingface.co/blog/)
-- [OpenAI News](https://openai.com/news/)
+- OpenAI
+  - [OpenAI News](https://openai.com/news/)
+  - [OpenAI Developer Blog](https://developers.openai.com/blog)
+- Anthropic
+  - [Anthropic News](https://www.anthropic.com/news)
+  - [Anthropic Engineering Blog](https://www.anthropic.com/engineering)
 - [Google Research Blog](https://ai.googleblog.com/)
   - [Google Products News - Gemini](https://blog.google/products/gemini/)
   - [Google Developers](https://developers.google.com/)
   - [Google Labs](https://labs.google/)
-- [Anthropic News](https://www.anthropic.com/news)
+- [Simon Willison’s Weblog](https://simonwillison.net/) - AI 相关技术博客。
 - [TestingCatalog News](https://www.testingcatalog.com/) - AI 领域资讯。
 - [Dr. Andrew Ng](https://www.andrewng.org/) - 吴恩达的博客。
 - [ruder.io](https://www.ruder.io/)
@@ -45,7 +50,6 @@ _News, also see 👉 [journals](awesome-dev-resource.md#技术期刊)._
 - [The 2025 AI Index Report](https://hai.stanford.edu/ai-index/2025-ai-index-report)
 - [aigc.cn](https://www.aigc.cn/) - AI 相关产品导航。
 - [猫目](https://maomu.com/) - AI 相关产品资讯，排行榜等等。
-- [Simon Willison’s Weblog](https://simonwillison.net/) - AI 相关技术博客。
 
 [`Go Top ↑`](#awesome-ai-dev-list)
 
